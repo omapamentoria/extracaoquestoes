@@ -1,0 +1,25 @@
+{
+ "_sobre": "Trechos que o código não consegue copiar do PDF (fórmulas em glifos-imagem, caracteres sem tradução, alternativas desenhadas). Transcrito pelo Claude lendo a imagem da página em 28/09/2026. Conferir.",
+ "Q149": {
+  "enunciado": "Gabriel desafiou seu irmão Tomás a descobrir o número representado pela letra n na sequência a seguir. A soma de cada operação, quando adicionada ao resultado anterior, leva ao próximo resultado.\n\n\\(\\begin{array}{l} 1 + 4 \\Rightarrow 5 \\\\ 2 + 5 \\Rightarrow 12 \\\\ 3 + 6 \\Rightarrow 21 \\\\ 4 + 7 \\Rightarrow 32 \\\\ \\vdots \\quad \\vdots \\Rightarrow \\vdots \\\\ 8 + 11 \\Rightarrow n \\end{array}\\)\n\nApós analisar a sequência, Tomás acertou a resposta, afirmando que o número representado pela letra n é igual a",
+  "alternativas": {
+   "A": "51.",
+   "B": "60.",
+   "C": "77.",
+   "D": "96.",
+   "E": "117."
+  },
+  "nota": "texto transcrito lendo a imagem da página (caracteres que o PDF não traduz) — conferir. Linha de reticências verticais (⋮ ⋮ ⇒ ⋮) lida da imagem; a sequência continua no topo da coluna seguinte da página."
+ },
+ "Q124": {
+  "enunciado": "O astato é considerado o elemento mais raro da natureza. É impossível isolá-lo de fontes naturais, pois se estima que haja menos de 28 g em toda a crosta terrestre. Por isso, embora seja um elemento existente na natureza, só se consegue obtê-lo de forma artificial. O astato \\(\\left({}^{211}_{85}\\mathrm{At}\\right)\\) é produzido da mesma forma como foi descoberto: pelo bombardeamento de \\({}^{209}_{83}\\mathrm{Bi}\\) com partículas alfa de alta energia.\n\n{{fonte:1}}\n\nA equação nuclear balanceada que representa a obtenção do astato é:",
+  "alternativas": {
+   "A": "\\({}^{211}_{85}\\mathrm{At} + {}^{0}_{-1}\\beta \\rightarrow {}^{209}_{83}\\mathrm{Bi} + 2\\,{}^{1}_{0}\\mathrm{n}\\)",
+   "B": "\\({}^{211}_{85}\\mathrm{At} \\rightarrow {}^{4}_{2}\\alpha + {}^{209}_{83}\\mathrm{Bi}\\)",
+   "C": "\\({}^{209}_{83}\\mathrm{Bi} + 2\\,{}^{0}_{-1}\\beta \\rightarrow {}^{211}_{85}\\mathrm{At} + 2\\,{}^{1}_{0}\\mathrm{n}\\)",
+   "D": "\\({}^{209}_{83}\\mathrm{Bi} + {}^{4}_{2}\\alpha \\rightarrow {}^{211}_{85}\\mathrm{At}\\)",
+   "E": "\\({}^{209}_{83}\\mathrm{Bi} + {}^{4}_{2}\\alpha \\rightarrow {}^{211}_{85}\\mathrm{At} + 2\\,{}^{1}_{0}\\mathrm{n}\\)"
+  },
+  "nota": "texto transcrito lendo a imagem da página (caracteres que o PDF não traduz) — conferir. Notação nuclear digitada em LaTeX; os parênteses em volta de ²¹¹₈₅At estavam soltos no início da linha na extração e foram reposicionados conforme a página."
+ }
+}

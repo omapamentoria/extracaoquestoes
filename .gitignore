@@ -1,0 +1,9 @@
+# grandes ou regeneráveis (ficam no Google Drive)
+_banco/texto/
+_banco/piloto/
+_banco/codigo/_v*.py
+_banco/codigo/_novo*.py
+_banco/questoes/**/revisao/
+__pycache__/
+*.part
+_banco/codigo/extrair.py
