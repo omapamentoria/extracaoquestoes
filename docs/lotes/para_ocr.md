@@ -103,3 +103,8 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2783 — SIMULADO_ENEM 2019  1 — 93 de 93 questões PENDENTES (símbolos sem tradução) — 4-Primeiro dia.pdf
 * P2782 — SIMULADO_ENEM 2019  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 4- Segundo dia.pdf
 * P2779 — SIMULADO_ENEM 2019  1 — 94 de 94 questões PENDENTES (símbolos sem tradução) — 3-Primeiro dia.pdf
+* P2778 — SIMULADO_ENEM 2019  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 3- Segundo dia.pdf
+* P2775 — SIMULADO_ENEM 2019  1 — 91 de 91 questões PENDENTES (símbolos sem tradução) — 2-Primeiro dia.pdf
+* P2774 — SIMULADO_ENEM 2019  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 2- Segundo dia.pdf
+* P2771 — SIMULADO_ENEM 2019  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 1-Segundo dia.pdf
+* P2770 — SIMULADO_ENEM 2019  1 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 1-Primeiro dia.pdf
