@@ -28,3 +28,4 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P3670 — ENEM 2019 regular 2 — só 8 questões (esperado ~90) — caderno_de_questoes_2_dia_caderno_8_rosa_aplicacao_regular.pdf
 * P3669 — ENEM 2019 regular 1 — só 9 questões (esperado ~90) — caderno_de_questoes_1_dia_caderno_1_azul_aplicacao_regular.pdf
 * P2453 — ENEM 2019 PPL/reaplicação 2 — só 8 questões (esperado ~90) — BAIXA_PPL_2_DIA_CADERNO_7_AZUL.pdf
+* P2452 — ENEM 2019 PPL/reaplicação 1 — só 9 questões (esperado ~90) — BAIXA_PPL_1_DIA_CADERNO_1_AZUL.pdf
