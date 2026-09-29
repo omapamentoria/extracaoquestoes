@@ -79,7 +79,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2248 — UNICAMP 2023 regular 1 — só 6 questões em 17 páginas — unicamp2023_2fase_1dia_prova.pdf
 * P2243 — UNICAMP 2023 regular 2 — nenhuma questão — 2fase_2dia_prova completa.pdf
 * P2242 — UNICAMP 2023 regular  — só 8 questões em 99 páginas — unicamp2023_1fase_vs2.pdf
-* P2071 — UNESP 2023 regular  — nenhuma questão — UNESP2023_2fase_prova.pdf
 * P1625 — UERJ 2023 regular  — nenhuma questão — redacao_vestibular_2023.pdf
 * P1624 — UERJ 2023 regular  — nenhuma questão — prova_vetibular_2023.pdf
 * P1207 — FUVEST 2023 regular 2 — só 10 questões em 38 páginas — fuvest2023_2fase_2dia_prova.pdf
