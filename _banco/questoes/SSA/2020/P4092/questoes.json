@@ -1,0 +1,6896 @@
+[
+ {
+  "id": "P4092-Q001",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 1,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia a reportagem a seguir:\n\nPOR QUE OS CABELOS E AS UNHAS CRESCEM TANTO?\n\n**“***Seus cabelos e suas unhas são bem diferentes uns dos outros, mas eles são compostos a partir* *da mesma proteína de origem animal. Esta também é encontrada nas escamas do lagarto, nas* *penas da galinha e no casco da tartaruga, além de estar presente em muitos outros animais com* *diferentes funções.*\n\n{{fonte:1}}\n\nA que proteína a reportagem se refere?",
+  "fontes": [
+   "Disponível em: https://institutopensi.org.br/blog-saude-infantil/por-que-os-cabelos-e-as-unhas-crescem-tanto/ Adaptado Acesso em: jul., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Actina"
+   },
+   {
+    "letra": "B",
+    "texto": "Colágeno"
+   },
+   {
+    "letra": "C",
+    "texto": "Albumina"
+   },
+   {
+    "letra": "D",
+    "texto": "Fibrinogênio"
+   },
+   {
+    "letra": "E",
+    "texto": "Queratina"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.6,
+     72.58522000000005,
+     198.51791999999992,
+     83.62522000000001
+    ],
+    [
+     62.16,
+     102.94799999999998,
+     361.2192479999999,
+     113.98799999999994
+    ],
+    [
+     62.16,
+     124.51209999999992,
+     519.289728,
+     135.61065999999994
+    ],
+    [
+     62.14944000000003,
+     136.63497999999993,
+     519.253824,
+     147.19498
+    ],
+    [
+     62.14944,
+     148.75785999999994,
+     519.3551999999996,
+     159.31786
+    ],
+    [
+     62.14944,
+     160.75401999999997,
+     151.019232,
+     171.31402000000003
+    ],
+    [
+     96.96,
+     176.85299999999995,
+     519.1178879999999,
+     184.89300000000003
+    ],
+    [
+     440.4,
+     186.09299999999996,
+     519.18744,
+     194.13300000000004
+    ],
+    [
+     42.6,
+     205.788,
+     236.043984,
+     216.82799999999997
+    ],
+    [
+     42.6,
+     234.58799999999997,
+     94.57392,
+     245.62799999999993
+    ],
+    [
+     144.84,
+     234.58799999999997,
+     213.36288,
+     245.62799999999993
+    ],
+    [
+     253.56,
+     234.58799999999997,
+     320.766912,
+     245.62799999999993
+    ],
+    [
+     352.8,
+     234.58799999999997,
+     528.72624,
+     245.62799999999993
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q002",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 2,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a tirinha a seguir:\n\n{{img:1}}\n\nA molécula e o ser vivo são representados, respectivamente, por",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Ácido nucleico – bactéria."
+   },
+   {
+    "letra": "B",
+    "texto": "Carboidrato – alga."
+   },
+   {
+    "letra": "C",
+    "texto": "Enzima – protista."
+   },
+   {
+    "letra": "D",
+    "texto": "Fosfolipídio – coacervado."
+   },
+   {
+    "letra": "E",
+    "texto": "Proteína – fungo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q002_img1.png",
+    "pagina": 3,
+    "bbox": [
+     78.0,
+     284.7,
+     545.5,
+     718.3
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   3,
+   4
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.60432000000003,
+     269.02522,
+     193.02432000000002,
+     280.06522
+    ],
+    [
+     78.0,
+     284.72779909999997,
+     545.4835680000004,
+     718.27538
+    ]
+   ],
+   "4": [
+    [
+     42.6,
+     47.26800000000003,
+     359.42702400000013,
+     58.30799999999999
+    ],
+    [
+     42.6,
+     69.10799999999995,
+     189.31056,
+     80.14799999999991
+    ],
+    [
+     42.60000000000002,
+     81.82607999999993,
+     157.61472,
+     92.8660799999999
+    ],
+    [
+     42.588960000000014,
+     94.42271999999991,
+     152.091408,
+     105.46271999999988
+    ],
+    [
+     42.58896,
+     107.1407999999999,
+     192.39182399999999,
+     118.18079999999986
+    ],
+    [
+     42.58896,
+     119.73743999999988,
+     148.35216,
+     130.77743999999984
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p3.jpg",
+   "revisao/Q002_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q003",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 3,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a charge a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nNos girinos, conforme ilustrado na figura, as transformações sofridas pelo animal envolvem modelagem de tecidos. A cauda irá sofrer regressão para o animal ter sua forma definitiva por causa da ação de uma organela.\n\nAssinale a alternativa que apresenta a organela envolvida nessa função.",
+  "fontes": [
+   "Acesso em: jul., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Complexo de Golgi"
+   },
+   {
+    "letra": "B",
+    "texto": "Lisossomo"
+   },
+   {
+    "letra": "C",
+    "texto": "Mitocôndria"
+   },
+   {
+    "letra": "D",
+    "texto": "Peroxissomos"
+   },
+   {
+    "letra": "E",
+    "texto": "Retículo endoplasmático granular"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q003_img1.png",
+    "pagina": 4,
+    "bbox": [
+     42.0,
+     178.5,
+     554.7,
+     374.4
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.577920000000006,
+     157.64879999999982,
+     196.594752,
+     168.6887999999998
+    ],
+    [
+     42.0,
+     178.50004639999997,
+     554.7018433,
+     374.40000000000003
+    ],
+    [
+     442.44,
+     383.7331,
+     521.230392,
+     391.7731
+    ],
+    [
+     42.6,
+     423.348,
+     547.2119040000002,
+     434.38800000000003
+    ],
+    [
+     42.599999999999994,
+     435.94464,
+     547.2538559999988,
+     446.98464
+    ],
+    [
+     42.599999999999994,
+     448.66272,
+     170.4432,
+     459.70272
+    ],
+    [
+     42.6,
+     475.068,
+     396.7124160000005,
+     486.108
+    ],
+    [
+     42.6,
+     501.46799999999996,
+     157.582704,
+     512.508
+    ],
+    [
+     42.588959999999986,
+     514.18608,
+     116.62761599999999,
+     525.2260799999999
+    ],
+    [
+     42.577920000000006,
+     526.7827199999999,
+     120.822816,
+     537.8227199999999
+    ],
+    [
+     42.577920000000006,
+     539.5007999999999,
+     133.03195200000002,
+     550.5408
+    ],
+    [
+     42.566880000000026,
+     552.09744,
+     227.857824,
+     563.13744
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q003_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q004",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 4,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A membrana plasmática é constituída por lipídeos e proteínas. As proteínas são responsáveis por constituir sua porção sólida, podendo ser imersas ou associadas diretamente à bicamada lipídica. Cada tipo de membrana apresenta diferentes proteínas em sua constituição, uma vez que cada proteína tem variadas funções no organismo.\n\nEstabeleça a associação entre o modelo da proteína e sua função.\n\n{{img:1}}\n\n**FUNÇÃO**  \n**A Proteína de reconhecimento** - permite uma célula reconhecer outra e  \ninteragir com ela.  \n**B Proteína de adesão** - permite que as células se adiram umas às outras.\n\n**C Proteína carregadora** - interage especificamente com certas moléculas e  \níons, carregando-os através da membrana plasmática.  \n**D Proteína receptora** - permite a ligação com certas moléculas sinalizadoras,  \ndesencadeando processos celulares.\n\nAssinale a alternativa que apresenta as associações **CORRETAS**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I D, II C, III A, IV B"
+   },
+   {
+    "letra": "B",
+    "texto": "I D, II A, III B, IV C"
+   },
+   {
+    "letra": "C",
+    "texto": "I C, II B, III A, IV D"
+   },
+   {
+    "letra": "D",
+    "texto": "I C, II B, III D, IV A"
+   },
+   {
+    "letra": "E",
+    "texto": "I A, II D, III B, IV C"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q004_img1.png",
+    "pagina": 5,
+    "bbox": [
+     92.2,
+     69.8,
+     517.7,
+     197.6
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   4,
+   5
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.6,
+     590.028,
+     547.0904639999995,
+     601.068
+    ],
+    [
+     42.58896,
+     602.74608,
+     547.1677440000002,
+     613.78608
+    ],
+    [
+     42.588960000000014,
+     615.34272,
+     547.1754719999992,
+     626.38272
+    ],
+    [
+     42.588960000000014,
+     627.93936,
+     263.428704,
+     638.97936
+    ]
+   ],
+   "5": [
+    [
+     42.6,
+     47.270500000000084,
+     368.5140480000001,
+     58.31050000000005
+    ],
+    [
+     92.16,
+     69.84,
+     517.6800000000001,
+     197.5910399999999
+    ],
+    [
+     283.44,
+     212.54505999999992,
+     325.990116,
+     222.50505999999996
+    ],
+    [
+     105.96,
+     224.2681,
+     512.0154719999999,
+     235.87113999999997
+    ],
+    [
+     132.96,
+     236.98799999999994,
+     217.37736000000007,
+     248.0279999999999
+    ],
+    [
+     105.84,
+     250.06799999999998,
+     486.4068000000001,
+     261.67103999999995
+    ],
+    [
+     105.84,
+     275.86809999999997,
+     511.9926720000002,
+     287.47114
+    ],
+    [
+     132.96,
+     288.5881,
+     399.6487199999999,
+     299.6281
+    ],
+    [
+     105.84,
+     301.668,
+     512.0594880000002,
+     313.27104
+    ],
+    [
+     132.96,
+     314.388,
+     314.6508,
+     325.428
+    ],
+    [
+     42.6,
+     340.06319999999994,
+     366.66815999999994,
+     351.66623999999996
+    ],
+    [
+     42.6,
+     362.02799999999996,
+     157.742784,
+     373.068
+    ],
+    [
+     42.61104000000003,
+     374.74607999999995,
+     157.63238400000006,
+     385.78607999999997
+    ],
+    [
+     42.62208000000007,
+     387.34271999999993,
+     157.03622400000006,
+     398.38271999999995
+    ],
+    [
+     42.62208000000008,
+     400.0607999999999,
+     157.76486400000005,
+     411.10079999999994
+    ],
+    [
+     42.633120000000076,
+     412.6574399999999,
+     157.65446400000008,
+     423.6974399999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q004_p4.jpg",
+   "revisao/Q004_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q005",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 5,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia os textos a seguir:\n\nIsto era comum em Portugal, no século 18 e, muito provavelmente, também no Brasil. Beliscões e pisadas de pé estão associados ao “namoro cortês” e simbolizavam a vida rural.\n\n{{fonte:1}}\n\n{{img:1}}\n\n*“Estando a Maria encostada à borda do* *navio, o Leonardo fingiu que passava* *distraído por junto dela e assentou-lhe uma* *valente pisadela no pé direito. A Maria* *sorriu-se e deu-lhe também um tremendo* *beliscão nas costas da mão esquerda. Ao* *anoitecer, passou-se a mesma cena de* *pisadela e beliscão e, no dia seguinte,* *estavam os dois amantes tão extremosos e* *familiares que pareciam sê-lo de muitos* *anos.”*\n\n{{fonte:2}}\n\nAssinale a estrutura responsável pela sensação de dor descrita no texto.",
+  "fontes": [
+   "Disponível em: https://guiadoestudante.abril.com.br/estudo/o-beliscao-como-gesto-de-amor/ Acesso em: ago., 2019.",
+   "(Memórias de um Sargento de Milícias (1853), de Manuel Antônio de Almeida). Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Corpúsculo de Ruffini"
+   },
+   {
+    "letra": "B",
+    "texto": "Corpúsculo de Krause"
+   },
+   {
+    "letra": "C",
+    "texto": "Corpúsculo de Merkel"
+   },
+   {
+    "letra": "D",
+    "texto": "Corpúsculo de Pacini"
+   },
+   {
+    "letra": "E",
+    "texto": "Terminações nervosas livres"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q005_img1.png",
+    "pagina": 5,
+    "bbox": [
+     49.7,
+     509.0,
+     289.8,
+     712.1
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   5,
+   6
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.644160000000085,
+     437.97215999999986,
+     177.2074080000001,
+     449.0121599999999
+    ],
+    [
+     42.633120000000076,
+     463.2868799999998,
+     547.3697760000001,
+     474.32687999999985
+    ],
+    [
+     42.64416000000011,
+     475.8835199999998,
+     434.697744,
+     486.9235199999998
+    ],
+    [
+     135.0,
+     492.33299999999997,
+     547.27512,
+     500.373
+    ],
+    [
+     49.68,
+     509.04,
+     289.75534799999986,
+     712.08
+    ],
+    [
+     317.28,
+     524.7481,
+     533.4211200000001,
+     535.7881
+    ],
+    [
+     317.29104000000007,
+     537.34474,
+     533.3990400000001,
+     548.38474
+    ],
+    [
+     317.2800000000001,
+     550.06282,
+     533.4089760000002,
+     561.10282
+    ],
+    [
+     317.2800000000002,
+     562.65946,
+     533.4023520000002,
+     573.69946
+    ],
+    [
+     317.2689600000001,
+     575.2561000000001,
+     533.4001440000002,
+     586.2961
+    ],
+    [
+     317.2800000000002,
+     587.9741799999999,
+     533.4432000000002,
+     599.01418
+    ],
+    [
+     317.31312000000014,
+     600.57082,
+     533.3548800000002,
+     611.61082
+    ],
+    [
+     317.3352000000002,
+     613.2889,
+     533.3548800000002,
+     624.3289
+    ],
+    [
+     317.30208000000016,
+     625.88554,
+     533.4321600000001,
+     636.92554
+    ],
+    [
+     317.2910400000001,
+     638.48218,
+     533.4100800000001,
+     649.5221799999999
+    ],
+    [
+     317.30208000000005,
+     651.20026,
+     348.08712,
+     662.24026
+    ],
+    [
+     329.04,
+     662.973,
+     533.2632360000001,
+     671.013
+    ],
+    [
+     420.3663600000001,
+     672.33156,
+     533.3766000000002,
+     680.37156
+    ]
+   ],
+   "6": [
+    [
+     42.6,
+     47.270500000000084,
+     397.38033600000006,
+     58.31050000000005
+    ],
+    [
+     42.61104,
+     72.58522000000005,
+     169.22659200000004,
+     83.62522000000001
+    ],
+    [
+     42.599999999999994,
+     85.18186000000003,
+     172.93823999999995,
+     96.22185999999999
+    ],
+    [
+     42.599999999999966,
+     97.89994000000002,
+     171.02832,
+     108.93993999999998
+    ],
+    [
+     42.61103999999996,
+     110.49658,
+     168.026544,
+     121.53657999999996
+    ],
+    [
+     42.59999999999995,
+     123.21465999999998,
+     203.96174399999992,
+     134.25465999999994
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q005_p5.jpg",
+   "revisao/Q005_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q006",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 6,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\nAlimentação vegana deixou bebê italiano à beira da morte\n\nUm bebê italiano foi hospitalizado com um quadro de desnutrição por seguir uma dieta vegana promovida por seus pais – na qual qualquer comida com origem animal, como ovos ou leite de vaca, é proibida. Ele chegou ao hospital com baixos níveis de cálcio no organismo, \"apenas o suficiente para sobreviver...” Segundo a Organização Mundial de Saúde (OMS), o leite materno é indicado como único alimento até os seis meses do bebê. Desde o nascimento, o bebê deveria ter tido suporte de cálcio e ferro. O desmame deveria ter sido feito com leite de soja fortificado com cálcio, vitaminas B12 e D. Variações caseiras, como leite de soja e de arroz, não são recomendadas no primeiro ano de vida do bebê, pois têm “proporções erradas de proteína, gordura e carboidrato”.\n\n{{fonte:1}}\n\nSobre os compostos abordados no texto e sua importância para a saúde, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "Disponível em: https://www.vix.com/pt/bdm/bebe/522477/alimentacao-vegana-deixou-bebe-italiano-a-beira-da-morte-saiba-onde-foi-o-erro Acesso em: ago., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A vitamina D ou retinol, essencial para a visão e pele, é encontrada nos laticínios e verduras verdes. Sua deficiência causa o raquitismo em adultos e crianças."
+   },
+   {
+    "letra": "B",
+    "texto": "Carnes, nozes e cereais são ricos em vitamina B2 ou piridoxina que atua no metabolismo energético. Sua deficiência leva ao beribéri."
+   },
+   {
+    "letra": "C",
+    "texto": "O cálcio é encontrado no leite e derivados; participa da formação e manutenção de ossos e dentes, além de auxiliar na contração muscular e regular a pressão arterial. Sua deficiência provoca problemas de coagulação sanguínea."
+   },
+   {
+    "letra": "D",
+    "texto": "A vitamina B12 ou cobalamina é encontrada em carnes, ovos e laticínios. Atua na formação dos ácidos nucleicos e aminoácidos. Sua deficiência leva à anemia perniciosa."
+   },
+   {
+    "letra": "E",
+    "texto": "O arroz e a soja são polissacarídeos estruturais, ricos em amido, cuja função é a de reserva energética. Sua deficiência pode provocar câimbras."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.58895999999996,
+     161.12601999999993,
+     166.12876799999998,
+     172.1660199999999
+    ],
+    [
+     42.577919999999935,
+     186.4407399999999,
+     326.4461280000001,
+     197.48073999999986
+    ],
+    [
+     42.57791999999995,
+     211.75545999999986,
+     547.295808,
+     222.79545999999982
+    ],
+    [
+     42.57791999999995,
+     224.35209999999984,
+     547.2074880000002,
+     235.3920999999998
+    ],
+    [
+     42.56687999999994,
+     236.94873999999982,
+     547.2858719999999,
+     247.98873999999978
+    ],
+    [
+     42.56687999999997,
+     249.6668199999998,
+     547.2350879999997,
+     260.70681999999977
+    ],
+    [
+     42.57791999999996,
+     262.2634599999998,
+     547.2847679999991,
+     273.3034599999998
+    ],
+    [
+     42.57791999999996,
+     274.98153999999977,
+     547.110336,
+     286.0215399999998
+    ],
+    [
+     42.57791999999995,
+     287.57817999999975,
+     547.137936,
+     298.61817999999977
+    ],
+    [
+     42.577920000000006,
+     300.1748199999997,
+     393.5737440000003,
+     311.21481999999975
+    ],
+    [
+     57.12,
+     316.65299999999996,
+     547.2078479999998,
+     324.693
+    ],
+    [
+     463.18019999999984,
+     325.89095999999995,
+     547.2504599999999,
+     333.93095999999997
+    ],
+    [
+     42.59472000000005,
+     348.58665999999994,
+     547.1856479999991,
+     359.62665999999996
+    ],
+    [
+     42.59472000000005,
+     361.0618599999999,
+     99.90336000000005,
+     372.66489999999993
+    ],
+    [
+     42.6,
+     383.02799999999996,
+     547.28256,
+     394.068
+    ],
+    [
+     63.95136000000008,
+     395.74607999999995,
+     386.1924000000001,
+     406.78607999999997
+    ],
+    [
+     42.5889600000001,
+     408.34271999999993,
+     547.285872,
+     419.38271999999995
+    ],
+    [
+     63.94032000000004,
+     421.0607999999999,
+     277.48372800000004,
+     432.10079999999994
+    ],
+    [
+     42.60000000000005,
+     433.6574399999999,
+     547.357632,
+     444.6974399999999
+    ],
+    [
+     63.984480000000076,
+     446.2540799999999,
+     547.2428159999993,
+     457.2940799999999
+    ],
+    [
+     63.984480000000076,
+     458.97215999999986,
+     289.4709600000001,
+     470.0121599999999
+    ],
+    [
+     42.62208000000004,
+     471.56879999999984,
+     547.322304,
+     482.60879999999986
+    ],
+    [
+     63.984480000000076,
+     484.2868799999998,
+     427.1496960000001,
+     495.32687999999985
+    ],
+    [
+     42.62208000000004,
+     496.8835199999998,
+     547.3488,
+     507.9235199999998
+    ],
+    [
+     63.97344000000004,
+     509.4801599999998,
+     320.3023680000001,
+     520.5201599999998
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q006_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q007",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 7,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\nPor muito tempo consideradas meras coadjuvantes no funcionamento cerebral, as células gliais só entraram em evidência nos últimos anos, à medida que trabalhos começaram a comprovar sua importância para o desenvolvimento, a regeneração e a estruturação do sistema nervoso. Elas representam quase metade das células cerebrais – a outra metade são os neurônios.\n\n{{fonte:1}}\n\nEstabeleça a associação entre a célula e sua característica.\n\n{{img:1}}\n\nCélula de grande volume, que envolve os axônios dos neurônios fora e dentro do SNC, funcionando\n\nCélula que se enrola em torno do axônio dos neurônios dentro do SNC e constitui a bainha de mielina\n\nCélula nervosa, a única capaz de receber e propagar os estímulos, permitindo ao organismo responder\n\nAssinale a alternativa que apresenta as associações **CORRETAS**.",
+  "fontes": [
+   "Disponível em: https://revistapesquisa.fapesp.br/2013/02/11/os-astros-do-momento/adaptado Acesso em: ago., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I – D"
+   },
+   {
+    "letra": "B",
+    "texto": "II – A"
+   },
+   {
+    "letra": "C",
+    "texto": "III – C"
+   },
+   {
+    "letra": "D",
+    "texto": "IV – E"
+   },
+   {
+    "letra": "E",
+    "texto": "V – B"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q007_img1.png",
+    "pagina": 7,
+    "bbox": [
+     42.5,
+     66.2,
+     546.5,
+     388.3
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   6,
+   7
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.61104000000006,
+     547.5129599999998,
+     166.15084800000005,
+     558.5529599999998
+    ],
+    [
+     69.24,
+     568.668,
+     540.2052959999994,
+     579.708
+    ],
+    [
+     69.24,
+     581.3879999999999,
+     540.4062240000001,
+     592.428
+    ],
+    [
+     69.25104000000002,
+     593.98464,
+     540.3344639999993,
+     605.02464
+    ],
+    [
+     69.25104000000002,
+     606.70272,
+     510.88415999999984,
+     617.74272
+    ],
+    [
+     123.24,
+     625.293,
+     540.4356000000001,
+     633.333
+    ]
+   ],
+   "7": [
+    [
+     42.6,
+     47.270500000000084,
+     334.8144479999999,
+     58.31050000000005
+    ],
+    [
+     42.480000000000004,
+     66.24000000000001,
+     546.48,
+     388.317
+    ],
+    [
+     76.32,
+     250.437,
+     520.2933960000001,
+     260.39699999999993
+    ],
+    [
+     76.32,
+     320.397,
+     528.0387839999994,
+     330.357
+    ],
+    [
+     76.32,
+     355.4371,
+     534.112848,
+     365.3971
+    ],
+    [
+     42.6,
+     403.18463999999994,
+     366.66816,
+     414.78767999999997
+    ],
+    [
+     42.6,
+     425.14799999999997,
+     94.14575999999998,
+     436.188
+    ],
+    [
+     42.611039999999996,
+     437.74463999999995,
+     93.53855999999999,
+     448.78463999999997
+    ],
+    [
+     42.599999999999994,
+     450.46271999999993,
+     93.53855999999998,
+     461.50271999999995
+    ],
+    [
+     42.59999999999999,
+     463.0593599999999,
+     93.03599999999999,
+     474.108
+    ],
+    [
+     42.594239999999985,
+     475.66463999999996,
+     93.03599999999999,
+     486.708
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q007_p6.jpg",
+   "revisao/Q007_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q008",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 8,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\nOs raios ultravioleta (UV) do sol estimulam a divisão das células da pele, enquanto o calor faz elas ressecarem e morrerem. Assim, forma-se uma camada mais grossa de células mortas que acaba descascando. O sol acelera o processo natural da pele. Estamos sempre descamando aos poucos e, mesmo sem que a gente perceba, a pele se renova.\n\n{{fonte:1}}\n\n{{img:1}}\n\n{{fonte:2}}\n\nSobre isso, é **CORRETO** afirmar que",
+  "fontes": [
+   "Disponível em: https://super.abril.com.br/mundo-estranho/por-",
+   "que-as-pessoas-descascam-depois-de-tomar-muito-sol/ Disponível em: https://pagina1bahia.com.br/en/2019/03/03/muito- Acesso em: jul., 2019. sol-no-carnaval-cuidados-com-a-pele-no-verao-evitam-lesoes- graves/ Acesso em: jul., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a pele humana descama por ser constituída de dois tecidos firmemente unidos entre si. O mais externo é a epiderme, e o mais interno, a derme, ambos de origem endodérmica, formados, respectivamente, por tecidos epitelial e conjuntivo."
+   },
+   {
+    "letra": "B",
+    "texto": "as reações que levam à descamação ocorrem na superfície da pele, a epiderme, um epitélio pavimentoso simples, cuja função é proteger contra o atrito, secreção e entrada de microorganismos."
+   },
+   {
+    "letra": "C",
+    "texto": "as células basais da epiderme estão sempre se dividindo para formar os melanócitos que são empurrados para cima, e, à medida que morrem, vão originando o estrato córneo, camada externa que protege a pele, rica em fibrina e melanina."
+   },
+   {
+    "letra": "D",
+    "texto": "os raios UV atingem a pele e penetram em todas as células, alcançando a parte do DNA que controla a divisão celular delas. Isso estimula a multiplicação desenfreada das células da derme, embora diminua o seu número na epiderme."
+   },
+   {
+    "letra": "E",
+    "texto": "muitas células morrem de desidratação por causa da exposição aos raios solares. Assim, é acelerado o processo natural de formação da camada de células mortas, o estrato córneo, que descama abrindo espaço para novas células."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q008_img1.png",
+    "pagina": 7,
+    "bbox": [
+     303.8,
+     545.8,
+     525.6,
+     671.8
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   7,
+   8
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.594239999999985,
+     513.7008,
+     166.13183999999995,
+     524.7407999999999
+    ],
+    [
+     62.16,
+     547.548,
+     285.34684799999997,
+     558.588
+    ],
+    [
+     62.16,
+     560.14464,
+     285.237552,
+     571.18464
+    ],
+    [
+     62.16,
+     572.86272,
+     285.308448,
+     583.9081
+    ],
+    [
+     62.16,
+     585.468,
+     285.36278400000003,
+     596.508
+    ],
+    [
+     62.16,
+     598.068,
+     285.249696,
+     609.108
+    ],
+    [
+     62.16,
+     610.788,
+     285.2397600000001,
+     621.828
+    ],
+    [
+     62.16,
+     623.3879999999999,
+     285.23865599999993,
+     634.428
+    ],
+    [
+     62.16,
+     636.10608,
+     285.229824,
+     647.14608
+    ],
+    [
+     62.16,
+     648.70272,
+     98.81390400000001,
+     659.74272
+    ],
+    [
+     65.04,
+     665.133,
+     285.27168,
+     673.173
+    ],
+    [
+     303.84000000000003,
+     545.76,
+     525.6,
+     671.76
+    ],
+    [
+     86.87664000000001,
+     672.3331,
+     530.633172,
+     680.3731
+    ],
+    [
+     206.49576,
+     681.57106,
+     525.2680799999998,
+     691.52832
+    ],
+    [
+     361.08,
+     690.693,
+     468.30744,
+     698.733
+    ]
+   ],
+   "8": [
+    [
+     42.6,
+     47.14906000000008,
+     223.702368,
+     58.75210000000004
+    ],
+    [
+     42.6,
+     72.58799999999997,
+     547.2472319999998,
+     83.62799999999993
+    ],
+    [
+     63.96,
+     85.18809999999996,
+     547.2624959999999,
+     96.22809999999993
+    ],
+    [
+     63.96,
+     97.90800000000002,
+     309.7269600000001,
+     108.94799999999998
+    ],
+    [
+     42.6,
+     110.50810000000001,
+     547.1843039999992,
+     121.54809999999998
+    ],
+    [
+     63.96,
+     123.22799999999995,
+     547.314384,
+     134.26799999999992
+    ],
+    [
+     63.96,
+     135.82799999999997,
+     150.76972800000004,
+     146.86799999999994
+    ],
+    [
+     42.6,
+     148.42809999999997,
+     547.3377599999999,
+     159.46809999999994
+    ],
+    [
+     63.96,
+     161.14800000000002,
+     547.305552,
+     172.188
+    ],
+    [
+     63.96,
+     173.74810000000002,
+     290.928048,
+     184.7881
+    ],
+    [
+     42.6,
+     186.46799999999996,
+     547.1942399999999,
+     197.50799999999992
+    ],
+    [
+     63.96,
+     199.06799999999998,
+     547.1686559999991,
+     210.10799999999995
+    ],
+    [
+     63.96,
+     211.788,
+     280.485312,
+     222.82799999999997
+    ],
+    [
+     42.6,
+     224.3881,
+     547.2891839999996,
+     235.42809999999997
+    ],
+    [
+     63.96,
+     236.98799999999994,
+     547.1951519999993,
+     248.0279999999999
+    ],
+    [
+     63.96,
+     249.70799999999997,
+     284.657328,
+     260.74799999999993
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q008_p7.jpg",
+   "revisao/Q008_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q009",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 9,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe as figuras A e B a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nCom base na organização das células, assinale a alternativa que apresenta a relação **CORRETA** entre o tipo de célula, de estruturas apontadas e suas respectivas funções.",
+  "fontes": [
+   "Disponível em: https://www.estudopratico.com.br/celulas-procariontes/ Adaptado https://descomplica.com.br/blog/biologia/resumo-tipos-celulares-membrana/ Acesso em: jul., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A célula A ilustra uma bactéria, célula procariótica, cujo material genético é ausente, no entanto apresenta ribossomos e retículo endoplasmático granular, apontados em 1 e 6, respectivamente."
+   },
+   {
+    "letra": "B",
+    "texto": "A célula B é eucariótica, do tipo vegetal, pois apresenta cloroplasto, apontado em 9, cuja função é realizar a fotossíntese."
+   },
+   {
+    "letra": "C",
+    "texto": "As células A e B apresentam, em comum, membrana plasmática e mitocôndrias, apontadas, respectivamente, em 2 e 8, as quais realizam a síntese de proteína e respiração celular."
+   },
+   {
+    "letra": "D",
+    "texto": "A célula B é eucariótica, do tipo animal por apresentar riqueza de organelas, a exemplo do complexo de Golgi, e os centríolos. Esse complexo, apontado em 11, tem como função acumular e eliminar secreções."
+   },
+   {
+    "letra": "E",
+    "texto": "A célula A é procariótica, podendo ser um fungo, pois apresenta parede celular, rígida e impermeável, apontada em 4, e flagelo, apontada em 5, cuja função é movimento."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q009_img1.png",
+    "pagina": 8,
+    "bbox": [
+     167.8,
+     306.0,
+     426.2,
+     707.8
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   8,
+   9
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.6,
+     281.86463999999995,
+     231.53524799999997,
+     292.90464
+    ],
+    [
+     167.76000000000002,
+     306.0,
+     426.24,
+     707.76
+    ],
+    [
+     145.44,
+     715.7731,
+     431.54822399999995,
+     723.8131
+    ],
+    [
+     145.44804,
+     724.89046,
+     495.0795,
+     732.93046
+    ]
+   ],
+   "9": [
+    [
+     42.6,
+     47.14906000000008,
+     546.0251039999999,
+     58.75210000000004
+    ],
+    [
+     42.61104,
+     59.98858000000007,
+     380.1678720000003,
+     71.02858000000003
+    ],
+    [
+     60.6,
+     90.94809999999995,
+     547.3028159999999,
+     101.98809999999992
+    ],
+    [
+     78.60624000000001,
+     103.66617999999994,
+     547.2763199999999,
+     114.7061799999999
+    ],
+    [
+     78.60623999999996,
+     116.26281999999992,
+     162.43295999999995,
+     127.30281999999988
+    ],
+    [
+     60.599999999999966,
+     128.9808999999999,
+     547.339248,
+     140.02089999999987
+    ],
+    [
+     78.60623999999996,
+     141.57753999999989,
+     234.400512,
+     152.61753999999985
+    ],
+    [
+     60.61103999999996,
+     154.17417999999986,
+     547.2763199999999,
+     165.21417999999983
+    ],
+    [
+     78.60623999999996,
+     166.89225999999985,
+     508.48396799999995,
+     177.93225999999981
+    ],
+    [
+     60.599999999999966,
+     179.48889999999983,
+     547.202352,
+     190.5288999999998
+    ],
+    [
+     78.60624000000001,
+     192.20697999999982,
+     547.321584,
+     203.24697999999978
+    ],
+    [
+     78.60624000000001,
+     204.8036199999998,
+     230.9472,
+     215.84361999999976
+    ],
+    [
+     60.60000000000002,
+     217.40025999999978,
+     547.2144959999999,
+     228.44025999999974
+    ],
+    [
+     78.59520000000003,
+     230.11833999999976,
+     479.7921119999999,
+     241.15833999999973
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q009_p8.jpg",
+   "revisao/Q009_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q010",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 10,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A figura a seguir foi apresentada a cinco amigos para uma discussão.\n\n{{img:1}}\n\n{{fonte:1}}\n\nDepois de observarem a figura, os cinco conversaram sobre o assunto.\n\nAri  \nGêmeos monozigóticos possuem o mesmo DNA, portanto são sempre de aparência idêntica, mas de sexos distintos.\n\nErnesto Gêmeos idênticos são extremamente parecidos fisicamente, por compartilharem os mesmos pais e por terem sofrido fissão do embrioblasto.\n\nGilberto A semelhança entre gêmeos fraternos equivale à mesma que se verifica entre irmãos oriundos de gestações distintas.\n\nMariana Os gêmeos dizigóticos são provenientes de óvulos e espermatozoides diferentes e possuem os mesmos alelos, em razão de terem os mesmos genitores.\n\nSônia Se dois zigotos diferentes se desenvolverem, nascerão duas crianças com sexos distintos, mas com o mesmo patrimônio genético.\n\nAssinale a alternativa que faz a **CORRETA** análise dos tipos de gêmeos que podem ser formados, de acordo com os diálogos.",
+  "fontes": [
+   "Disponível em: http://vidademaedegemeos.blogspot.com/2014/11/univitelinos-ou-bivitelinos.html Acesso em: jul., 2019. Adaptada"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Ari e Ernesto se reportam ao tipo 1, e ambos estão corretos em suas argumentações."
+   },
+   {
+    "letra": "B",
+    "texto": "Ari e Mariana tratam, respectivamente, dos tipos 1 e 2, mas apenas Ari faz um comentário correto."
+   },
+   {
+    "letra": "C",
+    "texto": "Ernesto e Gilberto tratam, respectivamente, dos tipos 1 e 2, e ambos estão corretos em suas colocações."
+   },
+   {
+    "letra": "D",
+    "texto": "Gilberto e Sônia tratam, respectivamente, dos tipos 2 e 1, mas apenas Sônia faz um comentário correto."
+   },
+   {
+    "letra": "E",
+    "texto": "Mariana e Sônia se reportam ao tipo 2, e ambas estão corretas em suas colocações."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q010_img1.png",
+    "pagina": 9,
+    "bbox": [
+     51.8,
+     295.9,
+     537.4,
+     616.3
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   9,
+   10
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.59376000000003,
+     268.0296999999997,
+     404.0510880000002,
+     279.0696999999997
+    ],
+    [
+     51.84,
+     295.92,
+     537.4250335,
+     616.32
+    ],
+    [
+     65.64,
+     624.933,
+     524.0687399999999,
+     632.973
+    ]
+   ],
+   "10": [
+    [
+     49.67664,
+     47.270500000000084,
+     397.61548799999997,
+     58.31050000000005
+    ],
+    [
+     55.08,
+     74.2681,
+     68.57087999999999,
+     85.30809999999997
+    ],
+    [
+     105.6,
+     74.2681,
+     534.1739039999994,
+     85.30809999999997
+    ],
+    [
+     105.6,
+     86.86810000000003,
+     264.0427679999999,
+     97.90809999999999
+    ],
+    [
+     55.08,
+     100.06809999999996,
+     534.3635999999999,
+     111.10809999999992
+    ],
+    [
+     105.6,
+     112.668,
+     381.9993599999999,
+     123.70799999999997
+    ],
+    [
+     55.08,
+     125.86810000000003,
+     534.2953439999997,
+     136.9081
+    ],
+    [
+     105.6,
+     138.46799999999996,
+     262.71355199999994,
+     149.50799999999992
+    ],
+    [
+     55.08,
+     151.668,
+     534.2666399999997,
+     162.70799999999997
+    ],
+    [
+     105.6,
+     164.2681,
+     450.53707199999997,
+     175.30809999999997
+    ],
+    [
+     55.08,
+     177.46799999999996,
+     534.3077759999999,
+     188.50799999999992
+    ],
+    [
+     105.6,
+     190.06799999999998,
+     347.08233600000005,
+     201.10799999999995
+    ],
+    [
+     42.6,
+     215.74329999999998,
+     539.12952,
+     227.34633999999994
+    ],
+    [
+     42.61104000000003,
+     228.58281999999997,
+     161.96448,
+     239.62281999999993
+    ],
+    [
+     42.62208000000001,
+     253.77609999999993,
+     482.25695999999994,
+     264.8160999999999
+    ],
+    [
+     42.63311999999996,
+     266.4941799999999,
+     544.7168639999992,
+     277.53417999999994
+    ],
+    [
+     42.62207999999997,
+     279.0908199999999,
+     547.2406079999992,
+     290.1308199999999
+    ],
+    [
+     63.98447999999996,
+     291.8088999999999,
+     122.11449599999997,
+     302.8488999999999
+    ],
+    [
+     42.622079999999954,
+     304.40553999999986,
+     547.2516479999995,
+     315.4455399999999
+    ],
+    [
+     63.973439999999954,
+     317.00217999999984,
+     101.35487999999995,
+     328.04217999999986
+    ],
+    [
+     42.61103999999996,
+     329.7202599999998,
+     478.00214399999993,
+     340.76025999999985
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q010_p9.jpg",
+   "revisao/Q010_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q011",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 11,
+  "area": "",
+  "texto_base_id": "P4092-T1",
+  "textos_base_ids": [
+   "P4092-T1"
+  ],
+  "enunciado": "O mel de abelha é um alimento viscoso, produzido a partir do néctar das flores, que é processado pelas enzimas digestivas desses insetos. Cerca de 80% em massa da composição do mel é de carboidratos, a saber: 40% de frutose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>), 30% de glicose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>), 9% de maltose (C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>), 1% de sacarose (C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>), além de 20% de água (H<sub>2</sub>O).\n\n{{img:1}}\n\nQual a massa aproximada de carbono existente em 1 kg de mel de abelha?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "122 g"
+   },
+   {
+    "letra": "B",
+    "texto": "240 g"
+   },
+   {
+    "letra": "C",
+    "texto": "322 g"
+   },
+   {
+    "letra": "D",
+    "texto": "640 g"
+   },
+   {
+    "letra": "E",
+    "texto": "800 g"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q011_img1.png",
+    "pagina": 11,
+    "bbox": [
+     118.8,
+     162.7,
+     384.5,
+     184.3
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.6,
+     85.18281999999999,
+     547.2428160000002,
+     96.22281999999996
+    ],
+    [
+     42.588960000000014,
+     97.90089999999998,
+     547.0937759999991,
+     108.94089999999994
+    ],
+    [
+     42.588960000000014,
+     110.49753999999996,
+     547.3299360000001,
+     121.54809999999998
+    ],
+    [
+     42.60432000000009,
+     123.22618,
+     388.03248,
+     134.26799999999992
+    ],
+    [
+     42.6,
+     145.06799999999998,
+     411.9189120000003,
+     156.10799999999995
+    ],
+    [
+     118.8,
+     162.72,
+     384.48,
+     184.32
+    ],
+    [
+     42.6,
+     208.30809999999997,
+     86.0496,
+     219.34809999999993
+    ],
+    [
+     159.84,
+     208.30809999999997,
+     203.2896,
+     219.34809999999993
+    ],
+    [
+     256.44,
+     208.30809999999997,
+     299.2896,
+     219.34809999999993
+    ],
+    [
+     352.32,
+     208.30809999999997,
+     395.76959999999997,
+     219.34809999999993
+    ],
+    [
+     448.68,
+     208.30809999999997,
+     492.1296,
+     219.34809999999993
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q011_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q012",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 12,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Quando uma pessoa não tem costume de comer preparos bem apimentados, a sensação é quase sempre a descrita na tirinha a seguir.\n\nA tentativa de solução quase imediata é beber água, o que não é muito efetivo em razão das características da substância, que provoca a ardência, chamada capsaicina. Essa substância não é solúvel em água, mas apresenta boa solubilidade em gorduras, por isso, para diminuir a sensação de ardor na boca, é mais eficaz tomar um copo de leite integral.\n\n{{img:1}}\n\n{{fonte:1}}\n\nO que pode ser considerado para explicar essa situação?",
+  "fontes": [
+   "Disponível em: https://www.viciadoempimentas.com.br/curiosidades Acesso em: jul., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A polaridade, pois a molécula de capsaicina é apolar, por isso se dissolve bem em gorduras, e não na água."
+   },
+   {
+    "letra": "B",
+    "texto": "A polaridade, pois a molécula de capsaicina provavelmente é polar, por isso se dissolve bem em gorduras, e não na água."
+   },
+   {
+    "letra": "C",
+    "texto": "A acidez, pois a molécula de capsaicina é provavelmente ácida, por isso o leite integral, básico é eficiente na neutralização, enquanto a água apenas causará diluição."
+   },
+   {
+    "letra": "D",
+    "texto": "A basicidade, pois a molécula de capsaicina provavelmente é básica, por isso o leite integral, ácido, é eficiente na neutralização, enquanto a água apenas causará diluição."
+   },
+   {
+    "letra": "E",
+    "texto": "A densidade, uma vez que o leite integral, por ser mais denso que a água, possui maior potencial para remover as moléculas de capsaicina da boca, o que ajuda a melhorar a sensação de ardor."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q012_img1.png",
+    "pagina": 11,
+    "bbox": [
+     153.4,
+     337.7,
+     459.4,
+     518.4
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.6,
+     246.22271999999998,
+     547.1898239999999,
+     257.26271999999994
+    ],
+    [
+     42.599999999999966,
+     258.81935999999996,
+     256.75392,
+     269.85936
+    ],
+    [
+     42.611039999999974,
+     271.53743999999995,
+     547.302432,
+     282.57743999999997
+    ],
+    [
+     42.59999999999991,
+     284.1340799999999,
+     547.28808,
+     295.17407999999995
+    ],
+    [
+     42.61103999999992,
+     296.8521599999999,
+     547.2152160000002,
+     307.89215999999993
+    ],
+    [
+     42.61103999999992,
+     309.4487999999999,
+     337.9994879999998,
+     320.4887999999999
+    ],
+    [
+     153.36,
+     337.68,
+     459.40013120000003,
+     518.4
+    ],
+    [
+     142.44,
+     530.133,
+     473.33986799999997,
+     538.173
+    ],
+    [
+     42.6,
+     563.6281,
+     323.99083199999995,
+     574.6681
+    ],
+    [
+     42.6,
+     592.3081,
+     547.2715199999999,
+     603.3480999999999
+    ],
+    [
+     63.962399999999946,
+     605.02618,
+     137.45788799999997,
+     616.06618
+    ],
+    [
+     42.599999999999966,
+     617.62282,
+     547.1423519999996,
+     628.66282
+    ],
+    [
+     63.96239999999996,
+     630.3408999999999,
+     186.91598399999998,
+     641.3809
+    ],
+    [
+     42.611039999999974,
+     642.93754,
+     547.2693120000001,
+     653.97754
+    ],
+    [
+     63.97343999999998,
+     655.53418,
+     402.25228800000036,
+     666.57418
+    ],
+    [
+     42.611039999999946,
+     668.25226,
+     547.1357279999993,
+     679.2922599999999
+    ],
+    [
+     63.97343999999994,
+     680.8489,
+     443.63462400000026,
+     691.8888999999999
+    ],
+    [
+     42.61103999999989,
+     693.56698,
+     547.3090559999998,
+     704.60698
+    ],
+    [
+     63.97343999999987,
+     706.1636199999999,
+     534.8448959999995,
+     717.20362
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q012_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q013",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 13,
+  "area": "",
+  "texto_base_id": "P4092-T2",
+  "textos_base_ids": [
+   "P4092-T2"
+  ],
+  "enunciado": "Sobre o hipoclorito de sódio, é **CORRETO** afirmar que se trata de uma substância química",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "iônica, classificada como uma base."
+   },
+   {
+    "letra": "B",
+    "texto": "covalente polar, classificada como um ácido."
+   },
+   {
+    "letra": "C",
+    "texto": "iônica, classificada como um sal."
+   },
+   {
+    "letra": "D",
+    "texto": "covalente apolar, classificada como um sal."
+   },
+   {
+    "letra": "E",
+    "texto": "iônica, classificada como um ácido."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.6,
+     259.908,
+     506.043746,
+     271.51104000000004
+    ],
+    [
+     42.6,
+     288.828,
+     240.14975999999996,
+     299.868
+    ],
+    [
+     42.58896,
+     301.42464,
+     282.4042559999999,
+     312.46464000000003
+    ],
+    [
+     42.6,
+     314.02128,
+     224.20468799999995,
+     325.06128
+    ],
+    [
+     42.58896,
+     326.73936,
+     276.166656,
+     337.77936
+    ],
+    [
+     42.58896,
+     339.336,
+     236.43148799999994,
+     350.37600000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q013_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q014",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 14,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O hipoclorito de sódio pode ser obtido a partir da reação do gás cloro com hidróxido de sódio\n\nconcentrado, de acordo com a equação química:\n\nCl<sub>2(g)</sub> + 2 NaOH<sub>(aq)</sub>  NaCl<sub>(aq)</sub> + NaClO<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub>\n\nConsiderando o contexto de uma pequena indústria química, partindo de uma quantidade diária de 50 kg de hidróxido de sódio e volume não limitado de gás cloro, qual a massa de hipoclorito de sódio produzida em 8 dias?\n\nDados: Massas Atômicas – H=1u; O=16u; Na=23u; Cl=35,5u",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "372,5 kg"
+   },
+   {
+    "letra": "B",
+    "texto": "745,0 kg"
+   },
+   {
+    "letra": "C",
+    "texto": "1303,7 kg"
+   },
+   {
+    "letra": "D",
+    "texto": "2607,5 kg"
+   },
+   {
+    "letra": "E",
+    "texto": "1605,5 kg"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.58896,
+     377.24736,
+     547.1964479999991,
+     388.28736000000004
+    ],
+    [
+     56.74224,
+     389.96544,
+     295.243776,
+     401.00544
+    ],
+    [
+     175.08,
+     406.00944,
+     414.64029600000003,
+     418.308
+    ],
+    [
+     42.6,
+     432.46799999999996,
+     547.2008639999988,
+     443.508
+    ],
+    [
+     42.6,
+     445.188,
+     547.209696,
+     456.228
+    ],
+    [
+     42.6,
+     457.788,
+     147.854256,
+     468.82800000000003
+    ],
+    [
+     163.80384,
+     478.548,
+     461.62108799999993,
+     489.588
+    ],
+    [
+     42.6,
+     503.748,
+     106.198128,
+     514.788
+    ],
+    [
+     42.6,
+     516.468,
+     106.198128,
+     527.508
+    ],
+    [
+     42.6,
+     529.068,
+     112.32422400000002,
+     540.108
+    ],
+    [
+     42.6,
+     541.788,
+     112.313184,
+     552.828
+    ],
+    [
+     42.6,
+     554.3879999999999,
+     112.313184,
+     565.428
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [
+   "PENDENTE: há um trecho desenhado (caractere que o PDF não traduz: chave, parêntese grande ou sinal de fórmula) na linha “Cl 2(g) + 2 NaOH (aq)  NaCl (aq) + NaCl” — transcrever lendo a imagem",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "caractere estranho no texto"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q014_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q015",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 15,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A Organização das Nações Unidas (ONU) proclamou o ano de 2019 como o Ano Internacional da Tabela Periódica dos Elementos Químicos, tornando esse ano especial para a Química. Ferramenta essencial para o trabalho do químico, a tabela toma por base a lei periódica, a qual afirma que as propriedades dos elementos químicos tendem à repetição sistemática, à medida que aumenta o número atômico. Sobre a tabela periódica, analise as afirmativas seguir:\n\nI. Em um mesmo período da tabela periódica, os elementos dispostos possuem propriedades químicas semelhantes.\n\nII. De maneira geral, as energias de ionização dos elementos do bloco de transição são menores que as energias de ionização dos elementos representativos.\n\nIII. A massa atômica de alguns elementos da tabela periódica é fracionária, como o cloro (35,5 u), por causa da presença de diferentes isótopos.\n\nIV. O elemento de número atômico 43 tem o subnível 4d<sup>5</sup> como o mais energético e encontra-se no quinto período da tabela periódica.\n\nV. O carbono (C, Z = 6) e o selênio (Se, Z = 34) estão na mesma família da tabela periódica.\n\nEstão **CORRETAS** apenas",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, III e IV."
+   },
+   {
+    "letra": "B",
+    "texto": "II, IV e V."
+   },
+   {
+    "letra": "C",
+    "texto": "II e V."
+   },
+   {
+    "letra": "D",
+    "texto": "I, II e V."
+   },
+   {
+    "letra": "E",
+    "texto": "III e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   12,
+   13
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.6,
+     592.3081,
+     547.2936,
+     603.3480999999999
+    ],
+    [
+     42.58896,
+     605.02618,
+     547.3178879999989,
+     616.06618
+    ],
+    [
+     42.6,
+     617.62282,
+     547.190928,
+     628.66282
+    ],
+    [
+     42.6,
+     630.3408999999999,
+     547.1423520000002,
+     641.3809
+    ],
+    [
+     42.58896,
+     642.93754,
+     394.843344,
+     653.97754
+    ],
+    [
+     63.96,
+     669.348,
+     547.2415200000002,
+     680.3879999999999
+    ],
+    [
+     85.2,
+     682.068,
+     197.80689600000002,
+     693.108
+    ],
+    [
+     63.96,
+     694.668,
+     547.2470400000002,
+     705.708
+    ],
+    [
+     85.2,
+     707.388,
+     384.2460000000001,
+     718.428
+    ]
+   ],
+   "13": [
+    [
+     63.96,
+     47.26800000000003,
+     547.1741759999993,
+     58.30799999999999
+    ],
+    [
+     85.2,
+     59.98799999999994,
+     310.8322079999999,
+     71.0279999999999
+    ],
+    [
+     63.96,
+     72.58799999999997,
+     547.3420799999999,
+     83.62799999999993
+    ],
+    [
+     85.2,
+     85.18809999999996,
+     269.89257599999985,
+     96.22809999999993
+    ],
+    [
+     63.96,
+     97.90800000000002,
+     522.9722880000003,
+     108.94799999999998
+    ],
+    [
+     42.6,
+     119.62810000000002,
+     174.70795200000003,
+     131.23113999999998
+    ],
+    [
+     42.6,
+     140.3881,
+     108.06912,
+     151.42809999999997
+    ],
+    [
+     144.84,
+     140.3881,
+     211.50912,
+     151.42809999999997
+    ],
+    [
+     247.2,
+     140.3881,
+     297.30912,
+     151.42809999999997
+    ],
+    [
+     349.56,
+     140.3881,
+     408.90912,
+     151.42809999999997
+    ],
+    [
+     451.8,
+     140.3881,
+     508.02912,
+     151.42809999999997
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p12.jpg",
+   "revisao/Q015_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q016",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 16,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A Revolução Industrial se caracteriza pela mudança no modo de produção, introduzindo a máquina a vapor, entre outras coisas. É um marco importantíssimo na História da humanidade, ocorrido inicialmente, na Inglaterra. A preocupação com o efeito da emissão sistemática de vapor na atmosfera sobre as condições climáticas fez surgir uma série de estudos, que resultaram na proposição do conceito de pressão parcial e da lei das proporções múltiplas.\n\nAssinale a alternativa que apresenta o nome do autor dos estudos citados acima, que são bases para o modelo atômico que recebeu o seu nome.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Bohr"
+   },
+   {
+    "letra": "B",
+    "texto": "Dalton"
+   },
+   {
+    "letra": "C",
+    "texto": "Rutherford"
+   },
+   {
+    "letra": "D",
+    "texto": "Sommerfeld"
+   },
+   {
+    "letra": "E",
+    "texto": "Thompson"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.6,
+     185.2681,
+     547.09054,
+     196.30809999999997
+    ],
+    [
+     42.589,
+     197.98618,
+     547.1246879999991,
+     209.0261999999999
+    ],
+    [
+     42.58896,
+     210.58281999999997,
+     547.2715199999999,
+     221.62281999999993
+    ],
+    [
+     42.60000000000001,
+     223.17945999999995,
+     547.10062,
+     234.21949999999993
+    ],
+    [
+     42.6,
+     235.89750000000004,
+     415.56242,
+     246.93754
+    ],
+    [
+     42.6,
+     255.46799999999996,
+     547.305744,
+     266.5079999999999
+    ],
+    [
+     42.6,
+     268.0646,
+     257.31806399999994,
+     279.10463999999996
+    ],
+    [
+     42.6,
+     293.388,
+     81.78816,
+     304.428
+    ],
+    [
+     138.84,
+     293.388,
+     186.610656,
+     304.428
+    ],
+    [
+     235.08,
+     293.388,
+     302.407488,
+     304.428
+    ],
+    [
+     345.6,
+     293.388,
+     420.845904,
+     304.428
+    ],
+    [
+     458.64,
+     293.388,
+     526.68264,
+     304.428
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q016_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q017",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 17,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe as imagens a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nTrata-se, respectivamente, de uma representação da molécula de Fulereno (C<sub>60</sub>) e da estrutura geodésica de Richard B. Fuller, que serviu de inspiração para o seu nome. Essa substância é popular pela sua semelhança com a bola de futebol, sua beleza estrutural e suas propriedades físicas e químicas. A relação entre o Fulereno e outras variedades do carbono, como grafite, diamante e nanotubos, ocorre a partir de uma propriedade denominada",
+  "fontes": [
+   "Disponível em: http://qnint.sbq.org.br Acesso em: jul., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Isomeria."
+   },
+   {
+    "letra": "B",
+    "texto": "Isobaria."
+   },
+   {
+    "letra": "C",
+    "texto": "Isotopia."
+   },
+   {
+    "letra": "D",
+    "texto": "Alotropia."
+   },
+   {
+    "letra": "E",
+    "texto": "Semelhança Atômica."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q017_img1.png",
+    "pagina": 13,
+    "bbox": [
+     68.8,
+     383.3,
+     499.0,
+     547.2
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.6,
+     354.3427,
+     213.29275199999995,
+     365.38272
+    ],
+    [
+     68.8000793,
+     383.3210607,
+     499.0498809,
+     547.2
+    ],
+    [
+     187.916,
+     557.73096,
+     401.94888000000003,
+     565.771
+    ],
+    [
+     63.9624,
+     580.42608,
+     547.321728,
+     591.4681
+    ],
+    [
+     42.60383999999999,
+     593.0247400000001,
+     547.1649599999992,
+     604.06474
+    ],
+    [
+     42.60383999999999,
+     605.7428199999999,
+     547.210223999999,
+     616.78282
+    ],
+    [
+     42.60383999999999,
+     618.33946,
+     547.3416,
+     629.37946
+    ],
+    [
+     42.60384000000005,
+     631.05754,
+     333.714288,
+     642.09754
+    ],
+    [
+     42.6149,
+     656.2508,
+     109.27108800000005,
+     667.2908199999999
+    ],
+    [
+     42.60384000000004,
+     668.9689,
+     106.24944000000006,
+     680.0089
+    ],
+    [
+     42.59280000000004,
+     681.56554,
+     105.64776000000003,
+     692.60554
+    ],
+    [
+     42.59280000000004,
+     694.28362,
+     110.43691200000006,
+     705.32362
+    ],
+    [
+     42.59280000000004,
+     706.88026,
+     171.02884800000004,
+     717.92026
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q017_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q018",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 18,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O ácido nítrico (HNO<sub>3</sub>) é amplamente utilizado na indústria química e em laboratório, sobretudo na produção de explosivos e de fertilizantes químicos. Uma das formas de obtenção desse ácido é a partir do processo de Ostwald, em que a amônia é queimada na presença de platina, formando monóxido de nitrogênio. Este é oxidado e posteriormente adsorvido em água, conforme as equações a seguir:\n\n{{img:1}}\n\nEm determinado experimento controlado, 8,0 gramas de amônia reagem com 10,0 gramas do gás oxigênio. Quantos gramas de NO são produzidos e qual é o reagente limitante?\n\nDados: Massas Atômicas – H=1u; N=14u; O=16u",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "São produzidos 4,5 g de NO, e a amônia é o reagente limitante."
+   },
+   {
+    "letra": "B",
+    "texto": "São produzidos 4,5 g de NO, e o gás oxigênio é o reagente limitante."
+   },
+   {
+    "letra": "C",
+    "texto": "São produzidos 7,5 g de NO, e o gás oxigênio é o reagente limitante."
+   },
+   {
+    "letra": "D",
+    "texto": "São produzidos 14,1 g de NO, e a amônia é o reagente limitante."
+   },
+   {
+    "letra": "E",
+    "texto": "São produzidos 14,1 g de NO, e o gás oxigênio é o reagente limitante."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q018_img1.png",
+    "pagina": 14,
+    "bbox": [
+     193.1,
+     114.8,
+     376.3,
+     182.3
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.6,
+     47.26800000000003,
+     547.3248,
+     58.30799999999999
+    ],
+    [
+     42.58704,
+     59.986080000000015,
+     547.1658239999989,
+     71.02607999999998
+    ],
+    [
+     42.58704,
+     72.58272,
+     547.1647199999993,
+     83.62271999999996
+    ],
+    [
+     42.58704,
+     85.17935999999997,
+     514.675104,
+     96.21935999999994
+    ],
+    [
+     193.07763500000001,
+     114.84398500000009,
+     376.272419,
+     182.34391300000004
+    ],
+    [
+     42.6,
+     200.43532000000005,
+     547.192031999999,
+     211.47532
+    ],
+    [
+     42.6,
+     213.03542000000004,
+     431.60544000000016,
+     224.07542
+    ],
+    [
+     125.76,
+     238.23532,
+     367.08888,
+     249.27531999999997
+    ],
+    [
+     42.6,
+     271.76707,
+     375.27825599999994,
+     282.80707
+    ],
+    [
+     42.6,
+     284.48515,
+     400.9705439999999,
+     295.52515
+    ],
+    [
+     42.58896,
+     297.08178999999996,
+     400.9705439999999,
+     308.12179
+    ],
+    [
+     42.58896,
+     309.79987,
+     381.3977279999999,
+     320.83987
+    ],
+    [
+     42.57792,
+     322.39651,
+     407.05799999999994,
+     333.43651
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q018_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q019",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 19,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Com a crise hídrica, é cada vez mais comum a utilização de recipientes, como cisternas, caixas d’água, tanques e baldes, tendo em vista a reserva de água potável para as famílias. Uma preocupação recorrente é manter esses recipientes limpos, pois, com o tempo, há acúmulo de material particulado no fundo desses recipientes.\n\nAssinale a alternativa que apresenta a explicação para o acúmulo do material particulado citado no texto.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A água fica parada, e o material particulado decanta, acumulando-se no fundo do recipiente."
+   },
+   {
+    "letra": "B",
+    "texto": "Durante o armazenamento, há perda de água por evaporação e sublimação do material particulado."
+   },
+   {
+    "letra": "C",
+    "texto": "O material particulado é formado pela reação entre microorganismos e o cloro usado no tratamento da água."
+   },
+   {
+    "letra": "D",
+    "texto": "O acúmulo de material no fundo do recipiente deve-se à acidez da água."
+   },
+   {
+    "letra": "E",
+    "texto": "Ocorre condensação de resíduo sólido por causa da diferença de temperatura entre a estação de tratamento d’água e o reservatório onde a água fica retida em casa."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.56688,
+     380.99075999999997,
+     547.2560639999999,
+     392.03076
+    ],
+    [
+     42.55584,
+     393.70883999999995,
+     547.23288,
+     404.74884
+    ],
+    [
+     42.55584,
+     406.30548,
+     547.1655359999999,
+     417.34548
+    ],
+    [
+     42.55584,
+     418.90211999999997,
+     239.4895679999999,
+     429.94212
+    ],
+    [
+     42.6,
+     446.89605,
+     547.0396799999991,
+     457.93605
+    ],
+    [
+     42.6,
+     459.49269,
+     69.54091199999999,
+     470.53269
+    ],
+    [
+     42.6,
+     488.29605,
+     515.213568,
+     499.33605
+    ],
+    [
+     42.62208,
+     500.89268999999996,
+     547.2847679999994,
+     511.93269
+    ],
+    [
+     63.98448,
+     513.61077,
+     120.91113600000001,
+     524.65077
+    ],
+    [
+     42.62208,
+     526.20741,
+     547.2063839999993,
+     537.24741
+    ],
+    [
+     63.98448,
+     538.92549,
+     162.55843199999998,
+     549.9654899999999
+    ],
+    [
+     42.62208,
+     551.5221300000001,
+     418.761504,
+     562.56213
+    ],
+    [
+     42.63312,
+     564.11877,
+     547.3388640000001,
+     575.15877
+    ],
+    [
+     63.98448,
+     576.8368499999999,
+     394.889712,
+     587.87685
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q020",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 20,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Ao analisar um material sólido, uma cientista produziu um gráfico que relaciona temperatura x tempo, descrevendo o aquecimento desse material. Ao final do experimento, ela concluiu ser o material constituído por uma substância pura.\n\nAssinale a alternativa que apresenta o gráfico produzido pela cientista.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:1}}"
+   },
+   {
+    "letra": "B",
+    "texto": "d)\n\n{{img:2}}"
+   },
+   {
+    "letra": "C",
+    "texto": "e)\n\n{{img:3}}\n\n{{img:4}}\n\n{{img:5}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q020_img1.png",
+    "pagina": 15,
+    "bbox": [
+     75.6,
+     129.6,
+     291.9,
+     254.3
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q020_img2.png",
+    "pagina": 15,
+    "bbox": [
+     331.5,
+     133.3,
+     547.8,
+     258.0
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q020_img3.png",
+    "pagina": 15,
+    "bbox": [
+     326.6,
+     339.4,
+     542.9,
+     464.1
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q020_img4.png",
+    "pagina": 15,
+    "bbox": [
+     70.5,
+     339.3,
+     286.8,
+     464.0
+    ]
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q020_img5.png",
+    "pagina": 15,
+    "bbox": [
+     70.2,
+     530.3,
+     286.5,
+     655.0
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.6,
+     47.26800000000003,
+     547.3167839999991,
+     58.30799999999999
+    ],
+    [
+     42.58896,
+     59.986080000000015,
+     547.20528,
+     71.02607999999998
+    ],
+    [
+     42.58896000000004,
+     72.58272,
+     265.0935360000001,
+     83.62271999999996
+    ],
+    [
+     42.6,
+     93.34799999999996,
+     387.50726399999996,
+     104.38799999999992
+    ],
+    [
+     49.8,
+     130.06809999999996,
+     59.592479999999995,
+     141.10809999999992
+    ],
+    [
+     310.2,
+     130.06809999999996,
+     319.99247999999994,
+     141.10809999999992
+    ],
+    [
+     75.5998383,
+     129.59117189999995,
+     291.9496735,
+     254.29109229999995
+    ],
+    [
+     331.4997253,
+     133.34117189999995,
+     547.8215314,
+     258.04109229999995
+    ],
+    [
+     310.20336000000003,
+     339.34463999999997,
+     319.99584,
+     350.82768
+    ],
+    [
+     326.6499329,
+     339.3755347,
+     542.9431595,
+     464.0754551
+    ],
+    [
+     49.80336,
+     339.78767999999997,
+     59.595839999999995,
+     350.82768
+    ],
+    [
+     70.5498352,
+     339.3254553,
+     286.8430618,
+     464.0253757
+    ],
+    [
+     49.8,
+     532.548,
+     59.592479999999995,
+     543.588
+    ],
+    [
+     70.25,
+     530.3068396,
+     286.49999049999997,
+     655.0068306
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [
+   "3 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q020_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q021",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 21,
+  "area": "",
+  "texto_base_id": "P4092-T3",
+  "textos_base_ids": [
+   "P4092-T3"
+  ],
+  "enunciado": "Para o historiador François Hartog, “sem conceitos, não se vê nada, no sentido próprio, e se faz História narrativa. O trabalho do historiador é justamente encontrar a especificidade de seu terreno de estudo, isto é, o que é geral e particular ao mesmo tempo: tornar o indivíduo inteligível.”\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nCom base nessa leitura, é **CORRETO** afirmar que a tarefa do historiador é",
+  "fontes": [
+   "(Apud COSTA. Reflexões sobre a historiografia da História Antiga: apresentação de perspectivas de estudo para o Egito Antigo, p. 1325).",
+   "Disponível em: http://www.ufpb.br/evento/index.php/xviieeh/xviieeh/paper/viewFile/3488/2619 Acesso em: mai., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "simplesmente elencar os fatos, sem questioná-los."
+   },
+   {
+    "letra": "B",
+    "texto": "utilizar noções para interpretar os fatos coerentemente."
+   },
+   {
+    "letra": "C",
+    "texto": "usar a narrativa para distorcer os fatos e doutrinar os leitores."
+   },
+   {
+    "letra": "D",
+    "texto": "montar teorias da conspiração para desvendar sentidos ocultos."
+   },
+   {
+    "letra": "E",
+    "texto": "fazer de seu ofício um instrumento meramente político-partidário."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.6,
+     85.18186000000003,
+     547.3300319999988,
+     96.22185999999999
+    ],
+    [
+     42.58896,
+     97.89994000000002,
+     547.1710559999999,
+     108.93993999999998
+    ],
+    [
+     42.58896,
+     110.49658,
+     470.72015999999996,
+     121.53657999999996
+    ],
+    [
+     58.8,
+     129.21309999999994,
+     547.099752,
+     137.25310000000002
+    ],
+    [
+     216.35988000000003,
+     138.45105999999998,
+     547.1600519999998,
+     146.49106000000006
+    ],
+    [
+     463.55772,
+     147.56841999999995,
+     547.2702000000002,
+     155.60842000000002
+    ],
+    [
+     42.6,
+     165.58799999999997,
+     406.440864,
+     177.19103999999993
+    ],
+    [
+     42.61104000000003,
+     191.02415999999994,
+     310.990128,
+     202.0641599999999
+    ],
+    [
+     42.61104000000006,
+     203.62079999999992,
+     333.632064,
+     214.66079999999988
+    ],
+    [
+     42.60000000000008,
+     216.3388799999999,
+     364.23052800000033,
+     227.37887999999987
+    ],
+    [
+     42.60000000000008,
+     228.93551999999988,
+     376.42752000000024,
+     239.97551999999985
+    ],
+    [
+     42.58896000000004,
+     241.65359999999987,
+     381.9949920000001,
+     252.69359999999983
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q022",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 22,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O Parque Nacional do Catimbau está localizado em Buíque, Pernambuco, e sobre ele escreveu Ricardo José Neves Barbosa: “é duplamente importante para a composição parcial do quadro das migrações pré-históricas nordestinas. No **plano macro**, permite visualizar a região como área de passagem (...) aceitando-se o deslocamento de grupos humanos da calha do São Francisco para o Seridó (...). No **plano micro**, possibilita a identificação das ‘fronteiras gráficas de passagem’, resultantes do fluxo de grupos culturalmente distintos para a região (...).”\n\n{{fonte:1}}\n\nConforme as informações presentes no texto sobre as populações pré-históricas nordestinas, é **CORRETO** afirmar que",
+  "fontes": [
+   "(BARBOSA. As pinturas rupestres da área arqueológica Vale do Catimbau Buíque, Pernambuco: estudo das fronteiras gráficas de passagem, p. 24 (adaptado). Disponível em: https://repositorio.ufpe.br/handle/123456789/728 Acesso em: mai., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "eram sedentárias, evitando deslocamentos."
+   },
+   {
+    "letra": "B",
+    "texto": "desconheciam a estrutura geográfica da região."
+   },
+   {
+    "letra": "C",
+    "texto": "utilizavam os cursos fluviais como importantes vias de deslocamento."
+   },
+   {
+    "letra": "D",
+    "texto": "se deslocavam, mais ou menos, conforme os atuais territórios dos estados."
+   },
+   {
+    "letra": "E",
+    "texto": "compreendê-las é impossível, pois não deixaram quaisquer registros escritos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.6,
+     266.8680999999999,
+     547.1953439999993,
+     277.9081
+    ],
+    [
+     42.6,
+     279.5881,
+     547.2096959999989,
+     290.6281
+    ],
+    [
+     42.6,
+     292.06329999999997,
+     547.137936,
+     303.66634
+    ],
+    [
+     42.60000000000001,
+     304.90281999999996,
+     547.1942400000001,
+     315.94282
+    ],
+    [
+     42.60000000000001,
+     317.37801999999994,
+     547.2604799999999,
+     328.98105999999996
+    ],
+    [
+     42.58895999999993,
+     330.21753999999993,
+     396.7841759999999,
+     341.25753999999995
+    ],
+    [
+     43.08,
+     351.21299999999997,
+     547.0875,
+     359.253
+    ],
+    [
+     170.4,
+     360.33299999999997,
+     547.1081159999999,
+     368.373
+    ],
+    [
+     42.59856,
+     383.02473999999995,
+     547.342944,
+     394.06474
+    ],
+    [
+     42.59856000000002,
+     395.62137999999993,
+     156.36686400000002,
+     407.22441999999995
+    ],
+    [
+     42.59856000000003,
+     421.0575399999999,
+     276.88281600000005,
+     432.0975399999999
+    ],
+    [
+     42.59856000000005,
+     433.6541799999999,
+     297.02198400000015,
+     444.6941799999999
+    ],
+    [
+     42.58752000000007,
+     446.25081999999986,
+     402.7310880000003,
+     457.2908199999999
+    ],
+    [
+     42.57648000000006,
+     458.96889999999985,
+     431.39976000000024,
+     470.00889999999987
+    ],
+    [
+     42.565440000000024,
+     471.5655399999998,
+     443.743584,
+     482.60553999999985
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q022_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q023",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 23,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Sobre a arte aborígene, escreveu Olívia Mindêlo:\n\nA partir da cosmovisão dos habitantes originários do território australiano, uma pintura sozinha pode garantir o futuro de um povo inteiro, trazendo pistas em perspectiva aérea, por exemplo, sobre a localização de fontes secretas de água – dado precioso para quem vive em regiões desérticas, como são os nativos daquele país. Em outras palavras, o verbete *sonho* possui aqui uma semântica peculiar quando “materializada” entre tintas e telas.\n\n{{fonte:1}}\n\nAs pinturas aborígenes australianas são uma das mais importantes manifestações da arte pré-histórica. A essa arte, quais elementos, em termos gerais, **NÃO** devem ser vinculados?",
+  "fontes": [
+   "Disponível em: https://www.revistacontinente.com.br/edicoes/210/o--pintar--aborígene-e-o--sonhar- Acesso em: dez., 2018."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Aspectos mítico-religiosos"
+   },
+   {
+    "letra": "B",
+    "texto": "Reflexos do complexo ideológico"
+   },
+   {
+    "letra": "C",
+    "texto": "Compreensões do mundo circundante"
+   },
+   {
+    "letra": "D",
+    "texto": "Realismo e ausência do elemento simbólico"
+   },
+   {
+    "letra": "E",
+    "texto": "Ancestralidade e percepção mágica do mundo"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.554399999999994,
+     496.8802599999998,
+     303.44174399999997,
+     507.9202599999998
+    ],
+    [
+     42.54336000000001,
+     522.1949799999998,
+     547.1298719999988,
+     533.2349799999997
+    ],
+    [
+     42.54336000000001,
+     534.7916199999997,
+     547.209359999999,
+     545.8316199999997
+    ],
+    [
+     42.54336000000001,
+     547.5096999999997,
+     547.2126720000001,
+     558.5496999999998
+    ],
+    [
+     42.54336000000001,
+     560.1063399999998,
+     547.053696,
+     571.1463399999998
+    ],
+    [
+     42.543360000000064,
+     572.7029799999998,
+     251.15409600000007,
+     583.7429799999998
+    ],
+    [
+     110.04,
+     584.613,
+     547.2592199999999,
+     592.653
+    ],
+    [
+     42.6,
+     603.828,
+     547.375296,
+     614.8679999999999
+    ],
+    [
+     42.6,
+     616.42464,
+     468.85440000000006,
+     628.0276799999999
+    ],
+    [
+     42.5889600000001,
+     641.73936,
+     191.73273600000013,
+     652.77936
+    ],
+    [
+     42.58896000000013,
+     654.45744,
+     224.83838400000002,
+     665.49744
+    ],
+    [
+     42.57792000000012,
+     667.05408,
+     250.51411199999995,
+     678.09408
+    ],
+    [
+     42.58896000000013,
+     679.77216,
+     278.5976640000001,
+     690.81216
+    ],
+    [
+     42.577920000000134,
+     692.3688,
+     290.938176,
+     703.4087999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q024",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 24,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia os quadrinhos abaixo:\n\n{{img:1}}\n\n{{fonte:1}}\n\nA qual importante filósofo da Antiguidade referem-se os quadrinhos?",
+  "fontes": [
+   "Disponível em: https://acasadevidro.com/tag/industria-cultural/ Acesso em: ago., 2018."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Platão"
+   },
+   {
+    "letra": "B",
+    "texto": "Epicuro"
+   },
+   {
+    "letra": "C",
+    "texto": "Sócrates"
+   },
+   {
+    "letra": "D",
+    "texto": "Aristóteles"
+   },
+   {
+    "letra": "E",
+    "texto": "Santo Agostinho"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q024_img1.png",
+    "pagina": 17,
+    "bbox": [
+     78.6,
+     65.2,
+     435.7,
+     598.1
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     47.270500000000084,
+     195.41126400000002,
+     58.31050000000005
+    ],
+    [
+     78.5500793,
+     65.24646059999998,
+     435.7411499,
+     598.0763861
+    ],
+    [
+     92.28,
+     599.613,
+     399.207,
+     607.653
+    ],
+    [
+     42.59856,
+     622.3046400000001,
+     377.77295999999996,
+     633.34464
+    ],
+    [
+     42.587519999999984,
+     647.6193599999999,
+     95.14895999999997,
+     658.65936
+    ],
+    [
+     42.57647999999999,
+     660.33744,
+     101.258496,
+     671.37744
+    ],
+    [
+     42.565439999999995,
+     672.93408,
+     107.47511999999999,
+     683.97408
+    ],
+    [
+     42.565439999999995,
+     685.53072,
+     115.386384,
+     696.5707199999999
+    ],
+    [
+     42.5544,
+     698.2488,
+     144.66998400000003,
+     709.2887999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q024_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q025",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 25,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "“O discurso de Heródoto aborda a relação envolvendo gregos e não gregos, trazendo para o primeiro plano os grupos étnicos considerados bárbaros por não usarem a língua grega como meio de comunicação. Entretanto (...) não deixa transparecer a conotação negativa de preconceitos étnicos devido à diferença na cor da pele.”\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nConforme o texto acima, é **CORRETO** afirmar que os gregos",
+  "fontes": [
+   "CÂNDIDO, Maria Regina. A África Antiga sob a ótica dos clássicos gregos e o viés africanista, p. 24 (adaptado).",
+   "Disponível em: http://periodicos.pucminas.br/index.php/cadernoshistoria/article/view/15945/13450 Acesso em: maio, 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "rejeitavam os africanos como seres humanos."
+   },
+   {
+    "letra": "B",
+    "texto": "desconheciam qualquer tipo de preconceito étnico."
+   },
+   {
+    "letra": "C",
+    "texto": "percebiam a humanidade inteira como uma única família."
+   },
+   {
+    "letra": "D",
+    "texto": "reputavam os africanos como intrinsecamente inferiores."
+   },
+   {
+    "letra": "E",
+    "texto": "consideravam bárbaros aqueles que não falavam a língua grega."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.6,
+     47.26800000000003,
+     547.1390399999992,
+     58.30799999999999
+    ],
+    [
+     42.58896,
+     59.986080000000015,
+     547.0485119999992,
+     71.02607999999998
+    ],
+    [
+     42.58896,
+     72.58272,
+     547.1324159999999,
+     83.62271999999996
+    ],
+    [
+     42.588959999999986,
+     85.17935999999997,
+     212.10815999999997,
+     96.21935999999994
+    ],
+    [
+     149.64,
+     97.053,
+     547.15368,
+     105.09300000000007
+    ],
+    [
+     113.28312000000004,
+     106.29096000000004,
+     547.2823200000001,
+     114.33096000000012
+    ],
+    [
+     42.6,
+     126.46799999999996,
+     339.83544,
+     138.07103999999993
+    ],
+    [
+     42.6,
+     148.42809999999997,
+     288.3791039999999,
+     159.46809999999994
+    ],
+    [
+     42.588960000000014,
+     161.14617999999996,
+     312.221088,
+     172.18617999999992
+    ],
+    [
+     42.57792000000006,
+     173.74281999999994,
+     343.1871840000002,
+     184.7828199999999
+    ],
+    [
+     42.57792000000006,
+     186.46089999999992,
+     340.3112640000001,
+     197.5008999999999
+    ],
+    [
+     42.57792000000006,
+     199.0575399999999,
+     381.2078400000003,
+     210.09753999999987
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q026",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 26,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia a imagem e o texto a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nEm 2017, a rede inglesa BBC produziu um desenho animado chamado “Life in Roman Britain” (Vida na Bretanha Romana), de onde vem essa imagem. A representação de romanos de pele escura causou polêmica na época. Sobre esse debate, a profa. Hella Eckardt afirmou: “Não há dúvida de que existiam pessoas de outras partes do mundo na Bretanha romana. Não sabemos, necessariamente, qual a cor de suas peles, mas sabemos que havia movimentos. Temos norte-africanos confirmados na Muralha de Adriano, por exemplo”.\n\nDe acordo com esse texto, é **CORRETO** afirmar que",
+  "fontes": [
+   "Disponível em: https://www.historyextra.com/period/roman/how-ethnically-diverse-was-roman-britain/ Acesso em: maio, 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a diversidade étnica dos romanos é um fato comprovado."
+   },
+   {
+    "letra": "B",
+    "texto": "a Bretanha não recebia imigrantes graças ao seu afastamento."
+   },
+   {
+    "letra": "C",
+    "texto": "o Império romano era governado exclusivamente por italianos."
+   },
+   {
+    "letra": "D",
+    "texto": "inexistiam movimentos populacionais dentro do Império Romano."
+   },
+   {
+    "letra": "E",
+    "texto": "a Bretanha jamais foi conquistada pelos romanos, logo o debate é absurdo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q026_img1.png",
+    "pagina": 18,
+    "bbox": [
+     146.2,
+     256.3,
+     483.1,
+     480.2
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.56688000000008,
+     236.96889999999985,
+     226.6908960000001,
+     248.0088999999998
+    ],
+    [
+     146.16,
+     256.32,
+     483.12,
+     480.24
+    ],
+    [
+     56.76335999999999,
+     486.79488,
+     502.01855999999987,
+     494.83488
+    ],
+    [
+     42.6,
+     509.50464,
+     547.1136479999988,
+     520.5446400000001
+    ],
+    [
+     42.6,
+     522.22272,
+     547.1953439999991,
+     533.26272
+    ],
+    [
+     42.6,
+     534.81936,
+     547.2328800000003,
+     545.8593599999999
+    ],
+    [
+     42.60000000000002,
+     547.53744,
+     547.115855999999,
+     558.57744
+    ],
+    [
+     42.60000000000002,
+     560.13408,
+     547.1964479999999,
+     571.17408
+    ],
+    [
+     42.60000000000002,
+     572.73072,
+     169.23542399999997,
+     583.77072
+    ],
+    [
+     42.6,
+     601.4281,
+     299.537232,
+     613.03114
+    ],
+    [
+     42.6,
+     622.1881,
+     343.91582400000004,
+     633.2281
+    ],
+    [
+     42.60000000000002,
+     634.90618,
+     370.9251840000001,
+     645.9461799999999
+    ],
+    [
+     42.58896000000003,
+     647.5028199999999,
+     368.49748800000015,
+     658.54282
+    ],
+    [
+     42.58896000000004,
+     660.2209,
+     382.5370560000001,
+     671.2609
+    ],
+    [
+     42.57792000000006,
+     672.81754,
+     432.68404800000036,
+     683.85754
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q026_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q027",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 27,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a imagem a seguir:\n\n{{img:1}}\n\nÉ parte de uma pintura do século XV da Basílica de San Petronio e mostra\n\nMaomé sendo torturado por demônios no inferno.\n\nO que essa imagem nos revela sobre a visão cristã medieval a respeito do profeta do Islam?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Uma figura respeitada"
+   },
+   {
+    "letra": "B",
+    "texto": "Comparável a Jesus em santidade"
+   },
+   {
+    "letra": "C",
+    "texto": "Era uma importante figura histórica"
+   },
+   {
+    "letra": "D",
+    "texto": "Um perverso, precursor do Anticristo"
+   },
+   {
+    "letra": "E",
+    "texto": "Era simplesmente um desconhecido"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q027_img1.png",
+    "pagina": 19,
+    "bbox": [
+     115.2,
+     61.9,
+     468.7,
+     280.1
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.6,
+     47.26800000000003,
+     202.13020800000004,
+     58.30799999999999
+    ],
+    [
+     115.2,
+     61.92,
+     468.72,
+     280.08
+    ],
+    [
+     106.44767999999999,
+     285.30105999999967,
+     482.178624,
+     296.3410599999997
+    ],
+    [
+     106.44767999999999,
+     297.89769999999965,
+     348.0459359999999,
+     308.93769999999967
+    ],
+    [
+     35.52,
+     319.788,
+     487.58591999999993,
+     330.82800000000003
+    ],
+    [
+     42.60767999999996,
+     345.10272,
+     172.31663999999995,
+     356.14272
+    ],
+    [
+     42.59663999999995,
+     357.82079999999996,
+     233.36783999999983,
+     368.8608
+    ],
+    [
+     42.58559999999996,
+     370.41743999999994,
+     235.3053599999999,
+     381.45743999999996
+    ],
+    [
+     42.58559999999994,
+     383.0140799999999,
+     243.0940799999999,
+     394.05407999999994
+    ],
+    [
+     42.57455999999996,
+     395.7321599999999,
+     241.27468799999986,
+     406.77215999999993
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q027_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q028",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 28,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o meme a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nEle vem de uma página satírica do Facebook chamada *Fevdo Ocioso*, que utiliza memes para brincar com conteúdos medievais. Qual prática social comum na Idade Média está nele representada?",
+  "fontes": [
+   "Disponível em: https://www.facebook.com/photo.php?fbid=10217342974591945&set=gm. 277477682977978&type=3&theater Acesso em: ago., 2018."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A venda de relíquias"
+   },
+   {
+    "letra": "B",
+    "texto": "A confissão auricular"
+   },
+   {
+    "letra": "C",
+    "texto": "A venda de indulgências"
+   },
+   {
+    "letra": "D",
+    "texto": "A bênção dos pães e dos peixes"
+   },
+   {
+    "letra": "E",
+    "texto": "A corveia, dia de trabalho devido à Igreja"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q028_img1.png",
+    "pagina": 19,
+    "bbox": [
+     59.8,
+     450.0,
+     266.4,
+     714.2
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.56351999999996,
+     433.64351999999985,
+     193.57967999999994,
+     444.6835199999999
+    ],
+    [
+     278.4,
+     455.628,
+     529.735536,
+     466.668
+    ],
+    [
+     278.4,
+     468.22463999999997,
+     529.9386719999999,
+     479.26464
+    ],
+    [
+     278.41103999999996,
+     480.94271999999995,
+     529.7697599999999,
+     491.98272
+    ],
+    [
+     278.41103999999996,
+     493.53935999999993,
+     529.7631359999999,
+     504.57935999999995
+    ],
+    [
+     278.41103999999996,
+     506.1359999999999,
+     349.44129599999997,
+     517.1759999999999
+    ],
+    [
+     59.760000000000005,
+     450.0,
+     266.40000000000003,
+     714.24
+    ],
+    [
+     285.48767999999995,
+     556.7654399999999,
+     400.059696,
+     567.8054399999999
+    ],
+    [
+     285.48767999999995,
+     569.3620799999999,
+     401.94311999999996,
+     580.4020799999998
+    ],
+    [
+     285.48767999999995,
+     582.0801599999999,
+     419.72966399999996,
+     593.1201599999999
+    ],
+    [
+     285.48767999999995,
+     594.6768,
+     458.72956799999986,
+     605.7167999999999
+    ],
+    [
+     285.47664,
+     607.3948799999998,
+     499.8933119999999,
+     618.4348799999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q028_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q029",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 29,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o poema a seguir:\n\nPADRÃO\n\nO esforço é grande e o homem é pequeno.  \nEu, Diogo Cão, navegador, deixei  \nEste padrão ao pé do areal moreno  \nE para diante naveguei.\n\nA alma é divina e a obra é imperfeita.  \nEste padrão sinala ao vento e aos céus  \nQue, da obra ousada, é minha a parte feita:  \nO por-fazer é só com Deus.\n\nE ao imenso e possível oceano  \nEnsinam estas Quinas, que aqui vês,  \nQue o mar com fim será grego ou romano:  \nO mar sem fim é português.\n\nE a Cruz ao alto diz que o que me há na alma  \nE faz a febre em mim de navegar  \nSó encontrará de Deus na eterna calma  \nO porto sempre por achar.\n\n{{fonte:1}}\n\nNesse poema de 1918, o poeta Fernando Pessoa recorda um momento fundamental para a história moderna. Qual seria esse momento?",
+  "fontes": [
+   "13-9-1918  \n**Mensagem**. Fernando Pessoa. Lisboa: Parceria António Maria Pereira, 1934."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O Monoteísmo"
+   },
+   {
+    "letra": "B",
+    "texto": "O Absolutismo"
+   },
+   {
+    "letra": "C",
+    "texto": "A Reforma Protestante"
+   },
+   {
+    "letra": "D",
+    "texto": "As Grandes Navegações"
+   },
+   {
+    "letra": "E",
+    "texto": "A Queda de Constantinopla"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.6,
+     47.26800000000003,
+     175.965408,
+     58.30799999999999
+    ],
+    [
+     63.95135999999998,
+     72.58272,
+     110.33923199999997,
+     83.62271999999996
+    ],
+    [
+     63.96,
+     92.14800000000002,
+     274.36584,
+     103.18799999999999
+    ],
+    [
+     63.96000000000001,
+     104.74464,
+     228.3831359999999,
+     115.78463999999997
+    ],
+    [
+     63.96000000000001,
+     117.46271999999999,
+     237.22617599999987,
+     128.50271999999995
+    ],
+    [
+     63.96000000000001,
+     130.05935999999997,
+     180.160416,
+     141.09935999999993
+    ],
+    [
+     63.96,
+     151.90800000000002,
+     246.1696799999999,
+     162.94799999999998
+    ],
+    [
+     63.96000000000001,
+     164.62608,
+     256.642224,
+     175.66607999999997
+    ],
+    [
+     63.960000000000036,
+     177.22271999999998,
+     276.865296,
+     188.26271999999994
+    ],
+    [
+     63.960000000000036,
+     189.81935999999996,
+     199.14038399999998,
+     200.85935999999992
+    ],
+    [
+     63.96,
+     211.788,
+     216.83308799999986,
+     222.82799999999997
+    ],
+    [
+     63.96,
+     224.38464,
+     245.55033599999987,
+     235.42463999999995
+    ],
+    [
+     63.96000000000001,
+     236.98127999999997,
+     271.97568,
+     248.02127999999993
+    ],
+    [
+     63.96000000000001,
+     249.69935999999996,
+     200.34043200000002,
+     260.7393599999999
+    ],
+    [
+     63.96,
+     271.548,
+     287.86113600000004,
+     282.588
+    ],
+    [
+     63.95999999999998,
+     284.14464,
+     226.72823999999991,
+     295.18464
+    ],
+    [
+     63.95999999999998,
+     296.86271999999997,
+     259.067712,
+     307.90272
+    ],
+    [
+     63.96000000000001,
+     309.45935999999995,
+     193.02201599999995,
+     320.49935999999997
+    ],
+    [
+     63.96,
+     330.45095999999995,
+     100.34100000000001,
+     338.49096
+    ],
+    [
+     63.960000000000015,
+     339.56831999999997,
+     339.28336799999994,
+     347.60832
+    ],
+    [
+     42.5976,
+     362.38608,
+     529.8535199999992,
+     373.42608
+    ],
+    [
+     42.5976,
+     374.98272,
+     223.79711999999998,
+     386.02272
+    ],
+    [
+     42.5976,
+     400.29743999999994,
+     136.075488,
+     411.33743999999996
+    ],
+    [
+     42.586560000000006,
+     412.8940799999999,
+     135.58752000000004,
+     423.93407999999994
+    ],
+    [
+     42.57552,
+     425.6121599999999,
+     175.906704,
+     436.6521599999999
+    ],
+    [
+     42.57552000000001,
+     438.2087999999999,
+     186.30307200000001,
+     449.2487999999999
+    ],
+    [
+     42.56448,
+     450.92687999999987,
+     199.02446399999994,
+     461.9668799999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q029_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q030",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 30,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a imagem a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nTrata-se de imagem (c. 1630) feita por Zacharias Wagener, artista que esteve em Pernambuco a serviço do regime colonial holandês. Ela registra a(o)",
+  "fontes": [
+   "Disponível em: https://docs.ufpr.br/~lgeraldo/upoimagens1.html Acesso em: maio, 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "inferioridade da cultura negra."
+   },
+   {
+    "letra": "B",
+    "texto": "presença negra na América Portuguesa."
+   },
+   {
+    "letra": "C",
+    "texto": "religiosidade colonial exclusivamente católica."
+   },
+   {
+    "letra": "D",
+    "texto": "presença predominante de brancos na colônia."
+   },
+   {
+    "letra": "E",
+    "texto": "quotidiano de guerras e conflitos na época colonial.\n\n{{img:2}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q030_img1.png",
+    "pagina": 20,
+    "bbox": [
+     96.5,
+     506.2,
+     434.9,
+     703.4
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q030_img2.png",
+    "pagina": 21,
+    "bbox": [
+     45.4,
+     200.2,
+     542.2,
+     219.6
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   20,
+   21
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.56447999999999,
+     488.8382399999998,
+     202.10352,
+     499.87823999999983
+    ],
+    [
+     96.48,
+     506.16,
+     434.88,
+     703.44
+    ],
+    [
+     99.24,
+     708.813,
+     411.67439999999993,
+     716.853
+    ]
+   ],
+   "21": [
+    [
+     42.6,
+     47.270500000000084,
+     547.2196319999994,
+     58.31050000000005
+    ],
+    [
+     42.60000000000001,
+     59.98858000000007,
+     301.86336,
+     71.02858000000003
+    ],
+    [
+     42.60000000000002,
+     85.18186000000003,
+     210.14635199999992,
+     96.22185999999999
+    ],
+    [
+     42.58896000000004,
+     97.89994000000002,
+     261.491184,
+     108.93993999999998
+    ],
+    [
+     42.577920000000006,
+     110.49658,
+     288.3470879999999,
+     121.53657999999996
+    ],
+    [
+     42.577920000000034,
+     123.21465999999998,
+     293.25216000000006,
+     134.25465999999994
+    ],
+    [
+     42.566880000000026,
+     135.81129999999996,
+     314.66976,
+     146.85129999999992
+    ],
+    [
+     45.36,
+     200.16,
+     542.16,
+     219.6
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q030_p20.jpg",
+   "revisao/Q030_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q031",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 31,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\n*Essa corrente de Pensamento foi o primeiro paradigma a caracterizar a Geografia, que*  \n*emerge no final do século XIX, com a passagem do capitalismo concorrencial para*  \n*uma fase monopolista e imperialista. Seus defensores afirmam que as condições*  \n*naturais, especialmente as climáticas, e, dentro delas, a variação da temperatura, ao*  \n*longo das estações do ano, definia o comportamento do homem, interferindo na sua*  \n*capacidade de progredir. Cresceriam aqueles países ou povos que estivessem*\n\n*localizados em áreas climáticas mais propícias.*\n\n{{fonte:1}}\n\nCom base nas informações contidas no texto, assinale a Corrente de Pensamento Geográfico descrita.",
+  "fontes": [
+   "*(*Adaptado de CORRÊA, R.J. Espaço: um conceito-chave da Geografia. IN: CASTRO, Iná *et al*. (Org.) **Geografia:**  \n**Conceitos e Temas**. Rio de Janeiro: Bertrand Brasil, 1995.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Analogia Geográfica"
+   },
+   {
+    "letra": "B",
+    "texto": "Geografia Capitalista"
+   },
+   {
+    "letra": "C",
+    "texto": "Determinismo Geográfico"
+   },
+   {
+    "letra": "D",
+    "texto": "Ecogeografia"
+   },
+   {
+    "letra": "E",
+    "texto": "Possibilismo Geográfico"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.56688000000001,
+     236.94873999999982,
+     166.09896000000003,
+     247.98873999999978
+    ],
+    [
+     81.96,
+     263.98799999999994,
+     508.449552,
+     275.028
+    ],
+    [
+     81.95999999999998,
+     276.58464,
+     508.3744799999999,
+     287.62464
+    ],
+    [
+     81.95999999999998,
+     289.18127999999996,
+     508.1945279999998,
+     300.22128
+    ],
+    [
+     81.95999999999998,
+     301.89935999999994,
+     508.4572799999999,
+     312.93935999999997
+    ],
+    [
+     81.95999999999998,
+     314.4959999999999,
+     508.24200000000013,
+     325.53599999999994
+    ],
+    [
+     81.95999999999998,
+     327.2140799999999,
+     508.30823999999996,
+     338.25407999999993
+    ],
+    [
+     81.95999999999998,
+     339.8107199999999,
+     313.72934399999997,
+     350.8507199999999
+    ],
+    [
+     81.96,
+     358.41299999999995,
+     508.35737999999986,
+     366.453
+    ],
+    [
+     81.95999999999987,
+     368.1333599999999,
+     295.47747599999985,
+     376.17335999999995
+    ],
+    [
+     42.60000000000001,
+     396.7968999999998,
+     545.8782720000002,
+     407.83689999999984
+    ],
+    [
+     42.6,
+     417.58799999999997,
+     163.79049600000002,
+     428.628
+    ],
+    [
+     42.60000000000001,
+     430.18463999999994,
+     166.792272,
+     441.22463999999997
+    ],
+    [
+     42.58896,
+     442.90271999999993,
+     188.63270399999996,
+     453.94271999999995
+    ],
+    [
+     42.58896,
+     455.4993599999999,
+     128.86545600000002,
+     466.53935999999993
+    ],
+    [
+     42.588959999999986,
+     468.0959999999999,
+     182.02747199999993,
+     479.1359999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q031_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q032",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 32,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Numa determinada região, foi realizada uma pesquisa de caráter geográfico, da qual se extraiu do Relatório Final o seguinte texto:\n\n“*Na área investigada, observa-se um amplo depósito sedimentar aluvial, formado por um* *curso fluvial desembocando em um corpo de água mais ou menos calmo (mar), cuja porção* *subaérea apresenta-se em planta com forma triangular. Esse tipo de paisagem é formado* *pela predominância de processos fluviais sobre os marinhos, gerando superfície plana de*\n\n*agradação.*”\n\nO texto exemplifica estudo desenvolvido por uma área de Geografia, assim conhecida:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Biogeografia Fluvial."
+   },
+   {
+    "letra": "B",
+    "texto": "Fitogeografia Marinha."
+   },
+   {
+    "letra": "C",
+    "texto": "Geotectônica."
+   },
+   {
+    "letra": "D",
+    "texto": "Antropogeografia."
+   },
+   {
+    "letra": "E",
+    "texto": "Geomorfologia."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.577920000000006,
+     506.12879999999984,
+     543.4086240000004,
+     517.1687999999999
+    ],
+    [
+     42.566880000000026,
+     518.7254399999998,
+     197.42606400000005,
+     529.7654399999999
+    ],
+    [
+     71.04,
+     545.6281,
+     524.957328,
+     556.6681
+    ],
+    [
+     71.05103999999994,
+     560.1457,
+     525.0003839999997,
+     571.1857
+    ],
+    [
+     71.05103999999994,
+     574.6632999999999,
+     524.9242080000002,
+     585.7032999999999
+    ],
+    [
+     71.05103999999996,
+     589.1809,
+     524.8679039999994,
+     600.2208999999999
+    ],
+    [
+     71.05103999999996,
+     603.81994,
+     129.80591999999996,
+     614.8599399999999
+    ],
+    [
+     42.566880000000026,
+     640.4083199999998,
+     465.745536,
+     651.4483199999999
+    ],
+    [
+     42.6,
+     662.268,
+     163.49903999999998,
+     673.308
+    ],
+    [
+     42.58896,
+     674.86464,
+     174.02678400000002,
+     685.90464
+    ],
+    [
+     42.577920000000006,
+     687.58272,
+     131.905872,
+     698.62272
+    ],
+    [
+     42.577920000000006,
+     700.17936,
+     151.45771200000001,
+     711.2193599999999
+    ],
+    [
+     42.56688000000001,
+     712.776,
+     139.21104,
+     723.816
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q032_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q033",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 33,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O magnetismo terrestre é detectado por meio de uma bússola. A Terra é, portanto, um globo magnetizado. Uma das hipóteses apresentadas para explicar esse fato é aquela que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "defende a interferência das diferenças de rochas na Litosfera como determinante do campo magnético terrestre."
+   },
+   {
+    "letra": "B",
+    "texto": "sustenta que o Núcleo do planeta age como um dínamo autossustentável, convertendo energia mecânica em elétrica e induzindo campo magnético."
+   },
+   {
+    "letra": "C",
+    "texto": "advoga a ação das marés de sizígia que criam um campo magnético de Norte a Sul."
+   },
+   {
+    "letra": "D",
+    "texto": "assegura que o magnetismo terrestre deve-se às frequentes quedas de meteoros ocorridas num longínquo passado geológico."
+   },
+   {
+    "letra": "E",
+    "texto": "defende que o campo magnético terrestre é o resultado da cinemática das placas litosféricas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.6,
+     47.26800000000003,
+     547.2107999999992,
+     58.30799999999999
+    ],
+    [
+     42.58896,
+     59.986080000000015,
+     456.0468959999999,
+     71.02607999999998
+    ],
+    [
+     42.588959999999986,
+     85.17935999999997,
+     547.184304,
+     96.21935999999994
+    ],
+    [
+     56.731199999999944,
+     97.89743999999996,
+     154.58534399999996,
+     108.93743999999992
+    ],
+    [
+     42.57791999999995,
+     110.49407999999994,
+     546.9105119999997,
+     121.5340799999999
+    ],
+    [
+     56.73119999999995,
+     123.21215999999993,
+     312.84263999999996,
+     134.2521599999999
+    ],
+    [
+     42.57791999999995,
+     135.8087999999999,
+     468.85771199999965,
+     146.84879999999987
+    ],
+    [
+     42.57791999999989,
+     148.40543999999989,
+     547.0783199999997,
+     159.44543999999985
+    ],
+    [
+     56.73119999999989,
+     161.12351999999987,
+     203.03327999999985,
+     172.16351999999983
+    ],
+    [
+     42.56687999999989,
+     173.72015999999985,
+     512.2393919999995,
+     184.76015999999981
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q034",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 34,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Na superfície terrestre, podem ser encontradas dobras que são classificadas de acordo com diversos fatores, entre os quais o **aspecto morfológico**.\n\nObserve as figuras esquemáticas a seguir e assinale a classificada **CORRETAMENTE** como uma dobra anticlinal.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:1}}"
+   },
+   {
+    "letra": "B",
+    "texto": "{{img:2}}"
+   },
+   {
+    "letra": "C",
+    "texto": "{{img:4}}"
+   },
+   {
+    "letra": "D",
+    "texto": "{{img:3}}"
+   },
+   {
+    "letra": "E",
+    "texto": "{{img:5}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q034_img1.png",
+    "pagina": 22,
+    "bbox": [
+     62.6,
+     286.6,
+     247.0,
+     394.6
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q034_img2.png",
+    "pagina": 22,
+    "bbox": [
+     351.4,
+     287.2,
+     509.8,
+     398.9
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q034_img3.png",
+    "pagina": 22,
+    "bbox": [
+     349.0,
+     445.7,
+     540.0,
+     560.5
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q034_img4.png",
+    "pagina": 22,
+    "bbox": [
+     62.6,
+     446.4,
+     227.5,
+     561.6
+    ]
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q034_img5.png",
+    "pagina": 22,
+    "bbox": [
+     63.2,
+     595.8,
+     262.2,
+     698.3
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.566879999999855,
+     211.7529599999998,
+     547.1589120000001,
+     222.79295999999977
+    ],
+    [
+     42.57791999999989,
+     224.22815999999978,
+     318.88703999999984,
+     235.83119999999974
+    ],
+    [
+     42.6,
+     244.90800000000002,
+     547.31568,
+     256.51104
+    ],
+    [
+     42.58896000000004,
+     257.74752,
+     119.55652800000007,
+     268.78752000000003
+    ],
+    [
+     42.6,
+     289.908,
+     52.39248,
+     300.94800000000004
+    ],
+    [
+     332.52,
+     289.908,
+     342.31247999999994,
+     300.94800000000004
+    ],
+    [
+     62.64,
+     286.56,
+     246.96,
+     394.56
+    ],
+    [
+     351.36,
+     287.17750609999996,
+     509.76,
+     398.88
+    ],
+    [
+     42.6,
+     443.868,
+     51.796319999999994,
+     454.908
+    ],
+    [
+     333.36,
+     443.868,
+     343.15632,
+     454.908
+    ],
+    [
+     348.9599915,
+     445.68,
+     539.9999758,
+     560.5200053
+    ],
+    [
+     62.64,
+     446.40000000000003,
+     227.52,
+     561.6
+    ],
+    [
+     42.6,
+     602.0227199999999,
+     52.39248,
+     613.06272
+    ],
+    [
+     63.2499962,
+     595.7708135,
+     262.22070529999996,
+     698.270812
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q034_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q035",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 35,
+  "area": "",
+  "texto_base_id": "P4092-T5",
+  "textos_base_ids": [
+   "P4092-T5"
+  ],
+  "enunciado": "Em relação aos objetivos estabelecidos para a cobrança pelo uso da água no Brasil, conforme estabelece a Política Nacional de Recursos Hídricos, observe os mencionados a seguir:\n\n1. Obter recursos financeiros para financiamento dos programas e intervenções contemplados nos planos de recursos hídricos.\n\n2. Incentivar a racionalização do uso da água.\n\n3. Conseguir recursos financeiros para a instalação de escolas e faculdades rurais.\n\n4. Reconhecer a água como um bem econômico.\n\nEstá(ão) **CORRETO**(**S**)",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "apenas 1."
+   },
+   {
+    "letra": "B",
+    "texto": "apenas 2 e 3. c) apenas 3 e 4. d) apenas 1, 2 e 4. e) 1, 2, 3 e 4."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.6,
+     59.98858000000007,
+     522.2327999999998,
+     71.02858000000003
+    ],
+    [
+     42.611039999999946,
+     72.58522000000005,
+     472.0449599999999,
+     83.62522000000001
+    ],
+    [
+     63.96,
+     94.42809999999997,
+     545.1958079999995,
+     105.46809999999994
+    ],
+    [
+     78.00288,
+     107.14617999999996,
+     215.56127999999995,
+     118.18617999999992
+    ],
+    [
+     63.971040000000016,
+     119.74281999999994,
+     288.5378879999999,
+     130.7828199999999
+    ],
+    [
+     63.98207999999997,
+     132.33945999999992,
+     469.402896,
+     143.37945999999988
+    ],
+    [
+     64.00416000000007,
+     145.0575399999999,
+     304.3162560000001,
+     156.09753999999987
+    ],
+    [
+     42.6,
+     173.62810000000002,
+     156.91920000000002,
+     185.23113999999998
+    ],
+    [
+     42.6,
+     194.5081,
+     112.37040000000002,
+     205.54809999999998
+    ],
+    [
+     140.04,
+     194.5081,
+     548.112624,
+     205.54809999999998
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [
+   "2 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q035_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q036",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 36,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a figura esquemática a seguir:\n\n{{img:1}}\n\nSobre ela, analise as seguintes afirmativas:\n\n1. A planície embutida entre colinas e pontões não se presta bem ao desenvolvimento de atividades agrícolas, pois os solos são de baixa fertilidade e rasos.\n\n2. A rede de drenagem, como se pode deduzir, é sazonal intermitente, refletindo, assim, condições climáticas úmidas.\n\n3. O principal rio da área assume um padrão meandrante, o que demonstra pequenas diferenças altimétricas na área de planície.\n\n4. A cobertura vegetal que reveste boa parte das vertentes intensifica consideravelmente um processo denominado assoreamento fluvial que acaba atingindo a biodiversidade local.\n\n5. As áreas verdes, quando desmatadas, são espaços que melhor se prestam ao cultivo da cana-de-açúcar.\n\nEstá **CORRETO,** apenas, o que se afirma em",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1."
+   },
+   {
+    "letra": "B",
+    "texto": "3."
+   },
+   {
+    "letra": "C",
+    "texto": "2 e 4."
+   },
+   {
+    "letra": "D",
+    "texto": "3 e 5."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2 e 3."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q036_img1.png",
+    "pagina": 23,
+    "bbox": [
+     143.3,
+     262.8,
+     446.5,
+     459.6
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.60528000000005,
+     245.0304,
+     253.03872000000004,
+     256.07039999999995
+    ],
+    [
+     143.28,
+     262.8,
+     446.45242310000003,
+     459.573
+    ],
+    [
+     42.6,
+     470.868,
+     254.66515200000003,
+     481.908
+    ],
+    [
+     60.6,
+     490.428,
+     547.1902079999994,
+     501.468
+    ],
+    [
+     78.5952,
+     503.02464,
+     404.0301120000004,
+     514.06464
+    ],
+    [
+     60.58896000000004,
+     515.62128,
+     547.1239679999998,
+     526.6612799999999
+    ],
+    [
+     78.58416000000004,
+     528.3393599999999,
+     221.065296,
+     539.3793599999999
+    ],
+    [
+     60.577920000000034,
+     540.9359999999999,
+     547.1294879999992,
+     551.9759999999999
+    ],
+    [
+     78.57312000000003,
+     553.6540799999999,
+     233.78447999999997,
+     564.69408
+    ],
+    [
+     60.566880000000054,
+     566.25072,
+     547.1129279999993,
+     577.29072
+    ],
+    [
+     78.56208000000005,
+     578.84736,
+     504.87719999999985,
+     589.88736
+    ],
+    [
+     60.566880000000026,
+     591.56544,
+     546.9683040000001,
+     602.6054399999999
+    ],
+    [
+     78.56208000000002,
+     604.16208,
+     130.58366400000003,
+     615.2020799999999
+    ],
+    [
+     42.6,
+     623.6279999999999,
+     265.26023999999995,
+     635.23104
+    ],
+    [
+     42.6,
+     644.508,
+     73.13664,
+     655.548
+    ],
+    [
+     42.58896,
+     657.10464,
+     73.1256,
+     668.14464
+    ],
+    [
+     42.577920000000006,
+     669.70128,
+     91.48512,
+     680.74128
+    ],
+    [
+     42.57792,
+     682.41936,
+     91.47407999999999,
+     693.45936
+    ],
+    [
+     42.56687999999999,
+     695.016,
+     103.710816,
+     706.0559999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q036_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q037",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 37,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a figura ao lado que representa o esboço hipotético de uma dada paisagem e a circulação atmosférica.\n\n{{img:1}}\n\nO que significam, **respectivamente,** as áreas A e B?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Vórtice ciclônico e chuvas orográficas"
+   },
+   {
+    "letra": "B",
+    "texto": "Onda de leste e chuvas frontais"
+   },
+   {
+    "letra": "C",
+    "texto": "Anticiclone e ciclone"
+   },
+   {
+    "letra": "D",
+    "texto": "Zona de Convergência Intertropical e Anticiclone"
+   },
+   {
+    "letra": "E",
+    "texto": "Ciclone e Corrente de Jato"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q037_img1.png",
+    "pagina": 24,
+    "bbox": [
+     268.0,
+     50.9,
+     542.3,
+     245.9
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   24
+  ],
+  "caixas": {
+   "24": [
+    [
+     42.6,
+     47.26800000000003,
+     259.197072,
+     58.30799999999999
+    ],
+    [
+     42.60000000000002,
+     59.986080000000015,
+     259.09550399999995,
+     71.02607999999998
+    ],
+    [
+     42.60000000000002,
+     72.58272,
+     173.44497599999997,
+     83.62271999999996
+    ],
+    [
+     42.6,
+     103.548,
+     235.35067200000003,
+     115.15103999999997
+    ],
+    [
+     42.63312000000002,
+     116.26607999999999,
+     106.37035200000003,
+     127.30607999999995
+    ],
+    [
+     268.0,
+     50.85008300000004,
+     542.2501068,
+     245.88004049999995
+    ],
+    [
+     42.6,
+     137.02800000000002,
+     248.13609599999992,
+     148.06799999999998
+    ],
+    [
+     42.599999999999966,
+     149.62464,
+     218.73988799999998,
+     160.66463999999996
+    ],
+    [
+     42.588959999999986,
+     162.22127999999998,
+     163.67015999999998,
+     173.26127999999994
+    ],
+    [
+     42.588959999999986,
+     174.93935999999997,
+     259.15070399999996,
+     185.97935999999993
+    ],
+    [
+     63.940319999999986,
+     187.53599999999994,
+     117.105648,
+     198.5759999999999
+    ],
+    [
+     42.57791999999999,
+     200.25407999999993,
+     194.85374399999998,
+     211.2940799999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q037_p24.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q038",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 38,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a figura a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nAssinale o título que sintetiza **CORRETAMENTE** o que nela se constata.",
+  "fontes": [
+   "Disponível em: http://www.fau.usp.br Acesso em: jul., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Processos do ecossistema urbano e impactos ambientais"
+   },
+   {
+    "letra": "B",
+    "texto": "Ciclo do Carbono nas grandes cidades"
+   },
+   {
+    "letra": "C",
+    "texto": "Ciclo Hidrológico em espaço urbano"
+   },
+   {
+    "letra": "D",
+    "texto": "Processos de troca de calor e frente fria"
+   },
+   {
+    "letra": "E",
+    "texto": "Ciclo do Fósforo em ecossistema urbano"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q038_img1.png",
+    "pagina": 24,
+    "bbox": [
+     109.4,
+     299.5,
+     481.1,
+     573.1
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   24
+  ],
+  "caixas": {
+   "24": [
+    [
+     42.566880000000026,
+     276.0767999999998,
+     187.46136000000007,
+     287.11679999999984
+    ],
+    [
+     109.44,
+     299.52000000000004,
+     481.0500641,
+     573.12
+    ],
+    [
+     257.24560800000006,
+     580.05096,
+     468.43871999999993,
+     588.09096
+    ],
+    [
+     42.6,
+     615.22128,
+     397.9886399999999,
+     626.82432
+    ],
+    [
+     42.6,
+     639.468,
+     344.58374400000014,
+     650.508
+    ],
+    [
+     42.588959999999986,
+     652.18608,
+     253.61745599999983,
+     663.22608
+    ],
+    [
+     42.588959999999986,
+     664.7827199999999,
+     240.8121599999999,
+     675.82272
+    ],
+    [
+     42.57791999999998,
+     677.37936,
+     259.043616,
+     688.41936
+    ],
+    [
+     42.56688,
+     690.09744,
+     264.0844799999999,
+     701.13744
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q038_p24.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q039",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 39,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\n*Olha estas velhas árvores, mais belas*  \n*Do que as árvores moças, mais amigas,*  \n*Tanto mais belas quanto mais antigas,*  \n*Vencedoras da idade e das procelas...*\n\n*O homem, a fera e o inseto, à sombra delas*\n\n*Vivem, livres da fome e de fadigas:*\n\n*E em seus galhos abrigam-se as cantigas*\n\n*E os amores das aves tagarelas*.\n\n(Versos do poema **Velhas Árvores**, de Olavo Bilac)\n\nAs árvores que compõem florestas e outras formações vegetais são estudadas pela Fitogeografia, consideradas muito importantes para o planeta e para a sociedade, porque\n\n1. ajudam na regulação do clima regional.\n\n2. contribuem consideravelmente para os processos de assoreamento dos rios e riachos.\n\n3. colaboram com a infiltração das águas e a recarga do lençol freático.  \n4. diminuem o processo de evapotranspiração.  \n5. sequestram o carbono existente na baixa atmosfera terrestre.\n\nEstão **CORRETOS** os itens",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "2 e 5, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "2 e 4, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "1, 3 e 4, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "1, 3 e 5, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 3, 4 e 5."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   25
+  ],
+  "caixas": {
+   "25": [
+    [
+     42.6,
+     47.26800000000003,
+     166.13208000000003,
+     58.30799999999999
+    ],
+    [
+     78.48,
+     68.02800000000002,
+     264.44769599999995,
+     79.06799999999998
+    ],
+    [
+     78.48,
+     80.62810000000002,
+     274.845168,
+     91.66809999999998
+    ],
+    [
+     78.48,
+     93.34799999999996,
+     266.9129279999999,
+     104.38799999999992
+    ],
+    [
+     78.48,
+     105.94799999999998,
+     266.1887039999999,
+     116.98799999999994
+    ],
+    [
+     78.48,
+     118.548,
+     293.1406559999999,
+     129.58799999999997
+    ],
+    [
+     78.48,
+     131.2681,
+     249.77222399999988,
+     142.30809999999997
+    ],
+    [
+     78.48,
+     143.86810000000003,
+     282.825984,
+     154.9081
+    ],
+    [
+     78.48,
+     156.58799999999997,
+     238.74768,
+     167.62799999999993
+    ],
+    [
+     78.48,
+     173.97299999999996,
+     263.195782,
+     182.01300000000003
+    ],
+    [
+     42.6,
+     193.30809999999997,
+     547.2273600000002,
+     204.34809999999993
+    ],
+    [
+     42.6,
+     206.02617999999995,
+     408.9348000000002,
+     217.06617999999992
+    ],
+    [
+     77.88,
+     224.3881,
+     287.9005439999999,
+     235.42809999999997
+    ],
+    [
+     77.86896,
+     236.98474,
+     519.04944,
+     248.02473999999995
+    ],
+    [
+     77.85792000000001,
+     249.70281999999997,
+     432.21874,
+     260.74281999999994
+    ],
+    [
+     77.84688,
+     262.29945999999995,
+     312.39168,
+     273.33946000000003
+    ],
+    [
+     77.84688,
+     275.01754,
+     396.2062560000001,
+     286.05754
+    ],
+    [
+     42.6,
+     296.748,
+     177.11356800000001,
+     308.35104
+    ],
+    [
+     42.6,
+     316.4281,
+     133.7352,
+     327.4681
+    ],
+    [
+     42.58896,
+     329.02474,
+     133.72416,
+     340.06474000000003
+    ],
+    [
+     42.57792,
+     341.62138,
+     145.97856,
+     352.66138
+    ],
+    [
+     42.58896,
+     354.33946,
+     145.96752,
+     365.37946
+    ],
+    [
+     42.57792,
+     366.9361,
+     128.200848,
+     377.97610000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q039_p25.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q040",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 40,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\n**Chuva deixa mortos e desabrigados na Região Metropolitana do Recife**\n\n*Em 24 horas, choveu, na região, o esperado para a metade* *do mês de julho e deslizamentos causaram vítimas. Em* *Paulista, Igarassu e Olinda, as aulas foram suspensas***.**\n\n{{img:1}}\n\n{{fonte:1}}\n\nOs deslizamentos nas encostas acarretam, em áreas urbanas, diversos problemas, como os que são mencionados a seguir, **EXCETO**:",
+  "fontes": [
+   "**(**Notícia veiculada no portal G1, em 24/07/2019)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Elevado custo de recuperação da área atingida."
+   },
+   {
+    "letra": "B",
+    "texto": "Desvalorização econômica da área atingida."
+   },
+   {
+    "letra": "C",
+    "texto": "Eliminação da camada superficial do solo."
+   },
+   {
+    "letra": "D",
+    "texto": "Destruição de bens."
+   },
+   {
+    "letra": "E",
+    "texto": "Acréscimo da infiltração das águas de chuvas na alta e média encosta."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q040_img1.png",
+    "pagina": 25,
+    "bbox": [
+     346.3,
+     414.7,
+     555.8,
+     537.8
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   25
+  ],
+  "caixas": {
+   "25": [
+    [
+     42.6,
+     392.268,
+     163.143552,
+     403.308
+    ],
+    [
+     42.6,
+     415.75104,
+     337.47840000000014,
+     426.79104
+    ],
+    [
+     42.6,
+     428.35104,
+     167.30894399999994,
+     439.39104000000003
+    ],
+    [
+     42.6,
+     453.228,
+     337.531392,
+     464.26800000000003
+    ],
+    [
+     42.6,
+     465.828,
+     337.3580640000001,
+     476.868
+    ],
+    [
+     42.6,
+     478.428,
+     311.10384,
+     490.03104
+    ],
+    [
+     346.32,
+     414.72,
+     555.84,
+     537.84
+    ],
+    [
+     167.16,
+     499.41299999999995,
+     337.46006400000005,
+     507.453
+    ],
+    [
+     42.6,
+     564.708,
+     536.593631999999,
+     575.748
+    ],
+    [
+     42.6,
+     577.3081,
+     204.54576,
+     588.9111399999999
+    ],
+    [
+     42.6,
+     598.068,
+     297.60302,
+     609.108
+    ],
+    [
+     42.6,
+     610.788,
+     280.45238,
+     621.828
+    ],
+    [
+     42.6,
+     623.3879999999999,
+     269.472,
+     634.428
+    ],
+    [
+     42.6,
+     635.988,
+     161.79887999999997,
+     647.028
+    ],
+    [
+     42.6,
+     648.708,
+     410.69568,
+     659.7479999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q040_p25.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q041",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 41,
+  "area": "",
+  "texto_base_id": "P4092-T6",
+  "textos_base_ids": [
+   "P4092-T6"
+  ],
+  "enunciado": "A Sociologia foi produto da Era da Razão, quando a ciência e o pensamento racional começaram a reinar de modo supremo. Os primeiros sociólogos estavam, portanto, ansiosos para que sua disciplina fosse levada a sério, e seus métodos tinham que ser vistos como rigorosamente científicos – um duro trabalho, dada a natureza de seu tema: o comportamento social humano.\n\n{{fonte:1}}\n\nCom base nas contribuições dos primeiros pensadores da Sociologia, **NÃO** podemos afirmar que",
+  "fontes": [
+   "THORPE, Christopher *et all*. **O livro da Sociologia.** 2. ed. São Paulo: Globo Livros, 2016, p. 13."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o comportamento humano foi percebido como evidência empírica e deveria ser tratado como um objeto das ciências naturais na concepção positivista."
+   },
+   {
+    "letra": "B",
+    "texto": "Émile Durkheim é considerado o primeiro a sistematizar a Sociologia, tornando-a aceita como uma ciência social no mundo acadêmico."
+   },
+   {
+    "letra": "C",
+    "texto": "a Sociologia iniciou suas investigações, utilizando o método quantitativo, ou seja, analisando dados mensuráveis, elaborando e testando hipóteses para obter uma compreensão do comportamento social humano."
+   },
+   {
+    "letra": "D",
+    "texto": "Max Weber foi o primeiro a propor uma abordagem interpretativa das novas relações, que surgiram a partir do processo de interação e coesão social."
+   },
+   {
+    "letra": "E",
+    "texto": "a teoria materialista de Karl Marx se refere às relações conflituosas entre duas forças sociais, ou seja, a análise dos processos psíquicos das relações sociais constitutivas da coletividade humana."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     42.6,
+     98.2201,
+     547.1057279999994,
+     110.2201
+    ],
+    [
+     42.5976,
+     111.46474,
+     547.2083999999991,
+     122.50473999999997
+    ],
+    [
+     42.5976,
+     124.06137999999999,
+     547.3353599999999,
+     135.10137999999995
+    ],
+    [
+     42.58655999999996,
+     136.77945999999997,
+     443.7260639999998,
+     147.81945999999994
+    ],
+    [
+     340.44,
+     154.173,
+     547.16448,
+     162.21300000000008
+    ],
+    [
+     414.11856,
+     163.53156,
+     547.1395560000001,
+     171.5715600000001
+    ],
+    [
+     42.6,
+     182.62810000000002,
+     517.915056,
+     194.23113999999998
+    ],
+    [
+     42.6,
+     206.86810000000003,
+     547.134623999999,
+     217.9081
+    ],
+    [
+     60.5952,
+     219.58618,
+     322.326,
+     230.62617999999998
+    ],
+    [
+     42.60000000000002,
+     232.18282,
+     547.18872,
+     243.22281999999996
+    ],
+    [
+     60.595200000000034,
+     244.90089999999998,
+     237.3687839999999,
+     255.94089999999994
+    ],
+    [
+     42.60000000000002,
+     257.49753999999996,
+     547.2196320000003,
+     268.53754
+    ],
+    [
+     60.58416,
+     270.09417999999994,
+     547.1677439999992,
+     281.13417999999996
+    ],
+    [
+     60.58416,
+     282.8122599999999,
+     134.670288,
+     293.85225999999994
+    ],
+    [
+     42.58896,
+     295.4088999999999,
+     547.2637919999999,
+     306.4488999999999
+    ],
+    [
+     60.58415999999994,
+     308.1269799999999,
+     303.261024,
+     319.1669799999999
+    ],
+    [
+     42.577920000000006,
+     320.72361999999987,
+     547.1898239999999,
+     331.7636199999999
+    ],
+    [
+     60.57311999999996,
+     333.44169999999986,
+     542.4613919999991,
+     344.4816999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q041_p26.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q042",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 42,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia a tirinha a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nO diálogo entre Mafalda e Susanita demonstra como a sociedade nos influencia no processo de socialização, determinando nosso comportamento diante do grupo. A Sociologia utiliza vários focos de investigação do comportamento social humano. Sobre esses focos, qual das alternativas a seguir **NÃO** representa uma característica do foco investigativo apresentado na tirinha?",
+  "fontes": [
+   "Disponível em: << https://slideplayer.com.br/slide/download/>> Acesso em: 15/06/19"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Existência de normas e regras orientadoras da vida dos indivíduos em sociedade"
+   },
+   {
+    "letra": "B",
+    "texto": "Interdependência orgânica dos indivíduos"
+   },
+   {
+    "letra": "C",
+    "texto": "Substituição da consciência individual pela consciência coletiva"
+   },
+   {
+    "letra": "D",
+    "texto": "Compreensão da ação que o grupo executa, orientando-se pela ação individual"
+   },
+   {
+    "letra": "E",
+    "texto": "Exteriorização das normas e regras sem estarem sujeitas à vontade dos indivíduos"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q042_img1.png",
+    "pagina": 26,
+    "bbox": [
+     75.6,
+     384.4,
+     514.1,
+     512.6
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     42.6,
+     371.7,
+     179.214672,
+     383.7
+    ],
+    [
+     75.60000000000001,
+     384.38800000000003,
+     514.131546,
+     512.64
+    ],
+    [
+     145.08,
+     514.5329999999999,
+     444.869892,
+     522.573
+    ],
+    [
+     42.59904000000003,
+     537.348,
+     547.0817759999991,
+     548.3879999999999
+    ],
+    [
+     42.59904000000003,
+     549.9446399999999,
+     547.1833439999992,
+     560.9846399999999
+    ],
+    [
+     42.59904000000003,
+     562.41984,
+     547.262832,
+     574.02288
+    ],
+    [
+     42.587999999999965,
+     575.25936,
+     409.47700800000024,
+     586.29936
+    ],
+    [
+     42.587999999999965,
+     600.57408,
+     456.9379680000001,
+     611.61408
+    ],
+    [
+     42.58799999999997,
+     613.17072,
+     264.21158399999996,
+     624.2107199999999
+    ],
+    [
+     42.587999999999994,
+     625.7673599999999,
+     369.9284160000002,
+     636.80736
+    ],
+    [
+     42.587999999999994,
+     638.4854399999999,
+     448.340016,
+     649.5254399999999
+    ],
+    [
+     42.58800000000002,
+     651.0820799999999,
+     465.9090719999999,
+     662.12208
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q042_p26.jpg"
+  ]
+ },
+ {
+  "id": "P4092-Q043",
+  "prova_id": "P4092",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 43,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a imagem a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nNela está presente uma ação recíproca de ideias, atos ou sentimentos entre indivíduos ou grupos sociais. Qual das alternativas a seguir **NÃO** indica uma característica do conceito sociológico apresentado na imagem?",
+  "fontes": [
+   "Disponível em: <<https://blog.curriculum.com.br/carreira/...>> Acesso em: 15/06/19"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Condutas anômicas"
+   },
+   {
+    "letra": "B",
+    "texto": "Contato social e comunicação"
+   },
+   {
+    "letra": "C",
+    "texto": "Mudança de comportamento por influência dos membros do grupo"
+   },
+   {
+    "letra": "D",
+    "texto": "Sistematização dos processos de socialização"
+   },
+   {
+    "letra": "E",
+    "texto": "Formação da personalidade dos indivíduos"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q043_img1.png",
+    "pagina": 27,
+    "bbox": [
+     170.6,
+     82.8,
+     419.0,
+     247.7
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   27
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.6,
+     60.30009999999993,
+     209.09884800000003,
+     72.30009999999993
+    ],
+    [
+     170.64000000000001,
+     82.8,
+     419.04,
+     247.68
+    ],
+    [
+     147.60348,
+     258.69035999999994,
+     442.23571200000004,
+     266.73036
+    ],
+    [
+     42.604800000000004,
+     281.38464,
+     547.1648159999988,
+     292.42464
+    ],
+    [
+     42.604800000000004,
+     293.98127999999997,
+     547.257552,
+     305.58432
+    ],
+    [
+     42.593759999999975,
+     306.69935999999996,
+     167.38219199999997,
+     317.73936
+    ],
+    [
+     42.6,
+     327.46799999999996,
+     157.88851200000002,
+     338.508
+    ],
+    [
+     42.58896,
+     340.06463999999994,
+     207.34992,
+     351.10463999999996
+    ],
+    [
+     42.577920000000034,
+     352.6612799999999,
+     385.34783999999996,
+     363.70127999999994
+    ],
+    [
+     42.57792000000006,
+     365.3793599999999,
+     287.3490720000001,
+     376.4193599999999
+    ],
+    [
+     42.566880000000054,
+     377.9759999999999,
+     270.86635199999995,
+     389.0159999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4094"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q043_p27.jpg"
+  ]
+ }
+]
