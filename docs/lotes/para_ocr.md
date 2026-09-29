@@ -57,3 +57,8 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2764 — SIMULADO_ENEM 2025  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 3º SIMULADO FARIAS BRITO 2025 - PROVA DIA 01.pdf
 * P2761 — SIMULADO_ENEM 2025  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 2º SIMULADO FARIAS BRITO 2025 - PROVA DIA 02.pdf
 * P2760 — SIMULADO_ENEM 2025  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 2º SIMULADO FARIAS BRITO 2025 - PROVA DIA 01.pdf
+* P2757 — SIMULADO_ENEM 2025  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 1º SIMULADO FARIAS BRITO 2025 - PROVA DIA 02.pdf
+* P2756 — SIMULADO_ENEM 2025  1 — 94 de 95 questões PENDENTES (símbolos sem tradução) — 1º SIMULADO FARIAS BRITO 2025 - PROVA DIA 01.pdf
+* P3489 — SIMULADO_ENEM 2024  2 — nenhuma questão — 5º SAS 2024 - prova d2 - @wagnernamed.pdf.pdf
+* P3488 — SIMULADO_ENEM 2024  1 — nenhuma questão — 5º SAS 2024 - prova d1 - @wagnernamed.pdf.pdf
+* P3484 — SIMULADO_ENEM 2024  1 — nenhuma questão — 4º  SAS 2024 - prova d1 - @wagnernamed.pdf
