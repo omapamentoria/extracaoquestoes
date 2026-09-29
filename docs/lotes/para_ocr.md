@@ -15,9 +15,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2526 — ENEM 2014 3ª aplicação 1 — texto: corrompido — ENEM - 2014 (3° apli.) - 1° dia - Prova branca.pdf
 * P2463 — ENEM 2021 PPL/reaplicação 2 — 89 de 90 questões PENDENTES (símbolos sem tradução) — enem 2021 PPL - 2 dia PROVA.pdf
 * P2460 — ENEM 2021 PPL/reaplicação 1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — enem 2021 PPL - 1 dia PROVA.pdf
-* P2513 — ENEM 2012 regular 2 — 93 de 93 questões PENDENTES (símbolos sem tradução) — ENEM - 2012 - 2° dia - Prova cinza.pdf
-* P2509 — ENEM 2012 regular 1 — 90 de 90 questões PENDENTES (símbolos sem tradução) — ENEM - 2012 - 1° dia - Prova cinza.pdf
-* P2500 — ENEM 2010 regular 2 — 95 de 95 questões PENDENTES (símbolos sem tradução) — ENEM - 2010 - 2° dia - Prova amarela (COM  GABARITO).pdf
 * P2421 — ENEM 2010 PPL/reaplicação 1 — 45 de 70 questões PENDENTES (símbolos sem tradução) — ENEM PPL - 2010 (2°apli) - 1° dia - Prova azul.pdf
 * P2904 — SIMULADO_ENEM 2022  1 — texto: parcialmente corrompido — SOMOS 1 - PRIMEIRO DIA.pdf
 * P2907 — SIMULADO_ENEM 2022  1 — texto: parcialmente corrompido — 1ºDia - Prova.pdf
