@@ -62,7 +62,8 @@ def junta_hifen(a, b):
 # ------------------------------------------------------------------ estilo
 def estilo(fontname):
     f = fontname.lower()
-    return ("bold" in f or "black" in f or "heavy" in f or "semibold" in f,
+    # ("-BdCn", "-Bd": negrito abreviado, ex. HelveticaNeueLTStd-BdCn da UNESP)
+    return ("bold" in f or "black" in f or "heavy" in f or "semibold" in f or re.search(r"[-,](bd|bdcn|bdit)\b|[-,]bd[a-z]{0,2}$|[a-z](600|700|800|900)", f) is not None,
             "italic" in f or "oblique" in f)
 ALT_PONTO = False      # a prova marca as alternativas com "A." (definido depois de ler todas as paginas)
 ESTILO_Q = None        # como a prova numera as questoes: "questao" (QUESTAO 91), "ponto" (10. texto), "solto" (numero sozinho na linha)
@@ -89,6 +90,9 @@ def cand_cabecalho(l):
     m = RE_Q_NUM.match(t)
     if m and not l.get("pequena"): out.append(("ponto", int(m.group(1))))
     if len(ws) == 1 and re.fullmatch(r"0*\d{1,3}", t) and ws[0]["bold"] and 0.85 * CORPO <= l["size"] <= 2 * CORPO: out.append(("solto", int(t)))
+    # numero entre chaves "{ 02 }" em negrito (FUVEST 2025-2026)
+    m = re.match(r"\{\s*0*(\d{1,3})\s*\}(\s|$)", t)
+    if m and any(w["bold"] for w in ws): out.append(("chave", int(m.group(1))))
     return out
 def eh_cabecalho(l):
     """numero da questao se a linha e o cabecalho de uma questao (no formato desta prova), senao None"""
@@ -248,7 +252,8 @@ def agrupa_linhas(ws, corpo):
     # cabecalho de questao em letra menor que o texto ("Questão 30" a 7 pt no ENEM 1998-2012): nao e indice/expoente
     for w in ws:
         if re.fullmatch(r"(?i)quest[ãa]o", w["text"]) and "bold" in w["fontname"].lower():
-            num_ = [o for o in ws if re.fullmatch(r"\d{1,3}", o["text"]) and abs(o["bottom"] - w["bottom"]) < 2.5 and 0 <= o["x0"] - w["x1"] < 2 * w["size"]]
+            num_ = [o for o in ws if re.fullmatch(r"\d{1,3}", o["text"]) and ((abs(o["bottom"] - w["bottom"]) < 2.5 and 0 <= o["x0"] - w["x1"] < 2 * w["size"])
+                    or (-1 <= o["top"] - w["bottom"] < 1.5 * w["size"] and abs(o["x0"] - w["x0"]) < 10))]   # ao lado ou embaixo (UERJ)
             if num_: w["cab_peq"] = num_[0]["cab_peq"] = True
     grandes = sorted([w for w in ws if w["size"] >= 0.8 * corpo or w.get("cab_peq")], key=lambda w: (w["top"], w["x0"]))
     peq = [w for w in ws if w["size"] < 0.8 * corpo and not w.get("cab_peq")]
@@ -536,6 +541,11 @@ def fracoes(page, ws):
         larg_sob = max(w["x1"] for w in sob) - min(w["x0"] for w in sob)
         if L > 1.3 * larg_sob + 3: continue
         if L < 0.3 * larg_sob: continue          # tracinho minusculo sobre palavra longa (enfeite/sublinhado de outra coisa)
+        # vetor/segmento/angulo marca 1-3 letras (F, AB, ABC); palavra longa embaixo do traco e enfeite de layout
+        # (faixa sobre "QUESTÃO" na UNESP virava \overrightarrow{QUeStÃo} e o cabecalho sumia)
+        # (numeral romano com traco, "MCCV", e todo maiusculo e continua valendo)
+        if any(re.search(r"(?i)quest[ãa]o", w["text"]) or (len(re.sub(r"[^A-Za-zÀ-ÿ]", "", w["text"])) > 3 and re.search(r"[a-zà-ÿ]", w["text"]))
+               for w in sob): continue
         verticais = [v for v in page.lines + page.rects if (v["bottom"] - v["top"]) > 4 and (v["x1"] - v["x0"]) < 2 and
                      v["top"] - 1 <= o["top"] <= v["bottom"] + 1 and (abs(v["x0"] - o["x0"]) < 1.5 or abs(v["x1"] - o["x1"]) < 1.5)]
         if verticais: continue
@@ -680,7 +690,7 @@ for pg in paginas:
         sub = [w for w in pg["ws"] if r[0] <= (w["x0"] + w["x1"]) / 2 < r[1] and r[2] <= (w["top"] + w["bottom"]) / 2 < r[3]]
         for l in agrupa_linhas(sub, CORPO):
             l["col"] = (r[0], r[1]); l["reg"] = ri; l["pg"] = pg["n"]; pg["linhas"].append(l)
-RE_CAB_Q = re.compile(r"^(?i:quest[ãa]o)\s*\d")
+RE_CAB_Q = re.compile(r"^((?i:quest[ãa]o)\s*\d|\{\s*\d{1,3}\s*\})")   # cabecalho de questao nunca e cabecalho/rodape da pagina
 def chave_rep(l):
     return (frozenset(re.sub(r"\d+", "", w["text"]) for w in l["ws"]) - {""}, round(l["top"] / 10))
 rep = collections.Counter()
@@ -733,6 +743,19 @@ for pg in paginas:
     # ("P1_1_Dia_LCT_REG_2_Amarelo.indd 5", "...indb 321") no pe/alto da pagina sai sempre.
     pg["linhas"] = [l for l in pg["linhas"] if not (extremo(l, H) and (RE_SLUG.search(txt_puro(l))
                     or any(l["top"] < b + 2 and l["bottom"] > t - 2 for t, b in _fx)))]
+    # cabecalho empilhado na margem (UERJ): "QUESTÃO" numa linha e o numero "01" logo abaixo, no comeco da linha do texto:
+    # o numero sobe para a linha do "QUESTÃO" (vira "QUESTÃO 01") e sai da linha de baixo
+    for l in list(pg["linhas"]):
+        if not (len(l["ws"]) == 1 and re.fullmatch(r"(?i)quest[ãa]o", l["ws"][0]["text"]) and l["ws"][0]["bold"]): continue
+        for m_ in pg["linhas"]:
+            if m_ is l or not (0 <= m_["top"] - l["bottom"] < 1.5 * l["size"]): continue
+            w0_ = min(m_["ws"], key=lambda w: w["x0"])
+            if re.fullmatch(r"0*\d{1,3}", w0_["text"]) and w0_["bold"] and l["x0"] - 10 <= w0_["x0"] <= l["x1"] + 10:
+                l["ws"].append(w0_); l["x1"] = max(l["x1"], w0_["x1"])
+                m_["ws"] = [w for w in m_["ws"] if w is not w0_]
+                if m_["ws"]: m_["x0"] = min(w["x0"] for w in m_["ws"]); m_["x1"] = max(w["x1"] for w in m_["ws"])
+                else: pg["linhas"].remove(m_)
+                break
     # tirinha/quadrinho em imagem embutida com o texto dos baloes numa fonte que o resto da pagina nao usa (Comic Sans):
     # o texto dos baloes e da figura (fica na imagem, nao vira texto nem parte a figura em duas). Texto escondido
     # debaixo da imagem ("QUESTAO 06" coberto pela tirinha) sai junto.
@@ -1600,11 +1623,11 @@ def _cadeia(estilo):
     while k_ is not None:
         caminho.add(k_); k_ = ant_.get(k_)
     return comp[fim], ini[fim], caminho
-_cad = {e: _cadeia(e) for e in ("questao", "ponto", "solto")}
+_cad = {e: _cadeia(e) for e in ("questao", "ponto", "solto", "chave")}
 if os.environ.get("DEBUGQ"):
     for pn_, _, _, l in _ord_l:
         if re.match(r"^\W*(QUEST|0?\d{1,3}\b)", txt_puro(l)): print("CAB?", pn_, txt_puro(l)[:30], cand_cabecalho(l), [w["bold"] for w in l["ws"][:2]], round(l["size"], 1))
-ESTILO_Q = max(("questao", "ponto", "solto"), key=lambda e: (_cad[e][0], -("questao", "ponto", "solto").index(e)))
+ESTILO_Q = max(("questao", "ponto", "solto", "chave"), key=lambda e: (_cad[e][0], -("questao", "ponto", "solto", "chave").index(e)))
 if _cad[ESTILO_Q][0] < 3: ESTILO_Q = None
 # numero solto em negrito so e cabecalho se faz parte da sequencia (numero "1", "2" sob fotos nao e questao)
 CAB_OK = _cad[ESTILO_Q][2] if ESTILO_Q == "solto" else None
@@ -1922,7 +1945,7 @@ for i_it, it in enumerate(itens):
                     atual = {"numero": n, "area": area, "idioma": idioma_de(n), **novo_bloco()}; questoes.append(atual); esperado = n + 1
                     atual["base_ref"] = base_atual["id"] if base_atual is not None and not base_atual.get("congelado") and base_atual["partes"] else None
                     if base_atual is not None: base_atual["congelado"] = True
-                    if re.fullmatch(r"((?i:quest[ãa]o)\s+)?0*\d{1,3}\s*[.)–-]?", t): l["uso"] = "cabecalho da questao"   # so o numero
+                    if re.fullmatch(r"(\{\s*)?((?i:quest[ãa]o)\s+)?0*\d{1,3}\s*[.)–-]?(\s*\})?", t): l["uso"] = "cabecalho da questao"   # so o numero
                     else: atual["partes"].append(("linha", l, it, "remove_num"))
                     atual["caixas"][it["pg"]].append([l["x0"], l["top"], l["x1"], l["bottom"]])
                     ult_linha = l; continue
@@ -2108,7 +2131,7 @@ def monta(bloco, prefixo, eh_questao):
         if l.get("tinta_meio"):
             alertas.append("PENDENTE: há um trecho desenhado (sem texto no PDF) entre “%s” e “%s” na linha “%s” — transcrever lendo a imagem" % (l["tinta_meio"][0], l["tinta_meio"][1], txt_puro(l)[:70]))
         md = md_linha(l)
-        if flag == "remove_num": md = re.sub(r"^\**((?i:quest[ãa]o)\s+)?0*\d{1,3}\s*[.)–-]?\s*\**\s*", "", md, count=1)
+        if flag == "remove_num": md = re.sub(r"^\**(\{\s*0*\d{1,3}\s*\}|((?i:quest[ãa]o)\s+)?0*\d{1,3}\s*[.)–-]?)\s*\**\s*", "", md, count=1)
         if flag is True and PERFIL == "enem": md = re.sub(r"^\**(?i:quest[ãa]o)\s+\d+\**\s*", "", md)
         pl = l["ws"][0]
         # varias alternativas na mesma linha (grade "a) [fig]   b) [fig]   c) [fig]"): uma alternativa por marcador
