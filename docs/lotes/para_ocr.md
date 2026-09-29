@@ -458,3 +458,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P0750 — DEMAIS 2018 regular  — nenhuma questão — Famerp - Redação CC 2018.pdf
 * P0748 — DEMAIS 2018 regular  — só 20 questões em 24 páginas — Famerp - Prova Dissertativa 2018.pdf
 * P2037 — DEMAIS 2017 2017.2  — nenhuma questão — unemat.pdf
+* P1831 — DEMAIS 2017 regular  — só 6 questões em 24 páginas — UFU 2017 2º Fase - Grupo 3.pdf
+* P1830 — DEMAIS 2017 regular  — só 6 questões em 26 páginas — UFU 2017 2º Fase - Grupo 2.pdf
+* P1829 — DEMAIS 2017 regular  — só 6 questões em 28 páginas — UFU 2017 2º Fase - Grupo 1.pdf
+* P1710 — DEMAIS 2017 regular  — nenhuma questão — UFGD 2017 PROVA.pdf
+* P0816 — DEMAIS 2017 regular  — só 18 questões (esperado ~54) — FATEC 2017_2 .pdf
+* P0815 — DEMAIS 2017 regular  — só 18 questões (esperado ~54) — FATEC 2017_1.pdf
+* P0745 — DEMAIS 2017 regular  — só 20 questões em 24 páginas — Famerp - Prova II - Conhecimentos específicos e redação - 2017.pdf
