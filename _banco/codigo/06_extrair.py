@@ -78,7 +78,12 @@ def letra_alt(l):
     if ALT_PONTO:
         m = re.match(r"^([A-E])\.(\s|$)", t)
         if m: return m.group(1)
+    # "A preocupação..." com a letra em negrito e espaco largo antes do texto normal (simulados MD) - so na prova que usa
+    if ALT_NEGRITO and re.fullmatch(r"[A-E]", w0["text"]) and w0["bold"] and len(l["ws"]) > 1:
+        w1 = sorted(l["ws"], key=lambda w: w["x0"])[1]
+        if not w1["bold"] and w1["x0"] - w0["x1"] > 0.4 * w0["size"]: return w0["text"]
     return None
+ALT_NEGRITO = False
 def eh_codigo_tok(x):
     """codigo interno de questao de simulado (ex.: "R387", "196SE02BIO2019II", "BAN_027SE01FIS2018I")"""
     return re.fullmatch(r"[A-Z0-9_]{4,}", x) is not None and re.search(r"\d", x) is not None and re.search(r"[A-Z]", x) is not None
@@ -581,6 +586,15 @@ _fa = collections.defaultdict(collections.Counter)
 for pg in paginas:
     for w in pg["ws"]: _fa[w["fontname"]][w["text"] if re.fullmatch(r"[A-E]", w["text"]) else "_outro"] += 1
 FONTES_ALT = {f for f, c in _fa.items() if all(c[L] >= 5 for L in "ABCD") and c["_outro"] <= 0.1 * sum(c.values())}
+# letra A-E em negrito + espaco largo + texto normal, muitas vezes na prova: formato de alternativa desta prova
+_an = collections.Counter()
+for pg in paginas:
+    for w in pg["ws"]:
+        if re.fullmatch(r"[A-E]", w["text"]) and w["bold"]:
+            if any(not o["bold"] and abs(o["bottom"] - w["bottom"]) < 3 and 0.4 * w["size"] < o["x0"] - w["x1"] < 2 * w["size"] for o in pg["ws"]):
+                _an[w["text"]] += 1
+ALT_NEGRITO = all(_an[L] >= 5 for L in "ABCD")
+if ALT_NEGRITO: print("alternativas com letra em negrito sem parêntese")
 if FONTES_ALT: print("fonte das letras das alternativas:", sorted(FONTES_ALT))
 _c = collections.Counter()
 for pg in paginas:
