@@ -216,3 +216,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2055 — UNESP 2018 regular  — nenhuma questão — Cópia de UNESP2018_2_1fase_prova.pdf
 * P1599 — UERJ 2018 regular  — só 3 questões em 40 páginas — 2º Exame Qualificação 2018.pdf
 * P1598 — UERJ 2018 regular  — nenhuma questão — 1º Exame Qualificação 2018.pdf
+* P1502 — UERJ 2018 regular  — só 6 questões em 16 páginas — UERJ 2018 - Exame Discursivo - Prova Qu¡mica.pdf
+* P1501 — UERJ 2018 regular  — só 6 questões em 16 páginas — UERJ 2018 - Exame Discursivo - Prova Portugus e Literatura.pdf
+* P1500 — UERJ 2018 regular  — só 6 questões em 16 páginas — UERJ 2018 - Exame Discursivo - Prova Matem tica.pdf
+* P1499 — UERJ 2018 regular  — só 6 questões em 24 páginas — UERJ 2018 - Exame Discursivo - Prova L¡ngua Estrangeira.pdf
+* P1496 — UERJ 2018 regular  — só 6 questões em 16 páginas — UERJ 2018 - Exame Discursivo - Prova F¡sica.pdf
+* P1495 — UERJ 2018 regular  — só 6 questões em 16 páginas — UERJ 2018 - Exame Discursivo - Prova Biologia.pdf
+* P1186 — FUVEST 2018 regular 2 — só 5 questões em 38 páginas — FUVEST 2018 - 2o dia - 3o dia.pdf
