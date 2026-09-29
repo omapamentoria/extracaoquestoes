@@ -289,3 +289,12 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2133 — UNICAMP 2013 regular 2 — nenhuma questão — Prova 2º dia.pdf
 * P2132 — UNICAMP 2013 regular 1 — nenhuma questão — Prova 1º dia.pdf
 * P1403 — UERJ 2013 regular  — 10 de 10 questões PENDENTES (símbolos sem tradução) — UERJ 2013 - Exame Discursivo - Prova Qu¡mica.pdf
+* P1402 — UERJ 2013 regular  — 10 de 10 questões PENDENTES (símbolos sem tradução) — UERJ 2013 - Exame Discursivo - Prova Portugus e Literatura.pdf
+* P1401 — UERJ 2013 regular  — 10 de 10 questões PENDENTES (símbolos sem tradução) — UERJ 2013 - Exame Discursivo - Prova Matem tica.pdf
+* P1399 — UERJ 2013 regular  — 30 de 30 questões PENDENTES (símbolos sem tradução) — UERJ 2013 - Exame Discursivo - Prova L¡ngua Estrangeira.pdf
+* P1398 — UERJ 2013 regular  — 10 de 10 questões PENDENTES (símbolos sem tradução) — UERJ 2013 - Exame Discursivo - Prova Hist¢ria.pdf
+* P1397 — UERJ 2013 regular  — 10 de 10 questões PENDENTES (símbolos sem tradução) — UERJ 2013 - Exame Discursivo - Prova Geografia.pdf
+* P1396 — UERJ 2013 regular  — 10 de 10 questões PENDENTES (símbolos sem tradução) — UERJ 2013 - Exame Discursivo - Prova F¡sica.pdf
+* P1395 — UERJ 2013 regular  — 10 de 10 questões PENDENTES (símbolos sem tradução) — UERJ 2013 - Exame Discursivo - Prova Biologia.pdf
+* P1156 — FUVEST 2013 regular 3 — só 11 questões em 38 páginas — FUVEST 2013 - 2a fase - 3o dia.pdf
+* P1154 — FUVEST 2013 regular 1 — 10 de 10 questões PENDENTES (símbolos sem tradução) — FUVEST 2013 - 2a fase - 1o dia.pdf
