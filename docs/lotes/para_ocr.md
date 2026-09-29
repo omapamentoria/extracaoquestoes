@@ -112,14 +112,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2134 — UNICAMP 2013 regular 3 — nenhuma questão — Prova 3º dia.pdf
 * P2133 — UNICAMP 2013 regular 2 — nenhuma questão — Prova 2º dia.pdf
 * P2132 — UNICAMP 2013 regular 1 — nenhuma questão — Prova 1º dia.pdf
-* P1156 — FUVEST 2013 regular 3 — só 11 questões em 38 páginas — FUVEST 2013 - 2a fase - 3o dia.pdf
 * P1096 — FUVEST 2013 regular  — nenhuma questão — FUVEST 2013 - 1a fase - PROVA.pdf
 * P2123 — UNICAMP 2012 regular  — nenhuma questão — Provas Português, Matemática, Literaturas.pdf
 * P2122 — UNICAMP 2012 regular  — nenhuma questão — Prova Ciências da Natureza.pdf
 * P2121 — UNICAMP 2012 regular  — nenhuma questão — Prova Ciências Humanas e Artes Língua Inglesa.pdf
-* P1383 — UERJ 2012 regular  — só 5 questões em 16 páginas — UERJ 2012 - Exame Discursivo - Prova Qu¡mica.pdf
-* P1382 — UERJ 2012 regular  — só 5 questões em 16 páginas — UERJ 2012 - Exame Discursivo - Prova Portugus e Literatura.pdf
-* P1381 — UERJ 2012 regular  — só 5 questões em 16 páginas — UERJ 2012 - Exame Discursivo - Prova Matem tica.pdf
 * P1380 — UERJ 2012 regular  — só 5 questões em 8 páginas — UERJ 2012 - Exame Discursivo - Prova L¡ngua Portuguesa Instrumental com RedaÆo.pdf
 * P1379 — UERJ 2012 regular  — só 5 questões em 32 páginas — UERJ 2012 - Exame Discursivo - Prova L¡ngua Estrangeira.pdf
 * P1378 — UERJ 2012 regular  — só 5 questões em 16 páginas — UERJ 2012 - Exame Discursivo - Prova Hist¢ria.pdf
