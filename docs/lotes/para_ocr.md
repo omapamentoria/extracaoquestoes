@@ -68,15 +68,9 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2237 — UNICAMP 2022 regular  — nenhuma questão — prova-ciencias-biologicas-saude.pdf
 * P1618 — UERJ 2022 2022.1  — nenhuma questão — UERJ - prova_2022.pdf
 * P1123 — FUVEST 2022 regular  — só 9 questões (esperado ~67) — FUVEST 2022 - 1a fase - PROVA.pdf
-* P2223 — UNICAMP 2021 regular  — só 3 questões em 25 páginas — Prova da área de Ciências Humanas-Artes.pdf
-* P2222 — UNICAMP 2021 regular  — só 3 questões em 25 páginas — Prova da área de Ciências Exatas-Tecnológicas.pdf
-* P2221 — UNICAMP 2021 regular  — só 3 questões em 25 páginas — Prova da área de Ciências Biológicas-Saúde.pdf
 * P1617 — UERJ 2021 2021.1  — nenhuma questão — UERJ 2021 - redação.pdf
 * P1616 — UERJ 2021 2021.1  — nenhuma questão — UERJ 2021 - prova.pdf
 * P1555 — UERJ 2021 regular  — nenhuma questão — UERJ 2021, 2022 e 2023.pdf
-* P1199 — FUVEST 2021 regular  — só 10 questões em 38 páginas — FUVEST 2021 - 2a fase - Provas Espec¡ficas.pdf
-* P2216 — UNICAMP 2020 regular 2 — só 2 questões em 27 páginas — unicamp2020_2fase_2dia_prova3.pdf
-* P2215 — UNICAMP 2020 regular 2 — só 6 questões em 38 páginas — unicamp2020_2fase_2dia_prova2.pdf
 * P2214 — UNICAMP 2020 regular 2 — nenhuma questão — unicamp2020_2fase_2dia_prova-3.pdf
 * P2213 — UNICAMP 2020 regular 2 — nenhuma questão — unicamp2020_2fase_2dia_prova-2.pdf
 * P2212 — UNICAMP 2020 regular 2 — nenhuma questão — unicamp2020_2fase_2dia_prova-1.pdf
