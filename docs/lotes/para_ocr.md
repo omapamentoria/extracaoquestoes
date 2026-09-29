@@ -156,17 +156,9 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1814 — DEMAIS 2016 regular 2 — nenhuma questão — UFU 2016 2º Dia 2º Fase.pdf
 * P1813 — DEMAIS 2016 regular 1 — nenhuma questão — UFU 2016 1º Dia 2º Fase.pdf
 * P1707 — DEMAIS 2016 regular  — só 6 questões (esperado ~44) — PSV2016_TIPOA.pdf
-* P0813 — DEMAIS 2016 regular  — só 18 questões (esperado ~54) — FATEC 2016_2.pdf
-* P0811 — DEMAIS 2016 regular  — só 18 questões (esperado ~54) — FATEC 2016_1.pdf
 * P1793 — DEMAIS 2015 regular 1 — nenhuma questão — UFU 2015 1º Dia 2º Fase.pdf
 * P1702 — DEMAIS 2015 regular  — só 6 questões (esperado ~38) — Prova_PSV_2015_Tipo_A.pdf
-* P0809 — DEMAIS 2015 regular  — só 18 questões (esperado ~54) — FATEC 2015_2.pdf
-* P0807 — DEMAIS 2015 regular  — só 18 questões (esperado ~54) — FATEC 2015_1.pdf
 * P1981 — DEMAIS 2014 regular  — só 44 questões (esperado ~301) — provas unemat 2014 -  2023.pdf
-* P1699 — DEMAIS 2014 regular  — só 2 questões (esperado ~80) — Prova_Objetiva_PSV-2014.pdf
-* P0805 — DEMAIS 2014 regular  — só 18 questões (esperado ~54) — FATEC 2014_2.pdf
-* P0803 — DEMAIS 2014 regular  — só 18 questões (esperado ~54) — FATEC 2014_1.pdf
-* P0801 — DEMAIS 2013 regular  — só 18 questões (esperado ~54) — FATEC 2013_2.pdf
 * P0799 — DEMAIS 2013 regular  — só 19 questões (esperado ~54) — FATEC 2013_1.pdf
 * P0797 — DEMAIS 2012 regular  — só 19 questões (esperado ~54) — FATEC 2012_2.pdf
 * P0795 — DEMAIS 2012 regular  — só 19 questões (esperado ~53) — FATEC 2012_1.pdf
