@@ -324,3 +324,12 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1138 — FUVEST 2010 regular  — só 9 questões em 38 páginas — FUVEST 2010 -2a fase - prova 3.pdf
 * P1137 — FUVEST 2010 regular  — só 9 questões (esperado ~20) — FUVEST 2010 -2a fase - prova 2.pdf
 * P1087 — FUVEST 2010 regular  — só 3 questões (esperado ~65) — FUVEST 2010 - 1a fase - PROVA.pdf
+* P2078 — SIMULADO_UNESP    — nenhuma questão — Simulado Unesp primeira fase.pdf
+* P1374 — SIMULADO_UERJ    — nenhuma questão — simulado uerj.pdf
+* P1372 — SIMULADO_UERJ    — nenhuma questão — UERJ 2 SIMULADO.pdf
+* P1370 — SIMULADO_UERJ    — só 3 questões (esperado ~7) — Simulado UERJ.pdf
+* P1368 — SIMULADO_UERJ    — só 6 questões em 16 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_QUIMICA_MD-1.pdf
+* P1367 — SIMULADO_UERJ    — só 6 questões em 12 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_BIOLOGIA_MD-1.pdf
+* P1364 — SIMULADO_UERJ    — só 6 questões em 16 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_QUIMICA_MD.pdf
+* P1363 — SIMULADO_UERJ    — só 6 questões em 12 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_BIOLOGIA_MD.pdf
+* P1360 — SIMULADO_UERJ    — só 6 questões em 16 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_QUIMICA_MD-1.pdf
