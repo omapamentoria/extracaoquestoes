@@ -88,7 +88,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2157 — UNICAMP 2016 regular  — nenhuma questão — Prova de Química, prova de Física e prova de Biologia - 2ª fase Unicamp 2016.pdf
 * P2156 — UNICAMP 2016 regular  — nenhuma questão — Prova de História, prova de Matemática e prova de Geografia - 2ª fase Unicamp 2016.pdf
 * P1174 — FUVEST 2016 regular 3 — erro no extrator — FUVEST 2016 - 2a fase - 3o dia.pdf
-* P1105 — FUVEST 2016 regular  — erro no extrator — FUVEST 2016 - 1a fase -PROVA.pdf
 * P1587 — UERJ 2015 regular  — só 5 questões em 40 páginas — 2º Exame Qualificação 2015.pdf
 * P1586 — UERJ 2015 regular  — nenhuma questão — 1º Exame Qualificação 2015.pdf
 * P1167 — FUVEST 2015 regular 2 — 17 de 17 questões PENDENTES (símbolos sem tradução) — FUVEST 2015 - 2o dia - 2o dia.pdf
@@ -102,18 +101,13 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2134 — UNICAMP 2013 regular 3 — nenhuma questão — Prova 3º dia.pdf
 * P2133 — UNICAMP 2013 regular 2 — nenhuma questão — Prova 2º dia.pdf
 * P2132 — UNICAMP 2013 regular 1 — nenhuma questão — Prova 1º dia.pdf
-* P1096 — FUVEST 2013 regular  — nenhuma questão — FUVEST 2013 - 1a fase - PROVA.pdf
 * P2123 — UNICAMP 2012 regular  — nenhuma questão — Provas Português, Matemática, Literaturas.pdf
 * P2122 — UNICAMP 2012 regular  — nenhuma questão — Prova Ciências da Natureza.pdf
 * P2121 — UNICAMP 2012 regular  — nenhuma questão — Prova Ciências Humanas e Artes Língua Inglesa.pdf
-* P1093 — FUVEST 2012 regular  — só 3 questões (esperado ~62) — FUVEST 2012 - 1a fase - PROVA.pdf
 * P2109 — UNICAMP 2011 regular 3 — nenhuma questão — Provas 3º dia.pdf
 * P2108 — UNICAMP 2011 regular 2 — nenhuma questão — Provas 2º dia.pdf
 * P2107 — UNICAMP 2011 regular  — nenhuma questão — Provas 1ª dia.pdf
-* P1090 — FUVEST 2011 regular  — nenhuma questão — FUVEST 2011- 1a fase - PROVA.pdf
 * P1137 — FUVEST 2010 regular  — só 9 questões (esperado ~20) — FUVEST 2010 -2a fase - prova 2.pdf
-* P1087 — FUVEST 2010 regular  — só 3 questões (esperado ~65) — FUVEST 2010 - 1a fase - PROVA.pdf
-* P2078 — SIMULADO_UNESP    — nenhuma questão — Simulado Unesp primeira fase.pdf
 * P1374 — SIMULADO_UERJ    — nenhuma questão — simulado uerj.pdf
 * P1372 — SIMULADO_UERJ    — nenhuma questão — UERJ 2 SIMULADO.pdf
 * P1370 — SIMULADO_UERJ    — só 3 questões (esperado ~7) — Simulado UERJ.pdf
