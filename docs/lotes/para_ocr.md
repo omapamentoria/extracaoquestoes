@@ -328,7 +328,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P0771 — DEMAIS 2023 regular 2 — só 20 questões em 28 páginas — famerp 2023 - dia 02 prova.pdf
 * P1952 — DEMAIS 2022 regular  — só 14 questões em 30 páginas — UFU 2022 2º Fase.pdf
 * P1951 — DEMAIS 2022 regular  — 13 de 14 questões PENDENTES (símbolos sem tradução) — UFU 2022 2º Fase (Francês).pdf
-* P1936 — DEMAIS 2022 regular  — 11 de 12 questões PENDENTES (símbolos sem tradução) — UFU 2022 1º Fase (Francês).pdf
 * P1253 — DEMAIS 2022 regular  — só 11 questões (esperado ~55) — prova tipo 1 - 2022.PDF
 * P0768 — DEMAIS 2022 regular  — só 20 questões em 28 páginas — Prova 2.pdf
 * P0723 — DEMAIS 2022 regular  — 30 de 30 questões PENDENTES (símbolos sem tradução) — famema2022 Tipo1.pdf
