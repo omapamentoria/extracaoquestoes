@@ -54,15 +54,11 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2265 — UNICAMP 2025 regular 2 — nenhuma questão — unicamp2025_2fase_2dia_prova-3.pdf
 * P2264 — UNICAMP 2025 regular 2 — nenhuma questão — unicamp2025_2fase_2dia_prova-2.pdf
 * P2263 — UNICAMP 2025 regular 2 — nenhuma questão — unicamp2025_2fase_2dia_prova-1.pdf
-* P1636 — UERJ 2025 regular  — nenhuma questão — 1º exame qualificação 2025.pdf
 * P2257 — UNICAMP 2024 regular 2 — nenhuma questão — unicamp2024_2fase_2dia.pdf
-* P1632 — UERJ 2024 regular  — nenhuma questão — 2o_EQ 2024.pdf
-* P1628 — UERJ 2024 regular  — nenhuma questão — 1º exame prova.pdf
 * P1224 — SIMULADO_FUVEST 2024   — só 2 questões (esperado ~71) — Simulado Fuvest.pdf
 * P2243 — UNICAMP 2023 regular 2 — nenhuma questão — 2fase_2dia_prova completa.pdf
 * P2242 — UNICAMP 2023 regular  — só 8 questões em 99 páginas — unicamp2023_1fase_vs2.pdf
 * P1625 — UERJ 2023 regular  — nenhuma questão — redacao_vestibular_2023.pdf
-* P1624 — UERJ 2023 regular  — nenhuma questão — prova_vetibular_2023.pdf
 * P2239 — UNICAMP 2022 regular  — nenhuma questão — prova-humanas-artes.pdf
 * P2238 — UNICAMP 2022 regular  — nenhuma questão — prova-exatas-tecnologicas.pdf
 * P2237 — UNICAMP 2022 regular  — nenhuma questão — prova-ciencias-biologicas-saude.pdf
