@@ -188,7 +188,7 @@ Extrator v139 (regras condicionais; regressão das 9 provas-base sem nenhuma mud
 * ✘ P2397 — ENEM 2004 — ENEM - 2004 - Prova amarela.pdf
 * ✔ P2388 — ENEM 2001 — ENEM - 2001 - Prova amarela.pdf
 * ✔ P2381 — ENEM 1999 — ENEM - 1999 - Prova amarela.pdf
-* ✔ P2377 — ENEM 1998 — ENEM - 1998 -  Prova amarela.pdf
+* ✘ P2377 — ENEM 1998 — ENEM - 1998 -  Prova amarela.pdf (fora do banco por decisão do Matheus: muitos erros)
 
 ## Outros
 

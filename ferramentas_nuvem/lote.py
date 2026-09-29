@@ -7,6 +7,11 @@ R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 B = os.path.join(R, "_banco")
 BM = os.path.expanduser("~/mnt/BM")
 nome, pids = sys.argv[1], sys.argv[2:]
+# provas que o Matheus decidiu deixar fora do banco (docs/lotes/fora_do_banco.txt): nunca sao extraidas
+_fora = os.path.join(R, "docs", "lotes", "fora_do_banco.txt")
+FORA = set(re.findall(r"^(P\d{4})", open(_fora).read(), re.M)) if os.path.exists(_fora) else set()
+if FORA & set(pids): print("fora do banco (pulando):", sorted(FORA & set(pids)))
+pids = [p for p in pids if p not in FORA]
 CAT = {d["id"]: d for d in json.load(open(os.path.join(B, "catalogo_debug.json"), encoding="utf-8"))}
 
 # 1. baixar
