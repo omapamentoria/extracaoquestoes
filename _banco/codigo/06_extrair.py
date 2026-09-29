@@ -87,12 +87,12 @@ def letra_alt(l):
         m = re.match(r"^([A-E])\.(\s|$)", t)
         if m: return m.group(1)
     # "A preocupação..." com a letra em negrito e espaco largo antes do texto normal (simulados MD) - so na prova que usa
-    # PDF do OCR: a letra da bolinha do ENEM sai como letra solta ("A texto"; o "C" as vezes sai "c"). So vale se a
-    # letra esta sobre uma bolinha achada na imagem (ocr_pdf.py), senao o artigo "A" no comeco da linha viraria alternativa
-    if OCR and re.fullmatch(r"[A-Ec]", w0["text"]) and len(l["ws"]) > 1:
-        cx_, cy_ = (w0["x0"] + w0["x1"]) / 2, (w0["top"] + w0["bottom"]) / 2
-        if any(b[0] - 2 <= cx_ <= b[2] + 2 and b[1] - 2 <= cy_ <= b[3] + 2 for b in BOLHAS.get(l.get("pg"), [])):
-            return w0["text"].upper()
+    # PDF do OCR: bolinha de alternativa do ENEM achada na imagem (ocr_pdf.py, com a letra lida sozinha) logo a
+    # esquerda do comeco da linha. (A letra que o tesseract leu dentro da bolinha ja saiu das palavras.)
+    if OCR and BOLHAS.get(l.get("pg")):
+        for b in BOLHAS[l["pg"]]:
+            if b[4] != "?" and min(b[3], l["bottom"]) - max(b[1], l["top"]) > 0.4 * (b[3] - b[1]) and -2 <= w0["x0"] - b[2] <= 3 * w0["size"]:
+                return b[4]
     if ALT_NEGRITO and re.fullmatch(r"[A-E]", w0["text"]) and w0["bold"] and len(l["ws"]) > 1:
         w1 = sorted(l["ws"], key=lambda w: w["x0"])[1]
         if not w1["bold"] and w1["x0"] - w0["x1"] > 0.4 * w0["size"]: return w0["text"]
@@ -244,7 +244,12 @@ def palavras(page):
     t3f = T3_FORMULA.get(page_orig.page_number, [])
     for w in ws:
         w["bold"], w["ital"] = estilo(w["fontname"])
-    if OCR: negrito_ocr(page_orig, ws)
+    if OCR:
+        negrito_ocr(page_orig, ws)
+        # letra lida dentro da bolinha de alternativa: a bolinha e o marcador (ver letra_alt), a letra nao e texto
+        bl_ = BOLHAS.get(page_orig.page_number, [])
+        ws = [w for w in ws if not any(b[0] - 1 <= (w["x0"] + w["x1"]) / 2 <= b[2] + 1 and b[1] - 1 <= (w["top"] + w["bottom"]) / 2 <= b[3] + 1
+                                       and len(w["text"]) <= 3 for b in bl_)]
     for w in ws:
         if t3f:
             hit = [b for b in t3f if b[0] < w["x1"] + 0.2 and b[2] > w["x0"] - 0.2 and b[1] < w["bottom"] and b[3] > w["top"]]
@@ -965,6 +970,15 @@ def detecta_figuras(pg):
         bx = w.get("caixa") or (w["x0"], w["top"], w["x1"], w["bottom"])
         x0, y0, x1, y1 = int(bx[0] * s) - (1 if w.get("latex") else 0), int(bx[1] * s) - (1 if w.get("latex") else 0), int(bx[2] * s) + 2, int(bx[3] * s) + 2
         tinta[max(0, y0):y1, max(0, x0):x1] = 0; caixas_txt[max(0, y0):y1, max(0, x0):x1] = 1
+    if OCR:
+        # a caixa de palavra do tesseract nao cobre toda a tinta da letra (acento, descendente, letra perdida): apaga a
+        # faixa inteira de cada linha de texto corrido (3+ palavras), com folga, para os restos nao virarem "figura"
+        for l_ in pg["linhas"]:
+            if len(l_["ws"]) < 3: continue
+            fz = 0.25 * l_["size"]
+            tinta[max(0, int((l_["top"] - fz) * s)):int((l_["bottom"] + fz) * s) + 1, max(0, int((l_["x0"] - fz) * s)):int((l_["x1"] + fz) * s) + 1] = 0
+    for b_ in BOLHAS.get(pg["n"], []):      # OCR: bolinha de alternativa e marcador, nao figura
+        tinta[max(0, int((b_[1] - 1) * s)):int((b_[3] + 1) * s) + 1, max(0, int((b_[0] - 1) * s)):int((b_[2] + 1) * s) + 1] = 0
     Hp, Wp = tinta.shape
     tinta[: int(0.075 * Hp)] = 0; tinta[int(0.935 * Hp):] = 0       # faixa de cabecalho/rodape
     for L_ in LOGOS:       # logotipo repetido nas paginas: nao e figura (nem se junta com a figura vizinha)
