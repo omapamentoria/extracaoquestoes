@@ -100,12 +100,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P0711 — DEMAIS 2019 regular  — texto: sem_texto (imagem) — Prova II- objetiva e Prova III- redação.pdf
 * P0715 — DEMAIS 2020 regular  — texto: sem_texto (imagem) — Prova I- discursiva 2020.pdf
 * P0716 — DEMAIS 2020 regular  — texto: sem_texto (imagem) — Prova II- objetiva e Prova III- redação.pdf
-* P1286 — DEMAIS 2025 regular 2 — texto: parcialmente corrompido — quimica 2025.PDF
 * P1704 — DEMAIS 2015 regular  — texto: sem_texto (imagem) — Prova_Redacao_PSV_2015.PDF
 * P1716 — DEMAIS 2019 regular  — texto: parcialmente corrompido — REDACAO-PSV2019.pdf
 * P1792 — DEMAIS 2015 regular 1 — texto: parcialmente corrompido — UFU 2015 1º Dia 2º Fase (Francês).pdf
 * P1812 — DEMAIS 2016 regular 1 — texto: parcialmente corrompido — UFU 2016 1º Dia 2º Fase (Francês).pdf
-* P1859 — DEMAIS 2019 regular 2 — texto: parcialmente corrompido — UFU 2019 2º Dia 1º Fase (Francês).pdf
 * P1874 — DEMAIS 2019 regular 1 — texto: parcialmente corrompido — UFU 2019 1º Dia 2º Fase (Francês).pdf
 * P1306 — DEMAIS 2026 regular 2 — nenhuma questão — sociologia 2026.PDF
 * P1305 — DEMAIS 2026 regular 2 — nenhuma questão — redação 2026.PDF
