@@ -135,17 +135,9 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1278 — DEMAIS 2025 regular 1 — só 9 questões (esperado ~40) — prova tipo 1 - 2025.PDF
 * P0779 — DEMAIS 2025 regular 2 — só 20 questões em 28 páginas — famerp 2025- dia 02 prova.pdf
 * P1275 — DEMAIS 2024 regular 2 — nenhuma questão — redação 2024.PDF
-* P1269 — DEMAIS 2024 regular 2 — nenhuma questão — filosofia 2024.PDF
-* P1267 — DEMAIS 2024 regular 2 — nenhuma questão — arte 2024.PDF
 * P1266 — DEMAIS 2024 regular 1 — só 9 questões (esperado ~38) — prova tipo 1 - 2024.PDF
-* P0839 — DEMAIS 2024 2024.2  — nenhuma questão — prova-fatec-vestibular-2024-2.pdf
-* P0836 — DEMAIS 2024 2024.1  — só 13 questões (esperado ~54) — caderno-de-prova-fatec-2024.pdf
 * P0775 — DEMAIS 2024 regular 2 — só 20 questões em 28 páginas — famerp 2024 - dia 02 prova.pdf
 * P1968 — DEMAIS 2023 regular  — nenhuma questão — planner diário.pdf
-* P1264 — DEMAIS 2023 regular 2 — nenhuma questão — sociologia 2023.PDF
-* P1263 — DEMAIS 2023 regular 2 — nenhuma questão — quimica 2023.PDF
-* P1262 — DEMAIS 2023 regular 2 — nenhuma questão — matematica 2023.PDF
-* P1261 — DEMAIS 2023 regular 2 — nenhuma questão — lingua portuguesa e literatura 2023.PDF
 * P1260 — DEMAIS 2023 regular 2 — nenhuma questão — historia 2023.PDF
 * P1259 — DEMAIS 2023 regular 2 — nenhuma questão — fisica 2023.PDF
 * P1258 — DEMAIS 2023 regular 2 — nenhuma questão — filosofia 2023.PDF
