@@ -3718,7 +3718,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": "A",
+  "gabarito": null,
   "anulada": false,
   "paginas": [
    8
@@ -4007,8 +4007,10 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [],
-  "status_revisao": "automático ok",
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
   "recortes": [
    "revisao/Q015_p8.jpg"
   ]
