@@ -425,3 +425,12 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1894 — DEMAIS 2020 regular  — nenhuma questão — UFU 2020 2º Fase (Francês).pdf
 * P1879 — DEMAIS 2020 regular  — 10 de 11 questões PENDENTES (símbolos sem tradução) — UFU 2020 1º Fase (Francês).pdf
 * P1719 — DEMAIS 2020 regular  — nenhuma questão — PSV-2020_Prova_Reda‡ֶo.pdf
+* P1337 — DEMAIS 2020 regular  — nenhuma questão — 2020.1 - USS - PROVA.pdf
+* P1336 — DEMAIS 2020 regular  — nenhuma questão — 2020.1 - 2 ED - USS - PROVA.pdf
+* P1249 — DEMAIS 2020 regular 2 — nenhuma questão — redacao 2020.PDF
+* P1248 — DEMAIS 2020 regular 2 — nenhuma questão — quimica 2020.PDF
+* P1247 — DEMAIS 2020 regular 2 — nenhuma questão — matematica 2020.PDF
+* P1246 — DEMAIS 2020 regular 2 — nenhuma questão — lingua portuguesa e literatura 2020.PDF
+* P1245 — DEMAIS 2020 regular 2 — nenhuma questão — historia 2020.PDF
+* P1244 — DEMAIS 2020 regular 2 — nenhuma questão — fisica 2020.PDF
+* P1243 — DEMAIS 2020 regular 2 — nenhuma questão — filosofia 2020.PDF
