@@ -245,3 +245,12 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1463 — UERJ 2016 regular  — só 5 questões em 16 páginas — UERJ 2016 - Exame Discursivo - Prova Qu¡mica.pdf
 * P1462 — UERJ 2016 regular  — só 5 questões em 16 páginas — UERJ 2016 - Exame Discursivo - Prova Portugus e Literatura.pdf
 * P1461 — UERJ 2016 regular  — só 5 questões em 16 páginas — UERJ 2016 - Exame Discursivo - Prova Matem tica.pdf
+* P1460 — UERJ 2016 regular  — só 5 questões em 8 páginas — UERJ 2016 - Exame Discursivo - Prova L¡ngua Portuguesa Instrumental com RedaÆo.pdf
+* P1459 — UERJ 2016 regular  — só 6 questões em 24 páginas — UERJ 2016 - Exame Discursivo - Prova L¡ngua Estrangeira.pdf
+* P1458 — UERJ 2016 regular  — só 5 questões em 16 páginas — UERJ 2016 - Exame Discursivo - Prova Hist¢ria.pdf
+* P1457 — UERJ 2016 regular  — só 5 questões em 16 páginas — UERJ 2016 - Exame Discursivo - Prova Geografia.pdf
+* P1456 — UERJ 2016 regular  — só 5 questões em 16 páginas — UERJ 2016 - Exame Discursivo - Prova F¡sica.pdf
+* P1455 — UERJ 2016 regular  — só 5 questões em 16 páginas — UERJ 2016 - Exame Discursivo - Prova Biologia.pdf
+* P1174 — FUVEST 2016 regular 3 — erro no extrator — FUVEST 2016 - 2a fase - 3o dia.pdf
+* P1172 — FUVEST 2016 regular 1 — 13 de 14 questões PENDENTES (símbolos sem tradução) — FUVEST 2016 - 2a fase - 1o dia.pdf
+* P1105 — FUVEST 2016 regular  — erro no extrator — FUVEST 2016 - 1a fase -PROVA.pdf
