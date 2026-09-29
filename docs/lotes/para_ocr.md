@@ -63,3 +63,5 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P3488 — SIMULADO_ENEM 2024  1 — nenhuma questão — 5º SAS 2024 - prova d1 - @wagnernamed.pdf.pdf
 * P3484 — SIMULADO_ENEM 2024  1 — nenhuma questão — 4º  SAS 2024 - prova d1 - @wagnernamed.pdf
 * P3081 — SIMULADO_ENEM 2024  2 — 46 de 90 questões PENDENTES (símbolos sem tradução) — 2º Poliedro 2024 - prova d2 - @wagnernamed.pdf
+* P3466 — SIMULADO_ENEM 2023  2 — 51 de 90 questões PENDENTES (símbolos sem tradução) — Prova - Dia 02- SAS 06_2023.pdf
+* P3451 — SIMULADO_ENEM 2023  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 3 SAS_2023  - DIA 1.pdf
