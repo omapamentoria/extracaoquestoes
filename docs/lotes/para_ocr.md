@@ -504,3 +504,12 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2003 — DEMAIS 2009 2009.1  — 40 de 40 questões PENDENTES (símbolos sem tradução) — provas 2§ dia.pdf
 * P2002 — DEMAIS 2009 2009.1  — 50 de 50 questões PENDENTES (símbolos sem tradução) — provas 1§ dia.pdf
 * P1999 — DEMAIS 2008 2008.1  — 45 de 45 questões PENDENTES (símbolos sem tradução) — vest_20081_caderno_2.pdf
+* P1998 — DEMAIS 2008 2008.1  — 49 de 50 questões PENDENTES (símbolos sem tradução) — vest_20081_caderno_1.pdf
+* P1995 — DEMAIS 2007 2007.2  — 39 de 40 questões PENDENTES (símbolos sem tradução) — vestibular_2007_2_caderno_02.pdf
+* P1994 — DEMAIS 2007 2007.2  — 50 de 50 questões PENDENTES (símbolos sem tradução) — vestibular_2007_2_caderno_01.pdf
+* P1991 — DEMAIS 2007 2007.1  — 40 de 40 questões PENDENTES (símbolos sem tradução) — vestibular_2007_1_caderno_02.pdf
+* P1990 — DEMAIS 2007 2007.1  — 50 de 50 questões PENDENTES (símbolos sem tradução) — vestibular_2007_1_caderno_01.pdf
+* P1987 — DEMAIS 2006 2006.2  — 55 de 55 questões PENDENTES (símbolos sem tradução) — vestibular_2006_2_caderno_2.pdf
+* P1986 — DEMAIS 2006 2006.2  — 26 de 26 questões PENDENTES (símbolos sem tradução) — vestibular_2006_2_caderno_1.pdf
+* P1983 — DEMAIS 2006 2006.1  — só 13 questões (esperado ~40) — caderno_2_2006_1.pdf
+* P1982 — DEMAIS 2006 2006.1  — só 7 questões (esperado ~49) — caderno_1_2006_1.pdf
