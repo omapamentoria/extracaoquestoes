@@ -19,3 +19,8 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2576 — ENEM 2020 digital 1 — só 12 questões (esperado ~90) — enem2020_digital_1dia_prova_amarelo.pdf
 * P2513 — ENEM 2012 regular 2 — 93 de 93 questões PENDENTES (símbolos sem tradução) — ENEM - 2012 - 2° dia - Prova cinza.pdf
 * P2509 — ENEM 2012 regular 1 — 90 de 90 questões PENDENTES (símbolos sem tradução) — ENEM - 2012 - 1° dia - Prova cinza.pdf
+* P2500 — ENEM 2010 regular 2 — 95 de 95 questões PENDENTES (símbolos sem tradução) — ENEM - 2010 - 2° dia - Prova amarela (COM  GABARITO).pdf
+* P2423 — ENEM 2010 PPL/reaplicação 2 — só 19 questões (esperado ~90) — ENEM PPL - 2010 (2°apli) - 2° dia - Prova azul.pdf
+* P2421 — ENEM 2010 PPL/reaplicação 1 — 45 de 70 questões PENDENTES (símbolos sem tradução) — ENEM PPL - 2010 (2°apli) - 1° dia - Prova azul.pdf
+* P2494 — ENEM 2009 regular 2 — nenhuma questão — ENEM - 2009  - 2°dia - Prova amarela.pdf
+* P2491 — ENEM 2009 regular 1 — só 9 questões (esperado ~90) — ENEM - 2009 - 1°dia - Prova amarela.pdf
