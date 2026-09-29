@@ -497,3 +497,8 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2489 — ENEM 2009 prova vazada (2009) 2 — nenhuma questão — ENEM - 2009 (F) - 2°dia - Prova amarela.pdf
 * P2487 — ENEM 2009 prova vazada (2009) 1 — nenhuma questão — ENEM - 2009 (F) - 1°dia - Prova amarela.pdf
 * P2408 — ENEM 2007 regular  — nenhuma questão — ENEM - 2007 - Prova amarela(1).pdf
+* P2403 — ENEM 2006 regular  — nenhuma questão — ENEM - 2006 - Prova amarela.pdf
+* P2397 — ENEM 2004 regular  — só 13 questões (esperado ~52) — ENEM - 2004 - Prova amarela.pdf
+* P2388 — ENEM 2001 regular  — só 13 questões (esperado ~44) — ENEM - 2001 - Prova amarela.pdf
+* P2381 — ENEM 1999 regular  — nenhuma questão — ENEM - 1999 - Prova amarela.pdf
+* P2377 — ENEM 1998 regular  — nenhuma questão — ENEM - 1998 -  Prova amarela.pdf
