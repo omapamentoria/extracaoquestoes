@@ -41,12 +41,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P3447 — SIMULADO_ENEM 2023  1 — 90 de 90 questões PENDENTES (símbolos sem tradução) — Dia 1 - sas 2_2023.pdf
 * P3446 — SIMULADO_ENEM 2023  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 1 SAS 2023 - DIA 2 PROVA.pdf
 * P3444 — SIMULADO_ENEM 2023  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 1 SAS 2023 - DIA 1 PROVA.pdf
-* P2779 — SIMULADO_ENEM 2019  1 — 94 de 94 questões PENDENTES (símbolos sem tradução) — 3-Primeiro dia.pdf
-* P2778 — SIMULADO_ENEM 2019  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 3- Segundo dia.pdf
-* P2775 — SIMULADO_ENEM 2019  1 — 91 de 91 questões PENDENTES (símbolos sem tradução) — 2-Primeiro dia.pdf
-* P2774 — SIMULADO_ENEM 2019  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 2- Segundo dia.pdf
-* P2771 — SIMULADO_ENEM 2019  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 1-Segundo dia.pdf
-* P2770 — SIMULADO_ENEM 2019  1 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 1-Primeiro dia.pdf
 * P1120 — FUVEST 2021 regular  — texto: corrompido — FUVEST 2021 - 1a fase - PROVA.pdf
 * P1155 — FUVEST 2013 regular 2 — texto: parcialmente corrompido — FUVEST 2013 - 2a fase - 2o dia.pdf
 * P1198 — FUVEST 2021 regular  — texto: parcialmente corrompido — FUVEST 2021 - 2a fase - Portugus e RedaÆo.pdf
@@ -58,8 +52,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2198 — UNICAMP 2019 regular  — texto: sem_texto (imagem) — georesp.pdf
 * P2199 — UNICAMP 2019 regular  — texto: sem_texto (imagem) — hisresp.pdf
 * P2202 — UNICAMP 2019 regular  — texto: sem_texto (imagem) — portresp.pdf
-* P1645 — UERJ 2026 regular  — nenhuma questão — 2º exame de qualificação 2026.pdf
-* P1642 — UERJ 2026 regular  — nenhuma questão — 1º exame de qualificação 2026.pdf
 * P1581 — UERJ 2026 regular  — só 7 questões em 8 páginas — Redacaoo.pdf
 * P1579 — UERJ 2026 regular  — só 6 questões em 16 páginas — Quimica- provaa.pdf
 * P1577 — UERJ 2026 regular  — só 6 questões em 16 páginas — Biologia - provaa.pdf
