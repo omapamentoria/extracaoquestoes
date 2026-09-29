@@ -76,3 +76,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2841 — SIMULADO_ENEM 2022  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 3-Primeiro Dia.pdf
 * P2839 — SIMULADO_ENEM 2022  2 — 89 de 90 questões PENDENTES (símbolos sem tradução) — 3- Segundo Dia.pdf
 * P2837 — SIMULADO_ENEM 2022  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 2-Primeiro Dia.pdf
+* P2835 — SIMULADO_ENEM 2022  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 2- Segundo Dia.pdf
+* P2833 — SIMULADO_ENEM 2022  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 1-Primeiro Dia.pdf
+* P2831 — SIMULADO_ENEM 2022  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 1- Segundo Dia.pdf
