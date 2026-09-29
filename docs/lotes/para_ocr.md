@@ -444,3 +444,7 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1876 — DEMAIS 2019 regular 2 — só 7 questões em 26 páginas — UFU 2019 2º Dia 2º Fase.pdf
 * P1875 — DEMAIS 2019 regular 1 — só 7 questões em 28 páginas — UFU 2019 1º Dia 2º Fase.pdf
 * P1334 — DEMAIS 2019 regular  — nenhuma questão — 2019.2 - USS - PROVA.pdf
+* P1332 — DEMAIS 2019 regular  — nenhuma questão — 2019.1 - USS - PROVA.pdf
+* P0825 — DEMAIS 2019 regular  — só 18 questões (esperado ~54) — FATEC 2019_2.pdf
+* P0823 — DEMAIS 2019 regular  — só 18 questões (esperado ~54) — FATEC 2019_1.pdf
+* P0753 — DEMAIS 2019 regular  — só 20 questões em 28 páginas — Famerp - Prova Dissertativa 2019.pdf
