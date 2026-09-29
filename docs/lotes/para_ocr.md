@@ -365,3 +365,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1299 — DEMAIS 2026 regular 2 — nenhuma questão — biologia 2026.PDF
 * P1298 — DEMAIS 2026 regular 2 — nenhuma questão — artes 2026.PDF
 * P1297 — DEMAIS 2026 regular 2 — nenhuma questão — Matemática 2026.PDF
+* P1294 — DEMAIS 2026 regular 1 — só 6 questões (esperado ~36) — prova-tipo-1-ingles-uel-2026-dia-1.PDF
+* P1293 — DEMAIS 2026 regular 1 — só 6 questões (esperado ~41) — prova-espanhol-uel-2026-dia-1.PDF
+* P0783 — DEMAIS 2026 regular 2 — só 20 questões em 28 páginas — famerp 2026- dia 02 prova.pdf
+* P1288 — DEMAIS 2025 regular 2 — nenhuma questão — sociologia 2025.PDF
+* P1285 — DEMAIS 2025 regular 2 — nenhuma questão — lingua portuguesa e literatura 2025.PDF
+* P1284 — DEMAIS 2025 regular 2 — nenhuma questão — historia 2025.PDF
+* P1283 — DEMAIS 2025 regular 2 — nenhuma questão — fisica 2025.PDF
