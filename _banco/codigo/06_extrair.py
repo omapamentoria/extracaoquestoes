@@ -251,7 +251,7 @@ def agrupa_linhas(ws, corpo):
             if viz_: w["size"] = viz_[0]["size"]
     # cabecalho de questao em letra menor que o texto ("Questão 30" a 7 pt no ENEM 1998-2012): nao e indice/expoente
     for w in ws:
-        if re.fullmatch(r"(?i)quest[ãa]o", w["text"]) and "bold" in w["fontname"].lower():
+        if re.fullmatch(r"(?i)quest[ãa]o", w["text"]) and estilo(w["fontname"])[0]:
             num_ = [o for o in ws if re.fullmatch(r"\d{1,3}", o["text"]) and ((abs(o["bottom"] - w["bottom"]) < 2.5 and 0 <= o["x0"] - w["x1"] < 2 * w["size"])
                     or (-1 <= o["top"] - w["bottom"] < 1.5 * w["size"] and abs(o["x0"] - w["x0"]) < 10))]   # ao lado ou embaixo (UERJ)
             if num_: w["cab_peq"] = num_[0]["cab_peq"] = True
@@ -690,7 +690,7 @@ for pg in paginas:
         sub = [w for w in pg["ws"] if r[0] <= (w["x0"] + w["x1"]) / 2 < r[1] and r[2] <= (w["top"] + w["bottom"]) / 2 < r[3]]
         for l in agrupa_linhas(sub, CORPO):
             l["col"] = (r[0], r[1]); l["reg"] = ri; l["pg"] = pg["n"]; pg["linhas"].append(l)
-RE_CAB_Q = re.compile(r"^((?i:quest[ãa]o)\s*\d|\{\s*\d{1,3}\s*\})")   # cabecalho de questao nunca e cabecalho/rodape da pagina
+RE_CAB_Q = re.compile(r"^((?i:quest[ãa]o)(\s*\d|\s*$)|\{\s*\d{1,3}\s*\})")   # cabecalho de questao nunca e cabecalho/rodape da pagina
 def chave_rep(l):
     return (frozenset(re.sub(r"\d+", "", w["text"]) for w in l["ws"]) - {""}, round(l["top"] / 10))
 rep = collections.Counter()
@@ -748,7 +748,7 @@ for pg in paginas:
     for l in list(pg["linhas"]):
         if not (len(l["ws"]) == 1 and re.fullmatch(r"(?i)quest[ãa]o", l["ws"][0]["text"]) and l["ws"][0]["bold"]): continue
         for m_ in pg["linhas"]:
-            if m_ is l or not (0 <= m_["top"] - l["bottom"] < 1.5 * l["size"]): continue
+            if m_ is l or not (-2 <= m_["top"] - l["bottom"] < 1.5 * l["size"]): continue
             w0_ = min(m_["ws"], key=lambda w: w["x0"])
             if re.fullmatch(r"0*\d{1,3}", w0_["text"]) and w0_["bold"] and l["x0"] - 10 <= w0_["x0"] <= l["x1"] + 10:
                 l["ws"].append(w0_); l["x1"] = max(l["x1"], w0_["x1"])
