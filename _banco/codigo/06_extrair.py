@@ -729,12 +729,14 @@ def pedaco_rodape(l):
     return all(any((w["text"], y + d) in POS_RODAPE for d in (-1, 0, 1)) for w in l["ws"])
 # numero sozinho no alto/pe da pagina: e numero de pagina so se acompanha a pagina (numero - pagina = constante em
 # varias paginas). Numero que nao acompanha (ex.: "01" em negrito no alto = numero da questao na FUVEST) fica.
+# (numero enorme, 2x o corpo, e numero de questao da UERJ "01" a 37 pt - uma questao por pagina acompanha a pagina)
 _offs = collections.Counter(int(txt_puro(l).strip()) - pg["n"] for pg in paginas for l in pg["linhas"]
-                            if extremo(l, pg["page"].height) and re.fullmatch(r"\d{1,3}", txt_puro(l).strip()))
+                            if extremo(l, pg["page"].height) and re.fullmatch(r"\d{1,3}", txt_puro(l).strip()) and l["size"] < 2 * CORPO_PROV)
 OFF_PAG = {o for o, c in _offs.items() if c >= 3}
 def num_pagina(l, pg):
     t = txt_puro(l).strip()
     if not re.fullmatch(r"\d{1,3}", t): return False
+    if l["size"] >= 2 * CORPO_PROV: return False
     if int(t) - pg["n"] in OFF_PAG: return True
     return not (all(w["bold"] for w in l["ws"]) and l["size"] >= 0.85 * CORPO_PROV)
 if os.environ.get("DEBUGCAB"):
@@ -759,13 +761,17 @@ for pg in paginas:
                     or any(l["top"] < b + 2 and l["bottom"] > t - 2 for t, b in _fx)))]
     # cabecalho empilhado na margem (UERJ): "QUESTÃO" numa linha e o numero "01" logo abaixo, no comeco da linha do texto:
     # o numero sobe para a linha do "QUESTÃO" (vira "QUESTÃO 01") e sai da linha de baixo
+    # (o "QUESTÃO" pode dividir a linha com o comeco do texto: "QUESTÃO   O bromo é..." / "01   em água do mar")
     for l in list(pg["linhas"]):
-        if not (len(l["ws"]) == 1 and re.fullmatch(r"(?i)quest[ãa]o", l["ws"][0]["text"]) and l["ws"][0]["bold"]): continue
+        if not l["ws"]: continue
+        q0_ = min(l["ws"], key=lambda w: w["x0"])
+        if not (re.fullmatch(r"(?i)quest[ãa]o", q0_["text"]) and q0_["bold"]): continue
+        if len(l["ws"]) > 1 and any(re.fullmatch(r"0*\d{1,3}", w["text"]) for w in l["ws"] if w is not q0_ and w["x0"] - q0_["x1"] < 2 * q0_["size"]): continue
         for m_ in pg["linhas"]:
-            if m_ is l or not (-2 <= m_["top"] - l["bottom"] < 1.5 * l["size"]): continue
+            if m_ is l or not m_["ws"] or not (-2 <= m_["top"] - l["bottom"] < 1.5 * l["size"]): continue
             w0_ = min(m_["ws"], key=lambda w: w["x0"])
-            if re.fullmatch(r"0*\d{1,3}", w0_["text"]) and w0_["bold"] and l["x0"] - 10 <= w0_["x0"] <= l["x1"] + 10:
-                l["ws"].append(w0_); l["x1"] = max(l["x1"], w0_["x1"])
+            if re.fullmatch(r"0*\d{1,3}", w0_["text"]) and w0_["bold"] and q0_["x0"] - 10 <= w0_["x0"] <= q0_["x1"] + 10:
+                l["ws"].insert(l["ws"].index(q0_) + 1, w0_); l["x1"] = max(l["x1"], w0_["x1"])
                 m_["ws"] = [w for w in m_["ws"] if w is not w0_]
                 if m_["ws"]: m_["x0"] = min(w["x0"] for w in m_["ws"]); m_["x1"] = max(w["x1"] for w in m_["ws"])
                 else: pg["linhas"].remove(m_)
