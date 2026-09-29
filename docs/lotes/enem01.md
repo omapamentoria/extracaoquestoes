@@ -1,5 +1,7 @@
 # Lote enem01
 
+**Status (29/09/2026): concluído, aguardando revisão do Matheus.** 745 questões, nenhuma PENDENTE; 10 transcritas por visão. Q102 (ENEM 2024 d2) e Q175 (ENEM 2022 d2) anuladas no gabarito oficial. Revisão: https://claude.ai/artifact/XmpRh2m8kMgJRXWLHWXQws . ENEM 2021 (P2586, P2589) saiu do lote: texto embaralhado, vai para OCR.
+
 | Prova | Ano | Edição | Dia | Questões | Esperado | Faltando | Sem gabarito | PENDENTE | Com alerta | Glifos desconhecidos | Erro |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | P2602 | 2023 | regular | 1 | 95 | 90 |  | 0 | 0 | 0 |  |  |
