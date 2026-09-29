@@ -120,22 +120,13 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2109 — UNICAMP 2011 regular 3 — nenhuma questão — Provas 3º dia.pdf
 * P2108 — UNICAMP 2011 regular 2 — nenhuma questão — Provas 2º dia.pdf
 * P2107 — UNICAMP 2011 regular  — nenhuma questão — Provas 1ª dia.pdf
-* P1144 — FUVEST 2011 regular 3 — só 10 questões em 38 páginas — FUVEST 2011 - 2a fase - 3o dia.pdf
 * P1090 — FUVEST 2011 regular  — nenhuma questão — FUVEST 2011- 1a fase - PROVA.pdf
-* P1138 — FUVEST 2010 regular  — só 9 questões em 38 páginas — FUVEST 2010 -2a fase - prova 3.pdf
 * P1137 — FUVEST 2010 regular  — só 9 questões (esperado ~20) — FUVEST 2010 -2a fase - prova 2.pdf
 * P1087 — FUVEST 2010 regular  — só 3 questões (esperado ~65) — FUVEST 2010 - 1a fase - PROVA.pdf
 * P2078 — SIMULADO_UNESP    — nenhuma questão — Simulado Unesp primeira fase.pdf
 * P1374 — SIMULADO_UERJ    — nenhuma questão — simulado uerj.pdf
 * P1372 — SIMULADO_UERJ    — nenhuma questão — UERJ 2 SIMULADO.pdf
 * P1370 — SIMULADO_UERJ    — só 3 questões (esperado ~7) — Simulado UERJ.pdf
-* P1368 — SIMULADO_UERJ    — só 6 questões em 16 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_QUIMICA_MD-1.pdf
-* P1367 — SIMULADO_UERJ    — só 6 questões em 12 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_BIOLOGIA_MD-1.pdf
-* P1364 — SIMULADO_UERJ    — só 6 questões em 16 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_QUIMICA_MD.pdf
-* P1363 — SIMULADO_UERJ    — só 6 questões em 12 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_BIOLOGIA_MD.pdf
-* P1360 — SIMULADO_UERJ    — só 6 questões em 16 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_QUIMICA_MD-1.pdf
-* P1359 — SIMULADO_UERJ    — só 6 questões em 12 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_BIOLOGIA_MD-1.pdf
-* P1356 — SIMULADO_UERJ    — só 6 questões em 16 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_QUIMICA_MD.pdf
 * P1355 — SIMULADO_UERJ    — só 6 questões em 12 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_BIOLOGIA_MD.pdf
 * P0695 — DEMAIS 2016 regular  — texto: sem_texto (imagem) — Prova I- discursiva 2016.pdf
 * P0696 — DEMAIS 2016 regular  — texto: sem_texto (imagem) — Prova II- objetiva e Prova III- redação 2016.pdf
