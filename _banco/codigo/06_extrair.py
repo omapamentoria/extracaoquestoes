@@ -2304,6 +2304,25 @@ def le_gabarito(ids=None):
         # (a letra da resposta tem de ser maiuscula: "38. Resposta a 45 C" e linha quebrada, nao "a")
         for mg in re.finditer(r"(?m)^\s*(?:(?i:quest[ãa]o)\s+)?0*(\d{1,3})\s*[.)–-]?\s*(?i:gabarito|resposta(?:\s+correta)?|alternativa\s+correta)\s*:\s*([A-E])\b", t):
             gab.setdefault(int(mg.group(1)), mg.group(2))
+        # resolucao em blocos "Questão N ... Questão N+1" (texto na ordem de leitura, sem -layout: colunas nao se misturam).
+        # Dentro do bloco, nesta ordem: "Gabarito: D" (Poliedro), "Resposta A" (Somos), "a alternativa correta é a D",
+        # linha "Alternativa D" logo depois do cabecalho (Bernoulli). "Alternativa A: incorreta" nao conta.
+        # (so quando o arquivo NAO traz respostas numeradas: com "14. Resposta correta: C" vale so a numerada)
+        n_numeradas = len(re.findall(r"(?m)^\s*(?:(?i:quest[ãa]o)\s+)?0*\d{1,3}\s*[.)–-]?\s*(?i:gabarito|resposta(?:\s+correta)?|alternativa\s+correta)\s*:\s*[A-E]\b", t))
+        if eh_res and n_numeradas < 10:
+            t_r = subprocess.run(["pdftotext", os.path.join(RAIZ, g["caminho"]), "-"], capture_output=True).stdout.decode("utf-8", "replace")
+            cabs_r = list(re.finditer(r"(?im)^\s*(?:quest[ãa]o)\s*0*(\d{1,3})\b", t_r))
+            for k_, mq in enumerate(cabs_r):
+                bloco = t_r[mq.end():cabs_r[k_ + 1].start() if k_ + 1 < len(cabs_r) else len(t_r)]
+                # resposta rotulada com OUTRO numero ("14. Resposta correta: C" no bloco da 15, texto embaralhado): fora
+                bloco = re.sub(r"\b(\d{1,3})\s*[.)–-]\s*(?i:resposta|gabarito)[^\n]*",
+                               lambda m_: m_.group(0) if int(m_.group(1)) == int(mq.group(1)) else "", bloco)
+                pri = (re.search(r"(?i:gabarito)\s*:?\s*([A-E])\b(?![a-z])", bloco)
+                       or re.search(r"(?i:resposta(?:\s+correta)?)\s*:?\s*([A-E])\b(?![a-z])", bloco)
+                       or re.search(r"(?i:alternativa\s+correta\s+(?:é|e)\s+a)\s+([A-E])\b", bloco)
+                       or re.search(r"(?i:alternativa)\s+([A-E])\s+(?:é|e)\s+a\s+(?i:correta)", bloco)
+                       or re.search(r"(?m)^\s*(?i:alternativa)\s+([A-E])\s*$", bloco))
+                if pri: gab.setdefault(int(mq.group(1)), pri.group(1))
         # resolucao comentada: "QUESTAO 12 ... C) CORRETA"
         for mq in re.finditer(r"(?s)QUEST[ÃA]O\s+0*(\d{1,3})\b(.*?)(?=QUEST[ÃA]O\s+\d|\Z)", t):
             mc = re.search(r"\b([A-E])\)\s*CORRETA\b", mq.group(2))
