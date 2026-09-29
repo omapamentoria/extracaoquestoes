@@ -2754,6 +2754,136 @@ for q, r in _montadas:
         r["alternativas"] = []
         r["enunciado"] = limpa_espaco_resposta(r["enunciado"])
         r["apos_alternativas"] = limpa_espaco_resposta(r.get("apos_alternativas", ""))
+# ---------- gabarito das questoes discursivas (resposta esperada) ----------
+# Fontes, nesta ordem: padrao de respostas / criterios de correcao (oficial), gabarito, resolucao comentada (cursinho).
+# 1) tabela "Questao | Resposta" (UERJ): linhas separadas por fios; texto da celula + recorte da celula em imagem.
+# 2) blocos "Questao N" / "N" (FUVEST, UNESP, FAMEMA, simulados): resposta = depois de "Resolucao"/"Resposta", ou o bloco
+#    todo quando o arquivo so traz respostas. Bloco que repete o enunciado e ligado a questao pelo texto (nao pelo numero).
+RE_DISCIPLINA = re.compile(r"(?i)biolog|qu[íi]mic|f[íi]sic|matem|hist[óo]r|geogr|portugu|l[íi]ngua|literat|ingl|espanh|filosof|sociolog|artes?\b")
+RE_MARCA_RESP = re.compile(r"(?im)^\s*(resolu[çc][ãa]o|resposta(?:\s+esperada)?|coment[áa]rio|padr[ãa]o\s+de\s+resposta|expectativa\s+de\s+resposta)\s*:?\s*")
+def _gd_fonte(gid, tipo):
+    nome = CAT[gid]["caminho"].lower()
+    if tipo == "padrao": return "critérios de correção (oficial)" if "crit" in nome else "padrão de respostas (oficial)"
+    if re.search(r"resolu|coment|poliedro|etapa|objetivo|hexag|anglo|bernoulli|curso", nome) or tipo == "resolucao":
+        return "resolução do simulado" if (P.get("grupo") or "").startswith("SIMULADO") else "resolução comentada (não oficial)"
+    return "gabarito (oficial)"
+def _gd_itens(txt):
+    ps = list(re.finditer(r"(?m)^\s*([a-h])\s*\)\s*", txt))
+    if len(ps) < 2 or "".join(m.group(1) for m in ps) != "abcdefgh"[:len(ps)]: return {}
+    return {m.group(1): txt[m.end():ps[k + 1].start() if k + 1 < len(ps) else len(txt)].strip() for k, m in enumerate(ps)}
+def _gd_recorte(caminho, pn, x0, y0, x1, y1, nome):
+    esc = 150 / 72
+    saida = os.path.join(OUT, "img", nome)
+    subprocess.run(["pdftoppm", "-r", "150", "-f", str(pn), "-l", str(pn), "-singlefile", "-x", str(int(x0 * esc)), "-y", str(int(y0 * esc)),
+                    "-W", str(int((x1 - x0) * esc)), "-H", str(int((y1 - y0) * esc)), "-png", caminho, saida], capture_output=True)
+    return f"img/{nome}.png" if os.path.exists(saida + ".png") else None
+def _gd_tabela(caminho):
+    """tabela 'Questao | Resposta'. -> {numero: (texto, [(pn, x0, y0, x1, y1)], tem_desenho)}"""
+    res = {}; geo = None; ult = None
+    with pdfplumber.open(caminho) as pdf:
+        for pi, pg in enumerate(pdf.pages):
+            ws = pg.extract_words()
+            cab = [(c, r) for c in ws if re.fullmatch(r"(?i)quest[ãa]o", c["text"])
+                   for r in ws if re.fullmatch(r"(?i)respostas?", r["text"]) and abs(c["top"] - r["top"]) < 4 and r["x0"] > c["x1"]]
+            topo = 0
+            if cab:
+                c, r = cab[0]; topo = c["bottom"]
+                vs = [e["x0"] for e in pg.vertical_edges if c["x1"] < e["x0"] < r["x0"]]
+                geo = (c["x0"] - 15, c["x1"] + 15, min(vs) if vs else c["x1"] + 3)
+            if not geo: continue
+            xa, xb, xd = geo
+            hl = sorted({round(e["top"]) for e in pg.horizontal_edges if e["x1"] - e["x0"] > 0.4 * pg.width and e["top"] >= topo - 2})
+            hl = [h for k, h in enumerate(hl) if k == 0 or h - hl[k - 1] > 3]
+            if len(hl) < 2: continue
+            nums = [w for w in ws if re.fullmatch(r"\d{1,3}", w["text"]) and xa <= (w["x0"] + w["x1"]) / 2 <= xb and w["top"] > topo]
+            xfim = max(e["x1"] for e in pg.horizontal_edges if e["x1"] - e["x0"] > 0.4 * pg.width)
+            for a, b in zip(hl, hl[1:]):
+                if b - a < 8: continue
+                n_ = [w for w in nums if a - 1 <= w["top"] and w["bottom"] <= b + 1]
+                cel = pg.within_bbox((xd + 1, a + 1, xfim - 1, b - 1))
+                txt = (cel.extract_text() or "").strip()
+                desenho = bool(cel.curves or cel.images or [l for l in cel.lines if l["x1"] - l["x0"] > 3 or l["bottom"] - l["top"] > 3])
+                if len(n_) == 1:
+                    ult = int(n_[0]["text"]); res[ult] = (txt, [(pi + 1, xd, a, xfim, b)], desenho)
+                elif not n_ and ult is not None and txt and a <= hl[0] + 1:       # continuacao da celula na pagina seguinte
+                    t0, cx, d0 = res[ult]; res[ult] = ((t0 + "\n" + txt).strip(), cx + [(pi + 1, xd, a, xfim, b)], d0 or desenho)
+    return res
+def _gd_texto(caminho):
+    """texto na ordem de leitura; pagina em 2 colunas e lida coluna por coluna"""
+    partes = []
+    with pdfplumber.open(caminho) as pdf:
+        for pg in pdf.pages:
+            ws = pg.extract_words(); W = pg.width
+            if not ws: continue
+            corta = sum(1 for w in ws if w["x0"] < W / 2 - 2 < w["x1"]) <= max(3, 0.03 * len(ws))
+            esq = sum(1 for w in ws if w["x1"] <= W / 2)
+            if corta and 0.2 * len(ws) < esq < 0.8 * len(ws):
+                partes += [pg.crop((0, 0, W / 2, pg.height)).extract_text() or "", pg.crop((W / 2, 0, W, pg.height)).extract_text() or ""]
+            else:
+                partes.append(pg.extract_text() or "")
+    linhas = "\n".join(partes).split("\n")
+    freq = collections.Counter(l.strip() for l in linhas if len(l.strip()) > 5)
+    return "\n".join(l for l in linhas if freq[l.strip()] < 3 and not re.fullmatch(r"\s*_{5,}\s*", l))
+def _gd_blocos(txt):
+    ls = txt.split("\n")
+    h1 = [(i, int(m.group(1))) for i, l in enumerate(ls) for m in [re.match(r"(?i)^\s*quest[ãa]o\s*0*(\d{1,3})\b", l)] if m]
+    cand = h1 if len(h1) >= 2 else [(i, int(m.group(1))) for i, l in enumerate(ls) for m in [re.match(r"^\s*0*(\d{1,3})\s*$", l)] if m]
+    cad = []
+    for i, n in cand:
+        if not cad or n in (cad[-1][1] + 1, cad[-1][1] + 2): cad.append((i, n))
+        elif h1 and n > cad[-1][1]: return {}          # "Questao" fora de ordem: texto embaralhado, arquivo nao confiavel
+    return {n: "\n".join(ls[i + 1:cad[k + 1][0] if k + 1 < len(cad) else len(ls)]).strip() for k, (i, n) in enumerate(cad)}
+def _gd_palavras(s): return {w for w in re.findall(r"[a-zà-ÿ]{4,}", s.lower())}
+def le_gabarito_discursivo(disc):
+    """disc: [(q, r)] das discursivas -> {numero: gabarito_discursivo}"""
+    gd = {}; sim_ = {}
+    fontes = [(g, "padrao") for g in (P.get("padrao_ids") or "").split()] + [(g, "gabarito") for g in (P.get("gabarito_ids") or "").split()] \
+        + [(g, "resolucao") for g in (P.get("resolucao_ids") or "").split()]
+    fontes = [(g, t) for g, t in fontes if g in CAT and not re.search(r"(?i)reda[çc][ãa]o", os.path.basename(CAT[g]["caminho"]))]
+    por_num = {q["numero"]: (q, r) for q, r in disc}
+    disc_prova = set(RE_DISCIPLINA.findall(os.path.basename(P["caminho"]).lower()))
+    for gid, tipo in fontes:
+        cam = os.path.join(RAIZ, CAT[gid]["caminho"])
+        if not os.path.exists(cam): continue
+        fonte = _gd_fonte(gid, tipo)
+        try:
+            tab = _gd_tabela(cam)
+        except Exception:
+            tab = {}
+        if len(tab) >= 2:
+            for n, (txt, cx, desenho) in tab.items():
+                if n not in por_num or n in gd: continue
+                imgs = [im for k, c in enumerate(cx) for im in [_gd_recorte(cam, *c, f"{por_num[n][0]['cod']}_gabarito{'_' + str(k + 1) if k else ''}")] if im]
+                gd[n] = {"texto": txt, "itens": _gd_itens(txt), "imagens": imgs, "fonte": fonte, "arquivo": gid, "desenho": desenho}
+            continue
+        try:
+            blocos = _gd_blocos(_gd_texto(cam))
+        except Exception:
+            blocos = {}
+        if not blocos: continue
+        com_marca = {n: b for n, b in blocos.items() if RE_MARCA_RESP.search(b)}
+        so_resposta = len(com_marca) < 0.5 * len(blocos)
+        # arquivo so de respostas com varias disciplinas/dias no mesmo conjunto: so vale se for o unico ou da mesma disciplina
+        mesma = len(fontes) == 1 or bool(disc_prova & set(RE_DISCIPLINA.findall(os.path.basename(cam).lower()))) or not disc_prova
+        for n, b in blocos.items():
+            if so_resposta:
+                if not mesma or n not in por_num or n in gd: continue
+                alvo, resp, s = n, b, None
+            else:
+                m = RE_MARCA_RESP.search(b)
+                if not m: continue
+                enun, resp = b[:m.start()], b[m.end():].strip()
+                pe = _gd_palavras(enun)
+                if len(pe) < 5: continue
+                s, alvo = max(((len(pe & _gd_palavras(r_["enunciado"] + " " + " ".join(i_["texto"] for i_ in r_.get("itens", [])))) /
+                                max(1, len(_gd_palavras(r_["enunciado"]))), q_["numero"]) for q_, r_ in disc), default=(0, None))
+                if s < 0.35 or (alvo in gd and sim_.get(alvo, 1) >= s): continue
+            sim_[alvo] = s
+            gd[alvo] = {"texto": resp, "itens": _gd_itens(resp), "imagens": [], "fonte": fonte, "arquivo": gid, "desenho": False}
+    return gd
+_disc = [(q, r) for q, r in _montadas if r.get("discursiva")]
+if _disc: GAB_DISC.update(le_gabarito_discursivo(_disc))
+for q, r in _montadas:
     if r["alternativas"] and r["imagens"] and alt_sobre_imagem(q, r):
         # as linhas das alternativas estao dentro/ao lado de uma grade (cada alternativa = uma linha da tabela)
         alternativas_em_tabela(q, r, multi=True)
@@ -2791,6 +2921,11 @@ for q, r in _montadas:
     if r.get("discursiva"):
         g = None
         if not gd: al.append("sem gabarito (resposta esperada)")
+        else:
+            if gd.pop("desenho", False): al.append("gabarito discursivo com desenho/fórmula: conferir o texto com a imagem da resposta")
+            if re.search(r"(?m)^\s*\d{1,3}(\s+\d{1,3})*\s*$|\(cid:|\d\s*[x×]\s*10\s*\d", gd["texto"]):
+                al.append("gabarito discursivo: expoente/índice pode ter se perdido — conferir")
+            if r.get("itens") and not gd["itens"]: al.append("gabarito discursivo sem separação por item — conferir")
     elif not g: al.append("sem gabarito")
     base = None
     if PERFIL == "ssa":
