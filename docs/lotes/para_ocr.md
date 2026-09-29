@@ -421,3 +421,7 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1339 — DEMAIS 2021 regular  — nenhuma questão — 2021-2 - USS - PROVA.pdf
 * P1251 — DEMAIS 2021 regular  — nenhuma questão — prova tipo 1 - 2021.PDF
 * P0763 — DEMAIS 2021 regular  — só 20 questões em 28 páginas — Famerp - prova dissertativa 2021.pdf
+* P1895 — DEMAIS 2020 regular  — nenhuma questão — UFU 2020 2º Fase.pdf
+* P1894 — DEMAIS 2020 regular  — nenhuma questão — UFU 2020 2º Fase (Francês).pdf
+* P1879 — DEMAIS 2020 regular  — 10 de 11 questões PENDENTES (símbolos sem tradução) — UFU 2020 1º Fase (Francês).pdf
+* P1719 — DEMAIS 2020 regular  — nenhuma questão — PSV-2020_Prova_Reda‡ֶo.pdf
