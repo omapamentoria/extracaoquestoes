@@ -48,3 +48,4 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P3312 — SIMULADO_ENEM 2024  1 — texto: sem_texto (imagem) — 6º Bernoulli 2024 - prova dia 01 - @wagnernamed.pdf
 * P3313 — SIMULADO_ENEM 2024  2 — texto: sem_texto (imagem) — 6º Bernoulli 2024 - prova dia 02 - @wagnernamed.pdf
 * P4023 — SIMULADO_SSA   1 — texto: sem_texto (imagem) — 1 dIa SAS SSA-Simulado 1.pdf
+* P2863 — SIMULADO_ENEM 2026  2 — nenhuma questão — 3° SOMOS - 2026 - Dia 02.pdf
