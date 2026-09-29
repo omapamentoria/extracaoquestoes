@@ -495,3 +495,12 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2013 — DEMAIS 2011 2011.1  — 60 de 60 questões PENDENTES (símbolos sem tradução) — Caderno de Prova 1§ Dia.pdf
 * P0793 — DEMAIS 2011 regular  — só 19 questões (esperado ~54) — FATEC 2011_2.pdf
 * P2011 — DEMAIS 2010 2010.2  — 45 de 45 questões PENDENTES (símbolos sem tradução) — Caderno de prova 2Ķ dia.pdf
+* P2010 — DEMAIS 2010 2010.2  — 60 de 60 questões PENDENTES (símbolos sem tradução) — Caderno de prova 1§ dia.pdf
+* P2009 — DEMAIS 2010 2010.1  — 45 de 45 questões PENDENTES (símbolos sem tradução) — Prova 2§ dia.pdf
+* P2008 — DEMAIS 2010 2010.1  — 50 de 50 questões PENDENTES (símbolos sem tradução) — Prova 1§ dia.pdf
+* P0789 — DEMAIS 2010 regular  — só 19 questões (esperado ~49) — FATEC 2010_2.pdf
+* P2006 — DEMAIS 2009 2009.2  — 44 de 44 questões PENDENTES (símbolos sem tradução) — Prova 2§ dia.pdf
+* P2005 — DEMAIS 2009 2009.2  — 50 de 50 questões PENDENTES (símbolos sem tradução) — Prova 1§ dia.pdf
+* P2003 — DEMAIS 2009 2009.1  — 40 de 40 questões PENDENTES (símbolos sem tradução) — provas 2§ dia.pdf
+* P2002 — DEMAIS 2009 2009.1  — 50 de 50 questões PENDENTES (símbolos sem tradução) — provas 1§ dia.pdf
+* P1999 — DEMAIS 2008 2008.1  — 45 de 45 questões PENDENTES (símbolos sem tradução) — vest_20081_caderno_2.pdf
