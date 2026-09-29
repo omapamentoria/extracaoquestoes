@@ -488,3 +488,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2020 — DEMAIS 2012 2012.1 2 — 40 de 40 questões PENDENTES (símbolos sem tradução) — vest2012_1_caderno_de_prova_2_dia.pdf
 * P2019 — DEMAIS 2012 2012.1 1 — 60 de 60 questões PENDENTES (símbolos sem tradução) — vest2012_1_caderno_de_prova_1_dia.pdf
 * P0797 — DEMAIS 2012 regular  — só 19 questões (esperado ~54) — FATEC 2012_2.pdf
+* P0795 — DEMAIS 2012 regular  — só 19 questões (esperado ~53) — FATEC 2012_1.pdf
+* P2017 — DEMAIS 2011 2011.2 2 — 40 de 40 questões PENDENTES (símbolos sem tradução) — vest2011_2_caderno_de_provas_2_dia.pdf
+* P2016 — DEMAIS 2011 2011.2 1 — 43 de 43 questões PENDENTES (símbolos sem tradução) — vest2011_2_caderno_de_provas_1_dia.pdf
+* P2014 — DEMAIS 2011 2011.1  — 40 de 40 questões PENDENTES (símbolos sem tradução) — Caderno de Prova 2§ Dia.pdf
+* P2013 — DEMAIS 2011 2011.1  — 60 de 60 questões PENDENTES (símbolos sem tradução) — Caderno de Prova 1§ Dia.pdf
+* P0793 — DEMAIS 2011 regular  — só 19 questões (esperado ~54) — FATEC 2011_2.pdf
+* P2011 — DEMAIS 2010 2010.2  — 45 de 45 questões PENDENTES (símbolos sem tradução) — Caderno de prova 2Ķ dia.pdf
