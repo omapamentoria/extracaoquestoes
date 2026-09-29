@@ -333,3 +333,8 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1364 — SIMULADO_UERJ    — só 6 questões em 16 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_QUIMICA_MD.pdf
 * P1363 — SIMULADO_UERJ    — só 6 questões em 12 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_BIOLOGIA_MD.pdf
 * P1360 — SIMULADO_UERJ    — só 6 questões em 16 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_QUIMICA_MD-1.pdf
+* P1359 — SIMULADO_UERJ    — só 6 questões em 12 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_BIOLOGIA_MD-1.pdf
+* P1356 — SIMULADO_UERJ    — só 6 questões em 16 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_QUIMICA_MD.pdf
+* P1355 — SIMULADO_UERJ    — só 6 questões em 12 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_BIOLOGIA_MD.pdf
+* P1323 — UERJ  regular  — 143 de 187 questões PENDENTES (símbolos sem tradução) — UERJ - QUÍMICA - DISCURSIVAS.pdf
+* P1322 — UERJ  regular  — 150 de 209 questões PENDENTES (símbolos sem tradução) — UERJ - BIOLOGIA - DISCURSIVAS.pdf
