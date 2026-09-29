@@ -2,41 +2,41 @@
 
 | Prova | Ano | Edição | Dia | Questões | Esperado | Faltando | Sem gabarito | PENDENTE | Com alerta | Glifos desconhecidos | Erro |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| P2132 | 2013 | regular | 1 | 0 | 0 |  | 0 | 0 | 0 |  |  |
-| P1403 | 2013 | regular |  | 10 | 10 |  | 10 | 0 | 2 |  |  |
-| P1402 | 2013 | regular |  | 10 | 10 |  | 10 | 0 | 1 |  |  |
-| P1401 | 2013 | regular |  | 10 | 10 |  | 10 | 1 | 1 |  |  |
-| P1399 | 2013 | regular |  | 30 | 10 |  | 30 | 0 | 6 |  |  |
-| P1398 | 2013 | regular |  | 10 | 10 |  | 10 | 0 | 6 |  |  |
-| P1397 | 2013 | regular |  | 10 | 10 |  | 10 | 1 | 4 |  |  |
-| P1396 | 2013 | regular |  | 10 | 10 |  | 10 | 0 | 2 |  |  |
-| P1395 | 2013 | regular |  | 10 | 10 |  | 10 | 0 | 2 |  |  |
-| P1156 | 2013 | regular | 3 | 11 | 11 |  | 11 | 1 | 11 | 1 |  |
+| P1380 | 2012 | regular |  | 5 | 5 |  | 0 | 0 | 1 |  |  |
+| P1379 | 2012 | regular |  | 5 | 5 |  | 0 | 0 | 3 |  |  |
+| P1378 | 2012 | regular |  | 5 | 5 |  | 0 | 0 | 3 |  |  |
+| P1377 | 2012 | regular |  | 5 | 5 |  | 0 | 0 | 1 |  |  |
+| P1376 | 2012 | regular |  | 5 | 5 |  | 0 | 0 | 3 |  |  |
+| P1375 | 2012 | regular |  | 5 | 5 |  | 0 | 0 | 2 |  |  |
+| P1150 | 2012 | regular | 3 | 11 | 11 |  | 3 | 1 | 11 | 1 |  |
+| P2109 | 2011 | regular | 3 | 0 | 0 |  | 0 | 0 | 0 |  |  |
+| P2108 | 2011 | regular | 2 | 0 | 0 |  | 0 | 0 | 0 |  |  |
+| P2107 | 2011 | regular |  | 0 | 0 |  | 0 | 0 | 0 |  |  |
 
 ## Alertas mais comuns
 
-* 10× sem gabarito (resposta esperada)
-* 7× gabarito discursivo: expoente/índice pode ter se perdido — conferir
-* 3× PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página
-* 2× PENDENTE: há um trecho desenhado (caractere que o PDF não traduz: chave, parêntese grande 
-* 2× imagem N é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição
-* 1× imagem N tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto
-* 1× linha da página N não entrou em nenhuma questão: “TEXTO I”
-* 1× linha da página N não entrou em nenhuma questão: “Língua”
-* 1× linha da página N não entrou em nenhuma questão: “Esta língua é como um elástico”
-* 1× linha da página N não entrou em nenhuma questão: “que espicharam pelo mundo.”
-* 1× linha da página N não entrou em nenhuma questão: “No início era tensa,”
-* 1× linha da página N não entrou em nenhuma questão: “de tão clássica.”
-* 1× linha da página N não entrou em nenhuma questão: “N Com o tempo, se foi amaciando,”
-* 1× linha da página N não entrou em nenhuma questão: “foi-se tornando romântica,”
-* 1× linha da página N não entrou em nenhuma questão: “incorporando os termos nativos”
-* 1× linha da página N não entrou em nenhuma questão: “e amolecendo nas folhas de bananeira”
-* 1× linha da página N não entrou em nenhuma questão: “as expressões mais sisudas.”
-* 1× linha da página N não entrou em nenhuma questão: “N Um elástico que já não se pode”
-* 1× linha da página N não entrou em nenhuma questão: “mais trocar, de tão usado;”
-* 1× linha da página N não entrou em nenhuma questão: “nem se arrebenta mais, de tão forte.”
-* 1× linha da página N não entrou em nenhuma questão: “Um elástico assim como é a vida”
-* 1× linha da página N não entrou em nenhuma questão: “que nunca volta ao ponto de partida.”
-* 1× linha da página N não entrou em nenhuma questão: “GILBERTO MENDONÇA TELES”
-* 1× linha da página N não entrou em nenhuma questão: “Hora aberta: poemas reunidos. Rio de Jan
-* 1× caractere estranho no texto
+* 16× gabarito discursivo: expoente/índice pode ter se perdido — conferir
+* 8× gabarito discursivo com desenho/fórmula: conferir o texto com a imagem da resposta
+* 4× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “A(cid:N)(cid:N)(
+* 3× tabela transcrita automaticamente — conferir
+* 2× imagem N tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto
+* 2× sem gabarito (resposta esperada)
+* 2× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “B(cid:N)(cid:N)(
+* 2× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:N) = N” — t
+* 1× palavra dividida no fim da linha com hífen incerto — conferir
+* 1× texto curto solto junto da imagem (“**Previsões de especialistas**”): pode ser rótulo da f
+* 1× texto curto solto junto da imagem (“QUINo http://rosapinkgabriela.blogspot.c”): pode ser r
+* 1× texto curto solto junto da imagem (“Espanhol”): pode ser rótulo da figura — conferir
+* 1× texto curto solto junto da imagem (“www.literatura.us”): pode ser rótulo da figura — confe
+* 1× texto curto solto junto da imagem (“www.helium.com”): pode ser rótulo da figura — conferir
+* 1× texto curto solto junto da imagem (“www.historiabrasileira.com”): pode ser rótulo da figur
+* 1× texto curto solto junto da imagem (“http://passosdesvairados.blogspot.com”): pode ser rótu
+* 1× texto curto solto junto da imagem (“http://oubarbarie.wordpress.com”): pode ser rótulo da 
+* 1× texto curto solto junto da imagem (“http://blogs.estadao.com.br”): pode ser rótulo da figu
+* 1× texto curto solto junto da imagem (“http://mappery.com”): pode ser rótulo da figura — conf
+* 1× texto curto solto junto da imagem (“www.koreatimes.co.kr”): pode ser rótulo da figura — co
+* 1× texto curto solto junto da imagem (“http://labgeo.blogspot.com”): pode ser rótulo da figur
+* 1× imagem N pode estar cortada (o desenho continua fora do recorte) — conferir
+* 1× texto curto solto junto da imagem (“*Q*”): pode ser rótulo da figura — conferir
+* 1× símbolos lidos de glifos-imagem do PDF (fonte TypeN: ×, ≈, sinais) — conferir com a página
+* 1× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “O polinômio (cid
