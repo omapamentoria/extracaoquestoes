@@ -142,19 +142,11 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P0771 — DEMAIS 2023 regular 2 — só 20 questões em 28 páginas — famerp 2023 - dia 02 prova.pdf
 * P1253 — DEMAIS 2022 regular  — só 11 questões (esperado ~55) — prova tipo 1 - 2022.PDF
 * P0768 — DEMAIS 2022 regular  — só 20 questões em 28 páginas — Prova 2.pdf
-* P1341 — DEMAIS 2021 regular  — nenhuma questão — 2021.1 - USS - PROVA.pdf
-* P1339 — DEMAIS 2021 regular  — nenhuma questão — 2021-2 - USS - PROVA.pdf
 * P1251 — DEMAIS 2021 regular  — nenhuma questão — prova tipo 1 - 2021.PDF
 * P1895 — DEMAIS 2020 regular  — nenhuma questão — UFU 2020 2º Fase.pdf
 * P1894 — DEMAIS 2020 regular  — nenhuma questão — UFU 2020 2º Fase (Francês).pdf
 * P1719 — DEMAIS 2020 regular  — nenhuma questão — PSV-2020_Prova_Reda‡ֶo.pdf
-* P1337 — DEMAIS 2020 regular  — nenhuma questão — 2020.1 - USS - PROVA.pdf
-* P1336 — DEMAIS 2020 regular  — nenhuma questão — 2020.1 - 2 ED - USS - PROVA.pdf
 * P1249 — DEMAIS 2020 regular 2 — nenhuma questão — redacao 2020.PDF
-* P1248 — DEMAIS 2020 regular 2 — nenhuma questão — quimica 2020.PDF
-* P1247 — DEMAIS 2020 regular 2 — nenhuma questão — matematica 2020.PDF
-* P1246 — DEMAIS 2020 regular 2 — nenhuma questão — lingua portuguesa e literatura 2020.PDF
-* P1245 — DEMAIS 2020 regular 2 — nenhuma questão — historia 2020.PDF
 * P1244 — DEMAIS 2020 regular 2 — nenhuma questão — fisica 2020.PDF
 * P1243 — DEMAIS 2020 regular 2 — nenhuma questão — filosofia 2020.PDF
 * P1241 — DEMAIS 2020 regular 2 — nenhuma questão — arte 2020.PDF
