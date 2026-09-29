@@ -95,3 +95,5 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2800 — SIMULADO_ENEM 2020  1 — 93 de 93 questões PENDENTES (símbolos sem tradução) — SimuladoENEM1ºDia_BH_JULHO_PRESENCIAL_MD.pdf
 * P2797 — SIMULADO_ENEM 2020   — 90 de 90 questões PENDENTES (símbolos sem tradução) — Simulado_ENEM2_Junho_2020_MD.pdf
 * P2796 — SIMULADO_ENEM 2020  1 — 91 de 91 questões PENDENTES (símbolos sem tradução) — SimuladoENEM1ºDia_JUNHO_FINAL_MD.pdf
+* P2793 — SIMULADO_ENEM 2020   — 90 de 90 questões PENDENTES (símbolos sem tradução) — Simulado_ENEM2_ABRIL_2020_MD.pdf
+* P2790 — SIMULADO_ENEM 2020   — 91 de 91 questões PENDENTES (símbolos sem tradução) — 1. Simulado_ENEM1_ABRIL_2020_MD.pdf
