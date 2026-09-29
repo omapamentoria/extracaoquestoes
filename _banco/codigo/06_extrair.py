@@ -2411,6 +2411,7 @@ def le_gabarito(ids=None):
             pass
     return gab, ids
 GAB, GAB_IDS = le_gabarito()
+GAB_DISC = {}      # gabarito das questoes discursivas (preenchido por le_gabarito_discursivo, mais abaixo)
 # gabarito pareado que nao cobre as questoes (arquivo trocado, ex.: "Gabarito Primeiro dia" com o 2o dia): procura entre
 # os gabaritos da mesma pasta o que cobre os numeros desta prova
 _nums_q = {q["numero"] for q in questoes}
@@ -2678,7 +2679,7 @@ def aplica_transcricao(q, r):
     t = t or {}
     if alt_linha and "alternativas" not in t:
         r["alertas"].append("alternativas " + ", ".join(alt_linha) + " são texto desenhado no PDF (sem camada de texto): recortadas como imagem — precisam ser transcritas")
-    falta_alt = "alternativas" not in t and (not r["alternativas"] or alt_linha or any("desenhadas no PDF" in a for a in r["alertas"]))
+    falta_alt = "alternativas" not in t and not r.get("discursiva") and (not r["alternativas"] or alt_linha or any("desenhadas no PDF" in a for a in r["alertas"]))
     falta_enun = "enunciado" not in t and any("trecho desenhado" in a for a in r["alertas"])
     if falta_alt or falta_enun:
         PENDENTES_VISAO.append(q["cod"])
@@ -2724,19 +2725,45 @@ def bases_citadas(texto, idioma):
                 melhor = max(cand, key=lambda c: c[0])[1]
                 if melhor not in ids: ids.append(melhor)
     return ids
+# ------------------------------------------------------------------ questao discursiva (sem alternativas)
+# Questao sem alternativas, ou so com itens a) b) c), e DISCURSIVA: o enunciado sai inteiro, os itens ficam em "itens"
+# (cada um com o seu texto) e o gabarito vem do padrao de respostas / resolucao (gabarito_discursivo). So vale quando a
+# prova nao e objetiva (menos de 70% das questoes com todas as alternativas) ou quando o enunciado tem comando
+# discursivo; senao a questao e objetiva que perdeu as alternativas e continua PENDENTE.
+RE_CMD_DISC = re.compile(r"(?i)\b(justifique|explique|calcule|determine|indique|responda|apresente|escreva|cite|identifique|demonstre|"
+                         r"descreva|compare|analise|elabore|nomeie|esboce|represente|redija|transcreva|reescreva|classifique|"
+                         r"desenvolvimento e resposta)")
+RE_ESPACO_RESP = re.compile(r"(?i)^\W*(desenvolvimento e resposta|desenvolvimento|resposta|rascunho|c[áa]lculos?)\s*:?\W*$|^[\s_.\-–—]{8,}$")
+def limpa_espaco_resposta(md):
+    return "\n\n".join(p_ for p_ in md.split("\n\n") if not RE_ESPACO_RESP.match(p_.strip()))
+_montadas = []
 for q in questoes:
     q["cod"] = f"Q{q['numero']:03d}{SUF[q.get('idioma')]}"
-    r = monta(q, q["cod"], True)
+    _montadas.append((q, monta(q, q["cod"], True)))
+PROVA_OBJETIVA = sum(1 for _, r_ in _montadas if len(r_["alternativas"]) >= N_ALT) >= 0.7 * max(1, len(_montadas))
+def eh_discursiva(r):
+    letras = "".join(a["letra"] for a in r["alternativas"])
+    if len(letras) >= N_ALT - 1: return False
+    if letras and letras != "ABCDE"[:len(letras)]: return False
+    cmd = RE_CMD_DISC.search(r["enunciado"] + " " + " ".join(a["texto"] for a in r["alternativas"]))
+    return (not PROVA_OBJETIVA) or bool(cmd)
+for q, r in _montadas:
+    if eh_discursiva(r):
+        r["discursiva"] = True
+        r["itens"] = [{"letra": a["letra"].lower(), "texto": limpa_espaco_resposta(a["texto"])} for a in r["alternativas"]]
+        r["alternativas"] = []
+        r["enunciado"] = limpa_espaco_resposta(r["enunciado"])
+        r["apos_alternativas"] = limpa_espaco_resposta(r.get("apos_alternativas", ""))
     if r["alternativas"] and r["imagens"] and alt_sobre_imagem(q, r):
         # as linhas das alternativas estao dentro/ao lado de uma grade (cada alternativa = uma linha da tabela)
         alternativas_em_tabela(q, r, multi=True)
-    if not r["alternativas"] and r["imagens"]:
+    if not r["alternativas"] and r["imagens"] and not r.get("discursiva"):
         if not alternativas_em_tabela(q, r):
             separa_alternativas_em_imagem(q, r)
     aplica_transcricao(q, r)
     aplica_branco(r)
     al = r["alertas"]
-    if len(r["alternativas"]) != N_ALT: al.append(f"{len(r['alternativas'])} alternativas encontradas (esperado {N_ALT})")
+    if not r.get("discursiva") and len(r["alternativas"]) != N_ALT: al.append(f"{len(r['alternativas'])} alternativas encontradas (esperado {N_ALT})")
     letras = "".join(a["letra"] for a in r["alternativas"])
     if letras and letras != "ABCDE"[:len(letras)]: al.append(f"letras fora de ordem: {letras}")
     if any(not a["texto"].strip() for a in r["alternativas"]): al.append("alternativa vazia")
@@ -2760,7 +2787,11 @@ for q in questoes:
         al.append(f"gabarito do arquivo ({g}) diferente da alternativa marcada no caderno ({r['marcada']}) — conferir")
     if not g and r.get("marcada"):
         g = r["marcada"]      # caderno com a resposta marcada (circulo cheio na letra)
-    if not g: al.append("sem gabarito")
+    gd = GAB_DISC.get(q["numero"]) if r.get("discursiva") else None
+    if r.get("discursiva"):
+        g = None
+        if not gd: al.append("sem gabarito (resposta esperada)")
+    elif not g: al.append("sem gabarito")
     base = None
     if PERFIL == "ssa":
         for tb, tbo in zip(textos_base, saida_t):
@@ -2780,6 +2811,8 @@ for q in questoes:
         "fase_etapa": P["fase_etapa"], "dia": P["dia"], "caderno": P["caderno"], "numero": q["numero"], "area": q.get("area", ""),
         "texto_base_id": base, "textos_base_ids": bases_q, "enunciado": r["enunciado"], "fontes": r["fontes"], "alternativas": r["alternativas"],
         "apos_alternativas": r.get("apos_alternativas", ""),
+        "formato": "discursiva" if r.get("discursiva") else "objetiva", "itens": r.get("itens", []),
+        "gabarito_discursivo": gd,
         "imagens": r["imagens"], "gabarito": None if (g or "").lower().startswith("anul") else g,
         "anulada": bool(g and g.lower().startswith("anul")),
         "paginas": sorted(q["caixas"].keys()), "caixas": {str(k): v for k, v in q["caixas"].items()},
