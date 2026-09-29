@@ -2,41 +2,41 @@
 
 | Prova | Ano | Edição | Dia | Questões | Esperado | Faltando | Sem gabarito | PENDENTE | Com alerta | Glifos desconhecidos | Erro |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| P1355 |  |  |  | 6 | 6 |  | 6 | 0 | 6 |  |  |
-| P1323 |  | regular |  | 187 | 187 |  | 187 | 21 | 187 |  |  |
-| P1322 |  | regular |  | 209 | 209 |  | 209 | 0 | 209 |  |  |
-| P1305 | 2026 | regular | 2 | 0 | 0 |  | 0 | 0 | 0 |  |  |
-| P1275 | 2024 | regular | 2 | 0 | 0 |  | 0 | 0 | 0 |  |  |
-| P1968 | 2023 | regular |  | 0 | 0 |  | 0 | 0 | 0 |  |  |
-| P1955 | 2023 | regular |  | 13 | 13 |  | 13 | 0 | 13 |  |  |
-| P1952 | 2022 | regular |  | 14 | 14 |  | 14 | 0 | 14 |  |  |
-| P1951 | 2022 | regular |  | 14 | 14 |  | 14 | 0 | 14 |  |  |
-| P1933 | 2021 | regular |  | 15 | 15 |  | 15 | 1 | 15 |  |  |
+| P0750 | 2018 | regular |  | 0 | 0 |  | 0 | 0 | 0 |  |  |
+| P0748 | 2018 | regular |  | 20 | 20 |  | 20 | 0 | 20 |  |  |
+| P1831 | 2017 | regular |  | 6 | 6 |  | 2 | 1 | 6 |  |  |
+| P1830 | 2017 | regular |  | 6 | 6 |  | 2 | 1 | 6 |  |  |
+| P1829 | 2017 | regular |  | 6 | 6 |  | 2 | 1 | 6 |  |  |
+| P0745 | 2017 | regular |  | 20 | 20 |  | 0 | 1 | 20 |  |  |
+| P1814 | 2016 | regular | 2 | 0 | 0 |  | 0 | 0 | 0 |  |  |
+| P1813 | 2016 | regular | 1 | 0 | 0 |  | 0 | 0 | 0 |  |  |
+| P0738 | 2016 | regular |  | 20 | 20 |  | 20 | 1 | 20 |  |  |
+| P1794 | 2015 | regular | 2 | 3 | 3 |  | 0 | 0 | 3 |  |  |
 
 ## Alertas mais comuns
 
-* 441× sem gabarito (resposta esperada)
-* 22× PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página
-* 16× imagem N é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição
-* 14× gabarito discursivo com desenho/fórmula: conferir o texto com a imagem da resposta
-* 5× palavra dividida no fim da linha com hífen incerto — conferir
-* 3× sem gabarito
-* 2× texto curto solto junto da imagem (“N”): pode ser rótulo da figura — conferir
-* 2× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “g” e “N” na linha “N g N g” — t
+* 46× sem gabarito (resposta esperada)
+* 35× gabarito discursivo com desenho/fórmula: conferir o texto com a imagem da resposta
+* 26× imagem N é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição
+* 6× gabarito discursivo: expoente/índice pode ter se perdido — conferir
+* 5× PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página
+* 5× PENDENTE: há um trecho desenhado (caractere que o PDF não traduz: chave, parêntese grande 
+* 3× palavra dividida no fim da linha com hífen incerto — conferir
+* 3× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “—” e “’ll” na linha “translate 
+* 2× tabela transcrita automaticamente — conferir
+* 2× imagem N pode estar cortada (o desenho continua fora do recorte) — conferir
+* 2× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “claims,” e “still” na linha “cl
+* 2× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “Q” e “ES” na linha “RESP N A A 
+* 2× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “joke” e “somehow” na linha “an 
+* 2× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “Q” e “ES” na linha “RESP NDA A 
 * 2× imagem N tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto
-* 1× gabarito discursivo: expoente/índice pode ter se perdido — conferir
-* 1× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “e” e “Zn” na linha “Zn N+ (aq) 
-* 1× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “NOH” e “NCO” na linha “NCN – + 
-* 1× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “O(v)” e “CO” na linha “CH N (g)
-* 1× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “SO” e “,” na linha “Os principa
-* 1× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “(NO” e “),” na linha “nitrogêni
-* 1× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “(NO” e “),” na linha “entanto, 
-* 1× PENDENTE: há um trecho desenhado (caractere que o PDF não traduz: chave, parêntese grande 
-* 1× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “)” e “N” na linha “N H N O N ( 
-* 1× texto curto solto junto da imagem (“KMnO<sub>N</sub>”): pode ser rótulo da figura — confer
-* 1× texto curto solto junto da imagem (“(Adaptado de www.webelements.com)”): pode ser rótulo d
-* 1× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “X” e “N” na linha “X N g” — tra
-* 1× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “Na” e “Ni” na linha “NiCl N + N
-* 1× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “N” e “N” na linha “N N – N mol 
-* 1× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “N” e “N” na linha “y = N N – N 
-* 1× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “CO” e “N,N” na linha “N,N mol C
+* 1× texto curto solto junto da imagem (“(http://blog.wakatobi.com)”): pode ser rótulo da figur
+* 1× PENDENTE: há um trecho desenhado (sem texto no PDF) entre ““” e “roceso” na linha ““ roces
+* 1× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “missed.” e “specially” na linha
+* 1× texto curto solto junto da imagem (“**BIOLOGIA**”): pode ser rótulo da figura — conferir
+* 1× texto curto solto junto da imagem (“(www.the-challenge.net)”): pode ser rótulo da figura —
+* 1× caractere estranho no texto
+* 1× texto curto solto junto da imagem (“*fora de escala*”): pode ser rótulo da figura — confer
+* 1× texto curto solto junto da imagem (“cefalexina  
+amoxicilina”): pode ser rótulo da figura 
+* 1× gabarito discursivo sem separação por item — conferir

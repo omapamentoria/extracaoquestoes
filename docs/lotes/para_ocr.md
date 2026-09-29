@@ -225,22 +225,15 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P0821 — DEMAIS 2018 regular  — só 18 questões (esperado ~54) — FATEC 2018_2.pdf
 * P0819 — DEMAIS 2018 regular  — só 18 questões (esperado ~54) — FATEC 2018_1.pdf
 * P0750 — DEMAIS 2018 regular  — nenhuma questão — Famerp - Redação CC 2018.pdf
-* P0748 — DEMAIS 2018 regular  — só 20 questões em 24 páginas — Famerp - Prova Dissertativa 2018.pdf
 * P2037 — DEMAIS 2017 2017.2  — nenhuma questão — unemat.pdf
-* P1831 — DEMAIS 2017 regular  — só 6 questões em 24 páginas — UFU 2017 2º Fase - Grupo 3.pdf
-* P1830 — DEMAIS 2017 regular  — só 6 questões em 26 páginas — UFU 2017 2º Fase - Grupo 2.pdf
-* P1829 — DEMAIS 2017 regular  — só 6 questões em 28 páginas — UFU 2017 2º Fase - Grupo 1.pdf
 * P1710 — DEMAIS 2017 regular  — nenhuma questão — UFGD 2017 PROVA.pdf
 * P0816 — DEMAIS 2017 regular  — só 18 questões (esperado ~54) — FATEC 2017_2 .pdf
 * P0815 — DEMAIS 2017 regular  — só 18 questões (esperado ~54) — FATEC 2017_1.pdf
-* P0745 — DEMAIS 2017 regular  — só 20 questões em 24 páginas — Famerp - Prova II - Conhecimentos específicos e redação - 2017.pdf
 * P1814 — DEMAIS 2016 regular 2 — nenhuma questão — UFU 2016 2º Dia 2º Fase.pdf
 * P1813 — DEMAIS 2016 regular 1 — nenhuma questão — UFU 2016 1º Dia 2º Fase.pdf
 * P1707 — DEMAIS 2016 regular  — só 6 questões (esperado ~44) — PSV2016_TIPOA.pdf
 * P0813 — DEMAIS 2016 regular  — só 18 questões (esperado ~54) — FATEC 2016_2.pdf
 * P0811 — DEMAIS 2016 regular  — só 18 questões (esperado ~54) — FATEC 2016_1.pdf
-* P0738 — DEMAIS 2016 regular  — só 20 questões em 28 páginas — Famerp - Conhecimentos específicos e redação - Prova II - 2016.pdf
-* P1794 — DEMAIS 2015 regular 2 — só 3 questões em 18 páginas — UFU 2015 2º Dia 2º Fase.pdf
 * P1793 — DEMAIS 2015 regular 1 — nenhuma questão — UFU 2015 1º Dia 2º Fase.pdf
 * P1702 — DEMAIS 2015 regular  — só 6 questões (esperado ~38) — Prova_PSV_2015_Tipo_A.pdf
 * P0809 — DEMAIS 2015 regular  — só 18 questões (esperado ~54) — FATEC 2015_2.pdf
