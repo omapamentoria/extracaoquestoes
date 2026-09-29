@@ -151,16 +151,8 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P0828 — DEMAIS 2020 regular  — nenhuma questão — FATEC 2020_2, 2021_1 E 2021_2.pdf
 * P0760 — DEMAIS 2020 regular  — nenhuma questão — Famerp 2020.pdf
 * P2286 — DEMAIS 2019 regular  — nenhuma questão — Unifesp - Redação CC 2019.pdf
-* P0823 — DEMAIS 2019 regular  — só 18 questões (esperado ~54) — FATEC 2019_1.pdf
-* P1838 — DEMAIS 2018 regular 2 — só 8 questões (esperado ~50) — UFU 2018 2º Dia 1º Fase.pdf
-* P1836 — DEMAIS 2018 regular 1 — só 8 questões (esperado ~60) — UFU 2018 1º Dia 1º Fase.pdf
-* P0821 — DEMAIS 2018 regular  — só 18 questões (esperado ~54) — FATEC 2018_2.pdf
-* P0819 — DEMAIS 2018 regular  — só 18 questões (esperado ~54) — FATEC 2018_1.pdf
 * P0750 — DEMAIS 2018 regular  — nenhuma questão — Famerp - Redação CC 2018.pdf
 * P2037 — DEMAIS 2017 2017.2  — nenhuma questão — unemat.pdf
-* P1710 — DEMAIS 2017 regular  — nenhuma questão — UFGD 2017 PROVA.pdf
-* P0816 — DEMAIS 2017 regular  — só 18 questões (esperado ~54) — FATEC 2017_2 .pdf
-* P0815 — DEMAIS 2017 regular  — só 18 questões (esperado ~54) — FATEC 2017_1.pdf
 * P1814 — DEMAIS 2016 regular 2 — nenhuma questão — UFU 2016 2º Dia 2º Fase.pdf
 * P1813 — DEMAIS 2016 regular 1 — nenhuma questão — UFU 2016 1º Dia 2º Fase.pdf
 * P1707 — DEMAIS 2016 regular  — só 6 questões (esperado ~44) — PSV2016_TIPOA.pdf
