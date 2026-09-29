@@ -81,7 +81,10 @@ for i in range(n_lotes):
         tri = os.path.join(R, "docs", "lotes", f"{nome}.md")
         if os.path.exists(tri): shutil.copy(tri, os.path.join(DEST, "lotes", f"{nome}.md"))
         git("add", "-A", ".", cwd=DEST); git("commit", "-q", "-m", msg, cwd=DEST); alvos.insert(0, DEST)
-    git("add", "-A", "_banco/questoes", "docs")
+    # _banco/questoes/ e ignorado pelo git (prova em andamento nao aparece como pendente): so a prova terminada entra
+    git("add", "-A", "docs"); git("add", "-u", "_banco/questoes")
+    for r in lote:
+        for d in glob.glob(f"{B}/questoes/*/*/{r['id']}"): git("add", "-f", os.path.relpath(d, R))
     git("commit", "-q", "-m", msg)
     for alvo in alvos:
         for k in range(5):
