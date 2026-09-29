@@ -215,18 +215,11 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P0828 — DEMAIS 2020 regular  — nenhuma questão — FATEC 2020_2, 2021_1 E 2021_2.pdf
 * P0827 — DEMAIS 2020 regular  — só 18 questões (esperado ~54) — FATEC 2020_1.pdf
 * P0760 — DEMAIS 2020 regular  — nenhuma questão — Famerp 2020.pdf
-* P0758 — DEMAIS 2020 regular  — só 20 questões em 28 páginas — Famerp - Prova Dissertativa 2020.pdf
 * P2286 — DEMAIS 2019 regular  — nenhuma questão — Unifesp - Redação CC 2019.pdf
-* P1876 — DEMAIS 2019 regular 2 — só 7 questões em 26 páginas — UFU 2019 2º Dia 2º Fase.pdf
-* P1875 — DEMAIS 2019 regular 1 — só 7 questões em 28 páginas — UFU 2019 1º Dia 2º Fase.pdf
 * P1334 — DEMAIS 2019 regular  — nenhuma questão — 2019.2 - USS - PROVA.pdf
 * P1332 — DEMAIS 2019 regular  — nenhuma questão — 2019.1 - USS - PROVA.pdf
 * P0825 — DEMAIS 2019 regular  — só 18 questões (esperado ~54) — FATEC 2019_2.pdf
 * P0823 — DEMAIS 2019 regular  — só 18 questões (esperado ~54) — FATEC 2019_1.pdf
-* P0753 — DEMAIS 2019 regular  — só 20 questões em 28 páginas — Famerp - Prova Dissertativa 2019.pdf
-* P1854 — DEMAIS 2018 regular 2 — só 7 questões em 26 páginas — UFU 2018 2º Dia 2º Fase.pdf
-* P1853 — DEMAIS 2018 regular 1 — só 7 questões em 34 páginas — UFU 2018 1º Dia 2º Fase.pdf
-* P1852 — DEMAIS 2018 regular 1 — só 7 questões em 8 páginas — UFU 2018 1º Dia 2º Fase (Francês).pdf
 * P1838 — DEMAIS 2018 regular 2 — só 8 questões (esperado ~50) — UFU 2018 2º Dia 1º Fase.pdf
 * P1836 — DEMAIS 2018 regular 1 — só 8 questões (esperado ~60) — UFU 2018 1º Dia 1º Fase.pdf
 * P0821 — DEMAIS 2018 regular  — só 18 questões (esperado ~54) — FATEC 2018_2.pdf
