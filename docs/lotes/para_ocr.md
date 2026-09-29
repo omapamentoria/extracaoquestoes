@@ -471,3 +471,9 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P0813 — DEMAIS 2016 regular  — só 18 questões (esperado ~54) — FATEC 2016_2.pdf
 * P0811 — DEMAIS 2016 regular  — só 18 questões (esperado ~54) — FATEC 2016_1.pdf
 * P0738 — DEMAIS 2016 regular  — só 20 questões em 28 páginas — Famerp - Conhecimentos específicos e redação - Prova II - 2016.pdf
+* P1794 — DEMAIS 2015 regular 2 — só 3 questões em 18 páginas — UFU 2015 2º Dia 2º Fase.pdf
+* P1793 — DEMAIS 2015 regular 1 — nenhuma questão — UFU 2015 1º Dia 2º Fase.pdf
+* P1702 — DEMAIS 2015 regular  — só 6 questões (esperado ~38) — Prova_PSV_2015_Tipo_A.pdf
+* P0809 — DEMAIS 2015 regular  — só 18 questões (esperado ~54) — FATEC 2015_2.pdf
+* P0807 — DEMAIS 2015 regular  — só 18 questões (esperado ~54) — FATEC 2015_1.pdf
+* P0734 — DEMAIS 2015 regular  — só 20 questões em 28 páginas — Famerp - Conhecimentos específicos e redação - Prova II - 2015.pdf
