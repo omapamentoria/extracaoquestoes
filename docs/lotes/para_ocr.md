@@ -454,3 +454,7 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1838 — DEMAIS 2018 regular 2 — só 8 questões (esperado ~50) — UFU 2018 2º Dia 1º Fase.pdf
 * P1836 — DEMAIS 2018 regular 1 — só 8 questões (esperado ~60) — UFU 2018 1º Dia 1º Fase.pdf
 * P0821 — DEMAIS 2018 regular  — só 18 questões (esperado ~54) — FATEC 2018_2.pdf
+* P0819 — DEMAIS 2018 regular  — só 18 questões (esperado ~54) — FATEC 2018_1.pdf
+* P0750 — DEMAIS 2018 regular  — nenhuma questão — Famerp - Redação CC 2018.pdf
+* P0748 — DEMAIS 2018 regular  — só 20 questões em 24 páginas — Famerp - Prova Dissertativa 2018.pdf
+* P2037 — DEMAIS 2017 2017.2  — nenhuma questão — unemat.pdf
