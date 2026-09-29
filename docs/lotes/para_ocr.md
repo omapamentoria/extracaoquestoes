@@ -108,3 +108,24 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2774 — SIMULADO_ENEM 2019  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 2- Segundo dia.pdf
 * P2771 — SIMULADO_ENEM 2019  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 1-Segundo dia.pdf
 * P2770 — SIMULADO_ENEM 2019  1 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 1-Primeiro dia.pdf
+* P1120 — FUVEST 2021 regular  — texto: corrompido — FUVEST 2021 - 1a fase - PROVA.pdf
+* P1155 — FUVEST 2013 regular 2 — texto: parcialmente corrompido — FUVEST 2013 - 2a fase - 2o dia.pdf
+* P1198 — FUVEST 2021 regular  — texto: parcialmente corrompido — FUVEST 2021 - 2a fase - Portugus e RedaÆo.pdf
+* P1202 — FUVEST 2022 regular 1 — texto: parcialmente corrompido — FUVEST 2022 - 2a fase - dia 1.pdf
+* P1221 — FUVEST 2026 regular 2 — texto: maioria sem texto (imagem) — fuvest 2026 - 2ª fase - dia 02.pdf
+* P1639 — UERJ 2025 regular  — texto: parcialmente corrompido — 2º exame de qualificação 2025.pdf
+* P2088 — SIMULADO_UNESP 2022   — texto: parcialmente corrompido — [PROVA] 1° SOMOS UNESP 2022 - 1° FASE.pdf
+* P2195 — UNICAMP 2019 regular  — texto: sem_texto (imagem) — bioresp.pdf
+* P2198 — UNICAMP 2019 regular  — texto: sem_texto (imagem) — georesp.pdf
+* P2199 — UNICAMP 2019 regular  — texto: sem_texto (imagem) — hisresp.pdf
+* P2202 — UNICAMP 2019 regular  — texto: sem_texto (imagem) — portresp.pdf
+* P1645 — UERJ 2026 regular  — nenhuma questão — 2º exame de qualificação 2026.pdf
+* P1642 — UERJ 2026 regular  — nenhuma questão — 1º exame de qualificação 2026.pdf
+* P1581 — UERJ 2026 regular  — só 7 questões em 8 páginas — Redacaoo.pdf
+* P1579 — UERJ 2026 regular  — só 6 questões em 16 páginas — Quimica- provaa.pdf
+* P1577 — UERJ 2026 regular  — só 6 questões em 16 páginas — Biologia - provaa.pdf
+* P1219 — FUVEST 2026 regular 1 — só 11 questões em 16 páginas — fuvest 2026 - 2ª fase - dia 01.pdf
+* P1135 — FUVEST 2026 regular  — 50 de 50 questões PENDENTES (símbolos sem tradução) — fuvest 2026 - 1 fase prova V1.pdf
+* P2265 — UNICAMP 2025 regular 2 — nenhuma questão — unicamp2025_2fase_2dia_prova-3.pdf
+* P2264 — UNICAMP 2025 regular 2 — nenhuma questão — unicamp2025_2fase_2dia_prova-2.pdf
+* P2263 — UNICAMP 2025 regular 2 — nenhuma questão — unicamp2025_2fase_2dia_prova-1.pdf
