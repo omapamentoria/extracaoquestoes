@@ -1578,9 +1578,12 @@ def _cadeia(estilo):
     cands = sorted({(n, pn_) for pn_, _, _, l in _ord_l for e, n in cand_cabecalho(l) if e == estilo})
     comp = {}; ini = {}; ant_ = {}
     for n, p_ in cands:
-        ants = [(comp[(m, q)], q) for (m, q) in comp if m == n - 1 and q <= p_]
+        ants = [(comp[(m, q)], q, m) for (m, q) in comp if m == n - 1 and q <= p_]
+        # um numero que nao existe como texto (ex.: "21." desenhado ou dentro de imagem, SSA 2018) nao corta a sequencia:
+        # pode pular UM numero (fica no alerta "numeros faltando")
+        if not ants: ants = [(comp[(m, q)], q, m) for (m, q) in comp if m == n - 2 and q <= p_ and q >= p_ - 1]
         if ants:
-            c_, q = max(ants); comp[(n, p_)] = c_ + 1; ini[(n, p_)] = ini[(n - 1, q)]; ant_[(n, p_)] = (n - 1, q)
+            c_, q, m_ = max(ants); comp[(n, p_)] = c_ + 1; ini[(n, p_)] = ini[(m_, q)]; ant_[(n, p_)] = (m_, q)
         else:
             comp[(n, p_)] = 1; ini[(n, p_)] = (n, p_)
     if not comp: return 0, None, set()
@@ -1899,11 +1902,15 @@ for i_it, it in enumerate(itens):
                     l["uso"] = "antes do início das questões (capa/instruções)"
                     continue
             n_cab = eh_cabecalho(l)
+            # linha so com o numero esperado ("21." e a figura embaixo, SSA 2018): tambem e cabecalho
+            m_so = re.fullmatch(r"0*(\d{1,3})\s*[.)]", t) if ESTILO_Q == "ponto" and esperado is not None else None
+            if n_cab is None and m_so and int(m_so.group(1)) == esperado: n_cab = esperado
             if n_cab is not None:
                 n = n_cab
                 recomeco = faixa_idioma is not None and n == faixa_idioma[0] and esperado == faixa_idioma[1] + 1
                 if recomeco: passagem += 1
-                if (esperado is None and n == PRIMEIRA_Q) or n == esperado or recomeco:
+                # um numero pode faltar (nao existe como texto): a questao seguinte nao se perde (fica em "numeros faltando")
+                if (esperado is None and n == PRIMEIRA_Q) or n == esperado or (esperado is not None and n == esperado + 1) or recomeco:
                     atual = {"numero": n, "area": area, "idioma": idioma_de(n), **novo_bloco()}; questoes.append(atual); esperado = n + 1
                     atual["base_ref"] = base_atual["id"] if base_atual is not None and not base_atual.get("congelado") and base_atual["partes"] else None
                     if base_atual is not None: base_atual["congelado"] = True
