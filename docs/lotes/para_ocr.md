@@ -24,3 +24,11 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2421 — ENEM 2010 PPL/reaplicação 1 — 45 de 70 questões PENDENTES (símbolos sem tradução) — ENEM PPL - 2010 (2°apli) - 1° dia - Prova azul.pdf
 * P2494 — ENEM 2009 regular 2 — nenhuma questão — ENEM - 2009  - 2°dia - Prova amarela.pdf
 * P2491 — ENEM 2009 regular 1 — só 9 questões (esperado ~90) — ENEM - 2009 - 1°dia - Prova amarela.pdf
+* P2489 — ENEM 2009 prova vazada (2009) 2 — nenhuma questão — ENEM - 2009 (F) - 2°dia - Prova amarela.pdf
+* P2487 — ENEM 2009 prova vazada (2009) 1 — nenhuma questão — ENEM - 2009 (F) - 1°dia - Prova amarela.pdf
+* P2418 — ENEM 2009 PPL/reaplicação 2 — nenhuma questão — ENEM PPL - 2009 (2° apli.) - 2° dia - Prova branca.pdf
+* P2417 — ENEM 2009 PPL/reaplicação 1 — só 4 questões (esperado ~90) — ENEM PPL - 2009 (2° apli.) - 1° dia - Prova branca.pdf
+* P2414 — ENEM 2008 regular  — só 4 questões (esperado ~63) — ENEM - 2008 - Prova amarela.pdf
+* P2408 — ENEM 2007 regular  — nenhuma questão — ENEM - 2007 - Prova amarela(1).pdf
+* P2403 — ENEM 2006 regular  — nenhuma questão — ENEM - 2006 - Prova amarela.pdf
+* P2397 — ENEM 2004 regular  — só 13 questões (esperado ~52) — ENEM - 2004 - Prova amarela.pdf
