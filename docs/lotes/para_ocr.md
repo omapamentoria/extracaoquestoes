@@ -138,13 +138,7 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1266 — DEMAIS 2024 regular 1 — só 9 questões (esperado ~38) — prova tipo 1 - 2024.PDF
 * P0775 — DEMAIS 2024 regular 2 — só 20 questões em 28 páginas — famerp 2024 - dia 02 prova.pdf
 * P1968 — DEMAIS 2023 regular  — nenhuma questão — planner diário.pdf
-* P1260 — DEMAIS 2023 regular 2 — nenhuma questão — historia 2023.PDF
-* P1259 — DEMAIS 2023 regular 2 — nenhuma questão — fisica 2023.PDF
-* P1258 — DEMAIS 2023 regular 2 — nenhuma questão — filosofia 2023.PDF
-* P1257 — DEMAIS 2023 regular 2 — nenhuma questão — biologia 2023.PDF
-* P1256 — DEMAIS 2023 regular 2 — nenhuma questão — arte 2023.PDF
 * P1255 — DEMAIS 2023 regular 1 — só 9 questões (esperado ~32) — prova tipo 1 - 2023.PDF
-* P0833 — DEMAIS 2023 2023.2  — só 3 questões (esperado ~54) — fatec2023_2_prova.pdf
 * P0771 — DEMAIS 2023 regular 2 — só 20 questões em 28 páginas — famerp 2023 - dia 02 prova.pdf
 * P1253 — DEMAIS 2022 regular  — só 11 questões (esperado ~55) — prova tipo 1 - 2022.PDF
 * P0768 — DEMAIS 2022 regular  — só 20 questões em 28 páginas — Prova 2.pdf
