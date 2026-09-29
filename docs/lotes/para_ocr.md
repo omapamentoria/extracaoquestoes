@@ -20,24 +20,17 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2863 — SIMULADO_ENEM 2026  2 — nenhuma questão — 3° SOMOS - 2026 - Dia 02.pdf
 * P3081 — SIMULADO_ENEM 2024  2 — 46 de 90 questões PENDENTES (símbolos sem tradução) — 2º Poliedro 2024 - prova d2 - @wagnernamed.pdf
 * P3466 — SIMULADO_ENEM 2023  2 — 51 de 90 questões PENDENTES (símbolos sem tradução) — Prova - Dia 02- SAS 06_2023.pdf
-* P3451 — SIMULADO_ENEM 2023  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 3 SAS_2023  - DIA 1.pdf
-* P3448 — SIMULADO_ENEM 2023  2 — 95 de 95 questões PENDENTES (símbolos sem tradução) — Dia 2 - sas 2_2023.pdf.pdf
-* P3447 — SIMULADO_ENEM 2023  1 — 90 de 90 questões PENDENTES (símbolos sem tradução) — Dia 1 - sas 2_2023.pdf
 * P3446 — SIMULADO_ENEM 2023  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 1 SAS 2023 - DIA 2 PROVA.pdf
-* P3444 — SIMULADO_ENEM 2023  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 1 SAS 2023 - DIA 1 PROVA.pdf
-* P1120 — FUVEST 2021 regular  — texto: corrompido — FUVEST 2021 - 1a fase - PROVA.pdf
 * P1155 — FUVEST 2013 regular 2 — texto: parcialmente corrompido — FUVEST 2013 - 2a fase - 2o dia.pdf
 * P1198 — FUVEST 2021 regular  — texto: parcialmente corrompido — FUVEST 2021 - 2a fase - Portugus e RedaÆo.pdf
 * P1202 — FUVEST 2022 regular 1 — texto: parcialmente corrompido — FUVEST 2022 - 2a fase - dia 1.pdf
 * P1221 — FUVEST 2026 regular 2 — texto: maioria sem texto (imagem) — fuvest 2026 - 2ª fase - dia 02.pdf
 * P1639 — UERJ 2025 regular  — texto: parcialmente corrompido — 2º exame de qualificação 2025.pdf
-* P2088 — SIMULADO_UNESP 2022   — texto: parcialmente corrompido — [PROVA] 1° SOMOS UNESP 2022 - 1° FASE.pdf
 * P2195 — UNICAMP 2019 regular  — texto: sem_texto (imagem) — bioresp.pdf
 * P2198 — UNICAMP 2019 regular  — texto: sem_texto (imagem) — georesp.pdf
 * P2199 — UNICAMP 2019 regular  — texto: sem_texto (imagem) — hisresp.pdf
 * P2202 — UNICAMP 2019 regular  — texto: sem_texto (imagem) — portresp.pdf
 * P1219 — FUVEST 2026 regular 1 — só 11 questões em 16 páginas — fuvest 2026 - 2ª fase - dia 01.pdf
-* P1135 — FUVEST 2026 regular  — 50 de 50 questões PENDENTES (símbolos sem tradução) — fuvest 2026 - 1 fase prova V1.pdf
 * P2265 — UNICAMP 2025 regular 2 — nenhuma questão — unicamp2025_2fase_2dia_prova-3.pdf
 * P2264 — UNICAMP 2025 regular 2 — nenhuma questão — unicamp2025_2fase_2dia_prova-2.pdf
 * P2263 — UNICAMP 2025 regular 2 — nenhuma questão — unicamp2025_2fase_2dia_prova-1.pdf
