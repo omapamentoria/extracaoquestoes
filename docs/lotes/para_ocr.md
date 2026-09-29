@@ -18,13 +18,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P3313 — SIMULADO_ENEM 2024  2 — texto: sem_texto (imagem) — 6º Bernoulli 2024 - prova dia 02 - @wagnernamed.pdf
 * P4023 — SIMULADO_SSA   1 — texto: sem_texto (imagem) — 1 dIa SAS SSA-Simulado 1.pdf
 * P2863 — SIMULADO_ENEM 2026  2 — nenhuma questão — 3° SOMOS - 2026 - Dia 02.pdf
-* P3504 — SIMULADO_ENEM 2025  2 — só 10 questões (esperado ~84) — 2º Simulado SAS Enem 2025- prova 2º Dia.pdf
-* P3498 — SIMULADO_ENEM 2025  2 — nenhuma questão — 1º SAS 2025 - D2 .pdf
-* P3497 — SIMULADO_ENEM 2025  1 — só 4 questões (esperado ~89) — 1º SAS 2025 - D1.pdf
-* P2976 — SIMULADO_ENEM 2025  2 — 48 de 73 questões PENDENTES (símbolos sem tradução) — 1º SOMOS 2025 - D2.pdf
-* P3489 — SIMULADO_ENEM 2024  2 — nenhuma questão — 5º SAS 2024 - prova d2 - @wagnernamed.pdf.pdf
-* P3488 — SIMULADO_ENEM 2024  1 — nenhuma questão — 5º SAS 2024 - prova d1 - @wagnernamed.pdf.pdf
-* P3484 — SIMULADO_ENEM 2024  1 — nenhuma questão — 4º  SAS 2024 - prova d1 - @wagnernamed.pdf
 * P3081 — SIMULADO_ENEM 2024  2 — 46 de 90 questões PENDENTES (símbolos sem tradução) — 2º Poliedro 2024 - prova d2 - @wagnernamed.pdf
 * P3466 — SIMULADO_ENEM 2023  2 — 51 de 90 questões PENDENTES (símbolos sem tradução) — Prova - Dia 02- SAS 06_2023.pdf
 * P3451 — SIMULADO_ENEM 2023  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 3 SAS_2023  - DIA 1.pdf
