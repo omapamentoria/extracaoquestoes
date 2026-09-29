@@ -159,15 +159,7 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1793 — DEMAIS 2015 regular 1 — nenhuma questão — UFU 2015 1º Dia 2º Fase.pdf
 * P1702 — DEMAIS 2015 regular  — só 6 questões (esperado ~38) — Prova_PSV_2015_Tipo_A.pdf
 * P1981 — DEMAIS 2014 regular  — só 44 questões (esperado ~301) — provas unemat 2014 -  2023.pdf
-* P0799 — DEMAIS 2013 regular  — só 19 questões (esperado ~54) — FATEC 2013_1.pdf
-* P0797 — DEMAIS 2012 regular  — só 19 questões (esperado ~54) — FATEC 2012_2.pdf
-* P0795 — DEMAIS 2012 regular  — só 19 questões (esperado ~53) — FATEC 2012_1.pdf
-* P0793 — DEMAIS 2011 regular  — só 19 questões (esperado ~54) — FATEC 2011_2.pdf
 * P0789 — DEMAIS 2010 regular  — só 19 questões (esperado ~49) — FATEC 2010_2.pdf
-* P1983 — DEMAIS 2006 2006.1  — só 13 questões (esperado ~40) — caderno_2_2006_1.pdf
-* P1982 — DEMAIS 2006 2006.1  — só 7 questões (esperado ~49) — caderno_1_2006_1.pdf
-* P2579 — ENEM 2020 digital 2 — só 12 questões (esperado ~90) — enem2020_digital_2dia_prova_amarelo.pdf
-* P2576 — ENEM 2020 digital 1 — só 12 questões (esperado ~90) — enem2020_digital_1dia_prova_amarelo.pdf
 * P2423 — ENEM 2010 PPL/reaplicação 2 — 65 de 89 questões PENDENTES (símbolos sem tradução) — ENEM PPL - 2010 (2°apli) - 2° dia - Prova azul.pdf
 * P2489 — ENEM 2009 prova vazada (2009) 2 — nenhuma questão — ENEM - 2009 (F) - 2°dia - Prova amarela.pdf
 * P2487 — ENEM 2009 prova vazada (2009) 1 — nenhuma questão — ENEM - 2009 (F) - 1°dia - Prova amarela.pdf
