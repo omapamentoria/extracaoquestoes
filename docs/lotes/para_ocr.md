@@ -208,3 +208,11 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1516 — UERJ 2019 regular  — só 6 questões em 16 páginas — UERJ 2019 - Exame Discursivo - Prova F¡sica.pdf
 * P1515 — UERJ 2019 regular  — só 6 questões em 16 páginas — UERJ 2019 - Exame Discursivo - Prova Biologia.pdf
 * P1191 — FUVEST 2019 regular 2 — só 6 questões em 38 páginas — FUVEST 2019 - 2a fase -2o dia.pdf
+* P1190 — FUVEST 2019 regular 1 — 6 de 10 questões PENDENTES (símbolos sem tradução) — FUVEST 2019 - 2a fase - 1o dia.pdf
+* P2192 — UNICAMP 2018 regular  — nenhuma questão — redport.pdf
+* P2190 — UNICAMP 2018 regular  — nenhuma questão — matgeohis.pdf
+* P2189 — UNICAMP 2018 regular  — só 1 questões em 21 páginas — fisbioqui.pdf
+* P2188 — UNICAMP 2018 regular  — 10 de 10 questões PENDENTES (símbolos sem tradução) — ed_abert_uncisal.pdf
+* P2055 — UNESP 2018 regular  — nenhuma questão — Cópia de UNESP2018_2_1fase_prova.pdf
+* P1599 — UERJ 2018 regular  — só 3 questões em 40 páginas — 2º Exame Qualificação 2018.pdf
+* P1598 — UERJ 2018 regular  — nenhuma questão — 1º Exame Qualificação 2018.pdf
