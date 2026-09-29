@@ -85,19 +85,12 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2190 — UNICAMP 2018 regular  — nenhuma questão — matgeohis.pdf
 * P1599 — UERJ 2018 regular  — só 3 questões em 40 páginas — 2º Exame Qualificação 2018.pdf
 * P1598 — UERJ 2018 regular  — nenhuma questão — 1º Exame Qualificação 2018.pdf
-* P1186 — FUVEST 2018 regular 2 — só 5 questões em 38 páginas — FUVEST 2018 - 2o dia - 3o dia.pdf
 * P1111 — FUVEST 2018 regular  — só 6 questões (esperado ~74) — FUVEST 2018 - 1a fase - PROVA.pdf
 * P2173 — UNICAMP 2017 regular  — nenhuma questão — Prova de Redação e prova de Língua Portuguesa e Literaturas de Língua Portuguesa.pdf
 * P2172 — UNICAMP 2017 regular  — nenhuma questão — Prova de Geografia, prova de História e prova de Matemática.pdf
 * P2171 — UNICAMP 2017 regular  — nenhuma questão — Prova de Ciências Biológicas, prova de Química e prova de Física.pdf
 * P1595 — UERJ 2017 regular  — nenhuma questão — 2º Exame Qualificação 2017.pdf
 * P1594 — UERJ 2017 regular  — só 4 questões (esperado ~9) — 1º Exame Qualificação 2017.pdf
-* P1483 — UERJ 2017 regular  — só 6 questões em 16 páginas — UERJ 20187 - Exame Discursivo - Prova Qu¡mica.pdf
-* P1482 — UERJ 2017 regular  — só 6 questões em 16 páginas — UERJ 20187 - Exame Discursivo - Prova Portugus e Literatura.pdf
-* P1481 — UERJ 2017 regular  — só 6 questões em 16 páginas — UERJ 20187 - Exame Discursivo - Prova Matem tica.pdf
-* P1480 — UERJ 2017 regular  — só 6 questões em 8 páginas — UERJ 20187 - Exame Discursivo - Prova L¡ngua Portuguesa Instrumental com RedaÆo.pdf
-* P1479 — UERJ 2017 regular  — só 6 questões em 24 páginas — UERJ 20187 - Exame Discursivo - Prova L¡ngua Estrangeira.pdf
-* P1476 — UERJ 2017 regular  — só 5 questões em 16 páginas — UERJ 20187 - Exame Discursivo - Prova F¡sica.pdf
 * P1475 — UERJ 2017 regular  — só 6 questões em 16 páginas — UERJ 20187 - Exame Discursivo - Prova Biologia.pdf
 * P1180 — FUVEST 2017 regular 3 — erro no extrator — FUVEST 1017 - 2a fase - 3o dia.pdf
 * P2158 — UNICAMP 2016 regular  — nenhuma questão — Prova de Redação e prova de Língua Portuguesa e Literaturas de Língua Portuguesa - 2ª fase Unicamp 2016.pdf
