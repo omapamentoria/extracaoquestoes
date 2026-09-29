@@ -41,9 +41,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P3447 — SIMULADO_ENEM 2023  1 — 90 de 90 questões PENDENTES (símbolos sem tradução) — Dia 1 - sas 2_2023.pdf
 * P3446 — SIMULADO_ENEM 2023  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 1 SAS 2023 - DIA 2 PROVA.pdf
 * P3444 — SIMULADO_ENEM 2023  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 1 SAS 2023 - DIA 1 PROVA.pdf
-* P2852 — SIMULADO_ENEM 2023  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — simulado enem 2 dia.pdf
-* P2851 — SIMULADO_ENEM 2023  1 — 94 de 94 questões PENDENTES (símbolos sem tradução) — simulado enem 1 dia.pdf
-* P2847 — SIMULADO_ENEM 2023  1 — 93 de 93 questões PENDENTES (símbolos sem tradução) — Simulado enem  primeiro dia.pdf
 * P2846 — SIMULADO_ENEM 2023  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — Simulado Enem segundo dia.pdf
 * P2841 — SIMULADO_ENEM 2022  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 3-Primeiro Dia.pdf
 * P2839 — SIMULADO_ENEM 2022  2 — 89 de 90 questões PENDENTES (símbolos sem tradução) — 3- Segundo Dia.pdf
