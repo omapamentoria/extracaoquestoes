@@ -1,18 +1,21 @@
 # Extrai uma fase inteira em lotes, sem parar: baixa, extrai (4 de cada vez), faz a triagem, marca provas que
 # falharam por inteiro, apaga os PDFs do lote e grava o lote no GitHub.
-# Uso: python3 ferramentas_nuvem/fase.py <prefixo_lote> <GRUPO>[,<GRUPO>...] [tamanho_lote]
-import json, os, re, sys, glob, subprocess, time, unicodedata
+# Uso: python3 ferramentas_nuvem/fase.py <prefixo_lote> <GRUPO>[,<GRUPO>...] [tamanho_lote] [repositorio_destino]
+# Com repositorio_destino (ex.: /home/user/banco-simulados), as provas de cada lote saem de _banco/questoes e vao para
+# <destino>/questoes/..., com a triagem em <destino>/lotes/; o commit/push do lote e feito la (e no principal, docs).
+import json, os, re, sys, glob, subprocess, time, unicodedata, shutil
 
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 B = os.path.join(R, "_banco"); BM = os.path.expanduser("~/mnt/BM")
 pref, grupos = sys.argv[1], sys.argv[2].split(",")
 tam = int(sys.argv[3]) if len(sys.argv) > 3 else 10
+DEST = os.path.abspath(sys.argv[4]) if len(sys.argv) > 4 else None
 CAT = json.load(open(os.path.join(B, "catalogo_debug.json"), encoding="utf-8"))
 OCR_P = os.path.join(R, "docs", "lotes", "para_ocr.md")   # provas que ficam para a etapa de visao/OCR
 os.makedirs(os.path.dirname(OCR_P), exist_ok=True)
 ocr_ja = set(re.findall(r"\bP\d{4}\b", open(OCR_P).read())) if os.path.exists(OCR_P) else set()
 
-def feita(pid): return bool(glob.glob(f"{B}/questoes/*/*/{pid}/questoes.json"))
+def feita(pid): return bool(glob.glob(f"{B}/questoes/*/*/{pid}/questoes.json") or (DEST and glob.glob(f"{DEST}/questoes/*/*/{pid}/questoes.json")))
 fila = [r for r in CAT if r["status"] == "a extrair" and r["grupo"] in grupos]
 ruins = [r for r in fila if r["texto"] != "ok" and r["id"] not in ocr_ja]
 fila = [r for r in fila if r["texto"] == "ok" and r["id"] not in ocr_ja and not feita(r["id"])]
@@ -25,8 +28,8 @@ def anota_ocr(linhas):
         for l in linhas: f.write(l + "\n")
 anota_ocr([f"* {r['id']} — {r['grupo']} {r['ano']} {r['edicao']} {r['dia']} — texto: {r['texto']} — {r['arquivo']}" for r in ruins])
 
-def git(*a):
-    return subprocess.run(["git", "-c", "user.name=Claude", "-c", "user.email=noreply@anthropic.com", *a], cwd=R, capture_output=True, text=True)
+def git(*a, cwd=R):
+    return subprocess.run(["git", "-c", "user.name=Claude", "-c", "user.email=noreply@anthropic.com", *a], cwd=cwd, capture_output=True, text=True)
 
 n_lotes = (len(fila) + tam - 1) // tam
 print(f"{len(fila)} provas em {n_lotes} lotes; {len(ruins)} de texto ruim anotadas para OCR", flush=True)
@@ -61,13 +64,29 @@ for i in range(n_lotes):
         if os.path.dirname(x["path"]) in pastas:
             f_ = os.path.join(BM, x["path"])
             if os.path.isfile(f_): os.remove(f_)
+    msg = (f"Extração {nome}: {len(lote) - len(falhas)} provas ({', '.join(pids)})"
+           + (f"\n\nFalharam (vão para OCR): {len(falhas)}" if falhas else "")
+           + "\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01QbmqnpCJdDCit6kkZUyzUQ")
+    alvos = [R]
+    if DEST:
+        # provas do lote vao para o repositorio da fase
+        for r in lote:
+            for d in glob.glob(f"{B}/questoes/*/*/{r['id']}"):
+                novo = os.path.join(DEST, "questoes", os.path.relpath(d, os.path.join(B, "questoes")))
+                if os.path.exists(novo): shutil.rmtree(novo)
+                os.makedirs(os.path.dirname(novo), exist_ok=True); shutil.move(d, novo)
+                rv = os.path.join(novo, "revisao")
+                if os.path.isdir(rv): shutil.rmtree(rv)       # recortes de conferencia nao vao para o banco
+        os.makedirs(os.path.join(DEST, "lotes"), exist_ok=True)
+        tri = os.path.join(R, "docs", "lotes", f"{nome}.md")
+        if os.path.exists(tri): shutil.copy(tri, os.path.join(DEST, "lotes", f"{nome}.md"))
+        git("add", "-A", ".", cwd=DEST); git("commit", "-q", "-m", msg, cwd=DEST); alvos.insert(0, DEST)
     git("add", "-A", "_banco/questoes", "docs")
-    c = git("commit", "-q", "-m", f"Extração {nome}: {len(lote) - len(falhas)} provas ({', '.join(pids)})"
-            + (f"\n\nFalharam (vão para OCR): {len(falhas)}" if falhas else "")
-            + "\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01QbmqnpCJdDCit6kkZUyzUQ")
-    for k in range(5):
-        p = git("push", "-q", "-u", "origin", "claude/magical-edison-fi62ix")
-        if p.returncode == 0: break
-        time.sleep(2 ** (k + 1))
+    git("commit", "-q", "-m", msg)
+    for alvo in alvos:
+        for k in range(5):
+            p = git("push", "-q", "-u", "origin", "claude/magical-edison-fi62ix", cwd=alvo)
+            if p.returncode == 0: break
+            time.sleep(2 ** (k + 1))
     print(f"   {nome} ok em {int(time.time() - t0)} s; falhas: {len(falhas)}; push: {'ok' if p.returncode == 0 else p.stderr[-200:]}", flush=True)
 print("FASE CONCLUÍDA", flush=True)
