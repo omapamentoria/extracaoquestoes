@@ -1,0 +1,149 @@
+[
+ {
+  "id": "P4204-T1",
+  "texto": "***QUÍMICA***",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     274.02,
+     46.231379999999945,
+     322.867824,
+     57.21137999999996
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4204-Q011"
+  ],
+  "recortes": [
+   "revisao/T1_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4204-T2",
+  "texto": "***FÍSICA***\n\n***Nas questões com respostas numéricas, considere o módulo da aceleração da gravidade igual a*** ***g = 10,0 m/s<sup>2</sup>, o módulo da carga do elétron igual a e = 1,6 x 10<sup>-19</sup>C e utilize π = 3.***",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     278.94,
+     46.89137999999991,
+     315.53634,
+     57.87137999999993
+    ],
+    [
+     42.54,
+     72.31391999999994,
+     552.7039584000001,
+     82.33392000000003
+    ],
+    [
+     42.54000000000002,
+     85.5102599999999,
+     424.8280576,
+     95.53392000000008
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4204-Q021"
+  ],
+  "recortes": [
+   "revisao/T2_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4204-T3",
+  "texto": "***HISTÓRIA***",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     272.22,
+     48.151379999999904,
+     324.80102400000004,
+     59.13137999999992
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4204-Q031"
+  ],
+  "recortes": [
+   "revisao/T3_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4204-T4",
+  "texto": "***GEOGRAFIA***",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     264.12,
+     48.45137999999997,
+     328.91517608784,
+     59.43137999999999
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4204-Q041"
+  ],
+  "recortes": [
+   "revisao/T4_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4204-T5",
+  "texto": "***SOCIOLOGIA***",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   27
+  ],
+  "caixas": {
+   "27": [
+    [
+     264.9,
+     46.35137999999995,
+     332.686128,
+     57.33137999999997
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4204-Q051"
+  ],
+  "recortes": [
+   "revisao/T5_p27.jpg"
+  ]
+ }
+]
