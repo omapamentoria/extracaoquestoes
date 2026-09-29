@@ -308,3 +308,13 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1380 — UERJ 2012 regular  — só 5 questões em 8 páginas — UERJ 2012 - Exame Discursivo - Prova L¡ngua Portuguesa Instrumental com RedaÆo.pdf
 * P1379 — UERJ 2012 regular  — só 5 questões em 32 páginas — UERJ 2012 - Exame Discursivo - Prova L¡ngua Estrangeira.pdf
 * P1378 — UERJ 2012 regular  — só 5 questões em 16 páginas — UERJ 2012 - Exame Discursivo - Prova Hist¢ria.pdf
+* P1377 — UERJ 2012 regular  — só 5 questões em 16 páginas — UERJ 2012 - Exame Discursivo - Prova Geografia.pdf
+* P1376 — UERJ 2012 regular  — só 5 questões em 16 páginas — UERJ 2012 - Exame Discursivo - Prova F¡sica.pdf
+* P1375 — UERJ 2012 regular  — só 5 questões em 16 páginas — UERJ 2012 - Exame Discursivo - Prova Biologia.pdf
+* P1150 — FUVEST 2012 regular 3 — só 11 questões em 38 páginas — FUVEST 2012 - 2a fase - 3o dia.pdf
+* P1149 — FUVEST 2012 regular 2 — 9 de 16 questões PENDENTES (símbolos sem tradução) — FUVEST 2012 - 2a fase - 2o dia.pdf
+* P1148 — FUVEST 2012 regular 1 — 8 de 10 questões PENDENTES (símbolos sem tradução) — FUVEST 2012 - 2a fase - 1o dia.pdf
+* P1093 — FUVEST 2012 regular  — só 3 questões (esperado ~62) — FUVEST 2012 - 1a fase - PROVA.pdf
+* P2109 — UNICAMP 2011 regular 3 — nenhuma questão — Provas 3º dia.pdf
+* P2108 — UNICAMP 2011 regular 2 — nenhuma questão — Provas 2º dia.pdf
+* P2107 — UNICAMP 2011 regular  — nenhuma questão — Provas 1ª dia.pdf
