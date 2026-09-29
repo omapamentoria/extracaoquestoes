@@ -15924,8 +15924,7 @@
   "gabarito": "B",
   "anulada": false,
   "paginas": [
-   31,
-   32
+   31
   ],
   "caixas": {
    "31": [
@@ -16043,27 +16042,16 @@
      343.89140000000003,
      714.2796
     ]
-   ],
-   "32": [
-    [
-     131.76,
-     58.32,
-     567.36,
-     728.64
-    ]
    ]
   },
   "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Provas ENEM normal e ENEM PPL/ENEM - 2023 (NORMAL)/Dia 02/dia 2 - enem 2023.pdf",
   "gabarito_origem": [
    "P2607"
   ],
-  "alertas": [
-   "figura na pág. 32 depois da alternativa E foi descartada (não faz parte da questão) — conferir"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
-   "revisao/Q180_p31.jpg",
-   "revisao/Q180_p32.jpg"
+   "revisao/Q180_p31.jpg"
   ]
  }
 ]

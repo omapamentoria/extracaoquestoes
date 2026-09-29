@@ -409,7 +409,7 @@
    },
    {
     "letra": "E",
-    "texto": "I, II e III. ]"
+    "texto": "I, II e III."
    }
   ],
   "apos_alternativas": "",
@@ -417,8 +417,7 @@
   "gabarito": "C",
   "anulada": false,
   "paginas": [
-   2,
-   3
+   2
   ],
   "caixas": {
    "2": [
@@ -554,14 +553,6 @@
      352.32670800000005,
      759.8276659999999
     ]
-   ],
-   "3": [
-    [
-     45.3601,
-     40.93349999999998,
-     45.67324,
-     41.95349999999996
-    ]
    ]
   },
   "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais FUVEST^/PROVAS 1 FASE FUVEST 2010 - 2026/FUVEST 2017/FUVEST 2017 - 1a fase - PROVA.pdf",
@@ -571,8 +562,7 @@
   "alertas": [],
   "status_revisao": "automático ok",
   "recortes": [
-   "revisao/Q004_p2.jpg",
-   "revisao/Q004_p3.jpg"
+   "revisao/Q004_p2.jpg"
   ]
  },
  {
@@ -15597,9 +15587,21 @@
      659.0696
     ],
     [
-     45.36,
-     644.4,
-     293.76,
+     45.3601,
+     670.6396999999997,
+     289.10233000000005,
+     680.9247
+    ],
+    [
+     45.36082000000002,
+     683.1447000000001,
+     289.1148299999999,
+     693.165132
+    ],
+    [
+     57.4196,
+     695.3847000000001,
+     91.07076800000002,
      705.4047
     ],
     [
@@ -15613,12 +15615,6 @@
      733.3648000000001,
      53.666084,
      743.3848
-    ],
-    [
-     59.760000000000005,
-     734.4,
-     72.0,
-     740.88
     ],
     [
      45.3566,
@@ -15645,8 +15641,6 @@
    "P1107"
   ],
   "alertas": [
-   "símbolos lidos de glifos-imagem do PDF (fonte Type3: ×, ≈, sinais) — conferir com a página",
-   "imagem 2 é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição",
    "texto transcrito lendo a imagem da página (fórmulas em glifos-imagem no PDF) — conferir; enunciado era {{img:1}} e a alternativa B era {{img:2}} — ambos são texto e foram digitados; sinais negativos em A e B faltavam na extração."
   ],
   "status_revisao": "revisar",
@@ -16044,16 +16038,10 @@
      656.7453439999999
     ],
     [
-     344.16,
+     351.1207,
      661.3471999999995,
-     421.6507,
-     675.9951165714286
-    ],
-    [
-     438.00073,
-     661.7768308571425,
      511.546,
-     690.48
+     675.9951165714286
     ],
     [
      306.18109000000004,

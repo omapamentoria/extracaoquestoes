@@ -125,6 +125,8 @@ def palavras(page):
     # texto girado (ex.: rotulo vertical de eixo de grafico "Altura em relacao ao solo") nao e texto corrido:
     # fica fora das palavras e, como tinta, vai junto com a figura
     chars = [c for c in chars if c.get("upright", True)]
+    # microtexto de seguranca ("ENEM2024ENEM2024..." a 1-2 pt entre as colunas e no pe da pagina): ilegivel, nao e prova
+    chars = [c for c in chars if c.get("size", 10) >= 2.5]
     ws = WordExtractor(extra_attrs=["fontname", "size"], keep_blank_chars=False, x_tolerance=1.2, y_tolerance=2).extract_words(chars)
     # texto invisivel (camada oculta, ex.: resolucao escondida no caderno do Bernoulli; texto branco sobre branco):
     # a pagina renderizada nao tem tinta nenhuma na caixa da palavra -> nao e texto da prova
@@ -176,6 +178,9 @@ def palavras(page):
         # fonte Symbol: letras latinas no PDF sao letras gregas na pagina (a = alfa, p = pi...)
         if "symbol" in w["fontname"].lower() and re.search(r"[A-Za-z]", w["text"]) and "(cid:" not in w["text"]:
             w["text"] = "".join(GREGO.get(ch, ch) for ch in w["text"])
+        # fonte Symbol com os codigos na area privada do Unicode (U+F02B = "+", U+F0DE = "⇒"): converte pela tabela da Symbol
+        if "symbol" in w["fontname"].lower() and re.search("[\uf020-\uf0ff]", w["text"]):
+            w["text"] = "".join(SYMBOL_PUA.get(ord(ch) - 0xF000, ch) if 0xF020 <= ord(ch) <= 0xF0FF else ch for ch in w["text"])
     # versalete ("TEXTO" escrito com o T maior e "EXTO" menor): o PDF separa em duas palavras por mudar o tamanho.
     # Letras maiusculas coladas, na mesma linha de base e na mesma fonte sao uma palavra so (fica o tamanho maior).
     ws.sort(key=lambda w: w["x0"])
@@ -193,6 +198,10 @@ def palavras(page):
             continue
         juntas.append(w); ult[round(w["bottom"])] = w
     return juntas
+# fonte Symbol (codificacao propria, 0x20-0xFF) -> Unicode; pedacos de parentese/chave grande ficam de fora (PENDENTE)
+SYMBOL_PUA = dict(zip(range(0x20, 0x7F), " !∀#∃%&∋()∗+,−./0123456789:;<=>?≅ΑΒΧΔΕΦΓΗΙϑΚΛΜΝΟΠΘΡΣΤΥςΩΞΨΖ[∴]⊥_‾αβχδεφγηιϕκλμνοπθρστυϖωξψζ{|}∼"))
+SYMBOL_PUA.update(dict(zip(range(0xA1, 0xE2), "ϒ′≤⁄∞ƒ♣♦♥♠↔←↑→↓°±″≥×∝∂•÷≠≡≈…⏐⎯↵ℵℑℜ℘⊗⊕∅∩∪⊃⊇⊄⊂⊆∈∉∠∇®©™∏√⋅¬∧∨⇔⇐⇑⇒⇓◊〈")))
+SYMBOL_PUA.update({0xE5: "∑", 0xF1: "〉", 0xF2: "∫"})
 GREGO = dict(zip("abgdezhqiklmnxoprstufcywABGDEZHQIKLMNXOPRSTUFCYWjJv",
                  "αβγδεζηθικλμνξοπρστυφχψωΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩϕϑϖ"))
 
@@ -210,9 +219,18 @@ def agrupa_linhas(ws, corpo):
     grandes = sorted([w for w in ws if w["size"] >= 0.8 * corpo], key=lambda w: (w["top"], w["x0"]))
     peq = [w for w in ws if w["size"] < 0.8 * corpo]
     linhas = []
+    # letra de alternativa sozinha ao lado de uma fracao empilhada (letra na altura do traco, numerador acima dela):
+    # fica na mesma linha da fracao (senao cada fracao ia para a alternativa anterior)
+    def _letra_so(ws_): return len(ws_) == 1 and re.fullmatch(r"\(?[A-Ea-e][).]?|([A-E])\1", ws_[0]["text"])
+    def _na_fracao(fr_, ws_):
+        cx_ = fr_.get("caixa")
+        if not (fr_.get("latex") and cx_ and fr_["tex"].startswith("\\frac") and _letra_so(ws_)): return False
+        c_ = (ws_[0]["top"] + ws_[0]["bottom"]) / 2
+        return cx_[1] < c_ < cx_[3] and 0 < fr_["x0"] - ws_[0]["x1"] < 4 * corpo
     for w in grandes:
         for l in linhas:
-            if abs(l["top"] - w["top"]) <= 0.35 * corpo and abs(l["size"] - w["size"]) < 3:
+            if (abs(l["top"] - w["top"]) <= 0.35 * corpo or (len(l["ws"]) == 1 and (_na_fracao(l["ws"][0], [w]) or _na_fracao(w, l["ws"])))) \
+                    and abs(l["size"] - w["size"]) < 3:
                 l["ws"].append(w); l["top"] = min(l["top"], w["top"]); l["bottom"] = max(l["bottom"], w["bottom"]); break
         else:
             linhas.append({"ws": [w], "top": w["top"], "bottom": w["bottom"], "size": w["size"]})
@@ -422,12 +440,18 @@ def fracoes(page, ws):
         gancho = o["x0"] + 0.3 * h
         dentro = [w for w in livres() if w["x0"] >= gancho - 1 and w["x1"] <= o["x1"] + 2 and w["top"] >= o["top"] - 1 and w["bottom"] <= o["bottom"] + 0.4 * w["size"]]
         no_gancho = [w for w in livres() if w["x1"] > o["x0"] + 1.5 and w["x0"] < gancho - 1 and w["top"] >= o["top"] - 1 and w["bottom"] <= o["bottom"] + 0.4 * w["size"]]
+        # indice da raiz (raiz cubica "∛"): numero pequeno em cima do gancho, na metade de cima do sinal
+        indice = [w for w in no_gancho if re.fullmatch(r"\d{1,2}|n", w["text"]) and w["size"] < 0.8 * CORPO_PROV
+                  and w["top"] <= o["top"] + 0.4 * h and w["bottom"] <= o["top"] + 0.8 * h and w not in dentro]
+        if len(indice) == 1 and len(no_gancho) == 1: no_gancho = []
+        else: indice = []
         if not dentro or no_gancho: continue
         graf_usados.add(o["_k"])
-        for w in dentro: usadas.add(ws.index(w))
+        for w in dentro + indice: usadas.add(ws.index(w))
         w0 = max(dentro, key=lambda w: w["size"])
-        ws.append(nova("\\sqrt{%s}" % tex(dentro), o["x0"], min(w["top"] for w in dentro), o["x1"], max(w["bottom"] for w in dentro), w0,
-                       (o["x0"], o["top"], o["x1"], o["bottom"])))
+        ws.append(nova(("\\sqrt[%s]{%s}" % (indice[0]["text"], tex(dentro))) if indice else "\\sqrt{%s}" % tex(dentro),
+                       min([o["x0"]] + [w["x0"] for w in indice]), min(w["top"] for w in dentro), o["x1"], max(w["bottom"] for w in dentro), w0,
+                       (min([o["x0"]] + [w["x0"] for w in indice]), min([o["top"]] + [w["top"] for w in indice]), o["x1"], o["bottom"])))
     # 2) fracoes
     for o in objs:
         if o["_k"] in graf_usados: continue 
@@ -615,6 +639,8 @@ rep = collections.Counter()
 for pg in paginas:
     for t in {chave_rep(l) for l in pg["linhas"]}: rep[t] += 1
 def extremo(l, H): return l["top"] < 0.09 * H or l["bottom"] > 0.93 * H
+RE_RODAPE_AREA = re.compile(r"\d\s*[º°o]\s*DIA\s*•\s*CADERNO\s+\d+|•\s*CADERNO\s+\d+\s*•")
+RE_SLUG = re.compile(r"\S\.ind[db]\b")
 voc_rodape = set()
 for (ws_, y), c in rep.items():
     if c >= max(3, 0.25 * NPAG) and (y * 10 < 0.09 * paginas[0]["page"].height or y * 10 > 0.93 * paginas[0]["page"].height): voc_rodape |= ws_
@@ -646,6 +672,7 @@ if os.environ.get("DEBUGCAB"):
                 print("CAB-REP", pg["n"], txt_puro(l)[:50], rep[chave_rep(l)], chave_rep(l), bool(chave_rep(l)[0] and chave_rep(l)[0] <= voc_rodape))
 for pg in paginas:
     H = pg["page"].height
+    _fx = [(l["top"], l["bottom"]) for l in pg["linhas"] if extremo(l, H) and RE_RODAPE_AREA.search(txt_puro(l))]
     # rotulo de texto ("TEXTO PARA AS QUESTOES DE 07 A 09") no alto da pagina e conteudo, nunca cabecalho repetido
     # rodape/cabecalho que se repete em metade das paginas, um pouco mais para dentro (ex.: "PROVA 1 - AMARELA - 3" a 88%)
     pg["linhas"] = [l for l in pg["linhas"] if not (chave_rep(l)[0] and rep[chave_rep(l)] >= max(3, 0.5 * NPAG)
@@ -653,6 +680,32 @@ for pg in paginas:
     pg["linhas"] = [l for l in pg["linhas"] if RE_CAB_Q.match(txt_puro(l)) or RE_TEXTO_PARA.match(txt_puro(l)) or not (extremo(l, H) and (
         (rep[chave_rep(l)] >= max(3, 0.25 * NPAG) and (chave_rep(l)[0] or len(l["ws"]) > 1 or len(txt_puro(l).strip()) > 3)) or num_pagina(l, pg)
         or (chave_rep(l)[0] and chave_rep(l)[0] <= voc_rodape) or pedaco_rodape(l)))]
+    # rodape do ENEM que muda com a area ("CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS • 1º DIA • CADERNO 2 • AMARELO") e
+    # e partido pelas colunas: a faixa inteira sai quando um pedaco tem "Nº DIA • CADERNO". Carimbo da grafica
+    # ("P1_1_Dia_LCT_REG_2_Amarelo.indd 5", "...indb 321") no pe/alto da pagina sai sempre.
+    pg["linhas"] = [l for l in pg["linhas"] if not (extremo(l, H) and (RE_SLUG.search(txt_puro(l))
+                    or any(l["top"] < b + 2 and l["bottom"] > t - 2 for t, b in _fx)))]
+    # tirinha/quadrinho em imagem embutida com o texto dos baloes numa fonte que o resto da pagina nao usa (Comic Sans):
+    # o texto dos baloes e da figura (fica na imagem, nao vira texto nem parte a figura em duas). Texto escondido
+    # debaixo da imagem ("QUESTAO 06" coberto pela tirinha) sai junto.
+    _fam = lambda w: re.sub(r"^[A-Z]{6}\+", "", w["fontname"]).split("-")[0].split(",")[0]
+    for im_ in pg["page"].images:
+        bx_ = (im_["x0"], im_["top"], im_["x1"], im_["bottom"])
+        den_ = [w for w in pg["ws"] if bx_[0] <= (w["x0"] + w["x1"]) / 2 <= bx_[2] and bx_[1] <= (w["top"] + w["bottom"]) / 2 <= bx_[3]]
+        if len(den_) <= 15: continue
+        ids_ = {id(w) for w in den_}
+        fora_f_ = {_fam(w) for w in pg["ws"] if id(w) not in ids_}
+        if sum(1 for w in den_ if _fam(w) not in fora_f_) < 0.8 * len(den_): continue
+        # sai so o texto dos baloes (fonte propria) e cabecalho de questao escondido debaixo da imagem
+        ids_ = {id(w) for w in den_ if _fam(w) not in fora_f_}
+        ids_ |= {id(w) for l in pg["linhas"] if RE_CAB_Q.match(txt_puro(l)) and all(bx_[0] <= (w["x0"] + w["x1"]) / 2 <= bx_[2]
+                 and bx_[1] <= (w["top"] + w["bottom"]) / 2 <= bx_[3] for w in l["ws"]) for w in l["ws"]}
+        pg["ws"] = [w for w in pg["ws"] if id(w) not in ids_]
+        pg["linhas"] = [l for l in pg["linhas"] if not all(id(w) in ids_ for w in l["ws"])]
+        for l in pg["linhas"]:
+            if any(id(w) in ids_ for w in l["ws"]):
+                l["ws"] = [w for w in l["ws"] if id(w) not in ids_]
+                l["x0"] = min(w["x0"] for w in l["ws"]); l["x1"] = max(w["x1"] for w in l["ws"])
     # numero de paragrafo na margem (ex.: quadradinho com "1" entre a 1a e a 2a linha do paragrafo):
     # vai para o comeco da primeira linha do paragrafo, em vez de virar uma linha solta
     tirar = []
@@ -770,7 +823,8 @@ def detecta_figuras(pg):
     if pg["linhas"]:
         xa_t = min(l["x0"] for l in pg["linhas"]); xb_t = max(l["x1"] for l in pg["linhas"])
         for c_ in page.chars:
-            if c_.get("upright", True) or not (c_["x0"] >= xb_t + 2 or c_["x1"] <= xa_t - 2): continue
+            micro_ = c_.get("size", 10) < 2.5     # microtexto de seguranca (ENEM 2024): tambem nao e figura
+            if not micro_ and (c_.get("upright", True) or not (c_["x0"] >= xb_t + 2 or c_["x1"] <= xa_t - 2)): continue
             tinta[max(0, int((c_["top"] - 1) * s)):int((c_["bottom"] + 1) * s) + 1, max(0, int((c_["x0"] - 1) * s)):int((c_["x1"] + 1) * s) + 1] = 0
     perto_txt = cv2.dilate(caixas_txt, np.ones((5, 5), np.uint8))
     n, lab, st, _ = cv2.connectedComponentsWithStats(tinta, 8)
@@ -812,7 +866,8 @@ def detecta_figuras(pg):
             for borda_ in ("topo", "base"):
                 if borda_ == "topo": faixa = [w for w in pg["ws"] if w["top"] < y0_ + 12 and w["bottom"] > y0_ and x0_ <= (w["x0"] + w["x1"]) / 2 <= x1_]
                 else: faixa = [w for w in pg["ws"] if w["bottom"] > y1_ - 12 and w["top"] < y1_ and x0_ <= (w["x0"] + w["x1"]) / 2 <= x1_]
-                if len(faixa) >= 5 and all(w["size"] >= 0.9 * CORPO for w in faixa):
+                eh_fonte_f = bool(faixa) and re.search(r"(?i)dispon[íi]vel em|acesso em|fonte:", " ".join(w["text"] for w in faixa))
+                if (len(faixa) >= 5 and all(w["size"] >= 0.9 * CORPO for w in faixa)) or eh_fonte_f:
                     if borda_ == "topo": y0_ = max(w["bottom"] for w in faixa) + 1
                     else: y1_ = min(w["top"] for w in faixa) - 1
         if y1_ - y0_ < 10: continue
@@ -1561,6 +1616,11 @@ PAGS_FORA |= {pg["n"] for pg in paginas if pg["n"] < PAG_Q1 and RE_CAPA.search("
 RE_REDACAO_FORTE = re.compile(r"(?i)proposta de reda[çc][ãa]o|instru[çc][õo]es para a reda[çc][ãa]o|folha de reda[çc][ãa]o|rascunho da reda[çc][ãa]o")
 PAGS_FORA |= {pg["n"] for pg in paginas if pg["n"] > PAG_Q1 and not any(eh_cabecalho(l) is not None for l in pg["linhas"])
               and RE_REDACAO_FORTE.search(" ".join(txt_puro(l) for l in pg["linhas"]))}
+# contracapa depois da ultima questao (restos de tabela de cores "1 Az / 2 Am", codigo de barras): sem nenhuma
+# alternativa e sem nenhuma linha de texto corrido -> fora (senao os restos grudam na ultima alternativa)
+_ult_cab = max([pg["n"] for pg in paginas if any(eh_cabecalho(l) is not None for l in pg["linhas"])] or [0])
+PAGS_FORA |= {pg["n"] for pg in paginas if _ult_cab and pg["n"] > _ult_cab and not any(letra_alt(l) for l in pg["linhas"])
+              and not any(len(l["ws"]) >= 5 for l in pg["linhas"])}
 if PAGS_FORA: print("páginas de redação/instruções (fora do banco):", sorted(PAGS_FORA))
 
 # ------------------------------------------------------------------ fluxo de leitura
@@ -1569,6 +1629,9 @@ nfig = 0
 # figuras de todas as paginas primeiro: logotipo/enfeite que se repete no alto ou no pe de varias paginas
 # (ex.: "SAS", "enem 2021") e cabecalho grafico, nao figura de questao
 LOGOS = []
+# a 1a passada (so para achar logotipos) mexe nas linhas (palavras dentro de figura saem da linha): guarda as linhas
+# para a 2a passada comecar do zero (faixa decorativa da margem juntada a um infografico engolia as alternativas)
+_LINHAS0 = {pg["n"]: [dict(l, ws=list(l["ws"])) for l in pg["linhas"]] for pg in paginas}
 FIGS_PG = {pg["n"]: detecta_figuras(pg) for pg in paginas}
 _chave_f = lambda b, H: (round(b[0] / 4), round(b[1] / 4), round(b[2] / 4), round(b[3] / 4)) if (b[1] < 0.12 * H or b[3] > 0.88 * H) else None
 _rep_f = collections.Counter(k for pg in paginas for F in FIGS_PG[pg["n"]] for k in [_chave_f(F["bbox"], pg["page"].height)] if k)
@@ -1579,6 +1642,7 @@ if LOGOS:
     for pg in paginas:
         # pagina com figura que contem o logotipo (juntou com ele) ou com o proprio logotipo: detecta de novo sem ele
         if any(any(F["bbox"][0] <= L_[2] and F["bbox"][2] >= L_[0] and F["bbox"][1] <= L_[3] and F["bbox"][3] >= L_[1] for L_ in LOGOS) for F in FIGS_PG[pg["n"]]):
+            pg["linhas"] = [dict(l, ws=list(l["ws"])) for l in _LINHAS0[pg["n"]]]
             for l in pg["linhas"]: l.pop("fig", None)
             FIGS_PG[pg["n"]] = detecta_figuras(pg)
 for pg in paginas:
@@ -2142,7 +2206,10 @@ def monta(bloco, prefixo, eh_questao):
                   and any(re.sub(r"\{\{img:\d+\}\}", "", m_).strip() for m_ in a_["md"])]
         if len(cobre_) >= 2:
             enun.insert(0, "{{img:%d}}" % k_); continue
-        alvo_ = min(cands_, key=lambda a_: (round((bb_f[0] - a_["pos"][1]) / 10), abs(a_["pos"][2] - bb_f[1]))) if cands_ else alt_cor
+        # marcador AO LADO da figura (dentro da altura dela) vence o que esta acima (figura alta que comeca acima da
+        # propria letra, ex.: circuito da alternativa E comecando na altura da D)
+        alvo_ = min(cands_, key=lambda a_: (round((bb_f[0] - a_["pos"][1]) / 10), not (bb_f[1] <= a_["pos"][2] <= bb_f[3]),
+                                            abs(a_["pos"][2] - bb_f[1]))) if cands_ else alt_cor
         alvo_["md"].append("{{img:%d}}" % k_)
     # fileira de figuras com a letra embaixo de cada uma ("(A)" sob a foto A): a figura e a alternativa
     for a_ in alts:

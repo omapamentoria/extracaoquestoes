@@ -46,7 +46,7 @@
     "bbox": [
      57.6,
      167.0,
-     311.8,
+     308.9,
      432.7
     ]
    }
@@ -67,7 +67,7 @@
     [
      57.6,
      167.04,
-     311.76,
+     308.88,
      432.72
     ],
     [
@@ -4607,7 +4607,7 @@
     "bbox": [
      61.2,
      109.4,
-     310.3,
+     306.0,
      206.6
     ]
    }
@@ -4628,7 +4628,7 @@
     [
      61.2,
      109.44,
-     310.32,
+     306.0,
      206.64000000000001
     ],
     [
@@ -7413,7 +7413,7 @@
    },
    {
     "letra": "D",
-    "texto": "de frases de incentivo dirigidas ao leitor, o que reforça a busca por manter a comunicação."
+    "texto": "uso de frases de incentivo dirigidas ao leitor, o que reforça a busca por manter a comunicação."
    },
    {
     "letra": "E",
@@ -9060,8 +9060,8 @@
     "pagina": 16,
     "bbox": [
      342.7,
-     247.7,
-     578.2,
+     260.6,
+     571.7,
      600.5
     ]
    }
@@ -9081,8 +9081,8 @@
     ],
     [
      342.72,
-     247.68,
-     578.16,
+     260.64,
+     571.6800000000001,
      600.48
     ],
     [
@@ -10073,7 +10073,7 @@
     "bbox": [
      57.6,
      518.4,
-     312.5,
+     311.8,
      769.7
     ]
    }
@@ -10106,7 +10106,7 @@
     [
      57.6,
      518.4,
-     312.48,
+     311.76,
      769.6800000000001
     ],
     [
@@ -14683,7 +14683,7 @@
   "area": "CIÊNCIAS HUMANAS E SUAS",
   "texto_base_id": null,
   "textos_base_ids": [],
-  "enunciado": "**Como o Peru conseguiu reduzir 50%**\n\n**da pobreza em 10 anos**\n\nEm 2005, cerca de 55% da população do Peru sofria com a pobreza. Porém, desde então, houve uma mudança significativa na estrutura social do país, que conseguiu reduzir drasticamente sua população pobre. Atualmente, a pobreza atinge 22% dos moradores do país. Essa história começou na década de 1990, quando o país lançou sua economia como parte do programa de ajuste estrutural do Banco Mundial. Abrir-se a novos mercados permitiu ao Peru se beneficiar dos preços recordes da exportação de seus minerais, especialmente para a China.\n\n{{fonte:1}}\n\nA notícia indica que a mudança na estrutura social do país teve início após um processo de crescimento econômico decorrente da",
+  "enunciado": "**Como o Peru conseguiu reduzir 50%**  \n**da pobreza em 10 anos**\n\nEm 2005, cerca de 55% da população do Peru sofria com a pobreza. Porém, desde então, houve uma mudança significativa na estrutura social do país, que conseguiu reduzir drasticamente sua população pobre. Atualmente, a pobreza atinge 22% dos moradores do país. Essa história começou na década de 1990, quando o país lançou sua economia como parte do programa de ajuste estrutural do Banco Mundial. Abrir-se a novos mercados permitiu ao Peru se beneficiar dos preços recordes da exportação de seus minerais, especialmente para a China.\n\n{{fonte:1}}\n\nA notícia indica que a mudança na estrutura social do país teve início após um processo de crescimento econômico decorrente da",
   "fontes": [
    "Disponível em: https://www.bbc.com. Acesso em: 7 set. 2020. (adaptado)"
   ],
