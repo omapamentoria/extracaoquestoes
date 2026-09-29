@@ -386,3 +386,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1271 — DEMAIS 2024 regular 2 — nenhuma questão — historia 2024.PDF
 * P1270 — DEMAIS 2024 regular 2 — nenhuma questão — fisica 2024.PDF
 * P1269 — DEMAIS 2024 regular 2 — nenhuma questão — filosofia 2024.PDF
+* P1267 — DEMAIS 2024 regular 2 — nenhuma questão — arte 2024.PDF
+* P1266 — DEMAIS 2024 regular 1 — só 9 questões (esperado ~38) — prova tipo 1 - 2024.PDF
+* P0839 — DEMAIS 2024 2024.2  — nenhuma questão — prova-fatec-vestibular-2024-2.pdf
+* P0836 — DEMAIS 2024 2024.1  — só 13 questões (esperado ~54) — caderno-de-prova-fatec-2024.pdf
+* P0775 — DEMAIS 2024 regular 2 — só 20 questões em 28 páginas — famerp 2024 - dia 02 prova.pdf
+* P1968 — DEMAIS 2023 regular  — nenhuma questão — planner diário.pdf
+* P1955 — DEMAIS 2023 regular  — só 13 questões em 30 páginas — 2a fase UFU 2023.2.pdf
