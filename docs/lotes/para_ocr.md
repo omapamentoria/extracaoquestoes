@@ -441,3 +441,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P0760 — DEMAIS 2020 regular  — nenhuma questão — Famerp 2020.pdf
 * P0758 — DEMAIS 2020 regular  — só 20 questões em 28 páginas — Famerp - Prova Dissertativa 2020.pdf
 * P2286 — DEMAIS 2019 regular  — nenhuma questão — Unifesp - Redação CC 2019.pdf
+* P1876 — DEMAIS 2019 regular 2 — só 7 questões em 26 páginas — UFU 2019 2º Dia 2º Fase.pdf
+* P1875 — DEMAIS 2019 regular 1 — só 7 questões em 28 páginas — UFU 2019 1º Dia 2º Fase.pdf
+* P1334 — DEMAIS 2019 regular  — nenhuma questão — 2019.2 - USS - PROVA.pdf
