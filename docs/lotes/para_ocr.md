@@ -163,3 +163,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2239 — UNICAMP 2022 regular  — nenhuma questão — prova-humanas-artes.pdf
 * P2238 — UNICAMP 2022 regular  — nenhuma questão — prova-exatas-tecnologicas.pdf
 * P2237 — UNICAMP 2022 regular  — nenhuma questão — prova-ciencias-biologicas-saude.pdf
+* P2065 — UNESP 2022 regular  — só 4 questões (esperado ~90) — UNESP2022_1fase_prova.pdf
+* P2064 — UNESP 2022 regular  — só 4 questões (esperado ~90) — UNESP2022_1fase_prova (1).pdf
+* P1618 — UERJ 2022 2022.1  — nenhuma questão — UERJ - prova_2022.pdf
+* P1203 — FUVEST 2022 regular 2 — só 10 questões em 38 páginas — FUVEST 2022 - 2a fase - dia 2.pdf
+* P1123 — FUVEST 2022 regular  — só 9 questões (esperado ~67) — FUVEST 2022 - 1a fase - PROVA.pdf
+* P2224 — UNICAMP 2021 regular  — só 6 questões em 17 páginas — Prova de redação-portugues-literatura-interdisciplinares-ingles.pdf
+* P2223 — UNICAMP 2021 regular  — só 3 questões em 25 páginas — Prova da área de Ciências Humanas-Artes.pdf
