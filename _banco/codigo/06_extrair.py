@@ -14,10 +14,18 @@ PID = sys.argv[1]; PERFIL = sys.argv[2] if len(sys.argv) > 2 else "auto"   # aut
 CAT = {d["id"]: d for d in json.load(open(os.path.join(B, "catalogo_debug.json"), encoding="utf-8"))}
 P = CAT[PID]
 PDF = os.path.join(RAIZ, P["caminho"])
+# prova com texto ruim no PDF (digitalizada / fonte sem traducao): se existe o PDF com a camada de OCR
+# (ferramentas_nuvem/ocr_pdf.py -> ~/mnt/BM/_ocr/<PID>.pdf), ele e lido no lugar do original. So vale para essas provas.
+OCR = os.path.exists(os.path.join(RAIZ, "_ocr", PID + ".pdf"))
+BOLHAS = {}   # OCR: caixas (pt) das bolinhas de alternativa achadas na imagem, por pagina (ocr_pdf.py)
+if OCR:
+    PDF = os.path.join(RAIZ, "_ocr", PID + ".pdf"); print("modo OCR:", PDF)
+    _bj = os.path.join(RAIZ, "_ocr", PID + ".bolhas.json")
+    if os.path.exists(_bj): BOLHAS = {int(k): v for k, v in json.load(open(_bj)).items()}
 OUT = os.path.join(B, "questoes", P["vestibular"] or "outros", P["ano"] or "sem_ano", PID)
 os.makedirs(os.path.join(OUT, "img"), exist_ok=True); os.makedirs(os.path.join(OUT, "revisao"), exist_ok=True)
 DPI_FIG = 300; DPI_DET = 100
-RE_Q_ENEM = re.compile(r"^(?i:quest[ãa]o)\s+0*(\d{1,3})\b")   # "QUESTÃO 91", "Questão 04" (ENEM 2019-2021), "QUESTãO 01" (versalete, ENEM 2025); sempre em negrito
+RE_Q_ENEM = re.compile(r"^(?i:quest[ãa]o)\s+0*(\d{1,3})\b" if not OCR else r"^(?i:quest[ãa]o)\s*0*(\d{1,3})\b")   # "QUESTÃO 91", "Questão 04" (ENEM 2019-2021), "QUESTãO 01" (versalete, ENEM 2025); sempre em negrito
 RE_Q_NUM = re.compile(r"^0*(\d{1,3})\s*[.)–-]\s+\S")
 RE_IDIOMA = re.compile(r"(?i)(op[çc][ãa]o|opci[óo]n)\W*(de\W*)?(l[íi]ngua\W*)?(estrangeira\W*)?(ingl[êe]s|espanhol|español)")
 RE_AREA = re.compile(r"(?i)^(CI[ÊE]NCIAS|MATEM[ÁA]TICA|LINGUAGENS|QUEST[ÕO]ES DE)\b")
@@ -79,6 +87,12 @@ def letra_alt(l):
         m = re.match(r"^([A-E])\.(\s|$)", t)
         if m: return m.group(1)
     # "A preocupação..." com a letra em negrito e espaco largo antes do texto normal (simulados MD) - so na prova que usa
+    # PDF do OCR: a letra da bolinha do ENEM sai como letra solta ("A texto"; o "C" as vezes sai "c"). So vale se a
+    # letra esta sobre uma bolinha achada na imagem (ocr_pdf.py), senao o artigo "A" no comeco da linha viraria alternativa
+    if OCR and re.fullmatch(r"[A-Ec]", w0["text"]) and len(l["ws"]) > 1:
+        cx_, cy_ = (w0["x0"] + w0["x1"]) / 2, (w0["top"] + w0["bottom"]) / 2
+        if any(b[0] - 2 <= cx_ <= b[2] + 2 and b[1] - 2 <= cy_ <= b[3] + 2 for b in BOLHAS.get(l.get("pg"), [])):
+            return w0["text"].upper()
     if ALT_NEGRITO and re.fullmatch(r"[A-E]", w0["text"]) and w0["bold"] and len(l["ws"]) > 1:
         w1 = sorted(l["ws"], key=lambda w: w["x0"])[1]
         if not w1["bold"] and w1["x0"] - w0["x1"] > 0.4 * w0["size"]: return w0["text"]
@@ -87,17 +101,33 @@ ALT_NEGRITO = False
 def eh_codigo_tok(x):
     """codigo interno de questao de simulado (ex.: "R387", "196SE02BIO2019II", "BAN_027SE01FIS2018I")"""
     return re.fullmatch(r"[A-Z0-9_]{4,}", x) is not None and re.search(r"\d", x) is not None and re.search(r"[A-Z]", x) is not None
+def junta_dig(t): return re.sub(r"(?<=\b\d) (?=\d\b)|(?<=\b\d\d) (?=\d\b)|(?<=\b\d) (?=\d\d\b)", "", t)
 def cand_cabecalho(l):
     """[(estilo, numero)] que esta linha pode ser, como inicio de questao"""
     ws = l["ws"]; t = txt_puro(l).strip(); out = []
     m = RE_Q_ENEM.match(t)
     if m and ws[0]["bold"] and (len(ws) < 2 or ws[1]["bold"]): out.append(("questao", int(m.group(1))))
+    t_j = junta_dig(t)      # digitos do numero separados pelo espacamento da fonte ("Questao 9 2", "0 1")
+    m = RE_Q_ENEM.match(t_j)
+    # "QUESTAO 4" sem negrito (simulado UNESP): estilo proprio, que so vence se formar sequencia MAIOR que a dos outros
+    # (ou "Questao 92 - Ciencias da Natureza...", ENEM digital)
+    if m and (len(ws) <= 3 or re.match(r"\s*[-–—]\s", t_j[m.end():])): out.append(("questao_nb", int(m.group(1))))
     m = RE_Q_NUM.match(t)
     if m and not l.get("pequena"): out.append(("ponto", int(m.group(1))))
     if len(ws) == 1 and re.fullmatch(r"0*\d{1,3}", t) and ws[0]["bold"] and 0.85 * CORPO <= l["size"] <= 2 * CORPO: out.append(("solto", int(t)))
     # numero entre chaves "{ 02 }" em negrito (FUVEST 2025-2026)
     m = re.match(r"\{\s*0*(\d{1,3})\s*\}(\s|$)", t)
     if m and any(w["bold"] for w in ws): out.append(("chave", int(m.group(1))))
+    # numero grande sozinho, em fonte fina (UERJ: "01" em corpo 34-50 na margem, com o rotulo "Questao" ao lado)
+    if re.fullmatch(r"0*\d{1,3}", t_j) and len(ws) <= 3 and not (len(ws) == 1 and ws[0]["bold"] and l["size"] <= 2 * CORPO) \
+            and l["size"] >= 1.15 * CORPO: out.append(("grande", int(t_j)))
+    # numero sem pontuacao seguido do texto na mesma linha ("08 Um funcionario...", FUVEST 2011-2022),
+    # destacado: em negrito (e o texto nao) ou maior que o texto
+    if len(ws) >= 2:
+        w0_, w1_ = sorted(ws, key=lambda w: w["x0"])[:2]
+        if re.fullmatch(r"0*\d{1,3}", w0_["text"]) and ((w0_["bold"] and not w1_["bold"]) or w0_["size"] >= 1.15 * w1_["size"]) \
+                and w1_["x0"] - w0_["x1"] < 3 * w1_["size"] and not re.fullmatch(r"[\d.,%]+", w1_["text"]):
+            out.append(("lead", int(w0_["text"])))
     return out
 def eh_cabecalho(l):
     """numero da questao se a linha e o cabecalho de uma questao (no formato desta prova), senao None"""
@@ -123,6 +153,11 @@ def eh_bolinha(fontname):   # letras das alternativas do ENEM (fonte de simbolos
 # ------------------------------------------------------------------ leitura das paginas
 pdf = pdfplumber.open(PDF)
 NPAG = len(pdf.pages)
+if OCR:
+    # no PDF do OCR a pagina inteira e uma foto (a digitalizacao): nao e figura; as figuras saem da tinta, como no resto
+    for _pg in pdf.pages:
+        _pg.objects["image"] = [im for im in _pg.objects.get("image", [])
+                                if (im["x1"] - im["x0"]) * (im["bottom"] - im["top"]) < 0.6 * float(_pg.width) * float(_pg.height)]
 
 exec(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "glifos_t3.py"), encoding="utf-8").read())
 INVISIVEIS = {}
@@ -209,6 +244,8 @@ def palavras(page):
     t3f = T3_FORMULA.get(page_orig.page_number, [])
     for w in ws:
         w["bold"], w["ital"] = estilo(w["fontname"])
+    if OCR: negrito_ocr(page_orig, ws)
+    for w in ws:
         if t3f:
             hit = [b for b in t3f if b[0] < w["x1"] + 0.2 and b[2] > w["x0"] - 0.2 and b[1] < w["bottom"] and b[3] > w["top"]]
             if hit: w["t3f"] = 2 if any(b[4] for b in hit) else 1
@@ -236,6 +273,28 @@ def palavras(page):
             continue
         juntas.append(w); ult[round(w["bottom"])] = w
     return juntas
+def negrito_ocr(page, ws):
+    """PDF do OCR: a fonte nao diz o que e negrito. Mede a espessura do traco de cada palavra na imagem da pagina
+    (tinta / metade do contorno); negrito = traco bem mais grosso que o tipico da pagina."""
+    base = os.path.join(TMP, f"_neg_{PID}_{os.getpid()}")
+    subprocess.run(["pdftoppm", "-r", "150", "-gray", "-f", str(page.page_number), "-l", str(page.page_number), "-singlefile", "-png", PDF, base],
+                   capture_output=True)
+    im = cv2.imread(base + ".png", cv2.IMREAD_GRAYSCALE)
+    if im is None: return
+    s = 150 / 72; esp = {}
+    for k, w in enumerate(ws):
+        reg = im[int(w["top"] * s):int(w["bottom"] * s) + 1, int(w["x0"] * s):int(w["x1"] * s) + 1]
+        if reg.size == 0: continue
+        bw = (reg < 128).astype(np.uint8)
+        tinta = int(bw.sum())
+        if tinta < 20: continue
+        cont = cv2.findContours(bw, cv2.RETR_LIST, cv2.CHAIN_APPROX_NONE)[0]
+        per = sum(len(c) for c in cont)
+        if per: esp[k] = 2 * tinta / per / max(w["bottom"] - w["top"], 1)
+    if len(esp) < 20: return
+    med = float(np.median(list(esp.values())))
+    for k, e in esp.items():
+        if e > 1.4 * med: ws[k]["bold"] = True
 # fonte Symbol (codificacao propria, 0x20-0xFF) -> Unicode; pedacos de parentese/chave grande ficam de fora (PENDENTE)
 SYMBOL_PUA = dict(zip(range(0x20, 0x7F), " !∀#∃%&∋()∗+,−./0123456789:;<=>?≅ΑΒΧΔΕΦΓΗΙϑΚΛΜΝΟΠΘΡΣΤΥςΩΞΨΖ[∴]⊥_‾αβχδεφγηιϕκλμνοπθρστυϖωξψζ{|}∼"))
 SYMBOL_PUA.update(dict(zip(range(0xA1, 0xE2), "ϒ′≤⁄∞ƒ♣♦♥♠↔←↑→↓°±″≥×∝∂•÷≠≡≈…⏐⎯↵ℵℑℜ℘⊗⊕∅∩∪⊃⊇⊄⊂⊆∈∉∠∇®©™∏√⋅¬∧∨⇔⇐⇑⇒⇓◊〈")))
@@ -1643,21 +1702,22 @@ def _cadeia(estilo):
     while k_ is not None:
         caminho.add(k_); k_ = ant_.get(k_)
     return comp[fim], ini[fim], caminho
-_cad = {e: _cadeia(e) for e in ("questao", "ponto", "solto", "chave")}
+ESTILOS = ("questao", "ponto", "solto", "chave", "questao_nb", "grande", "lead")   # empate: vence o que vem antes
+_cad = {e: _cadeia(e) for e in ESTILOS}
 if os.environ.get("DEBUGQ"):
     for pn_, _, _, l in _ord_l:
-        if re.match(r"^\W*(QUEST|0?\d{1,3}\b)", txt_puro(l)): print("CAB?", pn_, txt_puro(l)[:30], cand_cabecalho(l), [w["bold"] for w in l["ws"][:2]], round(l["size"], 1))
-ESTILO_Q = max(("questao", "ponto", "solto", "chave"), key=lambda e: (_cad[e][0], -("questao", "ponto", "solto", "chave").index(e)))
+        if re.match(r"(?i)^\W*(QUEST|0?\d{1,3}\b)", txt_puro(l)): print("CAB?", pn_, txt_puro(l)[:30], cand_cabecalho(l), [w["bold"] for w in l["ws"][:2]], round(l["size"], 1))
+ESTILO_Q = max(ESTILOS, key=lambda e: (_cad[e][0], -ESTILOS.index(e)))
 if _cad[ESTILO_Q][0] < 3: ESTILO_Q = None
 # numero solto em negrito so e cabecalho se faz parte da sequencia (numero "1", "2" sob fotos nao e questao)
-CAB_OK = _cad[ESTILO_Q][2] if ESTILO_Q == "solto" else None
+CAB_OK = _cad[ESTILO_Q][2] if ESTILO_Q in ("solto", "grande", "lead") else None
 PRIMEIRA_Q, PAG_Q1 = _cad[ESTILO_Q][1] if ESTILO_Q else (1, 1)
 _letras = collections.Counter(letra_alt(l) for *_, l in _ord_l)
 ULT_LETRA = "D" if _letras.get("D", 0) >= 5 and _letras.get("E", 0) < 0.3 * _letras.get("D", 0) else "E"
 N_ALT = "ABCDE".index(ULT_LETRA) + 1
 TEM_TEXTO_PARA = any(RE_TEXTO_PARA.match(txt_puro(l)) for *_, l in _ord_l)
 if PERFIL == "auto":
-    PERFIL = "enem" if ESTILO_Q == "questao" and not TEM_TEXTO_PARA else "ssa"
+    PERFIL = "enem" if ESTILO_Q in ("questao", "questao_nb") and not TEM_TEXTO_PARA else "ssa"
 print(f"formato: cabeçalho={ESTILO_Q} (sequência de {_cad[ESTILO_Q][0] if ESTILO_Q else 0}, começa na {PRIMEIRA_Q}, pág. {PAG_Q1}), "
       f"alternativas={N_ALT}{' com A.' if ALT_PONTO else ''}, fluxo={PERFIL}, 'texto para as questões'={TEM_TEXTO_PARA}")
 # codigo interno de questao (simulados): no cabecalho ("QUESTAO 95  R387") e na linha logo abaixo ("196SE02BIO2019II")
@@ -1674,6 +1734,15 @@ for pg in paginas:
     for l in pg["linhas"]:
         if all(eh_codigo_tok(w["text"]) for w in l["ws"]) and any(0 <= l["top"] - c["bottom"] < 2.5 * CORPO and l["col"] == c["col"] for c in cabs):
             continue
+        # rotulo "Questao" ao lado/acima/abaixo do numero grande (UERJ, USS): faz parte do cabecalho. Sai da linha
+        # (a linha pode ter juntado o rotulo com o comeco do texto da questao); a tinta continua apagada
+        if ESTILO_Q == "grande":
+            rot_ = [w for w in l["ws"] if re.fullmatch(r"(?i)quest[ãa]o", w["text"]) and any(
+                abs(w["top"] - c["top"]) < 1.5 * c["size"] and abs(w["x0"] - c["x0"]) < 4 * c["size"] for c in cabs)]
+            if rot_:
+                if len(rot_) == len(l["ws"]): continue
+                l["ws"] = [w for w in l["ws"] if w not in rot_]
+                l["x0"] = min(w["x0"] for w in l["ws"]); l["x1"] = max(w["x1"] for w in l["ws"])
         # etiqueta/codigo ao lado ou logo abaixo do cabecalho ("QUESTAO 91 .... YUKD", "CALIBRADA MAT" em letra miuda):
         # so maiusculas/digitos, a direita do cabecalho ou em letra pequena
         if eh_cabecalho(l) is None and all(re.fullmatch(r"[A-Z0-9ØÇ_]{2,12}", w["text"]) or eh_codigo_tok(w["text"]) for w in l["ws"]) and len(l["ws"]) <= 3 and any(
@@ -1929,12 +1998,14 @@ for i_it, it in enumerate(itens):
                 l["uso"] = "instrucao de idioma"; ult_linha, ult_it = l, it; continue       # linha de instrucao ("Questoes de 20 a 23 (Opcao Espanhol)")
         n_cab = eh_cabecalho(l)
         if PERFIL == "enem" and n_cab is not None:
-            n = n_cab; m = RE_Q_ENEM.match(t)
+            n = n_cab; m = RE_Q_ENEM.match(t) if ESTILO_Q != "questao_nb" else RE_Q_ENEM.match(junta_dig(t))
             if faixa_idioma and not (faixa_idioma[0] <= n <= faixa_idioma[1]): idioma = None
             atual = {"numero": n, "area": area, "idioma": (idioma if faixa_idioma and faixa_idioma[0] <= n <= faixa_idioma[1] else None), **novo_bloco()}
             questoes.append(atual); base_atual = None
             atual["caixas"][it["pg"]].append([l["x0"], l["top"], l["x1"], l["bottom"]])
-            resto = t[m.end():].strip() if m else ""
+            resto = (t if ESTILO_Q != "questao_nb" else junta_dig(t))[m.end():].strip() if m else ""
+            if ESTILO_Q == "questao_nb" and re.match(r"[-–—]\s", resto):
+                atual["area"] = resto[1:].strip(); resto = ""     # "Questao 92 - Ciencias da Natureza...": area, nao texto
             if resto: atual["partes"].append(("linha", l, it, True))
             else: l["uso"] = "cabecalho da questao"
             continue
@@ -1982,7 +2053,7 @@ for i_it, it in enumerate(itens):
                                      # instrucao curta que abre o texto da questao seguinte ("Leia estes poemas.", "Observe a charge:")
                                      or (RE_INICIO_ROTULO.match(t) and len(t) < 80 and re.search(r"[.:]\W*$", t) and not letra_alt(l)))
                     if continua: pass
-                    elif ESTILO_Q in ("questao", "solto") and not eh_rotulo:
+                    elif ESTILO_Q in ("questao", "solto", "questao_nb", "grande", "lead") and not eh_rotulo:
                         # prova com cabecalho de questao explicito (caixa "07", "QUESTAO 7"): o que vem depois das
                         # alternativas e antes do proximo cabecalho e da questao ("Note e adote", dados, figura),
                         # a nao ser que seja um texto rotulado para outras questoes ("TEXTO PARA AS QUESTOES...")
@@ -2896,7 +2967,7 @@ def le_gabarito_discursivo(disc):
                 pe = _gd_palavras(enun)
                 if len(pe) < 5 or not resp: continue
                 s, alvo = max(((len(pe & pw(r_)) / max(1, len(pw(r_))), q_["numero"]) for q_, r_ in disc), default=(0, None))
-                if s < 0.35 or (alvo in gd and sim_.get(alvo, 1) >= s): continue
+                if s < 0.35 or (alvo in gd and (1 if sim_.get(alvo) is None else sim_[alvo]) >= s): continue   # None = casado pelo numero (vale mais)
             sim_[alvo] = s
             # paginas do bloco com figura/desenho: vai a pagina em imagem (a resposta pode estar no desenho)
             imgs, desenho = [], False
@@ -2924,6 +2995,7 @@ for q, r in _montadas:
     aplica_transcricao(q, r)
     aplica_branco(r)
     al = r["alertas"]
+    if OCR: al.append("texto lido por OCR (o PDF não tem texto confiável): conferir palavra por palavra com a imagem da página")
     if not r.get("discursiva") and len(r["alternativas"]) != N_ALT: al.append(f"{len(r['alternativas'])} alternativas encontradas (esperado {N_ALT})")
     letras = "".join(a["letra"] for a in r["alternativas"])
     if letras and letras != "ABCDE"[:len(letras)]: al.append(f"letras fora de ordem: {letras}")

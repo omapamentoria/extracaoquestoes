@@ -1,3 +1,5 @@
+def _forma(a):   # tamanho do glifo para a assinatura (glifo com mais de 255 px de lado nao cabe em bytes())
+    return bytes(a.shape) if max(a.shape) < 256 else str(a.shape).encode()
 # Carregado pelo 06_extrair.py (exec no mesmo espaco de nomes: usa os, re, json, np, cv2, hashlib e B de la).
 # ------------------------------------------------------------------ glifos de fonte Type3 (letra desenhada como imagem)
 # Alguns PDFs (ex.: FUVEST) escrevem hifen, "x" de multiplicacao, "~", letras de formula etc. numa fonte Type3 cujos
@@ -119,7 +121,7 @@ def glifos_t3(page_orig, chars):
         x0i, x1i = c["x0"] + llx * s_, c["x0"] + urx * s_
         ref = _reconhece(a)
         if ref is None:
-            ass = hashlib.md5(a.tobytes() + bytes(a.shape)).hexdigest()[:10]
+            ass = hashlib.md5(a.tobytes() + _forma(a)).hexdigest()[:10]
             GLIFOS_DESCONHECIDOS.setdefault(ass, (page_orig.page_number, (x0i, y0, x1i, y1), a))
             continue
         info.append((c, ref, base, x0i, y0, x1i, y1, larg))
@@ -202,7 +204,7 @@ def glifos_cid(page_orig, chars):
                         if ref is None:
                             ys_, xs_ = np.nonzero(a)
                             a2 = a[ys_.min():ys_.max() + 1, xs_.min():xs_.max() + 1]
-                            GLIFOS_DESCONHECIDOS.setdefault("cid-" + hashlib.md5(a2.tobytes() + bytes(a2.shape)).hexdigest()[:8],
+                            GLIFOS_DESCONHECIDOS.setdefault("cid-" + hashlib.md5(a2.tobytes() + _forma(a2)).hexdigest()[:8],
                                                             (page_orig.page_number, (c["x0"], c["top"], c["x1"], c["bottom"]), a2))
             except Exception:
                 ref = None

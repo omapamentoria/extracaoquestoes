@@ -1,0 +1,9 @@
+# Provas da lista de OCR que NAO estao marcadas como "texto ruim" no catalogo, mas cuja camada de texto e inutil
+# (pagina digitalizada sem texto, OCR embutido ruim, fonte renumerada sem traducao, questao inteira como imagem).
+# O refaz_lista.py ocr trata estas junto com as de texto ruim (OCR do tesseract antes de extrair).
+P2487 P2489 P3498                      # ENEM 2009 (vazada) e SAS 2025 D2: paginas sem texto
+P2863 P3484 P3488 P3489 P3497 P3504    # SOMOS 2026 e SAS 2024-2025: digitalizados com OCR embutido ruim ("QUeSrÃO gg")
+P2460 P2463 P2421 P2423                # ENEM PPL 2010 e 2021: fonte renumerada, (cid:N) sem traducao
+P3444 P3446 P3447 P3448 P3451 P3466    # SAS 2023: questoes como imagem / simbolos sem traducao
+P3081 P2976                            # Poliedro 2024 d2, SOMOS 2025 d2: metade das questoes com simbolos sem traducao
+P1135 P1099                            # FUVEST 2026 e 2014 1a fase: todas as questoes com simbolos sem traducao
