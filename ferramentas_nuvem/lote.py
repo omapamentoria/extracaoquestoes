@@ -38,7 +38,7 @@ for p in pids:
         linhas.append(f"| {p} | {c['ano']} | {c['edicao']} | {c['dia']} | 0 | {esperado} | — | — | — | — | — | {erro or 'sem saída'} |")
         continue
     q = json.load(open(d[0] + "/questoes.json"))
-    sem_gab = sum(1 for x in q if not x.get("gabarito"))
+    sem_gab = sum(1 for x in q if not (x.get("gabarito_discursivo") if x.get("formato") == "discursiva" else x.get("gabarito")))
     pend = sum(1 for x in q if any("PENDENTE" in a for a in x.get("alertas", [])))
     com_al = sum(1 for x in q if x.get("alertas"))
     for x in q:

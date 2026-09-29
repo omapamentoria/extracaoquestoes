@@ -32,7 +32,10 @@ for i in range(0, len(pids), 10):
         n_pend = sum(1 for x in q if any("PENDENTE" in a for a in x.get("alertas", [])))
         esp = int(r["questoes_estimadas"]) if str(r.get("questoes_estimadas") or "").isdigit() else None
         pags = int(r["paginas"]) if str(r.get("paginas") or "").isdigit() else 0
-        falhou = (esp and n < 0.5 * esp) or (not esp and pags >= 8 and n < pags) or (n >= 10 and n_pend > 0.5 * n) or n == 0
+        if MODO_DISC:   # discursiva: poucas questoes por muitas paginas e normal
+            falhou = (esp and n < 0.5 * esp) or (n >= 3 and n_pend > 0.5 * n) or n == 0
+        else:
+            falhou = (esp and n < 0.5 * esp) or (not esp and pags >= 8 and n < pags) or (n >= 10 and n_pend > 0.5 * n) or n == 0
         if falhou: shutil.rmtree(d[0]); continue
         dest = DEST[r["grupo"]]
         if dest:
