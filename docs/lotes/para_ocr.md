@@ -147,17 +147,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1894 — DEMAIS 2020 regular  — nenhuma questão — UFU 2020 2º Fase (Francês).pdf
 * P1719 — DEMAIS 2020 regular  — nenhuma questão — PSV-2020_Prova_Reda‡ֶo.pdf
 * P1249 — DEMAIS 2020 regular 2 — nenhuma questão — redacao 2020.PDF
-* P1244 — DEMAIS 2020 regular 2 — nenhuma questão — fisica 2020.PDF
-* P1243 — DEMAIS 2020 regular 2 — nenhuma questão — filosofia 2020.PDF
-* P1241 — DEMAIS 2020 regular 2 — nenhuma questão — arte 2020.PDF
 * P1239 — DEMAIS 2020 regular 1 — nenhuma questão — prova tipo 1 - 2020.PDF
 * P0828 — DEMAIS 2020 regular  — nenhuma questão — FATEC 2020_2, 2021_1 E 2021_2.pdf
-* P0827 — DEMAIS 2020 regular  — só 18 questões (esperado ~54) — FATEC 2020_1.pdf
 * P0760 — DEMAIS 2020 regular  — nenhuma questão — Famerp 2020.pdf
 * P2286 — DEMAIS 2019 regular  — nenhuma questão — Unifesp - Redação CC 2019.pdf
-* P1334 — DEMAIS 2019 regular  — nenhuma questão — 2019.2 - USS - PROVA.pdf
-* P1332 — DEMAIS 2019 regular  — nenhuma questão — 2019.1 - USS - PROVA.pdf
-* P0825 — DEMAIS 2019 regular  — só 18 questões (esperado ~54) — FATEC 2019_2.pdf
 * P0823 — DEMAIS 2019 regular  — só 18 questões (esperado ~54) — FATEC 2019_1.pdf
 * P1838 — DEMAIS 2018 regular 2 — só 8 questões (esperado ~50) — UFU 2018 2º Dia 1º Fase.pdf
 * P1836 — DEMAIS 2018 regular 1 — só 8 questões (esperado ~60) — UFU 2018 1º Dia 1º Fase.pdf
