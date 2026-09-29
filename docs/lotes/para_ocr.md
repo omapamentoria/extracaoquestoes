@@ -202,7 +202,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2133 — UNICAMP 2013 regular 2 — nenhuma questão — Prova 2º dia.pdf
 * P2132 — UNICAMP 2013 regular 1 — nenhuma questão — Prova 1º dia.pdf
 * P1156 — FUVEST 2013 regular 3 — só 11 questões em 38 páginas — FUVEST 2013 - 2a fase - 3o dia.pdf
-* P1154 — FUVEST 2013 regular 1 — 10 de 10 questões PENDENTES (símbolos sem tradução) — FUVEST 2013 - 2a fase - 1o dia.pdf
 * P1096 — FUVEST 2013 regular  — nenhuma questão — FUVEST 2013 - 1a fase - PROVA.pdf
 * P2123 — UNICAMP 2012 regular  — nenhuma questão — Provas Português, Matemática, Literaturas.pdf
 * P2122 — UNICAMP 2012 regular  — nenhuma questão — Prova Ciências da Natureza.pdf
