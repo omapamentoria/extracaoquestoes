@@ -106,9 +106,10 @@ def linha_estrutural(l):
     return bool(letra_alt(l) or eh_cabecalho(l) is not None or RE_TEXTO_PARA.match(t)
                 or (len(t) < 40 and re.match(r"(?i)^\W*texto\s+(\d{1,2}|[IVX]{1,4})\b", t))     # "Texto 2": titulo do proximo texto
                 or (len(t) < 90 and (RE_AREA.match(t) or RE_IDIOMA.search(t))))
+FONTES_ALT = set()   # fontes usadas so para as letras A-E das alternativas nesta prova (medido depois de ler as paginas)
 def eh_bolinha(fontname):   # letras das alternativas do ENEM (fonte de simbolos)
     f = fontname.lower().split("+")[-1]
-    return "bundesbahn" in f or "dingbat" in f or "zapf" in f or re.search(r"pi(std)?[-_]?\d", f) is not None
+    return "bundesbahn" in f or "dingbat" in f or "zapf" in f or re.search(r"pi(std)?[-_]?\d", f) is not None or fontname in FONTES_ALT
 
 # ------------------------------------------------------------------ leitura das paginas
 pdf = pdfplumber.open(PDF)
@@ -564,6 +565,13 @@ paginas = []
 for i, page in enumerate(pdf.pages):
     ws = palavras(page)
     paginas.append({"n": i + 1, "page": page, "ws": ws})
+# fonte de marcador de alternativa que nao e a do ENEM ("Aviator" no simulado Farias Brito): fonte usada quase so para
+# letras A-E sozinhas, muitas vezes na prova, cada letra A..E aparecendo
+_fa = collections.defaultdict(collections.Counter)
+for pg in paginas:
+    for w in pg["ws"]: _fa[w["fontname"]][w["text"] if re.fullmatch(r"[A-E]", w["text"]) else "_outro"] += 1
+FONTES_ALT = {f for f, c in _fa.items() if all(c[L] >= 5 for L in "ABCD") and c["_outro"] <= 0.1 * sum(c.values())}
+if FONTES_ALT: print("fonte das letras das alternativas:", sorted(FONTES_ALT))
 _c = collections.Counter()
 for pg in paginas:
     for w in pg["ws"]: _c[round(w["size"], 1)] += len(w["text"])
