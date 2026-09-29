@@ -1,0 +1,7929 @@
+[
+ {
+  "id": "P4077-Q001",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 1,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O raquitismo é uma doença, que afeta o desenvolvimento dos ossos da criança, tornando-os frágeis e maleáveis, o que pode levar a deformidades ósseas. Está entre as doenças mais comuns nos países em desenvolvimento. É **CORRETO** afirmar que essa doença é causada principalmente pela deficiência da vitamina",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "B<sub>1</sub>, encontrada em carnes, legumes e cereais integrais."
+   },
+   {
+    "letra": "B",
+    "texto": "C, encontrada em diversas frutas, especialmente as cítricas."
+   },
+   {
+    "letra": "C",
+    "texto": "A, encontrada no leite e derivados e nas carnes vermelhas."
+   },
+   {
+    "letra": "D",
+    "texto": "E, encontrada em vegetais, e pela baixa produção da flora intestinal."
+   },
+   {
+    "letra": "E",
+    "texto": "D, encontrada em laticínios, gema de ovo e vegetais ricos em ovos, como também pela exposição insuficiente à luz solar."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.54,
+     81.50918000000001,
+     538.5911460000001,
+     92.48918000000003
+    ],
+    [
+     42.54,
+     94.10917999999992,
+     538.4912177886006,
+     105.08917999999994
+    ],
+    [
+     42.54,
+     106.76918,
+     538.4978160000002,
+     117.74918000000002
+    ],
+    [
+     42.54,
+     119.42917999999997,
+     177.538002,
+     130.40918
+    ],
+    [
+     70.92,
+     144.74918000000002,
+     361.9337460000001,
+     155.72918000000004
+    ],
+    [
+     70.92,
+     157.40918,
+     386.90683200000024,
+     168.38918
+    ],
+    [
+     70.92,
+     170.00918000000001,
+     381.9834000000002,
+     180.98918000000003
+    ],
+    [
+     70.92,
+     182.66917999999998,
+     426.82572000000044,
+     193.64918
+    ],
+    [
+     70.92,
+     195.32917999999995,
+     538.5417299999997,
+     206.30917999999997
+    ],
+    [
+     92.16,
+     207.98917999999992,
+     256.04308800000007,
+     218.96917999999994
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q002",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 2,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a figura abaixo que apresenta as estruturas e organelas de uma célula vegetal:\n\n{{img:1}}\n\n{{fonte:1}}\n\nConsiderando duas situações a que as células de uma planta podem estar submetidas, meio hipotônico (I) ou hipertônico (II), é **CORRETO** afirmar que",
+  "fontes": [
+   "Disponível em: http://www.infoescola.com/wp-content/uploads/2013/09/celula-vegetal.jpg"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I – o vacúolo fica imenso e força a parede celular; II – o vacúolo se retrai, e a parede celular se solta da membrana plasmática."
+   },
+   {
+    "letra": "B",
+    "texto": "I – a membrana plasmática se contrai, diminuindo os espaços entre as organelas; II – os cloroplastos se expandem, liberando água."
+   },
+   {
+    "letra": "C",
+    "texto": "I – a membrana plasmática fica espessa; II – o vacúolo perde líquido que é absorvido pelos cloroplastos."
+   },
+   {
+    "letra": "D",
+    "texto": "I – há perda de líquido pelas principais estruturas; II – a célula diminui de tamanho, absorvendo a água pela parede celular."
+   },
+   {
+    "letra": "E",
+    "texto": "I – há maior troca iônica entre as organelas e o meio; II – apenas o nucléolo não perde líquido para o citoplasma."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q002_img1.png",
+    "pagina": 3,
+    "bbox": [
+     146.8,
+     268.4,
+     433.6,
+     485.3
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.54,
+     245.90918,
+     494.26818000000026,
+     256.88918
+    ],
+    [
+     146.75999,
+     268.432,
+     433.61999000000003,
+     485.272
+    ],
+    [
+     117.12,
+     497.69617999999997,
+     432.375486,
+     505.67618
+    ],
+    [
+     42.54,
+     527.96918,
+     538.5647845572006,
+     538.94918
+    ],
+    [
+     42.54,
+     540.62918,
+     323.694978,
+     551.6091799999999
+    ],
+    [
+     63.8412,
+     565.94906,
+     335.63914200000016,
+     576.92918
+    ],
+    [
+     89.82,
+     578.54918,
+     462.81059180892026,
+     589.52918
+    ],
+    [
+     63.84132,
+     591.20912,
+     491.50463400000035,
+     602.18918
+    ],
+    [
+     89.82,
+     603.86918,
+     332.5285080000003,
+     614.8491799999999
+    ],
+    [
+     63.84132,
+     616.52912,
+     292.83471000000003,
+     627.50918
+    ],
+    [
+     89.82,
+     629.18918,
+     397.3950540000002,
+     640.16918
+    ],
+    [
+     63.84132,
+     641.78324,
+     336.193632,
+     652.76918
+    ],
+    [
+     89.82,
+     654.44918,
+     445.0087260000004,
+     665.42918
+    ],
+    [
+     63.84132,
+     667.10912,
+     352.63508400000023,
+     678.0891799999999
+    ],
+    [
+     89.82,
+     679.76918,
+     378.42271200000033,
+     690.74918
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q003",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 3,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Cynthia é mãe e bióloga; liberou alguns doces de festas de aniversário para apresentar às crianças, de uma forma bem simples, o conceito de molécula. Vejamos:\n\n- Usamos tubinhos gelatinosos para demonstrar a pentose e o\n\nfosfato. No meio, as jujubas retratam as bases nitrogenadas. O pareamento entre adenina-timina e citosina-guanina foi feito sempre com as mesmas cores. O palito de dente foi utilizado para as pontes de hidrogênio. Claro que as representações foram rudimentares, porque elas vão aprender na escola, quando for o momento.\n\n{{fonte:1}}\n\n{{img:1}}\n\nO que deve ser feito para adequar melhor o pareamento?",
+  "fontes": [
+   "Disponível em: http://www.falamae.com/2015/03/moleculas-com-doces.html"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Colocar dois pedaços de palito de dente para representar a ligação de pontes de hidrogênio entre guanina e citosina."
+   },
+   {
+    "letra": "B",
+    "texto": "Colocar três pedaços de palito de dente para representar a ligação de pontes de hidrogênio entre adenina e timina."
+   },
+   {
+    "letra": "C",
+    "texto": "Juntar duas jujubas laranjas para representar uma timina com dois anéis e uma vermelha para representar uma adenina com um anel."
+   },
+   {
+    "letra": "D",
+    "texto": "Juntar duas jujubas verdes para representar uma guanina com dois anéis e uma amarela para representar uma citosina com um anel."
+   },
+   {
+    "letra": "E",
+    "texto": "Usar, respectivamente, uma e duas jujubas de cores iguais para representar as bases púricas e pirimídicas e seus anéis."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q003_img1.png",
+    "pagina": 4,
+    "bbox": [
+     396.0,
+     51.2,
+     542.4,
+     262.1
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.66,
+     59.189179999999965,
+     382.66448400000024,
+     70.16917999999998
+    ],
+    [
+     63.9612,
+     71.84911999999997,
+     382.64472000000023,
+     82.82911999999999
+    ],
+    [
+     63.9612,
+     84.50905999999998,
+     271.8510299999999,
+     95.48906
+    ],
+    [
+     63.96,
+     97.16917999999998,
+     382.58203200000014,
+     108.14918
+    ],
+    [
+     63.96,
+     109.82917999999995,
+     382.68634200000037,
+     120.80917999999997
+    ],
+    [
+     63.96,
+     122.42917999999997,
+     382.49529000000035,
+     133.40918
+    ],
+    [
+     63.96,
+     135.08917999999994,
+     382.6215600000004,
+     146.06917999999996
+    ],
+    [
+     63.96,
+     147.74918000000002,
+     382.64571600000045,
+     158.72918000000004
+    ],
+    [
+     63.96,
+     160.40918,
+     382.6050900000003,
+     171.38918
+    ],
+    [
+     63.96,
+     173.06917999999996,
+     177.64252800000003,
+     184.04917999999998
+    ],
+    [
+     113.7,
+     192.1161800000001,
+     382.6403640000002,
+     200.09618
+    ],
+    [
+     396.0,
+     51.232009900000094,
+     542.3999939,
+     262.07200620000003
+    ],
+    [
+     70.92,
+     269.00288,
+     352.13207400000033,
+     279.98288
+    ],
+    [
+     70.92,
+     290.84918,
+     538.5658860000002,
+     301.82918
+    ],
+    [
+     92.15532,
+     303.50912,
+     266.4386640000002,
+     314.48912
+    ],
+    [
+     70.92,
+     316.10318,
+     538.6350599999993,
+     327.08318
+    ],
+    [
+     92.15532,
+     328.76312,
+     258.44192999999984,
+     339.74312000000003
+    ],
+    [
+     70.92,
+     341.42306,
+     538.4615760000004,
+     352.40306000000004
+    ],
+    [
+     92.15532,
+     354.083,
+     309.1223159999999,
+     365.06300000000005
+    ],
+    [
+     70.92,
+     366.74294000000003,
+     538.4879279999993,
+     377.72294000000005
+    ],
+    [
+     92.15532,
+     379.40288000000004,
+     307.25791200000015,
+     390.38288000000006
+    ],
+    [
+     70.92,
+     391.99694000000005,
+     538.5274560000001,
+     402.97694000000007
+    ],
+    [
+     92.15532,
+     404.65688000000006,
+     260.3711160000001,
+     415.6368800000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q003_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q004",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 4,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Há 4 bilhões de anos, a atmosfera da Terra não continha oxigênio, mas, outros gases, como metano, amônia e vapor d’água, dentre outros. A Terra primitiva não sustentava a vida. A abiogênese teria ocorrido uma vez na história do planeta, no início de tudo. A figura abaixo ilustra a sequência da Teoria da Sopa Primordial, testada por Stanley Miller e Harold Urey (1953), que bombardearam, com raios UV e descarga de eletricidade, uma “sopa” feita com água, amônia, metano e hidrogênio.\n\n{{img:1}}\n\nAssinale a alternativa **CORRETA** que represente os produtos (A, B, C) e os catalisadores (I e II), conforme o esquema acima.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A – Aminoácidos, B – Coacervados, C – Células primitivas, I – A chuva arrastou os compostos para o solo e os mares, onde eles se combinaram com outras substâncias, II – Moléculas de lipídios isolaram as moléculas orgânicas."
+   },
+   {
+    "letra": "B",
+    "texto": "A – Compostos inorgânicos, B – Células primitivas, C – Tecidos fotossintetizantes, I – Água rica em sais minerais catalisou a combinação de diversas moléculas com compostos inorgânicos, II – Moléculas de açúcares, na presença de oxigênio e gás carbônico, formaram células especializadas em fotossíntese."
+   },
+   {
+    "letra": "C",
+    "texto": "A – Moléculas de gás ozônio, B – Composto orgânico, C – Organismo unicelular, I – Substâncias combinaram-se com outras substâncias em poças de água, II – Moléculas de metano combinaram-se com moléculas de água, formando as primeiras células."
+   },
+   {
+    "letra": "D",
+    "texto": "A – Coacervados, B – Moléculas orgânicas, C – Microrganismos, I – Moléculas orgânicas combinaram-se com moléculas de aminoácidos nos mares primitivos, II – Atmosfera rica em oxigênio acelerou o metabolismo das células, aperfeiçoando as organelas."
+   },
+   {
+    "letra": "E",
+    "texto": "A – Organismo unicelular, B – Organismo pluricelular, C – Células orgânicas, I – Oxigênio formado pela combinação de água, metano e amônia estimulou a divisão das células, II – Formação dos mares acelerando a combinação de moléculas orgânicas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q004_img1.png",
+    "pagina": 4,
+    "bbox": [
+     48.0,
+     522.5,
+     532.8,
+     627.1
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   4,
+   5
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.54,
+     448.34918,
+     538.4989140000002,
+     459.32918
+    ],
+    [
+     42.54,
+     461.00917999999996,
+     538.5307560000003,
+     471.98918
+    ],
+    [
+     42.54,
+     473.66918,
+     538.5658919999992,
+     484.64918
+    ],
+    [
+     42.54,
+     486.32917999999995,
+     538.637262,
+     497.30917999999997
+    ],
+    [
+     42.54,
+     498.98908,
+     505.37554799999924,
+     509.96908
+    ],
+    [
+     48.0,
+     522.4720001000001,
+     532.8000000000001,
+     627.12
+    ],
+    [
+     70.92,
+     653.48918,
+     538.6021199999997,
+     664.46918
+    ],
+    [
+     70.92,
+     666.08908,
+     244.49842799999993,
+     677.06908
+    ]
+   ],
+   "5": [
+    [
+     42.54,
+     51.62918000000002,
+     538.5461280000005,
+     62.60918000000004
+    ],
+    [
+     63.84,
+     64.28917999999999,
+     538.595436,
+     75.26918
+    ],
+    [
+     63.84,
+     76.94917999999996,
+     263.87364000000014,
+     87.92917999999997
+    ],
+    [
+     42.54,
+     89.60917999999992,
+     538.5439320000004,
+     100.58917999999994
+    ],
+    [
+     63.84,
+     102.26918,
+     538.5965340000001,
+     113.24918000000002
+    ],
+    [
+     63.84,
+     114.92917999999997,
+     538.5229680000002,
+     125.90917999999999
+    ],
+    [
+     63.84,
+     127.52918,
+     219.81309600000006,
+     138.50918000000001
+    ],
+    [
+     42.54,
+     140.18917999999996,
+     538.5241680000005,
+     151.16917999999998
+    ],
+    [
+     63.84,
+     152.84917999999993,
+     538.6064159999995,
+     163.82917999999995
+    ],
+    [
+     63.84,
+     165.50918000000001,
+     414.8244840000005,
+     176.48918000000003
+    ],
+    [
+     42.54,
+     178.16917999999998,
+     538.5055019999996,
+     189.14918
+    ],
+    [
+     63.84,
+     190.76918,
+     538.5185759999996,
+     201.74918000000002
+    ],
+    [
+     63.84,
+     203.42917999999997,
+     427.5129720000005,
+     214.40918
+    ],
+    [
+     42.54,
+     216.08917999999994,
+     538.4538959999994,
+     227.06917999999996
+    ],
+    [
+     63.84,
+     228.74918000000002,
+     538.6239839999995,
+     239.72918000000004
+    ],
+    [
+     63.84,
+     241.40918,
+     436.92942000000045,
+     252.38918
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q004_p4.jpg",
+   "revisao/Q004_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q005",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 5,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As células, menores unidades estruturais e funcionais de um ser vivo, foram descobertas pelo cientista inglês Robert Hooke em 1665 e são consideradas a base do estudo da Biologia. Nesse sentido, teorias foram formuladas para explicar a origem e a evolução das células eucarióticas e procarióticas. Entre estas, destaca-se a teoria endossimbiótica, cuja hipótese sugere que as mitocôndrias e os cloroplastos são descendentes de organismos procariontes autotróficos, que foram fagocitados por outras células e passaram a viver em simbiose.\n\nCom base nessa teoria, sobre os cloroplastos e as mitocôndrias, analise os itens a seguir:\n\nI - São organelas que nas células das plantas e dos procariotos mantiveram o mesmo mecanismo de síntese proteica, provavelmente porque foram originadas a partir de organismos procariotos.\n\nII - Assemelham-se a bactérias em tamanho e função, além da semelhança genética e bioquímica, o que sugere que possam ter ancestrais eucarióticos.\n\nIII - Possuem material genético próprio sob a forma de DNA ou RNA, sendo capazes de fazer sua replicação, independentemente da replicação nuclear.\n\nIV - Possuem macromoléculas, que se associaram ao seu próprio sistema de membranas internas, originando os precursores das células primitivas.\n\nV - Apresentam ribossomos próprios, semelhantes aos ribossomos procarióticos e, portanto, diferentes daqueles encontrados em uma célula eucariótica.\n\nEstão **CORRETOS** apenas",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e IV."
+   },
+   {
+    "letra": "B",
+    "texto": "II, III e IV."
+   },
+   {
+    "letra": "C",
+    "texto": "II, III e V."
+   },
+   {
+    "letra": "D",
+    "texto": "III e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "I e V."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.54,
+     279.32917999999995,
+     538.583459999999,
+     290.30917999999997
+    ],
+    [
+     42.54,
+     291.98911999999996,
+     538.5098940000003,
+     302.96912
+    ],
+    [
+     42.54,
+     304.64905999999996,
+     538.6987500000002,
+     315.62906
+    ],
+    [
+     42.54,
+     317.30917999999997,
+     538.6032239999992,
+     328.28918
+    ],
+    [
+     42.54,
+     329.90918,
+     538.484639999999,
+     340.88918
+    ],
+    [
+     42.54,
+     342.56917999999996,
+     352.46257800000024,
+     353.54918
+    ],
+    [
+     63.8412,
+     367.88906,
+     503.36071800000025,
+     378.86906
+    ],
+    [
+     70.61586,
+     393.14306,
+     532.0108319999997,
+     404.12306
+    ],
+    [
+     90.47868,
+     405.803,
+     532.0514580000005,
+     416.783
+    ],
+    [
+     90.47868,
+     418.46294,
+     207.92185800000001,
+     429.44294
+    ],
+    [
+     67.56342,
+     443.78282,
+     497.1275940000003,
+     454.76918
+    ],
+    [
+     90.48,
+     456.44917999999996,
+     410.87310600000035,
+     467.42918
+    ],
+    [
+     64.50132,
+     481.70318,
+     529.3133279999996,
+     492.68918
+    ],
+    [
+     90.48,
+     494.36908,
+     375.4055100000004,
+     505.34908
+    ],
+    [
+     63.238620000000004,
+     519.68896,
+     531.9594480000001,
+     530.66918
+    ],
+    [
+     90.48,
+     532.28918,
+     373.4982840000004,
+     543.26918
+    ],
+    [
+     66.30204,
+     557.60906,
+     532.0165440000005,
+     568.5891799999999
+    ],
+    [
+     90.48,
+     570.26918,
+     383.9710080000005,
+     581.24918
+    ],
+    [
+     70.92462,
+     595.58906,
+     203.56192200000004,
+     606.56906
+    ],
+    [
+     76.32678,
+     620.84306,
+     138.55922399999997,
+     631.82306
+    ],
+    [
+     170.16186,
+     620.84306,
+     238.51675199999997,
+     631.82306
+    ],
+    [
+     276.4263,
+     620.84306,
+     341.719968,
+     631.82306
+    ],
+    [
+     378.78186000000005,
+     620.84306,
+     434.89075800000006,
+     631.82306
+    ],
+    [
+     478.32654,
+     620.84306,
+     525.2517660000001,
+     631.82306
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q005_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q006",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 6,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A etapa (I) ________ da fotossíntese ocorre no estroma dos cloroplastos, sem necessidade direta da luz. Nessa etapa, o CO<sub>2</sub> recebe o hidrogênio transportado pelas moléculas de NADPH<sub>2</sub>, o qual é proveniente da (II)________ da água. O produto do (III)_________ é, na realidade, um carboidrato de três carbonos, que origina (IV)________ e (V)________.\n\nAssinale a alternativa cujos termos preenchem **CORRETAMENTE** as lacunas.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I - química II - glicólise III - Ciclo de Krebs IV - amido V - sacarose"
+   },
+   {
+    "letra": "B",
+    "texto": "I - química II - fotólise III - Ciclo de Calvin IV - glicose V - frutose"
+   },
+   {
+    "letra": "C",
+    "texto": "I - fotoquímica II - fotólise III - Ciclo das pentoses IV - glicose V - amido"
+   },
+   {
+    "letra": "D",
+    "texto": "I - quimiossintética II - glicólise III - Ciclo do Carbono IV - maltose V - glicose"
+   },
+   {
+    "letra": "E",
+    "texto": "I - fotoquímica II - fotólise III - Ciclo Biogeoquímico IV - frutose V - amido"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   5,
+   6
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.54,
+     658.82918,
+     538.5230700000001,
+     669.80918
+    ],
+    [
+     42.54,
+     671.42324,
+     538.548786,
+     682.40918
+    ],
+    [
+     42.54155999999995,
+     684.08912,
+     538.5454919999997,
+     695.06912
+    ],
+    [
+     42.54155999999995,
+     696.74906,
+     391.59795600000035,
+     707.72906
+    ]
+   ],
+   "6": [
+    [
+     42.54,
+     50.48917999999992,
+     425.250096,
+     61.46917999999994
+    ],
+    [
+     63.8412,
+     75.80905999999993,
+     128.037966,
+     86.78905999999995
+    ],
+    [
+     182.65029,
+     75.80905999999993,
+     343.9311180000003,
+     86.78905999999995
+    ],
+    [
+     385.7616240000003,
+     75.80905999999993,
+     435.8864220000004,
+     86.78905999999995
+    ],
+    [
+     477.95848800000044,
+     75.80905999999993,
+     539.6979300000005,
+     86.78905999999995
+    ],
+    [
+     63.8412,
+     92.78413999999998,
+     128.048946,
+     103.76414
+    ],
+    [
+     182.66236800000001,
+     92.78413999999998,
+     345.7955220000003,
+     103.76414
+    ],
+    [
+     385.82640600000036,
+     92.78413999999998,
+     440.2520700000003,
+     103.76414
+    ],
+    [
+     477.94311600000003,
+     92.78413999999998,
+     528.7014599999995,
+     103.76414
+    ],
+    [
+     63.8412,
+     109.82510000000002,
+     145.72345200000004,
+     120.80510000000004
+    ],
+    [
+     182.636016,
+     109.82510000000002,
+     440.11262400000027,
+     120.80510000000004
+    ],
+    [
+     477.8003760000001,
+     109.82510000000002,
+     524.8672439999998,
+     120.80510000000004
+    ],
+    [
+     63.8412,
+     126.80017999999995,
+     357.4013820000003,
+     137.78017999999997
+    ],
+    [
+     385.79346600000036,
+     126.80017999999995,
+     444.49035000000015,
+     137.78017999999997
+    ],
+    [
+     477.98813399999995,
+     126.80017999999995,
+     529.3503779999995,
+     137.78017999999997
+    ],
+    [
+     63.8412,
+     143.77526,
+     146.321862,
+     154.75526000000002
+    ],
+    [
+     182.629428,
+     143.77526,
+     439.5460560000004,
+     154.75526000000002
+    ],
+    [
+     477.8937060000004,
+     143.77526,
+     524.9495940000002,
+     154.75526000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q006_p5.jpg",
+   "revisao/Q006_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q007",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 7,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nA meiose é um processo complexo. Erros na disjunção de cromossomos na meiose I e/ou II levam à formação de gametas com número anormal de cromossomos. A presença de espermatozoides cromossomicamente anormais tem sido relatada em abortos recorrentes.\n\nA figura ao lado apresenta dois espermatozoides normais (acima) e um anormal (abaixo). A marcação dos sinais coloridos, pela técnica de FISH, indica as cores e os cromossomos que as representam, respectivamente: vermelho- 13, azul claro-18, verde-21, azul marinho-X e amarelo-Y.\n\n{{fonte:1}}\n\nSobre isso, é **CORRETO** afirmar que",
+  "fontes": [
+   "Disponível em: http://embryoforlife.blogspot.com.br/2014/03/infertilidade-masculina-fatores.html Acesso em: julho 2015."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a alteração no número cromossômico observado é uma aneuploidia, considerada uma mutação cromossômica estrutural, visto alterar a estrutura do espermatozoide."
+   },
+   {
+    "letra": "B",
+    "texto": "na aneuploidia representada, há um autossomo a mais; assim, quando o espermatozoide fecundar o óvulo, o bebê apresentará 47 cromossomos."
+   },
+   {
+    "letra": "C",
+    "texto": "na alteração numérica representada, ocorre trissomia por causa da presença de um cromossomo sexual a mais."
+   },
+   {
+    "letra": "D",
+    "texto": "o espermatozoide com a alteração irá gerar um embrião com síndrome de Down ao fecundar o óvulo."
+   },
+   {
+    "letra": "E",
+    "texto": "o espermatozoide alterado irá gerar um embrião monossômico para o Y ao fecundar o óvulo, resultando em síndrome de Turner."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q007_img1.png",
+    "pagina": 6,
+    "bbox": [
+     365.6,
+     170.0,
+     560.4,
+     324.0
+    ]
+   }
+  ],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.54,
+     175.64918,
+     358.9687260000003,
+     186.79248999999993
+    ],
+    [
+     58.68,
+     188.30912,
+     358.92919800000027,
+     199.28912000000003
+    ],
+    [
+     58.68,
+     200.96906,
+     358.9797059999997,
+     211.94906000000003
+    ],
+    [
+     58.68,
+     213.62900000000002,
+     358.8918605100003,
+     224.60900000000004
+    ],
+    [
+     58.68,
+     226.22306000000003,
+     218.26880999999992,
+     237.20306000000005
+    ],
+    [
+     58.68,
+     238.88299999999992,
+     358.99397407080005,
+     249.86299999999994
+    ],
+    [
+     58.68,
+     253.46443999999997,
+     358.92809944001976,
+     264.44444
+    ],
+    [
+     58.68,
+     267.98,
+     358.9116300000002,
+     278.96
+    ],
+    [
+     58.68,
+     282.56143999999995,
+     359.0291160000002,
+     293.54143999999997
+    ],
+    [
+     58.68,
+     297.077,
+     358.90174800000034,
+     308.057
+    ],
+    [
+     365.58,
+     170.03199999999993,
+     560.40001,
+     324.01618
+    ],
+    [
+     58.68,
+     311.59256,
+     112.411728,
+     322.57256
+    ],
+    [
+     481.08,
+     325.01618,
+     533.9889959999999,
+     332.99618000000004
+    ],
+    [
+     331.67844,
+     335.57372,
+     533.9682479999999,
+     343.55372
+    ],
+    [
+     67.6836,
+     336.5501,
+     248.631808,
+     347.5301
+    ],
+    [
+     368.09916,
+     346.0754,
+     533.8804680000001,
+     354.0554
+    ],
+    [
+     70.9233,
+     370.09058,
+     538.5603931062005,
+     381.07058
+    ],
+    [
+     92.15862,
+     382.68464,
+     475.47261600000013,
+     393.66464
+    ],
+    [
+     70.9233,
+     395.34457999999995,
+     538.4231519999995,
+     406.32457999999997
+    ],
+    [
+     92.15862,
+     408.00451999999996,
+     364.83703247706006,
+     418.98452
+    ],
+    [
+     70.9233,
+     420.66445999999996,
+     538.5922349964004,
+     431.64446
+    ],
+    [
+     92.15862,
+     433.32439999999997,
+     228.45994799999994,
+     444.3044
+    ],
+    [
+     70.9233,
+     445.98434,
+     538.4835420000003,
+     456.96434
+    ],
+    [
+     92.15862,
+     458.5784,
+     176.49160626516,
+     469.5584
+    ],
+    [
+     70.9233,
+     471.23834,
+     538.4813459999999,
+     482.21834
+    ],
+    [
+     92.15862,
+     483.89828,
+     296.914758,
+     494.87828
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q007_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q008",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 8,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\n{{fonte:1}}\n\nA Gestação corresponde ao período compreendido entre a fecundação e o nascimento, ocorrendo com as fêmeas da classe de animais mamíferos. Esse período varia de uma espécie para outra e caracteriza-se por modificações físicas, hormonais e emocionais. Observe o gráfico ao lado e identifique que hormônios correspondem aos números 3, 1 e 2, respectivamente, conforme a enumeração e com base nos conhecimentos sobre os hormônios presentes durante a gravidez.",
+  "fontes": [
+   "Disponível em: http://biologiasocial-profpaulotrinjunior.blogspot.com.br/2013/07/gravi dez-nadolescencia.html Acesso em: julho 2015"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Prolactina, LH e gonadotrofina coriônica."
+   },
+   {
+    "letra": "B",
+    "texto": "Ocitocina, gonadotrofina coriônica e LH."
+   },
+   {
+    "letra": "C",
+    "texto": "FSH, estrógeno e progesterona."
+   },
+   {
+    "letra": "D",
+    "texto": "Gonadotrofina coriônica, progesterona e estrógeno."
+   },
+   {
+    "letra": "E",
+    "texto": "FSH, ocitocina e prolactina."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q008_img1.png",
+    "pagina": 6,
+    "bbox": [
+     364.3,
+     510.5,
+     537.1,
+     625.0
+    ]
+   }
+  ],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.54,
+     512.6690799999999,
+     356.13538800000026,
+     523.6490799999999
+    ],
+    [
+     42.54,
+     525.32918,
+     356.0684100000003,
+     536.30918
+    ],
+    [
+     42.54,
+     537.98918,
+     356.0596260000002,
+     548.96918
+    ],
+    [
+     42.54,
+     550.64912,
+     356.22432600000025,
+     561.6291200000001
+    ],
+    [
+     42.54,
+     563.2431799999999,
+     356.0892720000002,
+     574.22318
+    ],
+    [
+     42.54,
+     575.90312,
+     356.1727200000001,
+     586.88312
+    ],
+    [
+     42.54,
+     588.56306,
+     356.08158600000024,
+     599.54306
+    ],
+    [
+     42.54,
+     601.223,
+     356.0848744002001,
+     612.203
+    ],
+    [
+     364.32,
+     510.48,
+     537.12,
+     624.96
+    ],
+    [
+     42.54,
+     613.88294,
+     87.16491600000002,
+     624.86294
+    ],
+    [
+     404.22,
+     635.63618,
+     530.0614051272,
+     643.61618
+    ],
+    [
+     70.92,
+     636.86918,
+     290.89441333350015,
+     647.8491799999999
+    ],
+    [
+     356.15646,
+     644.81318,
+     529.986396,
+     652.79318
+    ],
+    [
+     70.92,
+     649.52912,
+     287.7189974433001,
+     660.5091199999999
+    ],
+    [
+     362.87562,
+     653.99018,
+     529.9871940000002,
+     661.97018
+    ],
+    [
+     70.92,
+     662.18906,
+     249.34939199999985,
+     673.16906
+    ],
+    [
+     70.92,
+     674.78312,
+     344.0903163453001,
+     685.76312
+    ],
+    [
+     70.92,
+     687.4430600000001,
+     226.65373199999993,
+     698.42306
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q008_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q009",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 9,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Sobre o desenvolvimento embrionário após a fecundação, observe as figuras abaixo:\n\n{{img:1}}\n\n{{fonte:1}}\n\nA figura **A** representa o tipo de ovo e sua segmentação, e a figura **B**, os animais que possuem essa fase em seu desenvolvimento embrionário.\n\nAssinale a alternativa que apresenta a **CORRETA** correspondência entre o tipo de ovo, a segmentação e o exemplo animal, conforme as figuras **A** e **B**.",
+  "fontes": [
+   "Disponível em: http://www.googleimagens.com (Acesso em: julho 2015)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Alécito – holoblástica subigual – gafanhoto"
+   },
+   {
+    "letra": "B",
+    "texto": "Centrolécito – meroblástica superficial – macaco"
+   },
+   {
+    "letra": "C",
+    "texto": "Heterolécito – holoblástica desigual – sapo"
+   },
+   {
+    "letra": "D",
+    "texto": "Isolécito – meroblástica discoidal – estrela do mar"
+   },
+   {
+    "letra": "E",
+    "texto": "Telolécito – holoblástica igual – galinha"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q009_img1.png",
+    "pagina": 7,
+    "bbox": [
+     81.1,
+     63.7,
+     476.0,
+     477.7
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.54,
+     45.929179999999974,
+     479.6252520000001,
+     56.90917999999999
+    ],
+    [
+     81.067722,
+     63.651992800000016,
+     476.0399933,
+     477.7120056
+    ],
+    [
+     203.46,
+     481.67618,
+     460.3346040000004,
+     489.65618
+    ],
+    [
+     42.54,
+     498.98908,
+     538.6021259999999,
+     509.96908
+    ],
+    [
+     42.54000000000002,
+     511.58314,
+     252.26458800000015,
+     522.56314
+    ],
+    [
+     63.84,
+     531.14918,
+     538.5921420000001,
+     542.12918
+    ],
+    [
+     42.53879999999998,
+     543.80912,
+     343.96176,
+     554.78912
+    ],
+    [
+     70.92,
+     563.36918,
+     300.67759800000016,
+     574.3491799999999
+    ],
+    [
+     70.92,
+     576.02912,
+     328.76773200000014,
+     587.0091199999999
+    ],
+    [
+     70.92,
+     588.68906,
+     301.1815800000001,
+     599.66906
+    ],
+    [
+     70.92,
+     601.28312,
+     335.4413760000002,
+     612.2631200000001
+    ],
+    [
+     70.92,
+     613.9430600000001,
+     283.4060579999999,
+     624.9230600000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q009_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q010",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 10,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O tecido nervoso é um dos mais especializados e complexos do corpo humano. Por meio dele, percebemos o mundo, aprendemos e armazenamos memórias. Sua origem é ectodérmica, sendo constituído por células altamente especializadas, responsáveis pela recepção e resposta adequada aos estímulos, atuando na condução do impulso nervoso.\n\nEm relação às células gliais, estabeleça relação entre o nome, o desenho e as funções de cada uma.\n\n{{img:1}}\n\n**1. Oligodendrócitos**\n\n{{fonte:1}}\n\n**2. Astrócitos**\n\n**3. Células de**\n\n**4. Células**\n\n**5. Células da**\n\nabsorvem excessos localizados *http://cienciahoje.uol.com.br/colunas/*\n\nde neurotransmissores e sintetizam *bioconexoes/bacteriareprogramadora*\n\nmoléculas neuroativas.\n\nAssinale a alternativa que apresenta a associação **CORRETA**.",
+  "fontes": [
+   "*http://www.jornallivre.com.br/169319/o-que-e-*"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1-D-IV 2-B-I 3-A-II 4-E-III 5-C-V"
+   },
+   {
+    "letra": "B",
+    "texto": "1-E-IV 2-B-III 3-C-V 4-D-I 5-A-II"
+   },
+   {
+    "letra": "C",
+    "texto": "1-A-III 2-C-V 3-E-IV 4-B-II 5-D-I"
+   },
+   {
+    "letra": "D",
+    "texto": "1-B-IV 2-E-II 3-D-V 4-A-I 5-C-III"
+   },
+   {
+    "letra": "E",
+    "texto": "1-C-II 2-A-IV 3-B-I 4-D-III 5-E-V"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q010_img1.png",
+    "pagina": 8,
+    "bbox": [
+     41.8,
+     74.2,
+     540.0,
+     544.5
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   7,
+   8
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.5367,
+     651.9228800000001,
+     538.6372559999995,
+     662.9028800000001
+    ],
+    [
+     42.5367,
+     664.5169400000001,
+     538.5472200000002,
+     675.49694
+    ],
+    [
+     42.536699999999996,
+     677.1768800000001,
+     538.51977,
+     688.15688
+    ],
+    [
+     42.536699999999996,
+     689.8368200000001,
+     323.68728600000026,
+     700.81682
+    ]
+   ],
+   "8": [
+    [
+     42.54,
+     50.48917999999992,
+     537.170333999999,
+     61.46917999999994
+    ],
+    [
+     41.76,
+     74.16,
+     540.0,
+     544.52894
+    ],
+    [
+     47.16,
+     130.08661999999993,
+     141.105516,
+     140.10662000000002
+    ],
+    [
+     167.52,
+     173.9961800000001,
+     329.2634280000001,
+     181.97618
+    ],
+    [
+     47.16,
+     222.42661999999996,
+     107.694828,
+     232.44662000000005
+    ],
+    [
+     47.16,
+     302.34662000000003,
+     108.34412399999997,
+     312.36662
+    ],
+    [
+     47.16,
+     402.78662,
+     93.895284,
+     412.80662
+    ],
+    [
+     47.16,
+     516.12662,
+     108.34412399999997,
+     526.14662
+    ],
+    [
+     359.39910000000003,
+     546.143,
+     514.133652,
+     557.123
+    ],
+    [
+     197.7,
+     550.13618,
+     329.32610999999997,
+     558.11618
+    ],
+    [
+     359.39910000000003,
+     558.80294,
+     533.0225459999999,
+     569.78294
+    ],
+    [
+     196.31946,
+     559.31318,
+     329.248704,
+     567.29318
+    ],
+    [
+     359.39910000000003,
+     571.46288,
+     471.877122,
+     582.4428800000001
+    ],
+    [
+     63.84,
+     604.70912,
+     369.529788,
+     615.68912
+    ],
+    [
+     76.31327999999999,
+     629.96312,
+     174.05174999999997,
+     640.94312
+    ],
+    [
+     206.94563399999998,
+     629.96312,
+     233.84114399999996,
+     640.94312
+    ],
+    [
+     263.671608,
+     629.96312,
+     349.1047920000002,
+     640.94312
+    ],
+    [
+     76.31327999999999,
+     642.62306,
+     235.685784,
+     653.60306
+    ],
+    [
+     263.65953,
+     642.62306,
+     288.0922260000001,
+     653.60306
+    ],
+    [
+     320.38111200000014,
+     642.62306,
+     347.27113200000014,
+     653.60306
+    ],
+    [
+     76.31327999999999,
+     655.283,
+     121.570644,
+     666.263
+    ],
+    [
+     150.260286,
+     655.283,
+     178.972986,
+     666.263
+    ],
+    [
+     206.948928,
+     655.283,
+     290.53857000000005,
+     666.263
+    ],
+    [
+     320.37013200000007,
+     655.283,
+     344.81161200000014,
+     666.263
+    ],
+    [
+     76.31327999999999,
+     667.94294,
+     177.154698,
+     678.92294
+    ],
+    [
+     206.98406400000002,
+     667.94294,
+     235.68797999999998,
+     678.92294
+    ],
+    [
+     263.66172600000004,
+     667.94294,
+     287.4905220000001,
+     678.92294
+    ],
+    [
+     320.3833080000001,
+     667.94294,
+     350.93845200000015,
+     678.92294
+    ],
+    [
+     76.31327999999999,
+     680.60288,
+     119.71831800000001,
+     691.58288
+    ],
+    [
+     150.273462,
+     680.60288,
+     230.78870399999997,
+     691.58288
+    ],
+    [
+     263.682588,
+     680.60288,
+     348.52285200000017,
+     691.58288
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [
+   "imagem 1 tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto",
+   "texto curto solto junto da imagem (“**1. Oligodendrócitos**”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q010_p7.jpg",
+   "revisao/Q010_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q011",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 11,
+  "area": "",
+  "texto_base_id": "P4077-T1",
+  "textos_base_ids": [
+   "P4077-T1"
+  ],
+  "enunciado": "Em um local de alta umidade, colocou-se um pedaço de uma substância simples, metálica na palma da mão. Conforme mostrado na figura abaixo, olha o que aconteceu após um tempinho...\n\n{{img:1}}\n\n{{fonte:1}}\n\nEsse fenômeno exemplifica",
+  "fontes": [
+   "Disponível em: http://pequenoscientistasamab.blogspot.com.br Acesso em: junho/2015"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o derretimento de uma liga de gálio à baixa temperatura."
+   },
+   {
+    "letra": "B",
+    "texto": "a influência da umidade no derretimento do potássio metálico."
+   },
+   {
+    "letra": "C",
+    "texto": "a fusão do mercúrio por causa do fornecimento de energia térmica pela mão."
+   },
+   {
+    "letra": "D",
+    "texto": "a formação de uma solução de mercúrio, tendo o suor como solvente."
+   },
+   {
+    "letra": "E",
+    "texto": "o baixo ponto de fusão do gálio, quando comparado a outros metais."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q011_img1.png",
+    "pagina": 9,
+    "bbox": [
+     158.4,
+     116.9,
+     445.0,
+     372.2
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.5436,
+     76.93837999999994,
+     529.8799199999994,
+     87.91837999999996
+    ],
+    [
+     42.5436,
+     91.51981999999998,
+     510.9460079999995,
+     102.49982
+    ],
+    [
+     158.39999,
+     116.87198999999998,
+     444.96000000000004,
+     372.24
+    ],
+    [
+     195.36156,
+     378.53312,
+     418.2102420000002,
+     386.51312
+    ],
+    [
+     334.56468,
+     387.77396,
+     418.12006799999995,
+     395.75396
+    ],
+    [
+     70.92456,
+     421.95061999999996,
+     205.48006799999993,
+     432.93062
+    ],
+    [
+     70.92456,
+     446.49091999999996,
+     368.54844000000026,
+     457.47092
+    ],
+    [
+     70.92456,
+     461.07236,
+     394.7917380000003,
+     472.05236
+    ],
+    [
+     70.92456,
+     475.58792,
+     468.05359200000004,
+     486.56792
+    ],
+    [
+     70.92456,
+     490.16936,
+     433.35020400000036,
+     501.14936
+    ],
+    [
+     70.92456,
+     504.68492,
+     427.17285600000037,
+     515.6649199999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q011_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q012",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 12,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Na série Prison Break (FOX), Michael Scofield utiliza um composto chamado Kesslivol para corroer o aço e destruir a cerca de proteção da prisão SONA, no Panamá. Na verdade, o Kesslivol não existe, mas o aço pode ser corroído pela ação de um ácido forte e oxidante.\n\nQual dos ácidos abaixo Scofield poderia usar para fugir da prisão?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "H<sub>3</sub>BO<sub>3</sub>"
+   },
+   {
+    "letra": "B",
+    "texto": "HCl"
+   },
+   {
+    "letra": "C",
+    "texto": "HCN"
+   },
+   {
+    "letra": "D",
+    "texto": "HNO<sub>3</sub>"
+   },
+   {
+    "letra": "E",
+    "texto": "CH<sub>3</sub>COOH"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.54126,
+     554.5451,
+     538.6516979999999,
+     565.5251
+    ],
+    [
+     42.54126,
+     567.20504,
+     538.5616620000006,
+     578.18504
+    ],
+    [
+     42.54126,
+     579.7991,
+     434.5031040000003,
+     590.7791
+    ],
+    [
+     70.92456,
+     605.11898,
+     395.5757100000002,
+     616.09898
+    ],
+    [
+     70.92456,
+     630.43886,
+     123.72312,
+     641.42918
+    ],
+    [
+     70.92228,
+     644.96474,
+     110.42941800000001,
+     655.94474
+    ],
+    [
+     70.92228,
+     659.54618,
+     115.91722200000001,
+     670.52618
+    ],
+    [
+     70.92228,
+     674.06174,
+     120.42312,
+     685.04174
+    ],
+    [
+     70.91628,
+     688.58474,
+     144.919056,
+     699.56918
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q012_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q013",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 13,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Uma mistura de alumínio e iodo foi colocada em um tubo de ensaio. Depois, foi transferido um pouco de água para a vidraria. Houve a produção de muito calor, de uma fumaça violeta e de uma intensa luminescência branca, conforme mostra a figura ao lado. Quando misturados, o iodo e o alumínio reagem. No caso da água, apesar de não participar dessa reação, aumenta a sua velocidade.\n\n{{img:1}}\n\n{{fonte:1}}\n\nNo fenômeno ilustrado,",
+  "fontes": [
+   "Disponível em: http://misteriosdomundo.org/18/ Acesso em: junho 2015"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "um dos reagentes é uma substância iônica."
+   },
+   {
+    "letra": "B",
+    "texto": "a cor da luz produzida é a mesma para a queima dos demais metais."
+   },
+   {
+    "letra": "C",
+    "texto": "a reação química entre o iodo e o alumínio produz o carbonato de alumínio."
+   },
+   {
+    "letra": "D",
+    "texto": "a fumaça violeta contém iodo, pois o calor liberado na reação faz com que parte do I<sub>2</sub> destile."
+   },
+   {
+    "letra": "E",
+    "texto": "a luminescência branca é produzida a partir da emissão de energia, na forma de luz, por elétrons excitados, que voltam para níveis de energia menos energéticos de átomos de alumínio."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q013_img1.png",
+    "pagina": 10,
+    "bbox": [
+     355.2,
+     49.7,
+     538.6,
+     306.7
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.5436,
+     51.618499999999926,
+     348.9646560000002,
+     62.598499999999945
+    ],
+    [
+     42.5436,
+     64.27843999999993,
+     348.9481860000002,
+     75.25843999999995
+    ],
+    [
+     42.5436,
+     76.93837999999994,
+     349.1052000000001,
+     87.91837999999996
+    ],
+    [
+     42.5436,
+     89.59831999999994,
+     348.9196380000002,
+     100.57831999999996
+    ],
+    [
+     42.5436,
+     102.25825999999995,
+     348.96575400000006,
+     113.23825999999997
+    ],
+    [
+     42.5436,
+     114.91819999999996,
+     348.9196380000002,
+     125.89819999999997
+    ],
+    [
+     42.5436,
+     127.51225999999997,
+     246.18197399999997,
+     138.49226
+    ],
+    [
+     70.9269,
+     152.83213999999998,
+     184.73240399999997,
+     163.81214
+    ],
+    [
+     355.2,
+     49.672000000000025,
+     538.5600000000001,
+     306.72
+    ],
+    [
+     70.9269,
+     178.15202,
+     304.3364460000002,
+     189.13202
+    ],
+    [
+     70.9269,
+     190.74608,
+     348.8416800000001,
+     201.72608000000002
+    ],
+    [
+     92.16222,
+     203.40602,
+     186.878994,
+     214.38602000000003
+    ],
+    [
+     70.9269,
+     216.06596000000002,
+     348.98441999999994,
+     227.04596000000004
+    ],
+    [
+     92.16222,
+     228.72590000000002,
+     204.04512599999998,
+     239.70590000000004
+    ],
+    [
+     70.9269,
+     241.38584000000003,
+     348.96904800000016,
+     252.36584000000005
+    ],
+    [
+     92.16222,
+     254.04577999999992,
+     295.41637201097996,
+     265.04918
+    ],
+    [
+     70.92588,
+     266.66324,
+     348.92850000000016,
+     277.64324
+    ],
+    [
+     92.1612,
+     279.32318,
+     348.91093200000006,
+     290.30318
+    ],
+    [
+     92.1612,
+     291.98312,
+     348.95265600000005,
+     302.96312
+    ],
+    [
+     92.17218,
+     304.64306,
+     266.4302699999999,
+     315.62306
+    ],
+    [
+     364.56012,
+     316.07702,
+     532.1161797606,
+     324.05702
+    ],
+    [
+     448.56558,
+     325.25401999999997,
+     532.115382,
+     333.23402
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [
+   "texto curto solto junto da imagem (“No fenômeno ilustrado,”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q013_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q014",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 14,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A fabricação de determinadas moedas exige o uso de níquel com elevada pureza. Para obtê-lo, pode-se utilizar o processo Mond. Desenvolvido por Ludwig Mond, em 1899, consiste inicialmente no aquecimento do óxido de níquel, produzindo níquel metálico, que deve ser purificado. Numa segunda etapa, o níquel impuro é colocado em uma atmosfera de monóxido de carbono, a uma temperatura de cerca de 50<sup>o</sup>C e pressão de 1 atm, formando um composto volátil e altamente inflamável, chamado tetracarbonilníquel, de acordo com a equação química:\n\n+ 4 C(cid:1841)<sub>(g)</sub> → Ni(C(cid:1841))<sub>4</sub> <sub>(g)</sub>  \nNi<sub>((cid:3046),</sub>  \ni(cid:3040)(cid:3043)(cid:3048)(cid:3045)(cid:3042))\n\nAs impurezas permanecem em estado sólido, e o níquel pode ser recuperado, posteriormente, pela\n\no  \ndecomposição desse gás, que ocorre a 240 C.\n\nUma fábrica produz 314 kg de moedas de níquel puro por semana, a partir de 400 kg de níquel impuro. Qual a massa aproximada de monóxido de carbono, usada semanalmente, por essa fábrica?\n\nDados: Massas molares: C = 12 g/mol; O = 16 g/mol; Ni = 58,7 g/mol",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "300 Kg"
+   },
+   {
+    "letra": "B",
+    "texto": "375 Kg"
+   },
+   {
+    "letra": "C",
+    "texto": "450 Kg"
+   },
+   {
+    "letra": "D",
+    "texto": "600 Kg"
+   },
+   {
+    "letra": "E",
+    "texto": "760 Kg"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.54,
+     360.62906,
+     538.5680880000008,
+     371.60906
+    ],
+    [
+     42.54,
+     373.22312,
+     538.594435059,
+     384.20312
+    ],
+    [
+     42.54,
+     385.88306,
+     538.6098119999994,
+     396.86306
+    ],
+    [
+     42.54,
+     398.54299999999995,
+     538.6065179999998,
+     409.52299999999997
+    ],
+    [
+     42.54,
+     411.20293999999996,
+     538.6607940000002,
+     422.18918
+    ],
+    [
+     42.53718,
+     423.86911999999995,
+     359.1850080000001,
+     434.84911999999997
+    ],
+    [
+     266.22,
+     455.36684,
+     380.535396,
+     466.82996
+    ],
+    [
+     202.14,
+     455.84996,
+     222.672612,
+     466.82996
+    ],
+    [
+     227.953776,
+     460.46396,
+     260.864892,
+     468.44396
+    ],
+    [
+     42.53718,
+     487.10294,
+     538.65311,
+     498.08294
+    ],
+    [
+     255.96,
+     497.91362000000004,
+     259.86312,
+     504.93362
+    ],
+    [
+     42.53718,
+     499.76288,
+     270.84,
+     510.74917999999997
+    ],
+    [
+     42.54384,
+     525.02318,
+     538.5477719999991,
+     536.0031799999999
+    ],
+    [
+     42.54384,
+     537.68312,
+     536.5680800000001,
+     548.6631199999999
+    ],
+    [
+     157.68,
+     568.02662,
+     463.72186200000004,
+     578.04662
+    ],
+    [
+     70.92714,
+     613.5768800000001,
+     127.01517599999998,
+     624.55688
+    ],
+    [
+     70.92714,
+     626.23682,
+     127.01517599999998,
+     637.21682
+    ],
+    [
+     70.92714,
+     638.89676,
+     127.00858799999999,
+     649.87676
+    ],
+    [
+     70.92714,
+     651.49082,
+     127.01517599999998,
+     662.47082
+    ],
+    [
+     70.92714,
+     664.15076,
+     127.01517599999998,
+     675.13076
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [
+   "símbolos lidos de glifos-imagem do PDF (fonte Type3: ×, ≈, sinais) — conferir com a página",
+   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “+ 4 C(cid:1841) (g) → Ni(C(cid:1841)) 4 (g)” — transcrever lendo a imagem",
+   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “Ni ((cid:3046),” — transcrever lendo a imagem",
+   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “i(cid:3040)(cid:3043)(cid:3048)(cid:3045)(cid:3042))” — transcrever lendo a imagem",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q014_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q015",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 15,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise a seguinte charge:\n\n{{img:1}}\n\n{{fonte:1}}\n\nAs estudantes Eugênia e Lolita estão falando, respectivamente, sobre os modelos atômicos de",
+  "fontes": [
+   "Disponível em: http://hquimica.webnode.com.br/ Acesso em: junho/2015"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Dalton e Thomson."
+   },
+   {
+    "letra": "B",
+    "texto": "Dalton e Rutherford-Bohr."
+   },
+   {
+    "letra": "C",
+    "texto": "Thomson e Rutherford-Bohr."
+   },
+   {
+    "letra": "D",
+    "texto": "Modelo Quântico e Thomson."
+   },
+   {
+    "letra": "E",
+    "texto": "Rutherford-Bohr e Modelo Quântico."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q015_img1.png",
+    "pagina": 11,
+    "bbox": [
+     42.0,
+     74.9,
+     538.0,
+     244.1
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.54359999999997,
+     51.618499999999926,
+     190.52215799999988,
+     62.598499999999945
+    ],
+    [
+     42.0,
+     74.87199400000009,
+     538.0200043,
+     244.08
+    ],
+    [
+     271.98,
+     246.35608000000002,
+     528.4396440000004,
+     254.33607999999992
+    ],
+    [
+     70.9233,
+     268.64901999999995,
+     533.6600280000002,
+     279.62901999999997
+    ],
+    [
+     70.9233,
+     293.96889999999996,
+     185.08345799999992,
+     304.9489
+    ],
+    [
+     70.9233,
+     306.62883999999997,
+     218.08714199999991,
+     317.60884
+    ],
+    [
+     70.9233,
+     319.2229,
+     232.14483599999988,
+     330.2029
+    ],
+    [
+     70.9233,
+     331.88284,
+     236.4489959999999,
+     342.86284
+    ],
+    [
+     70.9233,
+     344.54278,
+     269.43950399999994,
+     355.52278
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q016",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 16,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um pedreiro descascou uma coluna que apresentava desgaste e deixou parte das ferragens livres de concreto. Em seguida, aplicou uma solução aquosa de ácido fosfórico (a 90%) para remover a ferrugem (Fe<sub>2</sub>O<sub>3</sub>) existente. Após um borbulhamento no local, verificou-se a formação de uma camada preta recobrindo a superfície do metal.\n\nA substância presente na camada preta é",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "iônica."
+   },
+   {
+    "letra": "B",
+    "texto": "metálica."
+   },
+   {
+    "letra": "C",
+    "texto": "diatômica."
+   },
+   {
+    "letra": "D",
+    "texto": "covalente polar."
+   },
+   {
+    "letra": "E",
+    "texto": "covalente apolar."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.53999999999999,
+     382.45672,
+     538.5702840000001,
+     393.43672000000004
+    ],
+    [
+     42.53999999999999,
+     395.11666,
+     538.5549120000002,
+     406.09666000000004
+    ],
+    [
+     42.539999999999964,
+     407.77660000000003,
+     538.6254660000005,
+     418.76918
+    ],
+    [
+     42.541380000000004,
+     420.44912,
+     273.03683400000006,
+     431.42912
+    ],
+    [
+     70.92,
+     442.28918,
+     274.515552,
+     453.26918
+    ],
+    [
+     70.92,
+     464.12917999999996,
+     124.00720200000002,
+     475.10918
+    ],
+    [
+     70.92,
+     476.78911999999997,
+     136.18402200000003,
+     487.76912
+    ],
+    [
+     70.92,
+     489.44906,
+     142.283412,
+     500.42906
+    ],
+    [
+     70.92,
+     502.109,
+     169.83662400000003,
+     513.0889999999999
+    ],
+    [
+     70.92,
+     514.70306,
+     175.95248399999997,
+     525.6830600000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q016_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q017",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 17,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A análise de amostras de uma mercadoria apreendida por causa de sonegação fiscal indicou os principais constituintes químicos: cal (CaO), sílica (SiO<sub>2</sub>), alumina (Al<sub>2</sub>O<sub>3</sub>) e óxido de ferro (Fe<sub>2</sub>O<sub>3</sub>). Além disso, também foram detectadas certa quantidade de magnésia (MgO) e uma pequena porcentagem de anidrido sulfúrico (SO<sub>3</sub>).\n\nDe acordo com essas características, como é comercializada a mercadoria em questão?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Areia lavada"
+   },
+   {
+    "letra": "B",
+    "texto": "Cimento"
+   },
+   {
+    "letra": "C",
+    "texto": "Desengordurante"
+   },
+   {
+    "letra": "D",
+    "texto": "Fertilizante"
+   },
+   {
+    "letra": "E",
+    "texto": "Gesso"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.536699999999996,
+     552.6828800000001,
+     538.6229820000004,
+     563.6628800000001
+    ],
+    [
+     42.536699999999996,
+     565.3428200000001,
+     538.5520740000001,
+     576.32918
+    ],
+    [
+     42.53825999999998,
+     577.9432400000001,
+     538.6344240000003,
+     588.9232400000001
+    ],
+    [
+     42.53826000000001,
+     590.6031800000001,
+     241.432074,
+     601.5831800000001
+    ],
+    [
+     70.92036,
+     615.92906,
+     503.65094400000044,
+     626.90906
+    ],
+    [
+     70.92,
+     638.90918,
+     153.28537200000002,
+     649.88918
+    ],
+    [
+     70.92,
+     651.56912,
+     133.05691800000002,
+     662.54912
+    ],
+    [
+     70.92,
+     664.22906,
+     177.15259800000004,
+     675.20906
+    ],
+    [
+     70.92,
+     676.889,
+     146.02100399999998,
+     687.869
+    ],
+    [
+     70.92,
+     689.48306,
+     123.94791000000001,
+     700.46306
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q017_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q018",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 18,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As imagens abaixo foram capturadas de um vídeo que mostra a transformação de um bloco de estanho branco (metálico) sob a influência da redução da temperatura ambiente.\n\n{{img:1}}\n\nQuando a temperatura cai para menos de 13 <sup>o</sup>C, o estanho branco torna-se uma versão mais frágil, o estanho cinzento (p.f. = 13 <sup>o</sup>C). No estanho branco, a ligação é um misto de ligação metálica e covalente, e a estrutura cristalina é tetragonal de corpo centrado. Por sua vez, o estanho cinzento possui estrutura cristalina cúbica e é um semicondutor.\n\n{{fonte:1}}\n\nEsse fenômeno exemplifica",
+  "fontes": [
+   "Disponível em: http://www.cienciadosmateriais.org/Acesso em: junho 2015. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "recristalizações do Sn."
+   },
+   {
+    "letra": "B",
+    "texto": "duas formas alotrópicas do Sn."
+   },
+   {
+    "letra": "C",
+    "texto": "reações entre átomos de metais diferentes."
+   },
+   {
+    "letra": "D",
+    "texto": "propriedades de elementos químicos distintos."
+   },
+   {
+    "letra": "E",
+    "texto": "transformação de uma substância molecular iônica."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q018_img1.png",
+    "pagina": 12,
+    "bbox": [
+     54.0,
+     102.2,
+     529.9,
+     240.5
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.5436,
+     51.618499999999926,
+     538.5398460000002,
+     62.598499999999945
+    ],
+    [
+     42.5436,
+     64.27843999999993,
+     436.21283400000044,
+     75.25843999999995
+    ],
+    [
+     54.0,
+     102.24000000000001,
+     529.9200000000001,
+     240.48000000000002
+    ],
+    [
+     47.94,
+     263.24911999999995,
+     532.1400420000001,
+     274.22918
+    ],
+    [
+     47.93412,
+     275.90912,
+     532.1370720000004,
+     286.88918
+    ],
+    [
+     47.93664,
+     288.56912,
+     532.0635060000001,
+     299.54912
+    ],
+    [
+     47.93664,
+     301.22906,
+     402.60930600000046,
+     312.20906
+    ],
+    [
+     223.49754,
+     322.61701999999997,
+     532.068182,
+     330.59702
+    ],
+    [
+     70.92,
+     354.56323999999995,
+     205.4755079999999,
+     365.54323999999997
+    ],
+    [
+     70.92,
+     379.88311999999996,
+     202.82822999999996,
+     390.86312
+    ],
+    [
+     70.92,
+     392.54305999999997,
+     243.76605854130003,
+     403.52306
+    ],
+    [
+     70.92,
+     405.203,
+     303.70697523468,
+     416.183
+    ],
+    [
+     70.92,
+     417.86294,
+     319.0383540000002,
+     428.84294
+    ],
+    [
+     70.92,
+     430.457,
+     343.38210646608013,
+     441.437
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q018_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q019",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 19,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Militar, marinheiro e minerador inglês, Martin Frobisher afirmou ter encontrado ouro na Ilha de Baffin, região norte do Canadá, em 1576. Ao retornar à Inglaterra, carregando navios com 200 toneladas de um material, que acreditava ser minério de ouro, descobriu que havia levado 200 toneladas de pirita, dissulfeto de ferro. Também conhecida como “ouro dos trouxas” ou \"ouro dos tolos\", a pirita não é maleável e comumente aparece na forma de belos cristais. Frágil, ela exala um gás venenoso quando é aquecida.\n\nUm aspecto contributivo para Martin Frobisher lotar os porões dos navios e levar o “ouro dos tolos” para a Inglaterra reside no fato de que, assim como o ouro, a pirita também",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "é dura e quebradiça."
+   },
+   {
+    "letra": "B",
+    "texto": "exala SO<sub>2</sub> quando aquecida."
+   },
+   {
+    "letra": "C",
+    "texto": "apresenta brilho amarelo-dourado."
+   },
+   {
+    "letra": "D",
+    "texto": "ocorre naturalmente como belos cristais."
+   },
+   {
+    "letra": "E",
+    "texto": "existe na natureza, principalmente, como um mineral."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.5367,
+     493.69082,
+     538.5494006280001,
+     504.67082
+    ],
+    [
+     42.5367,
+     506.35076,
+     538.627374,
+     517.33076
+    ],
+    [
+     42.5367,
+     519.0107,
+     538.6822740000001,
+     529.9907000000001
+    ],
+    [
+     42.5367,
+     531.67064,
+     538.5538080000005,
+     542.65064
+    ],
+    [
+     42.5367,
+     544.33058,
+     538.5658900000001,
+     555.31058
+    ],
+    [
+     42.5367,
+     556.92464,
+     210.72614074992003,
+     567.90464
+    ],
+    [
+     42.5367,
+     582.24452,
+     524.8485719999991,
+     593.22452
+    ],
+    [
+     42.5367,
+     594.90446,
+     410.53798800000027,
+     605.88446
+    ],
+    [
+     70.92,
+     620.22434,
+     193.11861362831996,
+     631.20434
+    ],
+    [
+     70.92,
+     632.8184,
+     231.85793999999999,
+     643.82918
+    ],
+    [
+     70.92408,
+     645.5091199999999,
+     260.9099219999998,
+     656.48912
+    ],
+    [
+     70.92408,
+     658.16906,
+     290.27922599999994,
+     669.14906
+    ],
+    [
+     70.92408,
+     670.829,
+     353.2550159999996,
+     681.809
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q020",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 20,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A remoção de impurezas contidas na água turva da piscina de um condomínio deve ser realizada com adição de sulfato de alumínio, seguida pela adição de hidróxido de cálcio. Com isso, forma-se uma substância gelatinosa que se deposita no fundo do tanque, com todas as impurezas. A reação química é descrita pela equação:\n\nA(cid:1864)<sub>2</sub>(S(cid:1841)<sub>4</sub>)<sub>3</sub> + 3 Ca((cid:1841)H)<sub>2</sub> → 3 CaS(cid:1841)<sub>4</sub> + 2 A(cid:1864)((cid:1841)H)<sub>3</sub>\n\nPara limpar essa piscina, o condomínio utiliza 500 g de sulfato de alumínio e 500 g de hidróxido de cálcio.\n\nQual o reagente limitante da reação e quanto de hidróxido de alumínio é formado?\n\nDados de massas molares: H = 1g/mol; 0 = 16 g/mol; Al = 27 g/mol; S = 32 g/mol; Ca = 40 g/mol",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Hidróxido de cálcio; 228 g de Al(OH)<sub>3</sub>"
+   },
+   {
+    "letra": "B",
+    "texto": "Hidróxido de cálcio; 351,3 g de Al(OH)<sub>3</sub>"
+   },
+   {
+    "letra": "C",
+    "texto": "Sulfato de cálcio; 500 g de Al(OH)<sub>3</sub>"
+   },
+   {
+    "letra": "D",
+    "texto": "Sulfato de alumínio; 228 g de Al(OH)<sub>3</sub>"
+   },
+   {
+    "letra": "E",
+    "texto": "Sulfato de alumínio; 351,3 g de Al(OH)<sub>3</sub>"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.54359999999997,
+     51.618499999999926,
+     538.6254899999994,
+     62.598499999999945
+    ],
+    [
+     42.54359999999997,
+     64.27843999999993,
+     538.4926319999994,
+     75.25843999999995
+    ],
+    [
+     42.54359999999997,
+     76.93837999999994,
+     538.521179999999,
+     87.91837999999996
+    ],
+    [
+     42.54359999999997,
+     89.59831999999994,
+     240.6458580000002,
+     100.57831999999996
+    ],
+    [
+     181.14,
+     121.22683999999992,
+     409.08042,
+     132.68995999999993
+    ],
+    [
+     42.54359999999997,
+     152.83213999999998,
+     538.5365520000003,
+     163.81214
+    ],
+    [
+     42.54359999999997,
+     165.49208,
+     73.78609199999998,
+     176.47208
+    ],
+    [
+     42.54359999999997,
+     190.74608,
+     444.79260600000003,
+     201.72608000000002
+    ],
+    [
+     87.9,
+     224.88662,
+     515.5536,
+     234.9066200000001
+    ],
+    [
+     70.92689999999997,
+     266.63984000000005,
+     274.50312,
+     277.61984000000007
+    ],
+    [
+     70.91981999999999,
+     279.32912,
+     283.68312,
+     290.30912
+    ],
+    [
+     70.92563999999999,
+     291.98911999999996,
+     262.32312,
+     302.96912
+    ],
+    [
+     70.92173999999997,
+     304.64912,
+     275.82312,
+     315.62912
+    ],
+    [
+     70.92221999999998,
+     317.30912,
+     284.94312,
+     328.28912
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [
+   "símbolos lidos de glifos-imagem do PDF (fonte Type3: ×, ≈, sinais) — conferir com a página",
+   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “A(cid:1864) 2 (S(cid:1841) 4 ) 3 + 3 Ca((cid:1841)H) 2 → 3 CaS(cid:184” — transcrever lendo a imagem",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q020_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q021",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 21,
+  "area": "",
+  "texto_base_id": "P4077-T2",
+  "textos_base_ids": [
+   "P4077-T2"
+  ],
+  "enunciado": "A Europa é uma criação feita diante do outro. Suas fronteiras são culturais e se opõem em três ao que não é Europa: a Ásia, os Árabes, que assediam a Europa, primeira frente antieuropeia; o ‘leste’ sempre indefinido; e finalmente o Oceano”.\n\n{{fonte:1}}\n\nO trecho acima representa certa historiografia europeia, que se caracteriza pelo",
+  "fontes": [
+   "FEBVRE, Lucien. A Europa – gênese de uma civilização. Bauru: Edusc, 2004, p. 118-121. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Multiculturalismo - valoriza as contribuições das diversas populações na criação da civilização europeia."
+   },
+   {
+    "letra": "B",
+    "texto": "Orientalismo - entende o Oriente como uma criação pacífica e igualitária do Ocidente."
+   },
+   {
+    "letra": "C",
+    "texto": "Eurocentrismo - entende a Europa como centro da civilização, ameaçada pela barbárie e obrigada a expandir os limites da Humanidade."
+   },
+   {
+    "letra": "D",
+    "texto": "Humanismo - percebe uma mesma essência em todas as manifestações do gênio humano, disfarçada por elementos culturais diversos."
+   },
+   {
+    "letra": "E",
+    "texto": "Materialismo Histórico - privilegia os elementos econômicos sobre os culturais e políticos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.54359999999997,
+     95.29694000000006,
+     57.829955999999974,
+     106.27694000000008
+    ],
+    [
+     67.62,
+     100.28917999999999,
+     529.9877999999997,
+     111.26918
+    ],
+    [
+     67.62,
+     112.88324,
+     530.0020740000004,
+     123.86324000000002
+    ],
+    [
+     67.62,
+     125.54318,
+     384.93760800000047,
+     136.52318000000002
+    ],
+    [
+     168.0,
+     150.41618000000005,
+     530.0398319999999,
+     158.39617999999996
+    ],
+    [
+     70.92,
+     180.38918,
+     460.33668000000023,
+     191.36918000000003
+    ],
+    [
+     70.92,
+     205.70906000000002,
+     538.564788,
+     216.68906000000004
+    ],
+    [
+     92.15532,
+     218.30312000000004,
+     191.192724,
+     229.28312000000005
+    ],
+    [
+     70.92,
+     230.96306000000004,
+     510.47575200000006,
+     241.94306000000006
+    ],
+    [
+     70.92,
+     243.62300000000005,
+     538.669098,
+     254.60300000000007
+    ],
+    [
+     92.15532,
+     256.28294000000005,
+     322.04138400000005,
+     267.26294000000007
+    ],
+    [
+     70.92,
+     268.94288000000006,
+     538.521966,
+     279.9228800000001
+    ],
+    [
+     92.15532,
+     281.60282000000007,
+     306.802242,
+     292.5828200000001
+    ],
+    [
+     70.92,
+     294.1968800000001,
+     528.7245120000001,
+     305.1768800000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q022",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 22,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Por dupla graça de Maomé e Carlos Magno, pela criação efêmera, mas plena de significado histórico e humano, de um império cristão no interior das terras entre o Loire e o Reno, ao mesmo tempo romano e cristão.\n\n{{fonte:1}}\n\nEsse trecho é um resumo da tese clássica do historiador Henri Pirenne sobre a formação da Europa. Após sua leitura, infere-se que o autor",
+  "fontes": [
+   "PIRENNE, Henri. Maomé e Carlos Magno. Lisboa: Asa, 1992, p. 123. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "opõe duas figuras históricas, Maomé e Carlos Magno, identificando duas civilizações opostas em seus valores e suas crenças, e, nessa oposição, estaria a gênese da Europa."
+   },
+   {
+    "letra": "B",
+    "texto": "propõe uma civilização europeia, fundada nos princípios de unidade entre as duas mais importantes religiões monoteístas que se fundiram na gênese da Europa."
+   },
+   {
+    "letra": "C",
+    "texto": "compõe as duas vertentes civilizacionais, o Cristianismo e o Islam, e o findado Império Romano, destruído pelos bárbaros, como gênese da Europa."
+   },
+   {
+    "letra": "D",
+    "texto": "impõe como limites intransponíveis a fronteira entre os rios Loire e Reno, mantendo, assim, o espaço que Roma havia ocupado e, portanto, salientando a importância da Antiguidade para a gênese da Europa."
+   },
+   {
+    "letra": "E",
+    "texto": "expõe dois projetos conflitantes de imperialismo, o Carolíngio e o Islamita, e afirma que, no calor dessa disputa, se deu a gênese da Europa."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.54768000000004,
+     319.5167600000001,
+     57.83403600000005,
+     330.4967600000001
+    ],
+    [
+     71.04,
+     327.80917999999997,
+     529.9622760000001,
+     338.78918
+    ],
+    [
+     71.04,
+     340.46912,
+     529.8777299999994,
+     351.44912
+    ],
+    [
+     71.04,
+     353.12906,
+     228.84016799999995,
+     364.10906
+    ],
+    [
+     241.86,
+     365.27618,
+     529.8996959999995,
+     373.25618000000003
+    ],
+    [
+     70.93098000000003,
+     395.41052000000013,
+     538.5560040000001,
+     406.39052000000015
+    ],
+    [
+     70.93098000000003,
+     408.07046000000014,
+     299.017422,
+     419.05046000000016
+    ],
+    [
+     70.93098000000003,
+     433.32446000000016,
+     538.6438440000004,
+     444.3044600000002
+    ],
+    [
+     92.17728000000008,
+     445.98440000000016,
+     529.9476839999999,
+     456.9644000000002
+    ],
+    [
+     70.94196000000008,
+     458.64434000000017,
+     538.4626739999995,
+     469.6243400000002
+    ],
+    [
+     92.17728000000008,
+     471.3042800000002,
+     449.7859980000006,
+     482.2842800000002
+    ],
+    [
+     70.94196000000008,
+     483.9642200000002,
+     538.6043159999996,
+     494.9442200000002
+    ],
+    [
+     92.17728000000008,
+     496.5582800000002,
+     390.57305400000035,
+     507.5382800000002
+    ],
+    [
+     70.94196000000008,
+     509.2182200000002,
+     538.5757679999997,
+     520.1982200000002
+    ],
+    [
+     92.17728000000008,
+     521.8781600000002,
+     538.5318479999999,
+     532.8581600000002
+    ],
+    [
+     92.17728000000008,
+     534.5381000000002,
+     219.38277600000004,
+     545.5181000000002
+    ],
+    [
+     70.94196000000008,
+     547.1980400000002,
+     538.5142799999996,
+     558.1780400000002
+    ],
+    [
+     92.17728000000008,
+     559.7921000000002,
+     331.18333200000023,
+     570.7721000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q022_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q023",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 23,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A destruição, que alguns grupos radicais islâmicos vêm fazendo nas últimas décadas, parece fazer parte de uma estratégia de anulação da memória coletiva, como se, ao fazerem isso, estivessem a consolidar essa ideia peregrina de que são os escolhidos que foram para uma missão verdadeiramente civilizadora, pretendendo apagar o passado, primeiro instrumento que nos faculta aceder à capacidade crítica. E esse é o medo dessa gente: que aqueles que são dominados olhem para as estátuas agora quebradas dessas salas de memória e questionem a legitimidade de quem os pretende dominar.\n\n{{fonte:1}}\n\nDessa forma, é **CORRETO** afirmar que a destruição de ruínas antigas",
+  "fontes": [
+   "PINTO, Paulo Mendes Pinto. *O Direito à Memória, ou quando do alto destas pirâmides, 40 séculos de História nos* *contemplam!* Lisboa: O Público, 2015. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "é uma obrigação religiosa islâmica, e os grupos radicais apenas cumprem com seus deveres de fé."
+   },
+   {
+    "letra": "B",
+    "texto": "não representa nenhuma ameaça à nossa compreensão de História. São apenas pedras."
+   },
+   {
+    "letra": "C",
+    "texto": "é uma obrigação civilizatória na qual os grupos radicais se empenham."
+   },
+   {
+    "letra": "D",
+    "texto": "mostra como a Antiguidade permanece presente na construção de nossa memória coletiva."
+   },
+   {
+    "letra": "E",
+    "texto": "é um objeto de preocupação apenas para os cidadãos dos países onde os atentados estão ocorrendo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   14,
+   15
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.55866000000008,
+     585.1119800000002,
+     57.84501600000008,
+     596.0919800000003
+    ],
+    [
+     71.04,
+     596.06918,
+     529.9974119999996,
+     607.04918
+    ],
+    [
+     71.04,
+     608.72918,
+     529.9029839999996,
+     619.7091800000001
+    ],
+    [
+     71.04,
+     621.32918,
+     529.7646359999997,
+     632.30918
+    ],
+    [
+     71.04,
+     633.98918,
+     529.8590640000004,
+     644.96918
+    ],
+    [
+     71.04,
+     646.64918,
+     529.951296,
+     657.62918
+    ],
+    [
+     71.04,
+     659.30918,
+     529.9480020000002,
+     670.28918
+    ],
+    [
+     71.04,
+     671.96918,
+     351.6734280000001,
+     682.94918
+    ],
+    [
+     124.02,
+     696.77618,
+     529.8812039999997,
+     704.75618
+    ],
+    [
+     352.98,
+     706.01618,
+     529.88064,
+     713.99618
+    ]
+   ],
+   "15": [
+    [
+     70.92,
+     39.02918,
+     412.642854,
+     50.009180000000015
+    ],
+    [
+     70.91999999999999,
+     64.28318000000002,
+     538.4176560000002,
+     75.26318000000003
+    ],
+    [
+     92.15531999999999,
+     76.94312000000002,
+     161.86404599999997,
+     87.92312000000004
+    ],
+    [
+     70.91999999999999,
+     89.60306000000003,
+     528.6421620000002,
+     100.58306000000005
+    ],
+    [
+     70.91999999999999,
+     102.26300000000003,
+     438.05716200000023,
+     113.24300000000005
+    ],
+    [
+     70.91999999999999,
+     114.92294000000004,
+     538.4747520000001,
+     125.90294000000006
+    ],
+    [
+     92.15531999999999,
+     127.51700000000005,
+     132.52658399999999,
+     138.49700000000007
+    ],
+    [
+     70.91999999999999,
+     140.17694000000006,
+     538.627373999999,
+     151.15694000000008
+    ],
+    [
+     92.15531999999999,
+     152.83688000000006,
+     144.75830399999998,
+     163.81688000000008
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p14.jpg",
+   "revisao/Q023_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q024",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 24,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nFonte: Museu do Bardo, Tunísia. (Wikipedia)\n\nEssa é a imagem de um mosaico elaborado na província romana da África, atuais Tunísia e Argélia, no séc. IV d.C. Ela mostra um senhor de terras vândalo, povo germânico, que conquistara a região.\n\nSobre essa imagem, é **CORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a presença do cavalo é uma clara inserção germânica, pois os romanos não haviam domesticado o animal."
+   },
+   {
+    "letra": "B",
+    "texto": "a casa fortificada à esquerda é uma criação germânica, resultado da necessidade de se proteger em território recém-conquistado."
+   },
+   {
+    "letra": "C",
+    "texto": "a capa e as calças que o personagem usa são tipicamente germânicas, adaptadas à vida sobre cavalos e diferentes das togas romanas."
+   },
+   {
+    "letra": "D",
+    "texto": "a arte do mosaico existia somente na África do Norte, sendo desenvolvida pelos cartagineses séculos antes de Cristo."
+   },
+   {
+    "letra": "E",
+    "texto": "a tecnologia para a montaria, como a sela e os arreios, foi invenção germânica. Os romanos as desconheciam."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q024_img1.png",
+    "pagina": 15,
+    "bbox": [
+     87.6,
+     183.6,
+     519.6,
+     466.1
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.53669999999999,
+     178.15676000000008,
+     57.82305599999999,
+     189.1367600000001
+    ],
+    [
+     87.6000061,
+     183.6,
+     519.6000061,
+     466.1314
+    ],
+    [
+     314.82,
+     467.1314,
+     493.377,
+     476.1314
+    ],
+    [
+     85.08,
+     489.74917999999997,
+     538.5913319999996,
+     500.72918
+    ],
+    [
+     85.08,
+     502.40912,
+     538.6176839999998,
+     513.38912
+    ],
+    [
+     85.08,
+     515.06906,
+     187.82205599999998,
+     526.04906
+    ],
+    [
+     70.92678,
+     540.38894,
+     297.653898,
+     551.3689400000001
+    ],
+    [
+     70.92678,
+     565.6429400000001,
+     538.6209779999997,
+     576.62294
+    ],
+    [
+     92.17308,
+     578.3028800000001,
+     202.179504,
+     589.28288
+    ],
+    [
+     70.93776,
+     590.9628200000001,
+     538.524354,
+     601.94282
+    ],
+    [
+     92.17308,
+     603.6227600000001,
+     294.531186,
+     614.60276
+    ],
+    [
+     70.93776,
+     616.2827000000001,
+     538.5320399999995,
+     627.2627
+    ],
+    [
+     92.17308,
+     628.8767600000001,
+     320.159604,
+     639.8567600000001
+    ],
+    [
+     70.93776,
+     641.5367000000001,
+     538.4804339999995,
+     652.5167000000001
+    ],
+    [
+     92.17308,
+     654.1966400000001,
+     274.95274800000004,
+     665.1766400000001
+    ],
+    [
+     70.93776,
+     666.8565800000001,
+     538.5957239999996,
+     677.8365800000001
+    ],
+    [
+     92.17308,
+     679.5165200000001,
+     226.60890600000002,
+     690.4965200000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q024_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q025",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 25,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O homem que destrói cidades é demente\n\nEsse é um fragmento da tragédia *As* *Troianas*, escrita por Eurípides. Apresentada como o profanador de templos e túmulos,\n\npela primeira vez em 415 a.C., encontrou a asilos sacrossantos dos parentes mortos.\n\nQuem age dessa forma, cedo há de perder-se. cidade de Atenas e muitas outras póleis\n\ngregas envolvidas na Guerra do Peloponeso (431-404 AEC).\n\nSobre esse conflito, é **CORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "envolveu a maior parte dos Estados do Mediterrâneo Oriental, como a Pérsia e o Egito."
+   },
+   {
+    "letra": "B",
+    "texto": "opôs as duas principais cidades-estado, Atenas e Esparta, e seus aliados, organizados em ligas rivais."
+   },
+   {
+    "letra": "C",
+    "texto": "foi rápido graças à evolução militar das falanges."
+   },
+   {
+    "letra": "D",
+    "texto": "apesar de ter durado décadas, seu impacto na vida cotidiana dos gregos foi limitado."
+   },
+   {
+    "letra": "E",
+    "texto": "as cidades marítimas apoiaram Esparta, uma potência militar mais avançada que Atenas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     40.86365999999997,
+     39.50756000000001,
+     270.91771799999987,
+     50.48756000000003
+    ],
+    [
+     311.82809999999995,
+     39.496579999999994,
+     532.1330159999999,
+     50.48756000000003
+    ],
+    [
+     311.82809999999995,
+     52.15652,
+     532.1242319999998,
+     63.147500000000036
+    ],
+    [
+     69.24695999999997,
+     52.16750000000002,
+     272.271552,
+     63.147500000000036
+    ],
+    [
+     311.82809999999995,
+     64.81646,
+     532.04298,
+     75.80744000000004
+    ],
+    [
+     69.24695999999997,
+     64.82744000000002,
+     271.5600480000002,
+     75.80744000000004
+    ],
+    [
+     69.24695999999997,
+     77.41052000000002,
+     532.051764,
+     88.40150000000006
+    ],
+    [
+     311.82809999999995,
+     90.07046000000003,
+     529.5340499999999,
+     101.05046000000004
+    ],
+    [
+     311.82,
+     102.74918000000002,
+     388.186998,
+     113.72918000000004
+    ],
+    [
+     63.84,
+     138.98917999999992,
+     286.317858,
+     149.96917999999994
+    ],
+    [
+     70.9221,
+     164.30905999999993,
+     518.3362380000002,
+     175.28905999999995
+    ],
+    [
+     70.9221,
+     176.96899999999994,
+     538.5021060000001,
+     187.94899999999996
+    ],
+    [
+     92.15742,
+     189.62893999999994,
+     146.620416,
+     200.60893999999996
+    ],
+    [
+     70.9221,
+     202.22299999999996,
+     330.5925120000003,
+     213.20299999999997
+    ],
+    [
+     70.9221,
+     214.88293999999996,
+     506.1385560000004,
+     225.86293999999998
+    ],
+    [
+     70.9221,
+     227.54287999999997,
+     529.2437700000003,
+     238.52288
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q026",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 26,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um texto bastante famoso produzido na Idade Média foi o *Exemplo dos carneiros, dos bois e* *dos cães*, que explicava: “*A razão de ser dos carneiros é fornecer leite e lã, dos bois é lavrar* *a terra, a dos cães defender os carneiros e os bois. Se cada um cumprir sua missão, Deus* *protegê-la-á. Do mesmo modo, fez com os homens: instituiu os Clérigos e os Monges para* *que rezassem, plenos de doçura, como ovelhas; os camponeses, como os bois, para* *assegurar a subsistência, e os guerreiros para que defendessem dos inimigos, semelhantes* *a lobos, os que oram e os que cultivam a terra*.”\n\n{{fonte:1}}\n\nPartindo da análise dessa fonte, compreendemos que a Sociedade Feudal se dividia em três ordens principais, registradas na alternativa",
+  "fontes": [
+   "(Apud LE GOFF, Jacques. A civilização do ocidente medieval. Lisboa: Estampa, 1984, vol. 2, p. 10, adaptado)."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Os religiosos (os carneiros), os trabalhadores (os bois) e os guerreiros (os cães)."
+   },
+   {
+    "letra": "B",
+    "texto": "Os mercadores (os bois), os clérigos (os cães) e os guerreiros (os carneiros)."
+   },
+   {
+    "letra": "C",
+    "texto": "Os reis (os cães), os plebeus (os bois) e os nobres (os carneiros)."
+   },
+   {
+    "letra": "D",
+    "texto": "Os reis (os cães), os plebeus (os bois) e a corte (os carneiros)."
+   },
+   {
+    "letra": "E",
+    "texto": "Os homens (os cães), as mulheres (os carneiros) e os religiosos (os bois)."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.54,
+     276.98918,
+     57.826356,
+     287.96918
+    ],
+    [
+     72.48,
+     284.12917999999996,
+     530.00562,
+     295.10918
+    ],
+    [
+     72.48000000000002,
+     296.78911999999997,
+     530.0012280000003,
+     307.76912
+    ],
+    [
+     72.49098000000001,
+     309.51493999999997,
+     530.1845940000003,
+     320.49494
+    ],
+    [
+     72.49098000000001,
+     322.17488,
+     530.0418540000002,
+     333.15488
+    ],
+    [
+     72.49098000000001,
+     334.83482,
+     530.0275799999994,
+     345.81482
+    ],
+    [
+     72.49098000000001,
+     347.49476,
+     530.0374619999994,
+     358.47476
+    ],
+    [
+     72.49098000000001,
+     360.03391999999997,
+     305.40642600000007,
+     371.01392
+    ],
+    [
+     136.92,
+     376.85618,
+     529.9621320000001,
+     384.83618
+    ],
+    [
+     70.92,
+     411.50917999999996,
+     538.5856500000002,
+     422.48918
+    ],
+    [
+     70.92,
+     424.16911999999996,
+     283.69043999999997,
+     435.14912
+    ],
+    [
+     70.92,
+     462.14894,
+     487.107018,
+     473.12894
+    ],
+    [
+     70.92,
+     474.743,
+     469.297458,
+     485.723
+    ],
+    [
+     70.92,
+     487.40294,
+     413.6837580000003,
+     498.38294
+    ],
+    [
+     70.92,
+     500.06288,
+     399.01667400000025,
+     511.04288
+    ],
+    [
+     70.92,
+     512.72282,
+     454.7731140000002,
+     523.70282
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q026_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q027",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 27,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Os pastos, prados, bosques da herdade feudal eram usados, em comum, mas a terra arável se dividia em duas partes. Uma terça parte pertencia ao senhor; outra ficava em poder dos arrendatários que, então, trabalhavam a terra, e a última ficava em pousio. Uma característica curiosa do sistema feudal é que as terras não eram contínuas, mas dispersas em faixas: a terra arrendada por A se espalha por três campos e está dividida em faixas, nenhuma das quais vizinhas da outra.\n\n{{fonte:1}}\n\nSobre o texto, infere-se que",
+  "fontes": [
+   "HUBERMAN, Leo. História da Riqueza do Homem, 1986, p. 4. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a produção dos campos era igualmente dividida entre o senhor e seus arrendatários."
+   },
+   {
+    "letra": "B",
+    "texto": "os arrendatários podiam usar livremente as terras de uso comum, mas não as produtivas."
+   },
+   {
+    "letra": "C",
+    "texto": "as terras arrendadas a cada família eram colocadas proximamente para melhorar a colheita."
+   },
+   {
+    "letra": "D",
+    "texto": "dois terços das terras permaneciam em repouso, e somente um terço era efetivamente laborado."
+   },
+   {
+    "letra": "E",
+    "texto": "os pastos, prados e bosques eram de uso exclusivo do senhor feudal."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.5436,
+     39.02444000000003,
+     57.829956,
+     50.004440000000045
+    ],
+    [
+     73.02,
+     46.769180000000006,
+     531.0111716047201,
+     57.749180000000024
+    ],
+    [
+     73.02,
+     59.42912000000001,
+     530.9606640000003,
+     70.40912000000003
+    ],
+    [
+     73.02,
+     72.02318000000002,
+     530.9562720000002,
+     83.00318000000004
+    ],
+    [
+     73.02,
+     84.68312000000003,
+     530.9167440000003,
+     95.66312000000005
+    ],
+    [
+     73.02,
+     97.34305999999992,
+     530.92443,
+     108.32305999999994
+    ],
+    [
+     73.02,
+     110.00299999999993,
+     258.2800462119,
+     120.98299999999995
+    ],
+    [
+     267.78024,
+     122.15966000000003,
+     530.9175474733197,
+     130.13965999999994
+    ],
+    [
+     70.92,
+     167.78318000000002,
+     206.64378000000002,
+     178.76318000000003
+    ],
+    [
+     70.32,
+     188.48917999999992,
+     506.03714400000024,
+     199.46917999999994
+    ],
+    [
+     70.32,
+     201.14911999999993,
+     529.9581719999999,
+     212.12911999999994
+    ],
+    [
+     70.32,
+     213.80905999999993,
+     538.5126900000001,
+     224.78905999999995
+    ],
+    [
+     92.15922,
+     226.46899999999994,
+     133.1805,
+     237.44899999999996
+    ],
+    [
+     70.9239,
+     239.06305999999995,
+     538.561002,
+     250.04305999999997
+    ],
+    [
+     92.15922,
+     251.72299999999996,
+     138.0402471216,
+     262.703
+    ],
+    [
+     70.32,
+     264.38293999999996,
+     433.42201199999994,
+     275.36294
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q027_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q028",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 28,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A imagem ao lado reproduz uma caricatura inglesa do século XIII e mostra Isaac Jurnett, comerciante judeu, da cidade de Norwich, sendo questionado pelo diabo em pessoa, sob o olhar vigilante e misterioso da Santíssima Trindade ao alto.\n\n{{img:1}}\n\n{{fonte:1}}\n\n{{img:2}}\n\nhttp://www.agelioforos.gr/default.asp?pid=7&ct=36&artid=8983 6\n\nNesse contexto, é **CORRETO** inferir que, na Idade Média,",
+  "fontes": [
+   "Disponível em:"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "havia grande preconceito contra judeus e comerciantes."
+   },
+   {
+    "letra": "B",
+    "texto": "os comerciantes eram bem vistos como produtores de riquezas."
+   },
+   {
+    "letra": "C",
+    "texto": "a Santíssima Trindade abençoava os judeus e os protegia do diabo."
+   },
+   {
+    "letra": "D",
+    "texto": "os judeus eram aceitos como elementos ativos e participantes da comunidade feudal."
+   },
+   {
+    "letra": "E",
+    "texto": "o comércio era uma atividade arriscada, por isso a vida dos comerciantes era um inferno."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q028_img1.png",
+    "pagina": 17,
+    "bbox": [
+     237.6,
+     300.2,
+     526.3,
+     541.4
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q028_img2.png",
+    "pagina": 17,
+    "bbox": [
+     287.2,
+     553.4,
+     528.8,
+     571.7
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.5406,
+     302.29688,
+     221.43444599999998,
+     313.27688
+    ],
+    [
+     42.5406,
+     314.95682,
+     221.42236800000015,
+     325.93682
+    ],
+    [
+     42.54,
+     327.62917999999996,
+     221.45360999999988,
+     338.60918
+    ],
+    [
+     42.54,
+     340.28918,
+     221.48545200000012,
+     351.26918
+    ],
+    [
+     42.54,
+     352.94917999999996,
+     221.35039799999987,
+     363.92918
+    ],
+    [
+     42.54,
+     365.60918,
+     221.41407903540002,
+     376.58918
+    ],
+    [
+     42.54,
+     378.20918,
+     221.44482599999986,
+     389.18918
+    ],
+    [
+     42.54,
+     390.86918,
+     125.08324626516001,
+     401.84918
+    ],
+    [
+     237.6,
+     300.24,
+     526.32,
+     541.44
+    ],
+    [
+     468.12,
+     544.43618,
+     521.028996,
+     552.41618
+    ],
+    [
+     287.16,
+     553.41618,
+     528.8399900000001,
+     571.672
+    ],
+    [
+     298.8642,
+     554.9937199999999,
+     520.9100939999998,
+     562.97372
+    ],
+    [
+     516.6,
+     565.49618,
+     521.03688,
+     573.47618
+    ],
+    [
+     44.22,
+     579.14918,
+     327.30416400000007,
+     590.12918
+    ],
+    [
+     70.92336,
+     604.40318,
+     365.52883192806013,
+     615.38318
+    ],
+    [
+     70.92336,
+     617.06312,
+     404.5737180000004,
+     628.04312
+    ],
+    [
+     70.92336,
+     629.72306,
+     424.18399076418024,
+     640.70306
+    ],
+    [
+     70.92336,
+     642.383,
+     509.76320690856033,
+     653.363
+    ],
+    [
+     70.92336,
+     655.04294,
+     528.2019299999994,
+     666.02294
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [
+   "texto curto solto junto da imagem (“http://www.agelioforos.gr/default.asp?pi”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q028_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q029",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 29,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Os holandeses ocuparam, durante 24 anos, o Nordeste brasileiro: Pernambuco, Paraíba, Rio Grande do Norte e Itamaracá (1630-1654). Nesse período, Pernambuco se transformou numa verdadeira metrópole, com uma vida cultural intensa, onde poetas, cientistas e filósofos tornaram o Brasil um centro intelectual único na América do Sul. Nesse contexto, os judeus puderam constituir uma comunidade com escolas, sinagogas e cemitério, dando sua contribuição ao enriquecimento da vida cultural da região.\n\n{{fonte:1}}\n\nUma característica sociopolítica da ocupação holandesa no contexto mencionado foi",
+  "fontes": [
+   "LEVY, Daniela Tonello. Judeus e Marranos no Brasil Holandês. Pioneiros na colonização de Nova York. Século XVII. São Paulo: USP, 2008. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a retração da produção de açúcar."
+   },
+   {
+    "letra": "B",
+    "texto": "o florescimento de um movimento antimodernizador."
+   },
+   {
+    "letra": "C",
+    "texto": "o estabelecimento da tolerância e da liberdade religiosa."
+   },
+   {
+    "letra": "D",
+    "texto": "a preocupação apenas em explorar comercialmente o território."
+   },
+   {
+    "letra": "E",
+    "texto": "a manutenção de boas relações comerciais com o mundo ibérico."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.5436,
+     39.02444000000003,
+     57.829956,
+     50.004440000000045
+    ],
+    [
+     68.58,
+     45.929179999999974,
+     530.0210880000002,
+     56.90917999999999
+    ],
+    [
+     68.58,
+     58.58911999999998,
+     530.0002260000001,
+     69.56912
+    ],
+    [
+     68.58,
+     71.24905999999999,
+     529.9036020000007,
+     82.22906
+    ],
+    [
+     68.58,
+     83.90899999999999,
+     530.0353620000001,
+     94.88900000000001
+    ],
+    [
+     68.58,
+     96.56894,
+     529.7839199999995,
+     107.54894000000002
+    ],
+    [
+     68.58,
+     109.22888,
+     350.42122800000027,
+     120.20888000000002
+    ],
+    [
+     114.66,
+     129.47618,
+     529.9870758504,
+     137.4561799999999
+    ],
+    [
+     405.96192,
+     138.65318000000002,
+     530.0118180000001,
+     146.63317999999992
+    ],
+    [
+     63.8448,
+     178.15202,
+     476.5654320000003,
+     189.13202
+    ],
+    [
+     70.92,
+     197.66917999999998,
+     260.29425222288006,
+     208.64918
+    ],
+    [
+     70.92,
+     210.32912,
+     348.32860200000033,
+     221.30912
+    ],
+    [
+     70.92,
+     222.98906,
+     367.3393740000003,
+     233.96906
+    ],
+    [
+     70.92,
+     235.649,
+     401.4696060000004,
+     246.62900000000002
+    ],
+    [
+     70.92,
+     248.30894,
+     412.5253611924001,
+     259.28894
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q029_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q030",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 30,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nEssa é a capa do livro *Sobre judeus e suas* *mentiras*, escrito, em 1543, pelo líder da Reforma Protestante, Martinho Lutero. Perto de completar 500 anos, essa reforma tem sido revista pela historiografia contemporânea.\n\nA relação de Lutero com os judeus foi caracterizada pela",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "miscigenação com essa comunidade."
+   },
+   {
+    "letra": "B",
+    "texto": "tolerância, respeito mútuo e boa convivência."
+   },
+   {
+    "letra": "C",
+    "texto": "ampliação das relações sociais e comerciais."
+   },
+   {
+    "letra": "D",
+    "texto": "assimilação cultural de toda essa comunidade."
+   },
+   {
+    "letra": "E",
+    "texto": "intolerância e perseguição com base num forte antijudaísmo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q030_img1.png",
+    "pagina": 18,
+    "bbox": [
+     343.2,
+     306.8,
+     538.0,
+     551.3
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     46.68,
+     308.60918,
+     331.14983600000005,
+     319.58918
+    ],
+    [
+     46.68,
+     321.26912,
+     331.113606,
+     332.24912
+    ],
+    [
+     46.68,
+     333.92906,
+     331.1992500000001,
+     344.90906
+    ],
+    [
+     46.68,
+     346.52311999999995,
+     331.1728980000002,
+     357.50311999999997
+    ],
+    [
+     46.68,
+     359.18305999999995,
+     126.14994599999999,
+     370.16306
+    ],
+    [
+     59.2191,
+     393.33061999999995,
+     331.12122651000004,
+     404.31062
+    ],
+    [
+     59.2191,
+     405.92467999999997,
+     80.0108276706,
+     416.90468
+    ],
+    [
+     73.38,
+     426.62917999999996,
+     277.94618399999996,
+     437.60918
+    ],
+    [
+     343.2,
+     306.832,
+     538.02001,
+     551.2719999999999
+    ],
+    [
+     73.38,
+     439.28911999999997,
+     315.330888,
+     450.26912
+    ],
+    [
+     73.38,
+     451.94906,
+     314.71491000000015,
+     462.92906
+    ],
+    [
+     73.38,
+     464.609,
+     322.7017620000002,
+     475.589
+    ],
+    [
+     73.38,
+     477.26894,
+     331.08718800000014,
+     488.24894
+    ],
+    [
+     94.61532,
+     489.863,
+     160.0122,
+     500.843
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q030_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q031",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 31,
+  "area": "",
+  "texto_base_id": "P4077-T3",
+  "textos_base_ids": [
+   "P4077-T3"
+  ],
+  "enunciado": "*“Os mais antigos filósofos gregos já afirmavam que tudo provém da água. A ciência tem, por* *sua vez, demonstrado que a vida se originou na água e que ela se constitui como a matéria* *predominante em todos os corpos vivos. Por mais que tentemos, não somos capazes de* *imaginar um tipo de vida em sociedade que dispense o uso da água: água para beber e* *cozinhar, para a higiene do lar e das cidades; para uso industrial, irrigação das plantações,* *geração de energia, navegação, transporte de detritos (...) As águas constituíram sempre o* *elemento, que possibilitou a descoberta de novos mundos: o caminho para as Índias e para a* *América, a passagem de Magalhães, a penetração pelos continentes. Foram os rios que* *permitiram o desbravamento do interior brasileiro pelos bandeirantes e a ampliação do* *território nacional”*.\n\n{{fonte:1}}\n\nCom base no texto transcrito e nos seus conhecimentos, analise as afirmativas a seguir:\n\n1. A água, que provém dos complexos mecanismos de formação de chuvas, alimenta, em parte, o lençol freático, contudo a infiltração dessas águas é mais intensa exatamente nos corpos litológicos ígneos intrusivos.\n\n2. A água em estado líquido desempenhou um papel decisivo no resfriamento do planeta, dissolvendo grande parte do gás carbônico atmosférico, transformando-o em carbonatos, que se precipitaram nos oceanos e nos mares.\n\n3. Uma bacia hidrográfica tem um regime fluvial do tipo sazonal intermitente, quando atravessa áreas onde o índice de evapotranspiração potencial durante o ano é inferior ao índice pluviométrico anual.\n\n4. O ar encontra-se saturado de umidade no momento em que esta começa a se condensar, originando a neblina. Quando a temperatura é baixa, a neblina se forma em quantidades muito menores de vapor de água que quando a temperatura se encontra mais elevada.\n\n5. A quantidade de água existente na natureza terrestre é constante, ou seja, ela não se perde. Contudo, a sua distribuição no tempo e no espaço pode ser alterada em função da periodicidade das chuvas e de outros fenômenos que alteram o ciclo hidrológico normal.\n\nAssinale",
+  "fontes": [
+   "BRANCO, Samuel Murgel. Água, origem, uso e preservação. São Paulo: Moderna, 1993. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "se apenas 1 e 5 estiverem corretas."
+   },
+   {
+    "letra": "B",
+    "texto": "se apenas 2 e 3 estiverem corretas."
+   },
+   {
+    "letra": "C",
+    "texto": "se apenas 2, 4 e 5 estiverem corretas."
+   },
+   {
+    "letra": "D",
+    "texto": "se apenas 1, 2 e 5 estiverem corretas."
+   },
+   {
+    "letra": "E",
+    "texto": "se 1, 2, 3, 4 e 5 estiverem corretas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.54,
+     81.98917999999992,
+     57.826356,
+     92.96917999999994
+    ],
+    [
+     67.62,
+     88.70917999999995,
+     529.9614479999991,
+     99.68917999999996
+    ],
+    [
+     67.62,
+     101.36911999999995,
+     530.006465999999,
+     112.34911999999997
+    ],
+    [
+     67.62,
+     114.02905999999996,
+     530.1195599999993,
+     125.00905999999998
+    ],
+    [
+     67.62,
+     126.68899999999996,
+     530.0932079999992,
+     137.66899999999998
+    ],
+    [
+     67.62,
+     139.28305999999998,
+     530.0229359999993,
+     150.26306
+    ],
+    [
+     67.62,
+     151.94299999999998,
+     529.9987799999994,
+     162.923
+    ],
+    [
+     67.62,
+     164.60294,
+     529.8758039999992,
+     175.58294
+    ],
+    [
+     67.62,
+     177.26288,
+     529.8867839999997,
+     188.24288
+    ],
+    [
+     67.62,
+     189.92282,
+     529.9691339999997,
+     200.90282000000002
+    ],
+    [
+     67.62,
+     202.51688000000001,
+     158.63322,
+     213.49688000000003
+    ],
+    [
+     169.43904,
+     223.9170200000001,
+     529.9914000000001,
+     231.89702
+    ],
+    [
+     70.92,
+     257.84917999999993,
+     501.82351200000056,
+     268.82917999999995
+    ],
+    [
+     70.92,
+     283.10317999999995,
+     538.5582000000002,
+     294.08317999999997
+    ],
+    [
+     92.15532,
+     295.76311999999996,
+     538.4505959999997,
+     306.74312
+    ],
+    [
+     92.15532,
+     308.42305999999996,
+     265.22427600000003,
+     319.40306
+    ],
+    [
+     70.92,
+     332.54918,
+     538.6339619999994,
+     343.52918
+    ],
+    [
+     92.15532,
+     345.20912,
+     538.4956139999996,
+     356.18912
+    ],
+    [
+     92.15532,
+     357.86906,
+     320.845662,
+     368.84906
+    ],
+    [
+     70.92,
+     383.18894,
+     538.5549060000004,
+     394.16894
+    ],
+    [
+     92.15532,
+     395.84888,
+     538.5977280000004,
+     406.82888
+    ],
+    [
+     92.15532,
+     408.44294,
+     222.39129599999995,
+     419.42294000000004
+    ],
+    [
+     70.92,
+     433.76282000000003,
+     538.5801599999994,
+     444.74282000000005
+    ],
+    [
+     92.15532,
+     446.42276000000004,
+     538.5538079999997,
+     457.40276000000006
+    ],
+    [
+     92.15532,
+     459.08270000000005,
+     517.6270259999998,
+     470.06270000000006
+    ],
+    [
+     70.92,
+     484.33670000000006,
+     538.4857319999994,
+     495.3167000000001
+    ],
+    [
+     92.15532,
+     496.99664000000007,
+     538.5362399999996,
+     507.9766400000001
+    ],
+    [
+     92.15532,
+     509.6565800000001,
+     523.1796119999999,
+     520.6365800000001
+    ],
+    [
+     70.92,
+     547.5705200000001,
+     112.536396,
+     558.5505200000001
+    ],
+    [
+     70.92,
+     572.8904000000001,
+     267.015114,
+     583.8704000000001
+    ],
+    [
+     70.92,
+     585.5503400000001,
+     267.015114,
+     596.5303400000001
+    ],
+    [
+     70.92,
+     598.2102800000001,
+     279.138132,
+     609.1902800000001
+    ],
+    [
+     70.92,
+     610.8043400000001,
+     279.149112,
+     621.7843400000002
+    ],
+    [
+     70.92,
+     623.4642800000001,
+     264.55339799999996,
+     634.4442800000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q031_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q032",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 32,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe, atentamente, as ilustrações a seguir:\n\n{{img:1}}\n\nPelas características observadas, é **CORRETO** afirmar que a sequência de ilustrações exibe esquematicamente a",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "formação de extensas voçorocas em terrenos cristalinos."
+   },
+   {
+    "letra": "B",
+    "texto": "separação de grandes placas litosféricas."
+   },
+   {
+    "letra": "C",
+    "texto": "gênese e a evolução de morfoestruturas em estruturas geológicas dobradas."
+   },
+   {
+    "letra": "D",
+    "texto": "formação de grandes vales em estruturas tectonicamente falhadas."
+   },
+   {
+    "letra": "E",
+    "texto": "evolução de uma dorsal mesoceânica."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q032_img1.png",
+    "pagina": 20,
+    "bbox": [
+     42.0,
+     54.5,
+     509.2,
+     142.5
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.5436,
+     39.02444000000003,
+     298.41822600000006,
+     50.004440000000045
+    ],
+    [
+     42.0,
+     54.47199999999998,
+     509.22,
+     142.49199999999996
+    ],
+    [
+     70.92702,
+     156.38954,
+     538.6278060000001,
+     167.36954000000003
+    ],
+    [
+     42.54372,
+     169.04948000000002,
+     144.59293800000006,
+     180.02948000000004
+    ],
+    [
+     70.92702,
+     194.36936000000003,
+     373.43918971944,
+     205.34936000000005
+    ],
+    [
+     70.92702,
+     207.02929999999992,
+     297.63766800000013,
+     218.00929999999994
+    ],
+    [
+     70.92702,
+     219.62335999999993,
+     470.01049200000017,
+     230.60335999999995
+    ],
+    [
+     70.92702,
+     232.28329999999994,
+     423.58156200000025,
+     243.26329999999996
+    ],
+    [
+     70.92702,
+     244.94323999999995,
+     282.996936,
+     255.92323999999996
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q032_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q033",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 33,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a fotografia a seguir:\n\n{{img:1}}\n\nO surgimento e o crescimento das cidades provocaram, em diversas partes do  \nmundo, alterações do balanço de energia e do balanço hídrico urbanos. Um fato  \nmais significativo dessas alterações é a geração das “ilhas de calor”.\n\nNum espaço urbano, conforme está indicado na fotografia, sobre as causas principais da formação de uma ilha de calor, analise os itens a seguir:\n\n1. a existência de formação vegetal densa e de montanhas nas áreas rurais.  \n2. a impermeabilização dos solos.  \n3. a pouca absorção de calor do asfalto e dos telhados de edifícios.  \n4. a interferência na circulação do ar em face da concentração de edifícios.  \n5. a poluição atmosférica que causa um efeito estufa.  \n6. a baixa nebulosidade ocasionada pela inexistência de núcleos de condensação.\n\nEstão **CORRETOS**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1, 2 e 4."
+   },
+   {
+    "letra": "B",
+    "texto": "2, 4 e 5."
+   },
+   {
+    "letra": "C",
+    "texto": "3, 4 e 6."
+   },
+   {
+    "letra": "D",
+    "texto": "3, 4, 5 e 6."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 3 e 5."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q033_img1.png",
+    "pagina": 20,
+    "bbox": [
+     89.3,
+     295.2,
+     521.3,
+     488.9
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.54,
+     273.68917999999996,
+     215.85820199999992,
+     284.66918
+    ],
+    [
+     89.28,
+     295.2,
+     521.28,
+     488.88
+    ],
+    [
+     99.0,
+     492.68917999999996,
+     511.03548,
+     503.66918
+    ],
+    [
+     99.0,
+     505.34911999999997,
+     511.11342954540055,
+     516.32912
+    ],
+    [
+     99.0,
+     518.00906,
+     433.975794,
+     528.98918
+    ],
+    [
+     70.92,
+     545.06918,
+     538.5120840000001,
+     556.04918
+    ],
+    [
+     42.5367,
+     557.72912,
+     317.6911080000001,
+     568.70912
+    ],
+    [
+     70.90902,
+     583.049,
+     452.9240820000003,
+     594.029
+    ],
+    [
+     70.90902,
+     595.64306,
+     245.66230804392004,
+     606.62306
+    ],
+    [
+     70.90902,
+     608.303,
+     412.0103986763402,
+     619.283
+    ],
+    [
+     70.90902,
+     620.96294,
+     446.1329438967602,
+     631.94294
+    ],
+    [
+     70.90902,
+     633.62288,
+     340.32527437824,
+     644.60288
+    ],
+    [
+     70.90902,
+     646.28282,
+     482.81931954540033,
+     657.26282
+    ],
+    [
+     70.90902,
+     671.53682,
+     164.431174,
+     682.51682
+    ],
+    [
+     70.90902,
+     696.8567,
+     131.928174,
+     707.8367
+    ],
+    [
+     176.034834,
+     696.8567,
+     235.5497279999999,
+     707.8367
+    ],
+    [
+     281.3363279999999,
+     696.8567,
+     537.731406,
+     707.8367
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q034",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 34,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A parte mais superficial da litosfera é composta basicamente por rochas, sedimentos e solos. As rochas são incluídas, segundo os mecanismos genéticos, em três grandes grupos, apresentando composição química e estruturação física bastante diversificadas.\n\nSobre esse assunto, observe a ilustração ao lado:\n\n{{img:1}}\n\nAssinale a alternativa que indica o tipo de rochas predominantes que aparecem esquematicamente representadas, de acordo com a gênese.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Calcárias"
+   },
+   {
+    "letra": "B",
+    "texto": "Magmáticas"
+   },
+   {
+    "letra": "C",
+    "texto": "Metamórficas extrusivas"
+   },
+   {
+    "letra": "D",
+    "texto": "Sedimentares intrusivas argilosas"
+   },
+   {
+    "letra": "E",
+    "texto": "Sedimentares organógenas"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q034_img1.png",
+    "pagina": 21,
+    "bbox": [
+     297.2,
+     55.3,
+     532.0,
+     223.7
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     49.6221,
+     51.62324000000001,
+     288.561174,
+     62.60324000000003
+    ],
+    [
+     49.6221,
+     64.28318000000002,
+     288.48541200000005,
+     75.26318000000003
+    ],
+    [
+     49.6221,
+     76.94312000000002,
+     288.49858800000015,
+     87.92312000000004
+    ],
+    [
+     49.6221,
+     89.60306000000003,
+     288.5040780000001,
+     100.58306000000005
+    ],
+    [
+     49.6221,
+     102.26300000000003,
+     288.56776200000013,
+     113.24300000000005
+    ],
+    [
+     49.6221,
+     114.92294000000004,
+     257.50314600000024,
+     125.90294000000006
+    ],
+    [
+     49.6221,
+     152.83688000000006,
+     288.5952120000002,
+     163.81688000000008
+    ],
+    [
+     49.6221,
+     165.49682000000007,
+     73.47944400000002,
+     176.4768200000001
+    ],
+    [
+     297.1799927,
+     55.25199889999999,
+     532.019989,
+     223.6719971
+    ],
+    [
+     70.92330000000001,
+     237.49268000000006,
+     538.5680879999995,
+     248.47268000000008
+    ],
+    [
+     42.540000000000006,
+     250.15262000000007,
+     339.0065880000003,
+     261.1326200000001
+    ],
+    [
+     70.9233,
+     288.0665600000001,
+     137.955102,
+     299.0465600000001
+    ],
+    [
+     70.9233,
+     300.7265000000001,
+     151.425366,
+     311.7065000000001
+    ],
+    [
+     70.9233,
+     313.3864400000001,
+     210.7656780000001,
+     324.3664400000001
+    ],
+    [
+     70.9233,
+     326.0463800000001,
+     256.55227800000006,
+     337.02638000000013
+    ],
+    [
+     70.9233,
+     338.6404400000001,
+     227.24336399999993,
+     349.62044000000014
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q034_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q035",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 35,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A atmosfera é uma mistura de nitrogênio, de oxigênio e de diversos outros gases, que envolve a Terra. Essa camada gasosa encontra-se dividida em várias subcamadas com características particulares. Sobre esse importante assunto da Climatologia, são corretas as afirmativas a seguir, **EXCETO:**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A Troposfera é, das camadas da atmosfera terrestre, a que apresenta a maior parte dos fenômenos meteorológicos e a que é mais fortemente influenciada pelas ações antrópicas, como a poluição atmosférica."
+   },
+   {
+    "letra": "B",
+    "texto": "A Atmosfera Terrestre se aquece de baixo para cima, em face da emissão da radiação de ondas longas pela superfície do planeta. O Sol, por outro lado, emite para a Terra radiação de ondas curtas."
+   },
+   {
+    "letra": "C",
+    "texto": "A temperatura do ar atmosférico pode ser modificada pela influência de fatores geográficos estáticos e dinâmicos, tais como a cobertura vegetal, as correntes marítimas e as superfícies frontais."
+   },
+   {
+    "letra": "D",
+    "texto": "As diferenças de calor específico, verificadas entre as massas continentais e as massas oceânicas, explicam as diferenciações de aquecimento e resfriamento do ar atmosférico. As áreas mais afastadas das superfícies oceânicas possuem amplitudes térmicas diárias mais enfáticas."
+   },
+   {
+    "letra": "E",
+    "texto": "A Ionosfera, em face de suas características físicas e químicas, bloqueia e evita que alguns perigosos raios emitidos pelo Sol atinjam a superfície terrestre. É nessa camada atmosférica que se situa a Ozonosfera ou Camada Protetora do Ar."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.54,
+     376.62026000000014,
+     538.62189,
+     387.60026000000016
+    ],
+    [
+     42.54,
+     389.28020000000015,
+     538.5066000000002,
+     400.26020000000017
+    ],
+    [
+     42.54000000000002,
+     401.94014000000016,
+     538.7152200000006,
+     412.9201400000002
+    ],
+    [
+     42.54000000000002,
+     414.60008000000016,
+     91.37025600000003,
+     425.5800800000002
+    ],
+    [
+     70.92330000000003,
+     439.8540800000002,
+     538.635066,
+     450.8340800000002
+    ],
+    [
+     92.15862000000003,
+     452.5140200000002,
+     538.6295759999998,
+     463.4940200000002
+    ],
+    [
+     92.15862000000003,
+     465.1739600000002,
+     235.23351000000014,
+     476.1539600000002
+    ],
+    [
+     70.92330000000003,
+     477.7680200000002,
+     538.6592220000005,
+     488.7480200000002
+    ],
+    [
+     92.15862000000003,
+     490.4279600000002,
+     538.6163999999993,
+     501.40796000000023
+    ],
+    [
+     92.15862000000003,
+     503.0879000000002,
+     173.48748000000006,
+     514.0679000000002
+    ],
+    [
+     70.92330000000003,
+     515.7478400000002,
+     538.5757740000001,
+     526.7278400000002
+    ],
+    [
+     92.15862000000003,
+     528.4077800000002,
+     538.5549119999996,
+     539.3877800000002
+    ],
+    [
+     92.15862000000003,
+     541.0677200000002,
+     187.577016,
+     552.0477200000003
+    ],
+    [
+     70.92330000000003,
+     553.6617800000002,
+     538.4571899999996,
+     564.6417800000003
+    ],
+    [
+     92.15862000000003,
+     566.3217200000003,
+     538.6273799999997,
+     577.3017200000003
+    ],
+    [
+     92.15862000000003,
+     578.9816600000003,
+     538.5483239999999,
+     589.9616600000003
+    ],
+    [
+     92.15862000000003,
+     591.6416000000003,
+     165.522588,
+     602.6216000000003
+    ],
+    [
+     70.92330000000003,
+     604.3015400000003,
+     538.5636959999994,
+     615.2815400000003
+    ],
+    [
+     92.15862000000003,
+     616.8956000000003,
+     538.4055839999996,
+     627.8756000000003
+    ],
+    [
+     92.15862000000003,
+     629.5555400000003,
+     421.06122600000043,
+     640.5355400000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q035_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q036",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 36,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nA qual princípio da Ciência Geográfica estão relacionadas as características apresentadas no esboço esquemático a seguir?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Extensão"
+   },
+   {
+    "letra": "B",
+    "texto": "Analogia"
+   },
+   {
+    "letra": "C",
+    "texto": "Causalidade"
+   },
+   {
+    "letra": "D",
+    "texto": "Atividade"
+   },
+   {
+    "letra": "E",
+    "texto": "Conexidade"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q036_img1.png",
+    "pagina": 22,
+    "bbox": [
+     116.6,
+     89.3,
+     501.8,
+     321.1
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.54359999999997,
+     51.618499999999926,
+     538.6705079999991,
+     62.598499999999945
+    ],
+    [
+     42.54359999999997,
+     64.27843999999993,
+     191.76070200000007,
+     75.25843999999995
+    ],
+    [
+     116.64,
+     89.28,
+     501.84000000000003,
+     321.12
+    ],
+    [
+     62.164859999999976,
+     342.54458000000005,
+     121.61277599999998,
+     353.52458000000007
+    ],
+    [
+     154.31999999999996,
+     342.54458000000005,
+     316.341978,
+     353.52458000000007
+    ],
+    [
+     354.35364,
+     342.54458000000005,
+     413.79386999999997,
+     353.52458000000007
+    ],
+    [
+     453.642486,
+     342.54458000000005,
+     526.464042,
+     353.52458000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [
+   "imagem 1 tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q036_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q037",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 37,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\n**No equinócio, Europa registra**  \n**eclipse solar total**  \n**Fenômeno pôde ser observado também na Ásia e África**\n\n**O eclipse foi total nas regiões árticas, porém, em países europeus centrais, a**\n\n**cobertura ocorreu apenas parcialmente. O dia 20 de março também marca o**  \n**equinócio.**\n\n{{fonte:1}}\n\nA manchete acima destaca a ocorrência de um fenômeno natural, denominado **equinócio.**\n\nSobre suas características, analise os itens a seguir:\n\n1. Duração do dia idêntica à da noite  \n2. Hemisférios Norte e Sul recebendo a mesma quantidade de luz 3. Ocorre duas vezes ao ano  \n4. Raios solares incidindo perpendicularmente à linha do Equador 5. Noites com duração prolongada de 16 horas e dias mais curtos\n\nEstão **CORRETOS**, apenas,",
+  "fontes": [
+   "Disponível em: http://www.jb.com.br Acesso em: 20 de março de 2015."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1 e 3."
+   },
+   {
+    "letra": "B",
+    "texto": "1, 2 e 3."
+   },
+   {
+    "letra": "C",
+    "texto": "2, 4 e 5"
+   },
+   {
+    "letra": "D",
+    "texto": "1, 4 e 5."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 3 e 4."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.53261999999995,
+     380.52440000000007,
+     173.07932999999989,
+     391.5044000000001
+    ],
+    [
+     157.8,
+     409.3904,
+     414.88319999999993,
+     427.3904
+    ],
+    [
+     210.36,
+     430.0904,
+     362.406,
+     448.0904
+    ],
+    [
+     99.24,
+     450.24218,
+     473.49578399999996,
+     464.22218
+    ],
+    [
+     84.6,
+     465.86918,
+     488.12927400000046,
+     476.84918
+    ],
+    [
+     87.42,
+     478.52918,
+     485.3033580000004,
+     489.50918
+    ],
+    [
+     258.84,
+     491.18917999999996,
+     313.85968199999996,
+     502.16918
+    ],
+    [
+     257.28,
+     515.99618,
+     508.8510960000005,
+     523.97618
+    ],
+    [
+     71.52,
+     540.92918,
+     514.73868,
+     551.90918
+    ],
+    [
+     71.51999999999998,
+     566.18318,
+     328.19836200000003,
+     577.16318
+    ],
+    [
+     70.91609999999999,
+     591.50306,
+     259.6985339999998,
+     602.48306
+    ],
+    [
+     71.51999999999998,
+     604.163,
+     402.24967800000024,
+     615.143
+    ],
+    [
+     70.91609999999999,
+     616.82294,
+     221.7999659999999,
+     627.80294
+    ],
+    [
+     71.51999999999998,
+     629.417,
+     401.51621400000033,
+     640.397
+    ],
+    [
+     71.51999999999998,
+     642.07694,
+     401.4020220000004,
+     653.05694
+    ],
+    [
+     70.92,
+     663.80918,
+     209.68524,
+     674.78918
+    ],
+    [
+     78.72,
+     685.64918,
+     121.31361600000001,
+     696.62918
+    ],
+    [
+     161.22,
+     685.64918,
+     216.89408999999998,
+     696.62918
+    ],
+    [
+     259.74354,
+     685.64918,
+     311.74591799999996,
+     696.62918
+    ],
+    [
+     356.52,
+     685.64918,
+     412.207266,
+     696.62918
+    ],
+    [
+     454.14,
+     685.64918,
+     521.989812,
+     696.62918
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q037_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q038",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 38,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe, atentamente, a imagem a seguir:\n\n**Passagem de frente fria pela região de Campinas**  \n**derruba temperatura**  \n**05/07/2015 09h09**\n\n**Mínima registrada no município foi de 11ºC às 0h40, segundo o Centro de**  \n**Pesquisas Meteorológicas e Climáticas Aplicadas à Agricultura (CEPAGRI).**  \n**Sensação de frio nesta madrugada foi de quase -3ºC, pelos ventos fortes.**\n\n{{img:1}}\n\n**Mulheres tentam se proteger do frio no Centro de Campinas (Foto: Patrícia Teixeira / G1).**  \nFonte: http://g1.globo.com/\n\nSobre o fenômeno climático nela apresentado, é **CORRETO** afirmar que ele ocorre quando",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a massa de ar frio avança, fazendo o ar quente recuar, causando o esfriamento do ar quente e produzindo temperaturas mais baixas. As frentes frias tipicamente causam mudanças rápidas e fortes na temperatura, e suas ocorrências durante o inverno são mais fortes."
+   },
+   {
+    "letra": "B",
+    "texto": "a massa de ar quente se move em direção à massa de ar frio. O ar frio recua para a baixa altitude, pois é mais pesado. Nos mapas meteorológicos, esse fenômeno é mostrado por uma linha verde com setas azuis salientes."
+   },
+   {
+    "letra": "C",
+    "texto": "as nuvens *cirrus* e *cumulonimbus* forçam o ar quente para baixo rapidamente, criando trovoadas, tempestades de neve e tornados. Esse fenômeno, quando ocorre durante o verão, se apresenta mais intensamente, produzindo padrões climáticos mais amenos. Suas temperaturas elevadas duram vários dias."
+   },
+   {
+    "letra": "D",
+    "texto": "a zona de transição entre uma massa de ar quente e outra de ar frio se forma em regiões de homogeneidade térmica. Ocasionalmente, bloqueia a ocorrência de geadas em locais de alta altitude, sobretudo nos meses de outono e inverno."
+   },
+   {
+    "letra": "E",
+    "texto": "o planeta Terra sofre um aquecimento diferenciado, provocando uma zona de transição entre as regiões tropicais e as regiões polares. Desse modo, o ar aquecido perde energia e desce, e o ar mais frio desloca-se em direção à zona subtropical."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q038_img1.png",
+    "pagina": 23,
+    "bbox": [
+     91.4,
+     165.6,
+     505.4,
+     414.0
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.54359999999997,
+     39.02443999999991,
+     279.4700400000001,
+     50.00443999999993
+    ],
+    [
+     123.9,
+     61.99261999999999,
+     465.1436220000002,
+     78.01261999999997
+    ],
+    [
+     222.54,
+     80.35262,
+     366.506934,
+     96.37261999999998
+    ],
+    [
+     249.54,
+     98.06917999999996,
+     338.7986159999999,
+     109.04917999999998
+    ],
+    [
+     105.36,
+     117.62918000000002,
+     482.99733600000036,
+     128.60918000000004
+    ],
+    [
+     100.32,
+     130.28918,
+     487.8129840000003,
+     141.26918
+    ],
+    [
+     105.72,
+     142.88918,
+     482.69634000000036,
+     153.86918000000003
+    ],
+    [
+     91.44,
+     165.6,
+     505.44,
+     414.0
+    ],
+    [
+     129.06,
+     423.53618,
+     459.4687079999989,
+     431.51618
+    ],
+    [
+     247.92,
+     432.77618,
+     340.414584,
+     440.75618000000003
+    ],
+    [
+     70.91988,
+     456.56912,
+     516.02163,
+     467.54912
+    ],
+    [
+     70.92,
+     482.96918,
+     538.5373380000002,
+     493.94918
+    ],
+    [
+     92.15532,
+     495.62912,
+     538.5691800000002,
+     506.60912
+    ],
+    [
+     92.15532,
+     508.28906,
+     538.5702780000001,
+     519.2690600000001
+    ],
+    [
+     92.15532,
+     520.9490000000001,
+     122.74779600000001,
+     531.9290000000001
+    ],
+    [
+     70.92,
+     533.6089400000001,
+     538.5669839999998,
+     544.5889400000001
+    ],
+    [
+     92.15532,
+     546.2030000000001,
+     538.6647060000001,
+     557.183
+    ],
+    [
+     92.15532,
+     558.8629400000001,
+     301.95567,
+     569.84294
+    ],
+    [
+     70.92,
+     571.5228800000001,
+     538.6680000000002,
+     582.50288
+    ],
+    [
+     92.15532000000002,
+     584.1828200000001,
+     538.5757680000002,
+     595.16282
+    ],
+    [
+     92.15532000000002,
+     596.8427600000001,
+     538.5219659999999,
+     607.82276
+    ],
+    [
+     92.15532000000002,
+     609.5027000000001,
+     325.0916280000002,
+     620.4827
+    ],
+    [
+     70.92000000000002,
+     622.0967600000001,
+     538.5966300000002,
+     633.0767600000001
+    ],
+    [
+     92.15532000000002,
+     634.7567000000001,
+     538.4967119999997,
+     645.7367000000002
+    ],
+    [
+     92.15532000000002,
+     647.4166400000001,
+     378.34572600000047,
+     658.3966400000002
+    ],
+    [
+     70.92000000000002,
+     660.0765800000001,
+     538.6010220000002,
+     671.0565800000002
+    ],
+    [
+     92.15532000000002,
+     672.7365200000002,
+     538.6449420000001,
+     683.7165200000002
+    ],
+    [
+     92.15532000000002,
+     685.3305800000002,
+     409.47841800000026,
+     696.3105800000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q038_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q039",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 39,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto e observe atentamente a ilustração a seguir:\n\n**As fortes chuvas que caíram desde a noite de domingo (28) deixaram várias ruas do**  \n**Grande Recife completamente alagadas, invadiram casas e derrubaram árvores.**  \n**Técnicos e engenheiros da Defesa Civil interditaram mais quatro casas da vizinhança**\n\n**por causa do risco de um novo deslizamento.**\n\n{{img:1}}\n\n{{fonte:1}}\n\nCom base no texto e nos processos geomorfológicos apresentados, são feitas as seguintes afirmativas:\n\n1. Trata-se de um movimento de massa verificado no regolito, que é a parte alterada das rochas, provocada, sobretudo, pelas condições climáticas ambientais. O regolito é também denominado de manto do intemperismo.\n\n2. Os movimentos de massa são determinados, sobretudo, pela ação da gravidade, mas recebem influências da inclinação do terreno e das precipitações. Os movimentos de massa rápidos podem ser do tipo deslizamento, desmoronamento e queda de blocos.\n\n3. O mergulho das camadas rochosas contribui para a ocorrência de deslizamento. Encostas instáveis são sujeitas a movimentos de massa rápidos que não devem ser confundidos com erosão linear.\n\nEstá **CORRETO** o que se afirma",
+  "fontes": [
+   "Disponível em: http://g1.globo.com 29 de junho de 2015."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "apenas em 1."
+   },
+   {
+    "letra": "B",
+    "texto": "apenas em 2."
+   },
+   {
+    "letra": "C",
+    "texto": "apenas em 1 e 3."
+   },
+   {
+    "letra": "D",
+    "texto": "apenas em 2 e 3."
+   },
+   {
+    "letra": "E",
+    "texto": "em 1, 2 e 3."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q039_img1.png",
+    "pagina": 24,
+    "bbox": [
+     63.4,
+     126.7,
+     526.3,
+     383.0
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   24
+  ],
+  "caixas": {
+   "24": [
+    [
+     42.54359999999997,
+     39.02443999999991,
+     347.8864200000003,
+     50.00443999999993
+    ],
+    [
+     84.24,
+     78.50918000000001,
+     504.41824799999966,
+     89.48918000000003
+    ],
+    [
+     92.7,
+     91.16917999999998,
+     495.6484319999999,
+     102.14918
+    ],
+    [
+     80.82,
+     103.82917999999995,
+     507.8003579999996,
+     114.80917999999997
+    ],
+    [
+     180.36,
+     116.48917999999992,
+     408.29931000000005,
+     127.46917999999994
+    ],
+    [
+     63.36,
+     126.72,
+     526.32,
+     383.04
+    ],
+    [
+     322.32024,
+     396.29618,
+     522.8129520000003,
+     404.27618
+    ],
+    [
+     70.92,
+     429.26912,
+     538.5603960000005,
+     440.24912
+    ],
+    [
+     70.92,
+     441.86318,
+     127.13430600000002,
+     452.84318
+    ],
+    [
+     70.92,
+     467.18306,
+     538.4912220000004,
+     478.16306000000003
+    ],
+    [
+     92.15532,
+     479.843,
+     538.4670660000002,
+     490.82300000000004
+    ],
+    [
+     92.15532,
+     492.50294,
+     288.976212,
+     503.48294000000004
+    ],
+    [
+     70.92,
+     505.16288000000003,
+     538.5351420000003,
+     516.1428800000001
+    ],
+    [
+     92.15532,
+     517.75694,
+     538.542828,
+     528.73694
+    ],
+    [
+     92.15532,
+     530.4168800000001,
+     510.35716800000023,
+     541.39688
+    ],
+    [
+     70.92,
+     543.0768200000001,
+     538.6778820000004,
+     554.05682
+    ],
+    [
+     92.15532,
+     555.7367600000001,
+     538.59663,
+     566.71676
+    ],
+    [
+     92.15532,
+     568.3967000000001,
+     182.63381399999997,
+     579.3767
+    ],
+    [
+     70.90902,
+     606.3106400000001,
+     229.83024600000002,
+     617.2906400000002
+    ],
+    [
+     70.90901999999998,
+     631.6305200000002,
+     158.78854799999993,
+     642.6105200000002
+    ],
+    [
+     70.90901999999998,
+     644.2245800000001,
+     158.78854799999993,
+     655.2045800000001
+    ],
+    [
+     70.90901999999998,
+     656.8845200000002,
+     177.160284,
+     667.8645200000001
+    ],
+    [
+     70.90901999999998,
+     669.5444600000002,
+     177.17675399999996,
+     680.5244600000001
+    ],
+    [
+     70.90901999999998,
+     682.2044000000002,
+     150.23622599999996,
+     693.1844000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q039_p24.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q040",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 40,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o organograma abaixo que representa algumas das diversas concepções estabelecidas na legislação ambiental brasileira.\n\n{{img:1}}\n\nEssas concepções são referidas como",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "princípios internacionais de diversidade biológica."
+   },
+   {
+    "letra": "B",
+    "texto": "medidas gerais para a conservação e utilização sustentáveis."
+   },
+   {
+    "letra": "C",
+    "texto": "infrações administrativas ambientais."
+   },
+   {
+    "letra": "D",
+    "texto": "fundamentos da utilização sustentável dos recursos naturais."
+   },
+   {
+    "letra": "E",
+    "texto": "princípios básicos da educação ambiental."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q040_img1.png",
+    "pagina": 25,
+    "bbox": [
+     89.3,
+     105.1,
+     537.1,
+     301.0
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   25
+  ],
+  "caixas": {
+   "25": [
+    [
+     42.54359999999997,
+     51.618499999999926,
+     538.5892560000004,
+     62.598499999999945
+    ],
+    [
+     42.54359999999997,
+     64.27843999999993,
+     278.47744800000015,
+     75.25843999999995
+    ],
+    [
+     89.28,
+     105.12,
+     537.12,
+     300.96000000000004
+    ],
+    [
+     70.92689999999997,
+     342.5336000000001,
+     259.1416680000001,
+     353.5136000000001
+    ],
+    [
+     70.92689999999997,
+     367.8534800000001,
+     334.1998500000003,
+     378.8334800000001
+    ],
+    [
+     70.92689999999997,
+     380.5134200000001,
+     391.73395200000044,
+     391.4934200000001
+    ],
+    [
+     70.92689999999997,
+     393.1074800000001,
+     272.58448200000015,
+     404.08748000000014
+    ],
+    [
+     70.92689999999997,
+     405.76742000000013,
+     389.92664400000024,
+     416.74742000000015
+    ],
+    [
+     70.92689999999997,
+     418.4932400000001,
+     299.43717000000015,
+     429.47324000000015
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [
+   "imagem 1 tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q040_p25.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q041",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 41,
+  "area": "",
+  "texto_base_id": "P4077-T4",
+  "textos_base_ids": [
+   "P4077-T4"
+  ],
+  "enunciado": "Leia o texto a seguir:\n\nNas três primeiras décadas do século XX, embora a burguesia já mostrasse sem disfarces a sua faceta conservadora e belicista, defrontando-se com um movimento operário organizado, e testemunhasse também um acontecimento como a instalação do poder soviético na Rússia, conseguia, não obstante, controlar, até certo ponto, as ameaças dos movimentos e dos grupos revolucionários. Além disso, deve-se mencionar que a existência da monopolização das empresas e dos capitais daquelas décadas, embora consideráveis, evidentemente eram menos acentuadas do que são em nossos dias. Dessa forma, a burocratização do trabalho intelectual não era ainda uma realidade viva e concreta que aprisionava e inibia a imaginação dos sociólogos.\n\n{{fonte:1}}\n\nO texto faz referência a um período da história da Sociologia. Sobre esse período, é **CORRETO** afirmar que",
+  "fontes": [
+   "MARTINS, Carlos Benedito. O que é Sociologia? São Paulo: Brasiliense, 2006, pp. 76-77."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o conhecimento sociológico foi organizado com base no pensamento iluminista de Descartes."
+   },
+   {
+    "letra": "B",
+    "texto": "a escola sociológica francesa se tornou uma referência para os estudos da realidade social com base no pensamento de Durkheim."
+   },
+   {
+    "letra": "C",
+    "texto": "a visão sociológica ofereceria um conhecimento útil para consolidar a desorganização social após a Revolução Francesa e Industrial."
+   },
+   {
+    "letra": "D",
+    "texto": "a pesquisa de campo ganhou destaque com o pensamento positivista, orientando o caminho metodológico que o sociológico deveria seguir."
+   },
+   {
+    "letra": "E",
+    "texto": "o pensamento de Augusto Comte representou um importante papel na elaboração do conhecimento sociológico, fundamentado na valorização da economia e dos mitos como instrumento intelectual para compreender as relações sociais."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     42.5427,
+     78.85447999999997,
+     173.08940999999993,
+     89.83447999999999
+    ],
+    [
+     56.7618,
+     105.61274000000003,
+     538.6542260082007,
+     116.59274000000005
+    ],
+    [
+     56.76,
+     118.28917999999999,
+     538.5162839999995,
+     129.26918
+    ],
+    [
+     56.76,
+     130.94917999999996,
+     538.5832620000002,
+     141.92917999999997
+    ],
+    [
+     56.76,
+     143.60917999999992,
+     538.4888340000003,
+     154.58917999999994
+    ],
+    [
+     56.76,
+     156.26918,
+     538.57887,
+     167.24918000000002
+    ],
+    [
+     56.76,
+     168.86918000000003,
+     538.5382342278004,
+     179.84918000000005
+    ],
+    [
+     56.76,
+     181.52918,
+     538.5085877886006,
+     192.50918000000001
+    ],
+    [
+     56.76,
+     194.18917999999996,
+     469.4960040000004,
+     205.16917999999998
+    ],
+    [
+     219.3,
+     219.1161800000001,
+     538.4992020957598,
+     227.09618
+    ],
+    [
+     70.9233,
+     242.84911999999997,
+     538.5768628866005,
+     253.82912
+    ],
+    [
+     70.9233,
+     255.50905999999998,
+     184.60912200000004,
+     266.48906
+    ],
+    [
+     70.9233,
+     280.76306,
+     538.5461280000002,
+     291.74306
+    ],
+    [
+     92.15862,
+     293.423,
+     144.760506,
+     304.403
+    ],
+    [
+     70.9233,
+     306.08293999999995,
+     538.6712999999999,
+     317.06293999999997
+    ],
+    [
+     92.15862,
+     318.74287999999996,
+     287.17000799999994,
+     329.72288
+    ],
+    [
+     70.9233,
+     331.40281999999996,
+     538.5977340000001,
+     342.38282
+    ],
+    [
+     92.15862,
+     343.99688,
+     320.2033380000002,
+     354.97688
+    ],
+    [
+     70.9233,
+     356.65682,
+     538.5636960000003,
+     367.63682
+    ],
+    [
+     92.15862,
+     369.31676,
+     365.48485800000014,
+     380.29676
+    ],
+    [
+     70.9233,
+     381.9767,
+     538.5549120000002,
+     392.9567
+    ],
+    [
+     92.15862,
+     394.63664,
+     538.6614180000003,
+     405.61664
+    ],
+    [
+     92.15862,
+     407.23069999999996,
+     394.2228120000002,
+     418.2107
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q041_p26.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q042",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 42,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O objeto de estudo da Sociologia é caracterizado como a compreensão do ser humano nas suas relações sociais. No entanto, na história da sociologia, cada pensador elaborou uma maneira particular de investigar os fenômenos sociais. A seguir, encontram-se imagens dos principais teóricos da Sociologia.\n\n{{img:1}}\n\nSobre o objeto de estudo elaborado por esses teóricos, é **CORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o primeiro teórico entende a sociedade como um conjunto de relações de poder, controladas por luta entre classes sociais diferentes, caracterizando o objeto de estudo da Sociologia como fatos sociais."
+   },
+   {
+    "letra": "B",
+    "texto": "o sociólogo da imagem 2 entende a Sociologia como uma ciência preocupada em entender as relações humanas significativas, ou seja, algum tipo de sentido entre as várias ações sociais."
+   },
+   {
+    "letra": "C",
+    "texto": "as classes sociais são o objeto de estudo do sociólogo apresentado na imagem 2 que entende a sociedade como um grupo de indivíduos, ocupando uma mesma posição nas relações de produção."
+   },
+   {
+    "letra": "D",
+    "texto": "o terceiro teórico elaborou o objeto de estudo da Sociologia, visando compreender as relações sociais com base no modo de agir, pensar e sentir, exterior ao indivíduo e dotado de um poder coercitivo."
+   },
+   {
+    "letra": "E",
+    "texto": "a ação social é um conceito-chave utilizado pelo teórico apresentado na imagem 3. Esse conceito se refere à ação que, quanto ao sentido visado pelo indivíduo, tem como referência o comportamento de outros, orientando-se por estes em seu curso."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q042_img1.png",
+    "pagina": 26,
+    "bbox": [
+     41.6,
+     497.5,
+     547.2,
+     728.5
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   26,
+   27
+  ],
+  "caixas": {
+   "26": [
+    [
+     42.54,
+     438.32917999999995,
+     538.559304,
+     449.30917999999997
+    ],
+    [
+     42.54,
+     450.98911999999996,
+     538.5691755690004,
+     461.96912
+    ],
+    [
+     42.54,
+     463.64905999999996,
+     538.5801604551001,
+     474.62906
+    ],
+    [
+     42.54,
+     476.24312,
+     111.63384600000002,
+     487.22312
+    ],
+    [
+     41.58,
+     497.52000000000004,
+     547.2,
+     728.51199
+    ]
+   ],
+   "27": [
+    [
+     70.9269,
+     51.618499999999926,
+     467.097378,
+     62.598499999999945
+    ],
+    [
+     70.93788,
+     76.93837999999994,
+     538.6562253258006,
+     87.91837999999996
+    ],
+    [
+     92.1732,
+     89.59831999999994,
+     538.5782759999993,
+     100.57831999999996
+    ],
+    [
+     92.1732,
+     102.25825999999995,
+     239.63789399999996,
+     113.23825999999997
+    ],
+    [
+     70.93788,
+     114.91819999999996,
+     538.6112159999994,
+     125.89819999999997
+    ],
+    [
+     92.1732,
+     127.51225999999997,
+     538.4388299999996,
+     138.49226
+    ],
+    [
+     92.1732,
+     140.17219999999998,
+     128.856282,
+     151.1522
+    ],
+    [
+     70.93788,
+     152.83213999999998,
+     538.551924,
+     163.81214
+    ],
+    [
+     92.1732,
+     165.49208,
+     538.5475320000005,
+     176.47208
+    ],
+    [
+     92.1732,
+     178.15202,
+     201.02013599999998,
+     189.13202
+    ],
+    [
+     70.93788,
+     190.74608,
+     538.6200000000001,
+     201.72608000000002
+    ],
+    [
+     92.1732,
+     203.40602,
+     538.5848542278004,
+     214.38602000000003
+    ],
+    [
+     92.1732,
+     216.06596000000002,
+     206.50574399999994,
+     227.04596000000004
+    ],
+    [
+     70.93788,
+     228.72590000000002,
+     538.5475166280003,
+     239.70590000000004
+    ],
+    [
+     92.1732,
+     241.38584000000003,
+     538.6353720000002,
+     252.36584000000005
+    ],
+    [
+     92.1732,
+     254.04577999999992,
+     472.3886400000002,
+     265.02577999999994
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q042_p26.jpg",
+   "revisao/Q042_p27.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q043",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 43,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia os textos a seguir:\n\n**TEXTO 1**\n\nProcesso é o nome, que se dá à contínua mudança de alguma coisa numa direção definida. Processo social indica interação social, movimento, mudança. Os processos sociais são as diversas maneiras pelas quais os indivíduos e os grupos atuam uns com os outros, a forma como os indivíduos se relacionam e estabelecem relações sociais.\n\n{{fonte:1}}\n\n**TEXTO 2**  \n**TEXTO 3**\n\n{{img:1}}\n\n{{fonte:2}}\n\n{{fonte:3}}\n\nDe acordo com o texto 1, ao processo social, apresentado nos textos 2 e 3, dá-se o nome de",
+  "fontes": [
+   "OLIVEIRA, Pérsio Santos de. Introdução à Sociologia. São Paulo: Ática, 2003, p. 32.",
+   "Disponível em: < http://www.fenafar.org.br/farmacia/> Acesso em: junho 2015",
+   "Disponível em: https://jessicajorn.wordpress.com/2010/09/14/> Acesso em: junho 2015"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "conflito."
+   },
+   {
+    "letra": "B",
+    "texto": "isolamento."
+   },
+   {
+    "letra": "C",
+    "texto": "competição."
+   },
+   {
+    "letra": "D",
+    "texto": "cooperação direta."
+   },
+   {
+    "letra": "E",
+    "texto": "cooperação indireta."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q043_img1.png",
+    "pagina": 27,
+    "bbox": [
+     49.2,
+     465.1,
+     537.6,
+     673.4
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   27,
+   28
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.54,
+     285.08918,
+     184.11501909029997,
+     296.06918
+    ],
+    [
+     56.7591,
+     310.47494,
+     102.51715195607999,
+     321.45494
+    ],
+    [
+     56.76,
+     337.10918,
+     530.0144700000003,
+     348.08918
+    ],
+    [
+     56.76,
+     351.62474,
+     530.0023920000001,
+     362.60474
+    ],
+    [
+     56.76,
+     366.20617999999996,
+     529.9892155498198,
+     377.18618
+    ],
+    [
+     56.76,
+     380.72173999999995,
+     381.4243260000003,
+     391.70174
+    ],
+    [
+     229.44,
+     404.75618,
+     529.9779720478799,
+     412.73618
+    ],
+    [
+     56.77008,
+     449.6135,
+     102.583032,
+     460.5935
+    ],
+    [
+     322.93516199999897,
+     449.6135,
+     368.8030139999988,
+     460.5935
+    ],
+    [
+     49.2,
+     465.12,
+     537.60001,
+     673.39618
+    ],
+    [
+     87.12,
+     672.89618,
+     276.54525002393984,
+     680.87618
+    ],
+    [
+     306.78,
+     674.39618,
+     529.2448440159601,
+     680.87618
+    ],
+    [
+     192.90288,
+     682.07318,
+     276.452682,
+     690.05318
+    ],
+    [
+     445.67988,
+     683.57318,
+     529.21611602394,
+     690.05318
+    ]
+   ],
+   "28": [
+    [
+     70.92689999999997,
+     51.618499999999926,
+     524.5019159999994,
+     62.598499999999945
+    ],
+    [
+     70.92689999999997,
+     76.93837999999994,
+     130.12996199999998,
+     87.91837999999996
+    ],
+    [
+     70.92689999999997,
+     89.59831999999994,
+     148.43581799999998,
+     100.57831999999996
+    ],
+    [
+     70.92689999999997,
+     102.25825999999995,
+     151.48606199999995,
+     113.23825999999997
+    ],
+    [
+     70.92689999999997,
+     114.91819999999996,
+     183.267672,
+     125.89819999999997
+    ],
+    [
+     70.92689999999997,
+     127.51225999999997,
+     191.83426800000004,
+     138.49226
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q043_p27.jpg",
+   "revisao/Q043_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q044",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 44,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a imagem a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nA relação social estabelecida ocorre entre dois agentes sociais. Aparentemente um dos lados exerce influência significativa sobre o outro. A Sociologia classifica essa ação como",
+  "fontes": [
+   "Disponível em: <https://lucassrodrigue.wordpress.com/2013/11/28/> Acesso em: junho 2015"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Interação social não recíproca."
+   },
+   {
+    "letra": "B",
+    "texto": "Interação social bilateral."
+   },
+   {
+    "letra": "C",
+    "texto": "Retardamento cultural."
+   },
+   {
+    "letra": "D",
+    "texto": "Assimilação direta."
+   },
+   {
+    "letra": "E",
+    "texto": "Aculturação."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q044_img1.png",
+    "pagina": 28,
+    "bbox": [
+     132.4,
+     207.4,
+     448.0,
+     533.6
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   28
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.54359999999998,
+     165.49208,
+     209.1069059999999,
+     176.47208
+    ],
+    [
+     132.3600006,
+     207.36,
+     448.0200043,
+     533.59618
+    ],
+    [
+     181.92,
+     534.59618,
+     423.33734400000026,
+     542.57618
+    ],
+    [
+     339.71652,
+     543.77318,
+     423.252756,
+     551.75318
+    ],
+    [
+     80.16,
+     577.04918,
+     529.8404099999998,
+     588.02918
+    ],
+    [
+     51.77669999999999,
+     589.70912,
+     489.36264000000057,
+     600.68912
+    ],
+    [
+     80.16,
+     627.62306,
+     251.78069400000007,
+     638.60306
+    ],
+    [
+     80.16,
+     640.283,
+     223.16791200000003,
+     651.263
+    ],
+    [
+     80.16,
+     652.94294,
+     212.76655799999992,
+     663.92294
+    ],
+    [
+     80.16,
+     665.60288,
+     193.708572,
+     676.58288
+    ],
+    [
+     80.16,
+     678.26282,
+     162.585762,
+     689.24282
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q044_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q045",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 45,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\nAmor »\n\n**Menino rejeitado por casais heterossexuais por ser \"feio e negro demais\" é adotado por casal**\n\n**homossexual**  \n**O garoto de quatro anos havia sido rejeitado por outros três casais heterossexuais**\n\n{{img:1}}\n\nAtualmente, um dos debates mais acirrados da sociedade brasileira diz respeito à capacidade de casais homossexuais fornecerem estrutura familiar para o desenvolvimento de uma criança. Ao contrapor o senso comum de que apenas a família constituída por um homem e uma mulher pode oferecer essa estrutura, ganhou repercussão, nas redes sociais, o caso do garoto de quatro anos que foi adotado por um casal homossexual após ser rejeitado por três **casais heterossexuais com as justificativas de ser \"feio\" e negro demais\". (...)**\n\n{{fonte:1}}\n\nO tema apresentado no texto se refere ao conceito sociológico de",
+  "fontes": [
+   "Disponível em: <http://www.diariodepernambuco.com.br/app/noticia/brasil/2015/02/27/> Adaptado. Acesso em: junho 2015"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Comunidade."
+   },
+   {
+    "letra": "B",
+    "texto": "Instituição social."
+   },
+   {
+    "letra": "C",
+    "texto": "Indicadores políticos."
+   },
+   {
+    "letra": "D",
+    "texto": "Igualdade de gênero."
+   },
+   {
+    "letra": "E",
+    "texto": "Democratização das classes trabalhadoras."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q045_img1.png",
+    "pagina": 29,
+    "bbox": [
+     41.8,
+     136.4,
+     308.2,
+     314.6
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.54359999999997,
+     51.618499999999926,
+     173.0903099999999,
+     62.598499999999945
+    ],
+    [
+     42.54,
+     79.33640000000003,
+     80.57639999999999,
+     91.33640000000003
+    ],
+    [
+     42.54,
+     95.90917999999999,
+     534.1574220000003,
+     106.88918000000001
+    ],
+    [
+     42.54,
+     110.90917999999999,
+     112.84494,
+     121.88918000000001
+    ],
+    [
+     42.54,
+     125.42995999999994,
+     465.48301200000014,
+     136.40995999999996
+    ],
+    [
+     41.76,
+     136.43199149999998,
+     308.16,
+     314.64
+    ],
+    [
+     42.54,
+     315.14996,
+     538.5044039999999,
+     326.12996000000004
+    ],
+    [
+     42.54,
+     327.92996,
+     538.5197760000001,
+     338.90996
+    ],
+    [
+     42.54,
+     340.70996,
+     538.3506839999999,
+     351.68996000000004
+    ],
+    [
+     42.54,
+     353.48996,
+     538.4582879999999,
+     364.46996
+    ],
+    [
+     42.54,
+     366.26996,
+     538.5801660000001,
+     377.24996000000004
+    ],
+    [
+     42.54,
+     378.98996,
+     287.82112199999983,
+     389.96996
+    ],
+    [
+     189.48,
+     403.25618,
+     538.5244019999997,
+     411.23618
+    ],
+    [
+     454.98,
+     412.49618,
+     538.529802,
+     420.47618
+    ],
+    [
+     70.92,
+     436.22324,
+     391.92030000000045,
+     447.20324
+    ],
+    [
+     70.92,
+     461.54312,
+     157.59941400000002,
+     472.52312
+    ],
+    [
+     70.92,
+     474.20306,
+     175.963464,
+     485.18306
+    ],
+    [
+     70.92,
+     486.863,
+     195.452964,
+     497.843
+    ],
+    [
+     70.92,
+     499.45706,
+     196.08541199999996,
+     510.43706000000003
+    ],
+    [
+     70.92,
+     512.117,
+     305.51428800000014,
+     523.097
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q045_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4077-Q046",
+  "prova_id": "P4077",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 46,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A diversidade religiosa trazida da África para o Brasil pode ser explicada pelo processo escravocrata empreendido pelos europeus a partir do século XVI. A presença marcante dos diferentes grupos iorubás e jejês, vindos do oeste africano, permitiu que os rituais religiosos dos povos africanos recebessem influência de outros rituais e religiões. Em Pernambuco, as matrizes religiosas africanas receberam várias denominações. Sobre isso, assinale a alternativa que indica um ritual de matriz africana frequente na Região Metropolitana do Recife.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Xangôs"
+   },
+   {
+    "letra": "B",
+    "texto": "Catimbó"
+   },
+   {
+    "letra": "C",
+    "texto": "Pajelança"
+   },
+   {
+    "letra": "D",
+    "texto": "Protestantismo"
+   },
+   {
+    "letra": "E",
+    "texto": "Tambor de Crioula"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   29,
+   32
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.54,
+     545.48918,
+     538.5582060000002,
+     556.46918
+    ],
+    [
+     42.54,
+     558.14912,
+     538.554912,
+     569.1291200000001
+    ],
+    [
+     42.54,
+     570.80906,
+     538.5834600000003,
+     581.7890600000001
+    ],
+    [
+     42.54,
+     583.4031200000001,
+     538.6317720000003,
+     594.38312
+    ],
+    [
+     42.54,
+     596.0630600000001,
+     538.705338,
+     607.04306
+    ],
+    [
+     42.54,
+     608.7230000000001,
+     381.85603800000035,
+     619.703
+    ],
+    [
+     70.9233,
+     634.0428800000001,
+     129.38740800000002,
+     645.02288
+    ],
+    [
+     70.9233,
+     646.7028200000001,
+     133.060218,
+     657.68282
+    ],
+    [
+     70.9233,
+     659.2968800000001,
+     140.49807,
+     670.27688
+    ],
+    [
+     70.9233,
+     671.9568200000001,
+     165.43804200000002,
+     682.93682
+    ],
+    [
+     70.9233,
+     684.6167600000001,
+     183.22124999999997,
+     695.59676
+    ]
+   ],
+   "32": [
+    [
+     225.1799927,
+     60.05200190000005,
+     368.81999210000004,
+     104.09199520000004
+    ],
+    [
+     33.9600067,
+     102.05200190000005,
+     63.2400055,
+     162.89199829999995
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2016/PROVA-SSA1-2DIA.pdf",
+  "gabarito_origem": [
+   "P4076"
+  ],
+  "alertas": [
+   "figura na pág. 32 depois da alternativa E foi descartada (não faz parte da questão) — conferir",
+   "figura na pág. 32 depois da alternativa E foi descartada (não faz parte da questão) — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q046_p29.jpg",
+   "revisao/Q046_p32.jpg"
+  ]
+ }
+]

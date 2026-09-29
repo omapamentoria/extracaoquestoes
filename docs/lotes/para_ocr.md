@@ -502,3 +502,4 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2388 — ENEM 2001 regular  — só 13 questões (esperado ~44) — ENEM - 2001 - Prova amarela.pdf
 * P2381 — ENEM 1999 regular  — nenhuma questão — ENEM - 1999 - Prova amarela.pdf
 * P2377 — ENEM 1998 regular  — nenhuma questão — ENEM - 1998 -  Prova amarela.pdf
+* P4142 — SSA 2016 regular 2 — só 16 questões (esperado ~43) — PROVA_SSA2_2DIA.pdf
