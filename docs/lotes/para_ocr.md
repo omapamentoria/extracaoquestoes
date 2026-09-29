@@ -98,7 +98,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2223 — UNICAMP 2021 regular  — só 3 questões em 25 páginas — Prova da área de Ciências Humanas-Artes.pdf
 * P2222 — UNICAMP 2021 regular  — só 3 questões em 25 páginas — Prova da área de Ciências Exatas-Tecnológicas.pdf
 * P2221 — UNICAMP 2021 regular  — só 3 questões em 25 páginas — Prova da área de Ciências Biológicas-Saúde.pdf
-* P2061 — UNESP 2021 regular  — nenhuma questão — UNESP2021_1fase_prova (1).pdf
 * P1617 — UERJ 2021 2021.1  — nenhuma questão — UERJ 2021 - redação.pdf
 * P1616 — UERJ 2021 2021.1  — nenhuma questão — UERJ 2021 - prova.pdf
 * P1555 — UERJ 2021 regular  — nenhuma questão — UERJ 2021, 2022 e 2023.pdf
@@ -109,7 +108,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2213 — UNICAMP 2020 regular 2 — nenhuma questão — unicamp2020_2fase_2dia_prova-2.pdf
 * P2212 — UNICAMP 2020 regular 2 — nenhuma questão — unicamp2020_2fase_2dia_prova-1.pdf
 * P2211 — UNICAMP 2020 regular 1 — só 13 questões em 17 páginas — unicamp2020_2fase_1dia_prova.pdf
-* P2059 — UNESP 2020 regular  — nenhuma questão — Cópia de UNESP2020_1fase_prova.pdf
 * P1612 — UERJ 2020 2020.2  — nenhuma questão — UERJ 2020 - Segundo Exame.pdf
 * P1610 — UERJ 2020 2020.1  — nenhuma questão — UERJ 2020 .pdf
 * P1542 — UERJ 2020 regular  — só 6 questões em 16 páginas — UERJ 2020 - Exame Discursivo - Prova Qu¡mica.pdf
@@ -123,7 +121,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2200 — UNICAMP 2019 regular  — nenhuma questão — matgeohis.pdf
 * P2197 — UNICAMP 2019 regular  — nenhuma questão — fisresp.pdf
 * P2196 — UNICAMP 2019 regular  — nenhuma questão — fisbioqui.pdf
-* P2057 — UNESP 2019 regular  — nenhuma questão — Cópia de UNESP2019_1fase_prova.pdf
 * P1606 — UERJ 2019 2019.2  — nenhuma questão — UERJ 2019 - prova 2º Exame de Qualificação.pdf
 * P1604 — UERJ 2019 2019.1  — nenhuma questão — UERJ 2019 - prova 1º qualificação.pdf
 * P1522 — UERJ 2019 regular  — só 6 questões em 16 páginas — UERJ 2019 - Exame Discursivo - Prova Qu¡mica.pdf
