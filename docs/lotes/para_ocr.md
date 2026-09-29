@@ -73,3 +73,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2851 — SIMULADO_ENEM 2023  1 — 94 de 94 questões PENDENTES (símbolos sem tradução) — simulado enem 1 dia.pdf
 * P2847 — SIMULADO_ENEM 2023  1 — 93 de 93 questões PENDENTES (símbolos sem tradução) — Simulado enem  primeiro dia.pdf
 * P2846 — SIMULADO_ENEM 2023  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — Simulado Enem segundo dia.pdf
+* P2841 — SIMULADO_ENEM 2022  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 3-Primeiro Dia.pdf
+* P2839 — SIMULADO_ENEM 2022  2 — 89 de 90 questões PENDENTES (símbolos sem tradução) — 3- Segundo Dia.pdf
+* P2837 — SIMULADO_ENEM 2022  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 2-Primeiro Dia.pdf
