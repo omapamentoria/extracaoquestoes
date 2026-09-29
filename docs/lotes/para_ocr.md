@@ -411,3 +411,9 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1253 — DEMAIS 2022 regular  — só 11 questões (esperado ~55) — prova tipo 1 - 2022.PDF
 * P0768 — DEMAIS 2022 regular  — só 20 questões em 28 páginas — Prova 2.pdf
 * P0723 — DEMAIS 2022 regular  — 30 de 30 questões PENDENTES (símbolos sem tradução) — famema2022 Tipo1.pdf
+* P1933 — DEMAIS 2021 regular  — só 15 questões em 30 páginas — UFU 2021 2º Fase (Todos os cursos).pdf
+* P1932 — DEMAIS 2021 regular  — 14 de 15 questões PENDENTES (símbolos sem tradução) — UFU 2021 2º Fase (Todos os cursos) (Francês).pdf
+* P1917 — DEMAIS 2021 regular  — 12 de 13 questões PENDENTES (símbolos sem tradução) — UFU 2021 1º Fase (Todos os cursos) (Francês).pdf
+* P1914 — DEMAIS 2021 regular  — só 15 questões em 32 páginas — UFU 2021 2º Fase (Medicina).pdf
+* P1913 — DEMAIS 2021 regular  — 14 de 15 questões PENDENTES (símbolos sem tradução) — UFU 2021 2º Fase (Medicina) (Francês).pdf
+* P1898 — DEMAIS 2021 regular  — 12 de 13 questões PENDENTES (símbolos sem tradução) — UFU 2021 1º Fase (Medicina) (Francês).pdf
