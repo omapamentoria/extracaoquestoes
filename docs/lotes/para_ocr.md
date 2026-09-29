@@ -15,32 +15,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2526 — ENEM 2014 3ª aplicação 1 — texto: corrompido — ENEM - 2014 (3° apli.) - 1° dia - Prova branca.pdf
 * P2463 — ENEM 2021 PPL/reaplicação 2 — 89 de 90 questões PENDENTES (símbolos sem tradução) — enem 2021 PPL - 2 dia PROVA.pdf
 * P2460 — ENEM 2021 PPL/reaplicação 1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — enem 2021 PPL - 1 dia PROVA.pdf
-* P2579 — ENEM 2020 digital 2 — só 12 questões (esperado ~90) — enem2020_digital_2dia_prova_amarelo.pdf
-* P2576 — ENEM 2020 digital 1 — só 12 questões (esperado ~90) — enem2020_digital_1dia_prova_amarelo.pdf
 * P2513 — ENEM 2012 regular 2 — 93 de 93 questões PENDENTES (símbolos sem tradução) — ENEM - 2012 - 2° dia - Prova cinza.pdf
 * P2509 — ENEM 2012 regular 1 — 90 de 90 questões PENDENTES (símbolos sem tradução) — ENEM - 2012 - 1° dia - Prova cinza.pdf
 * P2500 — ENEM 2010 regular 2 — 95 de 95 questões PENDENTES (símbolos sem tradução) — ENEM - 2010 - 2° dia - Prova amarela (COM  GABARITO).pdf
-* P2423 — ENEM 2010 PPL/reaplicação 2 — só 19 questões (esperado ~90) — ENEM PPL - 2010 (2°apli) - 2° dia - Prova azul.pdf
 * P2421 — ENEM 2010 PPL/reaplicação 1 — 45 de 70 questões PENDENTES (símbolos sem tradução) — ENEM PPL - 2010 (2°apli) - 1° dia - Prova azul.pdf
-* P2494 — ENEM 2009 regular 2 — nenhuma questão — ENEM - 2009  - 2°dia - Prova amarela.pdf
-* P2491 — ENEM 2009 regular 1 — só 9 questões (esperado ~90) — ENEM - 2009 - 1°dia - Prova amarela.pdf
-* P2489 — ENEM 2009 prova vazada (2009) 2 — nenhuma questão — ENEM - 2009 (F) - 2°dia - Prova amarela.pdf
-* P2487 — ENEM 2009 prova vazada (2009) 1 — nenhuma questão — ENEM - 2009 (F) - 1°dia - Prova amarela.pdf
-* P2418 — ENEM 2009 PPL/reaplicação 2 — nenhuma questão — ENEM PPL - 2009 (2° apli.) - 2° dia - Prova branca.pdf
-* P2417 — ENEM 2009 PPL/reaplicação 1 — só 4 questões (esperado ~90) — ENEM PPL - 2009 (2° apli.) - 1° dia - Prova branca.pdf
-* P2414 — ENEM 2008 regular  — só 4 questões (esperado ~63) — ENEM - 2008 - Prova amarela.pdf
-* P2408 — ENEM 2007 regular  — nenhuma questão — ENEM - 2007 - Prova amarela(1).pdf
-* P2403 — ENEM 2006 regular  — nenhuma questão — ENEM - 2006 - Prova amarela.pdf
-* P2397 — ENEM 2004 regular  — só 13 questões (esperado ~52) — ENEM - 2004 - Prova amarela.pdf
-* P2388 — ENEM 2001 regular  — só 13 questões (esperado ~44) — ENEM - 2001 - Prova amarela.pdf
-* P2381 — ENEM 1999 regular  — nenhuma questão — ENEM - 1999 - Prova amarela.pdf
-* P2377 — ENEM 1998 regular  — nenhuma questão — ENEM - 1998 -  Prova amarela.pdf
-* P4232 — SSA 2021 regular 2 — só 20 questões (esperado ~49) — CADERNO-DE-PROVAS-3FASE-2DIA.pdf
-* P4084 — SSA 2018 regular 2 — só 20 questões (esperado ~42) — CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf
-* P4207 — SSA 2016 regular 2 — só 21 questões (esperado ~46) — PROVA-SSA3-2-DIA.pdf
-* P4142 — SSA 2016 regular 2 — só 16 questões (esperado ~43) — PROVA_SSA2_2DIA.pdf
-* P4141 — SSA 2016 regular 1 — só 22 questões (esperado ~48) — PROVA-SSA2-1-DIA.pdf
-* P4077 — SSA 2016 regular 2 — só 20 questões (esperado ~42) — PROVA-SSA1-2DIA.pdf
 * P2904 — SIMULADO_ENEM 2022  1 — texto: parcialmente corrompido — SOMOS 1 - PRIMEIRO DIA.pdf
 * P2907 — SIMULADO_ENEM 2022  1 — texto: parcialmente corrompido — 1ºDia - Prova.pdf
 * P2909 — SIMULADO_ENEM 2022  2 — texto: corrompido — 2º Dia - Prova.pdf
@@ -513,3 +491,9 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1986 — DEMAIS 2006 2006.2  — 26 de 26 questões PENDENTES (símbolos sem tradução) — vestibular_2006_2_caderno_1.pdf
 * P1983 — DEMAIS 2006 2006.1  — só 13 questões (esperado ~40) — caderno_2_2006_1.pdf
 * P1982 — DEMAIS 2006 2006.1  — só 7 questões (esperado ~49) — caderno_1_2006_1.pdf
+* P2579 — ENEM 2020 digital 2 — só 12 questões (esperado ~90) — enem2020_digital_2dia_prova_amarelo.pdf
+* P2576 — ENEM 2020 digital 1 — só 12 questões (esperado ~90) — enem2020_digital_1dia_prova_amarelo.pdf
+* P2423 — ENEM 2010 PPL/reaplicação 2 — 65 de 89 questões PENDENTES (símbolos sem tradução) — ENEM PPL - 2010 (2°apli) - 2° dia - Prova azul.pdf
+* P2489 — ENEM 2009 prova vazada (2009) 2 — nenhuma questão — ENEM - 2009 (F) - 2°dia - Prova amarela.pdf
+* P2487 — ENEM 2009 prova vazada (2009) 1 — nenhuma questão — ENEM - 2009 (F) - 1°dia - Prova amarela.pdf
+* P2408 — ENEM 2007 regular  — nenhuma questão — ENEM - 2007 - Prova amarela(1).pdf
