@@ -185,9 +185,9 @@ Extrator v139 (regras condicionais; regressão das 9 provas-base sem nenhuma mud
 * ✔ P1699 — UFGD 2014 — Prova_Objetiva_PSV-2014.pdf
 * ✔ P1983 — UNEMAT 2006 — caderno_2_2006_1.pdf
 * ✔ P1982 — UNEMAT 2006 — caderno_1_2006_1.pdf
-* ✘ P2397 — ENEM 2004 — ENEM - 2004 - Prova amarela.pdf
-* ✔ P2388 — ENEM 2001 — ENEM - 2001 - Prova amarela.pdf
-* ✔ P2381 — ENEM 1999 — ENEM - 1999 - Prova amarela.pdf
+* ✘ P2397 — ENEM 2004 — ENEM - 2004 - Prova amarela.pdf (fora do banco: ENEM anterior a 2005)
+* ✘ P2388 — ENEM 2001 — ENEM - 2001 - Prova amarela.pdf (fora do banco: ENEM anterior a 2005)
+* ✘ P2381 — ENEM 1999 — ENEM - 1999 - Prova amarela.pdf (fora do banco: ENEM anterior a 2005)
 * ✘ P2377 — ENEM 1998 — ENEM - 1998 -  Prova amarela.pdf (fora do banco por decisão do Matheus: muitos erros)
 
 ## Outros

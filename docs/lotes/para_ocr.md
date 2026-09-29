@@ -143,5 +143,4 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2487 — ENEM 2009 prova vazada (2009) 1 — nenhuma questão — ENEM - 2009 (F) - 1°dia - Prova amarela.pdf
 * P2408 — ENEM 2007 regular  — nenhuma questão — ENEM - 2007 - Prova amarela(1).pdf
 * P2403 — ENEM 2006 regular  — nenhuma questão — ENEM - 2006 - Prova amarela.pdf
-* P2397 — ENEM 2004 regular  — só 13 questões (esperado ~52) — ENEM - 2004 - Prova amarela.pdf
 * P4142 — SSA 2016 regular 2 — só 16 questões (esperado ~43) — PROVA_SSA2_2DIA.pdf

@@ -125,7 +125,7 @@ Ainda abertos:
 * As outras provas de OCR ficaram na lista por terem mais da metade das questões PENDENTES (alternativas não separadas) ou o número da questão em caixa preta (o OCR não lê): próximo passo é visão
 * Discursivas: 40 das "outras" (UEL 2ª fase por disciplina, FAMERP dia 2, UERJ discursiva) entraram no formato discursivo, com alerta. As 23 discursivas de texto ruim ainda não passaram pelo OCR
 * Página "Revisão de Alertas MAPA" (https://claude.ai/artifact/Qb2GDy8uJShaYgm5mchRfp): 3.231 questões com alerta das 117 provas recuperadas. As marcações ("certa"/"tem erro" + nota) ficam na coleção `revisao` do banco de dados da página (o Claude lê com ArtifactData). Gerada por `ferramentas_nuvem/rev_alertas.py`
-* ENEM 1998 (P2377): fora do banco por decisão do Matheus (muitos erros). Lista em `docs/lotes/fora_do_banco.txt`, respeitada pelo `lote.py`
+* ENEM anteriores a 2005 (1998 a 2004: P2377, P2381, P2384, P2388, P2391, P2394, P2397): fora do banco por decisão do Matheus (muitos erros). Lista em `docs/lotes/fora_do_banco.txt`, respeitada pelo `lote.py`
 * Arquivos que não são a prova: FATEC 2020_2/2021 (P0828), Famerp 2020 (P0760), unemat.pdf (P2037), ENEM 2007 (P2408): 1 página só
 
 ## Decisões em aberto
