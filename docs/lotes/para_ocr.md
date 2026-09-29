@@ -52,3 +52,8 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P3504 — SIMULADO_ENEM 2025  2 — só 10 questões (esperado ~84) — 2º Simulado SAS Enem 2025- prova 2º Dia.pdf
 * P3498 — SIMULADO_ENEM 2025  2 — nenhuma questão — 1º SAS 2025 - D2 .pdf
 * P3497 — SIMULADO_ENEM 2025  1 — só 4 questões (esperado ~89) — 1º SAS 2025 - D1.pdf
+* P2976 — SIMULADO_ENEM 2025  2 — 48 de 73 questões PENDENTES (símbolos sem tradução) — 1º SOMOS 2025 - D2.pdf
+* P2765 — SIMULADO_ENEM 2025  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 3º SIMULADO FARIAS BRITO 2025 - PROVA DIA 02.pdf
+* P2764 — SIMULADO_ENEM 2025  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 3º SIMULADO FARIAS BRITO 2025 - PROVA DIA 01.pdf
+* P2761 — SIMULADO_ENEM 2025  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 2º SIMULADO FARIAS BRITO 2025 - PROVA DIA 02.pdf
+* P2760 — SIMULADO_ENEM 2025  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 2º SIMULADO FARIAS BRITO 2025 - PROVA DIA 01.pdf
