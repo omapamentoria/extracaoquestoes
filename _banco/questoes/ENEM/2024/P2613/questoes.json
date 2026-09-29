@@ -3086,8 +3086,7 @@
    "P2612"
   ],
   "alertas": [
-   "alternativas B, E são texto desenhado no PDF (sem camada de texto): recortadas como imagem — precisam ser transcritas",
-   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+   "alternativas são desenhos de vetores (setas), conferidos na imagem da página em 29/09/2026 — B e E são setas horizontais, não texto"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -9208,23 +9207,23 @@
   "alternativas": [
    {
     "letra": "A",
-    "texto": "\\(\\frac{7!}{4!}\\) × \\(\\frac{6!}{4!}\\)"
+    "texto": "\\(\\frac{7!}{4!} \\times \\frac{6!}{4!}\\)"
    },
    {
     "letra": "B",
-    "texto": "\\(\\frac{7!}{3!\\,×\\,4!}\\) × \\(\\frac{6!}{2!\\,×\\,4!}\\)"
+    "texto": "\\(\\frac{7!}{3! \\times 4!} \\times \\frac{6!}{2! \\times 4!}\\)"
    },
    {
     "letra": "C",
-    "texto": "\\(\\frac{7!}{3!\\,×\\,4!}\\) + \\(\\frac{6!}{2!\\,×\\,4!}\\) + \\(\\frac{5!}{1!\\,×\\,4!}\\)\n\n(cid:26) (cid:29) (cid:26) (cid:29) (cid:29) (cid:26)"
+    "texto": "\\(\\frac{7!}{3! \\times 4!} + \\frac{6!}{2! \\times 4!} + \\frac{5!}{1! \\times 4!}\\)"
    },
    {
     "letra": "D",
-    "texto": "(cid:27) \\(\\frac{7!}{3!\\,×\\,4!}\\) + \\(\\frac{6!}{2!\\,×\\,4!}\\) (cid:24) × (cid:27) \\(\\frac{7!}{4!\\,×\\,3!}\\) + \\(\\frac{6!}{1!\\,×\\,5!}\\) (cid:24) × (cid:27) \\(\\frac{7!}{5!\\,×\\,2!}\\) + \\(\\frac{6!}{0!\\,×\\,6!}\\) (cid:24) (cid:25) (cid:28) (cid:25) (cid:28) (cid:28) (cid:25) (cid:27) (cid:30) (cid:27) (cid:30) (cid:30) (cid:27)"
+    "texto": "\\(\\left(\\frac{7!}{3! \\times 4!} + \\frac{6!}{2! \\times 4!}\\right) \\times \\left(\\frac{7!}{4! \\times 3!} + \\frac{6!}{1! \\times 5!}\\right) \\times \\left(\\frac{7!}{5! \\times 2!} + \\frac{6!}{0! \\times 6!}\\right)\\)"
    },
    {
     "letra": "E",
-    "texto": "(cid:28) \\(\\frac{7!}{3!\\,×\\,4!}\\) × \\(\\frac{6!}{2!\\,×\\,4!}\\) (cid:25) + (cid:28) \\(\\frac{7!}{4!\\,×\\,3!}\\) × \\(\\frac{6!}{1!\\,×\\,5!}\\) (cid:25) + (cid:28) \\(\\frac{7!}{5!\\,×\\,2!}\\) × \\(\\frac{6!}{0!\\,×\\,6!}\\) (cid:25) (cid:26) (cid:29) (cid:26) (cid:29) (cid:29) (cid:26)"
+    "texto": "\\(\\left(\\frac{7!}{3! \\times 4!} \\times \\frac{6!}{2! \\times 4!}\\right) + \\left(\\frac{7!}{4! \\times 3!} \\times \\frac{6!}{1! \\times 5!}\\right) + \\left(\\frac{7!}{5! \\times 2!} \\times \\frac{6!}{0! \\times 6!}\\right)\\)"
    }
   ],
   "apos_alternativas": "",
@@ -9418,25 +9417,7 @@
   ],
   "alertas": [
    "símbolos lidos de glifos-imagem do PDF (fonte Type3: ×, ≈, sinais) — conferir com a página",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:26) (cid:29)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:26) (cid:29)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:29)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “D (cid:27) \\(\\frac{7!}{3!\\,×\\,4!}\\) + \\(\\frac{6!}{2!\\,×\\,4!}\\) (cid:24” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:25) (cid:28)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:25) (cid:28)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:28)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:25)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:27) (cid:30)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:27) (cid:30)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:30)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:27)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “E (cid:28) \\(\\frac{7!}{3!\\,×\\,4!}\\) × \\(\\frac{6!}{2!\\,×\\,4!}\\) (cid:25” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:26) (cid:29)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:26) (cid:29)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:29)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+   "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -9647,23 +9628,23 @@
   "alternativas": [
    {
     "letra": "A",
-    "texto": "*d Q*) = \\(\\frac{1}{4}\\) *d R*) ( ("
+    "texto": "*d* (*Q* = \\(\\frac{1}{4}\\) *d* (*R* ) )"
    },
    {
     "letra": "B",
-    "texto": "*d Q*) = \\(\\frac{1}{2}\\) *d R*) ( ("
+    "texto": "*d* (*Q* = \\(\\frac{1}{2}\\) *d* (*R* ) )"
    },
    {
     "letra": "C",
-    "texto": "*d Q*) = \\(\\frac{3}{4}\\) *d R*) ( ("
+    "texto": "*d* (*Q* = \\(\\frac{3}{4}\\) *d* (*R* ) )"
    },
    {
     "letra": "D",
-    "texto": "*d Q*) = \\(\\frac{3}{2}\\) *d R*) ( ("
+    "texto": "*d* (*Q* = \\(\\frac{3}{2}\\) *d* (*R* ) )"
    },
    {
     "letra": "E",
-    "texto": "*d Q*) = \\(\\frac{2}{3}\\) *d R*) ( ("
+    "texto": "*d* (*Q* = \\(\\frac{2}{3}\\) *d* (*R* ) )"
    }
   ],
   "apos_alternativas": "",
@@ -9750,91 +9731,91 @@
     [
      66.0236,
      572.536566,
+     143.25975,
+     585.591866
+    ],
+    [
+     103.65925,
+     572.536566,
+     106.906,
+     585.591866
+    ],
+    [
+     144.34449999999998,
+     572.536566,
      147.59124999999997,
      585.591866
     ],
     [
-     91.969,
-     572.536566,
-     95.21575,
-     585.591866
-    ],
-    [
-     132.469,
-     572.536566,
-     135.71574999999999,
-     585.591866
-    ],
-    [
      66.0236,
+     604.205766,
+     142.977,
+     617.261066
+    ],
+    [
+     103.65925,
+     604.205766,
+     106.906,
+     617.261066
+    ],
+    [
+     144.0632,
      604.205766,
      147.30995,
      617.261066
     ],
     [
-     91.969,
-     604.205766,
-     95.21575,
-     617.261066
-    ],
-    [
-     132.1877,
-     604.205766,
-     135.43445,
-     617.261066
-    ],
-    [
      66.0236,
+     635.875066,
+     143.25975,
+     648.9303659999999
+    ],
+    [
+     103.65925,
+     635.875066,
+     106.906,
+     648.9303659999999
+    ],
+    [
+     144.34449999999998,
      635.875066,
      147.59124999999997,
      648.9303659999999
     ],
     [
-     91.969,
-     635.875066,
-     95.21575,
-     648.9303659999999
-    ],
-    [
-     132.469,
-     635.875066,
-     135.71574999999999,
-     648.9303659999999
-    ],
-    [
      66.0236,
+     667.544366,
+     142.977,
+     680.599666
+    ],
+    [
+     103.65925,
+     667.544366,
+     106.906,
+     680.599666
+    ],
+    [
+     144.0632,
      667.544366,
      147.30995,
      680.599666
     ],
     [
-     91.969,
-     667.544366,
-     95.21575,
-     680.599666
-    ],
-    [
-     132.1877,
-     667.544366,
-     135.43445,
-     680.599666
-    ],
-    [
      66.0236,
      699.213666,
+     142.977,
+     712.268966
+    ],
+    [
+     103.65925,
+     699.213666,
+     106.906,
+     712.268966
+    ],
+    [
+     144.0632,
+     699.213666,
      147.30995,
-     712.268966
-    ],
-    [
-     91.969,
-     699.213666,
-     95.21575,
-     712.268966
-    ],
-    [
-     132.1877,
-     699.213666,
-     135.43445,
      712.268966
     ]
    ]
@@ -11359,7 +11340,7 @@
   "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
   "texto_base_id": null,
   "textos_base_ids": [],
-  "enunciado": "Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram magnitudes *M*<sub>1</sub> e *M*<sub>2</sub>, medidos segundo a escala Richter, e liberaram energias iguais a *E*<sub>1</sub> e *E*<sub>2</sub>, respectivamente. Entre os estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores dada por\n\n(cid:29) (cid:26)\n\n*M*<sub>2</sub> - *M*<sub>1</sub> = \\(\\frac{2}{3}\\) *log* (cid:27) \\(\\frac{E_{2}}{E_{1}}\\) (cid:24)\n\n(cid:28) (cid:25)\n\nEstudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude *M*<sub>1</sub> = 6,9 e a energia liberada foi um décimo da observada no segundo terremoto.\n\nO valor aproximado da magnitude *M*<sub>2</sub> do segundo terremoto, expresso com uma casa decimal, é igual a",
+  "enunciado": "Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram magnitudes *M*<sub>1</sub> e *M*<sub>2</sub>, medidos segundo a escala Richter, e liberaram energias iguais a *E*<sub>1</sub> e *E*<sub>2</sub>, respectivamente. Entre os estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores dada por\n\n\\(M_{2} - M_{1} = \\frac{2}{3}\\,log\\left(\\frac{E_{2}}{E_{1}}\\right)\\)\n\nEstudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude *M*<sub>1</sub> = 6,9 e a energia liberada foi um décimo da observada no segundo terremoto.\n\nO valor aproximado da magnitude *M*<sub>2</sub> do segundo terremoto, expresso com uma casa decimal, é igual a",
   "fontes": [],
   "alternativas": [
    {
@@ -11489,11 +11470,8 @@
    "P2612"
   ],
   "alertas": [
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:29) (cid:26)” — transcrever lendo a imagem",
    "símbolos lidos de glifos-imagem do PDF (fonte Type3: ×, ≈, sinais) — conferir com a página",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “M 2 - M 1 = \\(\\frac{2}{3}\\) log (cid:27) \\(\\frac{E_{2}}{E_{1}}\\) (cid:” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:28) (cid:25)” — transcrever lendo a imagem",
-   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+   "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [

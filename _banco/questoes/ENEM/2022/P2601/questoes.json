@@ -3285,7 +3285,7 @@
   "area": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
   "texto_base_id": null,
   "textos_base_ids": [],
-  "enunciado": "Tribologia é o estudo da interação entre duas superfícies em contato, como desgaste e atrito, sendo de extrema importância na avaliação de diferentes produtos e de bens de consumo em geral. Para testar a conformidade de uma muleta, realiza-se um ensaio tribológico, pressionando-a verticalmente contra o piso\n\n  \ncom uma força F, conforme ilustra a imagem, em que **CM** representa o centro de massa da muleta.\n\n{{img:1}}\n\nMantendo-se a força F paralela à muleta, varia-se lentamente o ângulo entre a muleta e a vertical, até o máximo ângulo imediatamente anterior ao de escorregamento, denominado ângulo crítico. Esse ângulo também pode ser calculado a partir da identificação dos pontos de aplicação,\n\n  \n  \n( )\n\n(cid:31) (cid:30) da direção e do sentido das forças peso P , normal N e\n\n  \n(cid:30) (cid:29)  \nde atrito estático (cid:31)*<sub>e</sub>* .\n\nO esquema que representa corretamente todas as forças que atuam sobre a muleta quando ela atinge o ângulo crítico é:",
+  "enunciado": "Tribologia é o estudo da interação entre duas superfícies em contato, como desgaste e atrito, sendo de extrema importância na avaliação de diferentes produtos e de bens de consumo em geral. Para testar a conformidade de uma muleta, realiza-se um ensaio tribológico, pressionando-a verticalmente contra o piso com uma força \\(\\vec{F}\\), conforme ilustra a imagem, em que **CM** representa o centro de massa da muleta.\n\n{{img:1}}\n\nMantendo-se a força \\(\\vec{F}\\) paralela à muleta, varia-se lentamente o ângulo entre a muleta e a vertical, até o máximo ângulo imediatamente anterior ao de escorregamento, denominado ângulo crítico. Esse ângulo também pode ser calculado a partir da identificação dos pontos de aplicação, da direção e do sentido das forças peso \\(\\left(\\vec{P}\\right)\\), normal \\(\\left(\\vec{N}\\right)\\) e de atrito estático \\(\\left(\\vec{f}_{e}\\right)\\).\n\nO esquema que representa corretamente todas as forças que atuam sobre a muleta quando ela atinge o ângulo crítico é:",
   "fontes": [],
   "alternativas": [
    {
@@ -3614,13 +3614,8 @@
    "P2600"
   ],
   "alertas": [
-   "PENDENTE: há um trecho desenhado (caractere que o PDF não traduz: chave, parêntese grande ou sinal de fórmula) na linha “” — transcrever lendo a imagem",
    "símbolos lidos de glifos-imagem do PDF (fonte Type3: ×, ≈, sinais) — conferir com a página",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:31) (cid:30)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:30) (cid:29)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “de atrito estático (cid:31) e .” — transcrever lendo a imagem",
-   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
-   "caractere estranho no texto"
+   "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir; alternativas A–E são os esquemas recortados (conferidos)"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -3788,7 +3783,7 @@
   "area": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
   "texto_base_id": null,
   "textos_base_ids": [],
-  "enunciado": "O ácido tartárico é o principal ácido do vinho e está diretamente relacionado com sua qualidade. Na avaliação de um vinho branco em produção, uma analista neutralizou uma alíquota de 25,0 mL do vinho com NaOH a 0,10 mol L<sup>−1</sup>, consumindo um volume igual a 8,0 mL dessa base. A reação para esse processo de titulação é representada pela equação química:\n\n{{img:1}}\n\nONa  2 H<sub>2</sub>O\n\nA concentração de ácido tartárico no vinho analisado é mais próxima de:\n\n−1",
+  "enunciado": "O ácido tartárico é o principal ácido do vinho e está diretamente relacionado com sua qualidade. Na avaliação de um vinho branco em produção, uma analista neutralizou uma alíquota de 25,0 mL do vinho com NaOH a 0,10 mol L<sup>−1</sup>, consumindo um volume igual a 8,0 mL dessa base. A reação para esse processo de titulação é representada pela equação química:\n\n{{img:1}}\n\nA concentração de ácido tartárico no vinho analisado é mais próxima de:\n\n−1",
   "fontes": [],
   "alternativas": [
    {
@@ -3821,7 +3816,7 @@
     "bbox": [
      89.3,
      569.3,
-     411.8,
+     473.7,
      653.1
     ]
    }
@@ -3866,14 +3861,8 @@
     [
      89.29489519999993,
      569.2743899,
-     411.84000000000003,
-     653.0863019000001
-    ],
-    [
-     412.3133,
-     584.178354,
      473.6992046,
-     596.0436179000001
+     653.0863019000001
     ],
     [
      31.1811,
@@ -3923,12 +3912,8 @@
   "gabarito_origem": [
    "P2600"
   ],
-  "alertas": [
-   "PENDENTE: há um trecho desenhado (caractere que o PDF não traduz: chave, parêntese grande ou sinal de fórmula) na linha “ONa  2 H 2 O” — transcrever lendo a imagem",
-   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
-   "caractere estranho no texto"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q110_p8.jpg"
   ]
@@ -3947,7 +3932,7 @@
   "area": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
   "texto_base_id": null,
   "textos_base_ids": [],
-  "enunciado": "O manual de uma ducha elétrica informa que seus três níveis de aquecimento (morno, quente e superquente) apresentam as seguintes variações de temperatura da água em função de sua vazão:\n\n{{img:1}}\n\nUtiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas elétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pela corrente nominal igual ao múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia é dissipada através da resistência do chuveiro e convertida em energia térmica transferida para a água, que apresenta\n\ncalor específico de 4,2 \\(\\frac{J}{g(cid:31)(cid:30)C}\\) e densidade de 1 000 \\(\\frac{g}{L}\\) .\n\nO disjuntor adequado para a proteção dessa ducha é especificado por:",
+  "enunciado": "O manual de uma ducha elétrica informa que seus três níveis de aquecimento (morno, quente e superquente) apresentam as seguintes variações de temperatura da água em função de sua vazão:\n\n{{img:1}}\n\nUtiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas elétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pela corrente nominal igual ao múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia é dissipada através da resistência do chuveiro e convertida em energia térmica transferida para a água, que apresenta calor específico de 4,2 \\(\\frac{J}{g\\,°C}\\) e densidade de 1 000 \\(\\frac{g}{L}\\).\n\nO disjuntor adequado para a proteção dessa ducha é especificado por:",
   "fontes": [],
   "alternativas": [
    {
@@ -4131,8 +4116,7 @@
    "P2600"
   ],
   "alertas": [
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “calor específico de 4,2 \\(\\frac{J}{g(cid:31)(cid:30)C}\\) e densidade d” — transcrever lendo a imagem",
-   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+   "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -11193,28 +11177,28 @@
   "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
   "texto_base_id": null,
   "textos_base_ids": [],
-  "enunciado": "Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos os seus apartamentos à venda. Os apartamentos são identificados por números formados por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento, e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar. Quanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes características, em função de seus números de identificação:\n\n• naqueles que finalizam em 1 ou 2, ambos os quartos recebem sol apenas na parte da manhã;\n\n• naqueles que finalizam em 3, 4, 5 ou 6, apenas um dos quartos recebe sol na parte da manhã;\n\n• naqueles que finalizam em 7 ou 8, ambos os quartos recebem sol apenas na parte da tarde.\n\nUma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas quer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã.\n\nDe quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos para compra nas condições desejadas?\n\n\\(\\frac{6!}{(_{6}_{−}_{2})_{!}}\\)",
+  "enunciado": "Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos os seus apartamentos à venda. Os apartamentos são identificados por números formados por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento, e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar. Quanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes características, em função de seus números de identificação:\n\n• naqueles que finalizam em 1 ou 2, ambos os quartos recebem sol apenas na parte da manhã;\n\n• naqueles que finalizam em 3, 4, 5 ou 6, apenas um dos quartos recebe sol na parte da manhã;\n\n• naqueles que finalizam em 7 ou 8, ambos os quartos recebem sol apenas na parte da tarde.\n\nUma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas quer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã.\n\nDe quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos para compra nas condições desejadas?",
   "fontes": [],
   "alternativas": [
    {
     "letra": "A",
-    "texto": "9×\n\n\\(\\frac{6!}{(_{6}_{−}_{2})_{!}_{×}_{2}_{!}}\\)"
+    "texto": "\\(9 \\times \\frac{6!}{(6-2)!}\\)"
    },
    {
     "letra": "B",
-    "texto": "9×\n\n\\(\\frac{4!}{(_{4}_{−}_{2})_{!}_{×}_{2}_{!}}\\)"
+    "texto": "\\(9 \\times \\frac{6!}{(6-2)! \\times 2!}\\)"
    },
    {
     "letra": "C",
-    "texto": "9×\n\n\\(\\frac{2!}{(_{2}_{−}_{2})_{!}_{×}_{2}_{!}}\\)"
+    "texto": "\\(9 \\times \\frac{4!}{(4-2)! \\times 2!}\\)"
    },
    {
     "letra": "D",
-    "texto": "9×\n\n(cid:27) (cid:24) \\(\\frac{8!}{(_{8}_{−}_{2})_{!}_{×}_{2}_{!}}\\)"
+    "texto": "\\(9 \\times \\frac{2!}{(2-2)! \\times 2!}\\)"
    },
    {
     "letra": "E",
-    "texto": "9×(cid:25) −1(cid:22) (cid:25) (cid:22) (cid:26) (cid:23)"
+    "texto": "\\(9 \\times \\left(\\frac{8!}{(8-2)! \\times 2!} - 1\\right)\\)"
    }
   ],
   "apos_alternativas": "",
@@ -11371,51 +11355,27 @@
      367.2499500000004
     ],
     [
-     320.423,
+     289.1339,
      379.8645,
      350.11,
-     389.66450000000003
-    ],
-    [
-     289.1339,
-     380.0915,
-     319.18170000000003,
      392.83660000000003
     ],
     [
-     320.423,
+     289.1339,
      423.86170000000004,
      365.204,
-     433.66170000000005
-    ],
-    [
-     289.1339,
-     424.0887,
-     319.18170000000003,
      436.12510000000003
     ],
     [
-     320.423,
+     289.1339,
      467.1503,
      365.361,
-     476.9503
-    ],
-    [
-     289.1339,
-     467.3773,
-     319.182,
      480.1224
     ],
     [
-     320.423,
+     289.1339,
      511.1476,
      365.079,
-     520.9476
-    ],
-    [
-     289.1339,
-     511.3746,
-     319.18170000000003,
      522.7023
     ],
     [
@@ -11431,20 +11391,8 @@
      558.9187000000001
     ],
     [
-     325.2042,
-     556.7274000000001,
-     369.8292,
-     566.5274000000001
-    ],
-    [
      289.1339,
-     556.9499000000001,
-     323.72950000000003,
-     567.72365
-    ],
-    [
-     371.57645,
-     556.9499000000001,
+     556.7274000000001,
      386.19775000000004,
      567.72365
     ],
@@ -11480,15 +11428,7 @@
   ],
   "alertas": [
    "símbolos lidos de glifos-imagem do PDF (fonte Type3: ×, ≈, sinais) — conferir com a página",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:27)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:24)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “E 9 × (cid:25)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “− 1 (cid:22)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:25)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:22)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:23)” — transcrever lendo a imagem",
-   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+   "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -14025,7 +13965,7 @@
   "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
   "texto_base_id": null,
   "textos_base_ids": [],
-  "enunciado": "O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades:\n\n• Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas, conforme ilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme Figura 3.\n\n{{img:1}}\n\n\n\n{{img:2}}\n\n• Em seguida, no papel dobrado da Figura 3, considerar o ponto *R*, sobre o segmento *OM*, sendo *M* o ponto\n\nmédio do lado do quadrado original, de modo que *OR* = \\(\\frac{1}{4}\\) *OM*, traçar um arco de circunferência de raio\n\nmedindo \\(\\frac{1}{2}\\) *OM* com centro no ponto *R*, obtendo a Figura 4. Por último, recortar o papel ao longo do arco\n\nde circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5.\n\n{{img:3}}\n\n⇒\n\n{{img:4}}\n\nApós desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será",
+  "enunciado": "O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades:\n\n• Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas, conforme ilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme Figura 3.\n\n{{img:1}}\n\n⇒\n\n{{img:2}}\n\n• Em seguida, no papel dobrado da Figura 3, considerar o ponto *R*, sobre o segmento *OM*, sendo *M* o ponto\n\nmédio do lado do quadrado original, de modo que *OR* = \\(\\frac{1}{4}\\) *OM*, traçar um arco de circunferência de raio\n\nmedindo \\(\\frac{1}{2}\\) *OM* com centro no ponto *R*, obtendo a Figura 4. Por último, recortar o papel ao longo do arco\n\nde circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5.\n\n{{img:3}}\n\n⇒\n\n{{img:4}}\n\nApós desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será",
   "fontes": [],
   "alternativas": [
    {
@@ -14315,11 +14255,8 @@
    "P2600"
   ],
   "alertas": [
-   "PENDENTE: há um trecho desenhado (caractere que o PDF não traduz: chave, parêntese grande ou sinal de fórmula) na linha “” — transcrever lendo a imagem",
-   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
-   "texto curto solto junto da imagem (“”): pode ser rótulo da figura — conferir",
    "texto curto solto junto da imagem (“⇒”): pode ser rótulo da figura — conferir",
-   "caractere estranho no texto"
+   "texto curto solto junto da imagem (“⇒”): pode ser rótulo da figura — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -16414,7 +16351,7 @@
   "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
   "texto_base_id": null,
   "textos_base_ids": [],
-  "enunciado": "O funcionário de uma loja tem seu salário mensal formado por uma parcela fixa de 675 reais mais uma comissão que depende da quantidade de peças vendidas por ele no mês. O cálculo do valor dessa comissão é feito de acordo com estes critérios:\n\n• até a quinquagésima peça vendida, paga-se 5 reais por peça;  \n• a partir da quinquagésima primeira peça vendida, o valor pago é de 7 reais por peça.\n\nRepresente por *q* a quantidade de peças vendidas no mês por esse funcionário, e por *S*(*q*) o seu salário mensal, em real, nesse mês.  \nA expressão algébrica que descreve *S*(*q*) em função de *q*é",
+  "enunciado": "O funcionário de uma loja tem seu salário mensal formado por uma parcela fixa de 675 reais mais uma comissão que depende da quantidade de peças vendidas por ele no mês. O cálculo do valor dessa comissão é feito de acordo com estes critérios:\n\n• até a quinquagésima peça vendida, paga-se 5 reais por peça;  \n• a partir da quinquagésima primeira peça vendida, o valor pago é de 7 reais por peça.\n\nRepresente por *q* a quantidade de peças vendidas no mês por esse funcionário, e por *S*(*q*) o seu salário mensal, em real, nesse mês.\n\nA expressão algébrica que descreve *S*(*q*) em função de *q* é",
   "fontes": [],
   "alternativas": [
    {
@@ -16427,15 +16364,15 @@
    },
    {
     "letra": "C",
-    "texto": "*S*(*q*) = 675 + 7*q* (cid:27)625 + 5*q*, se *q* (cid:28) 50"
+    "texto": "*S*(*q*) = 675 + 7*q*"
    },
    {
     "letra": "D",
-    "texto": "*S*(*q*)= (cid:26) (cid:25)925 + 7*q*, se *q* (cid:29) 50 (cid:27)625 + 5*q*, se *q* (cid:28) 50"
+    "texto": "\\(S(q) = \\begin{cases} 625 + 5q, \\text{ se } q \\leq 50 \\\\ 925 + 7q, \\text{ se } q > 50 \\end{cases}\\)"
    },
    {
     "letra": "E",
-    "texto": "*S*(*q*)= (cid:26) (cid:25)575 + 7*q*, se *q* (cid:29) 50"
+    "texto": "\\(S(q) = \\begin{cases} 625 + 5q, \\text{ se } q \\leq 50 \\\\ 575 + 7q, \\text{ se } q > 50 \\end{cases}\\)"
    }
   ],
   "apos_alternativas": "",
@@ -16563,13 +16500,7 @@
   ],
   "alertas": [
    "símbolos lidos de glifos-imagem do PDF (fonte Type3: ×, ≈, sinais) — conferir com a página",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:27) 625 + 5 q , se q (cid:28) 50” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “D S ( q ) = (cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:25) 925 + 7 q , se q (cid:29) 50” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:27) 625 + 5 q , se q (cid:28) 50” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “E S ( q ) = (cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:25) 575 + 7 q , se q (cid:29) 50” — transcrever lendo a imagem",
-   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+   "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [

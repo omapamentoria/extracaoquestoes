@@ -229,8 +229,13 @@ def agrupa_linhas(ws, corpo):
         return cx_[1] < c_ < cx_[3] and 0 < fr_["x0"] - ws_[0]["x1"] < 4 * corpo
     for w in grandes:
         for l in linhas:
-            if (abs(l["top"] - w["top"]) <= 0.35 * corpo or (len(l["ws"]) == 1 and (_na_fracao(l["ws"][0], [w]) or _na_fracao(w, l["ws"])))) \
-                    and abs(l["size"] - w["size"]) < 3:
+            # (linha "letra + fracao": o resto da linha da letra, ex. "9 ×", entra pela altura da letra)
+            letra_fr_ = (len(l["ws"]) == 1 and (_na_fracao(l["ws"][0], [w]) or _na_fracao(w, l["ws"]))) or (
+                2 <= len(l["ws"]) <= 4 and _na_fracao(w, [min(l["ws"], key=lambda v: v["x0"])]) and all(v["x1"] <= w["x0"] + 1 for v in l["ws"]))
+            if (abs(l["top"] - w["top"]) <= 0.35 * corpo or letra_fr_ or ("top_txt" in l and abs(l["top_txt"] - w["top"]) <= 0.35 * corpo
+                    and w["x1"] <= max(v["x0"] for v in l["ws"] if v.get("latex")) + 1)) \
+                    and (abs(l["size"] - w["size"]) < 3 or w.get("latex") or any(v.get("latex") for v in l["ws"])):
+                if letra_fr_: l["top_txt"] = (w if not w.get("latex") else l["ws"][0])["top"]
                 l["ws"].append(w); l["top"] = min(l["top"], w["top"]); l["bottom"] = max(l["bottom"], w["bottom"]); break
         else:
             linhas.append({"ws": [w], "top": w["top"], "bottom": w["bottom"], "size": w["size"]})
@@ -347,7 +352,9 @@ def fracoes(page, ws):
     objs = [dict(o, _k=k) for k, o in enumerate(page.lines + page.rects + page.curves + BARRAS_T3.get(page.page_number, []))]
     def TEX(w): return w["tex"] if w.get("tex") else w["text"].replace("\\", "\\backslash ").replace("{", "\\{").replace("}", "\\}").replace("%", "\\%").replace("$", "\\$").replace("#", "\\#").replace("&", "\\&").replace("_", "\\_")
     def tex(grupo):
-        grupo = sorted(grupo, key=lambda w: w["x0"]); mx = max(w["size"] for w in grupo)
+        grupo = sorted(grupo, key=lambda w: w["x0"])
+        # parentese/colchete grande (maior que os numeros) nao define o tamanho normal: senao "(6 − 2)!" vira indice
+        mx = max([w["size"] for w in grupo if not re.fullmatch(r"[()\[\]{}|]+", w["text"])] or [w["size"] for w in grupo])
         base = [w for w in grupo if w["size"] >= 0.8 * mx]
         ref = (min(w["top"] for w in base) + max(w["bottom"] for w in base)) / 2 if base else 0
         out = ""; prev = None
@@ -2147,10 +2154,16 @@ def monta(bloco, prefixo, eh_questao):
             a_direita = l["x0"] - esq > 0.3 * larg and abs(l["x1"] - dir_) < 8 and not centrada(l) and not bloco_lat   # assinatura/autor
             fim_frase = re.search(r"[.:!?”\"»)]$", txt_puro(prev))
             topico = re.match(r"^\s*(•|–|—|-|▪|●|○)\s", txt_puro(l)) is not None
+            # travessao no comeco da linha no meio de uma frase ("... em quase sua totalidade negros / — para enfrentar
+            # ..."): linha de cima chega a margem e nao termina frase -> e continuacao, nao item de lista nem fala
+            if topico and re.match(r"^\s*(–|—|-)\s", txt_puro(l)) and not fim_frase and not prev_curta \
+                    and not re.search(r"[;,]$", txt_puro(prev)) and not prev.get("_topico"):
+                topico = False
             # nome de personagem em maiusculas numa linha propria (dialogo de teatro) sempre comeca linha nova
             caixa_alta = len(l["ws"]) <= 3 and re.fullmatch(r"[A-ZÁÉÍÓÚÂÊÔÃÕÇ.\s]{3,}", txt_puro(l).strip()) is not None and fim_frase_prev_ok(prev)
+            l["_topico"] = topico      # so marcador/travessao (nome em maiusculas nao conta como item da lista)
             topico = topico or caixa_alta
-            prev_topico = re.match(r"^\s*(•|–|—|-|▪|●|○)\s", txt_puro(prev)) is not None
+            prev_topico = prev.get("_topico", re.match(r"^\s*(•|–|—|-|▪|●|○)\s", txt_puro(prev)) is not None)
             x_txt_topico = prev["ws"][1]["x0"] if prev_topico and len(prev["ws"]) > 1 else None
             fim_lista = prev_topico and not topico and (x_txt_topico is None or abs(l["x0"] - x_txt_topico) > 3)   # texto fora do recuo da lista
             gap_ref = max(GAP_L, GAP_REG.get((l.get("pg"), l.get("reg")), 0))

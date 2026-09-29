@@ -9165,15 +9165,15 @@
    },
    {
     "letra": "C",
-    "texto": "\\(\\frac{(cid:45)}{(cid:86)\\,•\\,(cid:80)}\\)"
+    "texto": "\\(\\frac{J}{s \\cdot m}\\)"
    },
    {
     "letra": "D",
-    "texto": "\\(\\frac{J}{s}\\) ⋅ m<sup>2</sup>"
+    "texto": "\\(\\frac{J}{s} \\cdot m^{2}\\)"
    },
    {
     "letra": "E",
-    "texto": "\\(\\frac{(cid:45)}{(cid:86)\\,•\\,(cid:80)^{(cid:21)}}\\)"
+    "texto": "\\(\\frac{J}{s \\cdot m^{2}}\\)"
    }
   ],
   "apos_alternativas": "",
@@ -9294,9 +9294,7 @@
    "P2475"
   ],
   "alertas": [
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “C \\(\\frac{(cid:45)}{(cid:86)\\,•\\,(cid:80)}\\)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “E \\(\\frac{(cid:45)}{(cid:86)\\,•\\,(cid:80)^{(cid:21)}}\\)” — transcrever lendo a imagem",
-   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+   "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -14974,7 +14972,7 @@
   "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
   "texto_base_id": null,
   "textos_base_ids": [],
-  "enunciado": "Na modelagem e no estudo de fenômenos periódicos, em geral, os modelos associados fazem uso de funções trigonométricas. Nesse sentido, considere um experimento, realizado em laboratório, em que uma planta foi colocada em uma estufa, onde a temperatura é controlável. O experimento consiste em observar alterações nas características dessa planta ao ser submetida a variações de temperatura. Durante 24 horas, a temperatura *T* (*x*) da estufa variou de acordo\n\n(cid:29) (cid:26)\n\ncom a função *T*(*x*) = 20 − 10*sen* (cid:27) = • \\(\\frac{x}{4}\\) (cid:24) , em que *x*\n\n(cid:28) (cid:25)\n\né medido em hora, variando no intervalo 0 ≤ *x* ≤ 24.\n\nDurante esse experimento, quantas vezes a temperatura na estufa atingiu o seu valor mínimo?",
+  "enunciado": "Na modelagem e no estudo de fenômenos periódicos, em geral, os modelos associados fazem uso de funções trigonométricas. Nesse sentido, considere um experimento, realizado em laboratório, em que uma planta foi colocada em uma estufa, onde a temperatura é controlável. O experimento consiste em observar alterações nas características dessa planta ao ser submetida a variações de temperatura. Durante 24 horas, a temperatura *T*(*x*) da estufa variou de acordo com a função \\(T(x) = 20 - 10\\,sen\\left(\\pi \\cdot \\frac{x}{4}\\right)\\), em que *x* é medido em hora, variando no intervalo 0 ≤ *x* ≤ 24.\n\nDurante esse experimento, quantas vezes a temperatura na estufa atingiu o seu valor mínimo?",
   "fontes": [],
   "alternativas": [
    {
@@ -15140,11 +15138,8 @@
    "P2475"
   ],
   "alertas": [
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:29) (cid:26)” — transcrever lendo a imagem",
    "símbolos lidos de glifos-imagem do PDF (fonte Type3: ×, ≈, sinais) — conferir com a página",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “com a função T ( x ) = 20 − 10 sen (cid:27) = • \\(\\frac{x}{4}\\) (cid:2” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:28) (cid:25)” — transcrever lendo a imagem",
-   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+   "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -15550,44 +15545,32 @@
   "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
   "texto_base_id": null,
   "textos_base_ids": [],
-  "enunciado": "Os candidatos A, B e C participaram de um concurso composto por uma prova de Matemática, uma de Português e outra de Geografia, sendo os pesos dessas três provas diferentes. As notas obtidas por esses três candidatos e os pesos atribuídos a essas provas estão representados nas tabelas:\n\n{{img:1}}\n\nMatemática\n\nAs notas finais são obtidas somando-se os produtos das notas pelos respectivos pesos. As notas finais dos três candidatos podem ser obtidas multiplicando-se a matriz das notas dos três candidatos nas três provas pela matriz dos pesos das três provas.\n\nA matriz das notas finais dos três candidatos é",
+  "enunciado": "Os candidatos A, B e C participaram de um concurso composto por uma prova de Matemática, uma de Português e outra de Geografia, sendo os pesos dessas três provas diferentes. As notas obtidas por esses três candidatos e os pesos atribuídos a essas provas estão representados nas tabelas:\n\n**Tabela I (Notas)**\n\n| **Candidato** | **Matemática** | **Português** | **Geografia** |\n|---|---|---|---|\n| A | 9 | 6 | 7 |\n| B | 8 | 7 | 8 |\n| C | 9 | 5 | 6 |\n\n**Tabela II (Pesos)**\n\n| **Matérias** | **Pesos** |\n|---|---|\n| Matemática | 3 |\n| Português | 2 |\n| Geografia | 1 |\n\nAs notas finais são obtidas somando-se os produtos das notas pelos respectivos pesos. As notas finais dos três candidatos podem ser obtidas multiplicando-se a matriz das notas dos três candidatos nas três provas pela matriz dos pesos das três provas.\n\nA matriz das notas finais dos três candidatos é",
   "fontes": [],
   "alternativas": [
    {
     "letra": "A",
-    "texto": "52 37 43) (\n\n(cid:31) 46(cid:28) (cid:29) (cid:26)"
+    "texto": "\\(\\begin{pmatrix} 52 & 37 & 43 \\end{pmatrix}\\)"
    },
    {
     "letra": "B",
-    "texto": "(cid:29) 46(cid:26) (cid:29) (cid:26) (cid:30) 43(cid:27)\n\n(cid:31) 66(cid:28) (cid:29) (cid:26)"
+    "texto": "\\(\\begin{pmatrix} 46 \\\\ 46 \\\\ 43 \\end{pmatrix}\\)"
    },
    {
     "letra": "C",
-    "texto": "(cid:29) 46(cid:26) (cid:29) (cid:26) (cid:30) 20(cid:27)\n\n(cid:31) 27 12 7(cid:28) (cid:29) (cid:26)"
+    "texto": "\\(\\begin{pmatrix} 66 \\\\ 46 \\\\ 20 \\end{pmatrix}\\)"
    },
    {
     "letra": "D",
-    "texto": "(cid:29) 24 14 8(cid:26) (cid:29) (cid:26) (cid:30) 27 10 6(cid:27)\n\n(cid:31) 27 18 21(cid:28) (cid:29) (cid:26)"
+    "texto": "\\(\\begin{pmatrix} 27 & 12 & 7 \\\\ 24 & 14 & 8 \\\\ 27 & 10 & 6 \\end{pmatrix}\\)"
    },
    {
     "letra": "E",
-    "texto": "(cid:29)16 14 16(cid:26) (cid:29) (cid:26) (cid:30) 9 5 6 (cid:27)"
+    "texto": "\\(\\begin{pmatrix} 27 & 18 & 21 \\\\ 16 & 14 & 16 \\\\ 9 & 5 & 6 \\end{pmatrix}\\)"
    }
   ],
   "apos_alternativas": "",
-  "imagens": [
-   {
-    "id": 1,
-    "arquivo": "img/Q176_img1.png",
-    "pagina": 30,
-    "bbox": [
-     289.8,
-     162.9,
-     535.7,
-     369.4
-    ]
-   }
-  ],
+  "imagens": [],
   "gabarito": "B",
   "anulada": false,
   "paginas": [
@@ -15855,32 +15838,7 @@
   ],
   "alertas": [
    "símbolos lidos de glifos-imagem do PDF (fonte Type3: ×, ≈, sinais) — conferir com a página",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:31) 46 (cid:28)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:29) (cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “B (cid:29) 46 (cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:29) (cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:30) 43 (cid:27)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:31) 66 (cid:28)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:29) (cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “C (cid:29) 46 (cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:29) (cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:30) 20 (cid:27)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:31) 27 12 7 (cid:28)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:29)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “D (cid:29) 24 14 8 (cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:29)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:30) 27 10 6 (cid:27)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:31) 27 18 21 (cid:28)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:29)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “E (cid:29) 16 14 16 (cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:29)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:26)” — transcrever lendo a imagem",
-   "PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:30) 9 5 6 (cid:27)” — transcrever lendo a imagem",
-   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
-   "texto curto solto junto da imagem (“Matemática”): pode ser rótulo da figura — conferir"
+   "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir; tabelas I e II digitadas célula por célula (a imagem recortada tinha perdido a célula “Matemática” da Tabela II)"
   ],
   "status_revisao": "revisar",
   "recortes": [

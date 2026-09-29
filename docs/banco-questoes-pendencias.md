@@ -113,6 +113,11 @@ Ainda abertos:
 * FUVEST: números de linha na margem dos textos literários (5, 10, 15…). Decidir: manter como marcador ou tirar
 * Gabaritos só em imagem de cartão ou comentados sem número de questão: ler por visão quando o código não conseguir
 
+## Fase 1 (ENEM), lote 1 (29/09/2026)
+
+* Célula de tabela que fica fora do recorte (ENEM PPL 2023 Q176, "Matemática" da Tabela II) vira texto solto e depois é apagada da imagem pelo branqueamento: a imagem perde a célula. Sempre gera o alerta "texto curto solto junto da imagem" — conferir essas questões. Na Q176 as tabelas foram digitadas (transcrição)
+* Transcritas por visão no lote 1: ENEM 2024 d2 Q106 (setas conferidas), Q139, Q150; ENEM 2022 d2 Q108, Q111, Q150, Q175; ENEM PPL 2023 d2 Q141, Q173, Q176
+
 ## Decisões em aberto
 
 * ENCCEJA: incluir ou não? (metade é de ensino fundamental; no catálogo, prioridade 9 para médio e 10 para fundamental)
