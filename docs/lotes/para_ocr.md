@@ -402,16 +402,7 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P0797 — DEMAIS 2012 regular  — só 19 questões (esperado ~54) — FATEC 2012_2.pdf
 * P0795 — DEMAIS 2012 regular  — só 19 questões (esperado ~53) — FATEC 2012_1.pdf
 * P0793 — DEMAIS 2011 regular  — só 19 questões (esperado ~54) — FATEC 2011_2.pdf
-* P2008 — DEMAIS 2010 2010.1  — 50 de 50 questões PENDENTES (símbolos sem tradução) — Prova 1§ dia.pdf
 * P0789 — DEMAIS 2010 regular  — só 19 questões (esperado ~49) — FATEC 2010_2.pdf
-* P2006 — DEMAIS 2009 2009.2  — 44 de 44 questões PENDENTES (símbolos sem tradução) — Prova 2§ dia.pdf
-* P2005 — DEMAIS 2009 2009.2  — 50 de 50 questões PENDENTES (símbolos sem tradução) — Prova 1§ dia.pdf
-* P2003 — DEMAIS 2009 2009.1  — 40 de 40 questões PENDENTES (símbolos sem tradução) — provas 2§ dia.pdf
-* P2002 — DEMAIS 2009 2009.1  — 50 de 50 questões PENDENTES (símbolos sem tradução) — provas 1§ dia.pdf
-* P1999 — DEMAIS 2008 2008.1  — 45 de 45 questões PENDENTES (símbolos sem tradução) — vest_20081_caderno_2.pdf
-* P1998 — DEMAIS 2008 2008.1  — 49 de 50 questões PENDENTES (símbolos sem tradução) — vest_20081_caderno_1.pdf
-* P1995 — DEMAIS 2007 2007.2  — 39 de 40 questões PENDENTES (símbolos sem tradução) — vestibular_2007_2_caderno_02.pdf
-* P1994 — DEMAIS 2007 2007.2  — 50 de 50 questões PENDENTES (símbolos sem tradução) — vestibular_2007_2_caderno_01.pdf
 * P1991 — DEMAIS 2007 2007.1  — 40 de 40 questões PENDENTES (símbolos sem tradução) — vestibular_2007_1_caderno_02.pdf
 * P1990 — DEMAIS 2007 2007.1  — 50 de 50 questões PENDENTES (símbolos sem tradução) — vestibular_2007_1_caderno_01.pdf
 * P1987 — DEMAIS 2006 2006.2  — 55 de 55 questões PENDENTES (símbolos sem tradução) — vestibular_2006_2_caderno_2.pdf
