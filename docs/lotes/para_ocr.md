@@ -36,3 +36,4 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2381 — ENEM 1999 regular  — nenhuma questão — ENEM - 1999 - Prova amarela.pdf
 * P2377 — ENEM 1998 regular  — nenhuma questão — ENEM - 1998 -  Prova amarela.pdf
 * P4232 — SSA 2021 regular 2 — só 20 questões (esperado ~49) — CADERNO-DE-PROVAS-3FASE-2DIA.pdf
+* P4084 — SSA 2018 regular 2 — só 20 questões (esperado ~42) — CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf

@@ -1,0 +1,8266 @@
+[
+ {
+  "id": "P4150-Q001",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 1,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nLeia o texto a seguir:\n\n**Café é feito com fezes do Jacu, ave semelhante à galinha.**\n\nO **jacu** (*Penelope sp.*) é o principal responsável pela produção do ***jacu bird coffee*** (café do jacu), considerado um dos melhores cafés do Brasil. As aves eram um problema para a Fazenda Camocim, pois invadiam a plantação para se alimentarem dos melhores frutos do cafezal. Assim, os proprietários pediram autorização ao governo para controlar a população dos animais. Foi então que os fazendeiros ouviram a história do kopi luwak, o **café mais caro do mundo**,\n\nZimbres/ Wikimedia Commons produzido na Indonésia a partir dos grãos colhidos das fezes da\n\n{{fonte:1}}\n\nciveta (*Paradoxurus hermaphroditus*). O segredo está na “etapa\n\nespecial” de fermentação das sementes, que acontece dentro do sistema digestório do animal. Esse processo transforma as propriedades do café e lhe confere um sabor único. Mas é preciso coletar as fezes do bichinho e lavar os grãos antes de torrá-los.\n\n{{fonte:2}}\n\nSobre o conteúdo do texto, analise as afirmativas a seguir:\n\nI. No jacu e na civeta, os nutrientes são extraídos da polpa do café, e as sementes, que não são digeridas, chegam à cloaca e podem ser eliminadas para outros locais do ambiente,\n\n{{fonte:3}}\n\nfavorecendo a dispersão das sementes.\n\nII. Os grãos do café são conduzidos ao longo do tubo digestório desses animais mediante movimentos peristálticos. A “etapa especial” a que se refere o texto é realizada por bactérias anaeróbias, que podem estar presentes no intestino.\n\nIII. As sementes encontradas nas fezes desses animais devem ser lavadas antes de torradas, porque podem conter ovos de parasitas intestinais e, consequentemente, transmitir parasitoses comuns aos humanos, como a ancilostomose, a toxoplasmose, a teníase e a hepatite B.\n\nIV. Os jacus se alimentam dos melhores frutos do cafezal que são frutos compostos, suculentos. No entanto, eles precisam passar pelo estômago mecânico e químico para serem triturados, facilitando a ação das enzimas no processo de digestão.\n\nV. Na civeta, o processo de digestão do fruto começa na boca, quando o alimento é mastigado e misturado à saliva, antes de ser deglutido.\n\n{{fonte:4}}\n\n{{fonte:5}}\n\nEstão **CORRETAS** apenas",
+  "fontes": [
+   "Disponível em: curiosidadeanimalbrasil. wordpress.com/2012/04/13/cafe-feito-",
+   "Disponível em: curiosidadeanimalbrasil.wordpress.com/2012/04/13/cafe-feito-com-fezes-do- jacu/comment-page-1/ (Adaptado)",
+   "Disponível em: curiosidadeanimalbrasil.Commons wordpress.com/2012/04/13/cafe-feito-",
+   "Fezes do jacu - Foto de divulgação",
+   "Disponível em: curiosidadeanimalbrasil. wordpress.com/2012/04/13/cafe-feito-"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e III."
+   },
+   {
+    "letra": "B",
+    "texto": "I, III e V."
+   },
+   {
+    "letra": "C",
+    "texto": "IV e V."
+   },
+   {
+    "letra": "D",
+    "texto": "II e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "II e V."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q001_img1.png",
+    "pagina": 3,
+    "bbox": [
+     382.0,
+     117.4,
+     561.0,
+     644.8
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.625,
+     85.30700000000002,
+     166.017,
+     96.30700000000002
+    ],
+    [
+     42.625,
+     110.30700000000002,
+     344.924,
+     121.30700000000002
+    ],
+    [
+     42.625,
+     128.7070000000001,
+     382.6980000000001,
+     139.7070000000001
+    ],
+    [
+     42.625,
+     141.49700000000007,
+     382.92400000000004,
+     152.49700000000007
+    ],
+    [
+     42.625,
+     154.3270000000001,
+     383.00600000000003,
+     165.3270000000001
+    ],
+    [
+     42.625,
+     166.92700000000002,
+     382.85699999999997,
+     177.92700000000002
+    ],
+    [
+     42.625,
+     179.52700000000004,
+     382.93899999999996,
+     190.52700000000004
+    ],
+    [
+     42.625,
+     192.12700000000007,
+     376.37600000000003,
+     203.12700000000007
+    ],
+    [
+     42.625,
+     204.7270000000001,
+     376.978,
+     215.7270000000001
+    ],
+    [
+     430.15,
+     214.90599999999995,
+     535.326,
+     222.90599999999995
+    ],
+    [
+     42.625,
+     217.52700000000004,
+     376.593,
+     228.52700000000004
+    ],
+    [
+     401.13,
+     225.50599999999997,
+     541.894,
+     233.50599999999997
+    ],
+    [
+     42.625,
+     229.92700000000002,
+     382.86699999999996,
+     240.95999999999992
+    ],
+    [
+     407.92,
+     234.70600000000002,
+     542.044,
+     242.70600000000002
+    ],
+    [
+     42.625,
+     242.7270000000001,
+     382.918,
+     253.76
+    ],
+    [
+     42.625,
+     255.55700000000002,
+     382.74700000000007,
+     266.557
+    ],
+    [
+     42.625,
+     268.157,
+     382.4290000000001,
+     279.157
+    ],
+    [
+     42.625,
+     280.757,
+     352.139,
+     291.757
+    ],
+    [
+     56.425,
+     296.336,
+     382.794,
+     304.336
+    ],
+    [
+     261.48,
+     305.536,
+     382.74,
+     313.536
+    ],
+    [
+     42.625,
+     323.357,
+     328.758,
+     334.357
+    ],
+    [
+     53.825,
+     343.957,
+     382.71000000000004,
+     354.957
+    ],
+    [
+     71.025,
+     356.777,
+     382.987,
+     367.777
+    ],
+    [
+     71.025,
+     369.377,
+     382.978,
+     380.377
+    ],
+    [
+     399.92,
+     376.75600000000003,
+     540.6940000000001,
+     384.75600000000003
+    ],
+    [
+     71.025,
+     381.97700000000003,
+     266.077,
+     392.97700000000003
+    ],
+    [
+     406.52,
+     385.956,
+     540.634,
+     393.956
+    ],
+    [
+     52.225,
+     394.577,
+     382.3910000000001,
+     405.577
+    ],
+    [
+     71.025,
+     407.377,
+     382.952,
+     418.41
+    ],
+    [
+     71.025,
+     420.01000000000005,
+     382.62200000000007,
+     431.01000000000005
+    ],
+    [
+     71.025,
+     432.577,
+     327.872,
+     443.577
+    ],
+    [
+     50.625,
+     445.177,
+     382.40200000000004,
+     456.177
+    ],
+    [
+     71.025,
+     458.007,
+     382.5670000000001,
+     469.007
+    ],
+    [
+     71.025,
+     470.607,
+     382.747,
+     481.607
+    ],
+    [
+     71.025,
+     483.207,
+     382.5780000000001,
+     494.207
+    ],
+    [
+     71.025,
+     495.807,
+     264.246,
+     506.807
+    ],
+    [
+     50.025,
+     508.607,
+     382.964,
+     519.607
+    ],
+    [
+     71.025,
+     521.2070000000001,
+     382.723,
+     532.207
+    ],
+    [
+     71.025,
+     533.807,
+     382.89300000000003,
+     544.807
+    ],
+    [
+     71.025,
+     546.407,
+     382.6450000000002,
+     557.407
+    ],
+    [
+     71.025,
+     559.2070000000001,
+     115.83900000000001,
+     570.207
+    ],
+    [
+     51.625,
+     571.827,
+     383.188,
+     582.827
+    ],
+    [
+     71.025,
+     584.427,
+     382.5450000000001,
+     595.427
+    ],
+    [
+     382.0,
+     117.36,
+     561.0,
+     644.8
+    ],
+    [
+     71.025,
+     597.027,
+     137.014,
+     608.027
+    ],
+    [
+     412.73,
+     598.4060000000001,
+     537.166,
+     606.4060000000001
+    ],
+    [
+     399.92,
+     609.4060000000001,
+     540.6940000000001,
+     617.4060000000001
+    ],
+    [
+     406.52,
+     618.4060000000001,
+     540.634,
+     626.4060000000001
+    ],
+    [
+     42.625,
+     642.827,
+     174.71699999999998,
+     653.827
+    ],
+    [
+     42.625,
+     673.052,
+     103.68000000000002,
+     684.052
+    ],
+    [
+     162.85,
+     673.052,
+     221.704,
+     684.052
+    ],
+    [
+     265.27,
+     673.052,
+     316.344,
+     684.052
+    ],
+    [
+     367.73,
+     673.052,
+     417.38800000000003,
+     684.052
+    ],
+    [
+     460.75,
+     673.052,
+     508.40799999999996,
+     684.052
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q002",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 2,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\n**Como era a higiene no Palácio de Versalhes no século XVII?**\n\nNa época, os cuidados com a limpeza eram precários na Europa. Até mesmo o Palácio de Versalhes tinha a fama de ser imundo e habitado por moradores que não tinham higiene. Sem saneamento básico, a população vivia em meio à sujeira e a animais peçonhentos. Essa condição também foi uma das causadoras da pandemia de peste bubônica, ou peste negra, como ficou conhecida. Anteriormente, a doença, transmitida pela picada de pulga, dizimou um terço da população europeia, entre a realeza e a plebe, no século XIV. Antes considerada um castigo de Deus, a peste trouxe o conceito de higiene pessoal ao mundo e, a passos lentos, mudou hábitos até chegar às pessoas limpas e cheirosas que conhecemos hoje.\n\n{{fonte:1}}\n\nConsiderando o que foi exposto no texto em relação à Europa no passado e comparando-se à realidade atual das políticas públicas no Brasil, assinale a alternativa **CORRETA.**",
+  "fontes": [
+   "Disponível em: http://mundoestranho.abril.com.br/historia/como-era-a-higiene-no-palacio-de-versalhes-no-seculo-17/ (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A peste negra provocou uma mudança de hábitos na população, o que favoreceu a adoção de medidas profiláticas no combate às doenças transmissíveis, que são úteis também para prevenir outras doenças, como a AIDS, a sífilis, a hanseníase e a doença de Chagas."
+   },
+   {
+    "letra": "B",
+    "texto": "O conceito de pandemia aplicado à peste negra também pode ser aplicado à dengue, à zica e à chicungunha."
+   },
+   {
+    "letra": "C",
+    "texto": "A pulga é um ectoparasita, o vetor da doença, visto que é o veículo para a transmissão da bactéria *Yersinia pestis*, responsável pela peste negra, sendo os cães os hospedeiros definitivos."
+   },
+   {
+    "letra": "D",
+    "texto": "A falta de saneamento básico e de higiene está associada à manutenção de outras doenças nas populações humanas, inclusive no Brasil, a exemplo da esquistossomose, ascaridíase, leptospirose e cólera."
+   },
+   {
+    "letra": "E",
+    "texto": "Não há relação direta entre a ausência de saneamento básico e a presença de animais caracterizados como peçonhentos, considerando-se que a presença de aranhas, sapos ou serpentes não depende da existência de saneamento."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.625,
+     59.90700000000004,
+     158.817,
+     70.90700000000004
+    ],
+    [
+     42.625,
+     76.90700000000004,
+     358.02599999999995,
+     87.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     547.2120000000001,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     547.3299999999999,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     122.10700000000008,
+     547.273,
+     133.10700000000008
+    ],
+    [
+     42.625,
+     134.7070000000001,
+     547.4050000000001,
+     145.7070000000001
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     546.9639999999999,
+     158.3270000000001
+    ],
+    [
+     42.625,
+     159.92700000000002,
+     547.028,
+     170.92700000000002
+    ],
+    [
+     42.625,
+     172.7270000000001,
+     547.395,
+     183.7270000000001
+    ],
+    [
+     42.625,
+     185.3270000000001,
+     247.269,
+     196.3270000000001
+    ],
+    [
+     92.025,
+     197.30599999999993,
+     547.218,
+     205.30599999999993
+    ],
+    [
+     42.625,
+     215.12700000000007,
+     547.496,
+     226.12700000000007
+    ],
+    [
+     42.625,
+     227.7270000000001,
+     438.143,
+     238.7270000000001
+    ],
+    [
+     42.625,
+     248.52700000000004,
+     547.264,
+     259.52700000000004
+    ],
+    [
+     64.025,
+     261.15700000000004,
+     547.162,
+     272.157
+    ],
+    [
+     64.025,
+     273.957,
+     439.152,
+     284.957
+    ],
+    [
+     42.625,
+     286.557,
+     547.3409999999999,
+     297.557
+    ],
+    [
+     64.025,
+     299.157,
+     129.607,
+     310.157
+    ],
+    [
+     42.625,
+     311.757,
+     546.617,
+     322.757
+    ],
+    [
+     64.025,
+     324.357,
+     495.947,
+     335.357
+    ],
+    [
+     42.625,
+     337.157,
+     546.815,
+     348.157
+    ],
+    [
+     64.025,
+     349.757,
+     547.552,
+     360.757
+    ],
+    [
+     64.025,
+     362.377,
+     168.708,
+     373.377
+    ],
+    [
+     42.625,
+     375.177,
+     547.4449999999999,
+     386.177
+    ],
+    [
+     64.025,
+     387.777,
+     547.496,
+     398.777
+    ],
+    [
+     64.025,
+     400.377,
+     328.96299999999997,
+     411.377
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q003",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 3,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nLeia o texto abaixo\n\nOs macacos não transmitem diretamente a febre amarela, assim como ela não é transmitida diretamente de um humano a outro. O surto que ocorreu entre 2008 e 2009, no Rio Grande do Sul, afetou populações de bugio-preto (*Alouatta caraya*) e bugio-ruivo (*Alouatta* *guariba clamitans*), matando milhares de macacos, com registros de extinções locais, e em unidades de conservação e relatos de agressões aos bugios por parte de moradores do interior do estado, inclusive com mortes. Atualmente, há registro de casos de morte de macacos por moradores de Tocantins e Goiás e erradicação de matas próximas de áreas urbanas. Desflorestar ou matar macacos não impede a circulação\n\nwww.icmbio.gov.br/portal/faunabrasileira/estado-do vírus da febre amarela, podendo ainda eliminar o\n\nde-conservacao/7179-mamiferos-alouatta-guariba-papel de “sentinela” que desempenham os primatas e, portanto, essa valiosa e insubstituível contribuição para a saúde pública.\n\n{{fonte:1}}\n\nSobre os macacos e as características que compartilham com os humanos, analise as afirmativas a seguir:\n\nI. Assim como os humanos, os macacos são hospedeiros do mesmo vírus e desenvolvem a febre amarela silvestre.\n\nII. O papel de sentinela se refere ao fato de que a presença de animais doentes ou mortos pela doença serve como indicador de possíveis casos de febre amarela na região, o que pode alertar para o uso de medidas preventivas de vacinação em humanos e controle da proliferação dos mosquitos do gênero *Haemagogus*, que são vetores da doença para ambos.\n\nIII. Além do vírus da febre amarela, os macacos e os humanos adquirem outros endoparasitas e também ectoparasitas em comum que podem se desenvolver em seus pelos, como piolhos, pulgas, carrapatos e micoses como pé de atleta ou frieira e sarna.\n\nIV. Por serem mamíferos placentários, a visão binocular, a dentição, o número de dedos nas mãos e nos pés e a postura bípede são características evidentes entre o macaco e o homem.\n\nV. Por serem pertencentes à mesma ordem, apresentam muitas semelhanças quanto às funções dos sistemas imunológico, circulatório e respiratório, com exceção dos mecanismos de regulação da temperatura. Por isso, os surtos de febre nesses animais ocorrem de modo mais intenso, visto que não são homeotérmicos como os humanos.\n\nEstão **CORRETAS** apenas",
+  "fontes": [
+   "Disponível em: www.icmbio.gov.br/portal/ultimas-noticias/20-geral/8684-o-papel-dos-macacos-no-ciclo-da-febre-amarela. http://correio.rac.com.br/_conteudo/2013/10/capa/projetos_correio/cenario_xxi/108456-macacos-sao-sentinelas-da-epidemia-de-febre-amarela.html. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e III."
+   },
+   {
+    "letra": "B",
+    "texto": "I e II."
+   },
+   {
+    "letra": "C",
+    "texto": "IV e V."
+   },
+   {
+    "letra": "D",
+    "texto": "II e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "III, IV e V."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q003_img1.png",
+    "pagina": 4,
+    "bbox": [
+     348.0,
+     453.6,
+     546.6,
+     639.0
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   4,
+   5
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.625,
+     431.377,
+     146.895,
+     442.377
+    ],
+    [
+     54.625,
+     453.207,
+     335.185,
+     464.207
+    ],
+    [
+     54.625,
+     465.807,
+     335.106,
+     476.807
+    ],
+    [
+     54.625,
+     478.607,
+     334.87200000000007,
+     489.607
+    ],
+    [
+     54.625,
+     491.207,
+     334.86100000000005,
+     502.207
+    ],
+    [
+     54.625,
+     503.607,
+     335.191,
+     514.607
+    ],
+    [
+     54.625,
+     516.2070000000001,
+     334.899,
+     527.207
+    ],
+    [
+     54.625,
+     529.2070000000001,
+     334.895,
+     540.207
+    ],
+    [
+     54.625,
+     541.807,
+     334.88300000000004,
+     552.807
+    ],
+    [
+     54.625,
+     554.3871750000001,
+     334.9198750000001,
+     565.412175
+    ],
+    [
+     54.625,
+     567.027,
+     334.909,
+     578.027
+    ],
+    [
+     348.0,
+     453.6,
+     546.6,
+     639.0
+    ],
+    [
+     54.625,
+     579.827,
+     334.674,
+     590.827
+    ],
+    [
+     54.625,
+     592.427,
+     335.197,
+     603.427
+    ],
+    [
+     54.625,
+     605.027,
+     334.75100000000003,
+     616.027
+    ],
+    [
+     366.52,
+     612.206,
+     539.444,
+     620.206
+    ],
+    [
+     54.625,
+     617.627,
+     334.44300000000015,
+     628.627
+    ],
+    [
+     359.52,
+     621.206,
+     539.444,
+     629.206
+    ],
+    [
+     54.625,
+     630.427,
+     335.074,
+     641.46
+    ],
+    [
+     54.625,
+     643.027,
+     334.6300000000001,
+     654.027
+    ],
+    [
+     54.625,
+     655.607175,
+     125.38345,
+     666.632175
+    ],
+    [
+     55.225,
+     674.6310000000001,
+     484.574,
+     682.6310000000001
+    ],
+    [
+     55.225,
+     683.831,
+     532.044,
+     691.831
+    ],
+    [
+     55.225,
+     693.0310000000001,
+     142.22,
+     701.0310000000001
+    ]
+   ],
+   "5": [
+    [
+     42.625,
+     59.90700000000004,
+     547.294,
+     70.90700000000004
+    ],
+    [
+     42.625,
+     72.49700000000007,
+     75.44900000000001,
+     83.49700000000007
+    ],
+    [
+     60.625,
+     92.10700000000008,
+     546.7850000000001,
+     103.10700000000008
+    ],
+    [
+     78.625,
+     104.70700000000011,
+     164.997,
+     115.70700000000011
+    ],
+    [
+     60.625,
+     117.49700000000007,
+     546.682,
+     128.49700000000007
+    ],
+    [
+     78.625,
+     130.10700000000008,
+     546.7849999999996,
+     141.10700000000008
+    ],
+    [
+     78.625,
+     142.7070000000001,
+     547.496,
+     153.7070000000001
+    ],
+    [
+     78.625,
+     155.12700000000007,
+     474.008,
+     166.12700000000007
+    ],
+    [
+     60.625,
+     168.12700000000007,
+     547.3829999999999,
+     179.12700000000007
+    ],
+    [
+     78.625,
+     180.7270000000001,
+     547.193,
+     191.7270000000001
+    ],
+    [
+     78.625,
+     193.3270000000001,
+     400.9090000000001,
+     204.3270000000001
+    ],
+    [
+     60.625,
+     205.92700000000002,
+     547.0010000000001,
+     216.92700000000002
+    ],
+    [
+     78.625,
+     218.7270000000001,
+     506.012,
+     229.7270000000001
+    ],
+    [
+     60.625,
+     231.3270000000001,
+     547.395,
+     242.3270000000001
+    ],
+    [
+     78.625,
+     243.92700000000002,
+     547.46,
+     254.92700000000002
+    ],
+    [
+     78.625,
+     256.557,
+     547.2570000000001,
+     267.557
+    ],
+    [
+     78.625,
+     269.357,
+     380.861,
+     280.357
+    ],
+    [
+     42.625,
+     294.357,
+     174.71699999999998,
+     305.357
+    ],
+    [
+     49.625,
+     319.957,
+     110.67800000000001,
+     330.957
+    ],
+    [
+     170.25,
+     319.957,
+     208.738,
+     330.957
+    ],
+    [
+     262.67,
+     319.957,
+     309.95799999999997,
+     330.957
+    ],
+    [
+     361.73,
+     319.957,
+     407.578,
+     330.957
+    ],
+    [
+     460.95,
+     319.957,
+     523.438,
+     330.957
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [
+   "palavra dividida no fim da linha com hífen incerto — conferir",
+   "palavra dividida no fim da linha com hífen incerto — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q003_p4.jpg",
+   "revisao/Q003_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q004",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 4,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o relato de um usuário de drogas a seguir:\n\n“Faz bem falar sobre o assunto. É bom perceber que outras pessoas passam pela mesma coisa. A minha experiência pode ajudar alguém, principalmente os mais novos. São cada vez mais jovens. Crianças. Existe a curiosidade, os amigos e o preço que engana. Parece mais barato que outras drogas, mas, como o efeito dura pouco, sai caro. Já experimentei de tudo: maconha, cocaína, merla, ácido...O crack é diferente. É mais rápido que a luz. Você quer mais e mais e mais. Já gastei numa única noite R$ 3 mil em pedras. E nessa hora, fica você e o cachimbo. Não tem família, comida, banho… Nada. É a perdição. Quando a onda começa a passar, vem a coisa ruim. Parece que tem alguém te perseguindo, observando....Não dá para pensar em mais nada: ou fuma ou morre... O crack te faz sentir inferior. É gratificante perceber que tenho projetos para o futuro aos 44 anos. Quero casar, arrumar emprego e, quem sabe, até outro filho.”\n\n{{fonte:1}}\n\nNo relato, são descritos os efeitos do crack. Sobre isso, analise as proposições a seguir, comparando esses efeitos aos da cocaína e da maconha, também consumidas pelo usuário.\n\nI. As alucinações e paranoia, atribuídas ao crack, também podem ocorrer durante o consumo da cocaína e da maconha.\n\nII. Assim como o crack, a cocaína e a maconha afetam o cérebro do usuário, pois liberam substâncias, que atuam nas sinapses, seja imitando, seja impedindo a ação dos neurotransmissores nos receptores.\n\nIII. O uso do crack é responsável tanto pelas sensações de euforia quanto de depressão profunda. Ainda podem surgir complicações cardiovasculares que resultam em óbito. Tais complicações também podem ocorrer com o uso da cocaína.\n\nIV. O uso do crack pode causar impotência sexual, ao contrário do uso da maconha.\n\nV. As três drogas mencionadas afetam a memória do usuário, ligando-se aos receptores de noradrenalina, a qual tem efeito sedativo nas células do córtex cerebral, por causa do seu efeito inibidor na maioria dos tecidos, inclusive na musculatura cardíaca.\n\nEstão **CORRETAS** apenas",
+  "fontes": [
+   "Fonte: Correio Braziliense / ABEAD (Associação Brasileira de Estudos do Álcool e outras Drogas) http://www.antidrogas.com.br/mostrarelatos.php?c=3821. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e III."
+   },
+   {
+    "letra": "B",
+    "texto": "I, III e V."
+   },
+   {
+    "letra": "C",
+    "texto": "IV e V."
+   },
+   {
+    "letra": "D",
+    "texto": "II e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "II e V."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   5,
+   6
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.625,
+     357.777,
+     287.358,
+     368.777
+    ],
+    [
+     42.625,
+     377.41,
+     546.777,
+     388.41
+    ],
+    [
+     42.625,
+     389.97700000000003,
+     546.9200000000001,
+     400.97700000000003
+    ],
+    [
+     42.625,
+     402.777,
+     547.289,
+     413.777
+    ],
+    [
+     42.625,
+     415.377,
+     546.7739999999999,
+     426.377
+    ],
+    [
+     42.625,
+     427.97700000000003,
+     546.5679999999998,
+     438.97700000000003
+    ],
+    [
+     42.625,
+     440.577,
+     547.026,
+     451.577
+    ],
+    [
+     42.625,
+     453.41,
+     546.5900000000001,
+     464.41
+    ],
+    [
+     42.625,
+     466.007,
+     546.733,
+     477.007
+    ],
+    [
+     42.625,
+     478.607,
+     546.9270000000001,
+     489.607
+    ],
+    [
+     42.625,
+     491.207,
+     276.76300000000003,
+     502.24
+    ],
+    [
+     200.48,
+     503.386,
+     546.896,
+     511.386
+    ],
+    [
+     305.7,
+     512.586,
+     547.188,
+     520.586
+    ],
+    [
+     42.625,
+     531.607,
+     547.396,
+     542.607
+    ],
+    [
+     42.625,
+     544.2070000000001,
+     431.008,
+     555.207
+    ],
+    [
+     57.625,
+     563.827,
+     547.316,
+     574.827
+    ],
+    [
+     78.625,
+     576.427,
+     192.99199999999996,
+     587.427
+    ],
+    [
+     56.025,
+     589.027,
+     547.101,
+     600.027
+    ],
+    [
+     78.625,
+     601.627,
+     547.29,
+     612.627
+    ],
+    [
+     78.625,
+     614.427,
+     254.119,
+     625.427
+    ],
+    [
+     54.425,
+     627.027,
+     547.414,
+     638.027
+    ],
+    [
+     78.625,
+     639.627,
+     547.366,
+     650.627
+    ],
+    [
+     78.625,
+     652.227,
+     306.904,
+     663.227
+    ],
+    [
+     53.825,
+     664.857,
+     474.1409999999999,
+     675.857
+    ],
+    [
+     55.425,
+     677.652,
+     547.36,
+     688.652
+    ],
+    [
+     78.625,
+     690.2520000000001,
+     547.237,
+     701.2520000000001
+    ],
+    [
+     78.625,
+     702.852,
+     402.27,
+     713.852
+    ]
+   ],
+   "6": [
+    [
+     42.625,
+     59.70700000000011,
+     174.71699999999998,
+     70.70700000000011
+    ],
+    [
+     60.625,
+     85.30700000000002,
+     118.278,
+     96.30700000000002
+    ],
+    [
+     162.85,
+     85.30700000000002,
+     221.738,
+     96.30700000000002
+    ],
+    [
+     265.27,
+     85.30700000000002,
+     316.358,
+     96.30700000000002
+    ],
+    [
+     367.73,
+     85.30700000000002,
+     417.388,
+     96.30700000000002
+    ],
+    [
+     469.95,
+     85.30700000000002,
+     516.638,
+     96.30700000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q004_p5.jpg",
+   "revisao/Q004_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q005",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 5,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nRetirantes (1944) é uma pintura de Cândido Portinari, que retrata corpos muito magros de emigrantes nordestinos fugindo da seca do sertão e de suas sequelas sociais, entre elas, a fome e desnutrição. Em portadores de distúrbios alimentares, outros fatores de ordem social podem levar às mesmas consequências, embora por diferentes causas, dentre elas a distorção da imagem corporal. Na tela, Portinari retrata o que vê e interpreta. No espelho, uma adolescente com distúrbios alimentares, de certo modo, faz o mesmo.\n\nSobre os distúrbios alimentares e sua relação com a desnutrição, analise as afirmativas a seguir:\n\nFonte: http://www.universia.com.br/\n\nI. Na anorexia, o paciente chega a ficar severamente desidratado, ocorrendo a perda de íons, como o sódio, o potássio e o cálcio, importantes para a manutenção do equilíbrio hídrico e iônico e o funcionamento das células musculares, por exemplo.\n\nII. Na bulimia, pacientes exibem compulsão alimentar e comportamentos compensatórios à alta ingestão de alimentos, como vômitos, uso indevido de laxantes, diuréticos, polivitamínicos e anabolizantes.\n\nIII. Na anorexia e na bulimia, os pacientes praticam jejum e exercícios intensos, além de provocarem vômito.\n\nIV. Os pacientes estão em estado de desnutrição, o que pode acarretar um baixo rendimento escolar e, com a progressão dos sintomas da anorexia e da bulimia, podem chegar a óbito.\n\nV. Para o tratamento da anorexia e da bulimia, é necessária a ação de uma equipe multiprofissional a fim de ser feita uma abordagem ampla dos distúrbios, que envolve o uso de medicamentos, acompanhamentos nutricional e psicológico por causa dos transtornos relacionados à imagem corporal.\n\nEstão **CORRETAS** apenas",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "II e III."
+   },
+   {
+    "letra": "B",
+    "texto": "III e V."
+   },
+   {
+    "letra": "C",
+    "texto": "I, IV e V."
+   },
+   {
+    "letra": "D",
+    "texto": "I, II e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "I, III e V."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q005_img1.png",
+    "pagina": 6,
+    "bbox": [
+     370.8,
+     126.0,
+     537.8,
+     307.4
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.625,
+     123.10700000000008,
+     362.60200000000003,
+     134.10700000000008
+    ],
+    [
+     42.625,
+     135.90700000000004,
+     362.164,
+     146.90700000000004
+    ],
+    [
+     42.625,
+     148.52700000000004,
+     362.44599999999997,
+     159.52700000000004
+    ],
+    [
+     42.625,
+     161.12700000000007,
+     362.18600000000015,
+     172.12700000000007
+    ],
+    [
+     42.625,
+     173.7270000000001,
+     362.557,
+     184.7270000000001
+    ],
+    [
+     42.625,
+     186.52700000000004,
+     362.164,
+     197.52700000000004
+    ],
+    [
+     42.625,
+     199.12700000000007,
+     362.61,
+     210.12700000000007
+    ],
+    [
+     42.625,
+     211.7270000000001,
+     362.23,
+     222.7270000000001
+    ],
+    [
+     370.8,
+     126.0,
+     537.84,
+     307.44
+    ],
+    [
+     42.625,
+     224.3270000000001,
+     170.01599999999996,
+     235.3270000000001
+    ],
+    [
+     43.225,
+     251.15700000000004,
+     351.88399999999996,
+     262.15700000000004
+    ],
+    [
+     43.225,
+     263.75700000000006,
+     256.90000000000003,
+     274.757
+    ],
+    [
+     393.73,
+     310.73600000000005,
+     519.0980000000001,
+     318.73600000000005
+    ],
+    [
+     57.625,
+     334.757,
+     547.638,
+     345.757
+    ],
+    [
+     78.625,
+     347.557,
+     547.333,
+     358.557
+    ],
+    [
+     78.625,
+     360.177,
+     387.97800000000007,
+     371.177
+    ],
+    [
+     56.025,
+     372.777,
+     547.092,
+     383.777
+    ],
+    [
+     78.625,
+     385.377,
+     547.496,
+     396.377
+    ],
+    [
+     78.625,
+     398.177,
+     149.619,
+     409.177
+    ],
+    [
+     54.425,
+     410.777,
+     547.434,
+     421.777
+    ],
+    [
+     78.625,
+     423.377,
+     175.19399999999996,
+     434.377
+    ],
+    [
+     53.825,
+     435.97700000000003,
+     547.3539999999999,
+     446.97700000000003
+    ],
+    [
+     78.625,
+     448.777,
+     523.711,
+     459.777
+    ],
+    [
+     55.425,
+     461.407,
+     547.329,
+     472.407
+    ],
+    [
+     78.625,
+     474.007,
+     547.351,
+     485.007
+    ],
+    [
+     78.625,
+     486.607,
+     547.388,
+     497.607
+    ],
+    [
+     78.625,
+     499.407,
+     237.93800000000005,
+     510.407
+    ],
+    [
+     42.625,
+     530.2070000000001,
+     174.71699999999998,
+     541.207
+    ],
+    [
+     42.625,
+     566.027,
+     94.48400000000002,
+     577.027
+    ],
+    [
+     42.625,
+     578.627,
+     95.683,
+     589.627
+    ],
+    [
+     42.625,
+     591.427,
+     106.07800000000002,
+     602.427
+    ],
+    [
+     42.625,
+     604.027,
+     104.87900000000002,
+     615.027
+    ],
+    [
+     42.625,
+     616.627,
+     104.87900000000002,
+     627.627
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q005_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q006",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 6,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\n**Fiocruz descobre que muriçoca pode transmitir Zika**\n\nO genoma do vírus Zika, coletado no organismo de mosquitos do gênero *Culex*, foi sequenciado por cientistas da Fundação Oswaldo Cruz (Fiocruz) em Pernambuco. Descobriu-se que o vírus consegue alcançar a glândula salivar do animal e se replicar, o que indicaria, segundo a instituição, que o pernilongo pode ser um dos transmissores do vírus Zika. Os resultados foram publicados recentemente, na revista *Emerging microbes &* *infections,* do grupo *Nature*. O artigo é intitulado “Zika virus replication in the mosquito *Culex quinquefasciatus* in\n\n{{img:1}}\n\nBrazil”. Nesse estudo, foi fotografada pela primeira vez, por microscopia eletrônica, a formação de partículas virais do Zika na glândula do inseto e a sua presença na saliva expelida. “Será analisado o conjunto de suas características fisiológicas e comportamentais no ambiente natural, para entender o papel e a importância dessa espécie na transmissão do vírus Zika”, conforme informado pela Fiocruz.\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nSobre o tema relacionado ao vírus Zika, considere as seguintes afirmativas:\n\nI. O aparelho bucal do inseto é do tipo picador ou sugador labial, cujas peças bucais apresentam estruturas modificadas em estiletes. A glândula salivar do inseto apresenta um canal para liberação da saliva durante a alimentação.\n\nII. A secreção da glândula salivar se mistura ao sangue do hospedeiro durante a picada do inseto, quando este lambe o ferimento, o que pode levar partículas virais ao corpo do indivíduo parasitado.\n\nIII. Em regiões tropicais, o *Culex quinquefasciatus* se alimenta à noite e se reproduz em água parada e limpa, diferentemente do *Aedes aegypti.* Esses dados são importantes para se adotarem medidas de controle da população dos mosquitos na região metropolitana.\n\nIV. Comparando-se com os sintomas da dengue e da chicungunha, os sintomas da zika costumam ser mais brandos e duram, no máximo, sete dias, podendo ocorrer conjuntivite e manchas vermelhas na pele. Na maioria dos casos, as pessoas nem percebem que foram infectadas pelo vírus.\n\nV. As consequências para o feto são graves, quando a infecção pelo vírus da zika ocorre no primeiro trimestre da gravidez. No entanto, não se pode negar o risco para o desenvolvimento do bebê em outras fases da gestação, recomendando-se às gestantes para se protegerem do contato com o vetor da doença durante toda a gestação.\n\nEstão **CORRETAS** apenas",
+  "fontes": [
+   "Fiocruz descobre que muriçoca pode transmitir zika. Foto: Heitor Cunha / DP.",
+   "Fonte: www.diariodepernambuco.com.br/app/noticia/vida-urbana/2017/08/09/interna_vidaurbana,716924/fiocruz-descobre-que-pernilongo-pode-transmitir-zika.shtml (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I e II."
+   },
+   {
+    "letra": "B",
+    "texto": "II e IV."
+   },
+   {
+    "letra": "C",
+    "texto": "III e V."
+   },
+   {
+    "letra": "D",
+    "texto": "I, III e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "I, IV e V."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q006_img1.png",
+    "pagina": 7,
+    "bbox": [
+     339.1,
+     110.9,
+     537.8,
+     239.8
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.625,
+     59.90700000000004,
+     158.817,
+     70.90700000000004
+    ],
+    [
+     95.825,
+     85.74200000000008,
+     494.022,
+     101.74200000000008
+    ],
+    [
+     42.625,
+     116.30700000000002,
+     330.40999999999997,
+     127.30700000000002
+    ],
+    [
+     42.625,
+     128.7070000000001,
+     330.16700000000003,
+     139.7070000000001
+    ],
+    [
+     42.625,
+     141.49700000000007,
+     330.758,
+     152.49700000000007
+    ],
+    [
+     42.625,
+     154.3270000000001,
+     330.0920000000001,
+     165.3270000000001
+    ],
+    [
+     42.625,
+     166.92700000000002,
+     330.36,
+     177.92700000000002
+    ],
+    [
+     42.625,
+     179.52700000000004,
+     330.057,
+     190.52700000000004
+    ],
+    [
+     42.625,
+     192.12700000000007,
+     329.8900000000001,
+     203.12700000000007
+    ],
+    [
+     42.625,
+     204.7270000000001,
+     330.29999999999995,
+     215.7270000000001
+    ],
+    [
+     42.625,
+     217.3270000000001,
+     330.20500000000004,
+     228.36
+    ],
+    [
+     42.625,
+     229.92700000000002,
+     330.416,
+     240.92700000000002
+    ],
+    [
+     339.12,
+     110.88000000000001,
+     537.84,
+     239.76000000000002
+    ],
+    [
+     42.625,
+     242.7270000000001,
+     547.389,
+     253.76
+    ],
+    [
+     42.625,
+     255.55700000000002,
+     547.496,
+     266.5899999999999
+    ],
+    [
+     42.625,
+     268.157,
+     547.2270000000001,
+     279.157
+    ],
+    [
+     42.625,
+     280.757,
+     538.24,
+     291.79
+    ],
+    [
+     272.3,
+     301.93600000000004,
+     547.1720000000001,
+     309.93600000000004
+    ],
+    [
+     55.625,
+     312.336,
+     547.244,
+     320.336
+    ],
+    [
+     413.92,
+     321.536,
+     547.22,
+     329.536
+    ],
+    [
+     42.625,
+     338.357,
+     412.788,
+     349.357
+    ],
+    [
+     67.825,
+     360.177,
+     546.829,
+     371.177
+    ],
+    [
+     85.225,
+     372.777,
+     546.6529999999998,
+     383.777
+    ],
+    [
+     85.225,
+     385.377,
+     345.67200000000014,
+     396.377
+    ],
+    [
+     66.425,
+     398.177,
+     547.357,
+     409.177
+    ],
+    [
+     85.225,
+     410.777,
+     547.142,
+     421.777
+    ],
+    [
+     85.225,
+     423.377,
+     186.78799999999995,
+     434.377
+    ],
+    [
+     64.825,
+     435.777,
+     547.1600000000001,
+     446.777
+    ],
+    [
+     85.225,
+     448.577,
+     547.217,
+     459.577
+    ],
+    [
+     85.225,
+     461.407,
+     498.3409999999999,
+     472.407
+    ],
+    [
+     64.225,
+     474.007,
+     547.2669999999999,
+     485.007
+    ],
+    [
+     85.225,
+     486.607,
+     547.288,
+     497.607
+    ],
+    [
+     85.225,
+     499.407,
+     546.6310000000002,
+     510.407
+    ],
+    [
+     85.225,
+     511.997,
+     189.18599999999998,
+     522.9970000000001
+    ],
+    [
+     65.825,
+     524.607,
+     547.0930000000001,
+     535.607
+    ],
+    [
+     85.225,
+     537.2070000000001,
+     546.796,
+     548.207
+    ],
+    [
+     85.225,
+     549.9970000000001,
+     547.364,
+     560.9970000000001
+    ],
+    [
+     85.225,
+     562.627,
+     361.236,
+     573.627
+    ],
+    [
+     42.625,
+     591.2270000000001,
+     174.71699999999998,
+     602.227
+    ],
+    [
+     42.625,
+     616.627,
+     88.29100000000001,
+     627.627
+    ],
+    [
+     42.625,
+     629.2270000000001,
+     95.683,
+     640.227
+    ],
+    [
+     42.625,
+     641.827,
+     95.683,
+     652.827
+    ],
+    [
+     42.625,
+     654.6270000000001,
+     107.88200000000002,
+     665.6270000000001
+    ],
+    [
+     42.625,
+     667.2570000000001,
+     106.07800000000002,
+     678.2570000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q006_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q007",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 7,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Conhecidos como o melhor amigo do homem, os cães são animais considerados, às vezes, como membros da família. São muito sensíveis, e essa sensibilidade tem sido usada pelo homem, além de outras habilidades. Esses animais têm o olfato e o paladar muito desenvolvidos. Embora não percebam bem as cores, podem auxiliar os humanos como cães-guia e também na detecção de drogas, localização de bombas e armas de fogo e de indivíduos suspeitos ou desaparecidos. Para realizar essas tarefas, o animal utiliza diferentes tipos de receptores sensoriais com funções distintas.\n\n{{img:1}}\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nSobre a função desses receptores, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "Disponível em: www.ultracurioso.com.br Disponível em: www.webanimal.com.br",
+   "Disponível em: www.webanimal.com.br"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O cão detecta as moléculas odoríferas, liberadas por drogas ou peças de roupa de um indivíduo suspeito, mediante quimiorreceptores gustativos, chamados botões gustativos."
+   },
+   {
+    "letra": "B",
+    "texto": "O bulbo olfatório dos cães apresenta cílios olfatórios na superfície do epitélio nasal, que são cobertos por muco. Moléculas de substâncias odoríferas são detectadas quando alcançam esse epitélio e se misturam com o muco, interagindo com os cílios olfatórios."
+   },
+   {
+    "letra": "C",
+    "texto": "A menor eficiência visual na percepção das cores é atribuída ao menor número de bastonetes presentes na retina dos cães."
+   },
+   {
+    "letra": "D",
+    "texto": "Os mecanorreceptores são importantes também no trabalho dos cães, pois ajudam a manter a posição e o equilíbrio do animal durante a corrida, como o órgão de Corti e a membrana tectórica, presentes, respectivamente, no aparelho vestibular e no canal semicircular do ouvido interno dos cães."
+   },
+   {
+    "letra": "E",
+    "texto": "A audição também é muito importante para a defesa dos cães, pois os sons orientam o animal sobre possíveis riscos nos ambientes escuros. Para isso, a cóclea tem que conduzir as ondas sonoras que vibram nos ossículos do ouvido médio até os corpúsculos de Paccini, presentes no ouvido interno, para que cheguem ao nervo coclear."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q007_img1.png",
+    "pagina": 8,
+    "bbox": [
+     54.7,
+     145.4,
+     526.3,
+     257.8
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.625,
+     59.90700000000004,
+     546.6220000000001,
+     70.90700000000004
+    ],
+    [
+     42.625,
+     72.49700000000007,
+     547.1,
+     83.49700000000007
+    ],
+    [
+     42.625,
+     85.30700000000002,
+     547.496,
+     96.30700000000002
+    ],
+    [
+     42.625,
+     97.90700000000004,
+     547.386,
+     108.90700000000004
+    ],
+    [
+     42.625,
+     110.49700000000007,
+     547.479,
+     121.49700000000007
+    ],
+    [
+     42.625,
+     123.10700000000008,
+     538.638,
+     134.10700000000008
+    ],
+    [
+     54.72,
+     145.44,
+     526.32,
+     257.76
+    ],
+    [
+     49.825,
+     265.336,
+     340.04799999999994,
+     273.68
+    ],
+    [
+     381.52,
+     265.336,
+     512.534,
+     273.68
+    ],
+    [
+     42.625,
+     284.557,
+     380.188,
+     295.557
+    ],
+    [
+     42.625,
+     309.957,
+     547.4739999999999,
+     320.957
+    ],
+    [
+     64.025,
+     322.557,
+     448.63999999999993,
+     333.557
+    ],
+    [
+     42.625,
+     335.357,
+     547.477,
+     346.357
+    ],
+    [
+     64.025,
+     347.957,
+     547.31,
+     358.957
+    ],
+    [
+     64.025,
+     360.577,
+     411.988,
+     371.577
+    ],
+    [
+     42.625,
+     373.177,
+     547.345,
+     384.177
+    ],
+    [
+     64.025,
+     385.97700000000003,
+     208.35599999999997,
+     396.97700000000003
+    ],
+    [
+     42.625,
+     398.577,
+     546.7599999999999,
+     409.577
+    ],
+    [
+     64.025,
+     411.177,
+     547.3090000000001,
+     422.177
+    ],
+    [
+     64.025,
+     423.777,
+     547.468,
+     434.777
+    ],
+    [
+     64.025,
+     436.577,
+     90.44700000000002,
+     447.577
+    ],
+    [
+     42.625,
+     449.177,
+     547.797,
+     460.177
+    ],
+    [
+     64.025,
+     461.807,
+     547.3679999999999,
+     472.807
+    ],
+    [
+     64.025,
+     474.407,
+     547.3969999999999,
+     485.407
+    ],
+    [
+     64.025,
+     487.207,
+     318.548,
+     498.207
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q007_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q008",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 8,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A classificação atual dos seres vivos considera as semelhanças anatômicas, a composição química e estrutura genética. Assim, o nome de cada espécie deve ser constituído por duas palavras: a primeira designando o gênero; e a segunda, a espécie. No Brasil, existem cerca de 118 espécies de primatas, sendo considerado o país com o maior número de espécies. A Amazônia é o bioma com a maior diversidade, onde é possível se encontrarem três delas: *Alouatta belzebul*, *Ateles belzebuth* e *Ateles paniscus*. Com base nessas considerações e nos princípios que regem essa classificação, é **CORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "*Alouatta belzebul* e *Ateles belzebuth* possuem o maior grau de parentesco que entre *Ateles* *paniscus* e *Ateles belzebuth.*"
+   },
+   {
+    "letra": "B",
+    "texto": "*Ateles paniscus* e *Ateles belzebuth* são espécies com grau de parentesco no nível de gênero."
+   },
+   {
+    "letra": "C",
+    "texto": "*Alouatta belzebul* e *Ateles belzebuth* são espécies com grau de parentesco no nível de espécie."
+   },
+   {
+    "letra": "D",
+    "texto": "*Ateles paniscus* e *Ateles belzebuth* possuem o mesmo gênero, mas são de famílias diferentes."
+   },
+   {
+    "letra": "E",
+    "texto": "*Alouatta belzebul* e *Ateles belzebuth,* apesar de gêneros diferentes*,* pertencem à mesma espécie."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.625,
+     512.4069999999999,
+     547.358,
+     523.4069999999999
+    ],
+    [
+     42.625,
+     524.9970000000001,
+     547.496,
+     535.9970000000001
+    ],
+    [
+     42.625,
+     537.807,
+     547.234,
+     548.807
+    ],
+    [
+     42.625,
+     550.407,
+     546.7659999999998,
+     561.407
+    ],
+    [
+     42.625,
+     562.827,
+     547.496,
+     573.827
+    ],
+    [
+     42.625,
+     575.427,
+     547.496,
+     586.427
+    ],
+    [
+     42.625,
+     588.2270000000001,
+     156.304,
+     599.227
+    ],
+    [
+     42.625,
+     613.427,
+     547.453,
+     624.427
+    ],
+    [
+     64.025,
+     626.027,
+     204.04399999999998,
+     637.027
+    ],
+    [
+     42.625,
+     638.827,
+     520.8990000000001,
+     649.827
+    ],
+    [
+     42.625,
+     651.427,
+     531.6850000000001,
+     662.427
+    ],
+    [
+     42.625,
+     664.057,
+     526.3309999999999,
+     675.057
+    ],
+    [
+     42.625,
+     676.652,
+     541.729,
+     687.652
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q008_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q009",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 9,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Acredita-se que as plantas tenham evoluído, de uma forma ancestral, das algas verdes, levando às adaptações para conquistar principalmente o ambiente terrestre. Porém, algumas características das algas verdes, presentes nas espécies conhecidas atualmente, se mostraram importantes para a conquista do ambiente terrestre.\n\nSobre essas características, analise as afirmativas a seguir:\n\nA - Possuem camada de células estéreis envolvendo e protegendo os gametângios.\n\nB - Retêm o zigoto e os estágios iniciais de desenvolvimento embrionário dentro do gametângio feminino, protegendo o embrião.\n\nC - Os gametas masculinos são flagelados.  \nD - O endosperma é digerido pelo embrião antes de entrar em dormência.  \nE - Os estróbilos podem ser femininos ou masculinos.\n\nEstão **CORRETAS**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A e B."
+   },
+   {
+    "letra": "B",
+    "texto": "C e E."
+   },
+   {
+    "letra": "C",
+    "texto": "B e C."
+   },
+   {
+    "letra": "D",
+    "texto": "A e E."
+   },
+   {
+    "letra": "E",
+    "texto": "C e D."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.625,
+     59.90700000000004,
+     547.47,
+     70.90700000000004
+    ],
+    [
+     42.625,
+     72.49700000000007,
+     547.275,
+     83.49700000000007
+    ],
+    [
+     42.625,
+     85.30700000000002,
+     546.799,
+     96.30700000000002
+    ],
+    [
+     42.625,
+     97.90700000000004,
+     200.53799999999998,
+     108.90700000000004
+    ],
+    [
+     42.625,
+     123.10700000000008,
+     334.73299999999995,
+     134.10700000000008
+    ],
+    [
+     60.625,
+     148.52700000000004,
+     471.736,
+     159.52700000000004
+    ],
+    [
+     60.625,
+     161.12700000000007,
+     546.724,
+     172.12700000000007
+    ],
+    [
+     78.625,
+     173.7270000000001,
+     236.97000000000006,
+     184.7270000000001
+    ],
+    [
+     60.625,
+     186.52700000000004,
+     273.0830000000001,
+     197.52700000000004
+    ],
+    [
+     60.625,
+     199.12700000000007,
+     422.327,
+     210.12700000000007
+    ],
+    [
+     60.625,
+     211.7270000000001,
+     324.2550000000001,
+     222.7270000000001
+    ],
+    [
+     42.625,
+     249.55700000000002,
+     135.317,
+     260.557
+    ],
+    [
+     42.625,
+     274.957,
+     94.06600000000002,
+     285.957
+    ],
+    [
+     42.625,
+     287.757,
+     94.66000000000001,
+     298.757
+    ],
+    [
+     42.625,
+     300.357,
+     94.66000000000001,
+     311.357
+    ],
+    [
+     42.625,
+     312.957,
+     94.06600000000002,
+     323.957
+    ],
+    [
+     42.625,
+     325.557,
+     95.25400000000002,
+     336.557
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q009_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q010",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 10,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um problema comum na arborização pública é a ocorrência de árvores ocas, ameaçando caírem, causando algum acidente. As prefeituras constantemente recebem chamados para diagnosticar o problema. Entretanto, na maioria das vezes, deparam-se com árvores velhas com aparência sadia, sem ameaça a sua sustentação e com a copa bastante preservada e frondosa, sinal de que há vitalidade no tecido vascular, mantendo a rede de circulação de substâncias ativas.\n\nSobre o texto, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A periderme ou casca mantém o tecido do floema funcional, enquanto no alburno, o floema se torna não funcional."
+   },
+   {
+    "letra": "B",
+    "texto": "O cerne mantém-se resistente com o xilema funcional, permitindo a condução da seiva."
+   },
+   {
+    "letra": "C",
+    "texto": "A parte mais externa do xilema e próxima ao câmbio, chamada de alburno, permanece funcional."
+   },
+   {
+    "letra": "D",
+    "texto": "Parte do xilema desenvolve tecido vascular vegetal, responsável pelo transporte de água, sais minerais e compostos orgânicos produzidos pela fotossíntese."
+   },
+   {
+    "letra": "E",
+    "texto": "O cerne mantém o tecido vascular funcional, permitindo a condução da seiva elaborada."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.625,
+     363.577,
+     547.438,
+     374.577
+    ],
+    [
+     42.625,
+     376.177,
+     546.84,
+     387.177
+    ],
+    [
+     42.625,
+     388.97700000000003,
+     547.3969999999999,
+     399.97700000000003
+    ],
+    [
+     42.625,
+     401.577,
+     547.3829999999999,
+     412.577
+    ],
+    [
+     42.625,
+     414.177,
+     449.608,
+     425.177
+    ],
+    [
+     42.625,
+     439.377,
+     277.95799999999997,
+     450.377
+    ],
+    [
+     42.625,
+     464.807,
+     547.401,
+     475.807
+    ],
+    [
+     64.025,
+     477.407,
+     160.63400000000001,
+     488.407
+    ],
+    [
+     42.625,
+     490.207,
+     491.442,
+     501.207
+    ],
+    [
+     42.625,
+     502.807,
+     538.3040000000001,
+     513.807
+    ],
+    [
+     42.625,
+     515.407,
+     547.281,
+     526.407
+    ],
+    [
+     64.025,
+     527.9970000000001,
+     367.8120000000001,
+     538.9970000000001
+    ],
+    [
+     42.625,
+     540.807,
+     495.1039999999999,
+     551.807
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q010_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q011",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 11,
+  "area": "",
+  "texto_base_id": "P4150-T1",
+  "textos_base_ids": [
+   "P4150-T1"
+  ],
+  "enunciado": "O pH é um parâmetro fundamental para a escolha de xampu e condicionador, sobretudo para quem tem o cabelo cacheado ou crespo, cujo pH se situa entre 4,5 e 5,5. Se o pH dos produtos for muito diferente, o cabelo pode ficar seco, sem brilho e quebradiço. Ao comprar xampu e condicionador, Dandara mediu o pH de cada um com um pHmetro portátil e obteve os valores 7,8 e 6,0, respectivamente.\n\nAlgumas afirmações são listadas a seguir:\n\nI. O xampu utilizado por Dandara é ácido, enquanto o condicionador é básico.\n\nII. A concentração de íons hidrônio (H<sub>3</sub>O<sup>+</sup>) no condicionador é 1μmol/L, sendo um valor maior que a concentração de íons hidrônio para o xampu.\n\nIII. Para ajustar o pH dos produtos ao pH do seu cabelo, Dandara poderia adicionar um ácido fraco, como o ácido cítrico, ao xampu e ao condicionador.\n\nIV. Ao adicionar hidróxido de sódio aos dois produtos, o valor apontado no pHmetro será maior que os valores obtidos na medição inicial dos produtos.\n\nEstão **CORRETAS**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e IV, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "II, III e IV, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "I, II e III, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "I, III e IV, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II, III e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.625,
+     97.90700000000004,
+     547.481,
+     108.90700000000004
+    ],
+    [
+     42.625,
+     110.49700000000007,
+     547.468,
+     121.49700000000007
+    ],
+    [
+     42.625,
+     123.10700000000008,
+     547.638,
+     134.10700000000008
+    ],
+    [
+     42.625,
+     135.90700000000004,
+     547.415,
+     146.90700000000004
+    ],
+    [
+     42.625,
+     148.52700000000004,
+     126.58800000000001,
+     159.52700000000004
+    ],
+    [
+     42.625,
+     173.7270000000001,
+     248.70000000000002,
+     184.7270000000001
+    ],
+    [
+     64.825,
+     211.7270000000001,
+     455.6250000000001,
+     222.7270000000001
+    ],
+    [
+     61.825,
+     225.12700000000007,
+     547.311,
+     236.226
+    ],
+    [
+     85.225,
+     237.92700000000002,
+     336.758,
+     248.92700000000002
+    ],
+    [
+     58.825,
+     250.55700000000002,
+     546.7629999999998,
+     261.557
+    ],
+    [
+     85.225,
+     263.15700000000004,
+     367.234,
+     274.157
+    ],
+    [
+     57.625,
+     275.957,
+     547.3410000000001,
+     286.957
+    ],
+    [
+     85.225,
+     288.557,
+     355.40700000000015,
+     299.557
+    ],
+    [
+     42.625,
+     313.557,
+     135.317,
+     324.557
+    ],
+    [
+     42.625,
+     339.157,
+     147.489,
+     350.157
+    ],
+    [
+     42.625,
+     351.757,
+     153.426,
+     362.757
+    ],
+    [
+     42.625,
+     364.377,
+     146.039,
+     375.377
+    ],
+    [
+     42.625,
+     376.97700000000003,
+     150.43099999999998,
+     387.97700000000003
+    ],
+    [
+     42.625,
+     389.777,
+     120.08100000000002,
+     400.777
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q011_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q012",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 12,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Soluções aquosas de ácido cítrico (H<sub>3</sub>C<sub>6</sub>H<sub>5</sub>O<sub>7</sub>) são muito utilizadas pela indústria alimentícia para corrigir variações de pH. Determinada fábrica compra soluções de ácido cítrico de um único fornecedor, para serem utilizadas em seus processos. A concentração da solução deve ficar entre 0,10 mol.L<sup>-1</sup> e 0,15 mol.L<sup>-1</sup>. No entanto, o laboratório de controle de qualidade da fábrica começou a desconfiar de um dos lotes dessa matéria-prima. Um conjunto de testes realizados pelo laboratório indicou ser necessário o uso de 18,0 mL de NaOH 0,102 M para neutralizar 20,0 mL da solução de ácido cítrico desse lote.\n\nConsiderando o resultado do teste, nesse lote,",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "as soluções de ácido cítrico estão menos concentradas que a variação estipulada."
+   },
+   {
+    "letra": "B",
+    "texto": "as soluções de ácido cítrico estão mais concentradas do que deveriam."
+   },
+   {
+    "letra": "C",
+    "texto": "a concentração da matéria-prima está no limite inferior tolerável."
+   },
+   {
+    "letra": "D",
+    "texto": "a concentração da matéria-prima está no limite superior tolerável."
+   },
+   {
+    "letra": "E",
+    "texto": "a concentração das soluções é de 0,125 mol L<sup>-1</sup>."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.625,
+     427.577,
+     547.481,
+     438.577
+    ],
+    [
+     42.625,
+     440.377,
+     547.4599999999999,
+     451.377
+    ],
+    [
+     42.625,
+     452.97700000000003,
+     547.475,
+     463.97700000000003
+    ],
+    [
+     42.625,
+     465.607,
+     547.496,
+     476.607
+    ],
+    [
+     42.625,
+     478.207,
+     547.2280000000001,
+     489.207
+    ],
+    [
+     42.625,
+     491.007,
+     547.486,
+     502.007
+    ],
+    [
+     42.625,
+     503.607,
+     157.49699999999999,
+     514.607
+    ],
+    [
+     42.625,
+     528.807,
+     270.138,
+     539.807
+    ],
+    [
+     42.625,
+     555.407,
+     465.937,
+     566.407
+    ],
+    [
+     42.625,
+     568.027,
+     412.97499999999997,
+     579.027
+    ],
+    [
+     42.625,
+     580.627,
+     377.788,
+     591.627
+    ],
+    [
+     42.625,
+     593.2270000000001,
+     383.788,
+     604.227
+    ],
+    [
+     42.625,
+     606.027,
+     300.758,
+     617.027
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q012_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q013",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 13,
+  "area": "",
+  "texto_base_id": "P4150-T2",
+  "textos_base_ids": [
+   "P4150-T2"
+  ],
+  "enunciado": "Denomina-se energia específica aquela liberada por quilograma do combustível. Sabendo-se que\n\numa mistura com bioquerosene tem energia específica de 42.800 KJ/kg, o que se pode afirmar em comparação ao octano (C<sub>8</sub>H<sub>18</sub>), componente da gasolina?\n\nDados: C = 12g/mol; H = 1g/mol; ΔH<sub>combustão</sub> (C<sub>8</sub>H<sub>18</sub>) = - 5.471 KJ/mol",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A energia específica do octano é maior, liberando aproximadamente 5200 KJ a mais de energia por quilograma de combustível."
+   },
+   {
+    "letra": "B",
+    "texto": "A energia específica do octano é menor, liberando aproximadamente 5200 KJ a menos de energia por quilograma de combustível."
+   },
+   {
+    "letra": "C",
+    "texto": "A energia específica do octano é maior, liberando aproximadamente 37.330 KJ a mais de energia por quilograma de combustível."
+   },
+   {
+    "letra": "D",
+    "texto": "A energia específica do octano é menor, liberando aproximadamente 37.330 KJ a menos de energia por quilograma de combustível."
+   },
+   {
+    "letra": "E",
+    "texto": "As energias específicas são aproximadamente equivalentes, o que justifica a escolha de um ou outro para o funcionamento de aeronaves."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.625,
+     393.377,
+     547.4739999999999,
+     404.377
+    ],
+    [
+     56.825,
+     405.97700000000003,
+     547.2710000000001,
+     416.97700000000003
+    ],
+    [
+     56.825,
+     418.577,
+     338.688,
+     429.577
+    ],
+    [
+     186.25,
+     440.777,
+     520.142,
+     451.876
+    ],
+    [
+     42.625,
+     469.207,
+     546.957,
+     480.207
+    ],
+    [
+     64.025,
+     482.007,
+     217.34300000000002,
+     493.007
+    ],
+    [
+     42.625,
+     494.607,
+     546.8149999999999,
+     505.607
+    ],
+    [
+     64.025,
+     507.207,
+     217.34300000000002,
+     518.207
+    ],
+    [
+     42.625,
+     519.807,
+     547.026,
+     530.807
+    ],
+    [
+     64.025,
+     532.607,
+     217.34300000000002,
+     543.607
+    ],
+    [
+     42.625,
+     545.2070000000001,
+     546.7819999999998,
+     556.207
+    ],
+    [
+     64.025,
+     557.807,
+     257.13000000000005,
+     568.807
+    ],
+    [
+     42.625,
+     570.427,
+     547.03,
+     581.427
+    ],
+    [
+     64.025,
+     583.2270000000001,
+     271.11100000000005,
+     594.227
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q013_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q014",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 14,
+  "area": "",
+  "texto_base_id": "P4150-T2",
+  "textos_base_ids": [
+   "P4150-T2"
+  ],
+  "enunciado": "Qual o volume correspondente à massa de CO**<sub>2</sub>** que deixou de ser liberada, quando a utilização da\n\nmistura foi bem-sucedida, considerando a pressão de 1 atm e temperatura de 27ºC?\n\nDado: R= 0,082L**.**atm**.**K<sup>-1</sup>**.**mol<sup>-1</sup>",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "100x10<sup>6</sup> L"
+   },
+   {
+    "letra": "B",
+    "texto": "122x10<sup>6</sup> L"
+   },
+   {
+    "letra": "C",
+    "texto": "244x10<sup>6</sup> L"
+   },
+   {
+    "letra": "D",
+    "texto": "156x10<sup>6</sup> L"
+   },
+   {
+    "letra": "E",
+    "texto": "22,4x10<sup>6</sup> L"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.625,
+     620.827,
+     547.4159999999999,
+     631.827
+    ],
+    [
+     56.825,
+     633.627,
+     469.381,
+     644.627
+    ],
+    [
+     60.625,
+     658.827,
+     209.162,
+     669.827
+    ],
+    [
+     42.425,
+     697.052,
+     107.336,
+     708.052
+    ],
+    [
+     158.05,
+     697.052,
+     225.19600000000003,
+     708.052
+    ],
+    [
+     262.88,
+     697.052,
+     330.01599999999996,
+     708.052
+    ],
+    [
+     367.73,
+     697.052,
+     434.866,
+     708.052
+    ],
+    [
+     472.75,
+     697.052,
+     543.086,
+     708.052
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q014_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q015",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 15,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um reator de 5,0 L é utilizado para a produção de cloro, seguindo a reação equacionada a seguir:\n\n{{img:1}}\n\nO gráfico abaixo mostra como as quantidades de reagentes variam com o tempo, a uma dada temperatura.\n\n{{img:2}}\n\nQual o valor da constante de equilíbrio para essa reação nessa temperatura?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "0,08"
+   },
+   {
+    "letra": "B",
+    "texto": "0,80"
+   },
+   {
+    "letra": "C",
+    "texto": "8,00"
+   },
+   {
+    "letra": "D",
+    "texto": "80,00"
+   },
+   {
+    "letra": "E",
+    "texto": "800,00"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q015_img1.png",
+    "pagina": 12,
+    "bbox": [
+     159.8,
+     79.2,
+     456.5,
+     105.8
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q015_img2.png",
+    "pagina": 12,
+    "bbox": [
+     192.6,
+     146.6,
+     418.8,
+     330.4
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.625,
+     59.90700000000004,
+     541.5939999999999,
+     70.90700000000004
+    ],
+    [
+     159.84,
+     79.2,
+     456.48,
+     105.84
+    ],
+    [
+     42.625,
+     123.10700000000008,
+     547.467,
+     134.10700000000008
+    ],
+    [
+     42.625,
+     135.90700000000004,
+     105.226,
+     146.90700000000004
+    ],
+    [
+     192.6,
+     146.60000000000002,
+     418.75,
+     330.44
+    ],
+    [
+     42.625,
+     341.757,
+     419.993,
+     352.757
+    ],
+    [
+     42.625,
+     366.97700000000003,
+     85.53,
+     377.97700000000003
+    ],
+    [
+     42.625,
+     379.777,
+     85.53,
+     390.777
+    ],
+    [
+     42.625,
+     392.377,
+     85.53,
+     403.377
+    ],
+    [
+     42.625,
+     404.97700000000003,
+     91.72300000000001,
+     415.97700000000003
+    ],
+    [
+     42.625,
+     417.577,
+     97.718,
+     428.577
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q016",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 16,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Sobre os fenômenos comuns em nosso cotidiano, analise as afirmativas a seguir:\n\n1. Jogadores de futebol não gostam de atuar em regiões de altitude, pois comumente sentem efeitos fisiológicos, como cefaleias, náuseas e dificuldade de respirar, além de a bola ficar aparentemente mais leve.\n\n2. Um ovo de galinha imerso em um recipiente com vinagre, após alguns dias, terá seu volume aumentado e subirá à superfície.\n\n3. A queimadura com calda de doce é muito mais grave que a queimadura com água, pois a calda se mantém mais tempo no estado líquido.\n\n4. Para retardar o derretimento dos picolés, um vendedor adiciona, na caixa térmica, alguns picolés bastante salgados, que não serão consumidos.\n\nOs fenômenos apresentados estão associados, respectivamente, à",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "osmose, ebulioscopia, crioscopia e tonoscopia."
+   },
+   {
+    "letra": "B",
+    "texto": "ebulioscopia, crioscopia, tonoscopia e osmose."
+   },
+   {
+    "letra": "C",
+    "texto": "tonoscopia, crioscopia, osmose e ebulioscopia."
+   },
+   {
+    "letra": "D",
+    "texto": "tonoscopia, osmose, ebulioscopia e crioscopia."
+   },
+   {
+    "letra": "E",
+    "texto": "crioscopia, osmose, ebulioscopia e tonoscopia."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.625,
+     455.577,
+     462.008,
+     466.577
+    ],
+    [
+     64.025,
+     481.007,
+     546.999,
+     492.007
+    ],
+    [
+     85.225,
+     493.607,
+     547.3389999999999,
+     504.607
+    ],
+    [
+     85.225,
+     506.207,
+     211.99399999999997,
+     517.207
+    ],
+    [
+     64.025,
+     518.807,
+     546.897,
+     529.807
+    ],
+    [
+     85.225,
+     531.607,
+     245.489,
+     542.607
+    ],
+    [
+     64.025,
+     544.2070000000001,
+     546.7629999999999,
+     555.207
+    ],
+    [
+     85.225,
+     556.807,
+     318.859,
+     567.807
+    ],
+    [
+     64.025,
+     569.427,
+     547.442,
+     580.427
+    ],
+    [
+     85.225,
+     582.2270000000001,
+     353.388,
+     593.227
+    ],
+    [
+     42.625,
+     607.427,
+     371.246,
+     618.427
+    ],
+    [
+     42.625,
+     632.627,
+     293.98499999999996,
+     643.627
+    ],
+    [
+     42.625,
+     645.427,
+     293.87700000000007,
+     656.427
+    ],
+    [
+     42.625,
+     658.027,
+     293.845,
+     669.027
+    ],
+    [
+     42.625,
+     670.657,
+     293.87800000000004,
+     681.657
+    ],
+    [
+     42.625,
+     683.2520000000001,
+     293.88200000000006,
+     694.2520000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q016_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q017",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 17,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Determinada solução aquosa, e concentrada é mantida em um frasco escuro, bem fechado e armazenado no refrigerador. Essa medida é necessária, pois uma das substâncias se decompõe mais facilmente quando está exposta à luz, uma vez que a energia, em forma de onda eletromagnética, ajuda a quebrar a barreira da energia de ativação para a sua decomposição.\n\nQual substância é abordada no texto?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Cloro"
+   },
+   {
+    "letra": "B",
+    "texto": "Ozônio"
+   },
+   {
+    "letra": "C",
+    "texto": "Óxido de cobre"
+   },
+   {
+    "letra": "D",
+    "texto": "Sulfato de ferro"
+   },
+   {
+    "letra": "E",
+    "texto": "Peróxido de hidrogênio"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     59.90700000000004,
+     547.496,
+     70.90700000000004
+    ],
+    [
+     42.625,
+     72.49700000000007,
+     547.457,
+     83.49700000000007
+    ],
+    [
+     42.625,
+     85.30700000000002,
+     547.638,
+     96.30700000000002
+    ],
+    [
+     42.625,
+     97.90700000000004,
+     416.464,
+     108.90700000000004
+    ],
+    [
+     42.625,
+     123.10700000000008,
+     228.58900000000003,
+     134.10700000000008
+    ],
+    [
+     42.625,
+     148.52700000000004,
+     90.117,
+     159.52700000000004
+    ],
+    [
+     42.625,
+     161.12700000000007,
+     98.71900000000001,
+     172.12700000000007
+    ],
+    [
+     42.625,
+     173.7270000000001,
+     138.67100000000002,
+     184.7270000000001
+    ],
+    [
+     42.625,
+     186.52700000000004,
+     139.115,
+     197.52700000000004
+    ],
+    [
+     42.625,
+     199.12700000000007,
+     177.121,
+     210.12700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q017_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q018",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 18,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Países, como Chile, Nova Zelândia e Bangladesh, têm enfrentado problemas relacionados ao envenenamento da população por causa da exposição prolongada ao arsênio (As, Z = 33) na água, uma vez que a sua ingestão pode causar câncer. Estima-se que, para uma concentração de 0,05 ppm, 1% das pessoas que consumirem a água estarão em risco de câncer. Nessa perspectiva, uma amostra de água contaminada foi testada, tendo-se obtido a concentração de arsênio de 20μmol/L. Qual o risco de câncer associado à amostra, considerando uma proporcionalidade entre a concentração do arsênio e o grau de risco?\n\nDado: d (H<sub>2</sub>O) = 1,0 g/mL",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "3%"
+   },
+   {
+    "letra": "B",
+    "texto": "5%"
+   },
+   {
+    "letra": "C",
+    "texto": "13%"
+   },
+   {
+    "letra": "D",
+    "texto": "20%"
+   },
+   {
+    "letra": "E",
+    "texto": "26%"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     237.12700000000007,
+     547.306,
+     248.12700000000007
+    ],
+    [
+     42.625,
+     249.74700000000007,
+     547.638,
+     260.74700000000007
+    ],
+    [
+     42.625,
+     262.3570000000001,
+     547.36,
+     273.357
+    ],
+    [
+     42.625,
+     274.957,
+     547.419,
+     285.957
+    ],
+    [
+     42.625,
+     288.557,
+     547.165,
+     299.656
+    ],
+    [
+     42.625,
+     301.157,
+     546.979,
+     312.157
+    ],
+    [
+     42.625,
+     313.757,
+     130.66899999999998,
+     324.757
+    ],
+    [
+     52.025,
+     340.157,
+     176.846,
+     351.157
+    ],
+    [
+     42.625,
+     376.97700000000003,
+     80.004,
+     387.97700000000003
+    ],
+    [
+     149.05,
+     376.97700000000003,
+     180.82899999999998,
+     387.97700000000003
+    ],
+    [
+     255.27,
+     376.97700000000003,
+     292.679,
+     387.97700000000003
+    ],
+    [
+     361.73,
+     376.97700000000003,
+     399.69899999999996,
+     387.97700000000003
+    ],
+    [
+     468.15,
+     376.97700000000003,
+     506.129,
+     387.97700000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q018_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q019",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 19,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As equações químicas das possíveis transformações que ocorrem em determinado equipamento, especificamente em um dos seus compartimentos contendo platina, são apresentadas a seguir:\n\nNO + CO → 1/2 N<sub>2</sub> + CO<sub>2</sub>  \nNO<sub>2</sub> + CO → 1/2 N<sub>2</sub> + CO<sub>2</sub>  \nNO + H<sub>2</sub> → 1/2 N<sub>2</sub> + H<sub>2</sub>O  \n2 N<sub>2</sub>O → 2N<sub>2</sub> + O<sub>2</sub>\n\nQue equipamento se destina à tal finalidade?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Coluna de troca iônica para purificar a água utilizada em aparelhos de diálise."
+   },
+   {
+    "letra": "B",
+    "texto": "Bomba injetora para inibir as reações de redução que ocorrem no interior de um motor de ignição automotiva."
+   },
+   {
+    "letra": "C",
+    "texto": "Conversor catalítico para reduzir gases poluentes gerados pelos veículos automotivos."
+   },
+   {
+    "letra": "D",
+    "texto": "Filtro cerâmico para oxidar gases poluentes, gerados em aquários de peixes ornamentais."
+   },
+   {
+    "letra": "E",
+    "texto": "Dispositivo pneumático para oxidar o monóxido de carbono e o monóxido de nitrogênio, a fim de gerar gases pressurizadores de pneus de veículos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     452.97700000000003,
+     547.557,
+     463.97700000000003
+    ],
+    [
+     42.625,
+     465.607,
+     509.774,
+     476.607
+    ],
+    [
+     232.08,
+     491.007,
+     357.812,
+     502.04
+    ],
+    [
+     230.08,
+     503.607,
+     359.622,
+     514.6400000000001
+    ],
+    [
+     234.48,
+     516.2070000000001,
+     355.45799999999997,
+     527.24
+    ],
+    [
+     250.08,
+     528.807,
+     339.592,
+     539.84
+    ],
+    [
+     42.625,
+     566.827,
+     263.53999999999996,
+     577.827
+    ],
+    [
+     42.625,
+     592.2270000000001,
+     443.20799999999997,
+     603.227
+    ],
+    [
+     42.625,
+     604.827,
+     547.463,
+     615.827
+    ],
+    [
+     64.025,
+     617.427,
+     121.108,
+     628.427
+    ],
+    [
+     42.625,
+     630.027,
+     487.608,
+     641.027
+    ],
+    [
+     42.625,
+     642.827,
+     503.808,
+     653.827
+    ],
+    [
+     42.625,
+     655.427,
+     547.496,
+     666.427
+    ],
+    [
+     64.025,
+     668.057,
+     313.758,
+     679.057
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q020",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 20,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Certa mistura sólida, binária, foi lançada em determinada área. Um dos seus constituintes impede as moléculas de água se organizarem e formarem uma estrutura sólida por causa das interações entre as partículas dissolvidas e as moléculas do solvente. O outro componente tem a função de reduzir o atrito.\n\nO sistema acima se relaciona a uma mistura de",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "NH<sub>4</sub>Cl e carvão, para adubar plantas em épocas de geadas."
+   },
+   {
+    "letra": "B",
+    "texto": "CaCl<sub>2</sub> e SiO<sub>2</sub>, para evitar a formação de gelo nas estradas."
+   },
+   {
+    "letra": "C",
+    "texto": "CaCO<sub>3</sub> e SiO<sub>2</sub>, para fixar blocos de gelo em construções polares."
+   },
+   {
+    "letra": "D",
+    "texto": "gelo seco e NaCl, para otimizar a patinação em uma pista de gelo."
+   },
+   {
+    "letra": "E",
+    "texto": "etanol e NaCl, para resfriar latas de bebidas em uma caixa térmica."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     59.90700000000004,
+     547.473,
+     70.90700000000004
+    ],
+    [
+     42.625,
+     72.49700000000007,
+     547.482,
+     83.49700000000007
+    ],
+    [
+     42.625,
+     85.30700000000002,
+     547.086,
+     96.30700000000002
+    ],
+    [
+     42.625,
+     97.90700000000004,
+     70.07000000000001,
+     108.90700000000004
+    ],
+    [
+     42.625,
+     123.10700000000008,
+     275.19599999999997,
+     134.10700000000008
+    ],
+    [
+     42.625,
+     161.12700000000007,
+     358.11499999999995,
+     172.12700000000007
+    ],
+    [
+     42.625,
+     173.7270000000001,
+     351.50800000000004,
+     184.7270000000001
+    ],
+    [
+     42.625,
+     186.52700000000004,
+     381.917,
+     197.52700000000004
+    ],
+    [
+     42.625,
+     199.12700000000007,
+     388.967,
+     210.12700000000007
+    ],
+    [
+     42.625,
+     211.7270000000001,
+     392.956,
+     222.7270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q020_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q021",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 21,
+  "area": "",
+  "texto_base_id": "P4150-T3",
+  "textos_base_ids": [
+   "P4150-T3"
+  ],
+  "enunciado": "Há dois séculos, o movimento liderado por Domingos José Martins conseguiu agitar uma revolta militar no Forte das Cinco Pontas, em Recife, sob a liderança do capitão José de Barros Lima, durante o momento em que seus superiores lhe deram voz de prisão. Isso culminou com o assassinato do brigadeiro português Manoel Joaquim Barbosa de Castro, responsável pelo Forte das Cinco Pontas.\n\n{{fonte:1}}\n\nEsses fatos se remetem ao seguinte acontecimento da história de Pernambuco:",
+  "fontes": [
+   "SILVA, Tito Lívio Cabral. www.revistadedireito.ufc.br"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Cabanagem."
+   },
+   {
+    "letra": "B",
+    "texto": "Revolta dos Malês."
+   },
+   {
+    "letra": "C",
+    "texto": "Batalha dos Guararapes."
+   },
+   {
+    "letra": "D",
+    "texto": "Guerra dos Alfaiates."
+   },
+   {
+    "letra": "E",
+    "texto": "Revolução de 1817."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.625,
+     85.30700000000002,
+     547.307,
+     96.30700000000002
+    ],
+    [
+     42.625,
+     97.90700000000004,
+     547.114,
+     108.90700000000004
+    ],
+    [
+     42.625,
+     110.49700000000007,
+     546.722,
+     121.49700000000007
+    ],
+    [
+     42.625,
+     123.10700000000008,
+     532.668,
+     134.10700000000008
+    ],
+    [
+     361.52,
+     135.28599999999994,
+     547.088,
+     143.28599999999994
+    ],
+    [
+     42.625,
+     153.12700000000007,
+     432.95500000000004,
+     164.12700000000007
+    ],
+    [
+     42.625,
+     171.52700000000004,
+     127.22000000000001,
+     182.52700000000004
+    ],
+    [
+     42.625,
+     184.12700000000007,
+     157.39299999999997,
+     195.12700000000007
+    ],
+    [
+     42.625,
+     196.7270000000001,
+     186.36699999999996,
+     207.7270000000001
+    ],
+    [
+     42.625,
+     209.52700000000004,
+     167.194,
+     220.52700000000004
+    ],
+    [
+     42.625,
+     222.12700000000007,
+     161.98,
+     233.12700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q022",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 22,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a imagem abaixo:\n\n{{img:1}}\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nEssa rara imagem do Brasil no século XIX aponta para uma sociedade",
+  "fontes": [
+   "Foto da Fazenda Quititi, no Rio de Janeiro, 1865.",
+   "Fonte: http://www.historiailustrada.com.br/2014/04/raras-fotografias-escravos-brasileiros.html"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "industrial, composta por valores da alta burguesia."
+   },
+   {
+    "letra": "B",
+    "texto": "livre, na qual a escravidão não era mais uma realidade."
+   },
+   {
+    "letra": "C",
+    "texto": "desigual, ainda pautada por estruturas conservadoras."
+   },
+   {
+    "letra": "D",
+    "texto": "militarizada, voltada para valores da hierarquia da guerra."
+   },
+   {
+    "letra": "E",
+    "texto": "harmoniosa, demonstrando o bom convívio entre diferentes grupos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q022_img1.png",
+    "pagina": 15,
+    "bbox": [
+     148.3,
+     275.0,
+     421.2,
+     486.0
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.625,
+     260.15700000000004,
+     195.387,
+     271.157
+    ],
+    [
+     148.32,
+     275.04,
+     421.2,
+     486.0
+    ],
+    [
+     252.08,
+     487.18600000000004,
+     426.5920000000001,
+     495.18600000000004
+    ],
+    [
+     97.025,
+     496.386,
+     426.85,
+     504.386
+    ],
+    [
+     42.625,
+     518.807,
+     387.894,
+     529.807
+    ],
+    [
+     42.625,
+     540.807,
+     309.875,
+     551.807
+    ],
+    [
+     42.625,
+     553.407,
+     334.35800000000006,
+     564.407
+    ],
+    [
+     42.625,
+     566.027,
+     330.14300000000003,
+     577.027
+    ],
+    [
+     42.625,
+     578.627,
+     345.24000000000024,
+     589.627
+    ],
+    [
+     42.625,
+     591.427,
+     394.20100000000014,
+     602.427
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q022_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q023",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 23,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Quando, em 1815, a Coroa elevou o Brasil à condição de “reino”, o evento foi comemorado localmente, com a invocação de metáforas seculares acerca do triunfo da civilização europeia sobre a selvageria indígena. A “antiga nudez” da América, escreveu um cronista no Rio, cobria-se agora com a “coroa brilhante” e “o real manto de púrpura” do próprio monarca português.\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nO texto aponta para a mudança do estatuto da condição de colônia do Brasil, que, mesmo assim, não conseguiu alterar práticas e realidades coloniais, tais como a",
+  "fontes": [
+   "SCHULTZ, K. *A crise do Império e a questão da escravidão*. p.70/71.",
+   "Fonte: http://revista.arquivonacional.gov.br/index.php/revistaacervo/article/view/88/88"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "escravidão."
+   },
+   {
+    "letra": "B",
+    "texto": "industrialização."
+   },
+   {
+    "letra": "C",
+    "texto": "servidão voluntária."
+   },
+   {
+    "letra": "D",
+    "texto": "superioridade racial."
+   },
+   {
+    "letra": "E",
+    "texto": "dependência cultural."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   15,
+   16
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.625,
+     629.427,
+     546.7489999999998,
+     640.46
+    ],
+    [
+     42.625,
+     642.027,
+     546.7640000000001,
+     653.027
+    ],
+    [
+     42.625,
+     654.6270000000001,
+     547.376,
+     665.6600000000001
+    ],
+    [
+     42.625,
+     667.49,
+     412.99500000000006,
+     678.49
+    ],
+    [
+     302.5,
+     686.231,
+     547.386,
+     694.231
+    ],
+    [
+     245.27,
+     695.431,
+     546.9020000000002,
+     703.431
+    ]
+   ],
+   "16": [
+    [
+     42.625,
+     59.90700000000004,
+     547.4739999999999,
+     70.90700000000004
+    ],
+    [
+     42.625,
+     72.49700000000007,
+     339.974,
+     83.49700000000007
+    ],
+    [
+     42.625,
+     95.49700000000007,
+     120.41100000000002,
+     106.49700000000007
+    ],
+    [
+     42.625,
+     108.30700000000002,
+     143.005,
+     119.30700000000002
+    ],
+    [
+     42.625,
+     120.90700000000004,
+     159.308,
+     131.90700000000004
+    ],
+    [
+     42.625,
+     133.49700000000007,
+     162.772,
+     144.49700000000007
+    ],
+    [
+     42.625,
+     146.10700000000008,
+     168.50799999999998,
+     157.10700000000008
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p15.jpg",
+   "revisao/Q023_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q024",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 24,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Durante a segunda metade do século XIX, o Brasil viveu um período extremamente turbulento em sua História. Novos ideais emergiam diante de uma estrutura política, que não atendia aos interesses de um grupo, a nova burguesia urbana, que ascendia no cenário político da época, buscando representação e participação na vida política brasileira. Contudo, não encontravam espaço no sistema, que vigorava até então. A base de sustentação do Império – a monarquia monocultora e escravista – via-se, então, em processo de desestruturação, sendo alvo de pesadas críticas.\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nEsse momento relatado propiciou várias contestações do sistema político brasileiro, as quais tinham entre suas bandeiras",
+  "fontes": [
+   "CARVALHO, Mariana Nunes de. Intelectuais, imprensa e a contestação ao regime monárquico.",
+   "Fonte: http://www.encontro2008.rj.anpuh.org/resources/content/anais/1212976674_ARQUIVO_MARIANA-ANPUH-2008.pdf"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o fim da monarquia e a abolição da escravidão."
+   },
+   {
+    "letra": "B",
+    "texto": "a instituição do trabalho compulsório e da República."
+   },
+   {
+    "letra": "C",
+    "texto": "o início da industrialização e a ampliação da escravidão."
+   },
+   {
+    "letra": "D",
+    "texto": "o apoio à política migratória e a defesa do sistema parlamentar."
+   },
+   {
+    "letra": "E",
+    "texto": "a reforma no modelo político e a demarcação das terras indígenas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     171.52700000000004,
+     546.9610000000002,
+     182.52700000000004
+    ],
+    [
+     42.625,
+     184.12700000000007,
+     547.262,
+     195.12700000000007
+    ],
+    [
+     42.625,
+     196.7270000000001,
+     546.788,
+     207.7270000000001
+    ],
+    [
+     42.625,
+     209.52700000000004,
+     547.438,
+     220.52700000000004
+    ],
+    [
+     42.625,
+     222.12700000000007,
+     547.496,
+     233.15999999999997
+    ],
+    [
+     42.625,
+     234.7270000000001,
+     432.245,
+     245.7270000000001
+    ],
+    [
+     208.48,
+     253.736,
+     547.1020000000001,
+     261.736
+    ],
+    [
+     108.43,
+     262.93600000000004,
+     547.186,
+     270.93600000000004
+    ],
+    [
+     42.625,
+     279.557,
+     547.327,
+     290.557
+    ],
+    [
+     42.625,
+     292.357,
+     145.25099999999998,
+     303.357
+    ],
+    [
+     42.625,
+     314.157,
+     295.19399999999996,
+     325.157
+    ],
+    [
+     42.625,
+     326.757,
+     322.158,
+     337.757
+    ],
+    [
+     42.625,
+     339.357,
+     339.317,
+     350.357
+    ],
+    [
+     42.625,
+     352.157,
+     374.978,
+     363.157
+    ],
+    [
+     42.625,
+     364.777,
+     391.311,
+     375.777
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q024_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q025",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 25,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A compositora e maestrina Chiquinha Gonzaga (1847-1935) destaca-se na história da cultura brasileira, pelo seu pioneirismo. Enfrentou, com coragem, a opressora sociedade patriarcal e criou uma profissão inédita para a mulher, causando escândalo em seu tempo. Atuando no rico ambiente musical do Rio de Janeiro do Segundo Reinado, no qual imperavam polcas, tangos e valsas, Chiquinha Gonzaga não hesitou em incorporar ao seu piano toda a diversidade que encontrou sem preconceitos. Assim, terminou por produzir uma obra fundamental para a formação da música brasileira.\n\n{{fonte:1}}\n\nA obra artística dessa importante personagem da história e cultura brasileira se destaca por",
+  "fontes": [
+   "Fonte: http://chiquinhagonzaga.com/wp/biografia/Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "promover apologia ao regime imperial."
+   },
+   {
+    "letra": "B",
+    "texto": "denunciar o preconceito e defender a abolição dos escravos."
+   },
+   {
+    "letra": "C",
+    "texto": "valorizar os costumes ingleses e franceses nas composições artísticas."
+   },
+   {
+    "letra": "D",
+    "texto": "apoiar a expansão do império brasileiro na guerra da tríplice fronteira."
+   },
+   {
+    "letra": "E",
+    "texto": "difundir a cultura erudita, portando-se contra as manifestações populares."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     389.97700000000003,
+     547.101,
+     400.97700000000003
+    ],
+    [
+     42.625,
+     402.777,
+     547.2120000000001,
+     413.777
+    ],
+    [
+     42.625,
+     415.377,
+     547.0060000000002,
+     426.377
+    ],
+    [
+     42.625,
+     427.97700000000003,
+     546.6889999999999,
+     438.97700000000003
+    ],
+    [
+     42.625,
+     440.577,
+     547.303,
+     451.577
+    ],
+    [
+     42.625,
+     453.377,
+     483.16700000000014,
+     464.377
+    ],
+    [
+     336.1,
+     465.386,
+     547.37,
+     473.386
+    ],
+    [
+     42.625,
+     483.207,
+     490.22300000000007,
+     494.207
+    ],
+    [
+     42.625,
+     502.807,
+     251.55700000000002,
+     513.807
+    ],
+    [
+     42.625,
+     515.407,
+     361.17299999999994,
+     526.407
+    ],
+    [
+     42.625,
+     527.9970000000001,
+     411.95099999999996,
+     538.9970000000001
+    ],
+    [
+     42.625,
+     540.807,
+     403.90599999999995,
+     551.807
+    ],
+    [
+     42.625,
+     553.407,
+     423.634,
+     564.407
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q026",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 26,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Na Europa ocidental, a burguesia surge entre os séculos X e XI, sob a forma mercantil, isto é, composta por comerciantes, cambistas e emprestadores de dinheiro, sendo aumentada logo em seguida com a participação dos artesãos urbanos. Durante muito tempo, o poder político esteve nas mãos da nobreza, dos grandes senhores de terras, o que não impediu o crescimento e enriquecimento da burguesia. Com a formação das monarquias absolutistas, unificando territórios, mercados, leis, moedas e tributos, o poder político se concentrou nos reis. Bastante enriquecida, uma parte da burguesia começou a comprar terras, conquistar títulos de nobreza e, inclusive, a assumir cargos nos governos.\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nPara conquistar o domínio sobre os demais membros da sociedade, o grupo descrito no texto se utiliza de diversos instrumentos, tendo-se como principal",
+  "fontes": [
+   "MIGLIOLI, Jorge. Dominação burguesa nas sociedades modernas.",
+   "Fonte: https://www.ifch.unicamp.br/criticamarxista/arquivos_biblioteca/artigo205Artigo1.pdf / Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a divisão de riquezas."
+   },
+   {
+    "letra": "B",
+    "texto": "a utilização dos militares."
+   },
+   {
+    "letra": "C",
+    "texto": "a abertura do mercado nacional."
+   },
+   {
+    "letra": "D",
+    "texto": "o controle dos meios de produção."
+   },
+   {
+    "letra": "E",
+    "texto": "o fechamento do comércio ao mercado externo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   16,
+   17
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     578.627,
+     547.283,
+     589.627
+    ],
+    [
+     42.625,
+     591.427,
+     547.301,
+     602.427
+    ],
+    [
+     42.625,
+     604.027,
+     547.26,
+     615.027
+    ],
+    [
+     42.625,
+     616.627,
+     546.7219999999999,
+     627.627
+    ],
+    [
+     42.625,
+     629.2270000000001,
+     546.986,
+     640.227
+    ],
+    [
+     42.625,
+     641.827,
+     546.9449999999999,
+     652.827
+    ],
+    [
+     42.625,
+     654.6270000000001,
+     546.6890000000001,
+     665.6270000000001
+    ],
+    [
+     42.625,
+     667.2570000000001,
+     91.02500000000002,
+     678.2570000000001
+    ],
+    [
+     310.1,
+     685.0310000000001,
+     547.1640000000002,
+     693.0310000000001
+    ],
+    [
+     183.05,
+     694.231,
+     547.196,
+     702.231
+    ]
+   ],
+   "17": [
+    [
+     42.625,
+     59.90700000000004,
+     547.0840000000001,
+     70.90700000000004
+    ],
+    [
+     42.625,
+     72.49700000000007,
+     287.839,
+     83.49700000000007
+    ],
+    [
+     42.625,
+     93.30700000000002,
+     170.58199999999997,
+     104.30700000000002
+    ],
+    [
+     42.625,
+     105.90700000000004,
+     186.908,
+     116.90700000000004
+    ],
+    [
+     42.625,
+     118.49700000000007,
+     222.328,
+     129.49700000000007
+    ],
+    [
+     42.625,
+     131.30700000000002,
+     232.95099999999996,
+     142.30700000000002
+    ],
+    [
+     42.625,
+     143.90700000000004,
+     297.50000000000006,
+     154.90700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q026_p16.jpg",
+   "revisao/Q026_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q027",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 27,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um dos primeiros movimentos artísticos, que surge em reação ao Neoclassicismo do século XVIII, é o Romantismo, historicamente situado entre 1820 e 1850. Os artistas românticos procuraram se libertar das convenções acadêmicas em favor da livre expressão da personalidade do artista.\n\n{{fonte:1}}\n\nAssinale a obra que corresponde ao movimento artístico descrito no texto.\n\n{{img:1}}\n\n{{img:2}}\n\n{{img:3}}\n\nFonte: Delacroix: *A Liberdade guiando o povo*. Fonte: Diego Velázquez, *As Meninas*.\n\nFonte: Caravaggio, Medusa.\n\n{{img:4}}\n\n{{img:5}}\n\nFonte: Gustav Klimt, *A Dama Dourada*.\n\nFonte: Marcel Duchamp, *Jovem Triste num comboio*.",
+  "fontes": [
+   "Fonte: https://www.historiadasartes.com/nomundo/arte-seculo-19/romantismo/Adaptado."
+  ],
+  "alternativas": [],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q027_img1.png",
+    "pagina": 17,
+    "bbox": [
+     52.5,
+     254.8,
+     203.4,
+     395.1
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q027_img2.png",
+    "pagina": 17,
+    "bbox": [
+     229.5,
+     254.8,
+     394.6,
+     395.1
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q027_img3.png",
+    "pagina": 17,
+    "bbox": [
+     421.0,
+     254.8,
+     540.3,
+     395.1
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q027_img4.png",
+    "pagina": 17,
+    "bbox": [
+     34.8,
+     437.6,
+     187.9,
+     566.6
+    ]
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q027_img5.png",
+    "pagina": 17,
+    "bbox": [
+     217.0,
+     438.2,
+     410.8,
+     595.4
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.625,
+     169.12700000000007,
+     547.228,
+     180.12700000000007
+    ],
+    [
+     42.625,
+     181.92700000000002,
+     547.0670000000001,
+     192.92700000000002
+    ],
+    [
+     42.625,
+     194.52700000000004,
+     497.48299999999995,
+     205.52700000000004
+    ],
+    [
+     233.27,
+     215.70600000000002,
+     547.178,
+     223.70600000000002
+    ],
+    [
+     42.625,
+     233.52700000000004,
+     404.51099999999997,
+     244.52700000000004
+    ],
+    [
+     52.488,
+     254.79999999999995,
+     203.4,
+     395.12
+    ],
+    [
+     229.543,
+     254.79999999999995,
+     394.56,
+     395.12
+    ],
+    [
+     420.99300000000005,
+     254.79999999999995,
+     540.3499999999999,
+     395.12
+    ],
+    [
+     42.825,
+     396.55600000000004,
+     365.954,
+     404.55600000000004
+    ],
+    [
+     418.73,
+     396.55600000000004,
+     519.566,
+     404.55600000000004
+    ],
+    [
+     34.8,
+     437.6,
+     187.92000000000002,
+     566.64
+    ],
+    [
+     217.0,
+     438.20000000000005,
+     410.8,
+     595.44
+    ],
+    [
+     54.025,
+     571.206,
+     192.67399999999998,
+     579.206
+    ],
+    [
+     351.92,
+     586.606,
+     539.8040000000001,
+     594.606
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "0 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q027_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q028",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 28,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O darwinismo social pode ser definido como a aplicação das leis da teoria da seleção natural de Darwin na vida e na sociedade humanas. Seu grande mentor foi o filósofo inglês Herbert Spencer, criador da expressão “sobrevivência dos mais aptos”, que, mais tarde, também seria utilizada por Darwin.\n\n{{fonte:1}}\n\nEssa teoria foi utilizada no século XIX pelas nações europeias para justificar a",
+  "fontes": [
+   "Fonte: BOLSANELLO, Maria Augusta. Darwinismos social, eugenia e racismo científico: sua repercussão na sociedade e na educação brasileiras./http://www.scielo.br/pdf/er/n12/n12a14.pdf /Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "independência da Oceania."
+   },
+   {
+    "letra": "B",
+    "texto": "colonização dos Estados Unidos."
+   },
+   {
+    "letra": "C",
+    "texto": "dominação imperialista na Ásia e África."
+   },
+   {
+    "letra": "D",
+    "texto": "supremacia racial das nações latino-americanas."
+   },
+   {
+    "letra": "E",
+    "texto": "inferioridade dos Estados Unidos frente ao Japão."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   17,
+   18
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.625,
+     622.427,
+     546.793,
+     633.427
+    ],
+    [
+     42.625,
+     635.027,
+     547.585,
+     646.027
+    ],
+    [
+     42.625,
+     647.627,
+     547.447,
+     658.6600000000001
+    ],
+    [
+     42.625,
+     660.227,
+     79.83800000000001,
+     671.227
+    ],
+    [
+     68.825,
+     679.231,
+     547.0169999999995,
+     687.231
+    ],
+    [
+     315.5,
+     688.431,
+     547.188,
+     696.431
+    ]
+   ],
+   "18": [
+    [
+     42.625,
+     59.90700000000004,
+     423.21399999999994,
+     70.90700000000004
+    ],
+    [
+     42.625,
+     80.70700000000011,
+     197.96099999999996,
+     91.70700000000011
+    ],
+    [
+     42.625,
+     93.30700000000002,
+     226.142,
+     104.30700000000002
+    ],
+    [
+     42.625,
+     105.90700000000004,
+     259.584,
+     116.90700000000004
+    ],
+    [
+     42.625,
+     118.49700000000007,
+     302.67199999999997,
+     129.49700000000007
+    ],
+    [
+     42.625,
+     131.30700000000002,
+     308.06000000000006,
+     142.30700000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q028_p17.jpg",
+   "revisao/Q028_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q029",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 29,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Para colocar fim à guerra entre Estados Unidos e México, autoridades dos dois países assinaram, em fevereiro de 1848, o Tratado de Guadalupe-Hidalgo, criticado por expansionistas norte-americanos, que o consideraram condescendente com os derrotados.\n\nFonte: http://aventurasnahistoria.uol.com.br/noticias/guerras/guerra-mexicano-americana-a-aguia-estende-suas-asas.phtml#.WVlaL4jytPY\n\nO referido tratado teve como principal consequência política a",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "construção de um bloco econômico, NAFTA."
+   },
+   {
+    "letra": "B",
+    "texto": "elevação do México à colônia dos Estados Unidos."
+   },
+   {
+    "letra": "C",
+    "texto": "continuação do estado de conflito entre as duas nações."
+   },
+   {
+    "letra": "D",
+    "texto": "anexação de territórios mexicanos em troca de uma indenização."
+   },
+   {
+    "letra": "E",
+    "texto": "ocupação permanente dos Estados Unidos no território mexicano."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.625,
+     169.12700000000007,
+     546.881,
+     180.12700000000007
+    ],
+    [
+     42.625,
+     181.92700000000002,
+     547.544,
+     192.92700000000002
+    ],
+    [
+     42.625,
+     194.52700000000004,
+     320.6500000000001,
+     205.52700000000004
+    ],
+    [
+     57.225,
+     213.50599999999997,
+     547.2139999999999,
+     221.50599999999997
+    ],
+    [
+     42.625,
+     232.52700000000004,
+     344.602,
+     243.52700000000004
+    ],
+    [
+     42.625,
+     257.74700000000007,
+     282.178,
+     268.747
+    ],
+    [
+     42.625,
+     270.357,
+     312.3380000000001,
+     281.357
+    ],
+    [
+     42.625,
+     283.157,
+     339.381,
+     294.157
+    ],
+    [
+     42.625,
+     295.757,
+     382.20200000000006,
+     306.757
+    ],
+    [
+     42.625,
+     308.357,
+     386.23400000000015,
+     319.357
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q029_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q030",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 30,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nO evento histórico, evidenciado pela imagem, teve como principal característica sociopolítica",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a defesa do antiocidentalismo."
+   },
+   {
+    "letra": "B",
+    "texto": "o apoio da oligarquia colonial."
+   },
+   {
+    "letra": "C",
+    "texto": "a adesão ao movimento colonialista."
+   },
+   {
+    "letra": "D",
+    "texto": "a formação de um governo de coalizão."
+   },
+   {
+    "letra": "E",
+    "texto": "o auxílio dos EUA na guerra contra os invasores."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q030_img1.png",
+    "pagina": 18,
+    "bbox": [
+     66.2,
+     379.4,
+     303.2,
+     604.1
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.625,
+     346.357,
+     516.037,
+     357.357
+    ],
+    [
+     66.25,
+     379.35,
+     303.2,
+     604.08
+    ],
+    [
+     310.7,
+     390.377,
+     480.831,
+     401.377
+    ],
+    [
+     310.7,
+     403.177,
+     477.608,
+     414.177
+    ],
+    [
+     310.7,
+     415.777,
+     509.961,
+     426.777
+    ],
+    [
+     310.7,
+     428.377,
+     525.2460000000001,
+     439.377
+    ],
+    [
+     310.7,
+     440.97700000000003,
+     503.293,
+     451.97700000000003
+    ],
+    [
+     332.1,
+     453.807,
+     397.088,
+     464.807
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q030_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q031",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 31,
+  "area": "",
+  "texto_base_id": "P4150-T4",
+  "textos_base_ids": [
+   "P4150-T4"
+  ],
+  "enunciado": "Em maio de 2017, uma parte do Estado de Pernambuco foi duramente atingida por fortes aguaceiros, que fizeram transbordar, inclusive, rios sazonais intermitentes. Conforme noticiou o jornal Diario de Pernambuco, “*em Caruaru, duas casas foram soterradas após o deslizamento de uma* *barreira, mas ninguém ficou ferido. Por volta das 19h, um carro que transportava cinco pessoas foi* *arrastado pela correnteza de um riacho, no bairro Caiuca. Quatro ocupantes do veículo conseguiram* *sair com rapidez. Uma mulher teve que ser resgatada por moradores. Diversas ruas da cidade ficaram* *alagadas. Segundo a Assessoria de Comunicação do Corpo de Bombeiros, a corporação foi acionada* *em Caruaru e cidades vizinhas para realizar o resgate de pessoas ilhadas em suas comunidades.”*\n\n{{img:1}}\n\n{{fonte:1}}\n\nOs fatos narrados na notícia verificaram-se na mesorregião indicada no mapa, pelo número",
+  "fontes": [
+   "Fonte: Diario de Pernambuco, 28-05-2017. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1."
+   },
+   {
+    "letra": "B",
+    "texto": "2."
+   },
+   {
+    "letra": "C",
+    "texto": "3."
+   },
+   {
+    "letra": "D",
+    "texto": "4."
+   },
+   {
+    "letra": "E",
+    "texto": "5."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q031_img1.png",
+    "pagina": 19,
+    "bbox": [
+     56.5,
+     216.1,
+     481.1,
+     366.5
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.625,
+     110.49700000000007,
+     546.8229999999999,
+     121.49700000000007
+    ],
+    [
+     42.625,
+     123.10700000000008,
+     547.1029999999998,
+     134.10700000000008
+    ],
+    [
+     42.625,
+     135.7070000000001,
+     547.285,
+     146.74
+    ],
+    [
+     42.625,
+     148.3270000000001,
+     546.854,
+     159.3270000000001
+    ],
+    [
+     42.625,
+     160.92700000000002,
+     546.656,
+     171.92700000000002
+    ],
+    [
+     42.625,
+     173.52700000000004,
+     546.8230000000001,
+     184.52700000000004
+    ],
+    [
+     42.625,
+     186.3270000000001,
+     546.7330000000002,
+     197.3270000000001
+    ],
+    [
+     42.625,
+     198.938,
+     523.633,
+     209.938
+    ],
+    [
+     56.55,
+     216.14999999999998,
+     481.05,
+     366.5
+    ],
+    [
+     328.3,
+     370.956,
+     518.9580000000001,
+     378.956
+    ],
+    [
+     42.625,
+     393.577,
+     489.59600000000006,
+     404.577
+    ],
+    [
+     42.625,
+     418.777,
+     73.283,
+     429.777
+    ],
+    [
+     149.05,
+     418.777,
+     171.108,
+     429.777
+    ],
+    [
+     255.27,
+     418.777,
+     276.758,
+     429.777
+    ],
+    [
+     364.73,
+     418.777,
+     386.788,
+     429.777
+    ],
+    [
+     471.15,
+     418.777,
+     493.19399999999996,
+     429.777
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q031_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q032",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 32,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As condições climáticas que caracterizam o território brasileiro são determinadas por sistemas atmosféricos equatoriais, tropicais e extratropicais. Essa conjugação responde pela diversidade de tipos de clima e regimes de chuva no país. Com relação a esse tema, observe a imagem de satélite ao lado:\n\n{{img:1}}\n\nFonte: www.inmet.gov.br  \nSobre essa imagem, analise as afirmativas a seguir:\n\n1- O sistema atmosférico de número 1 migra rapidamente para o sul e acarreta, durante o inverno, principalmente nos meses de julho e agosto, fortes chuvas frontais nos estados do Ceará e Rio Grande do Norte.\n\n2- O sistema de número 2 resulta do encontro de uma massa de ar polar com uma massa de ar tropical; ele avança para o norte, mas, ao longo dessa trajetória, modifica-se consideravelmente.\n\n3- No dia em que essa imagem foi obtida pelo satélite meteorológico, uma parte da Região Amazônica, indicada pelo número 3, estava com baixa nebulosidade, decorrente da instalação de um centro de baixas pressões.\n\n4- A área indicada pelo número 3 possui um regime de chuvas de verão. São chuvas convectivas, em geral produzidas por um sistema atmosférico vindo de oeste.\n\n5- A parte oriental do Nordeste do Brasil indicada pelo número 4 possui um regime pluviométrico, que resulta de incursões de frentes frias e, sobretudo, do avanço de sistemas ondulatórios de leste.\n\nEstão **CORRETAS**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "apenas 2, 4 e 5."
+   },
+   {
+    "letra": "B",
+    "texto": "apenas 1, 2 e 3."
+   },
+   {
+    "letra": "C",
+    "texto": "apenas 1, 4 e 5."
+   },
+   {
+    "letra": "D",
+    "texto": "apenas 2, 3 e 4."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 3, 4 e 5."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q032_img1.png",
+    "pagina": 19,
+    "bbox": [
+     282.1,
+     455.6,
+     537.4,
+     703.9
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   19,
+   20
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.625,
+     456.807,
+     272.9480000000001,
+     467.807
+    ],
+    [
+     42.625,
+     469.407,
+     273.096,
+     480.407
+    ],
+    [
+     42.625,
+     482.007,
+     272.866,
+     493.007
+    ],
+    [
+     42.625,
+     494.807,
+     272.85500000000013,
+     505.807
+    ],
+    [
+     42.625,
+     507.407,
+     272.87700000000007,
+     518.4069999999999
+    ],
+    [
+     42.625,
+     519.9970000000001,
+     272.99800000000005,
+     530.9970000000001
+    ],
+    [
+     42.625,
+     532.607,
+     228.517,
+     543.607
+    ],
+    [
+     282.05,
+     455.55,
+     537.4,
+     703.9
+    ],
+    [
+     373.92,
+     705.6310000000001,
+     462.146,
+     713.6310000000001
+    ]
+   ],
+   "20": [
+    [
+     42.625,
+     59.90700000000004,
+     297.5,
+     70.90700000000004
+    ],
+    [
+     60.425,
+     85.30700000000002,
+     547.0139999999999,
+     96.30700000000002
+    ],
+    [
+     78.425,
+     97.90700000000004,
+     547.187,
+     108.90700000000004
+    ],
+    [
+     78.425,
+     110.49700000000007,
+     163.42199999999997,
+     121.49700000000007
+    ],
+    [
+     60.425,
+     123.10700000000008,
+     546.8020000000001,
+     134.10700000000008
+    ],
+    [
+     78.425,
+     135.90700000000004,
+     547.4839999999999,
+     146.90700000000004
+    ],
+    [
+     78.425,
+     148.52700000000004,
+     173.971,
+     159.52700000000004
+    ],
+    [
+     60.425,
+     161.12700000000007,
+     547.162,
+     172.12700000000007
+    ],
+    [
+     78.425,
+     173.7270000000001,
+     547.0540000000001,
+     184.7270000000001
+    ],
+    [
+     78.425,
+     186.52700000000004,
+     243.55700000000002,
+     197.52700000000004
+    ],
+    [
+     60.425,
+     199.12700000000007,
+     547.611,
+     210.12700000000007
+    ],
+    [
+     78.425,
+     211.7270000000001,
+     394.0690000000001,
+     222.7270000000001
+    ],
+    [
+     60.425,
+     224.3270000000001,
+     547.438,
+     235.3270000000001
+    ],
+    [
+     78.425,
+     237.12700000000007,
+     546.805,
+     248.12700000000007
+    ],
+    [
+     78.425,
+     249.74700000000007,
+     104.66000000000001,
+     260.74700000000007
+    ],
+    [
+     42.625,
+     271.357,
+     135.317,
+     282.357
+    ],
+    [
+     42.625,
+     293.357,
+     143.108,
+     304.357
+    ],
+    [
+     42.625,
+     306.157,
+     143.108,
+     317.157
+    ],
+    [
+     42.625,
+     318.757,
+     143.108,
+     329.757
+    ],
+    [
+     42.625,
+     331.357,
+     143.108,
+     342.357
+    ],
+    [
+     42.625,
+     343.957,
+     128.263,
+     354.957
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q032_p19.jpg",
+   "revisao/Q032_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q033",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 33,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um grupo de pesquisadores recebeu a incumbência de realizar um estudo físico-geográfico de uma ampla área do território brasileiro. Uma excursão foi realizada pelo grupo com o percurso aproximado AB, conforme pode ser observado no mapa a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nO percurso estabelecido permitiu atravessar as seguintes unidades geológicas brasileiras no sentido AB:",
+  "fontes": [
+   "Disponível em: www.google.com.br"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Província Borborema, Núcleo Nordestino do Escudo e Bacia do Paraná."
+   },
+   {
+    "letra": "B",
+    "texto": "Bacia do Meio Norte, Escudo Brasileiro e Bacia do Paraná."
+   },
+   {
+    "letra": "C",
+    "texto": "Bacia do Apodi, Escudo Brasileiro e Escudo do Rio Grande do Sul."
+   },
+   {
+    "letra": "D",
+    "texto": "Bacia do Meio Norte, Província Amazônica e Bacia do Tucano-Jatobá."
+   },
+   {
+    "letra": "E",
+    "texto": "Província Borborema, Escudo Amazônico e Bacia do Paraná."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q033_img1.png",
+    "pagina": 20,
+    "bbox": [
+     142.7,
+     410.8,
+     477.8,
+     697.7
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   20,
+   21
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.625,
+     369.377,
+     547.394,
+     380.377
+    ],
+    [
+     42.625,
+     381.97700000000003,
+     547.1410000000001,
+     392.97700000000003
+    ],
+    [
+     42.625,
+     394.577,
+     360.98100000000005,
+     405.577
+    ],
+    [
+     142.7,
+     410.80000000000007,
+     477.84999999999997,
+     697.6800000000001
+    ],
+    [
+     349.92,
+     706.6310000000001,
+     475.144,
+     714.6310000000001
+    ]
+   ],
+   "21": [
+    [
+     42.625,
+     59.90700000000004,
+     547.383,
+     70.90700000000004
+    ],
+    [
+     42.625,
+     72.49700000000007,
+     99.03300000000002,
+     83.49700000000007
+    ],
+    [
+     42.625,
+     97.90700000000004,
+     415.5849999999999,
+     108.90700000000004
+    ],
+    [
+     42.625,
+     110.49700000000007,
+     352.0160000000001,
+     121.49700000000007
+    ],
+    [
+     42.625,
+     123.10700000000008,
+     390.578,
+     134.10700000000008
+    ],
+    [
+     42.625,
+     135.90700000000004,
+     407.978,
+     146.90700000000004
+    ],
+    [
+     42.625,
+     148.52700000000004,
+     364.23699999999997,
+     159.52700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p20.jpg",
+   "revisao/Q033_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q034",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 34,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a figura a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nEssa paisagem esboçada na figura mostra uma compartimentação do relevo de um trecho da Região Sudeste do Brasil, que foi influenciada pela conjugação da estrutura geológica com as ações erosivas, decorrentes das ações climáticas pretéritas. Na área, situa-se o município de Botucatu. O relevo observado é do tipo",
+  "fontes": [
+   "Disponível em: http://www.ybytucatu.net.br/historia/serra.html"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "cristas residuais."
+   },
+   {
+    "letra": "B",
+    "texto": "pediplanos mesozoicos."
+   },
+   {
+    "letra": "C",
+    "texto": "domos cristalinos."
+   },
+   {
+    "letra": "D",
+    "texto": "cuestas."
+   },
+   {
+    "letra": "E",
+    "texto": "planaltos cristalinos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q034_img1.png",
+    "pagina": 21,
+    "bbox": [
+     57.6,
+     214.6,
+     528.5,
+     499.7
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.625,
+     186.52700000000004,
+     190.474,
+     197.52700000000004
+    ],
+    [
+     57.6,
+     214.56,
+     528.45,
+     499.68
+    ],
+    [
+     291.3,
+     505.586,
+     508.74800000000005,
+     513.586
+    ],
+    [
+     42.625,
+     533.807,
+     547.382,
+     544.807
+    ],
+    [
+     42.625,
+     546.407,
+     547.638,
+     557.407
+    ],
+    [
+     42.625,
+     559.2070000000001,
+     468.53299999999996,
+     570.207
+    ],
+    [
+     42.625,
+     571.827,
+     183.63400000000004,
+     582.827
+    ],
+    [
+     42.625,
+     597.027,
+     145.828,
+     608.027
+    ],
+    [
+     42.625,
+     609.827,
+     181.641,
+     620.827
+    ],
+    [
+     42.625,
+     622.427,
+     152.108,
+     633.427
+    ],
+    [
+     42.625,
+     635.027,
+     105.278,
+     646.027
+    ],
+    [
+     42.625,
+     647.627,
+     162.981,
+     658.6270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q034_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q035",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 35,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o mapa a seguir:\n\n{{img:1}}\n\nTomando por base esse mapa, analise as seguintes afirmativas:\n\n1- O domínio 1 caracteriza-se por apresentar um bioma de florestas latifoliadas perenifólias e subperenifólias, solos bem desenvolvidos e drenagem perene.\n\n2- O domínio 2 é representado por amplas florestas aciculifoliadas, relevo tabular e solos do tipo neossolos arenosos.\n\n3- O domínio 3 é uma área com predominância de um clima, que, segundo a classificação de Koppen, é do tipo Aw. A vegetação, que domina na área, é representada por cerrados, instalados sobre solos profundos, desenvolvidos numa topografia tabular.\n\n4- No domínio 1, são observadas diversas feições de relevo, tais como planícies de inundação labirínticas, tabuleiros de vertentes convexas e planícies meândricas.\n\n{{fonte:1}}\n\nEstá **CORRETO** o que se afirma em",
+  "fontes": [
+   "Disponível em: www.google.com.br"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "4, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "1 e 2, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "3 e 4, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "1, 3 e 4, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 3 e 4."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q035_img1.png",
+    "pagina": 22,
+    "bbox": [
+     39.5,
+     73.7,
+     279.2,
+     311.8
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.625,
+     59.90700000000004,
+     190.37099999999998,
+     70.90700000000004
+    ],
+    [
+     39.45,
+     73.70000000000005,
+     279.25,
+     311.76
+    ],
+    [
+     287.1,
+     72.49700000000007,
+     541.9920000000001,
+     83.49700000000007
+    ],
+    [
+     287.1,
+     85.30700000000002,
+     343.50800000000004,
+     96.30700000000002
+    ],
+    [
+     287.1,
+     110.49700000000007,
+     547.199,
+     121.49700000000007
+    ],
+    [
+     287.1,
+     123.10700000000008,
+     546.9530000000001,
+     134.10700000000008
+    ],
+    [
+     287.1,
+     135.90700000000004,
+     547.1510000000001,
+     146.90700000000004
+    ],
+    [
+     287.1,
+     148.52700000000004,
+     377.08000000000004,
+     159.52700000000004
+    ],
+    [
+     287.1,
+     161.12700000000007,
+     547.1390000000001,
+     172.12700000000007
+    ],
+    [
+     287.1,
+     173.7270000000001,
+     546.9750000000001,
+     184.7270000000001
+    ],
+    [
+     287.1,
+     186.52700000000004,
+     388.047,
+     197.52700000000004
+    ],
+    [
+     287.1,
+     199.12700000000007,
+     547.128,
+     210.12700000000007
+    ],
+    [
+     287.1,
+     211.7270000000001,
+     547.204,
+     222.7270000000001
+    ],
+    [
+     287.1,
+     224.3270000000001,
+     547.496,
+     235.3270000000001
+    ],
+    [
+     287.1,
+     237.12700000000007,
+     547.1070000000001,
+     248.12700000000007
+    ],
+    [
+     287.1,
+     249.74700000000007,
+     533.951,
+     260.74700000000007
+    ],
+    [
+     287.1,
+     262.3570000000001,
+     547.225,
+     273.357
+    ],
+    [
+     287.1,
+     274.957,
+     547.1730000000001,
+     285.957
+    ],
+    [
+     287.1,
+     287.757,
+     547.162,
+     298.757
+    ],
+    [
+     287.1,
+     300.357,
+     393.64599999999996,
+     311.357
+    ],
+    [
+     140.45,
+     316.536,
+     265.70399999999995,
+     324.536
+    ],
+    [
+     42.625,
+     338.157,
+     219.84300000000002,
+     349.157
+    ],
+    [
+     42.625,
+     363.577,
+     115.67800000000001,
+     374.577
+    ],
+    [
+     42.625,
+     376.177,
+     133.908,
+     387.177
+    ],
+    [
+     42.625,
+     388.97700000000003,
+     133.84,
+     399.97700000000003
+    ],
+    [
+     42.625,
+     401.577,
+     146.108,
+     412.577
+    ],
+    [
+     42.625,
+     414.177,
+     116.06600000000002,
+     425.177
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q035_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q036",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 36,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\n**Conflitos no campo deixam 59 mortos e**  \n**violência é a maior em 13 anos**\n\nEm 2016, os conflitos agrários causaram a morte de 59 pessoas em todo o País. O índice é o mais alto desde 2003, quando 71 pessoas foram assassinadas em conflitos no campo. Em 2015, haviam sido 50 assassinatos, 14 a mais que no ano anterior. O Estado de Roraima ocupa o topo da lista dos mais violentos, vindo em seguida Maranhão e Pará.\n\n{{fonte:1}}\n\nSobre o conteúdo apresentado no texto e o modo como as propriedades rurais estão distribuídas pelo território brasileiro, é **CORRETO** afirmar que a estrutura fundiária do país",
+  "fontes": [
+   "Fonte: Jornal Estado de São Paulo, janeiro de 2017. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "é caracterizada pela desconcentração de terras e pela existência majoritária de minifúndios rurais, cuja produção agrícola é, em geral, destinada ao mercado externo da América do Norte e da Europa."
+   },
+   {
+    "letra": "B",
+    "texto": "apresenta a menor concentração de terras da América Latina e mantém a equidade na distribuição por regiões do país, com índices de produtividade bastante altos e grande potencial para a produção agropecuária."
+   },
+   {
+    "letra": "C",
+    "texto": "possui a maior parte de suas terras concentradas por latifundiários, fato que permite situações de desigualdades e conflitos sociais com trabalhadores que reivindicam a reforma agrária."
+   },
+   {
+    "letra": "D",
+    "texto": "viabiliza a real necessidade de ocupação dos trabalhadores do campo, sobretudo nas regiões Norte e Centro-Oeste, para fins de produção agropecuária, impedindo, dessa forma, a concentração de grilagens."
+   },
+   {
+    "letra": "E",
+    "texto": "registra, por meio dos censos agropecuários do país, que, entre o período do governo militar e o início do século XXI, houve uma grande diminuição da concentração fundiária nas regiões Norte e Sul."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   22,
+   23
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.625,
+     452.177,
+     166.108,
+     463.177
+    ],
+    [
+     143.45,
+     481.64200000000005,
+     446.266,
+     497.64200000000005
+    ],
+    [
+     177.45,
+     500.03200000000004,
+     411.9940000000001,
+     516.032
+    ],
+    [
+     42.625,
+     530.2070000000001,
+     546.7439999999997,
+     541.207
+    ],
+    [
+     42.625,
+     542.807,
+     546.81,
+     553.807
+    ],
+    [
+     42.625,
+     555.407,
+     547.005,
+     566.407
+    ],
+    [
+     42.625,
+     568.027,
+     269.5000000000001,
+     579.027
+    ],
+    [
+     322.7,
+     580.4060000000001,
+     547.178,
+     588.4060000000001
+    ],
+    [
+     42.625,
+     600.627,
+     547.162,
+     611.627
+    ],
+    [
+     42.625,
+     613.027,
+     399.798,
+     624.027
+    ],
+    [
+     42.625,
+     638.627,
+     546.7499999999999,
+     649.627
+    ],
+    [
+     42.625,
+     651.2270000000001,
+     536.958,
+     662.227
+    ],
+    [
+     42.625,
+     669.657,
+     547.163,
+     680.657
+    ],
+    [
+     42.625,
+     682.2520000000001,
+     547.222,
+     693.2520000000001
+    ],
+    [
+     42.625,
+     695.052,
+     109.82400000000001,
+     706.052
+    ]
+   ],
+   "23": [
+    [
+     42.625,
+     59.90700000000004,
+     546.7879999999997,
+     70.90700000000004
+    ],
+    [
+     42.625,
+     72.49700000000007,
+     467.08199999999994,
+     83.49700000000007
+    ],
+    [
+     42.625,
+     90.90700000000004,
+     547.454,
+     101.90700000000004
+    ],
+    [
+     42.625,
+     103.70700000000011,
+     547.3639999999999,
+     114.70700000000011
+    ],
+    [
+     42.625,
+     116.30700000000002,
+     90.43100000000001,
+     127.30700000000002
+    ],
+    [
+     42.625,
+     134.7070000000001,
+     547.2339999999999,
+     145.7070000000001
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     543.421,
+     158.3270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q036_p22.jpg",
+   "revisao/Q036_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q037",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 37,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\n**ÓRFÃOS DA CANA**\n\n**Mecanização da lavoura cria legião de ex-boias-frias**  \n**Desempregados no país e com problemas de saúde**\n\n**Sem vagas de trabalho, migração para SP trava**  \n*\"Se cana enriquecesse, eu seria milionário. Trabalhei 26 anos direto, cortando 18 toneladas*  \n*por dia. Tenho dores na coluna e um braço torto. Foi só o que consegui ganhar\",*  \n*disse Geraldo Melchiades, 52 anos.*\n\nEram milhares. Mas, com o aumento vertiginoso da mecanização das lavouras, foram praticamente expulsos dos canaviais. Uma legião de Geraldos, Raimundos e Josés viu suas vidas tomarem outros rumos por causa das máquinas. Não foram derrotados só pela tecnologia, mas perderam espaço também devido a um acordo, que restringiu a queima da palha da cana, responsável por fumaça, fuligem e gases tóxicos, e obrigou as usinas a se mecanizarem cada vez mais.\n\n{{fonte:1}}\n\nDe acordo com os fatos apresentados no texto, é **CORRETO** afirmar que a modernização tecnológica da agricultura brasileira",
+  "fontes": [
+   "Fonte: Jornal Folha de São Paulo, *30/06/2017.* Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "apresentou resultados socioambientais de diminuição de impactos negativos, como a degradação dos solos e dos recursos hídricos, além da minimização dos problemas causados à saúde humana pelos agrotóxicos."
+   },
+   {
+    "letra": "B",
+    "texto": "aumentou a mecanização do campo brasileiro, resultando na gradual eliminação dos boias-frias do cenário rural, sobretudo nas áreas agrícolas paulistas, gerando um reordenamento no processo migratório socioespacial."
+   },
+   {
+    "letra": "C",
+    "texto": "intensificou o percentual de lavouras não mecanizadas no Centro-Sul, tornando essas áreas espaços atrativos para migrações de milhares de pequenos posseiros, parceiros e arrendatários."
+   },
+   {
+    "letra": "D",
+    "texto": "diminuiu as desigualdades regionais no país, reorientando a ocupação e utilização de terras para produção, tornando a região Nordeste e a Amazônia áreas concentradoras de fluxos migratórios."
+   },
+   {
+    "letra": "E",
+    "texto": "desencadeou o avanço das fronteiras agrícolas na Amazônia, diminuindo o número de grandes propriedades ligadas às empresas multinacionais, resultando em menor expansão de atividades extrativistas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.625,
+     185.3270000000001,
+     166.017,
+     196.3270000000001
+    ],
+    [
+     221.08,
+     212.562,
+     367.784,
+     228.562
+    ],
+    [
+     144.85,
+     237.13400000000001,
+     443.59000000000003,
+     249.13400000000001
+    ],
+    [
+     146.25,
+     250.95400000000006,
+     442.17199999999997,
+     262.95400000000006
+    ],
+    [
+     158.85,
+     272.964,
+     429.2940000000001,
+     284.964
+    ],
+    [
+     70.225,
+     286.757,
+     517.7599999999999,
+     297.757
+    ],
+    [
+     97.425,
+     299.357,
+     490.7849999999998,
+     310.357
+    ],
+    [
+     206.88,
+     311.957,
+     381.769,
+     322.957
+    ],
+    [
+     49.825,
+     333.957,
+     538.745,
+     344.957
+    ],
+    [
+     49.825,
+     346.757,
+     538.4150000000001,
+     357.757
+    ],
+    [
+     49.825,
+     359.377,
+     538.17,
+     370.377
+    ],
+    [
+     49.825,
+     371.97700000000003,
+     538.7870000000001,
+     382.97700000000003
+    ],
+    [
+     49.825,
+     384.577,
+     476.94399999999996,
+     395.577
+    ],
+    [
+     312.1,
+     398.156,
+     516.558,
+     406.156
+    ],
+    [
+     42.625,
+     414.777,
+     547.0260000000001,
+     425.777
+    ],
+    [
+     42.625,
+     427.577,
+     156.64,
+     438.577
+    ],
+    [
+     42.625,
+     451.777,
+     546.7439999999999,
+     462.777
+    ],
+    [
+     42.625,
+     464.407,
+     547.447,
+     475.407
+    ],
+    [
+     42.625,
+     477.007,
+     131.39499999999995,
+     488.007
+    ],
+    [
+     42.625,
+     489.607,
+     547.4789999999999,
+     500.607
+    ],
+    [
+     42.625,
+     502.407,
+     546.81,
+     513.4069999999999
+    ],
+    [
+     42.625,
+     514.9970000000001,
+     163.361,
+     525.9970000000001
+    ],
+    [
+     42.625,
+     527.607,
+     547.29,
+     538.607
+    ],
+    [
+     42.625,
+     540.2070000000001,
+     514.8440000000002,
+     551.207
+    ],
+    [
+     42.625,
+     552.9970000000001,
+     547.3489999999999,
+     563.9970000000001
+    ],
+    [
+     42.625,
+     565.627,
+     516.028,
+     576.627
+    ],
+    [
+     42.625,
+     578.2270000000001,
+     546.8099999999995,
+     589.227
+    ],
+    [
+     42.625,
+     590.827,
+     547.1440000000001,
+     601.827
+    ],
+    [
+     42.625,
+     603.627,
+     103.81800000000001,
+     614.627
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q037_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q038",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 38,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise o gráfico a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nSobre a estrutura e a dinâmica da população brasileira, considere as seguintes afirmações:\n\n1. O regime demográfico, vigente no período 1990-2000, foi caracterizado pelo rápido crescimento populacional e industrial e por deslocamentos internos da população, cujo resultado foi um grande aumento da taxa de natalidade em um país mais urbanizado.\n\n2. O que se convencionou chamar de segunda fase da história populacional brasileira é o período que se estende de 1940 a 1970. Nesse período, o Brasil era um país de jovens, que crescia, se industrializava e se movimentava.\n\n3. A projeção da estrutura etária da população brasileira para 2035 revela a contradição entre o envelhecimento populacional e a onda jovem. Nota-se um alargamento da base da pirâmide, resultado da queda da fecundidade e observa-se um crescimento na proporção da população com idade compreendida entre 10 e 14 anos.\n\nEstá **CORRETO** o que se afirma em",
+  "fontes": [
+   "http://www.ipea.gov.br/, 2014."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "2, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "1 e 2, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "2 e 3, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2 e 3."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q038_img1.png",
+    "pagina": 24,
+    "bbox": [
+     66.1,
+     83.8,
+     523.5,
+     412.0
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   24
+  ],
+  "caixas": {
+   "24": [
+    [
+     42.625,
+     59.90700000000004,
+     190.46999999999997,
+     70.90700000000004
+    ],
+    [
+     66.125,
+     83.75,
+     523.5450000000001,
+     411.963
+    ],
+    [
+     399.13,
+     403.75600000000003,
+     504.766,
+     411.75600000000003
+    ],
+    [
+     42.625,
+     426.377,
+     488.741,
+     437.377
+    ],
+    [
+     42.625,
+     451.577,
+     547.2180000000001,
+     462.577
+    ],
+    [
+     42.625,
+     464.207,
+     547.35,
+     475.207
+    ],
+    [
+     42.625,
+     477.007,
+     340.8679999999999,
+     488.007
+    ],
+    [
+     42.625,
+     495.407,
+     546.6889999999997,
+     506.407
+    ],
+    [
+     42.625,
+     507.997,
+     547.1579999999999,
+     518.9970000000001
+    ],
+    [
+     42.625,
+     520.607,
+     207.938,
+     531.607
+    ],
+    [
+     42.625,
+     538.9970000000001,
+     546.7439999999998,
+     549.9970000000001
+    ],
+    [
+     42.625,
+     551.607,
+     547.1450000000002,
+     562.607
+    ],
+    [
+     42.625,
+     564.427,
+     547.0290000000001,
+     575.427
+    ],
+    [
+     42.625,
+     577.027,
+     210.466,
+     588.027
+    ],
+    [
+     42.625,
+     598.627,
+     219.78900000000002,
+     609.627
+    ],
+    [
+     42.625,
+     618.427,
+     115.63700000000001,
+     629.427
+    ],
+    [
+     42.625,
+     631.027,
+     115.63700000000001,
+     642.027
+    ],
+    [
+     42.625,
+     643.627,
+     133.84,
+     654.6270000000001
+    ],
+    [
+     42.625,
+     656.427,
+     133.84,
+     667.427
+    ],
+    [
+     42.625,
+     669.057,
+     103.86700000000002,
+     680.057
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q038_p24.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q039",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 39,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o organograma a seguir:\n\n{{img:1}}\n\nFonte: Banca Elaboradora da UPE.\n\nEle representa um período da industrialização brasileira, que instaurou uma política conhecida como",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Integralismo."
+   },
+   {
+    "letra": "B",
+    "texto": "Toyotismo."
+   },
+   {
+    "letra": "C",
+    "texto": "Nacionalismo."
+   },
+   {
+    "letra": "D",
+    "texto": "Fordismo."
+   },
+   {
+    "letra": "E",
+    "texto": "Desenvolvimentismo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q039_img1.png",
+    "pagina": 25,
+    "bbox": [
+     94.4,
+     72.2,
+     457.0,
+     244.6
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   25
+  ],
+  "caixas": {
+   "25": [
+    [
+     42.625,
+     59.90700000000004,
+     228.481,
+     70.90700000000004
+    ],
+    [
+     94.4,
+     72.19999999999993,
+     457.0,
+     244.60000000000002
+    ],
+    [
+     326.3,
+     248.90599999999995,
+     451.64400000000006,
+     256.90599999999995
+    ],
+    [
+     42.625,
+     271.557,
+     533.081,
+     282.557
+    ],
+    [
+     42.625,
+     293.357,
+     127.308,
+     304.357
+    ],
+    [
+     42.625,
+     305.957,
+     118.03500000000001,
+     316.957
+    ],
+    [
+     42.625,
+     318.557,
+     133.204,
+     329.557
+    ],
+    [
+     42.625,
+     331.357,
+     113.01900000000002,
+     342.357
+    ],
+    [
+     42.625,
+     343.957,
+     168.558,
+     354.957
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q039_p25.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q040",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 40,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise o texto a seguir:\n\nO Brasil foi, durante muitos séculos, um grande arquipélago, formado por subespaços, que evoluíram, segundo lógicas próprias, ditadas em grande parte por suas relações com o mundo exterior. Havia, sem dúvida, para cada um desses subespaços, polos dinâmicos internos. Estes, porém, tinham entre si escassa relação, não sendo interdependentes.\n\n{{fonte:1}}\n\nSobre o assunto tratado pelo geógrafo Mílton Santos, analise as afirmativas a seguir:\n\n1) A distribuição descontínua das atividades econômicas pelo território brasileiro originou as regiões voltadas para o mercado externo.\n\n2) A falta de integração entre os subespaços configurou um modelo de ocupação baseado em ilhas econômicas.\n\n3) O primeiro grande arquipélago econômico foi o do açúcar em Minas Gerais, depois o ciclo do café no Nordeste e, posteriormente, o ciclo do ouro no Sudeste.\n\n4) A maior parte do território brasileiro passou a se integrar à economia nacional somente no início do século XX, sob o comando do eixo Rio - São Paulo.\n\n5) A ocupação e a expansão do território brasileiro ocorreram inicialmente de Oeste para Leste, começando pela Amazônia e estendendo-se para o litoral.\n\nEstão **CORRETAS**",
+  "fontes": [
+   "Mílton Santos. A urbanização brasileira, 1993. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1 e 5, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "3 e 4, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "1 e 2, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "2, 4 e 5, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 3, 4 e 5."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   25
+  ],
+  "caixas": {
+   "25": [
+    [
+     42.625,
+     369.177,
+     181.26800000000003,
+     380.177
+    ],
+    [
+     42.625,
+     392.577,
+     547.438,
+     403.577
+    ],
+    [
+     42.625,
+     405.177,
+     546.689,
+     416.177
+    ],
+    [
+     42.625,
+     417.97700000000003,
+     547.484,
+     428.97700000000003
+    ],
+    [
+     42.625,
+     430.577,
+     281.6660000000001,
+     441.577
+    ],
+    [
+     344.9,
+     442.75600000000003,
+     547.1940000000001,
+     450.75600000000003
+    ],
+    [
+     42.625,
+     463.207,
+     457.62199999999996,
+     474.207
+    ],
+    [
+     42.625,
+     483.807,
+     546.685,
+     494.807
+    ],
+    [
+     64.025,
+     496.407,
+     227.95800000000003,
+     507.407
+    ],
+    [
+     42.625,
+     509.207,
+     546.6739999999999,
+     520.207
+    ],
+    [
+     64.025,
+     521.807,
+     125.81200000000003,
+     532.807
+    ],
+    [
+     42.625,
+     534.407,
+     546.7479999999998,
+     545.407
+    ],
+    [
+     64.025,
+     546.9970000000001,
+     352.23299999999995,
+     557.9970000000001
+    ],
+    [
+     42.625,
+     559.827,
+     546.4119999999999,
+     570.827
+    ],
+    [
+     64.025,
+     572.427,
+     331.90999999999997,
+     583.427
+    ],
+    [
+     42.625,
+     585.027,
+     547.609,
+     596.027
+    ],
+    [
+     64.025,
+     597.627,
+     348.279,
+     608.627
+    ],
+    [
+     42.625,
+     622.827,
+     135.317,
+     633.827
+    ],
+    [
+     42.625,
+     642.627,
+     133.831,
+     653.6270000000001
+    ],
+    [
+     42.625,
+     655.227,
+     133.831,
+     666.227
+    ],
+    [
+     42.625,
+     667.857,
+     133.85399999999998,
+     678.857
+    ],
+    [
+     42.625,
+     680.452,
+     146.035,
+     691.452
+    ],
+    [
+     42.625,
+     693.2520000000001,
+     128.26500000000001,
+     704.2520000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q040_p25.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q041",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 41,
+  "area": "",
+  "texto_base_id": "P4150-T5",
+  "textos_base_ids": [
+   "P4150-T5"
+  ],
+  "enunciado": "No mundo capitalista, a produção de bens e serviços que atende às necessidades da sociedade foi um marco significativo na organização das relações sociais de hoje. O processo produtivo é composto por três elementos principais, que, quando associados, permitem a funcionalidade do sistema capitalista de produção. Sobre esses elementos, é **INCORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o trabalho é uma atividade essencial, desenvolvida pelo ser humano, que transforma a energia física e mental em força de trabalho, capaz de atuar sobre a natureza para produzir excedentes."
+   },
+   {
+    "letra": "B",
+    "texto": "o trabalho qualificado é realizado com certo grau de aprendizagem, devendo ser adquirido em espaços sistematizados pela sociedade e em áreas específicas de atuação."
+   },
+   {
+    "letra": "C",
+    "texto": "os seres humanos utilizam a matéria-prima para adquirirem os bens e serviços necessários à manutenção da natureza e seus elementos constitutivos."
+   },
+   {
+    "letra": "D",
+    "texto": "os recursos naturais são importantes para o processo produtivo, mas é um elemento relativo, pois eles variam de acordo com a concepção cultural de cada sociedade."
+   },
+   {
+    "letra": "E",
+    "texto": "as máquinas e os equipamentos são não só instrumentos de produção mas também meios materiais utilizados pelo homem para realizar o trabalho e produzir os bens e serviços necessários à vida humana."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     42.625,
+     85.30700000000002,
+     547.285,
+     96.30700000000002
+    ],
+    [
+     42.625,
+     97.90700000000004,
+     547.279,
+     108.90700000000004
+    ],
+    [
+     42.625,
+     110.49700000000007,
+     547.302,
+     121.49700000000007
+    ],
+    [
+     42.625,
+     122.90700000000004,
+     457.81399999999996,
+     133.90700000000004
+    ],
+    [
+     42.625,
+     148.52700000000004,
+     547.061,
+     159.52700000000004
+    ],
+    [
+     64.025,
+     161.12700000000007,
+     533.7090000000002,
+     172.12700000000007
+    ],
+    [
+     42.625,
+     173.7270000000001,
+     547.222,
+     184.7270000000001
+    ],
+    [
+     64.025,
+     186.52700000000004,
+     434.432,
+     197.52700000000004
+    ],
+    [
+     42.625,
+     199.12700000000007,
+     547.0440000000001,
+     210.12700000000007
+    ],
+    [
+     64.025,
+     211.7270000000001,
+     341.654,
+     222.7270000000001
+    ],
+    [
+     42.625,
+     224.3270000000001,
+     547.1260000000002,
+     235.3270000000001
+    ],
+    [
+     64.025,
+     237.12700000000007,
+     398.404,
+     248.12700000000007
+    ],
+    [
+     42.625,
+     249.74700000000007,
+     547.452,
+     260.74700000000007
+    ],
+    [
+     64.025,
+     262.3570000000001,
+     547.183,
+     273.357
+    ],
+    [
+     64.025,
+     274.957,
+     139.41899999999998,
+     285.957
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q041_p26.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q042",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 42,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a imagem a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nDesde o início do século XX, o sistema capitalista reordenou as relações de trabalho por meio da organização da produção, o que possibilitou a acumulação do capital de forma flexível. Nesse contexto, o processo produtivo verticalizado, apresentado na imagem, denomina-se de",
+  "fontes": [
+   "Disponível em: < http://vision-lean.pl/lean-manufacturing-w-akcji/priorytety-produktywnosci-linii-montazowej/>"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Fordismo/taylorismo."
+   },
+   {
+    "letra": "B",
+    "texto": "Toyotismo."
+   },
+   {
+    "letra": "C",
+    "texto": "Mercantilismo."
+   },
+   {
+    "letra": "D",
+    "texto": "Volvismo."
+   },
+   {
+    "letra": "E",
+    "texto": "Capitalismo manual."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q042_img1.png",
+    "pagina": 26,
+    "bbox": [
+     140.4,
+     334.0,
+     412.8,
+     623.5
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   26,
+   27
+  ],
+  "caixas": {
+   "26": [
+    [
+     42.625,
+     312.957,
+     201.97600000000003,
+     323.957
+    ],
+    [
+     140.4,
+     334.0,
+     412.79999999999995,
+     623.52
+    ],
+    [
+     85.225,
+     635.606,
+     471.37600000000003,
+     643.606
+    ],
+    [
+     42.625,
+     670.657,
+     547.0049999999999,
+     681.657
+    ],
+    [
+     42.625,
+     683.2520000000001,
+     547.441,
+     694.2520000000001
+    ],
+    [
+     42.625,
+     696.052,
+     466.666,
+     707.052
+    ]
+   ],
+   "27": [
+    [
+     42.625,
+     59.90700000000004,
+     166.171,
+     70.90700000000004
+    ],
+    [
+     42.625,
+     72.49700000000007,
+     118.078,
+     83.49700000000007
+    ],
+    [
+     42.625,
+     85.30700000000002,
+     135.019,
+     96.30700000000002
+    ],
+    [
+     42.625,
+     97.90700000000004,
+     111.82000000000001,
+     108.90700000000004
+    ],
+    [
+     42.625,
+     110.49700000000007,
+     163.708,
+     121.49700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q042_p26.jpg",
+   "revisao/Q042_p27.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q043",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 43,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a seguinte imagem:\n\n{{img:1}}\n\n{{fonte:1}}\n\nO fenômeno sociológico nela apresentado pode ser definido como ações coletivas, cujo objetivo é o de manter ou mudar uma situação historicamente contextualizada. Sobre esse fenômeno, assinale a alternativa que **NÃO** indica uma característica estrutural da organização social representada na imagem.",
+  "fontes": [
+   "Disponível em: <http://categoriabancaria.blogspot.com.br/2011/10/>"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Utiliza-se, em alguns casos, do líder como principal representante e articulador das reivindicações, que são o foco da organização dos seus membros."
+   },
+   {
+    "letra": "B",
+    "texto": "É constituída de pessoas articuladas politicamente e reconhecidas pelo pluralismo organizacional e pela ideologia defendida."
+   },
+   {
+    "letra": "C",
+    "texto": "Elabora e estabelece canais comunicativos entre os indivíduos, a sociedade e o Estado."
+   },
+   {
+    "letra": "D",
+    "texto": "Manipula a opinião pública para atender aos objetivos dos poderes políticos estabelecidos, permitindo que estes exerçam a força necessária para manter a ordem moral e policial do Estado."
+   },
+   {
+    "letra": "E",
+    "texto": "Declara-se, em sua maioria, apartidária e laica, evitando a utilização do movimento para beneficiar políticos ou líderes religiosos no contexto das relações sociais."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q043_img1.png",
+    "pagina": 27,
+    "bbox": [
+     124.8,
+     163.4,
+     459.4,
+     429.1
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   27
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.625,
+     145.10700000000008,
+     204.87699999999998,
+     156.10700000000008
+    ],
+    [
+     124.85,
+     163.39999999999998,
+     459.36,
+     429.12
+    ],
+    [
+     174.65,
+     442.35600000000005,
+     415.062,
+     450.35600000000005
+    ],
+    [
+     42.625,
+     470.607,
+     547.4789999999999,
+     481.607
+    ],
+    [
+     42.625,
+     483.207,
+     547.006,
+     494.207
+    ],
+    [
+     42.625,
+     495.607,
+     546.9570000000001,
+     506.607
+    ],
+    [
+     42.625,
+     508.607,
+     85.052,
+     519.607
+    ],
+    [
+     42.625,
+     533.807,
+     547.1800000000001,
+     544.807
+    ],
+    [
+     64.025,
+     546.407,
+     313.461,
+     557.407
+    ],
+    [
+     42.625,
+     559.2070000000001,
+     546.848,
+     570.207
+    ],
+    [
+     64.025,
+     571.827,
+     195.60499999999996,
+     582.827
+    ],
+    [
+     42.625,
+     584.427,
+     494.88599999999997,
+     595.427
+    ],
+    [
+     42.625,
+     597.027,
+     546.914,
+     608.027
+    ],
+    [
+     64.025,
+     609.827,
+     542.433,
+     620.827
+    ],
+    [
+     42.625,
+     622.427,
+     546.7860000000001,
+     633.427
+    ],
+    [
+     64.025,
+     635.027,
+     369.9900000000001,
+     646.027
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q043_p27.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q044",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 44,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a imagem a seguir:\n\n{{img:1}}\n\nO tema nela tratado se relaciona com o princípio social da igualdade e o respeito aos direitos, tomando como base a participação dos indivíduos no processo de elaboração e conquista desses direitos. A Sociologia denomina esse mecanismo social de cidadania. Diante disso, assinale a alternativa **CORRETA.**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A Declaração Universal dos Direitos Humanos foi criada pela ONU em 1948, para diminuir as tensões no Oriente Médio, ocasionadas por problemas territoriais."
+   },
+   {
+    "letra": "B",
+    "texto": "A cidadania se relaciona aos conceitos de classe social e *status*, pois os direitos dependem da participação dos sujeitos em espaços de mobilização que valorizam a diminuição das desigualdades no âmbito de sua posição social."
+   },
+   {
+    "letra": "C",
+    "texto": "As políticas públicas no Brasil contribuem para a consolidação da cidadania da população por meio de intervenções nos aspectos sociais e econômicos, principalmente por meio de programas de estímulo ao trabalho."
+   },
+   {
+    "letra": "D",
+    "texto": "A Constituição é um conjunto de leis, que garante a cidadania das pessoas por meio de direitos civis, políticos e sociais."
+   },
+   {
+    "letra": "E",
+    "texto": "O sistema político brasileiro é um elemento importante para entender a cidadania, pois a democracia praticada no país baseia-se na livre participação dos sujeitos e na escolha indireta dos representantes do poder."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q044_img1.png",
+    "pagina": 28,
+    "bbox": [
+     98.6,
+     84.6,
+     421.1,
+     332.9
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   28
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.625,
+     59.90700000000004,
+     201.97600000000003,
+     70.90700000000004
+    ],
+    [
+     98.64,
+     84.60000000000002,
+     421.15,
+     332.93600000000004
+    ],
+    [
+     42.625,
+     360.177,
+     547.421,
+     371.177
+    ],
+    [
+     42.625,
+     372.777,
+     547.5070000000001,
+     383.777
+    ],
+    [
+     42.625,
+     385.377,
+     546.9180000000001,
+     396.377
+    ],
+    [
+     42.625,
+     397.97700000000003,
+     99.82500000000002,
+     408.97700000000003
+    ],
+    [
+     42.625,
+     427.97700000000003,
+     547.366,
+     438.97700000000003
+    ],
+    [
+     64.025,
+     440.577,
+     385.576,
+     451.577
+    ],
+    [
+     42.625,
+     453.177,
+     547.26,
+     464.177
+    ],
+    [
+     64.025,
+     466.007,
+     546.7709999999998,
+     477.007
+    ],
+    [
+     64.025,
+     478.607,
+     297.24700000000007,
+     489.607
+    ],
+    [
+     42.625,
+     491.207,
+     547.2830000000001,
+     502.207
+    ],
+    [
+     64.025,
+     503.997,
+     546.65,
+     514.9970000000001
+    ],
+    [
+     64.025,
+     516.607,
+     182.0,
+     527.607
+    ],
+    [
+     42.625,
+     529.2070000000001,
+     547.1200000000001,
+     540.207
+    ],
+    [
+     64.025,
+     541.807,
+     180.54799999999994,
+     552.807
+    ],
+    [
+     42.625,
+     554.607,
+     546.7489999999999,
+     565.607
+    ],
+    [
+     64.025,
+     567.2270000000001,
+     547.405,
+     578.227
+    ],
+    [
+     64.025,
+     579.827,
+     186.983,
+     590.827
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q044_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q045",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 45,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia a tirinha a seguir:\n\n{{img:1}}\n\nSobre o grupo social apresentado na tirinha, analise os seguintes itens:\n\nI. A objetividade e a exterioridade são características importantes na formação desse grupo, pois os grupos sociais sempre são superiores aos indivíduos, e suas regras e normas de convivência não são construções individuais, e sim coletivas.\n\nII. A Sociologia classifica esse grupo social como intermediário.\n\nIII. As maneiras de pensar e agir desse grupo estão ressaltadas na consciência individual, pois o sentimento coletivo provoca conflitos e tensões irresolutos.\n\nIV. A mediação política desse grupo está concentrada no discurso dos estudantes e representada por uma pluralidade de indivíduos e por uma organização polianárquica.\n\nV. O grupo profissional apresentado na tirinha estabelece relações no âmbito do desenvolvimento de competências e de habilidades sistematizadas e demandadas pela sociedade.\n\nEstão **CORRETOS** apenas",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e III."
+   },
+   {
+    "letra": "B",
+    "texto": "I, III e V."
+   },
+   {
+    "letra": "C",
+    "texto": "IV e V."
+   },
+   {
+    "letra": "D",
+    "texto": "I, II e V."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q045_img1.png",
+    "pagina": 29,
+    "bbox": [
+     49.7,
+     81.9,
+     548.5,
+     230.4
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.625,
+     59.90700000000004,
+     171.97899999999998,
+     70.90700000000004
+    ],
+    [
+     49.7,
+     81.94999999999993,
+     548.5,
+     230.4
+    ],
+    [
+     42.625,
+     249.74700000000007,
+     391.388,
+     260.74700000000007
+    ],
+    [
+     72.025,
+     274.957,
+     546.756,
+     285.957
+    ],
+    [
+     92.225,
+     287.757,
+     547.256,
+     298.757
+    ],
+    [
+     92.225,
+     300.357,
+     390.28900000000004,
+     311.357
+    ],
+    [
+     68.825,
+     312.957,
+     389.17500000000007,
+     323.957
+    ],
+    [
+     65.825,
+     325.557,
+     547.0440000000001,
+     336.557
+    ],
+    [
+     92.225,
+     338.357,
+     388.41100000000006,
+     349.357
+    ],
+    [
+     64.625,
+     350.957,
+     547.496,
+     361.957
+    ],
+    [
+     92.225,
+     363.577,
+     512.438,
+     374.577
+    ],
+    [
+     67.625,
+     376.177,
+     546.9209999999999,
+     387.177
+    ],
+    [
+     92.225,
+     388.97700000000003,
+     547.434,
+     399.97700000000003
+    ],
+    [
+     92.225,
+     401.577,
+     145.61899999999997,
+     412.577
+    ],
+    [
+     42.625,
+     426.577,
+     175.31900000000002,
+     437.577
+    ],
+    [
+     42.625,
+     452.177,
+     103.68000000000002,
+     463.177
+    ],
+    [
+     42.625,
+     464.807,
+     104.87900000000002,
+     475.807
+    ],
+    [
+     42.625,
+     477.407,
+     97.06900000000002,
+     488.407
+    ],
+    [
+     42.625,
+     490.207,
+     101.88300000000001,
+     501.207
+    ],
+    [
+     42.625,
+     502.807,
+     104.87900000000002,
+     513.807
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q045_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4150-Q046",
+  "prova_id": "P4150",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 46,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As manifestações folclóricas de Pernambuco representam a identidade cultural do Estado, transmitidas de geração em geração. Quando crianças, muitos habitantes escutam histórias de assombração, que fazem parte do imaginário cultural. Sobre isso, leia o texto a seguir:\n\nÉ uma lenda do Piauí e de Pernambuco, que data dos séculos XIX e XX. Soltava fogo e fumaça pelos olhos, pelo nariz e pela boca. Atacava quem andasse pelas ruas desertas às sextas, à noite. Mas o pior era que [o animal] entrava nas casas, pelo telhado ou porta, à procura de meninos malcriados e travessos. A lenda conta que [...] era um animal monstruoso, além de que, mais uma vez, comia crianças travessas.\n\n{{fonte:1}}\n\nSobre essas manifestações folclóricas pernambucanas, assinale a alternativa **CORRETA.**",
+  "fontes": [
+   "Fonte: <http://www.assombrado.com.br/2014/01/20-lendas-do-estado-de-pernambuco.html> Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Essas são reflexo da cultura europeia, predominantes em toda a vida social dos habitantes do Estado."
+   },
+   {
+    "letra": "B",
+    "texto": "As histórias de assombração têm uma representação simbólica importante para os habitantes do interior, sendo ofuscadas na Região Metropolitana do Recife."
+   },
+   {
+    "letra": "C",
+    "texto": "O texto apresenta uma história contada para crianças como uma maneira de controlar suas ações. Essa história é repassada de geração a geração, por meio da oralidade e refere-se às lendas criadas pela cultura popular."
+   },
+   {
+    "letra": "D",
+    "texto": "A cabra cabriola é o personagem destacado no texto. Essa lenda hoje é bastante ouvida especialmente pelos jovens da região litorânea."
+   },
+   {
+    "letra": "E",
+    "texto": "O folclore pernambucano é constituído de histórias contadas por pessoas oriundas de outros Estados. Essas manifestações culturais têm sua origem na cultura europeia, trazidas pelos imigrantes que se estabeleceram no Sul e Sudeste do país."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   29,
+   30
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.625,
+     540.807,
+     547.439,
+     551.807
+    ],
+    [
+     42.625,
+     553.407,
+     547.4789999999999,
+     564.407
+    ],
+    [
+     42.625,
+     566.027,
+     464.327,
+     577.027
+    ],
+    [
+     60.625,
+     592.827,
+     539.855,
+     603.827
+    ],
+    [
+     60.625,
+     605.427,
+     540.496,
+     616.427
+    ],
+    [
+     60.625,
+     618.2270000000001,
+     539.8509999999999,
+     629.227
+    ],
+    [
+     60.625,
+     630.827,
+     540.331,
+     641.827
+    ],
+    [
+     60.625,
+     643.427,
+     261.078,
+     654.427
+    ],
+    [
+     174.25,
+     664.806,
+     540.158,
+     672.806
+    ]
+   ],
+   "30": [
+    [
+     42.625,
+     72.30700000000002,
+     481.55199999999996,
+     83.30700000000002
+    ],
+    [
+     42.625,
+     97.90700000000004,
+     547.2579999999999,
+     108.90700000000004
+    ],
+    [
+     64.025,
+     110.49700000000007,
+     101.45500000000001,
+     121.49700000000007
+    ],
+    [
+     42.625,
+     123.10700000000008,
+     546.7159999999999,
+     134.10700000000008
+    ],
+    [
+     64.025,
+     135.90700000000004,
+     362.30600000000015,
+     146.90700000000004
+    ],
+    [
+     42.625,
+     148.52700000000004,
+     547.638,
+     159.52700000000004
+    ],
+    [
+     64.025,
+     161.12700000000007,
+     547.389,
+     172.12700000000007
+    ],
+    [
+     64.025,
+     173.7270000000001,
+     202.152,
+     184.7270000000001
+    ],
+    [
+     42.625,
+     186.52700000000004,
+     547.367,
+     197.52700000000004
+    ],
+    [
+     64.025,
+     199.12700000000007,
+     296.664,
+     210.12700000000007
+    ],
+    [
+     42.625,
+     211.7270000000001,
+     547.409,
+     222.7270000000001
+    ],
+    [
+     64.025,
+     224.3270000000001,
+     547.449,
+     235.3270000000001
+    ],
+    [
+     64.025,
+     237.12700000000007,
+     355.296,
+     248.12700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2018/caderno-de-provas-SSA2-2DIA.pdf",
+  "gabarito_origem": [
+   "P4149"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q046_p29.jpg",
+   "revisao/Q046_p30.jpg"
+  ]
+ }
+]

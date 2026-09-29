@@ -1,0 +1,101 @@
+[
+ {
+  "id": "P4213-T1",
+  "texto": "**QUÍMICA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     264.29,
+     343.61464,
+     315.71432000000004,
+     354.65464
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4213-Q011"
+  ],
+  "recortes": [
+   "revisao/T1_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4213-T3",
+  "texto": "**FÍSICA**\n\n***Nas questões com respostas numéricas, considere o módulo da aceleração da gravidade*** ***como g = 10,0 m/s<sup>2</sup>, o módulo da carga do elétron como e = 1,6 x 10<sup>-19</sup>C, o módulo da*** ***velocidade da luz como c = 3,0 x 10<sup>8</sup> m/s e utilize π = 3.***",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     268.97,
+     481.595824,
+     306.344192,
+     492.65982399999996
+    ],
+    [
+     42.6,
+     510.10528,
+     538.91488,
+     521.14528
+    ],
+    [
+     42.6,
+     522.7052799999999,
+     538.77568,
+     533.74528
+    ],
+    [
+     42.6,
+     535.4252799999999,
+     329.45048,
+     546.4984
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4213-Q021"
+  ],
+  "recortes": [
+   "revisao/T3_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4213-T4",
+  "texto": "**HISTÓRIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     267.41,
+     450.89464000000004,
+     322.49960000000004,
+     461.93464
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4213-Q031"
+  ],
+  "recortes": [
+   "revisao/T4_p17.jpg"
+  ]
+ }
+]
