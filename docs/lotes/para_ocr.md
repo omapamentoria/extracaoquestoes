@@ -196,7 +196,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1416 — UERJ 2014 regular  — só 5 questões em 16 páginas — UERJ 2014 - Exame Discursivo - Prova F¡sica.pdf
 * P1415 — UERJ 2014 regular  — só 5 questões em 16 páginas — UERJ 2014 - Exame Discursivo - Prova Biologia.pdf
 * P1162 — FUVEST 2014 regular 3 — só 14 questões em 38 páginas — FUVEST 2014 - 2a fase - 3o dia.pdf
-* P1161 — FUVEST 2014 regular 2 — 16 de 16 questões PENDENTES (símbolos sem tradução) — FUVEST 2014 - 2a fase - 2o dia.pdf
 * P1160 — FUVEST 2014 regular 1 — 14 de 14 questões PENDENTES (símbolos sem tradução) — FUVEST 2014 - 2a fase - 1o dia.pdf
 * P1099 — FUVEST 2014 regular  — 52 de 52 questões PENDENTES (símbolos sem tradução) — FUVEST 2014 - 1a fase - PROVA.pdf
 * P2134 — UNICAMP 2013 regular 3 — nenhuma questão — Prova 3º dia.pdf
