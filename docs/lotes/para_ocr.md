@@ -338,3 +338,30 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1355 — SIMULADO_UERJ    — só 6 questões em 12 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_BIOLOGIA_MD.pdf
 * P1323 — UERJ  regular  — 143 de 187 questões PENDENTES (símbolos sem tradução) — UERJ - QUÍMICA - DISCURSIVAS.pdf
 * P1322 — UERJ  regular  — 150 de 209 questões PENDENTES (símbolos sem tradução) — UERJ - BIOLOGIA - DISCURSIVAS.pdf
+* P0695 — DEMAIS 2016 regular  — texto: sem_texto (imagem) — Prova I- discursiva 2016.pdf
+* P0696 — DEMAIS 2016 regular  — texto: sem_texto (imagem) — Prova II- objetiva e Prova III- redação 2016.pdf
+* P0700 — DEMAIS 2017 regular  — texto: sem_texto (imagem) — Prova I- discursiva 2017.pdf
+* P0701 — DEMAIS 2017 regular  — texto: sem_texto (imagem) — Prova II- objetiva e Prova III- redação 2017.pdf
+* P0705 — DEMAIS 2018 regular  — texto: sem_texto (imagem) — Prova I- discursiva 2018.pdf
+* P0706 — DEMAIS 2018 regular  — texto: sem_texto (imagem) — Prova II- objetiva e Prova III- redação.pdf
+* P0710 — DEMAIS 2019 regular  — texto: sem_texto (imagem) — Prova I- discursiva 2019.pdf
+* P0711 — DEMAIS 2019 regular  — texto: sem_texto (imagem) — Prova II- objetiva e Prova III- redação.pdf
+* P0715 — DEMAIS 2020 regular  — texto: sem_texto (imagem) — Prova I- discursiva 2020.pdf
+* P0716 — DEMAIS 2020 regular  — texto: sem_texto (imagem) — Prova II- objetiva e Prova III- redação.pdf
+* P1286 — DEMAIS 2025 regular 2 — texto: parcialmente corrompido — quimica 2025.PDF
+* P1704 — DEMAIS 2015 regular  — texto: sem_texto (imagem) — Prova_Redacao_PSV_2015.PDF
+* P1716 — DEMAIS 2019 regular  — texto: parcialmente corrompido — REDACAO-PSV2019.pdf
+* P1792 — DEMAIS 2015 regular 1 — texto: parcialmente corrompido — UFU 2015 1º Dia 2º Fase (Francês).pdf
+* P1812 — DEMAIS 2016 regular 1 — texto: parcialmente corrompido — UFU 2016 1º Dia 2º Fase (Francês).pdf
+* P1859 — DEMAIS 2019 regular 2 — texto: parcialmente corrompido — UFU 2019 2º Dia 1º Fase (Francês).pdf
+* P1874 — DEMAIS 2019 regular 1 — texto: parcialmente corrompido — UFU 2019 1º Dia 2º Fase (Francês).pdf
+* P1306 — DEMAIS 2026 regular 2 — nenhuma questão — sociologia 2026.PDF
+* P1305 — DEMAIS 2026 regular 2 — nenhuma questão — redação 2026.PDF
+* P1304 — DEMAIS 2026 regular 2 — nenhuma questão — quimica 2026.PDF
+* P1303 — DEMAIS 2026 regular 2 — nenhuma questão — lingua portuguesa e literatura 2026.PDF
+* P1302 — DEMAIS 2026 regular 2 — nenhuma questão — historia 2026.PDF
+* P1301 — DEMAIS 2026 regular 2 — nenhuma questão — fisica 2026.PDF
+* P1300 — DEMAIS 2026 regular 2 — nenhuma questão — filosofia 2026.PDF
+* P1299 — DEMAIS 2026 regular 2 — nenhuma questão — biologia 2026.PDF
+* P1298 — DEMAIS 2026 regular 2 — nenhuma questão — artes 2026.PDF
+* P1297 — DEMAIS 2026 regular 2 — nenhuma questão — Matemática 2026.PDF
