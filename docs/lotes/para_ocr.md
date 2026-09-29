@@ -10,15 +10,11 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2496 — ENEM 2010 regular 1 — texto: corrompido — ENEM - 2010 - 1° dia - Prova amarela (COM GABARITO).pdf
 * P2519 — ENEM 2013 regular 2 — texto: sem_texto (imagem) — ENEM - 2013 - 2° dia - Prova cinza.pdf
 * P2525 — ENEM 2014 regular 2 — texto: sem_texto (imagem) — ENEM - 2014 - 2° dia - Prova azul.pdf
-* P2526 — ENEM 2014 3ª aplicação 1 — texto: corrompido — ENEM - 2014 (3° apli.) - 1° dia - Prova branca.pdf
-* P2463 — ENEM 2021 PPL/reaplicação 2 — 89 de 90 questões PENDENTES (símbolos sem tradução) — enem 2021 PPL - 2 dia PROVA.pdf
 * P2460 — ENEM 2021 PPL/reaplicação 1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — enem 2021 PPL - 1 dia PROVA.pdf
 * P2421 — ENEM 2010 PPL/reaplicação 1 — 45 de 70 questões PENDENTES (símbolos sem tradução) — ENEM PPL - 2010 (2°apli) - 1° dia - Prova azul.pdf
 * P2904 — SIMULADO_ENEM 2022  1 — texto: parcialmente corrompido — SOMOS 1 - PRIMEIRO DIA.pdf
-* P2907 — SIMULADO_ENEM 2022  1 — texto: parcialmente corrompido — 1ºDia - Prova.pdf
 * P2909 — SIMULADO_ENEM 2022  2 — texto: corrompido — 2º Dia - Prova.pdf
 * P3308 — SIMULADO_ENEM 2024  1 — texto: sem_texto (imagem) — 5º Bernoulli 2024 - prova dia 01 - @wagnernamed.pdf
-* P3312 — SIMULADO_ENEM 2024  1 — texto: sem_texto (imagem) — 6º Bernoulli 2024 - prova dia 01 - @wagnernamed.pdf
 * P3313 — SIMULADO_ENEM 2024  2 — texto: sem_texto (imagem) — 6º Bernoulli 2024 - prova dia 02 - @wagnernamed.pdf
 * P4023 — SIMULADO_SSA   1 — texto: sem_texto (imagem) — 1 dIa SAS SSA-Simulado 1.pdf
 * P2863 — SIMULADO_ENEM 2026  2 — nenhuma questão — 3° SOMOS - 2026 - Dia 02.pdf
