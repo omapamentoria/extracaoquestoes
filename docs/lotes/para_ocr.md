@@ -81,18 +81,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2196 — UNICAMP 2019 regular  — nenhuma questão — fisbioqui.pdf
 * P1606 — UERJ 2019 2019.2  — nenhuma questão — UERJ 2019 - prova 2º Exame de Qualificação.pdf
 * P1604 — UERJ 2019 2019.1  — nenhuma questão — UERJ 2019 - prova 1º qualificação.pdf
-* P1191 — FUVEST 2019 regular 2 — só 6 questões em 38 páginas — FUVEST 2019 - 2a fase -2o dia.pdf
 * P2192 — UNICAMP 2018 regular  — nenhuma questão — redport.pdf
 * P2190 — UNICAMP 2018 regular  — nenhuma questão — matgeohis.pdf
-* P2189 — UNICAMP 2018 regular  — só 1 questões em 21 páginas — fisbioqui.pdf
 * P1599 — UERJ 2018 regular  — só 3 questões em 40 páginas — 2º Exame Qualificação 2018.pdf
 * P1598 — UERJ 2018 regular  — nenhuma questão — 1º Exame Qualificação 2018.pdf
-* P1502 — UERJ 2018 regular  — só 6 questões em 16 páginas — UERJ 2018 - Exame Discursivo - Prova Qu¡mica.pdf
-* P1501 — UERJ 2018 regular  — só 6 questões em 16 páginas — UERJ 2018 - Exame Discursivo - Prova Portugus e Literatura.pdf
-* P1500 — UERJ 2018 regular  — só 6 questões em 16 páginas — UERJ 2018 - Exame Discursivo - Prova Matem tica.pdf
-* P1499 — UERJ 2018 regular  — só 6 questões em 24 páginas — UERJ 2018 - Exame Discursivo - Prova L¡ngua Estrangeira.pdf
-* P1496 — UERJ 2018 regular  — só 6 questões em 16 páginas — UERJ 2018 - Exame Discursivo - Prova F¡sica.pdf
-* P1495 — UERJ 2018 regular  — só 6 questões em 16 páginas — UERJ 2018 - Exame Discursivo - Prova Biologia.pdf
 * P1186 — FUVEST 2018 regular 2 — só 5 questões em 38 páginas — FUVEST 2018 - 2o dia - 3o dia.pdf
 * P1111 — FUVEST 2018 regular  — só 6 questões (esperado ~74) — FUVEST 2018 - 1a fase - PROVA.pdf
 * P2173 — UNICAMP 2017 regular  — nenhuma questão — Prova de Redação e prova de Língua Portuguesa e Literaturas de Língua Portuguesa.pdf
