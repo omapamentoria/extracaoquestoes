@@ -402,3 +402,7 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1258 — DEMAIS 2023 regular 2 — nenhuma questão — filosofia 2023.PDF
 * P1257 — DEMAIS 2023 regular 2 — nenhuma questão — biologia 2023.PDF
 * P1256 — DEMAIS 2023 regular 2 — nenhuma questão — arte 2023.PDF
+* P1255 — DEMAIS 2023 regular 1 — só 9 questões (esperado ~32) — prova tipo 1 - 2023.PDF
+* P0833 — DEMAIS 2023 2023.2  — só 3 questões (esperado ~54) — fatec2023_2_prova.pdf
+* P0771 — DEMAIS 2023 regular 2 — só 20 questões em 28 páginas — famerp 2023 - dia 02 prova.pdf
+* P1952 — DEMAIS 2022 regular  — só 14 questões em 30 páginas — UFU 2022 2º Fase.pdf
