@@ -230,3 +230,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1595 — UERJ 2017 regular  — nenhuma questão — 2º Exame Qualificação 2017.pdf
 * P1594 — UERJ 2017 regular  — só 4 questões (esperado ~9) — 1º Exame Qualificação 2017.pdf
 * P1483 — UERJ 2017 regular  — só 6 questões em 16 páginas — UERJ 20187 - Exame Discursivo - Prova Qu¡mica.pdf
+* P1482 — UERJ 2017 regular  — só 6 questões em 16 páginas — UERJ 20187 - Exame Discursivo - Prova Portugus e Literatura.pdf
+* P1481 — UERJ 2017 regular  — só 6 questões em 16 páginas — UERJ 20187 - Exame Discursivo - Prova Matem tica.pdf
+* P1480 — UERJ 2017 regular  — só 6 questões em 8 páginas — UERJ 20187 - Exame Discursivo - Prova L¡ngua Portuguesa Instrumental com RedaÆo.pdf
+* P1479 — UERJ 2017 regular  — só 6 questões em 24 páginas — UERJ 20187 - Exame Discursivo - Prova L¡ngua Estrangeira.pdf
+* P1476 — UERJ 2017 regular  — só 5 questões em 16 páginas — UERJ 20187 - Exame Discursivo - Prova F¡sica.pdf
+* P1475 — UERJ 2017 regular  — só 6 questões em 16 páginas — UERJ 20187 - Exame Discursivo - Prova Biologia.pdf
+* P1180 — FUVEST 2017 regular 3 — erro no extrator — FUVEST 1017 - 2a fase - 3o dia.pdf
