@@ -399,10 +399,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P0803 — DEMAIS 2014 regular  — só 18 questões (esperado ~54) — FATEC 2014_1.pdf
 * P0801 — DEMAIS 2013 regular  — só 18 questões (esperado ~54) — FATEC 2013_2.pdf
 * P0799 — DEMAIS 2013 regular  — só 19 questões (esperado ~54) — FATEC 2013_1.pdf
-* P2024 — DEMAIS 2012 2012.2  — 40 de 40 questões PENDENTES (símbolos sem tradução) — Prova - Caderno II.pdf
-* P2023 — DEMAIS 2012 2012.2  — 49 de 49 questões PENDENTES (símbolos sem tradução) — Prova - Caderno I.pdf
-* P2020 — DEMAIS 2012 2012.1 2 — 40 de 40 questões PENDENTES (símbolos sem tradução) — vest2012_1_caderno_de_prova_2_dia.pdf
-* P2019 — DEMAIS 2012 2012.1 1 — 60 de 60 questões PENDENTES (símbolos sem tradução) — vest2012_1_caderno_de_prova_1_dia.pdf
 * P0797 — DEMAIS 2012 regular  — só 19 questões (esperado ~54) — FATEC 2012_2.pdf
 * P0795 — DEMAIS 2012 regular  — só 19 questões (esperado ~53) — FATEC 2012_1.pdf
 * P2017 — DEMAIS 2011 2011.2 2 — 40 de 40 questões PENDENTES (símbolos sem tradução) — vest2011_2_caderno_de_provas_2_dia.pdf
