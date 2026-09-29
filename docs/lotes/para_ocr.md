@@ -41,16 +41,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P3447 — SIMULADO_ENEM 2023  1 — 90 de 90 questões PENDENTES (símbolos sem tradução) — Dia 1 - sas 2_2023.pdf
 * P3446 — SIMULADO_ENEM 2023  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 1 SAS 2023 - DIA 2 PROVA.pdf
 * P3444 — SIMULADO_ENEM 2023  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 1 SAS 2023 - DIA 1 PROVA.pdf
-* P2824 — SIMULADO_ENEM 2021  1 — 92 de 92 questões PENDENTES (símbolos sem tradução) — SimuladoENEM1ºDia_MD.pdf
-* P2821 — SIMULADO_ENEM 2021   — 90 de 90 questões PENDENTES (símbolos sem tradução) — Simulado_ENEM2_MAIO_2021_MD.pdf
-* P2820 — SIMULADO_ENEM 2021  1 — 92 de 92 questões PENDENTES (símbolos sem tradução) — SimuladoENEM1ºDia_MAIO_BH_RJ_2021_MD.pdf
-* P2817 — SIMULADO_ENEM 2021   — 89 de 89 questões PENDENTES (símbolos sem tradução) — SimuENEM2_ABRIL_2021.pdf
-* P2816 — SIMULADO_ENEM 2021  1 — 92 de 92 questões PENDENTES (símbolos sem tradução) — SimuENEM1ºDia_ABRIL2021.pdf
-* P2813 — SIMULADO_ENEM 2020   — 90 de 90 questões PENDENTES (símbolos sem tradução) — Simulado_ENEM2_SETEMBRO_2020_PRESENCIAL_MD.pdf
-* P2812 — SIMULADO_ENEM 2020  1 — 93 de 93 questões PENDENTES (símbolos sem tradução) — SimuladoENEM1ºDia_BH_SETEMBRO_MD.pdf
-* P2809 — SIMULADO_ENEM 2020   — 90 de 90 questões PENDENTES (símbolos sem tradução) — Simulado_ENEM2_SETEMBRO_2020_PRESENCIAL_MD.pdf
-* P2806 — SIMULADO_ENEM 2020   — 90 de 90 questões PENDENTES (símbolos sem tradução) — 1. Simulado_ENEM1_AGOSTO_2020_MD.pdf
-* P2801 — SIMULADO_ENEM 2020   — 86 de 86 questões PENDENTES (símbolos sem tradução) — Simulado_ENEM2_BH_Julho_2020_PRESENCIAL_MD.pdf
 * P2800 — SIMULADO_ENEM 2020  1 — 93 de 93 questões PENDENTES (símbolos sem tradução) — SimuladoENEM1ºDia_BH_JULHO_PRESENCIAL_MD.pdf
 * P2797 — SIMULADO_ENEM 2020   — 90 de 90 questões PENDENTES (símbolos sem tradução) — Simulado_ENEM2_Junho_2020_MD.pdf
 * P2796 — SIMULADO_ENEM 2020  1 — 91 de 91 questões PENDENTES (símbolos sem tradução) — SimuladoENEM1ºDia_JUNHO_FINAL_MD.pdf
