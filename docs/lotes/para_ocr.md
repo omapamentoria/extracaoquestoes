@@ -107,15 +107,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2145 — UNICAMP 2014 regular 3 — nenhuma questão — 3º dia 2ª fase.pdf
 * P2144 — UNICAMP 2014 regular 2 — nenhuma questão — 2º dia 2ª fase.pdf
 * P2143 — UNICAMP 2014 regular 1 — nenhuma questão — 1º dia 2ª fase.pdf
-* P1423 — UERJ 2014 regular  — só 5 questões em 16 páginas — UERJ 2014 - Exame Discursivo - Prova Qu¡mica.pdf
-* P1422 — UERJ 2014 regular  — só 5 questões em 16 páginas — UERJ 2014 - Exame Discursivo - Prova Portugus e Literatura.pdf
-* P1421 — UERJ 2014 regular  — só 5 questões em 16 páginas — UERJ 2014 - Exame Discursivo - Prova Matem tica.pdf
-* P1420 — UERJ 2014 regular  — só 5 questões em 8 páginas — UERJ 2014 - Exame Discursivo - Prova L¡ngua Portuguesa Instrumental com RedaÆo.pdf
-* P1419 — UERJ 2014 regular  — só 5 questões em 24 páginas — UERJ 2014 - Exame Discursivo - Prova L¡ngua Estrangeira.pdf
-* P1417 — UERJ 2014 regular  — só 5 questões em 16 páginas — UERJ 2014 - Exame Discursivo - Prova Geografia.pdf
-* P1416 — UERJ 2014 regular  — só 5 questões em 16 páginas — UERJ 2014 - Exame Discursivo - Prova F¡sica.pdf
-* P1415 — UERJ 2014 regular  — só 5 questões em 16 páginas — UERJ 2014 - Exame Discursivo - Prova Biologia.pdf
-* P1162 — FUVEST 2014 regular 3 — só 14 questões em 38 páginas — FUVEST 2014 - 2a fase - 3o dia.pdf
 * P1160 — FUVEST 2014 regular 1 — 14 de 14 questões PENDENTES (símbolos sem tradução) — FUVEST 2014 - 2a fase - 1o dia.pdf
 * P1099 — FUVEST 2014 regular  — 52 de 52 questões PENDENTES (símbolos sem tradução) — FUVEST 2014 - 1a fase - PROVA.pdf
 * P2134 — UNICAMP 2013 regular 3 — nenhuma questão — Prova 3º dia.pdf
