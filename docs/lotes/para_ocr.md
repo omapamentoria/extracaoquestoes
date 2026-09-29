@@ -237,3 +237,11 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1476 — UERJ 2017 regular  — só 5 questões em 16 páginas — UERJ 20187 - Exame Discursivo - Prova F¡sica.pdf
 * P1475 — UERJ 2017 regular  — só 6 questões em 16 páginas — UERJ 20187 - Exame Discursivo - Prova Biologia.pdf
 * P1180 — FUVEST 2017 regular 3 — erro no extrator — FUVEST 1017 - 2a fase - 3o dia.pdf
+* P2158 — UNICAMP 2016 regular  — nenhuma questão — Prova de Redação e prova de Língua Portuguesa e Literaturas de Língua Portuguesa - 2ª fase Unicamp 2016.pdf
+* P2157 — UNICAMP 2016 regular  — nenhuma questão — Prova de Química, prova de Física e prova de Biologia - 2ª fase Unicamp 2016.pdf
+* P2156 — UNICAMP 2016 regular  — nenhuma questão — Prova de História, prova de Matemática e prova de Geografia - 2ª fase Unicamp 2016.pdf
+* P1591 — UERJ 2016 regular  — nenhuma questão — 2º Exame Qualificação 2016.pdf
+* P1590 — UERJ 2016 regular  — nenhuma questão — 1º Exame Qualificação 2016.pdf
+* P1463 — UERJ 2016 regular  — só 5 questões em 16 páginas — UERJ 2016 - Exame Discursivo - Prova Qu¡mica.pdf
+* P1462 — UERJ 2016 regular  — só 5 questões em 16 páginas — UERJ 2016 - Exame Discursivo - Prova Portugus e Literatura.pdf
+* P1461 — UERJ 2016 regular  — só 5 questões em 16 páginas — UERJ 2016 - Exame Discursivo - Prova Matem tica.pdf
