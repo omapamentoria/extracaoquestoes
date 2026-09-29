@@ -12,8 +12,11 @@ for g in ("FUVEST", "UNICAMP", "UERJ", "UNESP", "SIMULADO_FUVEST", "SIMULADO_UER
 def git(*a, cwd):
     return subprocess.run(["git", "-c", "user.name=Claude", "-c", "user.email=noreply@anthropic.com", *a], cwd=cwd, capture_output=True, text=True)
 linhas = open(OCR_P, encoding="utf-8").read().split("\n")
+# prova discursiva (2a fase, "exame discursivo", respostas): o extrator e de multipla escolha -> fica para depois
+DISC = re.compile(r"(?i)2.? ?fase|segunda fase|discursiv|dissertativ|\bresp\b|resp\.pdf|reda[çc][ãa]o")
 pids = [m.group(1) for l in linhas for m in [re.match(r"\* (P\d{4}) — ", l)] if m and "texto:" not in l and "embaralhado" not in l
-        and CAT.get(m.group(1), {}).get("grupo") in DEST]
+        and CAT.get(m.group(1), {}).get("grupo") in DEST
+        and not DISC.search(" ".join(CAT[m.group(1)].get(k) or "" for k in ("arquivo", "conjunto", "fase_etapa")))]
 print(len(pids), "provas para tentar de novo", flush=True)
 for i in range(0, len(pids), 10):
     lote = pids[i:i + 10]
