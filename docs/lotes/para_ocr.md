@@ -372,3 +372,9 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1285 — DEMAIS 2025 regular 2 — nenhuma questão — lingua portuguesa e literatura 2025.PDF
 * P1284 — DEMAIS 2025 regular 2 — nenhuma questão — historia 2025.PDF
 * P1283 — DEMAIS 2025 regular 2 — nenhuma questão — fisica 2025.PDF
+* P1282 — DEMAIS 2025 regular 2 — nenhuma questão — filosofia 2025.PDF
+* P1281 — DEMAIS 2025 regular 2 — nenhuma questão — biologia 2025.PDF
+* P1280 — DEMAIS 2025 regular 2 — nenhuma questão — arte 2025.PDF
+* P1279 — DEMAIS 2025 regular 2 — nenhuma questão — Matemática 2025.PDF
+* P1278 — DEMAIS 2025 regular 1 — só 9 questões (esperado ~40) — prova tipo 1 - 2025.PDF
+* P0779 — DEMAIS 2025 regular 2 — só 20 questões em 28 páginas — famerp 2025- dia 02 prova.pdf
