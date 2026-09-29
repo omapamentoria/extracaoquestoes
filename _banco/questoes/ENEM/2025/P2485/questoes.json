@@ -1,0 +1,518 @@
+[
+ {
+  "id": "P2485-Q001",
+  "prova_id": "P2485",
+  "idioma": null,
+  "vestibular": "ENEM",
+  "ano": "2025",
+  "edicao": "PPL/reaplicação",
+  "fase_etapa": "",
+  "dia": "2",
+  "caderno": "",
+  "numero": 1,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Este CADERNO DE QUESTÕES contém 90 questões numeradas de 91 a 180 e uma FOLHA DE RASCUNHO,",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "questões de número 91 a 135, relativas à área de Ciências da Natureza e suas Tecnologias;"
+   },
+   {
+    "letra": "B",
+    "texto": "questões de número 136 a 180, relativas à área de Matemática e suas Tecnologias;\n\n{{img:1}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q001_img1.png",
+    "pagina": 1,
+    "bbox": [
+     -10.9,
+     63.4,
+     647.5,
+     787.0
+    ]
+   }
+  ],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   1
+  ],
+  "caixas": {
+   "1": [
+    [
+     71.3881,
+     424.2132,
+     565.1451338200001,
+     435.62019999999995
+    ],
+    [
+     85.5613,
+     455.04319999999996,
+     497.80499999999967,
+     466.04319999999996
+    ],
+    [
+     85.5613,
+     471.87319999999994,
+     464.8632999999998,
+     482.87319999999994
+    ],
+    [
+     -10.926700000000002,
+     63.36,
+     647.5409,
+     786.96
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Provas ENEM normal e ENEM PPL/02 - ENEM PPLs (2009 - 2025)/ENEM PPL - 2025/enem 2025 - DIA 02 - 2ª APLIC.pdf",
+  "gabarito_origem": [],
+  "alertas": [
+   "imagem 1 tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto",
+   "2 alternativas encontradas (esperado 5)",
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q001_p1.jpg"
+  ]
+ },
+ {
+  "id": "P2485-Q002",
+  "prova_id": "P2485",
+  "idioma": null,
+  "vestibular": "ENEM",
+  "ano": "2025",
+  "edicao": "PPL/reaplicação",
+  "fase_etapa": "",
+  "dia": "2",
+  "caderno": "",
+  "numero": 2,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Confira se a quantidade e a ordem das questões do seu CADERNO DE QUESTÕES estão de acordo com as instruções anteriores. Caso o caderno esteja incompleto, tenha defeito ou apresente qualquer divergência, comunique ao aplicador da sala para que ele tome as providências cabíveis.",
+  "fontes": [],
+  "alternativas": [],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   1
+  ],
+  "caixas": {
+   "1": [
+    [
+     71.3881,
+     508.38649999999996,
+     565.2571398800003,
+     519.7935
+    ],
+    [
+     85.5613,
+     522.3865,
+     565.2679999999993,
+     533.3865
+    ],
+    [
+     85.5613,
+     536.3895,
+     422.16679999999985,
+     547.3895
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Provas ENEM normal e ENEM PPL/02 - ENEM PPLs (2009 - 2025)/ENEM PPL - 2025/enem 2025 - DIA 02 - 2ª APLIC.pdf",
+  "gabarito_origem": [],
+  "alertas": [
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "0 alternativas encontradas (esperado 5)",
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q002_p1.jpg"
+  ]
+ },
+ {
+  "id": "P2485-Q003",
+  "prova_id": "P2485",
+  "idioma": null,
+  "vestibular": "ENEM",
+  "ano": "2025",
+  "edicao": "PPL/reaplicação",
+  "fase_etapa": "",
+  "dia": "2",
+  "caderno": "",
+  "numero": 3,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Para cada uma das questões objetivas, são apresentadas 5 opções. Apenas uma responde corretamente",
+  "fontes": [],
+  "alternativas": [],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   1
+  ],
+  "caixas": {
+   "1": [
+    [
+     71.3933,
+     556.0574999999999,
+     565.1822,
+     567.4644999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Provas ENEM normal e ENEM PPL/02 - ENEM PPLs (2009 - 2025)/ENEM PPL - 2025/enem 2025 - DIA 02 - 2ª APLIC.pdf",
+  "gabarito_origem": [],
+  "alertas": [
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "0 alternativas encontradas (esperado 5)",
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q003_p1.jpg"
+  ]
+ },
+ {
+  "id": "P2485-Q004",
+  "prova_id": "P2485",
+  "idioma": null,
+  "vestibular": "ENEM",
+  "ano": "2025",
+  "edicao": "PPL/reaplicação",
+  "fase_etapa": "",
+  "dia": "2",
+  "caderno": "",
+  "numero": 4,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O tempo disponível para estas provas é de **cinco horas**.",
+  "fontes": [],
+  "alternativas": [],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   1
+  ],
+  "caixas": {
+   "1": [
+    [
+     71.3933,
+     589.7284999999999,
+     330.7293,
+     601.1354999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Provas ENEM normal e ENEM PPL/02 - ENEM PPLs (2009 - 2025)/ENEM PPL - 2025/enem 2025 - DIA 02 - 2ª APLIC.pdf",
+  "gabarito_origem": [],
+  "alertas": [
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "0 alternativas encontradas (esperado 5)",
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q004_p1.jpg"
+  ]
+ },
+ {
+  "id": "P2485-Q005",
+  "prova_id": "P2485",
+  "idioma": null,
+  "vestibular": "ENEM",
+  "ano": "2025",
+  "edicao": "PPL/reaplicação",
+  "fase_etapa": "",
+  "dia": "2",
+  "caderno": "",
+  "numero": 5,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Reserve tempo suficiente para preencher o CARTÃO-RESPOSTA.",
+  "fontes": [],
+  "alternativas": [],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   1
+  ],
+  "caixas": {
+   "1": [
+    [
+     71.39330000000001,
+     609.3965,
+     367.6144999999999,
+     620.8035
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Provas ENEM normal e ENEM PPL/02 - ENEM PPLs (2009 - 2025)/ENEM PPL - 2025/enem 2025 - DIA 02 - 2ª APLIC.pdf",
+  "gabarito_origem": [],
+  "alertas": [
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "0 alternativas encontradas (esperado 5)",
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q005_p1.jpg"
+  ]
+ },
+ {
+  "id": "P2485-Q006",
+  "prova_id": "P2485",
+  "idioma": null,
+  "vestibular": "ENEM",
+  "ano": "2025",
+  "edicao": "PPL/reaplicação",
+  "fase_etapa": "",
+  "dia": "2",
+  "caderno": "",
+  "numero": 6,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Os rascunhos e as marcações assinaladas no CADERNO DE QUESTÕES e na FOLHA DE RASCUNHO não serão",
+  "fontes": [],
+  "alternativas": [],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   1
+  ],
+  "caixas": {
+   "1": [
+    [
+     71.39330000000001,
+     629.0645,
+     565.2514999999999,
+     640.4714999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Provas ENEM normal e ENEM PPL/02 - ENEM PPLs (2009 - 2025)/ENEM PPL - 2025/enem 2025 - DIA 02 - 2ª APLIC.pdf",
+  "gabarito_origem": [],
+  "alertas": [
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "0 alternativas encontradas (esperado 5)",
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q006_p1.jpg"
+  ]
+ },
+ {
+  "id": "P2485-Q007",
+  "prova_id": "P2485",
+  "idioma": null,
+  "vestibular": "ENEM",
+  "ano": "2025",
+  "edicao": "PPL/reaplicação",
+  "fase_etapa": "",
+  "dia": "2",
+  "caderno": "",
+  "numero": 7,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Quando terminar as provas, acene para chamar o aplicador e entregue este CADERNO DE QUESTÕES,",
+  "fontes": [],
+  "alternativas": [],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   1
+  ],
+  "caixas": {
+   "1": [
+    [
+     71.39330000000001,
+     662.7354999999999,
+     565.2833999999991,
+     674.1424999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Provas ENEM normal e ENEM PPL/02 - ENEM PPLs (2009 - 2025)/ENEM PPL - 2025/enem 2025 - DIA 02 - 2ª APLIC.pdf",
+  "gabarito_origem": [],
+  "alertas": [
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "0 alternativas encontradas (esperado 5)",
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q007_p1.jpg"
+  ]
+ },
+ {
+  "id": "P2485-Q008",
+  "prova_id": "P2485",
+  "idioma": null,
+  "vestibular": "ENEM",
+  "ano": "2025",
+  "edicao": "PPL/reaplicação",
+  "fase_etapa": "",
+  "dia": "2",
+  "caderno": "",
+  "numero": 8,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Você poderá deixar o local de prova somente após decorridas duas horas do início da aplicação e poderá **CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS**  \n**Questões de 91 a 135**\n\n{{img:1}}\n\n{{fonte:1}}\n\nA tirinha sugere o estudo da evolução biológica com base em evidências evolutivas conhecidas como",
+  "fontes": [
+   "Disponível em: http://paleobio2009.blogspot.com.br. Acesso em: 13 mar. 2013 (adaptado)."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "órgãos homólogos."
+   },
+   {
+    "letra": "B",
+    "texto": "estruturas vestigiais."
+   },
+   {
+    "letra": "C",
+    "texto": "testemunhos fósseis."
+   },
+   {
+    "letra": "D",
+    "texto": "vestígios moleculares."
+   },
+   {
+    "letra": "E",
+    "texto": "semelhanças anatômicas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q008_img1.png",
+    "pagina": 2,
+    "bbox": [
+     64.6,
+     150.2,
+     578.4,
+     363.6
+    ]
+   }
+  ],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   1,
+   2
+  ],
+  "caixas": {
+   "1": [
+    [
+     71.39330000000001,
+     696.4064999999999,
+     565.1370999999996,
+     707.8135
+    ]
+   ],
+   "2": [
+    [
+     70.2756,
+     115.30200000000002,
+     283.8109,
+     126.30200000000002
+    ],
+    [
+     70.2756,
+     128.50200000000007,
+     168.0557,
+     139.50200000000007
+    ],
+    [
+     64.61059999999999,
+     150.20500000000004,
+     578.4103665,
+     363.63621509999996
+    ],
+    [
+     284.2469,
+     370.5668999999999,
+     579.0828999999998,
+     378.5668999999999
+    ],
+    [
+     64.6063,
+     384.02549999999997,
+     472.4872999999999,
+     394.02549999999997
+    ],
+    [
+     64.6063,
+     398.97549999999995,
+     154.44230000000002,
+     410.27549999999997
+    ],
+    [
+     64.6063,
+     412.39549999999997,
+     160.42030000000003,
+     423.6955
+    ],
+    [
+     64.6063,
+     425.8155,
+     162.42730000000003,
+     437.1155
+    ],
+    [
+     64.6063,
+     439.2355,
+     166.51530000000002,
+     450.5355
+    ],
+    [
+     64.6063,
+     452.6555,
+     180.8323,
+     463.95550000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Provas ENEM normal e ENEM PPL/02 - ENEM PPLs (2009 - 2025)/ENEM PPL - 2025/enem 2025 - DIA 02 - 2ª APLIC.pdf",
+  "gabarito_origem": [],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q008_p1.jpg",
+   "revisao/Q008_p2.jpg"
+  ]
+ }
+]
