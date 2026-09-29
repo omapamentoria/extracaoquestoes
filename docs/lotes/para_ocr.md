@@ -17,3 +17,5 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2460 — ENEM 2021 PPL/reaplicação 1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — enem 2021 PPL - 1 dia PROVA.pdf
 * P2579 — ENEM 2020 digital 2 — só 12 questões (esperado ~90) — enem2020_digital_2dia_prova_amarelo.pdf
 * P2576 — ENEM 2020 digital 1 — só 12 questões (esperado ~90) — enem2020_digital_1dia_prova_amarelo.pdf
+* P2513 — ENEM 2012 regular 2 — 93 de 93 questões PENDENTES (símbolos sem tradução) — ENEM - 2012 - 2° dia - Prova cinza.pdf
+* P2509 — ENEM 2012 regular 1 — 90 de 90 questões PENDENTES (símbolos sem tradução) — ENEM - 2012 - 1° dia - Prova cinza.pdf
