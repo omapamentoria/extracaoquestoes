@@ -1,0 +1,5814 @@
+[
+ {
+  "id": "P4096-Q001",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 1,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a imagem a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nA imagem apresenta informações sobre biogênese e abiogênese. No início da década de 1860, a Academia Francesa de Ciências ofereceu um prêmio em dinheiro para quem tratasse da origem dos microrganismos de forma definitiva. Assinale a alternativa que contempla o ganhador do prêmio por sua descoberta.",
+  "fontes": [
+   "Disponível em: < https://studymaps.com.br/origem-da-vida/ >Acesso em: set. 2020. (Adaptada)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Miller mostrou que os aminoácidos dos microrganismos formavam as proteínas e eram provenientes de meteoritos, confirmando a biogênese."
+   },
+   {
+    "letra": "B",
+    "texto": "Needham quebrou os gargalos de frascos livres de microrganismos, expondo seu conteúdo ao ar. Em pouco tempo, eles ficaram com microrganismos, mostrando que a força vital do caldo não foi destruída, confirmando a biogênese."
+   },
+   {
+    "letra": "C",
+    "texto": "Oparin defendeu os processos de fusão que ocorrem nas estrelas e geram elementos químicos que formam os compostos orgânicos dos microrganismos por meio da teoria do Big Bang, confirmando a abiogênese."
+   },
+   {
+    "letra": "D",
+    "texto": "Pasteur demonstrou que o surgimento de microrganismos em caldos nutritivos ocorria pela contaminação dos germes oriundos do ambiente externo, e não por geração espontânea, confirmando a biogênese."
+   },
+   {
+    "letra": "E",
+    "texto": "Redi afirmou que as larvas nasciam de ovos colocados pelas moscas na carne, e não geradas pelos microrganismos, confirmando a abiogênese."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q001_img1.png",
+    "pagina": 3,
+    "bbox": [
+     42.7,
+     107.0,
+     547.1,
+     435.1
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.625,
+     83.90700000000004,
+     205.08299900000006,
+     94.90700000000004
+    ],
+    [
+     42.7,
+     107.04001000000005,
+     547.05001,
+     435.09001
+    ],
+    [
+     118.25,
+     447.943175,
+     497.91116805,
+     456.96817500000003
+    ],
+    [
+     42.625,
+     474.407,
+     547.0609979999995,
+     485.407
+    ],
+    [
+     42.625,
+     487.007,
+     546.7989999999999,
+     498.007
+    ],
+    [
+     42.625,
+     499.607,
+     546.8979999999999,
+     510.607
+    ],
+    [
+     42.625,
+     512.207,
+     121.03,
+     523.207
+    ],
+    [
+     42.625,
+     537.607,
+     546.660995,
+     548.607
+    ],
+    [
+     64.025,
+     550.2070000000001,
+     329.45500000000015,
+     561.207
+    ],
+    [
+     42.625,
+     562.827,
+     546.8479949999999,
+     573.827
+    ],
+    [
+     64.025,
+     575.627,
+     547.1969969999999,
+     586.627
+    ],
+    [
+     64.025,
+     588.2270000000001,
+     242.73100000000008,
+     599.227
+    ],
+    [
+     42.625,
+     600.827,
+     546.7600010000001,
+     611.827
+    ],
+    [
+     64.025,
+     613.427,
+     547.337005,
+     624.427
+    ],
+    [
+     64.025,
+     626.2270000000001,
+     196.773,
+     637.227
+    ],
+    [
+     42.625,
+     638.827,
+     547.2820000000002,
+     649.827
+    ],
+    [
+     64.025,
+     651.427,
+     547.437996,
+     662.427
+    ],
+    [
+     64.025,
+     664.057,
+     190.908,
+     675.057
+    ],
+    [
+     42.625,
+     676.852,
+     547.367987,
+     687.852
+    ],
+    [
+     64.025,
+     689.452,
+     309.8420000000001,
+     700.452
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q002",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 2,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\nEm artigo publicado no *Faseb Journal*, pesquisadores do *Cepid Redoxoma,* liderados pela professora Alicia Kowaltowski, da USP, demonstraram que modificações na forma da mitocôndria alteram sua capacidade de absorção e retenção de cálcio. Assim, afetam o equilíbrio do cálcio celular e provocam problemas em outra organela, constituída por uma rede de túbulos e vesículas, envolvida ***na síntese*** ***de lipídios, na desintoxicação e no transporte intracelular***. Mitocôndrias e essa organela são fisicamente ligadas, e a interação entre elas é importante para a sinalização celular. “O que a gente está mostrando nesse artigo é que não apenas o cálcio é transportado por essa organela para a mitocôndria, mas o oposto também acontece”.\n\n{{fonte:1}}\n\nAssinale a alternativa que apresenta a organela que realiza as funções destacadas no texto.",
+  "fontes": [
+   "Disponível em: https://jornal.usp.br/ciencias/ciencias-biologicas/como-as-mitocondrias-regulam-o-calcio-nas-celulas/ (Adaptado). Acesso em: set. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Complexo de Golgi"
+   },
+   {
+    "letra": "B",
+    "texto": "Lisossomos"
+   },
+   {
+    "letra": "C",
+    "texto": "Peroxissomos"
+   },
+   {
+    "letra": "D",
+    "texto": "Ribossomos"
+   },
+   {
+    "letra": "E",
+    "texto": "Retículo endoplasmático não granuloso"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.625,
+     46.107000000000085,
+     169.04166558000009,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     71.10700000000008,
+     547.2819949999999,
+     82.10700000000008
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     546.8099999999997,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     547.2369980000001,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     547.398,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     547.2280000000001,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     547.1320000000001,
+     145.52999999999997
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     546.788,
+     158.3270000000001
+    ],
+    [
+     42.625,
+     159.95999999999992,
+     268.906,
+     170.95999999999992
+    ],
+    [
+     91.425,
+     171.90599999999995,
+     547.1940000000001,
+     179.90599999999995
+    ],
+    [
+     468.15,
+     181.106,
+     547.196,
+     189.106
+    ],
+    [
+     42.625,
+     200.12700000000007,
+     493.608,
+     211.12700000000007
+    ],
+    [
+     42.625,
+     225.52700000000004,
+     157.591,
+     236.52700000000004
+    ],
+    [
+     42.625,
+     238.12700000000007,
+     122.072,
+     249.12700000000007
+    ],
+    [
+     42.625,
+     250.74700000000007,
+     133.061,
+     261.74700000000007
+    ],
+    [
+     42.625,
+     263.3570000000001,
+     124.64600000000002,
+     274.357
+    ],
+    [
+     42.625,
+     276.157,
+     257.17400000000004,
+     287.157
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q003",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 3,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a charge a seguir:\n\n{{img:1}}\n\nFonte: imagens Google.\n\nSobre o ciclo celular e os eventos que o caracterizam, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A cromatina (1) irá se condensar, marcando o início da metáfase, quando os cromossomos (2) tornam-se longos e grossos."
+   },
+   {
+    "letra": "B",
+    "texto": "A cromatina (1) está representada em seu grau máximo de condensação nos cromossomos (2)."
+   },
+   {
+    "letra": "C",
+    "texto": "A figura (1) está na fase de prófase, enquanto a figura (2) está na interfase."
+   },
+   {
+    "letra": "D",
+    "texto": "Na interfase, os filamentos cromossômicos (2) permanecem condensados dentro do núcleo."
+   },
+   {
+    "letra": "E",
+    "texto": "O cromossomo (2) é do tipo telocêntrico."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q003_img1.png",
+    "pagina": 4,
+    "bbox": [
+     69.2,
+     337.0,
+     373.4,
+     556.1
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.625,
+     313.957,
+     199.56399999999996,
+     324.957
+    ],
+    [
+     69.25,
+     336.96000000000004,
+     373.45,
+     556.12
+    ],
+    [
+     288.5,
+     557.7860000000001,
+     373.70799999999997,
+     565.7860000000001
+    ],
+    [
+     42.625,
+     592.627,
+     473.608,
+     603.627
+    ],
+    [
+     42.625,
+     618.2270000000001,
+     547.633,
+     629.227
+    ],
+    [
+     64.025,
+     630.827,
+     202.97800099999998,
+     641.827
+    ],
+    [
+     42.625,
+     643.427,
+     532.6279980000002,
+     654.427
+    ],
+    [
+     42.625,
+     656.227,
+     432.2899859999999,
+     667.227
+    ],
+    [
+     42.625,
+     668.857,
+     514.4379909999999,
+     679.857
+    ],
+    [
+     42.625,
+     681.452,
+     262.70499300000006,
+     692.452
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q003_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q004",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 4,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a seguinte charge:\n\n{{img:1}}\n\nFonte: imagens Google.\n\nEssa charge representa que tipo de reprodução?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Divisão binária, pois um indivíduo se dividiu, dando origem a dois novos indivíduos."
+   },
+   {
+    "letra": "B",
+    "texto": "Regeneração, pois um indivíduo se fragmentou em pedaços; cada pedaço deu origem a vários outros indivíduos."
+   },
+   {
+    "letra": "C",
+    "texto": "Esporulação, pois um indivíduo deu origem a vários descendentes de uma só vez."
+   },
+   {
+    "letra": "D",
+    "texto": "Gemiparidade, pois de um indivíduo surgiu um broto lateral, que cresceu até atingir o tamanho do original."
+   },
+   {
+    "letra": "E",
+    "texto": "Amitose, pois um indivíduo se dividiu em dois novos indivíduos, trocando cromossomos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q004_img1.png",
+    "pagina": 5,
+    "bbox": [
+     94.8,
+     67.4,
+     494.6,
+     456.8
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.625,
+     46.107000000000085,
+     202.53799,
+     57.107000000000085
+    ],
+    [
+     94.8,
+     67.40000999999995,
+     494.6,
+     456.8
+    ],
+    [
+     396.73,
+     458.7860000000001,
+     481.906,
+     466.7860000000001
+    ],
+    [
+     42.62500000000006,
+     481.4070000000001,
+     281.81599600000015,
+     492.4070000000001
+    ],
+    [
+     46.025000000000055,
+     506.60700000000014,
+     470.50800499999997,
+     517.6070000000002
+    ],
+    [
+     46.02500000000006,
+     519.2070000000001,
+     546.7270050000001,
+     530.2070000000001
+    ],
+    [
+     64.02500000000006,
+     531.9970000000001,
+     150.39700000000005,
+     542.9970000000001
+    ],
+    [
+     46.02500000000006,
+     544.6070000000002,
+     465.52500000000015,
+     555.6070000000002
+    ],
+    [
+     46.02500000000006,
+     557.2070000000001,
+     546.738005,
+     568.2070000000001
+    ],
+    [
+     64.02500000000006,
+     569.8270000000002,
+     102.44800000000008,
+     580.8270000000001
+    ],
+    [
+     46.02500000000006,
+     582.6270000000002,
+     494.30100500000015,
+     593.6270000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q004_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q005",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 5,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia a letra da música a seguir:\n\nQuén! Quen! Quén! Quen!\n\nLá vem o **PATO**  \nPata aqui, pata acolá  \nLá vem o pato  \nPara ver o que é que há ...\n\n...Pulou do poleiro  \nNo pé do **CAVALO**  \nLevou um coice  \nCriou um galo\n\nCaiu no poço  \nQuebrou a tigela  \nTantas fez, o moço  \nQue foi pra panela\n\nFonte: <u>Musixmatch</u>  \nCompositores: Vinícius de Moraes / Sérgio Bardotti / Antônio Pecci Filho  \nLetra de O Pato © Universal Music Publishing Mgb Spain S.a, Fonit Cetra Music Publishing Srl (Adaptada)\n\nAssinale o tipo de ovo quanto à distribuição do vitelo no pato e no cavalo, respectivamente, destacados na música.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Centrolécito e oligolécito"
+   },
+   {
+    "letra": "B",
+    "texto": "Heterolécito e centrolécito"
+   },
+   {
+    "letra": "C",
+    "texto": "Oligocécito e isolécito"
+   },
+   {
+    "letra": "D",
+    "texto": "Telolécito e isolécito"
+   },
+   {
+    "letra": "E",
+    "texto": "Telolécito e telolécito"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.625,
+     46.107000000000085,
+     216.938,
+     57.107000000000085
+    ],
+    [
+     69.225,
+     84.49700000000007,
+     198.24200000000002,
+     95.49700000000007
+    ],
+    [
+     69.225,
+     104.90700000000004,
+     148.186,
+     115.90700000000004
+    ],
+    [
+     69.225,
+     117.90700000000004,
+     172.47099999999998,
+     128.90700000000004
+    ],
+    [
+     69.225,
+     130.49700000000007,
+     139.097,
+     141.49700000000007
+    ],
+    [
+     69.225,
+     143.10700000000008,
+     199.399,
+     154.10700000000008
+    ],
+    [
+     69.225,
+     162.7270000000001,
+     157.687,
+     173.7270000000001
+    ],
+    [
+     69.225,
+     175.12700000000007,
+     163.173,
+     186.12700000000007
+    ],
+    [
+     69.225,
+     187.92700000000002,
+     146.269,
+     198.92700000000002
+    ],
+    [
+     69.225,
+     200.7270000000001,
+     137.68900000000002,
+     211.7270000000001
+    ],
+    [
+     69.225,
+     220.12700000000007,
+     134.092,
+     231.12700000000007
+    ],
+    [
+     69.225,
+     232.92700000000002,
+     150.28400000000002,
+     243.92700000000002
+    ],
+    [
+     69.225,
+     245.52700000000004,
+     162.89000000000001,
+     256.52700000000004
+    ],
+    [
+     69.225,
+     258.15700000000004,
+     159.67799999999997,
+     269.157
+    ],
+    [
+     69.225,
+     278.336,
+     136.841,
+     286.336
+    ],
+    [
+     69.225,
+     287.536,
+     325.48900000000026,
+     295.536
+    ],
+    [
+     69.225,
+     296.73600000000005,
+     446.414,
+     304.73600000000005
+    ],
+    [
+     42.625,
+     332.357,
+     547.404,
+     343.357
+    ],
+    [
+     42.625,
+     344.957,
+     95.83200000000001,
+     355.957
+    ],
+    [
+     42.625,
+     370.177,
+     183.652998,
+     381.177
+    ],
+    [
+     42.625,
+     382.97700000000003,
+     190.846998,
+     393.97700000000003
+    ],
+    [
+     42.625,
+     395.577,
+     170.051999,
+     406.577
+    ],
+    [
+     42.625,
+     408.177,
+     162.84899500000003,
+     419.177
+    ],
+    [
+     42.625,
+     420.777,
+     166.467995,
+     431.777
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q005_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q006",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 6,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\n**O papel da carne na evolução humana**\n\nA **carne** teve papel fundamental na evolução. O consumo dos produtos de origem animal pode ter contribuído para o crescimento acelerado da massa cerebral humana, devido à grande quantidade de **nutrientes** e **proteínas** encontrada ali (diz Rui Murrieta, professor de antropologia da USP). A dieta dos antigos não era exclusivamente carnívora: a alimentação era mais parecida com a dos grandes macacos, que comiam frutas, **tubérculos** e **sementes**... É provável que nossos ancestrais tenham começado a consumir o produto há pelo menos dois milhões de anos. As ferramentas usadas na época deixam claro que era possível esmagar ossos e aproveitar o tutano, substância rica em gordura encontrada dentro dos ossos e rica em nutrientes.\n\n{{fonte:1}}\n\nSobre os compostos químicos da alimentação humana e sua importância, assinale a alternativa **CORRETA.**",
+  "fontes": [
+   "Disponível em: https://veja.abril.com.br/saude/o-papel-da-carne-na-evolucao-humana/ Natalia Cuminale e Marina Dias. Acesso em: set. 2020. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Proteínas são macromoléculas compostas por aminoácidos, moléculas orgânicas formadas essencialmente por átomos de carbono e oxigênio."
+   },
+   {
+    "letra": "B",
+    "texto": "Sementes, a exemplo das de milho, são ricas em ácidos graxos saturados e participam de importantes processos, como a mielinização dos neurônios."
+   },
+   {
+    "letra": "C",
+    "texto": "O fósforo, macronutriente mineral, é encontrado em carnes, aves e peixes, fazendo parte da molécula dos ácidos nucleicos, DNA e RNA, além de ser responsável por ativar enzimas e manter o balanço ácido-básico do organismo."
+   },
+   {
+    "letra": "D",
+    "texto": "Tubérculos, a exemplo da mandioca, são ricos em amido, principal fonte de alimento da espécie humana, sendo um polissacarídeo estrutural, que, quando quebrado por ação da amilase em glicose, constitui fonte de energia."
+   },
+   {
+    "letra": "E",
+    "texto": "Nas carnes, encontramos várias vitaminas do complexo B, a exemplo da B6 ou piridoxina, que, durante o desenvolvimento embrionário, atua na formação do tubo neural, dando origem ao sistema nervoso."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   6,
+   7
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.625,
+     458.807,
+     169.07200199999997,
+     469.807
+    ],
+    [
+     69.625,
+     489.207,
+     270.16600000000005,
+     500.207
+    ],
+    [
+     69.625,
+     514.4069999999999,
+     527.3839999999999,
+     525.4069999999999
+    ],
+    [
+     69.625,
+     527.2070000000001,
+     527.247,
+     538.207
+    ],
+    [
+     69.625,
+     539.807,
+     527.5420000000001,
+     550.807
+    ],
+    [
+     69.625,
+     552.587175,
+     527.2728823000001,
+     563.612175
+    ],
+    [
+     69.625,
+     565.027,
+     527.896,
+     576.027
+    ],
+    [
+     69.625,
+     577.627,
+     527.3000000000001,
+     588.627
+    ],
+    [
+     69.625,
+     590.627,
+     527.1589999999999,
+     601.627
+    ],
+    [
+     69.625,
+     603.2270000000001,
+     527.7779999999999,
+     614.227
+    ],
+    [
+     69.625,
+     615.827,
+     221.98700099999996,
+     626.827
+    ],
+    [
+     77.425,
+     636.0060000000001,
+     527.648,
+     644.0060000000001
+    ],
+    [
+     433.15,
+     645.206,
+     527.766,
+     653.206
+    ]
+   ],
+   "7": [
+    [
+     42.625,
+     46.107000000000085,
+     546.8230019999999,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.49700000000007,
+     99.88300300000002,
+     69.49700000000007
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     547.4699989999998,
+     94.90700000000004
+    ],
+    [
+     64.025,
+     96.70700000000011,
+     312.66900000000015,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     547.3970249999999,
+     120.30700000000002
+    ],
+    [
+     64.025,
+     121.90700000000004,
+     355.73899400000016,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     547.4499999999999,
+     145.49700000000007
+    ],
+    [
+     64.025,
+     147.3270000000001,
+     547.383,
+     158.3270000000001
+    ],
+    [
+     64.025,
+     159.92700000000002,
+     249.39399999999998,
+     170.92700000000002
+    ],
+    [
+     42.625,
+     172.52700000000004,
+     547.356001,
+     183.52700000000004
+    ],
+    [
+     64.025,
+     185.12700000000007,
+     547.012989,
+     196.12700000000007
+    ],
+    [
+     64.025,
+     197.92700000000002,
+     230.44699200000005,
+     208.92700000000002
+    ],
+    [
+     42.625,
+     210.52700000000004,
+     547.6380019999998,
+     221.52700000000004
+    ],
+    [
+     64.025,
+     223.12700000000007,
+     547.4240039999997,
+     234.12700000000007
+    ],
+    [
+     64.025,
+     235.7270000000001,
+     147.19599999999997,
+     246.7270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q006_p6.jpg",
+   "revisao/Q006_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q007",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 7,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a tirinha a seguir:\n\n{{img:1}}\n\nApesar da liberdade poética do autor, as fêmeas dos mosquitos são as “hemochatas” hematófagas, ou seja, alimentam-se de sangue. Sobre o tecido sanguíneo e a química da vida, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A glicose é uma pentose, também conhecida por “açúcar do sangue”, principal fonte de energia para os seres vivos. Esses carboidratos possuem a função energética, enquanto as proteínas têm a função estrutural."
+   },
+   {
+    "letra": "B",
+    "texto": "Os triglicerídeos ou triglicérides constituem a forma mais eficiente de reserva de energia nos seres vivos. Suas moléculas são constituídas por uma molécula de glicerol e três de ácido graxo."
+   },
+   {
+    "letra": "C",
+    "texto": "O sangue transporta gás oxigênio e substâncias, tais como glicose, sódio, albumina e ureia, para todas as células do corpo, delas recolhendo gás carbônico e excreções, a exemplo dos hormônios e da amônia."
+   },
+   {
+    "letra": "D",
+    "texto": "As hemácias são também chamadas de eritrócitos. São células esféricas originadas do ectoderma, repletas de moléculas de hemoglobina, responsável pela cor vermelha do sangue."
+   },
+   {
+    "letra": "E",
+    "texto": "O sangue é composto pelo plasma sanguíneo, constituído de água, sais minerais e diversas proteínas. Ele também apresenta elementos figurados, por exemplo, hemácias, plaquetas, adipócitos e plasmócitos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q007_img1.png",
+    "pagina": 7,
+    "bbox": [
+     42.5,
+     284.4,
+     544.3,
+     452.2
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.625,
+     273.757,
+     192.908012,
+     284.757
+    ],
+    [
+     42.55,
+     284.40000000000003,
+     544.32,
+     452.16
+    ],
+    [
+     42.625,
+     479.04,
+     546.733,
+     490.04
+    ],
+    [
+     42.625,
+     491.607,
+     546.8909979999997,
+     502.607
+    ],
+    [
+     42.625,
+     503.997,
+     99.88300000000001,
+     514.9970000000001
+    ],
+    [
+     42.625,
+     529.607,
+     547.285,
+     540.64
+    ],
+    [
+     64.025,
+     542.2070000000001,
+     547.333,
+     553.207
+    ],
+    [
+     64.025,
+     554.807,
+     158.01999999999998,
+     565.807
+    ],
+    [
+     42.625,
+     567.627,
+     547.2209939999999,
+     578.627
+    ],
+    [
+     64.025,
+     580.2270000000001,
+     507.6989999999997,
+     591.227
+    ],
+    [
+     42.625,
+     592.827,
+     547.4809959999999,
+     603.827
+    ],
+    [
+     64.025,
+     605.427,
+     547.4119919999999,
+     616.427
+    ],
+    [
+     64.025,
+     618.2270000000001,
+     127.637996,
+     629.227
+    ],
+    [
+     42.625,
+     630.827,
+     546.8039949999999,
+     641.827
+    ],
+    [
+     64.025,
+     643.427,
+     523.9599919999999,
+     654.427
+    ],
+    [
+     42.625,
+     656.027,
+     546.9829979999997,
+     667.027
+    ],
+    [
+     64.025,
+     668.857,
+     547.487012,
+     679.857
+    ],
+    [
+     64.025,
+     681.452,
+     186.95,
+     692.452
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q007_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q008",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 8,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe as figuras a seguir, em especial as estruturas apontadas por setas, cílios e flagelos, respectivamente.\n\n{{img:1}}\n\n{{fonte:1}}\n\nAnalise as afirmativas sobre essas estruturas e assinale a **CORRETA.**",
+  "fontes": [
+   "Disponível em: https://www.lasexta.com/noticias/ciencia-tecnologia/investigadores. Acesso em: set. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O batimento sincrônico dos cílios permite o deslocamento de muco através do epitélio ciliado da traqueia, enquanto os flagelos permitem o deslocamento dos espermatozoides no líquido espermático."
+   },
+   {
+    "letra": "B",
+    "texto": "Os cílios são curtos e numerosos, enquanto os flagelos são longos e pouco numerosos. Ambos estão relacionados à locomoção de células eucarióticas em seres multicelulares."
+   },
+   {
+    "letra": "C",
+    "texto": "Cílios e flagelos originam-se de centríolos que migram para a periferia da célula e crescem pelo alongamento dos seus microtúbulos. Os microtúbulos centriolares são constituídos por nove pares de dois microtúbulos periféricos e um par central, arranjo 9+2."
+   },
+   {
+    "letra": "D",
+    "texto": "A parte basal que origina os cílios é o cinetossomo, enquanto os flagelos originam-se basalmente do centrossomo."
+   },
+   {
+    "letra": "E",
+    "texto": "Cílios e flagelos são constituídos por nove grupos de três microtúbulos periféricos de tubulina e um par central."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q008_img1.png",
+    "pagina": 8,
+    "bbox": [
+     90.7,
+     82.5,
+     519.1,
+     230.4
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.625,
+     46.107000000000085,
+     520.1459979999998,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     126.58800000000001,
+     69.70700000000011
+    ],
+    [
+     90.72,
+     82.49000000000012,
+     519.12,
+     230.4
+    ],
+    [
+     94.225,
+     233.3130000000001,
+     515.4609999999999,
+     242.3130000000001
+    ],
+    [
+     42.625,
+     256.557,
+     386.188,
+     267.557
+    ],
+    [
+     42.625,
+     282.157,
+     547.413,
+     293.157
+    ],
+    [
+     64.025,
+     294.757,
+     547.2679999999999,
+     305.757
+    ],
+    [
+     64.025,
+     307.357,
+     127.108,
+     318.357
+    ],
+    [
+     42.625,
+     319.957,
+     546.7599999999999,
+     330.957
+    ],
+    [
+     64.025,
+     332.757,
+     457.48400000000015,
+     343.757
+    ],
+    [
+     42.625,
+     345.357,
+     547.251,
+     356.357
+    ],
+    [
+     64.025,
+     357.97700000000003,
+     546.793,
+     368.97700000000003
+    ],
+    [
+     64.025,
+     370.577,
+     366.21699999999987,
+     381.577
+    ],
+    [
+     42.625,
+     383.377,
+     547.415,
+     394.377
+    ],
+    [
+     64.025,
+     395.97700000000003,
+     145.40300000000002,
+     406.97700000000003
+    ],
+    [
+     42.625,
+     408.577,
+     546.7709999999998,
+     419.577
+    ],
+    [
+     64.025,
+     421.177,
+     118.83800000000001,
+     432.177
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q008_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q009",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 9,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe as imagens a seguir e suas descrições:\n\n{{img:1}}\n\nBeto Pêra: Sr. Incrível, o \"herói dos heróis,\"\n\n{{fonte:1}}\n\nNa ficção, o “casal Incrível” tem superpoderes que lhe conferem força e elasticidade. Em um ser humano normal, essas características estão associadas à/ao",
+  "fontes": [
+   "Disponível em: https://pt.wikipedia.org/wiki/Lista_dos_personagens_de_The_Incredibles Acesso em: 07 set. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "elasticidade da pele proporcionada pelas fibras de proteínas encontradas nos tecidos conjuntivos dérmicos, que conferem elasticidade e resistência à pele. A proteína elastina, por exemplo, presente nas fibras elásticas, permite que a pele volte à forma original após ser esticada."
+   },
+   {
+    "letra": "B",
+    "texto": "extensibilidade das articulações conferidas pela riqueza em fibras elásticas e reticulares, que formam o tecido conjuntivo denso, não modelado ou tendinoso, bastante elástico e capaz de suportar alto grau de compactação."
+   },
+   {
+    "letra": "C",
+    "texto": "firmeza dos músculos, fruto dos exercícios praticados, pois atividades físicas estimulam mitose nos miócitos, que se dividem e provocam aumento do número de células musculares e do tecido."
+   },
+   {
+    "letra": "D",
+    "texto": "velocidade de seus músculos estriados que estocam fosfocreatina, fonte direta de energia para a contração muscular rápida, produzida nas mitocôndrias; à medida que o ATP é usado, a célula transfere fosfatos energéticos das moléculas de fosfato de creatina para moléculas de ADP, gerando ATP."
+   },
+   {
+    "letra": "E",
+    "texto": "tônus muscular, pois depende da inervação feita aos músculos estriados e liso por neurônios aferentes, que mantêm os músculos preparados para a contração rápida e para a manutenção da atividade vital das células musculares."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q009_img1.png",
+    "pagina": 8,
+    "bbox": [
+     55.0,
+     466.4,
+     502.6,
+     685.4
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   8,
+   9
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.625,
+     446.577,
+     304.3830000000001,
+     457.577
+    ],
+    [
+     55.025,
+     466.407,
+     502.56,
+     685.44
+    ],
+    [
+     55.025,
+     485.207,
+     271.05999999999995,
+     496.207
+    ],
+    [
+     91.425,
+     686.231,
+     498.37399999999997,
+     694.231
+    ]
+   ],
+   "9": [
+    [
+     42.625,
+     46.107000000000085,
+     547.143,
+     57.139999999999986
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     340.616,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     546.7890000000001,
+     94.90700000000004
+    ],
+    [
+     64.025,
+     96.70700000000011,
+     546.7819999999997,
+     107.70700000000011
+    ],
+    [
+     64.025,
+     109.30700000000002,
+     498.354,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     546.9380000000001,
+     132.90700000000004
+    ],
+    [
+     64.025,
+     134.49700000000007,
+     547.081,
+     145.49700000000007
+    ],
+    [
+     64.025,
+     147.3270000000001,
+     237.13200000000003,
+     158.3270000000001
+    ],
+    [
+     42.625,
+     159.92700000000002,
+     547.163,
+     170.92700000000002
+    ],
+    [
+     64.025,
+     172.52700000000004,
+     538.8949999999998,
+     183.52700000000004
+    ],
+    [
+     42.625,
+     185.12700000000007,
+     547.4599999999999,
+     196.12700000000007
+    ],
+    [
+     64.025,
+     197.92700000000002,
+     547.0000000000001,
+     208.92700000000002
+    ],
+    [
+     64.025,
+     210.52700000000004,
+     546.9029999999998,
+     221.52700000000004
+    ],
+    [
+     64.025,
+     223.12700000000007,
+     132.027,
+     234.12700000000007
+    ],
+    [
+     42.625,
+     235.7270000000001,
+     547.2040000000001,
+     246.7270000000001
+    ],
+    [
+     64.025,
+     248.52700000000004,
+     546.8649999999999,
+     259.52700000000004
+    ],
+    [
+     64.025,
+     261.15700000000004,
+     251.09100000000004,
+     272.157
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [
+   "imagem 1 tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q009_p8.jpg",
+   "revisao/Q009_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q010",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 10,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Durante a pandemia, muitas pessoas se valeram de vídeos para se apropriarem de conhecimentos. Observe os recortes de um vídeo a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nLeia as frases a seguir e relacione com as imagens do vídeo:\n\n1- A correspondência entre os códons do RNA mensageiro, os anticódons do RNA transportador e seus respectivos aminoácidos constitui o código genético. A ligação entre os aminoácidos é chamada de ligação peptídica.\n\n2- Todas as enzimas da replicação são importantes para o processo, porém a DNA-polimerase é a responsável por sintetizar o DNA.\n\n3- Apenas uma pequena parcela do DNA dos seres eucarióticos tem sua informação transcrita para moléculas de RNA.\n\n4- No núcleo ocorre a replicação e a transcrição. Para haver a tradução, o RNA mensageiro, sintetizado a partir dos genes, precisa levar a mensagem até os ribossomos, organelas responsáveis pela síntese de proteínas.\n\n5- A síntese de RNA a partir de DNA é catalisada pela enzima RNA polimerase. A sequência de bases nitrogenadas do RNA reflete a sequência de bases da cadeia de DNA, que serviu de molde.\n\n6- O RNA transportador é responsável pelo transporte das moléculas de aminoácidos até os ribossomos, onde elas se unem para formar as proteínas.\n\nAssinale a alternativa que apresenta a correlação **CORRETA**.",
+  "fontes": [
+   "Disponível em: <https://www.youtube.com/watch?v=VI8KlsKzV0s>Acesso em: set. 2020. (Adaptada)."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1B, 2D, 3E, 4C, 5F, 6A"
+   },
+   {
+    "letra": "B",
+    "texto": "1E, 2A, 3C, 4D, 5B, 6F"
+   },
+   {
+    "letra": "C",
+    "texto": "1E, 2D, 3B, 4A, 5C, 6F"
+   },
+   {
+    "letra": "D",
+    "texto": "1F, 2C, 3A, 4B, 5D, 6E"
+   },
+   {
+    "letra": "E",
+    "texto": "1F, 2A, 3B, 4D, 5C, 6E"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q010_img1.png",
+    "pagina": 9,
+    "bbox": [
+     87.9,
+     334.8,
+     501.5,
+     661.7
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   9,
+   10
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.625,
+     299.157,
+     546.8140000000001,
+     310.157
+    ],
+    [
+     42.625,
+     311.757,
+     330.46000000000004,
+     322.757
+    ],
+    [
+     87.875,
+     334.8,
+     501.465,
+     661.6800000000001
+    ],
+    [
+     115.43,
+     669.0360000000001,
+     474.8520000000001,
+     677.0360000000001
+    ]
+   ],
+   "10": [
+    [
+     42.625,
+     46.107000000000085,
+     341.9580010000001,
+     57.107000000000085
+    ],
+    [
+     60.625,
+     66.70700000000011,
+     546.7410039999999,
+     77.70700000000011
+    ],
+    [
+     78.625,
+     79.30700000000002,
+     547.2400039999998,
+     90.30700000000002
+    ],
+    [
+     78.625,
+     92.10700000000008,
+     227.74099999999999,
+     103.10700000000008
+    ],
+    [
+     60.625,
+     104.70700000000011,
+     547.3980120000002,
+     115.70700000000011
+    ],
+    [
+     78.625,
+     117.30700000000002,
+     251.52300000000002,
+     128.30700000000002
+    ],
+    [
+     60.625,
+     129.90700000000004,
+     547.1820050000001,
+     140.90700000000004
+    ],
+    [
+     78.625,
+     142.7070000000001,
+     197.964,
+     153.7070000000001
+    ],
+    [
+     60.625,
+     155.3270000000001,
+     546.565004,
+     166.3270000000001
+    ],
+    [
+     78.625,
+     167.92700000000002,
+     546.7850000000001,
+     178.92700000000002
+    ],
+    [
+     78.625,
+     180.52700000000004,
+     273.10499999999996,
+     191.52700000000004
+    ],
+    [
+     60.625,
+     193.3270000000001,
+     546.688,
+     204.3270000000001
+    ],
+    [
+     78.625,
+     205.92700000000002,
+     546.7299999999998,
+     216.92700000000002
+    ],
+    [
+     78.625,
+     218.52700000000004,
+     111.647,
+     229.52700000000004
+    ],
+    [
+     60.625,
+     231.12700000000007,
+     547.3840089999999,
+     242.12700000000007
+    ],
+    [
+     78.625,
+     243.92700000000002,
+     360.434,
+     254.92700000000002
+    ],
+    [
+     42.625,
+     268.957,
+     344.558,
+     279.957
+    ],
+    [
+     42.625,
+     290.957,
+     175.894995,
+     301.957
+    ],
+    [
+     42.625,
+     303.757,
+     175.883995,
+     314.757
+    ],
+    [
+     42.625,
+     316.357,
+     175.971,
+     327.357
+    ],
+    [
+     42.625,
+     328.957,
+     175.894995,
+     339.957
+    ],
+    [
+     42.625,
+     341.557,
+     175.894995,
+     352.557
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q010_p9.jpg",
+   "revisao/Q010_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q011",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 11,
+  "area": "",
+  "texto_base_id": "P4096-T1",
+  "textos_base_ids": [
+   "P4096-T1"
+  ],
+  "enunciado": "Uma pesquisa publicada na *Nature,* em 2020, identificou indícios de vida no planeta Vênus. Os pesquisadores encontraram gás fosfina (formado por fósforo e hidrogênio), que, mesmo não garantindo a existência de vida, permite a hipótese de produção por microorganismos, pois o hidrogênio não é um gás comum na atmosfera do planeta. “A molécula de fosfina é muito difícil de ser produzida. Na Terra, sua produção só é possível em indústrias, laboratórios ou por bactérias anaeróbicas.”\n\nSobre a fosfina, é **CORRETO** afirmar que\n\nDados: Números Atômicos – H = 1; P = 15",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "pode ser representada pela fórmula estrutural PH<sub>4</sub>."
+   },
+   {
+    "letra": "B",
+    "texto": "se trata de um composto iônico, pois é grande a diferença de eletronegatividade entre o hidrogênio e o fósforo."
+   },
+   {
+    "letra": "C",
+    "texto": "se trata de um composto covalente, em que a ligação entre hidrogênio e fósforo é do tipo pi."
+   },
+   {
+    "letra": "D",
+    "texto": "apresenta geometria molecular piramidal."
+   },
+   {
+    "letra": "E",
+    "texto": "se trata de um composto orgânico, uma vez que é produzido por microorganismos anaeróbicos no nosso planeta."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.625,
+     83.70700000000011,
+     547.0619960000001,
+     94.70700000000011
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     547.3989949999999,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     546.7550000000001,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     547.223,
+     132.93999999999994
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     546.9849990000001,
+     145.49700000000007
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     109.48299999999999,
+     158.36
+    ],
+    [
+     42.625,
+     166.52700000000004,
+     245.78600000000003,
+     177.52700000000004
+    ],
+    [
+     304.7,
+     190.12700000000007,
+     512.652,
+     201.15999999999997
+    ],
+    [
+     42.625,
+     230.12700000000007,
+     312.358,
+     241.12700000000007
+    ],
+    [
+     42.625,
+     242.7270000000001,
+     546.8309999999997,
+     253.7270000000001
+    ],
+    [
+     64.025,
+     255.35700000000008,
+     119.24500000000002,
+     266.3570000000001
+    ],
+    [
+     42.625,
+     267.957,
+     513.2040059999997,
+     278.957
+    ],
+    [
+     42.625,
+     280.757,
+     266.12399100000016,
+     291.757
+    ],
+    [
+     42.625,
+     293.357,
+     546.8479950000001,
+     304.357
+    ],
+    [
+     64.025,
+     305.957,
+     135.624,
+     316.957
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q011_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q012",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 12,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em 1803, o inglês John Dalton publicou um trabalho intitulado “*Absorption of gases by water and* *other liquids*” (A*bsorção de gases por água e outros líquidos*), no qual traçou alguns princípios que culminariam na proposição, em 1808, da ideia científica de átomo. Embora existam modelos mais desenvolvidos para alguns campos de estudo, o modelo atômico proposto por Dalton ainda é muito usual, como no estudo das colisões entre espécies em uma reação química.\n\nAssinale a alternativa que representa o modelo atômico de Dalton.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Os átomos são esferas maciças e indivisíveis, com uma densidade específica para cada elemento químico, com átomos de um mesmo elemento, podendo diferir em relação a sua massa (isotopia)."
+   },
+   {
+    "letra": "B",
+    "texto": "Os átomos são esferas maciças e formados por prótons e elétrons, possuindo uma massa específica, associada ao número de prótons."
+   },
+   {
+    "letra": "C",
+    "texto": "Os átomos são esferas maciças e indivisíveis, possuindo uma massa específica para cada elemento químico."
+   },
+   {
+    "letra": "D",
+    "texto": "Os átomos são esferas maciças, formados por prótons e elétrons, com uma densidade específica para cada elemento químico e átomos de um mesmo elemento, podendo diferir em relação a sua massa."
+   },
+   {
+    "letra": "E",
+    "texto": "Os átomos são formados por duas regiões: um pequeno núcleo, onde estão os prótons e os nêutrons; e uma eletrosfera, que comporta os elétrons em diferentes níveis de energia."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.625,
+     343.757,
+     547.25,
+     354.79
+    ],
+    [
+     42.625,
+     356.377,
+     547.201002,
+     367.41
+    ],
+    [
+     42.625,
+     369.177,
+     546.6810029999999,
+     380.177
+    ],
+    [
+     42.625,
+     381.97700000000003,
+     546.8399969999998,
+     392.97700000000003
+    ],
+    [
+     42.625,
+     394.577,
+     415.466997,
+     405.577
+    ],
+    [
+     42.625,
+     419.777,
+     367.221998,
+     430.777
+    ],
+    [
+     42.625,
+     440.577,
+     546.6829949999998,
+     451.577
+    ],
+    [
+     64.025,
+     453.177,
+     543.164991,
+     464.177
+    ],
+    [
+     42.625,
+     465.807,
+     546.8259949999999,
+     476.807
+    ],
+    [
+     64.025,
+     478.607,
+     282.8810000000001,
+     489.607
+    ],
+    [
+     42.625,
+     491.207,
+     547.4239940000001,
+     502.207
+    ],
+    [
+     64.025,
+     503.807,
+     154.108004,
+     514.807
+    ],
+    [
+     42.625,
+     516.407,
+     546.6829949999999,
+     527.407
+    ],
+    [
+     64.025,
+     529.2070000000001,
+     547.3150049999999,
+     540.207
+    ],
+    [
+     64.025,
+     541.807,
+     99.64300000000001,
+     552.807
+    ],
+    [
+     42.625,
+     554.407,
+     547.279987,
+     565.407
+    ],
+    [
+     64.025,
+     567.027,
+     487.98798999999997,
+     578.027
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q012_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q013",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 13,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A análise química de um analgésico usado numa clínica veterinária mostrou que este é uma associação equimolar de apenas dois dos fármacos indicados na tabela a seguir. A composição elementar da amostra indicou que há, em massas, 74,3% de carbono, 15,5% de oxigênio, 7,5% de hidrogênio e 2,7% de nitrogênio.\n\nFármaco\n\nFórmula Paracetamol\n\nC<sub>8</sub>H<sub>9</sub>NO<sub>2</sub>  \nÁcido Acetil Salicílico  \nC<sub>9</sub>H<sub>8</sub>O<sub>4</sub> Ibuprofeno\n\nC<sub>13</sub>H<sub>18</sub>O<sub>2</sub>  \nCetoprofeno\n\nC<sub>16</sub>H<sub>14</sub>O<sub>3</sub>  \nTramadol\n\nC<sub>16</sub>H<sub>25</sub>NO<sub>2</sub>\n\nAssinale a alternativa que contém os fármacos presentes na composição do analgésico empregado.\n\nDados: Massa atômica (em u) – H = 1; C = 12; N = 14; O =16.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Ácido Acetil Salicílico e Ibuprofeno"
+   },
+   {
+    "letra": "B",
+    "texto": "Tramadol e Ácido Acetil Salicílico"
+   },
+   {
+    "letra": "C",
+    "texto": "Paracetamol e Cetaprofeno"
+   },
+   {
+    "letra": "D",
+    "texto": "Paracetamol e Tramadol"
+   },
+   {
+    "letra": "E",
+    "texto": "Tramadol e Cetaprofeno"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.625,
+     58.70700000000011,
+     547.4400099999999,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     547.365005,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     546.7879999999997,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     200.97000000000006,
+     107.70700000000011
+    ],
+    [
+     230.68,
+     118.90700000000004,
+     274.152,
+     129.90700000000004
+    ],
+    [
+     338.3,
+     118.90700000000004,
+     378.582,
+     129.90700000000004
+    ],
+    [
+     194.08,
+     132.10700000000008,
+     256.076,
+     143.10700000000008
+    ],
+    [
+     336.5,
+     132.10700000000008,
+     380.622,
+     143.10700000000008
+    ],
+    [
+     194.08,
+     144.7070000000001,
+     297.72,
+     155.7070000000001
+    ],
+    [
+     340.5,
+     144.7070000000001,
+     376.622,
+     155.7070000000001
+    ],
+    [
+     194.08,
+     157.52700000000004,
+     246.75900000000004,
+     168.52700000000004
+    ],
+    [
+     336.5,
+     157.52700000000004,
+     380.412,
+     168.52700000000004
+    ],
+    [
+     194.08,
+     170.12700000000007,
+     254.74500000000003,
+     181.12700000000007
+    ],
+    [
+     336.5,
+     170.12700000000007,
+     380.412,
+     181.12700000000007
+    ],
+    [
+     194.08,
+     182.7270000000001,
+     240.687,
+     193.7270000000001
+    ],
+    [
+     332.7,
+     182.7270000000001,
+     384.412,
+     193.7270000000001
+    ],
+    [
+     42.625,
+     208.52700000000004,
+     531.6079999999998,
+     219.52700000000004
+    ],
+    [
+     150.05,
+     230.3270000000001,
+     452.6940000000001,
+     241.36
+    ],
+    [
+     42.625,
+     259.15700000000004,
+     232.78699500000008,
+     270.157
+    ],
+    [
+     42.625,
+     271.757,
+     226.395995,
+     282.757
+    ],
+    [
+     42.625,
+     284.557,
+     198.64300100000006,
+     295.557
+    ],
+    [
+     42.625,
+     297.157,
+     184.584995,
+     308.157
+    ],
+    [
+     42.625,
+     309.757,
+     183.253995,
+     320.757
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q013_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q014",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 14,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nA reação química em que o alumínio é oxidado por um óxido de outro metal, geralmente óxido de ferro, mediante alto aquecimento, é chamada termita, nome também dado à mistura entre os produtos da reação. Considerando uma termita com 10,0 g de alumínio metálico (Al) e 100,0 g de óxido de ferro III (Fe<sub>2</sub>O<sub>3</sub>), quantos gramas de ferro metálico são produzidos ao final do processo?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "40,5 g"
+   },
+   {
+    "letra": "B",
+    "texto": "33,7 g"
+   },
+   {
+    "letra": "C",
+    "texto": "20,7 g"
+   },
+   {
+    "letra": "D",
+    "texto": "14,3 g"
+   },
+   {
+    "letra": "E",
+    "texto": "7,0 g"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q014_img1.png",
+    "pagina": 12,
+    "bbox": [
+     36.7,
+     411.0,
+     553.7,
+     443.5
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.625,
+     347.757,
+     546.7849999999999,
+     358.757
+    ],
+    [
+     42.625,
+     360.377,
+     546.8120019999998,
+     371.377
+    ],
+    [
+     42.625,
+     372.97700000000003,
+     547.1609989999997,
+     383.97700000000003
+    ],
+    [
+     42.625,
+     385.777,
+     446.76700300000005,
+     396.777
+    ],
+    [
+     36.72,
+     410.95500000000004,
+     553.6800000000001,
+     443.52000000000004
+    ],
+    [
+     42.625,
+     457.807,
+     94.740988,
+     468.807
+    ],
+    [
+     152.449998,
+     457.807,
+     199.165986,
+     468.807
+    ],
+    [
+     257.04798600000004,
+     457.807,
+     303.21598700000004,
+     468.807
+    ],
+    [
+     367.1039869999998,
+     457.807,
+     413.8459789999998,
+     468.807
+    ],
+    [
+     471.95,
+     457.807,
+     512.2859950000001,
+     468.807
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q014_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q015",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 15,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Alguns pensadores, fundamentados principalmente nas diferenças entre a natureza das leis e as teorias da Química e da Física, defendem a existência de uma filosofia específica para cada uma das ciências naturais. Assim, podemos pensar a filosofia da química com base em alguns fundamentos, sendo a Lei Periódica, proposta dos trabalhos de Meyer, Mendeleev e Moseley, um dos pilares de sustentação dessa filosofia.\n\nAssinale a alternativa **CORRETA** em relação à Lei Periódica.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A definição original da Lei Periódica, proposta a partir dos trabalhos de Moseley, diz que as propriedades dos elementos químicos são função periódica de suas massas atômicas."
+   },
+   {
+    "letra": "B",
+    "texto": "A definição original da Lei Periódica, proposta por Mendeleev, diz que as propriedades dos elementos são função periódica dos seus números atômicos."
+   },
+   {
+    "letra": "C",
+    "texto": "A definição atual da Lei Periódica, proposta a partir dos trabalhos de Mendeleev, diz que as propriedades dos elementos químicos são função periódica de suas massas atômicas."
+   },
+   {
+    "letra": "D",
+    "texto": "A definição atual da Lei Periódica, proposta a partir dos trabalhos de Meyer, diz que as propriedades dos elementos químicos são função periódica de seus volumes atômicos."
+   },
+   {
+    "letra": "E",
+    "texto": "A definição atual da Lei Periódica, proposta a partir dos trabalhos de Moseley, diz que as propriedades dos elementos químicos são função periódica de seus números atômicos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.625,
+     495.607,
+     547.2750190000002,
+     506.607
+    ],
+    [
+     42.625,
+     508.407,
+     546.6779999999999,
+     519.4069999999999
+    ],
+    [
+     42.625,
+     520.9970000000001,
+     547.49299,
+     531.9970000000001
+    ],
+    [
+     42.625,
+     533.607,
+     547.1150040000001,
+     544.607
+    ],
+    [
+     42.625,
+     546.2070000000001,
+     177.56199999999995,
+     557.207
+    ],
+    [
+     42.625,
+     571.427,
+     341.019997,
+     582.427
+    ],
+    [
+     42.625,
+     596.827,
+     547.0309909999997,
+     607.827
+    ],
+    [
+     64.025,
+     609.627,
+     487.08500000000004,
+     620.627
+    ],
+    [
+     42.625,
+     622.2270000000001,
+     546.723992,
+     633.227
+    ],
+    [
+     64.025,
+     634.827,
+     362.54600300000016,
+     645.827
+    ],
+    [
+     42.625,
+     647.427,
+     546.7710009999997,
+     658.427
+    ],
+    [
+     64.025,
+     660.027,
+     487.08500000000004,
+     671.027
+    ],
+    [
+     42.625,
+     672.852,
+     547.1439940000001,
+     683.852
+    ],
+    [
+     64.025,
+     685.452,
+     489.86799999999994,
+     696.452
+    ],
+    [
+     42.625,
+     698.052,
+     546.8369950000001,
+     709.052
+    ],
+    [
+     64.025,
+     710.652,
+     492.15099499999997,
+     721.652
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q016",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 16,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "No início da pandemia da COVID-19, diversas *fake news* foram divulgadas em aplicativos e redes sociais, visando causar desinformação e confundir as pessoas. Uma das notícias falsas foi apresentada em vídeo de curta duração, no qual um indivíduo se apresenta como funcionário de uma indústria química ensinando a produzir um vapor alcalino, que seria eficaz no combate à doença. No filme, ao misturar dois copos de água da torneira com uma colher pequena de bicarbonato de sódio (NaHCO<sub>3</sub>) e aquecer em fogão caseiro, essa mistura libera um vapor alcalino quando o ponto de ebulição do sal estiver próximo, capaz de derreter o novo coronavírus, que possui características ácidas.\n\nAssinale a alternativa que justifica, do ponto de vista químico, as razões para a informação do vídeo ser equivocada.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Não existe a possibilidade de liberação de um vapor alcalino mediante a vaporização do bicarbonato de sódio, pois é um sal ácido."
+   },
+   {
+    "letra": "B",
+    "texto": "O bicarbonato de sódio, por sua natureza predominantemente iônica, possui altos pontos de fusão e ebulição, não atingíveis em um fogão caseiro."
+   },
+   {
+    "letra": "C",
+    "texto": "O novo coronavírus é considerado neutro, não possuindo propriedades de ácido nem de base, portanto o vapor alcalino não é efetivo."
+   },
+   {
+    "letra": "D",
+    "texto": "A possibilidade de formação de ligações de hidrogênio entre a água e o bicarbonato de sódio impede a vaporização do sal e consequentemente a liberação de um vapor alcalino."
+   },
+   {
+    "letra": "E",
+    "texto": "A água e o bicarbonato de sódio são substâncias inorgânicas, portanto não podem reagir com o novo coronavírus, que é essencialmente formado por substâncias orgânicas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     58.49700000000007,
+     547.2079960000001,
+     69.49700000000007
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     546.9990019999998,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     547.3400019999999,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     546.9559919999998,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     547.1819979999998,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     547.0870019999999,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     546.7440000000001,
+     145.49700000000007
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     77.63800000000002,
+     158.3270000000001
+    ],
+    [
+     42.625,
+     172.52700000000004,
+     547.4330069999997,
+     183.52700000000004
+    ],
+    [
+     42.625,
+     185.12700000000007,
+     120.39500000000001,
+     196.12700000000007
+    ],
+    [
+     42.625,
+     210.52700000000004,
+     546.792995,
+     221.52700000000004
+    ],
+    [
+     64.025,
+     223.12700000000007,
+     269.31800000000004,
+     234.12700000000007
+    ],
+    [
+     42.625,
+     235.7270000000001,
+     547.1389999999998,
+     246.7270000000001
+    ],
+    [
+     64.025,
+     248.52700000000004,
+     296.90600000000006,
+     259.52700000000004
+    ],
+    [
+     42.625,
+     261.15700000000004,
+     546.8700009999999,
+     272.157
+    ],
+    [
+     64.025,
+     273.757,
+     253.73100000000002,
+     284.757
+    ],
+    [
+     42.625,
+     286.357,
+     547.0069889999996,
+     297.357
+    ],
+    [
+     64.025,
+     299.157,
+     474.12699999999995,
+     310.157
+    ],
+    [
+     42.625,
+     311.757,
+     546.814995,
+     322.757
+    ],
+    [
+     64.025,
+     324.357,
+     438.8239960000002,
+     335.357
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q016_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q017",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 17,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Conhecer a estrutura cristalina é de fundamental importância para explicar as propriedades físicas de um material. Em alguns casos, é possível mudar a estrutura cristalina do material, submetendo-o a certas condições de pressão e temperatura. Por exemplo, abaixo de 912 °C, o ferro metálico tem forma cristalina chamada de reticulado cúbico de corpo centrado (CCC). No entanto, entre 912 ºC e 1394 °C, a forma cristalina muda para reticulado cúbico de face centrada (CFC). Em função das diferenças nas propriedades físicas e químicas dessas espécies, elas são denominadas de Ferro-α e Ferro-γ, respectivamente.\n\nAssinale a alternativa que apresenta o nome do fenômeno descrito no texto acima.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Difusão"
+   },
+   {
+    "letra": "B",
+    "texto": "Isotonia"
+   },
+   {
+    "letra": "C",
+    "texto": "Isobaria"
+   },
+   {
+    "letra": "D",
+    "texto": "Alotropia"
+   },
+   {
+    "letra": "E",
+    "texto": "Isomeria"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     362.377,
+     546.8779999999999,
+     373.377
+    ],
+    [
+     42.625,
+     374.97700000000003,
+     547.495995,
+     385.97700000000003
+    ],
+    [
+     42.625,
+     387.577,
+     547.326,
+     398.577
+    ],
+    [
+     42.625,
+     400.377,
+     547.4239979999998,
+     411.377
+    ],
+    [
+     42.625,
+     412.97700000000003,
+     547.0049970000001,
+     423.97700000000003
+    ],
+    [
+     42.625,
+     425.577,
+     547.616,
+     436.61
+    ],
+    [
+     42.625,
+     438.177,
+     126.58800000000001,
+     449.177
+    ],
+    [
+     42.625,
+     461.207,
+     446.56699999999995,
+     472.207
+    ],
+    [
+     42.625,
+     486.607,
+     101.318,
+     497.607
+    ],
+    [
+     150.050002,
+     486.607,
+     204.53899700000002,
+     497.607
+    ],
+    [
+     259.479996,
+     486.607,
+     313.98299399999996,
+     497.607
+    ],
+    [
+     369.13,
+     486.607,
+     428.403,
+     497.607
+    ],
+    [
+     474.35,
+     486.607,
+     532.434,
+     497.607
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q017_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q018",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 18,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Uma empresa faz diariamente entrega de produtos em Serra Talhada, sertão do Pajeú, a 420 km de distância do Recife. O novo proprietário, preocupado com a imagem da empresa, realiza um teste para considerar créditos de carbono. Segundo o computador de bordo, o rendimento médio do veículo foi de 12 km por litro de combustível.\n\nConsiderando a composição da gasolina, essencialmente de moléculas com a fórmula C<sub>8</sub>H<sub>18</sub> e combustão completa de todo o combustível, qual o volume aproximado de gás carbônico (CO<sub>2</sub>), em litros, liberado pelo veículo na viagem de ida e volta para entrega, em condições atmosféricas de temperatura e pressão (CATP)?\n\nDados: Volume Molar (CATP) = 25 L; d(C<sub>8</sub>H<sub>18</sub>) = 800 g/L; Massas Molares – H = 1 g/mol;  \nC = 12 g/mol; O = 16 g/mol",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "35.000 L"
+   },
+   {
+    "letra": "B",
+    "texto": "45.000 L"
+   },
+   {
+    "letra": "C",
+    "texto": "60.000 L"
+   },
+   {
+    "letra": "D",
+    "texto": "75.000 L e) 100.000 L"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     524.607,
+     547.3439819999998,
+     535.607
+    ],
+    [
+     42.625,
+     537.2070000000001,
+     546.984999,
+     548.207
+    ],
+    [
+     42.625,
+     549.807,
+     547.358998,
+     560.807
+    ],
+    [
+     42.625,
+     562.427,
+     222.145,
+     573.427
+    ],
+    [
+     42.625,
+     587.827,
+     547.286,
+     598.827
+    ],
+    [
+     42.625,
+     600.427,
+     547.317,
+     611.427
+    ],
+    [
+     42.625,
+     613.027,
+     546.934993,
+     624.027
+    ],
+    [
+     42.625,
+     625.627,
+     199.166,
+     636.627
+    ],
+    [
+     78.025,
+     655.407175,
+     511.794675,
+     666.46525
+    ],
+    [
+     229.08,
+     668.657,
+     361.32500000000005,
+     679.657
+    ],
+    [
+     42.625,
+     700.452,
+     106.91400399999999,
+     711.452
+    ],
+    [
+     164.60900400000003,
+     700.452,
+     220.67600400000006,
+     711.452
+    ],
+    [
+     266.480004,
+     700.452,
+     330.764004,
+     711.452
+    ],
+    [
+     361.058004,
+     700.452,
+     506.42999999999995,
+     711.452
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [
+   "4 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q018_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q019",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 19,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o texto a seguir:\n\nOs vasos são objetos, que estão comumente presentes na decoração dos ambientes de uma casa. Eles podem ser constituídos por vários materiais, a exemplo de vidro, gesso, barro, prata, porcelana etc. Suponha que uma casa contenha dois vasos não plásticos, que chamaremos de A e B, idênticos em aparência, mas fabricados com materiais diferentes. Os vasos são usados para reserva de água aromatizada e, em um acidente, eles caem da prateleira. O vaso A quebra, e o vaso B apenas amassa*.*\n\n{{fonte:1}}\n\nQue tipos de ligação química estão presentes nas substâncias formam os vasos A e B, respectivamente?",
+  "fontes": [
+   "*(*Fonte: FERNANDES, 2011, adaptado*)*"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Metálica e Iônica"
+   },
+   {
+    "letra": "B",
+    "texto": "Iônica e Metálica"
+   },
+   {
+    "letra": "C",
+    "texto": "Covalente e Iônica"
+   },
+   {
+    "letra": "D",
+    "texto": "Metálica e Covalente"
+   },
+   {
+    "letra": "E",
+    "texto": "Covalente e Metálica"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     58.70700000000011,
+     189.86999699999998,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     546.821,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     547.2779949999997,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     546.6009999999999,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     547.001994,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     546.8990009999998,
+     145.49700000000007
+    ],
+    [
+     42.625,
+     147.12700000000007,
+     84.483,
+     158.12700000000007
+    ],
+    [
+     407.92,
+     159.30599999999993,
+     547.444,
+     167.30599999999993
+    ],
+    [
+     42.625,
+     180.52700000000004,
+     547.0829980000001,
+     191.52700000000004
+    ],
+    [
+     42.625,
+     193.3270000000001,
+     129.448,
+     204.3270000000001
+    ],
+    [
+     42.625,
+     218.52700000000004,
+     146.481004,
+     229.52700000000004
+    ],
+    [
+     42.625,
+     231.12700000000007,
+     146.28300399999998,
+     242.12700000000007
+    ],
+    [
+     42.625,
+     243.92700000000002,
+     155.06099899999998,
+     254.92700000000002
+    ],
+    [
+     42.625,
+     256.557,
+     166.655004,
+     267.557
+    ],
+    [
+     42.625,
+     269.157,
+     166.45700399999998,
+     280.157
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q020",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 20,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Nas estações de tratamento de água, ocorre um conjunto de procedimentos químicos e físicos a fim de que ela esteja adequada ao consumo, sem riscos para a saúde, eliminando os resíduos sólidos e contaminantes biológicos presentes nas águas de rios e lagos. Na figura a seguir, destacamos uma etapa, na qual a água fica em leve e constante movimento após a adição de um agente interno, buscando aglutinar as impurezas.\n\n{{img:1}}\n\nAssinale a alternativa que apresenta o nome da etapa destacada no texto e na figura.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Floculação"
+   },
+   {
+    "letra": "B",
+    "texto": "Decantação"
+   },
+   {
+    "letra": "C",
+    "texto": "Filtração"
+   },
+   {
+    "letra": "D",
+    "texto": "Desinfecção"
+   },
+   {
+    "letra": "E",
+    "texto": "Gradagem"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q020_img1.png",
+    "pagina": 14,
+    "bbox": [
+     79.5,
+     381.4,
+     541.4,
+     627.1
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     311.757,
+     547.496,
+     322.757
+    ],
+    [
+     42.625,
+     324.357,
+     547.2559949999998,
+     335.357
+    ],
+    [
+     42.625,
+     336.957,
+     547.384002,
+     347.957
+    ],
+    [
+     42.625,
+     349.757,
+     546.9309999999998,
+     360.757
+    ],
+    [
+     42.625,
+     362.377,
+     207.13,
+     373.377
+    ],
+    [
+     79.45,
+     381.35,
+     541.44,
+     627.12
+    ],
+    [
+     42.625,
+     636.027,
+     460.0890029999998,
+     647.027
+    ],
+    [
+     42.625,
+     661.427,
+     117.275995,
+     672.427
+    ],
+    [
+     42.625,
+     674.052,
+     122.885995,
+     685.052
+    ],
+    [
+     42.625,
+     686.652,
+     106.28700099999999,
+     697.652
+    ],
+    [
+     42.625,
+     699.2520000000001,
+     124.678995,
+     710.2520000000001
+    ],
+    [
+     42.625,
+     712.052,
+     115.94499499999999,
+     723.052
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q020_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q021",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 21,
+  "area": "",
+  "texto_base_id": "P4096-T2",
+  "textos_base_ids": [
+   "P4096-T2"
+  ],
+  "enunciado": "“O espírito de conservação do patrimônio histórico não se limita a uma atitude de piedade contemplativa e de memória. (...) Para além da ligação afetiva, traduz-se num compromisso real, numa mobilização das energias ao serviço da proteção, uma ética da salvaguarda exigente”.\n\n{{fonte:1}}\n\nConsiderando o texto, nosso comportamento em relação ao patrimônio histórico deve ser de",
+  "fontes": [
+   "Fonte: LACROIX, Michel. *O princípio de Noé ou a ética da salvaguarda*. Lisboa: Instituto Piaget, 1997, p. 23. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "fruição, a admiração acrítica e desatenta."
+   },
+   {
+    "letra": "B",
+    "texto": "rejeição, pois são marcos do passado injusto e perverso."
+   },
+   {
+    "letra": "C",
+    "texto": "participação, ações efetivas e conscientes de preservação."
+   },
+   {
+    "letra": "D",
+    "texto": "negação, os valores celebrados não condizem com os nossos."
+   },
+   {
+    "letra": "E",
+    "texto": "apartação, o afastamento de um tempo histórico que não nos diz respeito."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.625,
+     83.90700000000004,
+     546.8509999999999,
+     94.93999999999994
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     547.269998,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     464.518,
+     120.33999999999992
+    ],
+    [
+     67.425,
+     121.29300000000012,
+     547.408,
+     130.29300000000012
+    ],
+    [
+     42.625,
+     144.90700000000004,
+     493.5699999999998,
+     155.90700000000004
+    ],
+    [
+     42.625,
+     164.52700000000004,
+     266.036992,
+     175.52700000000004
+    ],
+    [
+     42.625,
+     177.12700000000007,
+     341.62099500000005,
+     188.12700000000007
+    ],
+    [
+     42.625,
+     189.7270000000001,
+     351.994001,
+     200.7270000000001
+    ],
+    [
+     42.625,
+     202.52700000000004,
+     370.24798900000013,
+     213.52700000000004
+    ],
+    [
+     42.625,
+     215.12700000000007,
+     425.9349939999999,
+     226.12700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q022",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 22,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise a imagem e leia o texto a seguir:\n\n{{img:1}}\n\n“Em uma de suas **Aulas-Espetáculo**, o escritor **Ariano Suassuna** apresentou o  \ncartaz de uma exposição comemorativa que dizia: \"Arte no Brasil: uma história de  \ncinco séculos\". Em sua opinião, a frase é preconceituosa por só considerar arte  \nbrasileira o que foi feito depois da chegada dos portugueses. E para mostrar o  \nequívoco da mensagem, exibiu uma foto da Pedra do Ingá – considerada por ele o  \nprimeiro documento de comunicação do Nordeste e uma das esculturas mais\n\nimportantes do país”.\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nSob a perspectiva historiográfica acerca do Brasil pré-cabralino, a imagem e o texto representam",
+  "fontes": [
+   "LEITE, Sylvia. *Pedra do Ingá: arte brasileira com muito mais de 500 anos*.",
+   "Disponível em: https://www.fundaj.gov.br/index.php/educacao-contextualizada/9795-pedra-do-inga-arte-brasileira-com-muito-mais-de-500-anos. Acesso em: 07 ago. 2020"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "obras de antigos sacerdotes euroasiáticos."
+   },
+   {
+    "letra": "B",
+    "texto": "relatos orais da comunicação na pré-história brasileira."
+   },
+   {
+    "letra": "C",
+    "texto": "signos que são estudados exclusivamente por ufólogos e místicos."
+   },
+   {
+    "letra": "D",
+    "texto": "inscrições abstratas que atestam a cultura de povos paleolíticos no Brasil."
+   },
+   {
+    "letra": "E",
+    "texto": "símbolos pictográficos de fácil identificação por arqueólogos e historiadores."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q022_img1.png",
+    "pagina": 15,
+    "bbox": [
+     110.2,
+     274.3,
+     468.0,
+     475.9
+    ]
+   }
+  ],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.625,
+     253.15700000000004,
+     261.925996,
+     264.15700000000004
+    ],
+    [
+     110.16000000000001,
+     274.32,
+     468.0,
+     475.92
+    ],
+    [
+     78.625,
+     480.607,
+     496.412,
+     491.64000000000004
+    ],
+    [
+     78.625,
+     493.407,
+     495.63499999999993,
+     504.407
+    ],
+    [
+     78.625,
+     506.207,
+     495.82100000000014,
+     517.207
+    ],
+    [
+     78.625,
+     518.807,
+     495.8330000000001,
+     529.807
+    ],
+    [
+     78.625,
+     531.407,
+     496.322,
+     542.44
+    ],
+    [
+     78.625,
+     543.9970000000001,
+     495.94200000000006,
+     554.9970000000001
+    ],
+    [
+     78.625,
+     556.84,
+     182.003,
+     567.84
+    ],
+    [
+     234.08,
+     568.806,
+     496.37399999999997,
+     576.806
+    ],
+    [
+     92.425,
+     578.0060000000001,
+     496.214,
+     586.0060000000001
+    ],
+    [
+     296.7,
+     587.206,
+     496.19,
+     595.206
+    ],
+    [
+     42.625,
+     607.427,
+     515.9199979999999,
+     618.427
+    ],
+    [
+     42.625,
+     632.627,
+     273.09999300000004,
+     643.627
+    ],
+    [
+     42.625,
+     645.2270000000001,
+     331.0370040000001,
+     656.227
+    ],
+    [
+     42.625,
+     657.827,
+     389.77900100000005,
+     668.827
+    ],
+    [
+     42.625,
+     670.657,
+     424.34099499999996,
+     681.657
+    ],
+    [
+     42.625,
+     683.2520000000001,
+     435.83199099999996,
+     694.2520000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q022_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q023",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 23,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "“Mandioca, mandioca-mansa, macaxeira, aipim e vários outros nomes no Brasil. Existem muitas formas para designar a espécie *Manihot esculenta*, que produz uma raiz rica em amido e foi domesticada há cerca de 9 mil anos. Estudos genéticos e arqueológicos indicam que isso ocorreu na região do Alto Rio Madeira, no atual estado de Rondônia.”\n\n{{fonte:1}}\n\nCom base no texto, uma característica da economia agrícola no Brasil pré-cabralino foi a",
+  "fontes": [
+   "Disponível em: https://jornal.usp.br/ciencias/ciencias-agrarias/forma-mais-popular-da-mandioca-e-consumida-ha-9-mil-anos/ Acesso em: 07 ago. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "aculturação com a chegada dos europeus."
+   },
+   {
+    "letra": "B",
+    "texto": "associação a práticas exclusivas de extrativismo e coleta."
+   },
+   {
+    "letra": "C",
+    "texto": "seleção e o cruzamento de diversos grãos no início do século XIX."
+   },
+   {
+    "letra": "D",
+    "texto": "ligação aos movimentos humanos ao longo dos rios amazônicos."
+   },
+   {
+    "letra": "E",
+    "texto": "aparição de grupos autóctones reivindicando os excedentes da produção."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     58.70700000000011,
+     546.9190000000001,
+     69.74000000000001
+    ],
+    [
+     42.625,
+     71.10700000000008,
+     547.2650000000001,
+     82.10700000000008
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     546.645,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.74000000000001,
+     326.282,
+     107.74000000000001
+    ],
+    [
+     79.225,
+     108.68599999999992,
+     547.4019999999999,
+     116.68599999999992
+    ],
+    [
+     482.95,
+     117.87599999999998,
+     547.1940000000001,
+     125.87599999999998
+    ],
+    [
+     42.625,
+     139.10700000000008,
+     475.98400299999986,
+     150.10700000000008
+    ],
+    [
+     42.625,
+     164.52700000000004,
+     272.13799900000004,
+     175.52700000000004
+    ],
+    [
+     42.625,
+     177.12700000000007,
+     345.35799199999997,
+     188.12700000000007
+    ],
+    [
+     42.625,
+     189.7270000000001,
+     388.788,
+     200.7270000000001
+    ],
+    [
+     42.625,
+     202.52700000000004,
+     382.388,
+     213.52700000000004
+    ],
+    [
+     42.625,
+     215.12700000000007,
+     424.14299500000004,
+     226.12700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q024",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 24,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise a imagem a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nQual obra literária da Grécia Antiga é retratada pela imagem?",
+  "fontes": [
+   "Disponível em: https://emersonfialho.wordpress.com/2008/08/09/ Acesso em: 08 ago. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "*A Odisseia*, o retorno do herói Ulisses."
+   },
+   {
+    "letra": "B",
+    "texto": "*A Ilíada*, os últimos anos da guerra de Troia."
+   },
+   {
+    "letra": "C",
+    "texto": "*A Teogonia*, a origem dos homens e dos deuses."
+   },
+   {
+    "letra": "D",
+    "texto": "*Os Trabalhos e os Dias*, manual agrícola dos gregos."
+   },
+   {
+    "letra": "E",
+    "texto": "*O Asno de ouro*, o mais antigo livro considerado como romance."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q024_img1.png",
+    "pagina": 16,
+    "bbox": [
+     133.2,
+     280.1,
+     492.5,
+     527.8
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     253.15700000000004,
+     196.574996,
+     264.15700000000004
+    ],
+    [
+     133.20000000000002,
+     280.08,
+     492.48,
+     527.76
+    ],
+    [
+     168.45,
+     537.986,
+     496.17400000000004,
+     545.986
+    ],
+    [
+     42.625,
+     569.627,
+     343.288,
+     580.627
+    ],
+    [
+     42.625,
+     594.827,
+     251.79099999999994,
+     605.827
+    ],
+    [
+     42.625,
+     607.427,
+     280.36399700000004,
+     618.427
+    ],
+    [
+     42.625,
+     620.027,
+     303.754,
+     631.027
+    ],
+    [
+     42.625,
+     632.627,
+     323.975,
+     643.627
+    ],
+    [
+     42.625,
+     645.427,
+     377.706,
+     656.427
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q024_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q025",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 25,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "“(...) os imperadores romanos, dominadores do Egito entre os séculos I a.C. e IV I.C., foram os primeiros a difundir, no mundo ocidental, elementos egípcios. Eles se fascinaram pelas tradições da província africana, entre elas o conceito de poder divino da monarquia faraônica e as promessas de vida eterna”.\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nCom base no texto, qual imagem representa a moda egípcia na antiga Itália?",
+  "fontes": [
+   "BAKOS, Margaret. Egiptomania: fragmentos do Mundo Antigo no Brasil (adaptado).",
+   "Disponível em: https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548177543_ebf4b161dbb033ed077268864ca68279.pdf. Acesso em: 09 set. 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O Panteão em Roma\n\n{{img:2}}"
+   },
+   {
+    "letra": "B",
+    "texto": "O Obelisco Lateranense em Roma\n\n{{img:1}}"
+   },
+   {
+    "letra": "C",
+    "texto": "A Vila de Adriano em Tivoli\n\n{{img:3}}"
+   },
+   {
+    "letra": "D",
+    "texto": "A Porta Negra em Trier"
+   },
+   {
+    "letra": "E",
+    "texto": "O Coliseu em Roma\n\n{{img:4}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q025_img1.png",
+    "pagina": 17,
+    "bbox": [
+     374.4,
+     190.8,
+     500.4,
+     363.6
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q025_img2.png",
+    "pagina": 17,
+    "bbox": [
+     98.6,
+     195.1,
+     222.5,
+     371.5
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q025_img3.png",
+    "pagina": 17,
+    "bbox": [
+     90.7,
+     406.8,
+     545.0,
+     548.6
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q025_img4.png",
+    "pagina": 17,
+    "bbox": [
+     98.6,
+     589.0,
+     275.8,
+     707.0
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.625,
+     58.70700000000011,
+     547.465,
+     69.74000000000001
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     546.788,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     546.7439999999999,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.74000000000001,
+     103.82900000000001,
+     107.74000000000001
+    ],
+    [
+     250.68,
+     108.68599999999992,
+     546.912,
+     116.68599999999992
+    ],
+    [
+     81.425,
+     117.87599999999998,
+     547.2279999999994,
+     125.87599999999998
+    ],
+    [
+     457.15,
+     127.08600000000001,
+     547.2040000000001,
+     135.086
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     418.3909949999998,
+     158.3270000000001
+    ],
+    [
+     78.025,
+     172.52700000000004,
+     202.67999999999998,
+     183.52700000000004
+    ],
+    [
+     338.7,
+     172.52700000000004,
+     530.246,
+     183.52700000000004
+    ],
+    [
+     374.40000000000003,
+     190.8,
+     500.40000000000003,
+     363.6
+    ],
+    [
+     98.64,
+     195.12,
+     222.48000000000002,
+     371.52000000000004
+    ],
+    [
+     78.625,
+     391.177,
+     235.16099999999997,
+     402.177
+    ],
+    [
+     342.7,
+     391.177,
+     478.31600000000003,
+     402.177
+    ],
+    [
+     90.72,
+     406.8,
+     545.04,
+     548.64
+    ],
+    [
+     78.625,
+     570.427,
+     199.65,
+     581.427
+    ],
+    [
+     98.64,
+     588.96,
+     275.76,
+     707.0400000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q026",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 26,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "“E enquanto Paulo os esperava em Atenas (...) disputava na sinagoga com os judeus e prosélitos, e na praça todos os dias com aqueles que se achavam presentes. E alguns filósofos epicureus e estoicos disputavam com ele”.\n\nFonte: Bíblia. Atos dos Apóstolos, c. 17: 16 – 21.\n\nEsse texto é um testemunho da cena religiosa no Império Romano do começo de nossa era por demonstrar a",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "obrigação do culto ao imperador."
+   },
+   {
+    "letra": "B",
+    "texto": "proibição à livre difusão das ideias religiosas."
+   },
+   {
+    "letra": "C",
+    "texto": "interdição do proselitismo, a atividade de conversão."
+   },
+   {
+    "letra": "D",
+    "texto": "promoção da diversidade religiosa e seitas que disputavam fiéis."
+   },
+   {
+    "letra": "E",
+    "texto": "determinação do monoteísmo como regra geral para todo o Império."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.625,
+     46.107000000000085,
+     546.544,
+     57.139999999999986
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     546.7549999999999,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     190.50799999999998,
+     82.33999999999992
+    ],
+    [
+     340.3,
+     72.89300000000003,
+     535.29,
+     82.33999999999992
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     547.4129869999999,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     107.49199999999999,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     224.95499500000005,
+     145.49700000000007
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     284.8609950000001,
+     158.3270000000001
+    ],
+    [
+     42.625,
+     159.92700000000002,
+     320.28899800000005,
+     170.92700000000002
+    ],
+    [
+     42.625,
+     172.52700000000004,
+     378.59199500000005,
+     183.52700000000004
+    ],
+    [
+     42.625,
+     185.12700000000007,
+     397.01699499999995,
+     196.12700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q026_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q027",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 27,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "“No interior do Brasil pode-se ainda ver hoje em dia a dramatização da luta entre mouros e cristãos em evento que costuma ocorrer por ocasião das festas juninas. Trata-se de uma tradição comum nos dois lados do Atlântico, cuja realização periódica tem por fim reforçar as identidades coletivas. No caso europeu, desempenha papel na reafirmação da identidade nacional e religiosa ao atualizar um fato marcante de sua história. Quanto ao Novo Mundo, sua persistência desempenha dois papéis complementares, contribui para fortalecer laços culturais cristãos, funcionando como ritual de aproximação e integração. Ao mesmo tempo, contribui para acentuar a negação da presença islâmica em solo ibérico”.\n\n{{fonte:1}}\n\nNo texto, as referências aos mouros na cultura popular ibero-americana evidencia qual evento ocorrido no medievo europeu?",
+  "fontes": [
+   "Fonte: MACEDO, José Rivair. Mouros e cristãos: a ritualização da conquista no velho e no Novo Mundo. In: *Bulletin du centre d’études* *médiévales d’Auxerre* (BUCEMA). Hors-série, n° 2, 2008, p. 1-2. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Guerras de reconquista na península ibérica entre cristãos e muçulmanos."
+   },
+   {
+    "letra": "B",
+    "texto": "Influências culturais dos símbolos islâmicos medievais no cristianismo ibérico."
+   },
+   {
+    "letra": "C",
+    "texto": "Alianças políticas e econômicas estabelecidas entre os ibéricos e os muçulmanos."
+   },
+   {
+    "letra": "D",
+    "texto": "Disputas territoriais entre cristãos e mouros ocorridas em certos períodos do ano."
+   },
+   {
+    "letra": "E",
+    "texto": "Construções coletivas da identidade cultural dos ibéricos como referência oriental."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.625,
+     217.3270000000001,
+     547.304001,
+     228.36
+    ],
+    [
+     42.625,
+     230.12700000000007,
+     547.3570079999997,
+     241.12700000000007
+    ],
+    [
+     42.625,
+     242.7270000000001,
+     546.7439999999997,
+     253.7270000000001
+    ],
+    [
+     42.625,
+     255.35700000000008,
+     547.0570049999997,
+     266.3570000000001
+    ],
+    [
+     42.625,
+     267.957,
+     546.8539999999998,
+     278.957
+    ],
+    [
+     42.625,
+     280.757,
+     547.258998,
+     291.757
+    ],
+    [
+     42.625,
+     293.357,
+     546.7439999999999,
+     304.357
+    ],
+    [
+     42.625,
+     305.99,
+     123.2,
+     316.99
+    ],
+    [
+     68.825,
+     322.536,
+     547.11,
+     330.536
+    ],
+    [
+     277.3,
+     331.73600000000005,
+     547.1780000000001,
+     339.73600000000005
+    ],
+    [
+     42.625,
+     354.377,
+     546.982997,
+     365.377
+    ],
+    [
+     42.625,
+     366.97700000000003,
+     149.05,
+     377.97700000000003
+    ],
+    [
+     42.625,
+     387.577,
+     427.19699100000014,
+     398.577
+    ],
+    [
+     42.625,
+     400.377,
+     443.96299300000004,
+     411.377
+    ],
+    [
+     42.625,
+     412.97700000000003,
+     466.308993,
+     423.97700000000003
+    ],
+    [
+     42.625,
+     425.577,
+     461.348988,
+     436.577
+    ],
+    [
+     42.625,
+     438.177,
+     464.6049880000001,
+     449.177
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q027_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q028",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 28,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A figura da imagem ilustra a página de um manuscrito medieval do séc. XIV, atualmente na *British* *Library*, e possui semelhança com o personagem Mestre Yoda, da série *Star Wars*.\n\n{{img:1}}\n\nDisponível em: https://media.npr.org/assets/img/2015/04/16/yoda-1300_custom-\n\n{{fonte:1}}\n\nQual particularidade das iluminuras medievais pode ser destacada na imagem?",
+  "fontes": [
+   "36b4ede34ac569a75eba56009c3ac96fbf650d94-s800-c85.jpg Acesso em: 08 ago. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O humor característico dos copistas no medievo europeu."
+   },
+   {
+    "letra": "B",
+    "texto": "O realismo presente nos pergaminhos de origem oriental."
+   },
+   {
+    "letra": "C",
+    "texto": "A técnica de impressão a partir do uso da máquina de imprensa."
+   },
+   {
+    "letra": "D",
+    "texto": "A ausência da criatividade dos escribas no cristianismo ortodoxo."
+   },
+   {
+    "letra": "E",
+    "texto": "O motivo mágico, ilustrado nas iluminuras através do Mestre Yoda."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q028_img1.png",
+    "pagina": 18,
+    "bbox": [
+     151.2,
+     499.7,
+     474.5,
+     694.1
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   18,
+   19
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.625,
+     466.807,
+     547.453,
+     477.807
+    ],
+    [
+     42.625,
+     479.407,
+     448.808,
+     490.407
+    ],
+    [
+     151.20000000000002,
+     499.68,
+     474.48,
+     694.08
+    ],
+    [
+     183.45,
+     695.875,
+     475.0140000000001,
+     705.875
+    ],
+    [
+     154.85,
+     706.831,
+     474.93800000000005,
+     714.831
+    ]
+   ],
+   "19": [
+    [
+     42.625,
+     58.70700000000011,
+     430.79300000000006,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     345.82899,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     344.25599000000005,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     378.84999500000004,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     382.369989,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     390.909982,
+     145.49700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [
+   "texto curto solto junto da imagem (“Disponível em: https://media.npr.org/ass”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q028_p18.jpg",
+   "revisao/Q028_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q029",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 29,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "“*Por que Okra, o gato, tem mais privilégios que Kraman, o cachorro”* do povo Achanti  \n(atual Gana):\n\n“Certo dia um menino disse à sua mãe: “Dê-me um pouco de ouro em pó para eu ir ao país da Orla Marítima comprar sal. A mãe respondeu: „quanto quer?‟ „Um asuanu‟, disse o menino. A mãe deu-lhe o que pedia e ele partiu. No caminho encontrou um homem com um cachorro pintado e disse-lhe: „Mostre-me seu cachorro, acho que posso comprá-lo‟. O dono do cachorro respondeu: „Você não pode comprá-lo‟. „Quanto custa‟, perguntou o menino. „Um asuanu de ouro em pó‟, replicou o dono do cachorro. „Isto para mim não é nada‟, respondeu o menino. „Tome o seu asuanu‟. E, pegando o cachorro, levou-o para casa (...)”.\n\n{{fonte:1}}\n\nQual a característica da economia medieval no continente africano retratada no conto Achanti?",
+  "fontes": [
+   "Fonte: CAREY, Margaret. Contos e lendas da África. São Paulo: Melhoramentos, 1981. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Ausência de grandes transações comerciais."
+   },
+   {
+    "letra": "B",
+    "texto": "Uso de determinado meio corrente, comum a vários povos."
+   },
+   {
+    "letra": "C",
+    "texto": "Produção majoritariamente voltada aos produtos de subsistência."
+   },
+   {
+    "letra": "D",
+    "texto": "Tráfico humano como elemento fundamental da economia."
+   },
+   {
+    "letra": "E",
+    "texto": "Comércio monetário, presente na ampla maioria das rotas do medievo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.625,
+     172.3270000000001,
+     479.30199700000003,
+     183.36
+    ],
+    [
+     78.025,
+     185.12700000000007,
+     142.232,
+     196.12700000000007
+    ],
+    [
+     78.025,
+     197.92700000000002,
+     547.0700010000002,
+     208.95999999999992
+    ],
+    [
+     78.025,
+     210.55999999999995,
+     546.6579999999999,
+     221.55999999999995
+    ],
+    [
+     78.025,
+     223.12700000000007,
+     547.459999,
+     234.12700000000007
+    ],
+    [
+     78.025,
+     235.7270000000001,
+     547.108,
+     246.76
+    ],
+    [
+     78.025,
+     248.52700000000004,
+     546.855,
+     259.55999999999995
+    ],
+    [
+     78.025,
+     261.15700000000004,
+     547.279,
+     272.19
+    ],
+    [
+     78.025,
+     273.757,
+     417.313,
+     284.79
+    ],
+    [
+     195.08,
+     290.336,
+     546.9119999999999,
+     298.336
+    ],
+    [
+     42.625,
+     310.557,
+     506.14599199999986,
+     321.557
+    ],
+    [
+     42.625,
+     335.957,
+     282.70898800000003,
+     346.957
+    ],
+    [
+     42.625,
+     348.557,
+     352.6729920000001,
+     359.557
+    ],
+    [
+     42.625,
+     361.177,
+     383.005003,
+     372.177
+    ],
+    [
+     42.625,
+     373.777,
+     351.2679950000001,
+     384.777
+    ],
+    [
+     42.625,
+     386.577,
+     410.6239950000001,
+     397.577
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q029_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q030",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 30,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em seus *Anais pernambucanos*, o historiógrafo Pereira da Costa escreveu:\n\n(...) *Os ciganos andavam em bandos mais ou menos numerosos, e aqueles que não se* *entregavam à pilhagem, e a certos negócios, como a compra e venda de cavalos, nos quais os* *indivíduos pouco experientes sempre saíam logrados, eram geralmente caldeireiros ambulantes e* *onde quer que chegassem, levantavam as suas tendas, e saíam à procura de trabalho que* *consistia, especialmente, no conserto de objetos de latão e cobre. As mulheres, porém,* *importunas, astutas e minimamente loquazes, saíam a esmolar, e liam a buena dicha pelas linhas* *das mãos, predizendo a boa ou má-sorte do indivíduo, mediante uma remuneração qualquer*.\n\n{{fonte:1}}\n\nCom base no texto, qual elemento social é diretamente ligado à população cigana no Pernambuco colonial?",
+  "fontes": [
+   "Disponível em: http://basilio.fundaj.gov.br/pesquisaescolar/index.php?option=com_content&id=914%3Aciganos-no-brasil. Acesso em: 22 ago. 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Eram reconhecidos financistas e agiotas."
+   },
+   {
+    "letra": "B",
+    "texto": "Escondiam suas mulheres da vista alheia."
+   },
+   {
+    "letra": "C",
+    "texto": "Compunham uma comunidade respeitada."
+   },
+   {
+    "letra": "D",
+    "texto": "Dedicavam-se a pequenos trabalhos artesanais."
+   },
+   {
+    "letra": "E",
+    "texto": "Estavam excluídos da estrutura social colonial."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.625,
+     424.177,
+     431.551,
+     435.177
+    ],
+    [
+     64.025,
+     441.577,
+     546.763,
+     452.577
+    ],
+    [
+     64.025,
+     454.177,
+     546.7819999999998,
+     465.177
+    ],
+    [
+     64.025,
+     466.807,
+     547.471997,
+     477.807
+    ],
+    [
+     64.025,
+     479.407,
+     546.7489999999999,
+     490.407
+    ],
+    [
+     64.025,
+     492.207,
+     546.9360000000001,
+     503.207
+    ],
+    [
+     64.025,
+     504.807,
+     547.3580039999997,
+     515.807
+    ],
+    [
+     64.025,
+     517.407,
+     519.838,
+     528.407
+    ],
+    [
+     45.025,
+     535.376,
+     547.3940000000001,
+     543.376
+    ],
+    [
+     527.38,
+     544.586,
+     547.2040000000001,
+     552.586
+    ],
+    [
+     42.625,
+     564.827,
+     547.1940099999998,
+     575.827
+    ],
+    [
+     42.625,
+     577.427,
+     85.89900000000002,
+     588.427
+    ],
+    [
+     42.625,
+     602.827,
+     264.488995,
+     613.827
+    ],
+    [
+     42.625,
+     615.427,
+     269.29599500000006,
+     626.427
+    ],
+    [
+     42.625,
+     628.027,
+     271.89200100000016,
+     639.027
+    ],
+    [
+     42.625,
+     640.627,
+     300.13400000000007,
+     651.6270000000001
+    ],
+    [
+     42.625,
+     653.227,
+     292.27499500000005,
+     664.227
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q030_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q031",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 31,
+  "area": "",
+  "texto_base_id": "P4096-T3",
+  "textos_base_ids": [
+   "P4096-T3"
+  ],
+  "enunciado": "As bases da Geografia, que conhecemos e utilizamos atualmente, têm sua origem no século XIX. Ela nasce das universidades e das sociedades de geógrafos. A Geografia Física, ensinada por Immanuel Kant na Universidade de Koensgsberg, tem sua origem herdada da Geografia pura, que buscava uma sistematização nova para a filosofia, sua verdadeira área de atuação. Vale ressaltar que a Alemanha do século XVIII vive as angústias de passar do Feudalismo para o status de nação e, dessa nova forma, alcançar os principais impérios europeus, França e Inglaterra. É nesse caldeirão que surgem, no século XIX, dois expoentes do que seria chamado de Geografia Determinista ou determinismo geográfico...\n\n{{fonte:1}}\n\nOs dois expoentes referidos no texto são",
+  "fontes": [
+   "(Adaptado de QUEIROZ, C. J. P. Uma breve história da Geografia: da antiguidade ao Brasil do século XXI. **Anais do III Congresso**  \n**Nacional de Educação**. Natal, 05 a 07 de outubro de 2016)."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Vidal de la Blache e Pierre George."
+   },
+   {
+    "letra": "B",
+    "texto": "William Moris Davis e Carl Sauer."
+   },
+   {
+    "letra": "C",
+    "texto": "Alexander von Humboldt e Carl Ritter."
+   },
+   {
+    "letra": "D",
+    "texto": "Jean Brunhes e Alexander von Humboldt."
+   },
+   {
+    "letra": "E",
+    "texto": "Emanuel De Martonne e Jean Tricart."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.625,
+     83.90700000000004,
+     546.6829959999999,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     546.9089999999997,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     547.4720019999997,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     546.4909999999999,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     546.7879999999999,
+     145.49700000000007
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     547.2179899999999,
+     158.3270000000001
+    ],
+    [
+     42.625,
+     159.92700000000002,
+     546.5789999999997,
+     170.92700000000002
+    ],
+    [
+     42.625,
+     172.52700000000004,
+     172.183,
+     183.52700000000004
+    ],
+    [
+     64.025,
+     191.50599999999997,
+     547.374,
+     199.50599999999997
+    ],
+    [
+     64.025,
+     200.70600000000002,
+     279.48,
+     208.70600000000002
+    ],
+    [
+     42.625,
+     221.64420000000007,
+     233.558,
+     232.2442000000001
+    ],
+    [
+     42.625,
+     245.8442,
+     228.6112,
+     256.4442
+    ],
+    [
+     42.625,
+     258.3570000000001,
+     227.93800200000004,
+     269.357
+    ],
+    [
+     42.625,
+     270.957,
+     249.13800500000002,
+     281.957
+    ],
+    [
+     42.625,
+     283.557,
+     267.72800500000005,
+     294.557
+    ],
+    [
+     42.625,
+     296.157,
+     247.215997,
+     307.157
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q031_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q032",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 32,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a figura a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nDois importantes aspectos geográficos da superfície terrestre estão cartográfica e diretamente representados na figura, quais sejam",
+  "fontes": [
+   "Disponível em: www.google.com.br"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "localização de um espaço industrial e distribuição de focos sísmicos."
+   },
+   {
+    "letra": "B",
+    "texto": "rede hidrográfica e feições de relevo."
+   },
+   {
+    "letra": "C",
+    "texto": "distribuição das áreas agrícolas e compartimentação climática."
+   },
+   {
+    "letra": "D",
+    "texto": "feições de relevo e áreas tectonicamente instáveis."
+   },
+   {
+    "letra": "E",
+    "texto": "localização de bairros industriais e curvas de nível."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q032_img1.png",
+    "pagina": 20,
+    "bbox": [
+     109.6,
+     344.9,
+     480.1,
+     592.2
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.625,
+     321.557,
+     190.38199599999996,
+     332.557
+    ],
+    [
+     109.63,
+     344.88,
+     480.05,
+     592.20001
+    ],
+    [
+     242.48,
+     594.013,
+     383.6610020000001,
+     603.013
+    ],
+    [
+     42.625,
+     617.427,
+     547.16101,
+     628.427
+    ],
+    [
+     42.625,
+     630.027,
+     223.56299900000002,
+     641.027
+    ],
+    [
+     42.625,
+     655.227,
+     398.97499500000015,
+     666.227
+    ],
+    [
+     42.625,
+     668.057,
+     245.120998,
+     679.057
+    ],
+    [
+     42.625,
+     680.652,
+     370.074998,
+     691.652
+    ],
+    [
+     42.625,
+     693.2520000000001,
+     313.3839950000001,
+     704.2520000000001
+    ],
+    [
+     42.625,
+     705.852,
+     312.04199500000004,
+     716.852
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q032_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q033",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 33,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As tecnologias modernas empregadas na análise cartográfica vêm colaborando sensivelmente para o avanço dos estudos geográficos, particularmente a interpretação ambiental. As imagens SRTM, como a reproduzida na figura a seguir, são um bom exemplo dessas tecnologias.\n\n{{img:1}}\n\n{{fonte:1}}\n\nA imagem SRTM contém uma área indicada pela seta que se individualiza por suas paisagens singulares. Pelas características apresentadas pelo produto cartográfico acima, essa área corresponde a um/uma",
+  "fontes": [
+   "Disponível em: https://www.cnpm.embrapa.br/projetos/relevobr/ba/hth1/ba16_11.htm"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Inselbergue."
+   },
+   {
+    "letra": "B",
+    "texto": "Crista residual."
+   },
+   {
+    "letra": "C",
+    "texto": "Montanha falhada."
+   },
+   {
+    "letra": "D",
+    "texto": "Sistema montanhoso."
+   },
+   {
+    "letra": "E",
+    "texto": "Chapada."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q033_img1.png",
+    "pagina": 21,
+    "bbox": [
+     126.7,
+     95.1,
+     463.1,
+     328.5
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.625,
+     46.107000000000085,
+     546.8229930000001,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     546.9379959999999,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     438.56999999999994,
+     82.30700000000002
+    ],
+    [
+     126.67999,
+     95.13999000000001,
+     463.07998,
+     328.52999
+    ],
+    [
+     144.45,
+     330.136,
+     445.2160000000001,
+     338.136
+    ],
+    [
+     42.625,
+     352.557,
+     546.7989999999998,
+     363.557
+    ],
+    [
+     42.625,
+     365.177,
+     547.0379970000001,
+     376.177
+    ],
+    [
+     42.625,
+     377.777,
+     91.741,
+     388.777
+    ],
+    [
+     42.625,
+     403.177,
+     124.707991,
+     414.177
+    ],
+    [
+     42.625,
+     415.777,
+     137.307996,
+     426.777
+    ],
+    [
+     42.625,
+     428.377,
+     155.30800599999998,
+     439.377
+    ],
+    [
+     42.625,
+     441.177,
+     170.58199499999998,
+     452.177
+    ],
+    [
+     42.625,
+     453.777,
+     111.877998,
+     464.777
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q034",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 34,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A região geoeconômica do Nordeste brasileiro compreende uma área, que vai da parte leste do* *Maranhão até o norte de Minas Gerais, incluindo Piauí, Ceará, Rio Grande do Norte, Paraíba,* *Pernambuco, Alagoas, Sergipe e Bahia. (...) A Zona da Mata açucareira vai do Rio Grande do Norte* *até a parte norte da Bahia. Nessa área, predominam as grandes propriedades agrícolas – os* *latifúndios –, que comumente praticam a monocultura açucareira. O cultivo da cana-de-açúcar, voltado* *à fabricação do açúcar para exportação, é praticado desde a época colonial*.\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nO texto permite ao leitor concluir que o autor aplicou dois princípios importantes da Geografia para redigi-lo, listados na alternativa",
+  "fontes": [
+   "VESENTINI, W. **Geografia 8**, Ensino Médio. Sesi.",
+   "Disponível em: <https://www.sesieducacao.com.br/cadernodigital/pdf >"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Localização e Extensão"
+   },
+   {
+    "letra": "B",
+    "texto": "Extensão e Cultivos Agrícolas"
+   },
+   {
+    "letra": "C",
+    "texto": "Arranjos e Causas Atuais"
+   },
+   {
+    "letra": "D",
+    "texto": "Dialética e Paisagismo"
+   },
+   {
+    "letra": "E",
+    "texto": "Localização e Dialética de Alexander von Humboldt"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.625,
+     478.807,
+     547.2999899999999,
+     489.807
+    ],
+    [
+     42.625,
+     491.607,
+     546.755,
+     502.607
+    ],
+    [
+     42.625,
+     504.207,
+     547.1069999999999,
+     515.207
+    ],
+    [
+     42.625,
+     516.807,
+     547.465001,
+     527.818
+    ],
+    [
+     42.625,
+     529.407,
+     547.405003,
+     540.418
+    ],
+    [
+     42.625,
+     542.2070000000001,
+     415.788,
+     553.207
+    ],
+    [
+     369.73,
+     562.4060000000001,
+     547.3340000000001,
+     570.4060000000001
+    ],
+    [
+     296.1,
+     571.606,
+     547.4520000000001,
+     579.606
+    ],
+    [
+     42.625,
+     594.027,
+     546.7549999999999,
+     605.027
+    ],
+    [
+     42.625,
+     606.827,
+     194.23600900000002,
+     617.827
+    ],
+    [
+     42.625,
+     632.027,
+     180.261995,
+     643.027
+    ],
+    [
+     42.625,
+     644.627,
+     210.00599500000004,
+     655.6270000000001
+    ],
+    [
+     42.625,
+     657.427,
+     188.017001,
+     668.427
+    ],
+    [
+     42.625,
+     670.057,
+     175.21299499999998,
+     681.057
+    ],
+    [
+     42.625,
+     682.652,
+     315.28499300000016,
+     693.652
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q034_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q035",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 35,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O relevo terrestre mantém relações com o contexto geográfico, pois se alia à espacialização dos elementos físicos da paisagem, permitindo, assim, compreender e interpretar a influência desses no uso e na ocupação dos solos.\n\nCom base no que foi dito, é **CORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "as áreas de relevo mais íngremes expostas aos fluxos de ar apresentam, em geral, menor índice de umidade relativa do ar e de precipitação pluvial."
+   },
+   {
+    "letra": "B",
+    "texto": "os recursos hídricos não são influenciados pelas unidades de relevo mais elevadas e menos íngremes."
+   },
+   {
+    "letra": "C",
+    "texto": "os aspectos naturais das paisagens, tais como o clima, o relevo e a vegetação, possuem uma ação influenciadora em relação ao uso e à ocupação dos espaços, mas não determinante, pois o homem é um ser dotado de inteligência e dinamicidade, podendo alterar o ambiente."
+   },
+   {
+    "letra": "D",
+    "texto": "o uso dos solos em ambientes com déficit hídrico, a exemplo do semiárido, independe das condições geomorfológicas do ambiente, e sim das condições eólicas e fitogeográficas."
+   },
+   {
+    "letra": "E",
+    "texto": "a possibilidade de mecanização da área de plantio bem como a influência na constituição física e química do solo por causa do processo relacionado à intemperização recebem pouca ou quase nenhuma interferência das condições topográficas locais."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.625,
+     46.107000000000085,
+     547.361995,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     547.4509919999999,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     188.28300700000003,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     96.49700000000007,
+     294.15099699999996,
+     107.49700000000007
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     546.7449909999998,
+     132.90700000000004
+    ],
+    [
+     64.025,
+     134.49700000000007,
+     312.0640000000001,
+     145.49700000000007
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     547.1439939999999,
+     158.3270000000001
+    ],
+    [
+     64.025,
+     159.92700000000002,
+     113.04100000000001,
+     170.92700000000002
+    ],
+    [
+     42.625,
+     172.52700000000004,
+     546.7339969999998,
+     183.52700000000004
+    ],
+    [
+     64.025,
+     185.12700000000007,
+     547.075,
+     196.12700000000007
+    ],
+    [
+     64.025,
+     197.92700000000002,
+     477.3089919999999,
+     208.92700000000002
+    ],
+    [
+     42.625,
+     210.52700000000004,
+     546.7899919999995,
+     221.52700000000004
+    ],
+    [
+     64.025,
+     223.12700000000007,
+     490.9189949999999,
+     234.12700000000007
+    ],
+    [
+     42.625,
+     235.7270000000001,
+     546.894987,
+     246.7270000000001
+    ],
+    [
+     64.025,
+     248.52700000000004,
+     546.76,
+     259.52700000000004
+    ],
+    [
+     64.025,
+     261.15700000000004,
+     343.799,
+     272.157
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q035_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4096-Q036",
+  "prova_id": "P4096",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 36,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a ilustração a seguir, referente a um dos aspectos da dinâmica da geoesfera denominada litosfera.\n\n{{img:1}}\n\n{{fonte:1}}\n\nPelas características geológicas apresentadas, é **CORRETO** afirmar que se trata de uma zona de",
+  "fontes": [
+   "Disponível em: https://www.infoescola.com/geografia (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "divergência tectônica de placas litosféricas em movimento."
+   },
+   {
+    "letra": "B",
+    "texto": "espaço de limite entre placas litosféricas do tipo Falha Transformante."
+   },
+   {
+    "letra": "C",
+    "texto": "limite convergente entre duas placas litosféricas em movimento."
+   },
+   {
+    "letra": "D",
+    "texto": "ausência de fenômenos tectônicos e, portanto, sem sismicidade."
+   },
+   {
+    "letra": "E",
+    "texto": "vulcanismo inativo por ser um limite de falhas geológicas horizontais."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q036_img1.png",
+    "pagina": 22,
+    "bbox": [
+     146.9,
+     333.5,
+     448.6,
+     442.8
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.625,
+     299.157,
+     547.0909859999999,
+     310.157
+    ],
+    [
+     64.025,
+     311.757,
+     105.64900000000002,
+     322.757
+    ],
+    [
+     146.89999,
+     333.49999,
+     448.56,
+     442.8
+    ],
+    [
+     180.05,
+     450.35600000000005,
+     409.55999999999995,
+     458.35600000000005
+    ],
+    [
+     42.625,
+     487.607,
+     520.359992,
+     498.607
+    ],
+    [
+     42.625,
+     512.9970000000001,
+     350.607995,
+     523.9970000000001
+    ],
+    [
+     42.625,
+     525.607,
+     405.783995,
+     536.607
+    ],
+    [
+     42.625,
+     538.407,
+     376.40300099999996,
+     549.407
+    ],
+    [
+     42.625,
+     550.9970000000001,
+     379.40599499999996,
+     561.9970000000001
+    ],
+    [
+     42.625,
+     563.627,
+     400.580995,
+     574.627
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2021/CADERNO-DE-PROVAS-1FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4097"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q036_p22.jpg"
+  ]
+ }
+]

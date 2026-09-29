@@ -1,0 +1,1416 @@
+[
+ {
+  "id": "P4012-T1",
+  "texto": "{{img:1}}\n\nA diversidade de povos e línguas destoa da realidade de povos indígenas que vivem isolados nas grandes cidades. Existem nas grandes cidades muitos povos vivendo em contexto de cidades. Os indígenas ocuparam diversas realidades, diversas cidades, bairros e bolsões de pobreza nas grandes metrópoles. Enfim, estamos em todas as partes do Brasil. Mas o imaginário construído pela sociedade brasileira, propagado por muitos, é de um indígena “atrasado”, “selvagem”, “não civilizado” e distante de tudo e de todos. Existe uma imagem construída que necessitamos repensar nos dias de hoje. [...]\n\n{{fonte:1}}",
+  "fontes": [
+   "Disponível em: https://jornal.usp.br/artigos/os-indigenas-ontem-e-hoje-sob-a-perspectiva-amerindia/. Acesso em: 21 jun. 2024. Adaptado."
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T1_img1.png",
+    "pagina": 3,
+    "bbox": [
+     42.6,
+     58.3,
+     550.8,
+     442.9
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.6,
+     58.32,
+     550.8000000000001,
+     442.94
+    ],
+    [
+     42.6,
+     447.927,
+     546.983,
+     458.927
+    ],
+    [
+     42.6,
+     460.527,
+     547.3170039999999,
+     471.527
+    ],
+    [
+     42.6,
+     473.257,
+     546.9609999999998,
+     484.257
+    ],
+    [
+     42.6,
+     485.857,
+     547.0379999999998,
+     496.857
+    ],
+    [
+     42.6,
+     498.557,
+     547.028,
+     509.59000000000003
+    ],
+    [
+     42.6,
+     511.157,
+     533.3870000000001,
+     522.1569999999999
+    ],
+    [
+     192.02,
+     532.626,
+     547.2320000000001,
+     540.626
+    ],
+    [
+     418.27,
+     541.836,
+     547.11,
+     549.836
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4012-Q001"
+  ],
+  "recortes": [
+   "revisao/T1_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4012-T2",
+  "texto": "**Texto 2**\n\n{{img:1}}\n\nO livro traça um panorama sobre os povos indígenas isolados, de diversos territórios e regiões do Brasil, e reúne artigos de pesquisadores que se debruçaram sobre diferentes temas e regiões, trazendo, em grande parte dos casos, a perspectiva dos indígenas contatados que compartilham o território com os grupos isolados. Uirá Garcia escreve sobre os Awá Guajás, do Maranhão. Bruce Albert e Estevão Bertoni, sobre os isolados da Terra Indígena Yanomami (RR). Karen Shiratori, sobre os kawahivas que perambulam pelo sul do Amazonas, próximos aos índios Tenharim. O prefácio é de Eduardo Viveiros de Castro. O livro traz o depoimento dos coordenadores das Frentes de Proteção Etnoambiental da Funai, visões do *front* de quem vive e atua nos rincões mais afastados da Amazônia. Essas populações resistem nos últimos redutos de floresta, enquanto as dos não indígenas aproximam-se cada vez mais em sua busca por riquezas. Em algumas regiões, como a dos Kawahivas do Rio Pardo, no Mato Grosso, ou a dos os Awá Guajás, no Maranhão, os isolados sobrevivem a seu modo a poucos quilômetros de garimpeiros, caçadores e madeireiros. Uma vida em fuga, protegendo-se na invisibilidade que a floresta oferece.\n\n{{fonte:1}}",
+  "fontes": [
+   "Disponível em: https://acervo.socioambiental.org/acervo/publicacoes-isa/cercos-e-resistencias-povos-indigenas-isolados-na-amazonia-brasileira. Acesso em: 21 jun. 2024. Adaptado."
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T2_img1.png",
+    "pagina": 4,
+    "bbox": [
+     63.0,
+     369.7,
+     530.2,
+     620.0
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   4,
+   5
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.6,
+     358.527,
+     81.10000000000001,
+     369.527
+    ],
+    [
+     63.0149994,
+     369.6700073,
+     530.1549988,
+     619.9800049
+    ],
+    [
+     42.6,
+     630.857,
+     547.1919999999993,
+     641.857
+    ],
+    [
+     42.6,
+     643.457,
+     547.3129999999994,
+     654.457
+    ],
+    [
+     42.6,
+     656.177,
+     547.3360009999994,
+     667.177
+    ],
+    [
+     42.6,
+     668.777,
+     547.5010009999992,
+     679.777
+    ],
+    [
+     42.6,
+     681.477,
+     547.6230019999994,
+     692.477
+    ],
+    [
+     42.6,
+     694.077,
+     547.3899999999998,
+     705.077
+    ],
+    [
+     42.6,
+     706.777,
+     547.632004,
+     717.777
+    ]
+   ],
+   "5": [
+    [
+     42.59999999999991,
+     44.57700000000011,
+     547.5719949999993,
+     55.57700000000011
+    ],
+    [
+     42.59999999999991,
+     57.177000000000135,
+     547.5309869999992,
+     68.17700000000013
+    ],
+    [
+     42.59999999999991,
+     69.87700000000018,
+     547.6020029999993,
+     80.87700000000018
+    ],
+    [
+     42.59999999999991,
+     82.4770000000002,
+     547.3209969999994,
+     93.4770000000002
+    ],
+    [
+     42.59999999999991,
+     95.20700000000022,
+     440.3110059999998,
+     106.20700000000022
+    ],
+    [
+     68.6999999999999,
+     107.37600000000009,
+     547.212,
+     115.37600000000009
+    ],
+    [
+     381.37999999999994,
+     116.58600000000013,
+     547.1080000000001,
+     124.58600000000013
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4012-Q004",
+   "P4012-Q005",
+   "P4012-Q006",
+   "P4012-Q007",
+   "P4012-Q035",
+   "P4012-Q037"
+  ],
+  "recortes": [
+   "revisao/T2_p4.jpg",
+   "revisao/T2_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4012-T3",
+  "texto": "**Texto 3**  \nMeu canto de morte,  \nGlossário:  \nGuerreiros, ouvi:\n\n*pujante: forte.  \nSou filho das selvas,  \n*errante: andante, sem rumo.  \nNas selvas cresci;  \n*fado: destino, sina.  \nGuerreiros, descendo  \nDa tribo Tupi.  \nDa tribo pujante,  \nQue agora anda errante  \nPor fado inconstante,  \nGuerreiros, nasci:  \nSou bravo, sou forte,  \nSou filho do Norte;  \nMeu canto de morte,  \nGuerreiros, ouvi.\n\n{{fonte:1}}",
+  "fontes": [
+   "GONÇALVES DIAS, A. *I-Juca Pirama*. Excerto."
+  ],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.59999999999995,
+     510.35700000000014,
+     81.09999999999995,
+     521.3570000000002
+    ],
+    [
+     42.6,
+     524.557,
+     143.536,
+     535.557
+    ],
+    [
+     339.05,
+     535.357,
+     388.538,
+     548.157
+    ],
+    [
+     42.6,
+     537.157,
+     123.91199999999999,
+     548.157
+    ],
+    [
+     339.05,
+     547.9570000000001,
+     410.616,
+     560.857
+    ],
+    [
+     42.6,
+     549.857,
+     143.37099999999998,
+     560.857
+    ],
+    [
+     339.05,
+     560.557,
+     482.12700000000007,
+     573.457
+    ],
+    [
+     42.6,
+     562.4570000000001,
+     131.13899999999998,
+     573.457
+    ],
+    [
+     339.05,
+     573.2470000000001,
+     435.70700000000005,
+     586.157
+    ],
+    [
+     42.6,
+     575.157,
+     148.40900000000002,
+     586.157
+    ],
+    [
+     42.6,
+     587.7470000000001,
+     108.611,
+     598.7470000000001
+    ],
+    [
+     42.6,
+     600.4570000000001,
+     123.23,
+     611.457
+    ],
+    [
+     42.6,
+     613.057,
+     159.948,
+     624.057
+    ],
+    [
+     42.6,
+     625.657,
+     146.53900000000002,
+     636.657
+    ],
+    [
+     42.6,
+     638.357,
+     129.41199999999998,
+     649.357
+    ],
+    [
+     42.6,
+     650.9770000000001,
+     144.74199600000003,
+     661.977
+    ],
+    [
+     42.6,
+     663.677,
+     133.64700000000002,
+     674.677
+    ],
+    [
+     42.6,
+     676.277,
+     143.536,
+     687.277
+    ],
+    [
+     42.6,
+     688.977,
+     123.91199999999999,
+     699.977
+    ],
+    [
+     89.825,
+     705.7560000000001,
+     257.85,
+     713.7560000000001
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4012-Q007",
+   "P4012-Q008"
+  ],
+  "recortes": [
+   "revisao/T3_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4012-T4",
+  "texto": "**Texto 4**\n\n{{img:1}}\n\nEm missão de paz, os irmãos salesianos chegaram à terra dos Bororos, em Mato Grosso, em 1895. Anteriormente, já havia sido tentado contato com os índios, mas o conflito pela terra provocou muitas mortes, resultando na fuga dos índios, que não aceitavam se submeter nem abandonar seus costumes.\n\nPadre Antônio Malan, inspetor da Missão Salesiana,  \ne o bororo Miguel, filho do capitão Major. 1908.\n\n{{fonte:1}}",
+  "fontes": [
+   "Disponível em: https://brasilianafotografica.bn.gov.br/?tag=indios Acesso em: 22 jun. 2024. Adaptado."
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T4_img1.png",
+    "pagina": 6,
+    "bbox": [
+     85.7,
+     229.7,
+     211.9,
+     408.2
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.6,
+     204.40700000000004,
+     81.10000000000001,
+     215.40700000000004
+    ],
+    [
+     85.68,
+     229.68,
+     211.94001,
+     408.18
+    ],
+    [
+     219.85,
+     234.30700000000002,
+     510.3600000000001,
+     245.30700000000002
+    ],
+    [
+     219.85,
+     246.99700000000007,
+     510.27200000000005,
+     257.99700000000007
+    ],
+    [
+     219.85,
+     259.6070000000001,
+     510.294,
+     270.607
+    ],
+    [
+     219.85,
+     272.307,
+     510.27200000000005,
+     283.307
+    ],
+    [
+     219.85,
+     284.927,
+     510.29700300000013,
+     295.927
+    ],
+    [
+     219.85,
+     297.627,
+     296.289,
+     308.627
+    ],
+    [
+     216.55,
+     361.92,
+     448.73,
+     371.92
+    ],
+    [
+     216.55,
+     373.32,
+     425.45000000000005,
+     383.32
+    ],
+    [
+     85.225,
+     413.30600000000004,
+     445.96399999999966,
+     421.30600000000004
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4012-Q008"
+  ],
+  "recortes": [
+   "revisao/T4_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4012-T5",
+  "texto": "**Texto 5**\n\n**A farsa da arte pela arte**\n\nO mundo atravessa um momento essencialmente político. E é conhecida a velha chapa que colocava o artista, o intelectual, o homem de letras, à margem dos acontecimentos políticos. É o conceito célebre da “arte pela arte”. O artista trancado na sua clássica torre de cristal que quase sempre não passava de um quarto mal arrumado onde a miséria imperava, a cabeleira romântica caindo sobre os ombros, não se interessava pelos acontecimentos que se desenrolavam cá embaixo no velho mundo de homens sem senso artístico, de homens que lutavam no quotidiano de cada dia pelas renovações políticas e sociais. O conceito de “arte pela arte” desumanizava o artista.\n\nEle não trabalhava em função da humanidade que se locomovia na terra, a terra das ruas. A realidade era uma coisa que não lhe interessava. O cristal de sua torre tapava-lhe os olhos para o espetáculo dos homens apressados ou tímidos que viviam os poemas, os romances, as epopeias diárias. Fora da terra, longe da humanidade, o artista era o contrário do político. Eram extremos. É certo que alguns homens não acreditavam na verdade do conceito célebre. É certo que alguns homens fizeram a sua arte em função da humanidade e da realidade. Mas ninguém desconfiou sequer que se tratava de gênios. [...] O intelectual fora da humanidade, fora dos anseios, dos desejos, das lutas dos homens, não pode existir, porque a literatura existe em função da humanidade.\n\nEscrito por Jorge Amado. Originalmente publicado em *O Estado de Sergipe*, Ano III, Nº 773.\n\nAracaju, 22 de nov. de 1935.\n\n{{fonte:1}}",
+  "fontes": [
+   "Disponível em: https://www.novacultura.info/post/2024/04/05/jorge-amado-a-farsa-da-arte-pela-arte. Acesso em: 27 jun. 2024"
+  ],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.6,
+     44.57700000000011,
+     81.10000000000001,
+     55.57700000000011
+    ],
+    [
+     230.25,
+     68.7840000000001,
+     366.246,
+     80.7840000000001
+    ],
+    [
+     79.725,
+     89.49700000000007,
+     536.4889999999999,
+     100.49700000000007
+    ],
+    [
+     58.4,
+     102.10700000000008,
+     536.4269999999999,
+     113.10700000000008
+    ],
+    [
+     58.4,
+     114.80700000000002,
+     536.794,
+     125.83999999999992
+    ],
+    [
+     58.4,
+     127.40700000000004,
+     536.493,
+     138.40700000000004
+    ],
+    [
+     58.4,
+     140.10700000000008,
+     536.5699999999998,
+     151.10700000000008
+    ],
+    [
+     58.4,
+     152.7070000000001,
+     536.69,
+     163.7070000000001
+    ],
+    [
+     58.4,
+     165.43999999999994,
+     536.4489999999997,
+     176.43999999999994
+    ],
+    [
+     58.4,
+     177.99700000000007,
+     91.455,
+     188.99700000000007
+    ],
+    [
+     79.725,
+     190.7070000000001,
+     536.522,
+     201.7070000000001
+    ],
+    [
+     58.4,
+     203.30700000000002,
+     536.875,
+     214.30700000000002
+    ],
+    [
+     58.4,
+     215.99700000000007,
+     536.4709999999999,
+     226.99700000000007
+    ],
+    [
+     58.4,
+     228.60700000000008,
+     536.665,
+     239.60700000000008
+    ],
+    [
+     58.4,
+     241.30700000000002,
+     536.4709999999999,
+     252.30700000000002
+    ],
+    [
+     58.4,
+     253.90700000000004,
+     536.4599999999999,
+     264.90700000000004
+    ],
+    [
+     58.4,
+     266.6070000000001,
+     536.87,
+     277.607
+    ],
+    [
+     58.4,
+     279.22700000000003,
+     536.5699999999998,
+     290.22700000000003
+    ],
+    [
+     58.4,
+     291.927,
+     121.88100000000001,
+     302.927
+    ],
+    [
+     129.43,
+     304.22,
+     538.29,
+     314.22
+    ],
+    [
+     410.38,
+     315.82,
+     538.22,
+     325.82
+    ],
+    [
+     94.125,
+     328.406,
+     538.182,
+     336.406
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4012-Q011",
+   "P4012-Q012"
+  ],
+  "recortes": [
+   "revisao/T5_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4012-T6",
+  "texto": "**Texto 7**\n\n**Alexandrino**\n\nUm, dois, três, quatro  \n***alexandrino** Um, dois, três, quatro  \nadjetivo, substantivo masculino. Um, dois, três, quatro, cinco  \nDe Alexandria, no Egito. Seis, sete, oito, nove, dez, onze, doze\n\nPoética: verso de doze sílabas. Arte alexandrina: arte refinada. Alexandrino, Alexandrino  \nPoesia alexandrina, poesia grega, erudita e refinada, O baile é livre pra novinha e pro menino\n\nque floresceu em Alexandria, nos sécs. III e II a.C. Alexandrino, Alexandrino\n\n{{fonte:1}}\n\nOlavo Brás Martins dos Guimarães Bilac\n\nDicionário *On-line* de Português\n\n[...]\n\n{{fonte:2}}",
+  "fontes": [
+   "Adaptado do",
+   "Caetano Veloso e Moreno Veloso. *In*: *Ofertório.* Uns Produções Artísticas; Universal Music, 2018"
+  ],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.6,
+     504.157,
+     81.10000000000001,
+     515.1569999999999
+    ],
+    [
+     56.8,
+     529.4570000000001,
+     120.314,
+     540.457
+    ],
+    [
+     56.8,
+     546.7470000000001,
+     161.83900000000003,
+     557.7470000000001
+    ],
+    [
+     416.17,
+     550.126,
+     464.03,
+     558.126
+    ],
+    [
+     56.8,
+     559.357,
+     161.83900000000003,
+     570.357
+    ],
+    [
+     344.15,
+     564.0360000000001,
+     456.934,
+     572.0360000000001
+    ],
+    [
+     56.8,
+     572.057,
+     193.64000000000007,
+     583.057
+    ],
+    [
+     344.15,
+     579.0360000000001,
+     430.32599999999996,
+     587.0360000000001
+    ],
+    [
+     56.8,
+     584.657,
+     242.67800000000008,
+     595.657
+    ],
+    [
+     344.15,
+     588.236,
+     455.214,
+     596.236
+    ],
+    [
+     344.15,
+     597.436,
+     453.81399999999996,
+     605.436
+    ],
+    [
+     56.8,
+     601.9570000000001,
+     178.977,
+     612.957
+    ],
+    [
+     344.15,
+     606.626,
+     536.0460000000002,
+     614.626
+    ],
+    [
+     56.8,
+     614.557,
+     251.86400100000012,
+     625.557
+    ],
+    [
+     344.15,
+     615.836,
+     522.8380000000001,
+     623.836
+    ],
+    [
+     56.8,
+     627.157,
+     178.977,
+     638.157
+    ],
+    [
+     490.88,
+     636.5360000000001,
+     536.1999999999999,
+     644.5360000000001
+    ],
+    [
+     56.8,
+     639.857,
+     254.74500000000006,
+     650.857
+    ],
+    [
+     422.88,
+     645.736,
+     536.142,
+     653.736
+    ],
+    [
+     56.8,
+     658.277,
+     72.134,
+     669.277
+    ],
+    [
+     56.8,
+     681.956,
+     225.234,
+     689.956
+    ],
+    [
+     56.8,
+     691.1560000000001,
+     229.58400000000003,
+     699.1560000000001
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4012-Q014",
+   "P4012-Q015"
+  ],
+  "recortes": [
+   "revisao/T6_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4012-T7",
+  "texto": "**Texto 8**\n\n{{fonte:1}}\n\n{{img:1}}\n\n{{fonte:2}}",
+  "fontes": [
+   "Acesso em: 29 ago. 2024.",
+   "Disponível em: https://www.google.com/imgres?q=baile%20funk"
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T7_img1.png",
+    "pagina": 10,
+    "bbox": [
+     128.9,
+     199.4,
+     489.6,
+     457.2
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     275.65,
+     183.7070000000001,
+     314.16599399999996,
+     194.7070000000001
+    ],
+    [
+     230.04999999999998,
+     195.986,
+     322.834,
+     203.986
+    ],
+    [
+     128.88,
+     199.44,
+     489.6,
+     457.22700000000003
+    ],
+    [
+     189.02,
+     465.43600000000004,
+     416.67600000000004,
+     473.43600000000004
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4012-Q015"
+  ],
+  "recortes": [
+   "revisao/T7_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4012-T9",
+  "texto": "**Text 9 (for questions 18, 19, 20, 21, and 22)**\n\n**Biking Little Venice: A Bike Tour of London’s Beautiful Regent’s Canal**\n\n{{img:1}}\n\n1 If you were under the impression that the Thames has a monopoly on London’s waterfront biking scene, allow us to introduce you to one of the city’s hidden cycling treasures: The Regent’s Canal.\n\n{{img:2}}\n\nOr as it’s affectionately known around these parts, Little Venice.\n\nTo be accurate, “Little Venice” only technically refers to the meeting point between the Regent’s and Paddington Arm Canals, located about a five-minute stroll northwest of the Paddington underground station in West London. However, this narrow, picturesque channel of moored boats and lush English foliage serves as the all-important trailhead for a surprisingly enjoyable 10 mile <u>bike ride,</u> guiding visitors past beautiful parks, regal estates, lively districts, hidden cafes, and some of the most cramped bridge underpasses you’ve ever pedaled beneath.\n\n4 Hey, this is 1820’s London we’re talking about, here. You’ll have to forgive them for not putting the newly invented bicycle front and center in their construction plans. Though it’s not uncommon for residents to use the canal as a direct, traffic-free means of transportation from Point A to Point B, if you’re a first timer you’ll probably want to take your time to explore some of the unique stops along the way.\n\n5 Take Granary Square, for example. This trendy addition to King’s Cross is marked by its telltale tiered green steps that descend down to the canal, but just above you’ll find terraced restaurants, cafes, and a series of choreographed fountains you can control from an app on your smartphone. On warm summer afternoons and evenings, consider this plaza a must see.\n\n[…]  \n6 In all, though there are no dedicated bike lanes and you’ll more than likely have to contend with a few crowded stretches, the Regent’s Canal is undeniably one of the highlights of the London cycling scene. Check out Spinlister’s detailed bike map to get oriented, then give yourself a day to come experience this hidden gem for yourself.\n\nBy John Wachunas@Spinlister\n\n{{fonte:1}}",
+  "fontes": [
+   "Disponível em: https://medium.com/@JohnWachunasSpinlister/biking-little-venice-a-bike-tour-of-london-s-beautiful-regent-s-canal. Acesso em: 22 jul. 2024. Adaptado."
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T9_img1.png",
+    "pagina": 12,
+    "bbox": [
+     147.6,
+     136.8,
+     432.0,
+     308.9
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/T9_img2.png",
+    "pagina": 12,
+    "bbox": [
+     38.9,
+     356.4,
+     53.3,
+     398.2
+    ]
+   }
+  ],
+  "alertas": [
+   "PENDENTE: há um trecho desenhado (sem texto no PDF) entre “6” e “In” na linha “6 In all, though there are no dedicated bike lanes and you’ll more tha” — transcrever lendo a imagem"
+  ],
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.6,
+     99.80700000000002,
+     265.813,
+     110.80700000000002
+    ],
+    [
+     115.93,
+     121.63999999999999,
+     473.9909999999999,
+     132.64
+    ],
+    [
+     147.6,
+     136.8,
+     432.0,
+     308.88
+    ],
+    [
+     56.8,
+     323.96000000000004,
+     552.5810000000001,
+     334.96000000000004
+    ],
+    [
+     56.8,
+     336.66,
+     527.8969999999999,
+     347.66
+    ],
+    [
+     38.88,
+     356.40000000000003,
+     53.28,
+     398.16
+    ],
+    [
+     56.8,
+     358.427,
+     363.47200000000004,
+     369.46000000000004
+    ],
+    [
+     56.8,
+     380.36,
+     552.669,
+     391.36
+    ],
+    [
+     56.8,
+     392.927,
+     552.8570009999997,
+     403.927
+    ],
+    [
+     56.8,
+     405.627,
+     552.592,
+     416.627
+    ],
+    [
+     56.8,
+     418.22700000000003,
+     552.979,
+     429.22700000000003
+    ],
+    [
+     56.8,
+     430.927,
+     552.581,
+     441.927
+    ],
+    [
+     56.8,
+     443.56,
+     298.25000000000006,
+     454.56
+    ],
+    [
+     56.8,
+     465.49,
+     552.834,
+     476.49
+    ],
+    [
+     56.8,
+     478.09000000000003,
+     552.559,
+     489.09000000000003
+    ],
+    [
+     56.8,
+     490.757,
+     552.7529999999999,
+     501.757
+    ],
+    [
+     56.8,
+     503.39000000000004,
+     552.526,
+     514.3900000000001
+    ],
+    [
+     56.8,
+     516.057,
+     79.152,
+     527.057
+    ],
+    [
+     56.8,
+     537.857,
+     552.939,
+     548.89
+    ],
+    [
+     56.8,
+     550.59,
+     552.6689999999999,
+     561.59
+    ],
+    [
+     56.8,
+     563.157,
+     552.548,
+     574.157
+    ],
+    [
+     56.8,
+     575.857,
+     373.9880030000001,
+     586.857
+    ],
+    [
+     56.8,
+     597.69,
+     73.762,
+     608.69
+    ],
+    [
+     56.8,
+     610.39,
+     552.6800000000001,
+     621.39
+    ],
+    [
+     56.8,
+     622.99,
+     552.735,
+     633.99
+    ],
+    [
+     56.8,
+     635.657,
+     552.8100000000001,
+     646.69
+    ],
+    [
+     56.8,
+     648.2570000000001,
+     193.519,
+     659.2570000000001
+    ],
+    [
+     56.8,
+     668.77,
+     194.26500000000004,
+     678.77
+    ],
+    [
+     91.325,
+     684.6560000000001,
+     553.024,
+     692.6560000000001
+    ],
+    [
+     426.77,
+     693.856,
+     552.9380000000001,
+     701.856
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   18,
+   22
+  ],
+  "questoes": [
+   "P4012-Q018-ING",
+   "P4012-Q019-ING",
+   "P4012-Q020-ING",
+   "P4012-Q021-ING",
+   "P4012-Q022-ING"
+  ],
+  "recortes": [
+   "revisao/T9_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4012-T11",
+  "texto": "**Texto para las cuestiones 18, 19, 20 y 21**\n\n**Texto 9**\n\n**¿Eres viajero del Metro de Madrid? Ahora puedes calcular tu huella de carbono**\n\n{{img:1}}\n\n**18 DE JUNIO DE 2024**  \n**La falta de conciencia medioambiental ha sido bautizada como “Jimmy” y, como parte de la iniciativa, se llevará a cabo una plantación de árboles en Madrid junto a Reforesta (el objetivo es llegar a 250 árboles plantados)**\n\nSegún el estudio “Peoples' Climate Vote” del Programa de Desarrollo de las Naciones Unidas (UNDP), casi dos tercios de las personas en todo el mundo están de acuerdo en que la crisis climática es una emergencia. Sin embargo, la mayoría de las veces carecen del conocimiento y la orientación sobre cómo actuar individualmente. Con ese fin, los principales medios de comunicación mundiales tienen un papel vital que desempeñar en influir positivamente en los consumidores. Utilizando espacios publicitarios libres del metro, la campaña trabajará la concienciación, ofreciendo a los usuarios información clave sobre los principales contribuidores a su huella y fomentará el uso del Metro como alternativa más sostenible. Como incentivo adicional, se plantarán árboles en Madrid, con el objetivo de alcanzar los 250 en colaboración con Reforesta, una asociación sin ánimo de lucro dedicada a la promoción del desarrollo sostenible a través de la conservación y restauración de los bosques. Esta acción no solo busca reforzar el compromiso ambiental, sino también fomentar la participación comunitaria y el sentido de responsabilidad que cada uno de nosotros tenemos para con el entorno.\n\n{{fonte:1}}",
+  "fontes": [
+   "Disponible en: https://www.elpublicista.es/anunciantes/eres-viajero-metro-madrid-ahora-puedes-calcular-tu-huella. Acceso en: 04 jul. 2024. Adaptado."
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T11_img1.png",
+    "pagina": 15,
+    "bbox": [
+     145.4,
+     122.4,
+     452.9,
+     327.2
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.6,
+     64.07700000000011,
+     253.566,
+     75.07700000000011
+    ],
+    [
+     42.6,
+     86.01400000000001,
+     84.497,
+     98.01400000000001
+    ],
+    [
+     71.725,
+     104.4140000000001,
+     523.6450000000003,
+     116.4140000000001
+    ],
+    [
+     145.44,
+     122.4,
+     452.88,
+     327.22
+    ],
+    [
+     75.025,
+     335.72,
+     177.87,
+     345.72
+    ],
+    [
+     56.8,
+     347.22,
+     545.8499999999999,
+     357.25000000000006
+    ],
+    [
+     56.8,
+     358.72,
+     546.05,
+     368.72
+    ],
+    [
+     56.8,
+     370.22,
+     145.81500000000003,
+     380.22
+    ],
+    [
+     92.225,
+     389.96000000000004,
+     552.5860000000001,
+     400.96000000000004
+    ],
+    [
+     56.8,
+     402.627,
+     552.965,
+     413.627
+    ],
+    [
+     56.8,
+     415.22700000000003,
+     552.5149999999999,
+     426.22700000000003
+    ],
+    [
+     56.8,
+     427.927,
+     552.581,
+     438.927
+    ],
+    [
+     56.8,
+     440.527,
+     515.945,
+     451.527
+    ],
+    [
+     92.225,
+     453.22700000000003,
+     552.5749999999999,
+     464.22700000000003
+    ],
+    [
+     56.8,
+     465.857,
+     552.603,
+     476.857
+    ],
+    [
+     56.8,
+     478.557,
+     552.7450000000001,
+     489.557
+    ],
+    [
+     56.8,
+     491.157,
+     552.4159999999998,
+     502.157
+    ],
+    [
+     56.8,
+     503.857,
+     552.9449999999999,
+     514.857
+    ],
+    [
+     56.8,
+     516.4570000000001,
+     552.6029999999998,
+     527.457
+    ],
+    [
+     56.8,
+     529.157,
+     552.6799999999998,
+     540.157
+    ],
+    [
+     56.8,
+     541.7470000000001,
+     245.09800000000007,
+     552.7470000000001
+    ],
+    [
+     148.83,
+     554.0360000000001,
+     552.9120000000001,
+     562.0360000000001
+    ],
+    [
+     428.98,
+     563.236,
+     552.8620000000001,
+     571.236
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   18,
+   21
+  ],
+  "questoes": [
+   "P4012-Q018-ESP",
+   "P4012-Q019-ESP",
+   "P4012-Q020-ESP",
+   "P4012-Q021-ESP"
+  ],
+  "recortes": [
+   "revisao/T11_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4012-T12",
+  "texto": "**Texto para las cuestiones 22 y 23**\n\n**Texto 10**  \nLea parte de la receta que sigue de un plato típico de Venezuela\n\n**Cómo hacer arepas, con recetas y consejos**  \nLa masa:\n\n1. Para hacer arepas necesitamos, básicamente, dos ingredientes: harina de maíz precocida y agua. 2. La harina de maíz precocida puede ser de distintos tipos. Para las arepas solemos emplear harina PAN. Tenéis harina de maíz blanco, de mezcla extra-suave blanca (maíz blanco y arroz), de maíz amarillo, especial de maíz para freír arepas (suele ser amarilla) o la versión (más actual) integral. Elegid la que más os guste, aunque os recomiendo la harina de maíz blanco o amarillo.\n\n3. No necesitamos sal (la pondremos en el relleno). Aunque en algunas recetas de amigos venezolanos le suelen poner una pizca, lo dejaré como ingrediente opcional.\n\n4. Con ellos vamos a formar nuestra masa. Es muy importante que durante el proceso deshagamos todos los grumos de la harina para obtener un producto suave. La masa debe quedar elástica, pero no pegajosa. Una vez conseguida nuestra masa, la dejamos reposar unos minutos. Pasado ese tiempo, podemos saber si la masa está muy seca si, al hacer la tortita, se forman grietas en los bordes.\n\n5. En ese caso debemos añadir agua a la masa. Si por el contrario la masa ha quedado demasiado suave y no se puede moldear con facilidad, debemos añadir un poco de harina (…).\n\n{{fonte:1}}",
+  "fontes": [
+   "Disponible en: https://www.abc.es/recetasderechupete/arepas-como-hacer-arepas-consejos-y-su-origen/26665/. Acceso en: 09 jul. 2024."
+  ],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.6,
+     419.534,
+     219.73600000000002,
+     431.534
+    ],
+    [
+     42.6,
+     442.527,
+     87.241,
+     453.527
+    ],
+    [
+     42.6,
+     455.127,
+     357.4420000000001,
+     466.127
+    ],
+    [
+     42.6,
+     480.457,
+     271.7630000000001,
+     491.457
+    ],
+    [
+     42.6,
+     493.157,
+     87.87600000000002,
+     504.157
+    ],
+    [
+     49.7,
+     513.857,
+     543.0269949999997,
+     524.857
+    ],
+    [
+     49.7,
+     526.4570000000001,
+     545.791999,
+     537.457
+    ],
+    [
+     63.9,
+     539.157,
+     545.7750089999997,
+     550.157
+    ],
+    [
+     63.9,
+     551.7470000000001,
+     545.8470040000001,
+     562.7470000000001
+    ],
+    [
+     63.9,
+     564.4570000000001,
+     490.41400000000004,
+     575.457
+    ],
+    [
+     49.7,
+     577.057,
+     545.6889949999997,
+     588.057
+    ],
+    [
+     63.9,
+     589.7470000000001,
+     436.668,
+     600.7470000000001
+    ],
+    [
+     49.7,
+     602.357,
+     545.4909949999998,
+     613.357
+    ],
+    [
+     63.9,
+     614.9570000000001,
+     545.6229999999999,
+     625.957
+    ],
+    [
+     63.9,
+     627.657,
+     545.8350029999999,
+     638.657
+    ],
+    [
+     63.9,
+     640.2470000000001,
+     545.535,
+     651.2470000000001
+    ],
+    [
+     63.9,
+     652.977,
+     117.657,
+     663.977
+    ],
+    [
+     49.7,
+     665.577,
+     545.5129949999998,
+     676.577
+    ],
+    [
+     63.9,
+     678.32,
+     475.01000000000005,
+     690.32
+    ],
+    [
+     148.43,
+     695.056,
+     545.8859999999996,
+     703.056
+    ],
+    [
+     467.67,
+     704.2560000000001,
+     553.0180000000001,
+     712.2560000000001
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   22,
+   23
+  ],
+  "questoes": [
+   "P4012-Q022-ESP",
+   "P4012-Q023-ESP"
+  ],
+  "recortes": [
+   "revisao/T12_p16.jpg"
+  ]
+ }
+]

@@ -1,0 +1,83 @@
+[
+ {
+  "id": "P4096-T1",
+  "texto": "**QUÍMICA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     270.9,
+     57.28024000000005,
+     318.596,
+     68.28024000000005
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4096-Q011"
+  ],
+  "recortes": [
+   "revisao/T1_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4096-T2",
+  "texto": "**HISTÓRIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     270.9,
+     59.280200000000036,
+     323.59,
+     70.28020000000004
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4096-Q021"
+  ],
+  "recortes": [
+   "revisao/T2_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4096-T3",
+  "texto": "**GEOGRAFIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     261.6700000000001,
+     55.211020000000076,
+     328.34100000000007,
+     66.21102000000008
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4096-Q031"
+  ],
+  "recortes": [
+   "revisao/T3_p20.jpg"
+  ]
+ }
+]

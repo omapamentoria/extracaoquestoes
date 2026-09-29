@@ -1,0 +1,107 @@
+[
+ {
+  "id": "P4227-T1",
+  "texto": "**QUÍMICA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     271.1,
+     175.12700000000007,
+     318.79600000000005,
+     186.12700000000007
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4227-Q011"
+  ],
+  "recortes": [
+   "revisao/T1_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4227-T2",
+  "texto": "**FÍSICA – SSA 3**\n\n***Nas questões com respostas numéricas, considere o módulo da aceleração da gravidade como*** ***g = 10,0 m/s<sup>2</sup>; o módulo da carga do elétron como e = 1,6 x 10<sup>-19</sup>C; massa do próton m<sub>p</sub> = 1,7 x*** ***10<sup>-27</sup> kg; massa do elétron m<sub>e</sub> = 9,1 x 10<sup>-31</sup> kg. Utilize π = 3, constante de Planck h = 6,6 x 10<sup>-34</sup> Js*** ***ou 4,14 x 10<sup>-15</sup> eV, e a velocidade da luz como c = 3 x 10<sup>8</sup> m/s.***",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     256.08,
+     47.307000000000016,
+     336.0,
+     58.33999999999992
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     547.1480000000001,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     547.455004,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     547.496,
+     120.33999999999992
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     360.954997,
+     132.90700000000004
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4227-Q021"
+  ],
+  "recortes": [
+   "revisao/T2_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4227-T3",
+  "texto": "**HISTÓRIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     269.7,
+     48.49700000000007,
+     322.39,
+     59.49700000000007
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4227-Q031"
+  ],
+  "recortes": [
+   "revisao/T3_p16.jpg"
+  ]
+ }
+]
