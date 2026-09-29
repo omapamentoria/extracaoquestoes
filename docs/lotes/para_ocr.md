@@ -237,8 +237,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1359 — SIMULADO_UERJ    — só 6 questões em 12 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_BIOLOGIA_MD-1.pdf
 * P1356 — SIMULADO_UERJ    — só 6 questões em 16 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_QUIMICA_MD.pdf
 * P1355 — SIMULADO_UERJ    — só 6 questões em 12 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_BIOLOGIA_MD.pdf
-* P1323 — UERJ  regular  — 143 de 187 questões PENDENTES (símbolos sem tradução) — UERJ - QUÍMICA - DISCURSIVAS.pdf
-* P1322 — UERJ  regular  — 150 de 209 questões PENDENTES (símbolos sem tradução) — UERJ - BIOLOGIA - DISCURSIVAS.pdf
 * P0695 — DEMAIS 2016 regular  — texto: sem_texto (imagem) — Prova I- discursiva 2016.pdf
 * P0696 — DEMAIS 2016 regular  — texto: sem_texto (imagem) — Prova II- objetiva e Prova III- redação 2016.pdf
 * P0700 — DEMAIS 2017 regular  — texto: sem_texto (imagem) — Prova I- discursiva 2017.pdf
@@ -307,7 +305,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P0833 — DEMAIS 2023 2023.2  — só 3 questões (esperado ~54) — fatec2023_2_prova.pdf
 * P0771 — DEMAIS 2023 regular 2 — só 20 questões em 28 páginas — famerp 2023 - dia 02 prova.pdf
 * P1952 — DEMAIS 2022 regular  — só 14 questões em 30 páginas — UFU 2022 2º Fase.pdf
-* P1951 — DEMAIS 2022 regular  — 13 de 14 questões PENDENTES (símbolos sem tradução) — UFU 2022 2º Fase (Francês).pdf
 * P1253 — DEMAIS 2022 regular  — só 11 questões (esperado ~55) — prova tipo 1 - 2022.PDF
 * P0768 — DEMAIS 2022 regular  — só 20 questões em 28 páginas — Prova 2.pdf
 * P1933 — DEMAIS 2021 regular  — só 15 questões em 30 páginas — UFU 2021 2º Fase (Todos os cursos).pdf
