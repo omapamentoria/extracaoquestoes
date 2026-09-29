@@ -15,3 +15,5 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2526 — ENEM 2014 3ª aplicação 1 — texto: corrompido — ENEM - 2014 (3° apli.) - 1° dia - Prova branca.pdf
 * P2463 — ENEM 2021 PPL/reaplicação 2 — 89 de 90 questões PENDENTES (símbolos sem tradução) — enem 2021 PPL - 2 dia PROVA.pdf
 * P2460 — ENEM 2021 PPL/reaplicação 1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — enem 2021 PPL - 1 dia PROVA.pdf
+* P2579 — ENEM 2020 digital 2 — só 12 questões (esperado ~90) — enem2020_digital_2dia_prova_amarelo.pdf
+* P2576 — ENEM 2020 digital 1 — só 12 questões (esperado ~90) — enem2020_digital_1dia_prova_amarelo.pdf
