@@ -64,11 +64,9 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1636 — UERJ 2025 regular  — nenhuma questão — 1º exame qualificação 2025.pdf
 * P1217 — FUVEST 2025 regular 2 — só 10 questões em 44 páginas — fuvest2025_2fase_2dia_prova.pdf
 * P1215 — FUVEST 2025 regular 1 — 10 de 11 questões PENDENTES (símbolos sem tradução) — fuvest2025_2fase_1dia_prova.pdf
-* P1133 — FUVEST 2025 regular  — só 9 questões (esperado ~58) — fuvest2025_1fase_prova_V1.pdf
 * P2257 — UNICAMP 2024 regular 2 — nenhuma questão — unicamp2024_2fase_2dia.pdf
 * P2256 — UNICAMP 2024 regular 1 — só 5 questões em 17 páginas — unicamp2024_2fase_1dia_prova.pdf
 * P2076 — UNESP 2024 regular  — nenhuma questão — UNESP2024_2fase_prova.pdf
-* P2074 — UNESP 2024 regular  — nenhuma questão — UNESP2024_1fase_prova.pdf
 * P1632 — UERJ 2024 regular  — nenhuma questão — 2o_EQ 2024.pdf
 * P1628 — UERJ 2024 regular  — nenhuma questão — 1º exame prova.pdf
 * P1568 — UERJ 2024 regular  — só 6 questões em 16 páginas — Quimica prova UERJ 2024.pdf
@@ -85,7 +83,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2243 — UNICAMP 2023 regular 2 — nenhuma questão — 2fase_2dia_prova completa.pdf
 * P2242 — UNICAMP 2023 regular  — só 8 questões em 99 páginas — unicamp2023_1fase_vs2.pdf
 * P2071 — UNESP 2023 regular  — nenhuma questão — UNESP2023_2fase_prova.pdf
-* P2068 — UNESP 2023 regular  — nenhuma questão — UNESP2023_1fase_prova.pdf
 * P1625 — UERJ 2023 regular  — nenhuma questão — redacao_vestibular_2023.pdf
 * P1624 — UERJ 2023 regular  — nenhuma questão — prova_vetibular_2023.pdf
 * P1207 — FUVEST 2023 regular 2 — só 10 questões em 38 páginas — fuvest2023_2fase_2dia_prova.pdf
@@ -94,8 +91,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2239 — UNICAMP 2022 regular  — nenhuma questão — prova-humanas-artes.pdf
 * P2238 — UNICAMP 2022 regular  — nenhuma questão — prova-exatas-tecnologicas.pdf
 * P2237 — UNICAMP 2022 regular  — nenhuma questão — prova-ciencias-biologicas-saude.pdf
-* P2065 — UNESP 2022 regular  — só 4 questões (esperado ~90) — UNESP2022_1fase_prova.pdf
-* P2064 — UNESP 2022 regular  — só 4 questões (esperado ~90) — UNESP2022_1fase_prova (1).pdf
 * P1618 — UERJ 2022 2022.1  — nenhuma questão — UERJ - prova_2022.pdf
 * P1203 — FUVEST 2022 regular 2 — só 10 questões em 38 páginas — FUVEST 2022 - 2a fase - dia 2.pdf
 * P1123 — FUVEST 2022 regular  — só 9 questões (esperado ~67) — FUVEST 2022 - 1a fase - PROVA.pdf
