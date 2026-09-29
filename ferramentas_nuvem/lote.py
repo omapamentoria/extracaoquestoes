@@ -20,7 +20,7 @@ json.dump(sel, open(tmp, "w"), ensure_ascii=False)
 subprocess.run([sys.executable, os.path.join(R, "ferramentas_nuvem", "drive_sync.py"), "baixar", tmp, BM], check=True)
 
 # 2. extrair
-subprocess.run(["bash", os.path.expanduser("~/tmp_banco/roda.sh"), *pids], cwd=B, stdout=subprocess.DEVNULL)
+subprocess.run(["bash", os.path.join(B, "ferramentas", "roda2.sh"), *pids], cwd=B, stdout=subprocess.DEVNULL)
 
 # 3. triagem
 linhas = ["| Prova | Ano | Edição | Dia | Questões | Esperado | Faltando | Sem gabarito | PENDENTE | Com alerta | Glifos desconhecidos | Erro |",
