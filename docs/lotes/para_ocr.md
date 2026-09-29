@@ -186,3 +186,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2059 — UNESP 2020 regular  — nenhuma questão — Cópia de UNESP2020_1fase_prova.pdf
 * P1612 — UERJ 2020 2020.2  — nenhuma questão — UERJ 2020 - Segundo Exame.pdf
 * P1610 — UERJ 2020 2020.1  — nenhuma questão — UERJ 2020 .pdf
+* P1542 — UERJ 2020 regular  — só 6 questões em 16 páginas — UERJ 2020 - Exame Discursivo - Prova Qu¡mica.pdf
+* P1541 — UERJ 2020 regular  — só 6 questões em 16 páginas — UERJ 2020 - Exame Discursivo - Prova Portugus e Literatura.pdf
+* P1540 — UERJ 2020 regular  — só 6 questões em 16 páginas — UERJ 2020 - Exame Discursivo - Prova Matem tica.pdf
+* P1539 — UERJ 2020 regular  — só 6 questões em 32 páginas — UERJ 2020 - Exame Discursivo - Prova L¡ngua Estrangeira.pdf
+* P1536 — UERJ 2020 regular  — só 6 questões em 16 páginas — UERJ 2020 - Exame Discursivo - Prova F¡sica.pdf
+* P1535 — UERJ 2020 regular  — só 6 questões em 16 páginas — UERJ 2020 - Exame Discursivo - Prova Biologia.pdf
+* P1195 — FUVEST 2020 regular 2 — só 9 questões em 37 páginas — FUVEST 2020 - 2a fase -2o dia.pdf
