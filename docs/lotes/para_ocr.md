@@ -403,10 +403,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P0795 — DEMAIS 2012 regular  — só 19 questões (esperado ~53) — FATEC 2012_1.pdf
 * P0793 — DEMAIS 2011 regular  — só 19 questões (esperado ~54) — FATEC 2011_2.pdf
 * P0789 — DEMAIS 2010 regular  — só 19 questões (esperado ~49) — FATEC 2010_2.pdf
-* P1991 — DEMAIS 2007 2007.1  — 40 de 40 questões PENDENTES (símbolos sem tradução) — vestibular_2007_1_caderno_02.pdf
-* P1990 — DEMAIS 2007 2007.1  — 50 de 50 questões PENDENTES (símbolos sem tradução) — vestibular_2007_1_caderno_01.pdf
-* P1987 — DEMAIS 2006 2006.2  — 55 de 55 questões PENDENTES (símbolos sem tradução) — vestibular_2006_2_caderno_2.pdf
-* P1986 — DEMAIS 2006 2006.2  — 26 de 26 questões PENDENTES (símbolos sem tradução) — vestibular_2006_2_caderno_1.pdf
 * P1983 — DEMAIS 2006 2006.1  — só 13 questões (esperado ~40) — caderno_2_2006_1.pdf
 * P1982 — DEMAIS 2006 2006.1  — só 7 questões (esperado ~49) — caderno_1_2006_1.pdf
 * P2579 — ENEM 2020 digital 2 — só 12 questões (esperado ~90) — enem2020_digital_2dia_prova_amarelo.pdf
