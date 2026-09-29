@@ -272,3 +272,11 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2145 — UNICAMP 2014 regular 3 — nenhuma questão — 3º dia 2ª fase.pdf
 * P2144 — UNICAMP 2014 regular 2 — nenhuma questão — 2º dia 2ª fase.pdf
 * P2143 — UNICAMP 2014 regular 1 — nenhuma questão — 1º dia 2ª fase.pdf
+* P1582 — UERJ 2014 regular  — 21 de 22 questões PENDENTES (símbolos sem tradução) — 1º Exame Qualificação 2014.pdf
+* P1423 — UERJ 2014 regular  — só 5 questões em 16 páginas — UERJ 2014 - Exame Discursivo - Prova Qu¡mica.pdf
+* P1422 — UERJ 2014 regular  — só 5 questões em 16 páginas — UERJ 2014 - Exame Discursivo - Prova Portugus e Literatura.pdf
+* P1421 — UERJ 2014 regular  — só 5 questões em 16 páginas — UERJ 2014 - Exame Discursivo - Prova Matem tica.pdf
+* P1420 — UERJ 2014 regular  — só 5 questões em 8 páginas — UERJ 2014 - Exame Discursivo - Prova L¡ngua Portuguesa Instrumental com RedaÆo.pdf
+* P1419 — UERJ 2014 regular  — só 5 questões em 24 páginas — UERJ 2014 - Exame Discursivo - Prova L¡ngua Estrangeira.pdf
+* P1417 — UERJ 2014 regular  — só 5 questões em 16 páginas — UERJ 2014 - Exame Discursivo - Prova Geografia.pdf
+* P1416 — UERJ 2014 regular  — só 5 questões em 16 páginas — UERJ 2014 - Exame Discursivo - Prova F¡sica.pdf
