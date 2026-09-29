@@ -318,3 +318,9 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2109 — UNICAMP 2011 regular 3 — nenhuma questão — Provas 3º dia.pdf
 * P2108 — UNICAMP 2011 regular 2 — nenhuma questão — Provas 2º dia.pdf
 * P2107 — UNICAMP 2011 regular  — nenhuma questão — Provas 1ª dia.pdf
+* P1144 — FUVEST 2011 regular 3 — só 10 questões em 38 páginas — FUVEST 2011 - 2a fase - 3o dia.pdf
+* P1143 — FUVEST 2011 regular 2 — 10 de 10 questões PENDENTES (símbolos sem tradução) — FUVEST 2011 - 2a fase - 2o dia.pdf
+* P1090 — FUVEST 2011 regular  — nenhuma questão — FUVEST 2011- 1a fase - PROVA.pdf
+* P1138 — FUVEST 2010 regular  — só 9 questões em 38 páginas — FUVEST 2010 -2a fase - prova 3.pdf
+* P1137 — FUVEST 2010 regular  — só 9 questões (esperado ~20) — FUVEST 2010 -2a fase - prova 2.pdf
+* P1087 — FUVEST 2010 regular  — só 3 questões (esperado ~65) — FUVEST 2010 - 1a fase - PROVA.pdf
