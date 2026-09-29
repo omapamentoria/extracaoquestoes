@@ -434,3 +434,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1245 — DEMAIS 2020 regular 2 — nenhuma questão — historia 2020.PDF
 * P1244 — DEMAIS 2020 regular 2 — nenhuma questão — fisica 2020.PDF
 * P1243 — DEMAIS 2020 regular 2 — nenhuma questão — filosofia 2020.PDF
+* P1241 — DEMAIS 2020 regular 2 — nenhuma questão — arte 2020.PDF
+* P1239 — DEMAIS 2020 regular 1 — nenhuma questão — prova tipo 1 - 2020.PDF
+* P0828 — DEMAIS 2020 regular  — nenhuma questão — FATEC 2020_2, 2021_1 E 2021_2.pdf
+* P0827 — DEMAIS 2020 regular  — só 18 questões (esperado ~54) — FATEC 2020_1.pdf
+* P0760 — DEMAIS 2020 regular  — nenhuma questão — Famerp 2020.pdf
+* P0758 — DEMAIS 2020 regular  — só 20 questões em 28 páginas — Famerp - Prova Dissertativa 2020.pdf
+* P2286 — DEMAIS 2019 regular  — nenhuma questão — Unifesp - Redação CC 2019.pdf
