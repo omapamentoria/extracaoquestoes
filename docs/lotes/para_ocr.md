@@ -263,3 +263,12 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1439 — UERJ 2015 regular  — só 5 questões em 24 páginas — UERJ 2015 - Exame Discursivo - Prova L¡ngua Estrangeira.pdf
 * P1438 — UERJ 2015 regular  — só 5 questões em 16 páginas — UERJ 2015 - Exame Discursivo - Prova Hist¢ria.pdf
 * P1437 — UERJ 2015 regular  — só 10 questões em 16 páginas — UERJ 2015 - Exame Discursivo - Prova Geografia.pdf
+* P1436 — UERJ 2015 regular  — só 5 questões em 16 páginas — UERJ 2015 - Exame Discursivo - Prova F¡sica.pdf
+* P1435 — UERJ 2015 regular  — só 5 questões em 16 páginas — UERJ 2015 - Exame Discursivo - Prova Biologia.pdf
+* P1168 — FUVEST 2015 regular 2 — só 14 questões em 38 páginas — FUVEST 2015 - 2o dia - 3o dia.pdf
+* P1167 — FUVEST 2015 regular 2 — 17 de 17 questões PENDENTES (símbolos sem tradução) — FUVEST 2015 - 2o dia - 2o dia.pdf
+* P1166 — FUVEST 2015 regular 1 — 14 de 14 questões PENDENTES (símbolos sem tradução) — FUVEST 2015 - 2o dia - 1o dia.pdf
+* P1101 — FUVEST 2015 regular  — só 10 questões (esperado ~37) — FUVEST 2015 - 1a fase - PROVA.pdf
+* P2145 — UNICAMP 2014 regular 3 — nenhuma questão — 3º dia 2ª fase.pdf
+* P2144 — UNICAMP 2014 regular 2 — nenhuma questão — 2º dia 2ª fase.pdf
+* P2143 — UNICAMP 2014 regular 1 — nenhuma questão — 1º dia 2ª fase.pdf
