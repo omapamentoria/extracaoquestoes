@@ -129,3 +129,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2265 — UNICAMP 2025 regular 2 — nenhuma questão — unicamp2025_2fase_2dia_prova-3.pdf
 * P2264 — UNICAMP 2025 regular 2 — nenhuma questão — unicamp2025_2fase_2dia_prova-2.pdf
 * P2263 — UNICAMP 2025 regular 2 — nenhuma questão — unicamp2025_2fase_2dia_prova-1.pdf
+* P2262 — UNICAMP 2025 regular 1 — só 5 questões em 17 páginas — unicamp2025_2fase_1dia_prova.pdf
+* P1636 — UERJ 2025 regular  — nenhuma questão — 1º exame qualificação 2025.pdf
+* P1217 — FUVEST 2025 regular 2 — só 10 questões em 44 páginas — fuvest2025_2fase_2dia_prova.pdf
