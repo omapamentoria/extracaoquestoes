@@ -118,6 +118,15 @@ Ainda abertos:
 * Célula de tabela que fica fora do recorte (ENEM PPL 2023 Q176, "Matemática" da Tabela II) vira texto solto e depois é apagada da imagem pelo branqueamento: a imagem perde a célula. Sempre gera o alerta "texto curto solto junto da imagem" — conferir essas questões. Na Q176 as tabelas foram digitadas (transcrição)
 * Transcritas por visão no lote 1: ENEM 2024 d2 Q106 (setas conferidas), Q139, Q150; ENEM 2022 d2 Q108, Q111, Q150, Q175; ENEM PPL 2023 d2 Q141, Q173, Q176
 
+## Lista de OCR: repescagem e OCR (29/09/2026, extrator v139)
+
+* Grupos das 159 provas "outras": `docs/lotes/outras_grupos.md`. 108 recuperadas (regras novas de cabeçalho: "QUESTÃO N" sem negrito, número grande solto da UERJ/USS, número + texto na mesma linha)
+* OCR (tesseract, português): `ferramentas_nuvem/ocr_pdf.py` gera `~/mnt/BM/_ocr/<PID>.pdf`; o 06 lê esse arquivo quando ele existe. 22 provas recuperadas por OCR (9 das 46 de texto ruim + 13 de camada de texto inútil, lista em `docs/lotes/ocr_extra.txt`). Toda questão lida por OCR tem alerta
+* As outras provas de OCR ficaram na lista por terem mais da metade das questões PENDENTES (alternativas não separadas) ou o número da questão em caixa preta (o OCR não lê): próximo passo é visão
+* Discursivas: 40 das "outras" (UEL 2ª fase por disciplina, FAMERP dia 2, UERJ discursiva) entraram no formato discursivo, com alerta. As 23 discursivas de texto ruim ainda não passaram pelo OCR
+* Página "Revisão de Alertas MAPA" (https://claude.ai/artifact/Qb2GDy8uJShaYgm5mchRfp): 3.231 questões com alerta das 117 provas recuperadas. As marcações ("certa"/"tem erro" + nota) ficam na coleção `revisao` do banco de dados da página (o Claude lê com ArtifactData). Gerada por `ferramentas_nuvem/rev_alertas.py`
+* Arquivos que não são a prova: FATEC 2020_2/2021 (P0828), Famerp 2020 (P0760), unemat.pdf (P2037), ENEM 2007 (P2408): 1 página só
+
 ## Decisões em aberto
 
 * ENCCEJA: incluir ou não? (metade é de ensino fundamental; no catálogo, prioridade 9 para médio e 10 para fundamental)

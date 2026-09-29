@@ -1,31 +1,31 @@
 # Provas "outras" da lista de OCR: grupos por tipo de problema
 
-159 provas que não eram de texto ruim (29/09/2026). Recuperadas agora: **95**; ainda na lista: **64**.
+159 provas que não eram de texto ruim (29/09/2026). Recuperadas agora: **108**; ainda na lista: **51**.
 Extrator v139 (regras condicionais; regressão das 9 provas-base sem nenhuma mudança). Rodado com `python3 ferramentas_nuvem/refaz_lista.py` (e `refaz_lista.py ocr` para o 1º grupo).
 
 ## Camada de texto inútil (página sem texto, OCR embutido ruim, fonte renumerada, questão como imagem)
 
-23 provas; recuperadas 0. Tratadas como texto ruim: OCR do tesseract (`ocr_pdf.py`) e extração no modo OCR, com alerta em toda questão.
+23 provas; recuperadas 13. Tratadas como texto ruim: OCR do tesseract (`ocr_pdf.py`) e extração no modo OCR, com alerta em toda questão.
 
-* ✘ P2463 — ENEM 2021 — enem 2021 PPL - 2 dia PROVA.pdf
+* ✔ P2463 — ENEM 2021 — enem 2021 PPL - 2 dia PROVA.pdf
 * ✘ P2460 — ENEM 2021 — enem 2021 PPL - 1 dia PROVA.pdf
 * ✘ P2421 — ENEM 2010 — ENEM PPL - 2010 (2°apli) - 1° dia - Prova azul.pdf
 * ✘ P2863 — ENEM 2026 — 3° SOMOS - 2026 - Dia 02.pdf
-* ✘ P3504 — ENEM 2025 — 2º Simulado SAS Enem 2025- prova 2º Dia.pdf
-* ✘ P3498 — ENEM 2025 — 1º SAS 2025 - D2 .pdf
-* ✘ P3497 — ENEM 2025 — 1º SAS 2025 - D1.pdf
-* ✘ P2976 — ENEM 2025 — 1º SOMOS 2025 - D2.pdf
-* ✘ P3489 — ENEM 2024 — 5º SAS 2024 - prova d2 - @wagnernamed.pdf.pdf
-* ✘ P3488 — ENEM 2024 — 5º SAS 2024 - prova d1 - @wagnernamed.pdf.pdf
-* ✘ P3484 — ENEM 2024 — 4º  SAS 2024 - prova d1 - @wagnernamed.pdf
+* ✔ P3504 — ENEM 2025 — 2º Simulado SAS Enem 2025- prova 2º Dia.pdf
+* ✔ P3498 — ENEM 2025 — 1º SAS 2025 - D2 .pdf
+* ✔ P3497 — ENEM 2025 — 1º SAS 2025 - D1.pdf
+* ✔ P2976 — ENEM 2025 — 1º SOMOS 2025 - D2.pdf
+* ✔ P3489 — ENEM 2024 — 5º SAS 2024 - prova d2 - @wagnernamed.pdf.pdf
+* ✔ P3488 — ENEM 2024 — 5º SAS 2024 - prova d1 - @wagnernamed.pdf.pdf
+* ✔ P3484 — ENEM 2024 — 4º  SAS 2024 - prova d1 - @wagnernamed.pdf
 * ✘ P3081 — ENEM 2024 — 2º Poliedro 2024 - prova d2 - @wagnernamed.pdf
 * ✘ P3466 — ENEM 2023 — Prova - Dia 02- SAS 06_2023.pdf
-* ✘ P3451 — ENEM 2023 — 3 SAS_2023  - DIA 1.pdf
-* ✘ P3448 — ENEM 2023 — Dia 2 - sas 2_2023.pdf.pdf
-* ✘ P3447 — ENEM 2023 — Dia 1 - sas 2_2023.pdf
+* ✔ P3451 — ENEM 2023 — 3 SAS_2023  - DIA 1.pdf
+* ✔ P3448 — ENEM 2023 — Dia 2 - sas 2_2023.pdf.pdf
+* ✔ P3447 — ENEM 2023 — Dia 1 - sas 2_2023.pdf
 * ✘ P3446 — ENEM 2023 — 1 SAS 2023 - DIA 2 PROVA.pdf
-* ✘ P3444 — ENEM 2023 — 1 SAS 2023 - DIA 1 PROVA.pdf
-* ✘ P1135 — FUVEST 2026 — fuvest 2026 - 1 fase prova V1.pdf
+* ✔ P3444 — ENEM 2023 — 1 SAS 2023 - DIA 1 PROVA.pdf
+* ✔ P1135 — FUVEST 2026 — fuvest 2026 - 1 fase prova V1.pdf
 * ✘ P1099 — FUVEST 2014 — FUVEST 2014 - 1a fase - PROVA.pdf
 * ✘ P2423 — ENEM 2010 — ENEM PPL - 2010 (2°apli) - 2° dia - Prova azul.pdf
 * ✘ P2489 — ENEM 2009 — ENEM - 2009 (F) - 2°dia - Prova amarela.pdf

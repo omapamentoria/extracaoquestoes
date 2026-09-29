@@ -20,13 +20,14 @@ def eh_disc(pid):   # "Prova II- objetiva e Prova III- redacao" e objetiva
     return bool(DISC.search(t)) and not re.search(r"(?i)objetiva", CAT[pid].get("arquivo") or "")
 MODO_DISC = len(sys.argv) > 1 and sys.argv[1] == "disc"
 MODO_OCR = len(sys.argv) > 1 and sys.argv[1] == "ocr"
-NOME = "disc" if MODO_DISC else "ocr" if MODO_OCR else "repesca"
+NOME = os.environ.get("LOTE") or ("disc" if MODO_DISC else "ocr" if MODO_OCR else "repesca")
 _ex = os.path.join(R, "docs", "lotes", "ocr_extra.txt")
 OCR_EXTRA = set(re.findall(r"P\d{4}", open(_ex).read())) if os.path.exists(_ex) else set()
 def ruim(l, pid): return "texto:" in l or "embaralhado" in l or pid in OCR_EXTRA
 pids = [m.group(1) for l in linhas for m in [re.match(r"\* (P\d{4}) — ", l)] if m and ruim(l, m.group(1)) == MODO_OCR
         and CAT.get(m.group(1), {}).get("grupo") in DEST
         and eh_disc(m.group(1)) == MODO_DISC]
+if len(sys.argv) > 2: pids = [p for p in pids if p in sys.argv[2:]]   # retomar so estas (ex.: depois de a maquina reiniciar)
 print(len(pids), "provas para tentar de novo", flush=True)
 for i in range(0, len(pids), 10):
     lote = pids[i:i + 10]

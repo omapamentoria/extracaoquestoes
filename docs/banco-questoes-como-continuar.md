@@ -97,6 +97,14 @@ Leia isto antes de qualquer sessão de extração. Leia também:
   * As chaves são por questão (`Q038`, `Q020-ING`), com os campos `enunciado`, `fontes`, `alternativas` {A..E} e `nota`.
   * O extrator aplica a transcrição e deixa um alerta "conferir".
 
+## Extrator (`06_extrair.py`), v139 (29/09/2026)
+
+* Estilos de cabeçalho novos, que só vencem se formam sequência maior que os antigos: `questao_nb` ("QUESTÃO 4" sem negrito; "Questão 92 - Ciências…" vira área), `grande` (número grande solto; rótulo "Questão" ao lado sai da linha) e `lead` ("08 Um funcionário…", número em negrito ou maior). Dígitos separados pela fonte ("9 2") são juntados.
+* Modo OCR: se existe `~/mnt/BM/_ocr/<PID>.pdf` (`ferramentas_nuvem/ocr_pdf.py PID...`), ele é lido no lugar do PDF original. Fundo do papel limpo, bolinhas de alternativa do ENEM achadas na imagem (`<PID>.bolhas.json`), negrito medido pela espessura do traço, faixa das linhas de texto fora das figuras; toda questão recebe alerta de OCR. Nada disso age em prova sem o arquivo de OCR.
+* `refaz_lista.py ocr [PID...]` (e `LOTE=nome` para não sobrescrever relatórios): OCR + extração das provas de texto ruim e de `docs/lotes/ocr_extra.txt`.
+* Página de revisão das questões com alerta: `python3 ferramentas_nuvem/rev_alertas.py <pasta> PID...` (recortes e figuras embutidos em `dados/<PID>.json`; publicar em partes de até ~60 MB).
+* Base de regressão: se `~/tmp_banco/base_*.json` não existe (sessão nova), rodar as 9 provas-base com o código do último commit e `snap.py` ANTES de mexer.
+
 ## Extrator (`06_extrair.py`), v138
 
 ### Novidades da v138 (Piloto 2, 2ª rodada)
