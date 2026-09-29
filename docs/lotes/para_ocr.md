@@ -136,7 +136,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2190 — UNICAMP 2018 regular  — nenhuma questão — matgeohis.pdf
 * P2189 — UNICAMP 2018 regular  — só 1 questões em 21 páginas — fisbioqui.pdf
 * P2188 — UNICAMP 2018 regular  — 10 de 10 questões PENDENTES (símbolos sem tradução) — ed_abert_uncisal.pdf
-* P2055 — UNESP 2018 regular  — nenhuma questão — Cópia de UNESP2018_2_1fase_prova.pdf
 * P1599 — UERJ 2018 regular  — só 3 questões em 40 páginas — 2º Exame Qualificação 2018.pdf
 * P1598 — UERJ 2018 regular  — nenhuma questão — 1º Exame Qualificação 2018.pdf
 * P1502 — UERJ 2018 regular  — só 6 questões em 16 páginas — UERJ 2018 - Exame Discursivo - Prova Qu¡mica.pdf
