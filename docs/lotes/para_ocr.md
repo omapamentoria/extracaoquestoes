@@ -79,3 +79,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2835 — SIMULADO_ENEM 2022  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 2- Segundo Dia.pdf
 * P2833 — SIMULADO_ENEM 2022  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 1-Primeiro Dia.pdf
 * P2831 — SIMULADO_ENEM 2022  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 1- Segundo Dia.pdf
+* P2829 — SIMULADO_ENEM 2021   — 90 de 90 questões PENDENTES (símbolos sem tradução) — Simulado_ENEM2_RJ_BH_JULHO_2021_MD.pdf
+* P2828 — SIMULADO_ENEM 2021  1 — 92 de 92 questões PENDENTES (símbolos sem tradução) — SimuladoENEM1ºDia_JULHO_RJ_BH_MD.pdf
+* P2825 — SIMULADO_ENEM 2021   — 90 de 90 questões PENDENTES (símbolos sem tradução) — Simulado_ENEM2_JULHO_2021_MD.pdf
+* P2824 — SIMULADO_ENEM 2021  1 — 92 de 92 questões PENDENTES (símbolos sem tradução) — SimuladoENEM1ºDia_MD.pdf
+* P2821 — SIMULADO_ENEM 2021   — 90 de 90 questões PENDENTES (símbolos sem tradução) — Simulado_ENEM2_MAIO_2021_MD.pdf
+* P2820 — SIMULADO_ENEM 2021  1 — 92 de 92 questões PENDENTES (símbolos sem tradução) — SimuladoENEM1ºDia_MAIO_BH_RJ_2021_MD.pdf
+* P2817 — SIMULADO_ENEM 2021   — 89 de 89 questões PENDENTES (símbolos sem tradução) — SimuENEM2_ABRIL_2021.pdf
