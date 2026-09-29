@@ -97,19 +97,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2156 — UNICAMP 2016 regular  — nenhuma questão — Prova de História, prova de Matemática e prova de Geografia - 2ª fase Unicamp 2016.pdf
 * P1591 — UERJ 2016 regular  — nenhuma questão — 2º Exame Qualificação 2016.pdf
 * P1590 — UERJ 2016 regular  — nenhuma questão — 1º Exame Qualificação 2016.pdf
-* P1458 — UERJ 2016 regular  — só 5 questões em 16 páginas — UERJ 2016 - Exame Discursivo - Prova Hist¢ria.pdf
-* P1457 — UERJ 2016 regular  — só 5 questões em 16 páginas — UERJ 2016 - Exame Discursivo - Prova Geografia.pdf
-* P1456 — UERJ 2016 regular  — só 5 questões em 16 páginas — UERJ 2016 - Exame Discursivo - Prova F¡sica.pdf
-* P1455 — UERJ 2016 regular  — só 5 questões em 16 páginas — UERJ 2016 - Exame Discursivo - Prova Biologia.pdf
 * P1174 — FUVEST 2016 regular 3 — erro no extrator — FUVEST 2016 - 2a fase - 3o dia.pdf
 * P1105 — FUVEST 2016 regular  — erro no extrator — FUVEST 2016 - 1a fase -PROVA.pdf
 * P1587 — UERJ 2015 regular  — só 5 questões em 40 páginas — 2º Exame Qualificação 2015.pdf
 * P1586 — UERJ 2015 regular  — nenhuma questão — 1º Exame Qualificação 2015.pdf
-* P1443 — UERJ 2015 regular  — só 5 questões em 16 páginas — UERJ 2015 - Exame Discursivo - Prova Qu¡mica.pdf
-* P1442 — UERJ 2015 regular  — só 5 questões em 16 páginas — UERJ 2015 - Exame Discursivo - Prova Portugus e Literatura.pdf
-* P1441 — UERJ 2015 regular  — só 5 questões em 16 páginas — UERJ 2015 - Exame Discursivo - Prova Matem tica.pdf
-* P1440 — UERJ 2015 regular  — só 5 questões em 8 páginas — UERJ 2015 - Exame Discursivo - Prova L¡ngua Portuguesa Instrumental com RedaÆo.pdf
-* P1439 — UERJ 2015 regular  — só 5 questões em 24 páginas — UERJ 2015 - Exame Discursivo - Prova L¡ngua Estrangeira.pdf
 * P1438 — UERJ 2015 regular  — só 5 questões em 16 páginas — UERJ 2015 - Exame Discursivo - Prova Hist¢ria.pdf
 * P1437 — UERJ 2015 regular  — só 10 questões em 16 páginas — UERJ 2015 - Exame Discursivo - Prova Geografia.pdf
 * P1436 — UERJ 2015 regular  — só 5 questões em 16 páginas — UERJ 2015 - Exame Discursivo - Prova F¡sica.pdf
