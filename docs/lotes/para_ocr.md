@@ -140,3 +140,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2074 — UNESP 2024 regular  — nenhuma questão — UNESP2024_1fase_prova.pdf
 * P1632 — UERJ 2024 regular  — nenhuma questão — 2o_EQ 2024.pdf
 * P1628 — UERJ 2024 regular  — nenhuma questão — 1º exame prova.pdf
+* P1568 — UERJ 2024 regular  — só 6 questões em 16 páginas — Quimica prova UERJ 2024.pdf
+* P1566 — UERJ 2024 regular  — só 6 questões em 16 páginas — Matematica prova UERJ 2024.pdf
+* P1564 — UERJ 2024 regular  — só 6 questões em 16 páginas — LPL prova UERJ 2024.pdf
+* P1560 — UERJ 2024 regular  — só 6 questões em 16 páginas — Geografia prova UERJ 2024.pdf
+* P1558 — UERJ 2024 regular  — só 6 questões em 16 páginas — Fisica prova UERJ 2024.pdf
+* P1556 — UERJ 2024 regular  — só 6 questões em 16 páginas — Biologia prova UERJ 2024.pdf
+* P1226 — SIMULADO_FUVEST 2024   — 9 de 10 questões PENDENTES (símbolos sem tradução) — 2ªFASE-POLIEDRO1.pdf
