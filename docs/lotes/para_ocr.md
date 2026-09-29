@@ -13,3 +13,5 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2521 — ENEM 2014 regular 1 — texto: sem_texto (imagem) — ENEM - 2014 - 1° dia - Prova azul.pdf
 * P2525 — ENEM 2014 regular 2 — texto: sem_texto (imagem) — ENEM - 2014 - 2° dia - Prova azul.pdf
 * P2526 — ENEM 2014 3ª aplicação 1 — texto: corrompido — ENEM - 2014 (3° apli.) - 1° dia - Prova branca.pdf
+* P2463 — ENEM 2021 PPL/reaplicação 2 — 89 de 90 questões PENDENTES (símbolos sem tradução) — enem 2021 PPL - 2 dia PROVA.pdf
+* P2460 — ENEM 2021 PPL/reaplicação 1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — enem 2021 PPL - 1 dia PROVA.pdf
