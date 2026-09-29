@@ -109,7 +109,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2107 — UNICAMP 2011 regular  — nenhuma questão — Provas 1ª dia.pdf
 * P1137 — FUVEST 2010 regular  — só 9 questões (esperado ~20) — FUVEST 2010 -2a fase - prova 2.pdf
 * P1374 — SIMULADO_UERJ    — nenhuma questão — simulado uerj.pdf
-* P1372 — SIMULADO_UERJ    — nenhuma questão — UERJ 2 SIMULADO.pdf
 * P1370 — SIMULADO_UERJ    — só 3 questões (esperado ~7) — Simulado UERJ.pdf
 * P0695 — DEMAIS 2016 regular  — texto: sem_texto (imagem) — Prova I- discursiva 2016.pdf
 * P0696 — DEMAIS 2016 regular  — texto: sem_texto (imagem) — Prova II- objetiva e Prova III- redação 2016.pdf
@@ -130,13 +129,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1874 — DEMAIS 2019 regular 1 — texto: parcialmente corrompido — UFU 2019 1º Dia 2º Fase (Francês).pdf
 * P1306 — DEMAIS 2026 regular 2 — nenhuma questão — sociologia 2026.PDF
 * P1305 — DEMAIS 2026 regular 2 — nenhuma questão — redação 2026.PDF
-* P1304 — DEMAIS 2026 regular 2 — nenhuma questão — quimica 2026.PDF
-* P1303 — DEMAIS 2026 regular 2 — nenhuma questão — lingua portuguesa e literatura 2026.PDF
-* P1302 — DEMAIS 2026 regular 2 — nenhuma questão — historia 2026.PDF
-* P1301 — DEMAIS 2026 regular 2 — nenhuma questão — fisica 2026.PDF
-* P1300 — DEMAIS 2026 regular 2 — nenhuma questão — filosofia 2026.PDF
-* P1299 — DEMAIS 2026 regular 2 — nenhuma questão — biologia 2026.PDF
-* P1298 — DEMAIS 2026 regular 2 — nenhuma questão — artes 2026.PDF
 * P1297 — DEMAIS 2026 regular 2 — nenhuma questão — Matemática 2026.PDF
 * P1294 — DEMAIS 2026 regular 1 — só 6 questões (esperado ~36) — prova-tipo-1-ingles-uel-2026-dia-1.PDF
 * P1293 — DEMAIS 2026 regular 1 — só 6 questões (esperado ~41) — prova-espanhol-uel-2026-dia-1.PDF
