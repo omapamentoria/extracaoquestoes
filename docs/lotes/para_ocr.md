@@ -18,3 +18,13 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2619 — ENEM 2025 regular 2 — só 8 questões (esperado ~90) — enem 2025 - DIA 02 - prova verde.pdf
 * P2616 — ENEM 2025 regular 1 — só 9 questões (esperado ~90) — enem 2025 - DIA 01 - prova verde.pdf
 * P2463 — ENEM 2021 PPL/reaplicação 2 — só 8 questões (esperado ~90) — enem 2021 PPL - 2 dia PROVA.pdf
+* P2460 — ENEM 2021 PPL/reaplicação 1 — só 9 questões (esperado ~90) — enem 2021 PPL - 1 dia PROVA.pdf
+* P2583 — ENEM 2020 impresso 2 — só 8 questões (esperado ~90) — enem2020_2dia_prova_amarelo.pdf
+* P2581 — ENEM 2020 impresso 1 — só 4 questões (esperado ~90) — enem2020_1dia_prova_amarelo.pdf
+* P2579 — ENEM 2020 digital 2 — só 12 questões (esperado ~90) — enem2020_digital_2dia_prova_amarelo.pdf
+* P2576 — ENEM 2020 digital 1 — só 12 questões (esperado ~90) — enem2020_digital_1dia_prova_amarelo.pdf
+* P2459 — ENEM 2020 PPL/reaplicação 2 — só 8 questões (esperado ~90) — 2020_PV_reaplicacao_PPL_D2_CD5.pdf
+* P2458 — ENEM 2020 PPL/reaplicação 1 — só 4 questões (esperado ~90) — 2020_PV_reaplicacao_PPL_D1_CD2.pdf
+* P3670 — ENEM 2019 regular 2 — só 8 questões (esperado ~90) — caderno_de_questoes_2_dia_caderno_8_rosa_aplicacao_regular.pdf
+* P3669 — ENEM 2019 regular 1 — só 9 questões (esperado ~90) — caderno_de_questoes_1_dia_caderno_1_azul_aplicacao_regular.pdf
+* P2453 — ENEM 2019 PPL/reaplicação 2 — só 8 questões (esperado ~90) — BAIXA_PPL_2_DIA_CADERNO_7_AZUL.pdf
