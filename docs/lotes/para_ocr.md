@@ -65,3 +65,7 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P3081 — SIMULADO_ENEM 2024  2 — 46 de 90 questões PENDENTES (símbolos sem tradução) — 2º Poliedro 2024 - prova d2 - @wagnernamed.pdf
 * P3466 — SIMULADO_ENEM 2023  2 — 51 de 90 questões PENDENTES (símbolos sem tradução) — Prova - Dia 02- SAS 06_2023.pdf
 * P3451 — SIMULADO_ENEM 2023  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 3 SAS_2023  - DIA 1.pdf
+* P3448 — SIMULADO_ENEM 2023  2 — 95 de 95 questões PENDENTES (símbolos sem tradução) — Dia 2 - sas 2_2023.pdf.pdf
+* P3447 — SIMULADO_ENEM 2023  1 — 90 de 90 questões PENDENTES (símbolos sem tradução) — Dia 1 - sas 2_2023.pdf
+* P3446 — SIMULADO_ENEM 2023  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 1 SAS 2023 - DIA 2 PROVA.pdf
+* P3444 — SIMULADO_ENEM 2023  1 — 95 de 95 questões PENDENTES (símbolos sem tradução) — 1 SAS 2023 - DIA 1 PROVA.pdf
