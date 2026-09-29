@@ -49,3 +49,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P3313 — SIMULADO_ENEM 2024  2 — texto: sem_texto (imagem) — 6º Bernoulli 2024 - prova dia 02 - @wagnernamed.pdf
 * P4023 — SIMULADO_SSA   1 — texto: sem_texto (imagem) — 1 dIa SAS SSA-Simulado 1.pdf
 * P2863 — SIMULADO_ENEM 2026  2 — nenhuma questão — 3° SOMOS - 2026 - Dia 02.pdf
+* P3504 — SIMULADO_ENEM 2025  2 — só 10 questões (esperado ~84) — 2º Simulado SAS Enem 2025- prova 2º Dia.pdf
+* P3498 — SIMULADO_ENEM 2025  2 — nenhuma questão — 1º SAS 2025 - D2 .pdf
+* P3497 — SIMULADO_ENEM 2025  1 — só 4 questões (esperado ~89) — 1º SAS 2025 - D1.pdf
