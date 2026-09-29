@@ -97,3 +97,9 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2796 — SIMULADO_ENEM 2020  1 — 91 de 91 questões PENDENTES (símbolos sem tradução) — SimuladoENEM1ºDia_JUNHO_FINAL_MD.pdf
 * P2793 — SIMULADO_ENEM 2020   — 90 de 90 questões PENDENTES (símbolos sem tradução) — Simulado_ENEM2_ABRIL_2020_MD.pdf
 * P2790 — SIMULADO_ENEM 2020   — 91 de 91 questões PENDENTES (símbolos sem tradução) — 1. Simulado_ENEM1_ABRIL_2020_MD.pdf
+* P2789 — SIMULADO_ENEM 2019  2 — 89 de 90 questões PENDENTES (símbolos sem tradução) — 6- Segundo dia.pdf
+* P2787 — SIMULADO_ENEM 2019  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 5- Segundo dia.pdf
+* P2786 — SIMULADO_ENEM 2019  1 — 94 de 94 questões PENDENTES (símbolos sem tradução) — 5- Primeiro dia.pdf
+* P2783 — SIMULADO_ENEM 2019  1 — 93 de 93 questões PENDENTES (símbolos sem tradução) — 4-Primeiro dia.pdf
+* P2782 — SIMULADO_ENEM 2019  2 — 90 de 90 questões PENDENTES (símbolos sem tradução) — 4- Segundo dia.pdf
+* P2779 — SIMULADO_ENEM 2019  1 — 94 de 94 questões PENDENTES (símbolos sem tradução) — 3-Primeiro dia.pdf
