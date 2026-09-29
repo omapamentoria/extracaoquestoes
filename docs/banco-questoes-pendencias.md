@@ -27,7 +27,7 @@ Atualizado em 28/09/2026. Para incluir um item, é só pedir ao Claude.
 * Páginas do Piloto 2, versão nova ("Piloto 2 ENEM e SSA", "Piloto 2 Simulados", "Piloto 2 FUVEST e UNICAMP"): conferir e mandar ao Claude o número das questões com erro
 * Simulado SAS 2014: o "Segundo dia" do Simu 01 é o mesmo arquivo que o "Primeiro dia" do Simu 02. Um dos dois está trocado
 * Simulado Bernoulli 2019 nº 01: o "Gabarito Primeiro dia" tem o conteúdo do caderno do 2º dia. O extrator agora detecta e usa o arquivo certo da mesma pasta
-* Simulado SAS 2021 nº 01: não há gabarito no acervo
+* Simulado SAS 2021 nº 01: não há arquivo de gabarito; desde 29/09 o gabarito vem da resolução comentada (94 de 95)
 * Simulados Hexag UNESP 01 e 02: mesmo arquivo (já marcado como duplicata)
 * Aba "Conferir" do `catalogo.xlsx`: 354 linhas com algum alerta (89 provas sem gabarito pareado, a maioria de UEL/UFU/UNEMAT; arquivos com texto ruim; gabaritos sem prova)
 

@@ -51,7 +51,7 @@
     ]
    }
   ],
-  "gabarito": "A",
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    2
@@ -208,7 +208,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    2
@@ -353,10 +353,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q002-ING_p2.jpg"
   ]
@@ -415,7 +413,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    2
@@ -530,10 +528,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q003-ING_p2.jpg"
   ]
@@ -580,7 +576,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    3
@@ -779,10 +775,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q004-ING_p3.jpg"
   ]
@@ -830,7 +824,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": "A",
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    3
@@ -1089,7 +1083,7 @@
     ]
    }
   ],
-  "gabarito": "A",
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    4
@@ -1204,7 +1198,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    4
@@ -1337,10 +1331,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q002-ESP_p4.jpg"
   ]
@@ -1397,7 +1389,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    4
@@ -1477,8 +1469,7 @@
    "P3395"
   ],
   "alertas": [
-   "texto curto solto junto da imagem (“www.laleonorreal.org”): pode ser rótulo da figura — conferir",
-   "sem gabarito"
+   "texto curto solto junto da imagem (“www.laleonorreal.org”): pode ser rótulo da figura — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -1527,7 +1518,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    5
@@ -1708,10 +1699,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q004-ESP_p5.jpg"
   ]
@@ -1758,7 +1747,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": "A",
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    5
@@ -2005,7 +1994,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    5
@@ -2084,10 +2073,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q006_p5.jpg"
   ]
@@ -2146,7 +2133,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    5
@@ -2213,10 +2200,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q007_p5.jpg"
   ]
@@ -2273,7 +2258,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    6
@@ -2370,10 +2355,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q008_p6.jpg"
   ]
@@ -2432,7 +2415,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    6
@@ -2577,10 +2560,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q009_p6.jpg"
   ]
@@ -2628,7 +2609,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    6
@@ -2851,10 +2832,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q010_p6.jpg"
   ]
@@ -2914,7 +2893,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    7
@@ -3023,10 +3002,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q011_p7.jpg"
   ]
@@ -3083,7 +3060,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    7
@@ -3168,10 +3145,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q012_p7.jpg"
   ]
@@ -3231,7 +3206,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    7
@@ -3460,10 +3435,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q013_p7.jpg"
   ]
@@ -3510,7 +3483,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    8
@@ -3697,10 +3670,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q014_p8.jpg"
   ]
@@ -4099,7 +4070,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    9
@@ -4220,10 +4191,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q016_p9.jpg"
   ]
@@ -4280,7 +4249,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    9
@@ -4371,10 +4340,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q017_p9.jpg"
   ]
@@ -4421,7 +4388,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    9
@@ -4590,10 +4557,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q018_p9.jpg"
   ]
@@ -4650,7 +4615,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    10
@@ -4729,10 +4694,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q019_p10.jpg"
   ]
@@ -4789,7 +4752,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    10
@@ -4892,10 +4855,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q020_p10.jpg"
   ]
@@ -4940,7 +4901,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    10
@@ -5079,10 +5040,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q021_p10.jpg"
   ]
@@ -5141,7 +5100,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    10
@@ -5304,10 +5263,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q022_p10.jpg"
   ]
@@ -5354,7 +5311,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    11
@@ -5565,10 +5522,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q023_p11.jpg"
   ]
@@ -5625,7 +5580,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    11
@@ -5740,10 +5695,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q024_p11.jpg"
   ]
@@ -5788,7 +5741,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    11
@@ -5975,10 +5928,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q025_p11.jpg"
   ]
@@ -6025,7 +5976,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    12
@@ -6218,10 +6169,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q026_p12.jpg"
   ]
@@ -6281,7 +6230,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    12
@@ -6666,10 +6615,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q027_p12.jpg"
   ]
@@ -6737,7 +6684,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    13
@@ -6824,8 +6771,7 @@
   ],
   "alertas": [
    "imagem 1 pode estar cortada (o desenho continua fora do recorte) — conferir",
-   "imagem 2 pode estar cortada (o desenho continua fora do recorte) — conferir",
-   "sem gabarito"
+   "imagem 2 pode estar cortada (o desenho continua fora do recorte) — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -6884,7 +6830,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    13
@@ -7054,8 +7000,7 @@
    "P3395"
   ],
   "alertas": [
-   "texto curto solto junto da imagem (“Em setembro”): pode ser rótulo da figura — conferir",
-   "sem gabarito"
+   "texto curto solto junto da imagem (“Em setembro”): pode ser rótulo da figura — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -7104,7 +7049,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    13
@@ -7309,10 +7254,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q030_p13.jpg"
   ]
@@ -7369,7 +7312,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    14
@@ -7436,10 +7379,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q031_p14.jpg"
   ]
@@ -7498,7 +7439,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    14
@@ -7727,10 +7668,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q032_p14.jpg"
   ]
@@ -7789,7 +7728,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    14
@@ -7941,8 +7880,7 @@
    "P3395"
   ],
   "alertas": [
-   "texto curto solto junto da imagem (“[...]”): pode ser rótulo da figura — conferir",
-   "sem gabarito"
+   "texto curto solto junto da imagem (“[...]”): pode ser rótulo da figura — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -8003,7 +7941,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    15
@@ -8173,8 +8111,7 @@
    "P3395"
   ],
   "alertas": [
-   "texto curto solto junto da imagem (“0  \n200”): pode ser rótulo da figura — conferir",
-   "sem gabarito"
+   "texto curto solto junto da imagem (“0  \n200”): pode ser rótulo da figura — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -8223,7 +8160,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    15
@@ -8416,10 +8353,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q035_p15.jpg"
   ]
@@ -8476,7 +8411,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    15
@@ -8573,10 +8508,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q036_p15.jpg"
   ]
@@ -8624,7 +8557,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    16
@@ -8835,10 +8768,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q037_p16.jpg"
   ]
@@ -8885,7 +8816,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": "A",
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    16
@@ -9142,7 +9073,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    16
@@ -9221,10 +9152,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q039_p16.jpg"
   ]
@@ -9271,7 +9200,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    17
@@ -9494,10 +9423,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q040_p17.jpg"
   ]
@@ -9554,7 +9481,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    17
@@ -9657,10 +9584,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q041_p17.jpg"
   ]
@@ -9719,7 +9644,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    17
@@ -9906,10 +9831,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q042_p17.jpg"
   ]
@@ -9969,7 +9892,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    18
@@ -10090,10 +10013,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q043_p18.jpg"
   ]
@@ -10164,7 +10085,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    18
@@ -10321,10 +10242,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q044_p18.jpg"
   ]
@@ -10372,7 +10291,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    18
@@ -10577,10 +10496,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q045_p18.jpg"
   ]
@@ -10627,7 +10544,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    20
@@ -10796,10 +10713,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q046_p20.jpg"
   ]
@@ -10858,7 +10773,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    20
@@ -10985,10 +10900,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q047_p20.jpg"
   ]
@@ -11035,7 +10948,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    20
@@ -11150,10 +11063,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q048_p20.jpg"
   ]
@@ -11213,7 +11124,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    20
@@ -11406,10 +11317,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q049_p20.jpg"
   ]
@@ -11456,7 +11365,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    21
@@ -11577,10 +11486,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q050_p21.jpg"
   ]
@@ -11639,7 +11546,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    21
@@ -11802,10 +11709,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q051_p21.jpg"
   ]
@@ -11864,7 +11769,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    21
@@ -11967,10 +11872,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q052_p21.jpg"
   ]
@@ -12017,7 +11920,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    21
@@ -12120,10 +12023,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q053_p21.jpg"
   ]
@@ -12171,7 +12072,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    22
@@ -12370,10 +12271,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q054_p22.jpg"
   ]
@@ -12420,7 +12319,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    22
@@ -12559,10 +12458,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q055_p22.jpg"
   ]
@@ -12622,7 +12519,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    22
@@ -12755,10 +12652,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q056_p22.jpg"
   ]
@@ -12817,7 +12712,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    22
@@ -12944,10 +12839,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q057_p22.jpg"
   ]
@@ -13006,7 +12899,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    23
@@ -13079,10 +12972,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q058_p23.jpg"
   ]
@@ -13141,7 +13032,7 @@
     ]
    }
   ],
-  "gabarito": "A",
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    23
@@ -13280,7 +13171,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    23
@@ -13401,10 +13292,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q060_p23.jpg"
   ]
@@ -13463,7 +13352,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    23
@@ -13620,10 +13509,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q061_p23.jpg"
   ]
@@ -13693,7 +13580,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    24
@@ -13816,8 +13703,7 @@
   ],
   "alertas": [
    "texto curto solto junto da imagem (“*CírculoPolar Ártico*”): pode ser rótulo da figura — conferir",
-   "texto curto solto junto da imagem (“\\(\\overline{\\overline{\\overline{\\overlin”): pode ser rótulo da figura — conferir",
-   "sem gabarito"
+   "texto curto solto junto da imagem (“\\(\\overline{\\overline{\\overline{\\overlin”): pode ser rótulo da figura — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -13878,7 +13764,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    24
@@ -13993,10 +13879,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q063_p24.jpg"
   ]
@@ -14045,7 +13929,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    25
@@ -14280,10 +14164,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q064_p25.jpg"
   ]
@@ -14330,7 +14212,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    25
@@ -14451,10 +14333,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q065_p25.jpg"
   ]
@@ -14501,7 +14381,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    25
@@ -14628,10 +14508,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q066_p25.jpg"
   ]
@@ -14678,7 +14556,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    25
@@ -14793,10 +14671,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q067_p25.jpg"
   ]
@@ -14843,7 +14719,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    26
@@ -14988,10 +14864,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q068_p26.jpg"
   ]
@@ -15050,7 +14924,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    26
@@ -15189,10 +15063,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q069_p26.jpg"
   ]
@@ -15252,7 +15124,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    26
@@ -15409,10 +15281,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q070_p26.jpg"
   ]
@@ -15471,7 +15341,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    26
@@ -15598,10 +15468,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q071_p26.jpg"
   ]
@@ -15648,7 +15516,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    27
@@ -15763,10 +15631,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q072_p27.jpg"
   ]
@@ -15825,7 +15691,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    27
@@ -15964,10 +15830,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q073_p27.jpg"
   ]
@@ -16014,7 +15878,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    27
@@ -16141,10 +16005,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q074_p27.jpg"
   ]
@@ -16203,7 +16065,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    27
@@ -16342,10 +16204,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q075_p27.jpg"
   ]
@@ -16392,7 +16252,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    28
@@ -16555,10 +16415,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q076_p28.jpg"
   ]
@@ -16605,7 +16463,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    28
@@ -16744,10 +16602,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q077_p28.jpg"
   ]
@@ -16795,7 +16651,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    28
@@ -16982,10 +16838,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q078_p28.jpg"
   ]
@@ -17045,7 +16899,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    28
@@ -17196,10 +17050,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q079_p28.jpg"
   ]
@@ -17246,7 +17098,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    29
@@ -17385,10 +17237,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q080_p29.jpg"
   ]
@@ -17435,7 +17285,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    29
@@ -17550,10 +17400,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q081_p29.jpg"
   ]
@@ -17600,7 +17448,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    29
@@ -17751,10 +17599,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q082_p29.jpg"
   ]
@@ -17813,7 +17659,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    29
@@ -17940,10 +17786,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q083_p29.jpg"
   ]
@@ -17991,7 +17835,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    30
@@ -18154,10 +17998,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q084_p30.jpg"
   ]
@@ -18216,7 +18058,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    30
@@ -18379,10 +18221,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q085_p30.jpg"
   ]
@@ -18430,7 +18270,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    30
@@ -18581,10 +18421,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q086_p30.jpg"
   ]
@@ -18643,7 +18481,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    30
@@ -18788,10 +18626,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q087_p30.jpg"
   ]
@@ -18850,7 +18686,7 @@
     ]
    }
   ],
-  "gabarito": "A",
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    31
@@ -18995,7 +18831,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    31
@@ -19122,10 +18958,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q089_p31.jpg"
   ]
@@ -19172,7 +19006,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    31
@@ -19323,10 +19157,8 @@
   "gabarito_origem": [
    "P3395"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
-  "status_revisao": "revisar",
+  "alertas": [],
+  "status_revisao": "automático ok",
   "recortes": [
    "revisao/Q090_p31.jpg"
   ]

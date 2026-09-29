@@ -2283,10 +2283,13 @@ def monta(bloco, prefixo, eh_questao):
 # ------------------------------------------------------------------ gabarito
 def le_gabarito(ids=None):
     gab = {}
-    ids = (P.get("gabarito_ids") or "").split() if ids is None else ids
+    # arquivos de gabarito primeiro; depois as resolucoes comentadas (simulados SAS/Bernoulli so tem resolucao)
+    res_ids = (P.get("resolucao_ids") or "").split() if ids is None else []
+    ids = ((P.get("gabarito_ids") or "").split() + res_ids) if ids is None else ids
     for gid in ids:
         g = CAT.get(gid)
         if not g: continue
+        eh_res = gid in res_ids
         t = subprocess.run(["pdftotext", "-layout", os.path.join(RAIZ, g["caminho"]), "-"], capture_output=True).stdout.decode("utf-8", "replace")
         # tabela horizontal: "Questao 1 2 3 ..." e, logo abaixo, "Gabarito B A E ..." (mesma quantidade)
         lin_ = [x for x in t.splitlines() if x.strip()]
@@ -2297,11 +2300,15 @@ def le_gabarito(ids=None):
             if len(ta) >= (1 if rot_ else 5) and len(ta) == len(tb_) and all(x.isdigit() for x in ta) and all(re.fullmatch(r"[A-E]|(?i:anulad[ao])|\*", x) for x in tb_):
                 for n_, g_ in zip(ta, tb_):
                     if g_ != "*": gab.setdefault(int(n_), g_)
+        # resolucao: "91. Gabarito: E", "Questão 12 – Resposta: C", "Alternativa correta: B"
+        # (a letra da resposta tem de ser maiuscula: "38. Resposta a 45 C" e linha quebrada, nao "a")
+        for mg in re.finditer(r"(?m)^\s*(?:(?i:quest[ãa]o)\s+)?0*(\d{1,3})\s*[.)–-]?\s*(?i:gabarito|resposta(?:\s+correta)?|alternativa\s+correta)\s*:\s*([A-E])\b", t):
+            gab.setdefault(int(mg.group(1)), mg.group(2))
         # resolucao comentada: "QUESTAO 12 ... C) CORRETA"
         for mq in re.finditer(r"(?s)QUEST[ÃA]O\s+0*(\d{1,3})\b(.*?)(?=QUEST[ÃA]O\s+\d|\Z)", t):
             mc = re.search(r"\b([A-E])\)\s*CORRETA\b", mq.group(2))
             if mc: gab.setdefault(int(mq.group(1)), mc.group(1))
-        for linha in t.splitlines():
+        for linha in (t.splitlines() if not eh_res else []):   # leitura solta de linha: so em arquivo de gabarito
             toks = re.findall(r"(?<![\w,])\d{1,3}(?![\w,])|Anulad[ao]|ANULAD[AO]|(?<![A-Za-zÀ-ÿ])[A-E](?![A-Za-zÀ-ÿ])", linha)
             n = None; letras = []
             def fecha():
