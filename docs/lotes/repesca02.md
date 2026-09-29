@@ -2,41 +2,41 @@
 
 | Prova | Ano | Edição | Dia | Questões | Esperado | Faltando | Sem gabarito | PENDENTE | Com alerta | Glifos desconhecidos | Erro |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| P3484 | 2024 |  | 1 | 0 | 0 |  | 0 | 0 | 0 |  |  |
-| P3081 | 2024 |  | 2 | 90 | 90 |  | 90 | 46 | 90 | 3 |  |
-| P3466 | 2023 |  | 2 | 90 | 90 |  | 45 | 51 | 66 | 1 |  |
-| P3451 | 2023 |  | 1 | 95 | 90 |  | 80 | 95 | 95 |  |  |
-| P3448 | 2023 |  | 2 | 95 | 90 |  | 95 | 95 | 95 |  |  |
-| P3447 | 2023 |  | 1 | 90 | 90 |  | 90 | 89 | 90 | 1 |  |
-| P3446 | 2023 |  | 2 | 90 | 90 |  | 90 | 87 | 90 | 1 |  |
-| P3444 | 2023 |  | 1 | 95 | 90 |  | 66 | 95 | 95 |  |  |
-| P1135 | 2026 | regular |  | 50 | 50 |  | 50 | 50 | 50 | 1 |  |
-| P1636 | 2025 | regular |  | 0 | 0 |  | 0 | 0 | 0 |  |  |
+| P1610 | 2020 | 2020.1 |  | 26 | 26 | [3, 16] | 0 | 26 | 26 | 1 |  |
+| P1606 | 2019 | 2019.2 |  | 58 | 58 | [4, 40] | 1 | 3 | 49 | 1 |  |
+| P1604 | 2019 | 2019.1 |  | 57 | 57 | [4, 40, 44] | 0 | 5 | 45 |  |  |
+| P1599 | 2018 | regular |  | 54 | 29 | [3, 32, 33, 35, 39, 41, 49, 51, 54, 55, 56, 57] | 0 | 6 | 51 |  |  |
+| P1598 | 2018 | regular |  | 53 | 38 | [6, 9, 32, 36, 40, 48, 49, 55, 56, 59] | 0 | 3 | 48 |  |  |
+| P1111 | 2018 | regular |  | 6 | 9 | [3] | 0 | 6 | 6 | 1 |  |
+| P1595 | 2017 | regular |  | 23 | 23 | [22] | 0 | 22 | 23 |  |  |
+| P1594 | 2017 | regular |  | 28 | 28 |  | 0 | 23 | 28 |  |  |
+| P1591 | 2016 | regular |  | 44 | 44 |  | 0 | 9 | 40 |  |  |
+| P1590 | 2016 | regular |  | 43 | 43 | [37] | 0 | 14 | 37 |  |  |
 
 ## Alertas mais comuns
 
-* 2578× PENDENTE: há um trecho desenhado (caractere que o PDF não traduz: chave, parêntese grande 
-* 608× PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página
-* 512× caractere estranho no texto
-* 466× sem gabarito (resposta esperada)
-* 194× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:N)” — trans
-* 140× sem gabarito
-* 59× símbolos lidos de glifos-imagem do PDF (fonte TypeN: ×, ≈, sinais) — conferir com a página
-* 37× gabarito discursivo com desenho/fórmula: conferir o texto com a imagem da resposta
-* 37× gabarito discursivo: expoente/índice pode ter se perdido — conferir
-* 31× tabela transcrita automaticamente — conferir
-* 24× imagem N tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto
-* 24× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “(” e “)” na linha “( )” — trans
-* 15× há texto depois das alternativas (“**Ciências da Natureza e suas Tecnologias** {{img:”): c
-* 14× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:N) (cid:N) 
-* 13× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:N) (cid:N)”
-* 11× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “Disponível (cid:
-* 10× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “\(\frac{N}{N}\) 
-* 8× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “Com (cid:N) base
-* 7× imagem N é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição
-* 7× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:N) N N N (c
-* 6× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(A) (cid:N) a (c
-* 5× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “%N (cid:N) \(\fr
-* 5× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:N) N,N g • 
-* 5× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “N • N N km (cid:
-* 5× PENDENTE: há um trecho desenhado (símbolo que o PDF não traduz) na linha “(cid:N) x (cid:N
+* 117× PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página
+* 46× imagem N tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto
+* 29× PENDENTE: há um trecho desenhado (caractere que o PDF não traduz: chave, parêntese grande 
+* 19× texto curto solto junto da imagem (“N”): pode ser rótulo da figura — conferir
+* 14× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “QUESTÃO” e “A” na linha “QUESTÃ
+* 10× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “QUESTÃO” e “No” na linha “QUEST
+* 10× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “QUESTÃO” e “O” na linha “QUESTÃ
+* 10× imagem N pode estar cortada (o desenho continua fora do recorte) — conferir
+* 9× caractere estranho no texto
+* 7× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “QUESTÃO” e “Um” na linha “QUEST
+* 7× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “QUESTÃO” e “Considere” na linha
+* 6× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “QUESTÃO” e “Em” na linha “QUEST
+* 5× N alternativas encontradas (esperado N)
+* 5× gabarito discursivo com desenho/fórmula: conferir o texto com a imagem da resposta
+* 4× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “QUESTÃO” e “Uma” na linha “QUES
+* 4× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “QUESTÃO” e “Os” na linha “QUEST
+* 3× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “QUESTÃO” e “Admita” na linha “Q
+* 3× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “QUESTÃO” e “Com” na linha “QUES
+* 3× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “QUESTÃO” e “Para” na linha “QUE
+* 3× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “QUESTÃO” e “Observe” na linha “
+* 3× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “QUESTÃO” e “The” na linha “QUES
+* 3× imagem N é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição
+* 2× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “N” e “Considere” na linha “N Co
+* 2× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “N” e “seguinte” na linha “N seg
+* 2× PENDENTE: há um trecho desenhado (sem texto no PDF) entre “QUESTÃO” e “Na” na linha “QUEST
