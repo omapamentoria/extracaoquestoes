@@ -49,17 +49,12 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2198 — UNICAMP 2019 regular  — texto: sem_texto (imagem) — georesp.pdf
 * P2199 — UNICAMP 2019 regular  — texto: sem_texto (imagem) — hisresp.pdf
 * P2202 — UNICAMP 2019 regular  — texto: sem_texto (imagem) — portresp.pdf
-* P1581 — UERJ 2026 regular  — só 7 questões em 8 páginas — Redacaoo.pdf
-* P1579 — UERJ 2026 regular  — só 6 questões em 16 páginas — Quimica- provaa.pdf
-* P1577 — UERJ 2026 regular  — só 6 questões em 16 páginas — Biologia - provaa.pdf
 * P1219 — FUVEST 2026 regular 1 — só 11 questões em 16 páginas — fuvest 2026 - 2ª fase - dia 01.pdf
 * P1135 — FUVEST 2026 regular  — 50 de 50 questões PENDENTES (símbolos sem tradução) — fuvest 2026 - 1 fase prova V1.pdf
 * P2265 — UNICAMP 2025 regular 2 — nenhuma questão — unicamp2025_2fase_2dia_prova-3.pdf
 * P2264 — UNICAMP 2025 regular 2 — nenhuma questão — unicamp2025_2fase_2dia_prova-2.pdf
 * P2263 — UNICAMP 2025 regular 2 — nenhuma questão — unicamp2025_2fase_2dia_prova-1.pdf
-* P2262 — UNICAMP 2025 regular 1 — só 5 questões em 17 páginas — unicamp2025_2fase_1dia_prova.pdf
 * P1636 — UERJ 2025 regular  — nenhuma questão — 1º exame qualificação 2025.pdf
-* P1217 — FUVEST 2025 regular 2 — só 10 questões em 44 páginas — fuvest2025_2fase_2dia_prova.pdf
 * P2257 — UNICAMP 2024 regular 2 — nenhuma questão — unicamp2024_2fase_2dia.pdf
 * P2256 — UNICAMP 2024 regular 1 — só 5 questões em 17 páginas — unicamp2024_2fase_1dia_prova.pdf
 * P1632 — UERJ 2024 regular  — nenhuma questão — 2o_EQ 2024.pdf
