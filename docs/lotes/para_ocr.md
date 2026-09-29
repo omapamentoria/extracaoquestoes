@@ -65,7 +65,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1217 — FUVEST 2025 regular 2 — só 10 questões em 44 páginas — fuvest2025_2fase_2dia_prova.pdf
 * P2257 — UNICAMP 2024 regular 2 — nenhuma questão — unicamp2024_2fase_2dia.pdf
 * P2256 — UNICAMP 2024 regular 1 — só 5 questões em 17 páginas — unicamp2024_2fase_1dia_prova.pdf
-* P2076 — UNESP 2024 regular  — nenhuma questão — UNESP2024_2fase_prova.pdf
 * P1632 — UERJ 2024 regular  — nenhuma questão — 2o_EQ 2024.pdf
 * P1628 — UERJ 2024 regular  — nenhuma questão — 1º exame prova.pdf
 * P1568 — UERJ 2024 regular  — só 6 questões em 16 páginas — Quimica prova UERJ 2024.pdf
@@ -74,7 +73,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1560 — UERJ 2024 regular  — só 6 questões em 16 páginas — Geografia prova UERJ 2024.pdf
 * P1558 — UERJ 2024 regular  — só 6 questões em 16 páginas — Fisica prova UERJ 2024.pdf
 * P1556 — UERJ 2024 regular  — só 6 questões em 16 páginas — Biologia prova UERJ 2024.pdf
-* P1226 — SIMULADO_FUVEST 2024   — 9 de 10 questões PENDENTES (símbolos sem tradução) — 2ªFASE-POLIEDRO1.pdf
 * P1224 — SIMULADO_FUVEST 2024   — só 2 questões (esperado ~71) — Simulado Fuvest.pdf
 * P1213 — FUVEST 2024 regular 2 — só 10 questões em 38 páginas — fuvest2024_2fase_2dia_prova.pdf
 * P1211 — FUVEST 2024 regular 1 — só 11 questões em 14 páginas — fuvest2024_2fase_1dia_prova.pdf
