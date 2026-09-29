@@ -63,16 +63,11 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2242 — UNICAMP 2023 regular  — só 8 questões em 99 páginas — unicamp2023_1fase_vs2.pdf
 * P1625 — UERJ 2023 regular  — nenhuma questão — redacao_vestibular_2023.pdf
 * P1624 — UERJ 2023 regular  — nenhuma questão — prova_vetibular_2023.pdf
-* P1207 — FUVEST 2023 regular 2 — só 10 questões em 38 páginas — fuvest2023_2fase_2dia_prova.pdf
-* P1206 — FUVEST 2023 regular 1 — só 11 questões em 14 páginas — fuvest2023_2fase_1dia_prova.pdf
-* P2240 — UNICAMP 2022 regular  — só 3 questões em 17 páginas — prova-redacao-portugues-inter-ingles.pdf
 * P2239 — UNICAMP 2022 regular  — nenhuma questão — prova-humanas-artes.pdf
 * P2238 — UNICAMP 2022 regular  — nenhuma questão — prova-exatas-tecnologicas.pdf
 * P2237 — UNICAMP 2022 regular  — nenhuma questão — prova-ciencias-biologicas-saude.pdf
 * P1618 — UERJ 2022 2022.1  — nenhuma questão — UERJ - prova_2022.pdf
-* P1203 — FUVEST 2022 regular 2 — só 10 questões em 38 páginas — FUVEST 2022 - 2a fase - dia 2.pdf
 * P1123 — FUVEST 2022 regular  — só 9 questões (esperado ~67) — FUVEST 2022 - 1a fase - PROVA.pdf
-* P2224 — UNICAMP 2021 regular  — só 6 questões em 17 páginas — Prova de redação-portugues-literatura-interdisciplinares-ingles.pdf
 * P2223 — UNICAMP 2021 regular  — só 3 questões em 25 páginas — Prova da área de Ciências Humanas-Artes.pdf
 * P2222 — UNICAMP 2021 regular  — só 3 questões em 25 páginas — Prova da área de Ciências Exatas-Tecnológicas.pdf
 * P2221 — UNICAMP 2021 regular  — só 3 questões em 25 páginas — Prova da área de Ciências Biológicas-Saúde.pdf
