@@ -86,3 +86,4 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P2821 — SIMULADO_ENEM 2021   — 90 de 90 questões PENDENTES (símbolos sem tradução) — Simulado_ENEM2_MAIO_2021_MD.pdf
 * P2820 — SIMULADO_ENEM 2021  1 — 92 de 92 questões PENDENTES (símbolos sem tradução) — SimuladoENEM1ºDia_MAIO_BH_RJ_2021_MD.pdf
 * P2817 — SIMULADO_ENEM 2021   — 89 de 89 questões PENDENTES (símbolos sem tradução) — SimuENEM2_ABRIL_2021.pdf
+* P2816 — SIMULADO_ENEM 2021  1 — 92 de 92 questões PENDENTES (símbolos sem tradução) — SimuENEM1ºDia_ABRIL2021.pdf
