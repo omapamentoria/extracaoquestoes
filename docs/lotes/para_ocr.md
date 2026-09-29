@@ -193,3 +193,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1536 — UERJ 2020 regular  — só 6 questões em 16 páginas — UERJ 2020 - Exame Discursivo - Prova F¡sica.pdf
 * P1535 — UERJ 2020 regular  — só 6 questões em 16 páginas — UERJ 2020 - Exame Discursivo - Prova Biologia.pdf
 * P1195 — FUVEST 2020 regular 2 — só 9 questões em 37 páginas — FUVEST 2020 - 2a fase -2o dia.pdf
+* P2204 — UNICAMP 2019 regular  — só 5 questões em 17 páginas — redport.pdf
+* P2200 — UNICAMP 2019 regular  — nenhuma questão — matgeohis.pdf
+* P2197 — UNICAMP 2019 regular  — nenhuma questão — fisresp.pdf
+* P2196 — UNICAMP 2019 regular  — nenhuma questão — fisbioqui.pdf
+* P2057 — UNESP 2019 regular  — nenhuma questão — Cópia de UNESP2019_1fase_prova.pdf
+* P1606 — UERJ 2019 2019.2  — nenhuma questão — UERJ 2019 - prova 2º Exame de Qualificação.pdf
+* P1604 — UERJ 2019 2019.1  — nenhuma questão — UERJ 2019 - prova 1º qualificação.pdf
