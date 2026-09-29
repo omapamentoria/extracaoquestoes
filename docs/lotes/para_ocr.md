@@ -127,7 +127,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1374 — SIMULADO_UERJ    — nenhuma questão — simulado uerj.pdf
 * P1372 — SIMULADO_UERJ    — nenhuma questão — UERJ 2 SIMULADO.pdf
 * P1370 — SIMULADO_UERJ    — só 3 questões (esperado ~7) — Simulado UERJ.pdf
-* P1355 — SIMULADO_UERJ    — só 6 questões em 12 páginas — Simulado1_UERJ_2ªFASE - ExameDiscursivo_BIOLOGIA_MD.pdf
 * P0695 — DEMAIS 2016 regular  — texto: sem_texto (imagem) — Prova I- discursiva 2016.pdf
 * P0696 — DEMAIS 2016 regular  — texto: sem_texto (imagem) — Prova II- objetiva e Prova III- redação 2016.pdf
 * P0700 — DEMAIS 2017 regular  — texto: sem_texto (imagem) — Prova I- discursiva 2017.pdf
@@ -182,7 +181,6 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P0836 — DEMAIS 2024 2024.1  — só 13 questões (esperado ~54) — caderno-de-prova-fatec-2024.pdf
 * P0775 — DEMAIS 2024 regular 2 — só 20 questões em 28 páginas — famerp 2024 - dia 02 prova.pdf
 * P1968 — DEMAIS 2023 regular  — nenhuma questão — planner diário.pdf
-* P1955 — DEMAIS 2023 regular  — só 13 questões em 30 páginas — 2a fase UFU 2023.2.pdf
 * P1264 — DEMAIS 2023 regular 2 — nenhuma questão — sociologia 2023.PDF
 * P1263 — DEMAIS 2023 regular 2 — nenhuma questão — quimica 2023.PDF
 * P1262 — DEMAIS 2023 regular 2 — nenhuma questão — matematica 2023.PDF
@@ -195,15 +193,11 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P1255 — DEMAIS 2023 regular 1 — só 9 questões (esperado ~32) — prova tipo 1 - 2023.PDF
 * P0833 — DEMAIS 2023 2023.2  — só 3 questões (esperado ~54) — fatec2023_2_prova.pdf
 * P0771 — DEMAIS 2023 regular 2 — só 20 questões em 28 páginas — famerp 2023 - dia 02 prova.pdf
-* P1952 — DEMAIS 2022 regular  — só 14 questões em 30 páginas — UFU 2022 2º Fase.pdf
 * P1253 — DEMAIS 2022 regular  — só 11 questões (esperado ~55) — prova tipo 1 - 2022.PDF
 * P0768 — DEMAIS 2022 regular  — só 20 questões em 28 páginas — Prova 2.pdf
-* P1933 — DEMAIS 2021 regular  — só 15 questões em 30 páginas — UFU 2021 2º Fase (Todos os cursos).pdf
-* P1914 — DEMAIS 2021 regular  — só 15 questões em 32 páginas — UFU 2021 2º Fase (Medicina).pdf
 * P1341 — DEMAIS 2021 regular  — nenhuma questão — 2021.1 - USS - PROVA.pdf
 * P1339 — DEMAIS 2021 regular  — nenhuma questão — 2021-2 - USS - PROVA.pdf
 * P1251 — DEMAIS 2021 regular  — nenhuma questão — prova tipo 1 - 2021.PDF
-* P0763 — DEMAIS 2021 regular  — só 20 questões em 28 páginas — Famerp - prova dissertativa 2021.pdf
 * P1895 — DEMAIS 2020 regular  — nenhuma questão — UFU 2020 2º Fase.pdf
 * P1894 — DEMAIS 2020 regular  — nenhuma questão — UFU 2020 2º Fase (Francês).pdf
 * P1719 — DEMAIS 2020 regular  — nenhuma questão — PSV-2020_Prova_Reda‡ֶo.pdf
