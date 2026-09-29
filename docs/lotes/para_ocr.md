@@ -41,3 +41,10 @@ Texto ruim no catálogo ou extração que falhou por inteiro.
 * P4142 — SSA 2016 regular 2 — só 16 questões (esperado ~43) — PROVA_SSA2_2DIA.pdf
 * P4141 — SSA 2016 regular 1 — só 22 questões (esperado ~48) — PROVA-SSA2-1-DIA.pdf
 * P4077 — SSA 2016 regular 2 — só 20 questões (esperado ~42) — PROVA-SSA1-2DIA.pdf
+* P2904 — SIMULADO_ENEM 2022  1 — texto: parcialmente corrompido — SOMOS 1 - PRIMEIRO DIA.pdf
+* P2907 — SIMULADO_ENEM 2022  1 — texto: parcialmente corrompido — 1ºDia - Prova.pdf
+* P2909 — SIMULADO_ENEM 2022  2 — texto: corrompido — 2º Dia - Prova.pdf
+* P3308 — SIMULADO_ENEM 2024  1 — texto: sem_texto (imagem) — 5º Bernoulli 2024 - prova dia 01 - @wagnernamed.pdf
+* P3312 — SIMULADO_ENEM 2024  1 — texto: sem_texto (imagem) — 6º Bernoulli 2024 - prova dia 01 - @wagnernamed.pdf
+* P3313 — SIMULADO_ENEM 2024  2 — texto: sem_texto (imagem) — 6º Bernoulli 2024 - prova dia 02 - @wagnernamed.pdf
+* P4023 — SIMULADO_SSA   1 — texto: sem_texto (imagem) — 1 dIa SAS SSA-Simulado 1.pdf
