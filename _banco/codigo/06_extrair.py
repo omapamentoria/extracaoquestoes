@@ -17,7 +17,7 @@ PDF = os.path.join(RAIZ, P["caminho"])
 OUT = os.path.join(B, "questoes", P["vestibular"] or "outros", P["ano"] or "sem_ano", PID)
 os.makedirs(os.path.join(OUT, "img"), exist_ok=True); os.makedirs(os.path.join(OUT, "revisao"), exist_ok=True)
 DPI_FIG = 300; DPI_DET = 100
-RE_Q_ENEM = re.compile(r"^QUEST[ÃA]O\s+0*(\d{1,3})\b")
+RE_Q_ENEM = re.compile(r"^(?i:quest[ãa]o)\s+0*(\d{1,3})\b")   # "QUESTÃO 91", "Questão 04" (ENEM 2019-2021), "QUESTãO 01" (versalete, ENEM 2025); sempre em negrito
 RE_Q_NUM = re.compile(r"^0*(\d{1,3})\s*[.)–-]\s+\S")
 RE_IDIOMA = re.compile(r"(?i)(op[çc][ãa]o|opci[óo]n)\W*(de\W*)?(l[íi]ngua\W*)?(estrangeira\W*)?(ingl[êe]s|espanhol|español)")
 RE_AREA = re.compile(r"(?i)^(CI[ÊE]NCIAS|MATEM[ÁA]TICA|LINGUAGENS|QUEST[ÕO]ES DE)\b")
@@ -639,7 +639,7 @@ for pg in paginas:
         sub = [w for w in pg["ws"] if r[0] <= (w["x0"] + w["x1"]) / 2 < r[1] and r[2] <= (w["top"] + w["bottom"]) / 2 < r[3]]
         for l in agrupa_linhas(sub, CORPO):
             l["col"] = (r[0], r[1]); l["reg"] = ri; l["pg"] = pg["n"]; pg["linhas"].append(l)
-RE_CAB_Q = re.compile(r"^(QUEST[ÃA]O|Quest[ãa]o)\s*\d")
+RE_CAB_Q = re.compile(r"^(?i:quest[ãa]o)\s*\d")
 def chave_rep(l):
     return (frozenset(re.sub(r"\d+", "", w["text"]) for w in l["ws"]) - {""}, round(l["top"] / 10))
 rep = collections.Counter()

@@ -43,8 +43,10 @@ for i in range(n_lotes):
         m = re.search(r"sequência de (\d+)", log)
         n = len(json.load(open(d[0] + "/questoes.json"))) if d and os.path.exists(d[0] + "/questoes.json") else 0
         esp = int(r["questoes_estimadas"]) if str(r.get("questoes_estimadas") or "").isdigit() else None
+        pags = int(r["paginas"]) if str(r.get("paginas") or "").isdigit() else 0
         motivo = ("erro no extrator" if "Traceback" in log else "nenhuma questão" if n == 0
-                  else f"só {n} questões (esperado ~{esp})" if esp and n < 0.5 * esp else "")
+                  else f"só {n} questões (esperado ~{esp})" if esp and n < 0.5 * esp
+                  else f"só {n} questões em {pags} páginas" if not esp and pags >= 8 and n < pags else "")
         if motivo:
             falhas.append(f"* {r['id']} — {r['grupo']} {r['ano']} {r['edicao']} {r['dia']} — {motivo} — {r['arquivo']}")
             for dd in d: subprocess.run(["git", "rm", "-r", "-q", "--cached", "--ignore-unmatch", os.path.relpath(dd, R)], cwd=R); subprocess.run(["rm", "-r", "--", dd])

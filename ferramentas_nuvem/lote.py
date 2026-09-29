@@ -12,7 +12,9 @@ CAT = {d["id"]: d for d in json.load(open(os.path.join(B, "catalogo_debug.json")
 # 1. baixar
 mapa = json.load(open(os.path.join(R, "ferramentas_nuvem", "mapa_drive.json")))
 pastas = {os.path.dirname(CAT[p]["caminho"]) for p in pids}
-sel = [x for x in mapa if os.path.dirname(x["path"]) in pastas]
+# gabaritos/resolucoes pareados no catalogo, mesmo quando estao em outra pasta
+apoio = {g for p in pids for k in ("gabarito_ids", "resolucao_ids", "padrao_ids") for g in (CAT[p].get(k) or "").split() if g in CAT}
+sel = [x for x in mapa if os.path.dirname(x["path"]) in pastas or x.get("pid") in apoio]
 tmp = f"/tmp/lote_{nome}.json"
 json.dump(sel, open(tmp, "w"), ensure_ascii=False)
 subprocess.run([sys.executable, os.path.join(R, "ferramentas_nuvem", "drive_sync.py"), "baixar", tmp, BM], check=True)
