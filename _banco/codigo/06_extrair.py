@@ -244,8 +244,13 @@ def agrupa_linhas(ws, corpo):
         if re.fullmatch(r"[.,;:!?)\]…]+", w["text"]):
             viz_ = [o for o in ws if o is not w and abs(o["bottom"] - w["bottom"]) < 1.5 and -1 <= w["x0"] - o["x1"] < 3 and not re.fullmatch(r"[.,;:!?)\]…]+", o["text"])]
             if viz_: w["size"] = viz_[0]["size"]
-    grandes = sorted([w for w in ws if w["size"] >= 0.8 * corpo], key=lambda w: (w["top"], w["x0"]))
-    peq = [w for w in ws if w["size"] < 0.8 * corpo]
+    # cabecalho de questao em letra menor que o texto ("Questão 30" a 7 pt no ENEM 1998-2012): nao e indice/expoente
+    for w in ws:
+        if re.fullmatch(r"(?i)quest[ãa]o", w["text"]) and "bold" in w["fontname"].lower():
+            num_ = [o for o in ws if re.fullmatch(r"\d{1,3}", o["text"]) and abs(o["bottom"] - w["bottom"]) < 2.5 and 0 <= o["x0"] - w["x1"] < 2 * w["size"]]
+            if num_: w["cab_peq"] = num_[0]["cab_peq"] = True
+    grandes = sorted([w for w in ws if w["size"] >= 0.8 * corpo or w.get("cab_peq")], key=lambda w: (w["top"], w["x0"]))
+    peq = [w for w in ws if w["size"] < 0.8 * corpo and not w.get("cab_peq")]
     linhas = []
     # letra de alternativa sozinha ao lado de uma fracao empilhada (letra na altura do traco, numerador acima dela):
     # fica na mesma linha da fracao (senao cada fracao ia para a alternativa anterior)
