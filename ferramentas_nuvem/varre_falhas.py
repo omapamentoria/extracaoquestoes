@@ -9,11 +9,13 @@ novas = []
 for qj in sorted(glob.glob(f"{B}/questoes/*/*/*/questoes.json")):
     d = os.path.dirname(qj); pid = os.path.basename(d); r = CAT.get(pid)
     if not r: continue
-    n = len(json.load(open(qj)))
+    qs_ = json.load(open(qj)); n = len(qs_)
+    n_pend = sum(1 for x in qs_ if any("PENDENTE" in a for a in x.get("alertas", [])))
     esp = int(r["questoes_estimadas"]) if str(r.get("questoes_estimadas") or "").isdigit() else None
     pags = int(r["paginas"]) if str(r.get("paginas") or "").isdigit() else 0
     motivo = (f"só {n} questões (esperado ~{esp})" if esp and n < 0.5 * esp
-              else f"só {n} questões em {pags} páginas" if not esp and pags >= 8 and n < pags else "")
+              else f"só {n} questões em {pags} páginas" if not esp and pags >= 8 and n < pags
+              else f"{n_pend} de {n} questões PENDENTES (símbolos sem tradução)" if n >= 10 and n_pend > 0.5 * n else "")
     if motivo:
         novas.append(f"* {pid} — {r['grupo']} {r['ano']} {r['edicao']} {r['dia']} — {motivo} — {r['arquivo']}")
         print(novas[-1])

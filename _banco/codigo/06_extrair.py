@@ -116,10 +116,38 @@ NPAG = len(pdf.pages)
 
 exec(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "glifos_t3.py"), encoding="utf-8").read())
 INVISIVEIS = {}
+# "(cid:N)" de fonte sem tabela de texto (ToUnicode) mas com a numeracao ORIGINAL dos glifos (Arial do ENEM 2017-2018):
+# o caractere vem de _banco/cid_unicode.json (montado de PDFs com a mesma fonte e com tabela; ferramentas_nuvem/tabela_cid.py).
+# Trava: so vale na pagina se as palavras traduzidas existem no vocabulario (senao a fonte foi renumerada e fica PENDENTE).
+_CID_P = os.path.join(B, "cid_unicode.json")
+CID_TAB = json.load(open(_CID_P, encoding="utf-8")) if os.path.exists(_CID_P) else {}
+CID_TAB_USO = collections.Counter()
+def cid_por_tabela(chars):
+    base_ = lambda n: re.sub(r"-Identity-[HV]$", "", re.sub(r"^[A-Z]{6}\+", "", n))
+    alvo = []
+    for c in chars:
+        m_ = re.fullmatch(r"\(cid:(\d+)\)", c["text"])
+        if not m_: continue
+        t_ = CID_TAB.get(base_(c["fontname"]))
+        if t_ is None: continue
+        n_ = int(m_.group(1))
+        u_ = t_.get(str(n_)) or (chr(n_ + 29) if 3 <= n_ <= 97 else None)
+        if u_: alvo.append((c, u_))
+    if len(alvo) < 20: return
+    # trava pelo vocabulario: junta os caracteres traduzidos em palavras (pela posicao) e confere
+    txt_ = []; ult_ = None
+    for c, u_ in sorted(alvo, key=lambda cu: (round(cu[0]["top"]), cu[0]["x0"])):
+        if ult_ is not None and (abs(c["top"] - ult_["top"]) > 2 or c["x0"] - ult_["x1"] > 1.5): txt_.append(" ")
+        txt_.append(u_); ult_ = c
+    pals_ = [p for p in re.findall(r"[a-záéíóúâêôãõçà]{4,}", "".join(txt_).lower())]
+    if not pals_ or sum(1 for p in pals_ if p in VOC) < 0.6 * len(pals_): return
+    for c, u_ in alvo: c["text"] = u_
+    CID_TAB_USO[PID] += len(alvo)
 def palavras(page):
     page_orig = page
     page = page.dedupe_chars(tolerance=1)     # caractere impresso 2x no mesmo lugar (ex.: "CaCl2··2H2O")
     chars = [dict(c) for c in page.chars]
+    cid_por_tabela(chars)                     # "(cid:N)" de Arial sem ToUnicode (ENEM 2017-2018): tabela da numeracao original
     glifos_t3(page_orig, chars)               # glifos de fonte Type3 (imagem) reconhecidos viram texto
     glifos_cid(page_orig, chars)              # "(cid:N)" de fonte sem tabela de texto: reconhecido pela forma
     # texto girado (ex.: rotulo vertical de eixo de grafico "Altura em relacao ao solo") nao e texto corrido:
@@ -1142,7 +1170,7 @@ def detecta_figuras(pg):
                 if dentro and any(t_[0] - 2 <= l["x0"] and l["x1"] <= t_[2] + 2 and t_[1] - 2 <= l["top"] and l["bottom"] <= t_[3] + 2
                                   and f[0] - 2 <= t_[0] and t_[2] <= f[2] + 2 and f[1] - 2 <= t_[1] and t_[3] <= f[3] + 2 for t_ in TAB_DADOS):
                     l["fig"] = 1; mud = True; continue
-                protegida = linha_estrutural(l) or re.match(r"^(QUEST[ÃA]O\s+\d|\(?[a-eA-E]\)\s|\d{1,3}\s*[.)]\s)", txt_puro(l))
+                protegida = linha_estrutural(l) or re.match(r"^((?i:quest[ãa]o)\s+\d|\(?[a-eA-E]\)\s|\d{1,3}\s*[.)]\s)", txt_puro(l))
                 if protegida: continue
                 alinhada_texto = abs(l["x0"] - esq_col[l["col"]]) < 4 and l["size"] >= 0.95 * CORPO and not l["rotulo"]
                 if RE_FONTE_FIG.search(txt_puro(l)): continue   # "Disponivel em..." fica como fonte (texto)
@@ -1176,7 +1204,7 @@ def detecta_figuras(pg):
                     meio = [l for l in linhas if l.get("fig") is None and l["top"] >= A[3] - 2 and l["bottom"] <= Bf[1] + 2
                             and min(l["x1"], max(A[2], Bf[2]) + 2 * CORPO) - max(l["x0"], min(A[0], Bf[0]) - 2 * CORPO) > 0]
                     if any(not l["rotulo"] and l["size"] >= 0.95 * CORPO and (l["x1"] - l["x0"]) > 0.6 * larg_col(l) for l in meio): continue
-                    if any(letra_alt(l) or eh_cabecalho(l) is not None or re.match(r"^(QUEST[ÃA]O\s+\d|\(?[a-eA-E]\)\s|\d{1,3}\s*[.)]\s)", txt_puro(l)) for l in meio): continue
+                    if any(letra_alt(l) or eh_cabecalho(l) is not None or re.match(r"^((?i:quest[ãa]o)\s+\d|\(?[a-eA-E]\)\s|\d{1,3}\s*[.)]\s)", txt_puro(l)) for l in meio): continue
                     # marcador de alternativa na mesma coluna, entre as duas figuras: cada figura e de uma alternativa
                     if any((letra_alt(l) and (eh_bolinha(l["ws"][0]["fontname"]) or abs(l["x0"] - esq_col[l["col"]]) < 6))
                            and A[3] - 2 <= (l["top"] + l["bottom"]) / 2 <= Bf[1] + 2 + (Bf[3] - Bf[1])
@@ -1874,7 +1902,7 @@ for i_it, it in enumerate(itens):
                     atual = {"numero": n, "area": area, "idioma": idioma_de(n), **novo_bloco()}; questoes.append(atual); esperado = n + 1
                     atual["base_ref"] = base_atual["id"] if base_atual is not None and not base_atual.get("congelado") and base_atual["partes"] else None
                     if base_atual is not None: base_atual["congelado"] = True
-                    if re.fullmatch(r"(QUEST[ÃA]O\s+)?0*\d{1,3}\s*[.)–-]?", t): l["uso"] = "cabecalho da questao"   # so o numero
+                    if re.fullmatch(r"((?i:quest[ãa]o)\s+)?0*\d{1,3}\s*[.)–-]?", t): l["uso"] = "cabecalho da questao"   # so o numero
                     else: atual["partes"].append(("linha", l, it, "remove_num"))
                     atual["caixas"][it["pg"]].append([l["x0"], l["top"], l["x1"], l["bottom"]])
                     ult_linha = l; continue
@@ -2060,8 +2088,8 @@ def monta(bloco, prefixo, eh_questao):
         if l.get("tinta_meio"):
             alertas.append("PENDENTE: há um trecho desenhado (sem texto no PDF) entre “%s” e “%s” na linha “%s” — transcrever lendo a imagem" % (l["tinta_meio"][0], l["tinta_meio"][1], txt_puro(l)[:70]))
         md = md_linha(l)
-        if flag == "remove_num": md = re.sub(r"^\**(QUEST[ÃA]O\s+)?0*\d{1,3}\s*[.)–-]?\s*\**\s*", "", md, count=1)
-        if flag is True and PERFIL == "enem": md = re.sub(r"^\**QUEST[ÃA]O\s+\d+\**\s*", "", md)
+        if flag == "remove_num": md = re.sub(r"^\**((?i:quest[ãa]o)\s+)?0*\d{1,3}\s*[.)–-]?\s*\**\s*", "", md, count=1)
+        if flag is True and PERFIL == "enem": md = re.sub(r"^\**(?i:quest[ãa]o)\s+\d+\**\s*", "", md)
         pl = l["ws"][0]
         # varias alternativas na mesma linha (grade "a) [fig]   b) [fig]   c) [fig]"): uma alternativa por marcador
         if eh_questao and pos_alt is None:
