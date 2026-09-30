@@ -81,6 +81,12 @@ Primeira leva: só objetivas prontas (as discursivas precisam de outra tela).
 7. Depois: classificação (a plataforma já tem a taxonomia em `areas → materias → assuntos → subassuntos`) e
    comentários das questões novas.
 
+## Escopo da primeira carga (decisão do Matheus, 30/09/2026)
+
+Só as **35.522 prontas sem nenhum alerta** (35.048 objetivas + 474 discursivas; as discursivas esperam a tela
+própria). As 6.349 com alerta leve e o resto entram depois. Trabalho por partes: uma fase de cada vez, começando
+pelo Prompt 1 do Lovable (`docs/plataforma/prompts-lovable.md`).
+
 ## Plano de trabalho completo (30/09/2026)
 
 Decisões do Matheus:
