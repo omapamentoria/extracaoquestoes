@@ -128,6 +128,36 @@ Ainda abertos:
 * ENEM anteriores a 2005 (1998 a 2004: P2377, P2381, P2384, P2388, P2391, P2394, P2397): fora do banco por decisão do Matheus (muitos erros). Lista em `docs/lotes/fora_do_banco.txt`, respeitada pelo `lote.py`
 * Arquivos que não são a prova: FATEC 2020_2/2021 (P0828), Famerp 2020 (P0760), unemat.pdf (P2037), ENEM 2007 (P2408): 1 página só
 
+## Banco unificado — primeira carga (30/09/2026)
+
+Plano completo em `docs/estrategia-banco-unificado.md`; diagnóstico da plataforma em `docs/plataforma/diagnostico.md`.
+
+* **Primeira carga: 26.847 questões** = 5.288 antigas (2.912 com o texto novo, 2.376 como estavam) + 21.559 novas.
+  Só entram objetivas prontas, sem alerta, com gabarito oficial (`unificacao/resumo.md`).
+* Pares em dúvida decididos pelo Matheus (`unificacao/decisoes_matheus.json`). A antiga 620 (ENEM PPL 2020 Q135)
+  ficou como **anulada**, porque o gabarito oficial do INEP anula a questão (o Matheus tinha marcado "fica a antiga").
+* **17 questões antigas com comentário a refazer**: o gabarito do banco antigo estava errado; vale o oficial
+  (ENEM PPL 2011, 2012, 2016, 2020, ENEM 2025 PPL e 11 do SSA). Lista: `motivo` "comentário a refazer" em
+  `unificacao/pares.json`.
+* Para o Matheus olhar: ENEM 2025 PPL dia 1, questão 12 (perfil epidemiológico). O gabarito oficial e o comentado
+  dizem B; pela leitura, D parece mais lógica. Ficou B (oficial).
+
+### Gabarito — auditoria (30/09/2026). Regra: só vale o gabarito oficial da mesma cor e do mesmo caderno da prova
+* Corrigido no extrator: tabela com várias cores (ENEM 2009 dia 1: 22 gabaritos), gabarito comentado passando na
+  frente do oficial (ENEM 2025: 554 gabaritos que faltavam + Q100 da reaplicação dia 2), gabarito de outra cor ou
+  de outro caderno nunca é usado (cor e caderno lidos no catálogo, no nome do arquivo ou na capa da prova).
+* Ferramentas: `ferramentas_nuvem/audita_gabarito.py` (recalcula todos os gabaritos com as regras atuais).
+* **163 provas com gabarito só de resolução ficaram FORA da primeira carga** (`docs/lotes/gabarito_nao_confirmado.txt`):
+  153 simulados ENEM (SAS, Bernoulli, Poliedro, SOMOS…), 5 outros simulados, FAMERP/FAMEMA dia 1 e ENEM 2020
+  impresso dia 2. A leitura automática das resoluções já errou (SOMOS 2025; ENEM 2020 com o comentado em outra
+  ordem de questões). **Próximo passo**: confirmar o gabarito de cada formato (SAS, Bernoulli, Poliedro, SOMOS)
+  com leitura própria para o formato e conferência na imagem da página; o que for confirmado entra no banco.
+  São cerca de 10 mil questões.
+* ENEM 2020 impresso (dia 2): falta o gabarito oficial do INEP (o comentado do acervo é de outra cor).
+* ENEM 2011 dias 1 e 2 (P2503, P2506): trechos cifrados sem alerta; fora das prontas (`docs/lotes/fora_das_prontas.txt`).
+* SSA 2018: "NULA" no gabarito definitivo não é lido como anulada (a questão fica sem gabarito): ajustar.
+* ENEM anteriores a 2005 fora do banco (decisão do Matheus): `docs/lotes/fora_do_banco.txt`.
+
 ## Decisões em aberto
 
 * ENCCEJA: incluir ou não? (metade é de ensino fundamental; no catálogo, prioridade 9 para médio e 10 para fundamental)
