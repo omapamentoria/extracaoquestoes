@@ -2422,11 +2422,35 @@ def le_gabarito(ids=None):
     # arquivos de gabarito primeiro; depois as resolucoes comentadas (simulados SAS/Bernoulli so tem resolucao)
     res_ids = (P.get("resolucao_ids") or "").split() if ids is None else []
     ids = ((P.get("gabarito_ids") or "").split() + res_ids) if ids is None else ids
+    # 1) o gabarito oficial vem antes do gabarito comentado / resolucao (vale a 1a resposta achada para cada questao)
+    def _comentado(gid):
+        a_ = (CAT[gid]["arquivo"] or "").lower() if gid in CAT else ""
+        return bool(re.search(r"coment|resolu", a_)) and not re.search(r"sem\s+coment", a_)
+    def _oficial(gid):   # gabarito simples; "gabarito sem comentarios" e gabarito oficial mesmo que o catalogo diga resolucao
+        a_ = (CAT[gid]["arquivo"] or "").lower() if gid in CAT else ""
+        return bool(re.search(r"sem\s+coment", a_)) or (gid not in res_ids and not _comentado(gid))
+    res_ids = [gid for gid in res_ids if not re.search(r"sem\s+coment", (CAT[gid]["arquivo"] or "").lower() if gid in CAT else "")]
+    ids = sorted(dict.fromkeys(ids), key=lambda gid: not _oficial(gid))
+    COR_ = r"azul|amarel|branc|rosa|cinza|verde|laranja|lil[aá]s"
+    cor_prova = (re.findall(COR_, (P.get("caderno") or "").lower()) or re.findall(COR_, (P.get("arquivo") or "").lower()) or [None])[-1]
+    # sem cor no catalogo: le a capa da prova ("CADERNO 5 ... AMARELO"); o numero do caderno tambem tem de bater
+    _capa = subprocess.run(["pdftotext", "-l", "1", PDF if not OCR else os.path.join(RAIZ, P["caminho"]), "-"], capture_output=True).stdout.decode("utf-8", "replace").lower()
+    if not cor_prova: cor_prova = (re.findall(r"\b(" + COR_ + r")", _capa) or [None])[0]
+    cad_prova = (re.findall(r"caderno\s*(\d{1,2})\b", _capa) or [None])[0]
     for gid in ids:
         g = CAT.get(gid)
         if not g: continue
         eh_res = gid in res_ids
         t = subprocess.run(["pdftotext", "-layout", os.path.join(RAIZ, g["caminho"]), "-"], capture_output=True).stdout.decode("utf-8", "replace")
+        # 2) gabarito de OUTRA cor de caderno nunca vale (so a mesma cor da prova): cor no nome do arquivo ou, se o
+        #    nome nao diz, no cabecalho ("CADERNO 8 - Rosa"). Tabela com varias cores e tratada mais abaixo.
+        if cor_prova:
+            cores_g = re.findall(COR_, (g.get("arquivo") or "").lower()) or re.findall(COR_, "\n".join(t.lower().splitlines()[:8]))
+            if cores_g and len(set(c_[:4] for c_ in cores_g)) == 1 and cores_g[0][:4] != cor_prova[:4]:
+                print(f"gabarito {gid} ignorado: é do caderno {cores_g[0]}, a prova é {cor_prova}"); continue
+        cads_g = re.findall(r"caderno\s*(\d{1,2})\b", "\n".join(t.lower().splitlines()[:8]))
+        if cad_prova and cads_g and len(set(cads_g)) == 1 and cads_g[0] != cad_prova:
+            print(f"gabarito {gid} ignorado: é do caderno {cads_g[0]}, a prova é o caderno {cad_prova}"); continue
         # tabela horizontal: "Questao 1 2 3 ..." e, logo abaixo, "Gabarito B A E ..." (mesma quantidade)
         lin_ = [x for x in t.splitlines() if x.strip()]
         for a_, b_ in zip(lin_, lin_[1:]):

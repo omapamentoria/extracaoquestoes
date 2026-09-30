@@ -2213,14 +2213,10 @@
 },
 {
 "antiga": 597,
-"nova": "P2852-Q157",
-"semelhanca": 0.694,
+"nova": null,
 "decisao": "antiga",
-"motivo": "gabaritos diferentes e a nova é de simulado (antiga E, nova D)",
-"exam": "ENEM",
-"prova_antiga": "enem-2010",
-"numero_antiga": "dia-2-questao-177",
-"prova_nova": "P2852"
+"motivo": "não está no banco novo pronto",
+"exam": "ENEM"
 },
 {
 "antiga": 599,
@@ -2317,8 +2313,8 @@
 "antiga": 620,
 "nova": "P2459-Q135",
 "semelhanca": 0.759,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga E, nova None)",
+"decisao": "nova",
+"motivo": "gabarito oficial (None) diferente do antigo (E): comentário a refazer",
 "exam": "ENEM",
 "prova_antiga": "enem-2010-ppl",
 "numero_antiga": "dia-1-questao-86",
@@ -5350,8 +5346,8 @@
 "antiga": 1259,
 "nova": "P2431-Q146",
 "semelhanca": 1.0,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga D, nova C)",
+"decisao": "nova",
+"motivo": "gabarito oficial (C) diferente do antigo (D): comentário a refazer",
 "exam": "ENEM",
 "prova_antiga": "enem-2012-ppl",
 "numero_antiga": "dia-2-questao-146",
@@ -5530,14 +5526,10 @@
 },
 {
 "antiga": 1290,
-"nova": "P3133-Q001-ESP",
-"semelhanca": 0.936,
-"decisao": "nova",
-"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
-"exam": "ENEM",
-"prova_antiga": "enem-2012",
-"numero_antiga": "dia-2-questao-95",
-"prova_nova": "P3133"
+"nova": null,
+"decisao": "antiga",
+"motivo": "não está no banco novo pronto",
+"exam": "ENEM"
 },
 {
 "antiga": 1291,
@@ -5721,14 +5713,10 @@
 },
 {
 "antiga": 1318,
-"nova": "P3133-Q003-ESP",
-"semelhanca": 0.854,
+"nova": null,
 "decisao": "antiga",
-"motivo": "gabaritos diferentes e a nova é de simulado (antiga A, nova D)",
-"exam": "ENEM",
-"prova_antiga": "enem-2012",
-"numero_antiga": "dia-2-questao-93",
-"prova_nova": "P3133"
+"motivo": "não está no banco novo pronto",
+"exam": "ENEM"
 },
 {
 "antiga": 1321,
@@ -6024,14 +6012,10 @@
 },
 {
 "antiga": 1376,
-"nova": "P3133-Q002-ESP",
-"semelhanca": 0.795,
+"nova": null,
 "decisao": "antiga",
-"motivo": "gabaritos diferentes e a nova é de simulado (antiga A, nova D)",
-"exam": "ENEM",
-"prova_antiga": "enem-2012",
-"numero_antiga": "dia-2-questao-91",
-"prova_nova": "P3133"
+"motivo": "não está no banco novo pronto",
+"exam": "ENEM"
 },
 {
 "antiga": 1378,
@@ -6456,8 +6440,8 @@
 "antiga": 1451,
 "nova": "P2431-Q147",
 "semelhanca": 0.86,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga C, nova D)",
+"decisao": "nova",
+"motivo": "gabarito oficial (D) diferente do antigo (C): comentário a refazer",
 "exam": "ENEM",
 "prova_antiga": "enem-2012-ppl",
 "numero_antiga": "dia-2-questao-147",
@@ -9862,14 +9846,10 @@
 },
 {
 "antiga": 2119,
-"nova": "P3133-Q005-ESP",
-"semelhanca": 0.783,
+"nova": null,
 "decisao": "antiga",
-"motivo": "gabaritos diferentes e a nova é de simulado (antiga C, nova B)",
-"exam": "ENEM",
-"prova_antiga": "enem-2014",
-"numero_antiga": "dia-2-questao-95",
-"prova_nova": "P3133"
+"motivo": "não está no banco novo pronto",
+"exam": "ENEM"
 },
 {
 "antiga": 2120,
@@ -10027,14 +10007,10 @@
 },
 {
 "antiga": 2146,
-"nova": "P3133-Q004-ESP",
-"semelhanca": 0.76,
+"nova": null,
 "decisao": "antiga",
-"motivo": "gabaritos diferentes e a nova é de simulado (antiga A, nova E)",
-"exam": "ENEM",
-"prova_antiga": "enem-2014",
-"numero_antiga": "dia-2-questao-92",
-"prova_nova": "P3133"
+"motivo": "não está no banco novo pronto",
+"exam": "ENEM"
 },
 {
 "antiga": 2147,
@@ -11859,8 +11835,8 @@
 "antiga": 2477,
 "nova": "P2549-Q129",
 "semelhanca": 0.6,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga B, nova E)",
+"decisao": "nova",
+"motivo": "gabarito oficial (E) diferente do antigo (B): comentário a refazer",
 "exam": "ENEM",
 "prova_antiga": "enem-2014",
 "numero_antiga": "dia-2-questao-106",
@@ -13554,14 +13530,10 @@
 },
 {
 "antiga": 2796,
-"nova": "P3130-Q165",
-"semelhanca": 0.899,
-"decisao": "nova",
-"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
-"exam": "ENEM",
-"prova_antiga": "enem-2015-ppl",
-"numero_antiga": "dia-2-questao-147",
-"prova_nova": "P3130"
+"nova": null,
+"decisao": "antiga",
+"motivo": "não está no banco novo pronto",
+"exam": "ENEM"
 },
 {
 "antiga": 2797,
@@ -16288,14 +16260,10 @@
 },
 {
 "antiga": 3391,
-"nova": "P2082-Q038",
-"semelhanca": 0.588,
-"decisao": "nova",
-"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
-"exam": "ENEM",
-"prova_antiga": "enem-2016-reaplicacao",
-"numero_antiga": "dia-1-questao-7",
-"prova_nova": "P2082"
+"nova": null,
+"decisao": "antiga",
+"motivo": "não está no banco novo pronto",
+"exam": "ENEM"
 },
 {
 "antiga": 3393,
@@ -20710,14 +20678,10 @@
 },
 {
 "antiga": 4129,
-"nova": "P3130-Q163",
-"semelhanca": 0.692,
-"decisao": "nova",
-"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
-"exam": "ENEM",
-"prova_antiga": "enem-2018-ppl",
-"numero_antiga": "dia-2-questao-160",
-"prova_nova": "P3130"
+"nova": null,
+"decisao": "antiga",
+"motivo": "não está no banco novo pronto",
+"exam": "ENEM"
 },
 {
 "antiga": 4131,
@@ -25764,14 +25728,10 @@
 },
 {
 "antiga": 4917,
-"nova": "P2583-Q120",
-"semelhanca": 1.0,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga D, nova C)",
-"exam": "ENEM",
-"prova_antiga": "enem-2020",
-"numero_antiga": "dia-2-questao-124",
-"prova_nova": "P2583"
+"nova": null,
+"decisao": "antiga",
+"motivo": "não está no banco novo pronto",
+"exam": "ENEM"
 },
 {
 "antiga": 4918,
@@ -27181,14 +27141,10 @@
 },
 {
 "antiga": 5294,
-"nova": "P3130-Q148",
-"semelhanca": 0.952,
-"decisao": "nova",
-"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
-"exam": "ENEM",
-"prova_antiga": "enem-2020-digital",
-"numero_antiga": "dia-2-questao-166",
-"prova_nova": "P3130"
+"nova": null,
+"decisao": "antiga",
+"motivo": "não está no banco novo pronto",
+"exam": "ENEM"
 },
 {
 "antiga": 5299,
@@ -28055,8 +28011,8 @@
 "antiga": 5601,
 "nova": "P2427-Q117",
 "semelhanca": 0.525,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga B, nova C)",
+"decisao": "nova",
+"motivo": "gabarito oficial (C) diferente do antigo (B): comentário a refazer",
 "exam": "ENEM",
 "prova_antiga": "enem-2021",
 "numero_antiga": "dia-1-questao-6",
@@ -35024,80 +34980,124 @@
 },
 {
 "antiga": 7018,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q077",
+"semelhanca": 0.774,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-86",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7020,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q019",
+"semelhanca": 0.87,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-19",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7021,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q086",
+"semelhanca": 0.859,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-85",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7022,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q132",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-132",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7023,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q039",
+"semelhanca": 0.828,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-39",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7024,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q004-ING",
+"semelhanca": 0.935,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-4",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7025,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q051",
+"semelhanca": 0.724,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-60",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7026,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q083",
+"semelhanca": 0.877,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-83",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7027,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q071",
+"semelhanca": 0.867,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-75",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7029,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q080",
+"semelhanca": 0.797,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-83",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7030,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q059",
+"semelhanca": 0.86,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-50",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7031,
@@ -35108,283 +35108,443 @@
 },
 {
 "antiga": 7032,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q064",
+"semelhanca": 0.777,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-78",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7033,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q112",
+"semelhanca": 0.826,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-112",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7034,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q071",
+"semelhanca": 0.644,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-71",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7036,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q080",
+"semelhanca": 0.799,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-89",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7038,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q023",
+"semelhanca": 0.943,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-23",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7039,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q019",
+"semelhanca": 0.923,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-20",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7041,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q079",
+"semelhanca": 0.83,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-82",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7042,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q050",
+"semelhanca": 0.84,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-59",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7043,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q061",
+"semelhanca": 0.838,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-48",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7046,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q111",
+"semelhanca": 0.667,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-103",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7047,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q087",
+"semelhanca": 0.877,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-64",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7048,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q093",
+"semelhanca": 0.852,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-100",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7049,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q028",
+"semelhanca": 0.779,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-27",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7050,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q087",
+"semelhanca": 0.867,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-69",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7051,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q130",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-121",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7052,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q130",
+"semelhanca": 0.919,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-123",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7053,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q166",
+"semelhanca": 0.636,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-166",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7054,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q029",
+"semelhanca": 0.9,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-29",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7055,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q096",
+"semelhanca": 0.835,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-96",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7062,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q170",
+"semelhanca": 0.693,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-176",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7063,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q047",
+"semelhanca": 0.776,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-56",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7065,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q025",
+"semelhanca": 0.84,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-23",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7066,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q027",
+"semelhanca": 0.883,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-27",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7067,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q097",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-97",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7069,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q048",
+"semelhanca": 0.807,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-54",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7072,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q056",
+"semelhanca": 0.882,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-56",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7073,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q013",
+"semelhanca": 0.762,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-13",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7074,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q104",
+"semelhanca": 0.819,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-104",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7075,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q064",
+"semelhanca": 0.705,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-64",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7076,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q102",
+"semelhanca": 0.913,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-95",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7077,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q119",
+"semelhanca": 0.783,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-118",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7078,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q098",
+"semelhanca": 0.893,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-98",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7080,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q040",
+"semelhanca": 0.935,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-40",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7081,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q173",
+"semelhanca": 0.696,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-179",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7083,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q098",
+"semelhanca": 0.796,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-92",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7084,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q065",
+"semelhanca": 0.819,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-79",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7085,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q074",
+"semelhanca": 0.904,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-69",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7086,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q072",
+"semelhanca": 0.67,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-75",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7087,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q106",
+"semelhanca": 0.839,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-114",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7088,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q144",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-144",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7090,
@@ -35395,115 +35555,179 @@
 },
 {
 "antiga": 7091,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q131",
+"semelhanca": 0.844,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-131",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7092,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q152",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-147",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7095,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q112",
+"semelhanca": 0.646,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-104",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7096,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q092",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-110",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7099,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q087",
+"semelhanca": 0.885,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-87",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7100,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q027",
+"semelhanca": 0.784,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-25",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7101,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q124",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-124",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7102,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q062",
+"semelhanca": 0.886,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-53",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7104,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q038",
+"semelhanca": 0.925,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-43",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7105,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q092",
+"semelhanca": 0.707,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-92",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7106,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q049",
+"semelhanca": 0.898,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-55",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7108,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q054",
+"semelhanca": 0.85,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-60",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7109,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q061",
+"semelhanca": 0.546,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-52",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7110,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q135",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-135",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7112,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q028",
+"semelhanca": 0.945,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-28",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7113,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q004-ESP",
+"semelhanca": 0.855,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-4",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7114,
@@ -35514,108 +35738,168 @@
 },
 {
 "antiga": 7115,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q068",
+"semelhanca": 0.814,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-72",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7116,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q023",
+"semelhanca": 0.856,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-17",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7117,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q089",
+"semelhanca": 0.747,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-89",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7118,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q073",
+"semelhanca": 0.835,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-68",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7119,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q127",
+"semelhanca": 0.755,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-125",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7120,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q015",
+"semelhanca": 0.701,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-13",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7121,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q053",
+"semelhanca": 0.813,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-62",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7122,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q117",
+"semelhanca": 0.759,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-116",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7123,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q054",
+"semelhanca": 0.845,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-54",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7125,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q134",
+"semelhanca": 0.795,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-120",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7126,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q113",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-113",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7127,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q034",
+"semelhanca": 0.933,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-36",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7128,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q075",
+"semelhanca": 0.506,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-70",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7129,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q084",
+"semelhanca": 0.831,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-83",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7130,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q091",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-91",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7131,
@@ -35626,213 +35910,333 @@
 },
 {
 "antiga": 7132,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q105",
+"semelhanca": 0.883,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-105",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7133,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q070",
+"semelhanca": 0.821,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-74",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7134,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q042",
+"semelhanca": 0.93,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-34",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7135,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q072",
+"semelhanca": 0.854,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-76",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7136,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q065",
+"semelhanca": 0.667,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-65",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7138,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q042",
+"semelhanca": 0.848,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-42",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7140,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q129",
+"semelhanca": 0.845,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-129",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7141,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q015",
+"semelhanca": 0.909,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-12",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7142,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q052",
+"semelhanca": 0.91,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-52",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7143,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q035",
+"semelhanca": 0.933,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-35",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7144,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q066",
+"semelhanca": 0.771,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-80",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7145,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q017",
+"semelhanca": 0.932,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-18",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7147,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q079",
+"semelhanca": 0.83,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-88",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7148,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q019",
+"semelhanca": 0.925,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-10",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7150,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q081",
+"semelhanca": 0.884,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-84",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7151,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q066",
+"semelhanca": 0.767,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-79",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7152,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q156",
+"semelhanca": 0.964,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-151",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7153,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q016",
+"semelhanca": 0.903,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-13",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7154,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q014",
+"semelhanca": 0.926,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-11",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7155,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q085",
+"semelhanca": 0.856,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-85",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7156,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q129",
+"semelhanca": 0.862,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-122",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7157,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q088",
+"semelhanca": 0.76,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-88",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7158,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q063",
+"semelhanca": 0.83,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-63",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7159,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q040",
+"semelhanca": 0.897,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-45",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7165,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q022",
+"semelhanca": 0.902,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-22",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7166,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q002-ESP",
+"semelhanca": 0.846,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-3",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7168,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q008",
+"semelhanca": 0.937,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-17",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7169,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q086",
+"semelhanca": 0.883,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-86",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7170,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q145",
+"semelhanca": 0.882,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-145",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7171,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q029",
+"semelhanca": 0.836,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-21",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7174,
@@ -35843,234 +36247,366 @@
 },
 {
 "antiga": 7175,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q157",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-155",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7181,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q024",
+"semelhanca": 0.857,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-34",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7189,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q085",
+"semelhanca": 0.766,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-67",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7190,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q044",
+"semelhanca": 0.911,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-39",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7191,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q178",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-178",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7192,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q051",
+"semelhanca": 0.803,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-57",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7193,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q024",
+"semelhanca": 0.897,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-28",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7194,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q074",
+"semelhanca": 0.849,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-87",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7195,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q171",
+"semelhanca": 0.748,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-178",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7196,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q002-ESP",
+"semelhanca": 0.944,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-2",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7197,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q003-ESP",
+"semelhanca": 0.875,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-2",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7198,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q004-ESP",
+"semelhanca": 0.932,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-3",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7200,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q049",
+"semelhanca": 0.865,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-49",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7202,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q077",
+"semelhanca": 0.841,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-90",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7203,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q046",
+"semelhanca": 0.741,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-55",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7204,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q041",
+"semelhanca": 0.851,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-43",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7205,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q101",
+"semelhanca": 0.766,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-101",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7206,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q128",
+"semelhanca": 0.661,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-132",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7207,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q120",
+"semelhanca": 0.919,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-127",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7208,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q163",
+"semelhanca": 0.852,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-163",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7209,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q061",
+"semelhanca": 0.646,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-61",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7211,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q078",
+"semelhanca": 0.792,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-81",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7212,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q106",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-106",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7213,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q101",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-94",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7214,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q056",
+"semelhanca": 0.854,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-47",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7215,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q096",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-103",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7219,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q117",
+"semelhanca": 0.929,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-111",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7223,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q148",
+"semelhanca": 0.538,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-140",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7225,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q169",
+"semelhanca": 0.849,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-176",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7226,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q118",
+"semelhanca": 0.856,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-118",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7231,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q154",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-154",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7234,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q159",
+"semelhanca": 0.78,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-159",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7235,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q160",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-160",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7237,
@@ -36081,479 +36617,751 @@
 },
 {
 "antiga": 7238,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q093",
+"semelhanca": 0.858,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-93",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7239,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q070",
+"semelhanca": 0.771,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-73",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7240,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q082",
+"semelhanca": 0.836,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-81",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7241,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q121",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-128",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7242,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q036",
+"semelhanca": 0.916,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-38",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7243,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q060",
+"semelhanca": 0.897,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-51",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7244,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q085",
+"semelhanca": 0.913,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-84",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7247,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q046",
+"semelhanca": 0.872,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-46",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7249,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q108",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-100",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7250,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q032",
+"semelhanca": 0.917,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-32",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7251,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q002-ING",
+"semelhanca": 0.863,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-1",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7252,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q002-ING",
+"semelhanca": 0.708,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-2",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7253,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q071",
+"semelhanca": 0.721,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-74",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7255,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q004-ING",
+"semelhanca": 0.899,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-1",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7256,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q094",
+"semelhanca": 0.778,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-112",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7257,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q003-ESP",
+"semelhanca": 0.948,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-2",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7261,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q026",
+"semelhanca": 0.849,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-36",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7262,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q084",
+"semelhanca": 0.863,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-66",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7263,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q005-ING",
+"semelhanca": 0.91,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-4",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7264,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q076",
+"semelhanca": 0.804,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-71",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7265,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q159",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-154",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7267,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q005-ESP",
+"semelhanca": 0.953,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-1",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7268,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q005-ESP",
+"semelhanca": 0.881,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-5",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7269,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q016",
+"semelhanca": 0.874,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-16",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7270,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q079",
+"semelhanca": 0.867,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-79",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7271,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q010",
+"semelhanca": 0.953,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-19",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7272,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q059",
+"semelhanca": 0.856,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-46",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7273,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q025",
+"semelhanca": 0.833,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-35",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7274,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q020",
+"semelhanca": 0.595,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-20",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7275,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q076",
+"semelhanca": 0.903,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-76",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7276,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q078",
+"semelhanca": 0.771,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-78",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7277,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q068",
+"semelhanca": 0.732,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-71",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7279,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q005-ING",
+"semelhanca": 0.905,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-5",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7280,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q001-ING",
+"semelhanca": 0.894,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-2",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7282,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q132",
+"semelhanca": 0.747,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-125",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7283,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q161",
+"semelhanca": 0.859,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-161",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7284,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q148",
+"semelhanca": 0.76,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-159",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7286,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q069",
+"semelhanca": 0.856,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-73",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7287,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q155",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-155",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7288,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q125",
+"semelhanca": 0.713,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-134",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7289,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q165",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-165",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7290,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q050",
+"semelhanca": 0.878,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-50",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7296,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q022",
+"semelhanca": 0.922,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-26",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7297,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q116",
+"semelhanca": 0.854,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-116",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7298,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q146",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-146",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7302,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q095",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-95",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7304,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q018",
+"semelhanca": 0.905,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-19",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7305,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q111",
+"semelhanca": 0.765,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-105",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7306,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q164",
+"semelhanca": 0.943,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-166",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7307,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q067",
+"semelhanca": 0.814,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-70",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7308,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q080",
+"semelhanca": 0.899,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-80",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7310,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q094",
+"semelhanca": 0.901,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-94",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7311,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q046",
+"semelhanca": 0.83,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-52",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7312,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q053",
+"semelhanca": 0.898,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-53",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7313,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q021",
+"semelhanca": 0.819,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-30",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7314,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q055",
+"semelhanca": 0.808,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-55",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7315,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q116",
+"semelhanca": 0.908,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-110",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7316,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q006",
+"semelhanca": 0.918,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-6",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7317,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q114",
+"semelhanca": 0.784,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-108",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7318,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q134",
+"semelhanca": 0.698,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-131",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7319,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q111",
+"semelhanca": 0.766,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-111",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7320,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q014",
+"semelhanca": 0.903,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-12",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7321,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q078",
+"semelhanca": 0.68,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-87",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7323,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q023",
+"semelhanca": 0.868,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-27",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7324,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q118",
+"semelhanca": 0.683,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-112",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7325,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q067",
+"semelhanca": 0.821,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-67",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7326,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q131",
+"semelhanca": 0.63,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-122",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7327,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q104",
+"semelhanca": 0.777,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-98",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7328,
@@ -36564,472 +37372,740 @@
 },
 {
 "antiga": 7329,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q009",
+"semelhanca": 0.921,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-18",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7330,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q012",
+"semelhanca": 0.63,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-12",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7331,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q059",
+"semelhanca": 0.78,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-59",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7332,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q064",
+"semelhanca": 0.876,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-77",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7337,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q055",
+"semelhanca": 0.897,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-61",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7338,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q159",
+"semelhanca": 0.636,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-157",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7340,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q013",
+"semelhanca": 0.955,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-16",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7341,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q057",
+"semelhanca": 0.867,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-50",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7343,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q161",
+"semelhanca": 0.894,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-159",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7344,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q103",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-96",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7348,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q108",
+"semelhanca": 0.845,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-116",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7354,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q063",
+"semelhanca": 0.863,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-54",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7356,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q031",
+"semelhanca": 0.779,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-31",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7358,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q036",
+"semelhanca": 0.942,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-36",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7359,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q040",
+"semelhanca": 0.754,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-38",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7363,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q020",
+"semelhanca": 0.886,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-21",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7364,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q157",
+"semelhanca": 0.712,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-157",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7365,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q084",
+"semelhanca": 0.845,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-84",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7366,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q107",
+"semelhanca": 0.551,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-99",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7368,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q058",
+"semelhanca": 0.91,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-49",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7369,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q012",
+"semelhanca": 0.84,
+"decisao": "nova",
+"motivo": "gabarito oficial (B) diferente do antigo (D): comentário a refazer",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-15",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7370,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q033",
+"semelhanca": 0.903,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-33",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7374,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q154",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-149",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7375,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q074",
+"semelhanca": 0.863,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-74",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7376,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q083",
+"semelhanca": 0.878,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-65",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7377,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q021",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-15",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7378,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q110",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-102",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7379,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q077",
+"semelhanca": 0.71,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-77",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7380,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q073",
+"semelhanca": 0.818,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-73",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7381,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q134",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-134",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7383,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q115",
+"semelhanca": 0.815,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-109",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7384,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q030",
+"semelhanca": 0.918,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-22",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7385,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q021",
+"semelhanca": 0.873,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-21",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7388,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q162",
+"semelhanca": 0.8,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-162",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7389,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q018",
+"semelhanca": 0.722,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-9",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7390,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q126",
+"semelhanca": 0.668,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-124",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7391,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q115",
+"semelhanca": 0.7,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-115",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7392,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q051",
+"semelhanca": 0.778,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-51",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7393,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q124",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-133",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7396,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q062",
+"semelhanca": 0.887,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-76",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7398,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q099",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-93",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7400,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q049",
+"semelhanca": 0.802,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-58",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7401,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q075",
+"semelhanca": 0.643,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-88",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7403,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q102",
+"semelhanca": 0.789,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-96",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7404,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q120",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-120",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7405,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q034",
+"semelhanca": 0.918,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-34",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7408,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q125",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-125",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7409,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q118",
+"semelhanca": 0.672,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-117",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7410,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q138",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-151",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7412,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q109",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-109",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7414,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q047",
+"semelhanca": 0.875,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-47",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7415,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q088",
+"semelhanca": 0.667,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-62",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7416,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q170",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-170",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7418,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q012",
+"semelhanca": 0.934,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-25",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7419,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q161",
+"semelhanca": 0.726,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-156",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7420,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q179",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-174",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7422,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q090",
+"semelhanca": 0.856,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-67",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7423,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q029",
+"semelhanca": 0.895,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-28",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7424,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q073",
+"semelhanca": 0.867,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-86",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7427,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q088",
+"semelhanca": 0.819,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-65",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7428,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q146",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-142",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7429,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q109",
+"semelhanca": 0.845,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-101",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7430,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q130",
+"semelhanca": 0.775,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-130",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7431,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q050",
+"semelhanca": 0.856,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-56",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7432,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q042",
+"semelhanca": 0.933,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-44",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7433,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q082",
+"semelhanca": 0.741,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-82",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7434,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q122",
+"semelhanca": 0.8,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-129",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7435,
@@ -37040,318 +38116,494 @@
 },
 {
 "antiga": 7436,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q058",
+"semelhanca": 0.727,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-58",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7438,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q017",
+"semelhanca": 0.949,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-17",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7439,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q089",
+"semelhanca": 0.887,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-66",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7440,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q041",
+"semelhanca": 0.855,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-41",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7441,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q048",
+"semelhanca": 0.731,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-48",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7443,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q139",
+"semelhanca": 0.76,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-152",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7444,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q035",
+"semelhanca": 0.877,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-37",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7446,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q002-ING",
+"semelhanca": 0.901,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-3",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7448,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q026",
+"semelhanca": 0.781,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-24",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7449,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q003-ING",
+"semelhanca": 0.793,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-5",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7450,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q048",
+"semelhanca": 0.852,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-57",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7451,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q024",
+"semelhanca": 0.929,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-24",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7453,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q083",
+"semelhanca": 0.89,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-82",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7454,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q001-ESP",
+"semelhanca": 0.874,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-4",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7455,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q001-ING",
+"semelhanca": 0.88,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-1",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7457,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q030",
+"semelhanca": 0.899,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-29",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7458,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q035",
+"semelhanca": 0.821,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-22",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7460,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q039",
+"semelhanca": 0.894,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-37",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7461,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q036",
+"semelhanca": 0.765,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-23",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7462,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q081",
+"semelhanca": 0.831,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-81",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7463,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q047",
+"semelhanca": 0.776,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-53",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7466,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q101",
+"semelhanca": 0.748,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-95",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7467,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q094",
+"semelhanca": 0.726,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-101",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7468,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q055",
+"semelhanca": 0.81,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-46",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7470,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q090",
+"semelhanca": 0.78,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-90",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7472,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q069",
+"semelhanca": 0.864,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-72",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7473,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q076",
+"semelhanca": 0.705,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-89",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7474,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q052",
+"semelhanca": 0.735,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-61",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7475,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q082",
+"semelhanca": 0.793,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-85",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7476,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q057",
+"semelhanca": 0.846,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-48",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7477,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q062",
+"semelhanca": 0.828,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-62",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7479,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q037",
+"semelhanca": 0.847,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-42",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7481,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q068",
+"semelhanca": 0.897,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-68",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7487,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q172",
+"semelhanca": 0.841,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-178",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7488,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q032",
+"semelhanca": 0.913,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-40",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7489,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q066",
+"semelhanca": 0.705,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-66",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7494,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q178",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-171",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7495,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q060",
+"semelhanca": 0.777,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-60",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7496,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q126",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-126",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7497,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q165",
+"semelhanca": 0.958,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-167",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7498,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q123",
+"semelhanca": 0.901,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-123",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7499,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q179",
+"semelhanca": 0.857,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-172",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7502,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q168",
+"semelhanca": 0.912,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-168",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7503,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q160",
+"semelhanca": 0.864,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-158",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7506,
 "nova": "P2485-Q100",
 "semelhanca": 1.0,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga A, nova E)",
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
 "exam": "ENEM",
 "prova_antiga": "enem-2025-ppl",
 "numero_antiga": "dia-2-questao-93",
@@ -37359,283 +38611,443 @@
 },
 {
 "antiga": 7507,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q150",
+"semelhanca": 0.65,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-161",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7508,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q114",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-114",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7510,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q141",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-137",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7511,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q137",
+"semelhanca": 0.782,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-137",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7512,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q168",
+"semelhanca": 0.868,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-163",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7513,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q169",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-175",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7519,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q173",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-173",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7521,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q107",
+"semelhanca": 0.824,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-107",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7523,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q143",
+"semelhanca": 0.674,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-139",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7524,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q141",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-141",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7528,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q149",
+"semelhanca": 0.852,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-149",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7529,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q149",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-141",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7532,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q137",
+"semelhanca": 0.955,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-144",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7533,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q166",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-162",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7535,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q140",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-136",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7536,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q158",
+"semelhanca": 0.872,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-158",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7537,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q145",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-141",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7538,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q137",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-150",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7539,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q174",
+"semelhanca": 0.93,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-169",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7542,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q144",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-144",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7545,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q172",
+"semelhanca": 0.953,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-179",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7546,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q138",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-145",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7549,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q176",
+"semelhanca": 0.933,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-171",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7551,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q136",
+"semelhanca": 0.67,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-136",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7552,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q102",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-102",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7553,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q174",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-174",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7554,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2619-Q142",
+"semelhanca": 0.957,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-2-questao-136",
+"prova_nova": "P2619"
 },
 {
 "antiga": 7556,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q175",
+"semelhanca": 0.89,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-175",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7557,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q043",
+"semelhanca": 0.932,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-35",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7558,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q178",
+"semelhanca": 0.836,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-173",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7559,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2625-Q169",
+"semelhanca": 0.813,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-2-questao-169",
+"prova_nova": "P2625"
 },
 {
 "antiga": 7560,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q037",
+"semelhanca": 0.934,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-37",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7561,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q031",
+"semelhanca": 0.771,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-30",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7563,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2482-Q054",
+"semelhanca": 0.916,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-1-questao-63",
+"prova_nova": "P2482"
 },
 {
 "antiga": 7565,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2485-Q092",
+"semelhanca": 1.0,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-ppl",
+"numero_antiga": "dia-2-questao-99",
+"prova_nova": "P2485"
 },
 {
 "antiga": 7567,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q001-ESP",
+"semelhanca": 0.74,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-1",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7568,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2616-Q005-ESP",
+"semelhanca": 0.923,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025",
+"numero_antiga": "dia-1-questao-5",
+"prova_nova": "P2616"
 },
 {
 "antiga": 7569,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q070",
+"semelhanca": 0.911,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-70",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7570,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q057",
+"semelhanca": 0.759,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-57",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7571,
-"nova": null,
-"decisao": "antiga",
-"motivo": "não está no banco novo pronto",
-"exam": "ENEM"
+"nova": "P2622-Q072",
+"semelhanca": 0.8,
+"decisao": "nova",
+"motivo": "mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta",
+"exam": "ENEM",
+"prova_antiga": "enem-2025-belem",
+"numero_antiga": "dia-1-questao-72",
+"prova_nova": "P2622"
 },
 {
 "antiga": 7572,
@@ -40352,8 +41764,8 @@
 "antiga": 8293,
 "nova": "P4141-Q011",
 "semelhanca": 0.896,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga B, nova A)",
+"decisao": "nova",
+"motivo": "gabarito oficial (A) diferente do antigo (B): comentário a refazer",
 "exam": "SSA",
 "prova_antiga": "arquivos_ssa2__PROVA-SSA2-1-DIA.pdf",
 "numero_antiga": "11",
@@ -40392,8 +41804,8 @@
 "antiga": 8304,
 "nova": "P4141-Q012",
 "semelhanca": 0.946,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga C, nova E)",
+"decisao": "nova",
+"motivo": "gabarito oficial (E) diferente do antigo (C): comentário a refazer",
 "exam": "SSA",
 "prova_antiga": "arquivos_ssa2__PROVA-SSA2-1-DIA.pdf",
 "numero_antiga": "12",
@@ -41048,8 +42460,8 @@
 "antiga": 8605,
 "nova": "P4083-Q039",
 "semelhanca": 0.753,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga C, nova D)",
+"decisao": "nova",
+"motivo": "gabarito oficial (D) diferente do antigo (C): comentário a refazer",
 "exam": "SSA",
 "prova_antiga": "x__CADERNO_DE_PROVAS_SSA_1_1_dia.pdf",
 "numero_antiga": "39",
@@ -41239,8 +42651,8 @@
 "antiga": 8696,
 "nova": "P4138-Q007",
 "semelhanca": 0.719,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga B, nova D)",
+"decisao": "nova",
+"motivo": "gabarito oficial (D) diferente do antigo (B): comentário a refazer",
 "exam": "SSA",
 "prova_antiga": "arquivos_ssa2__PROVA_SSA_2_-_2_Dia.pdf",
 "numero_antiga": "7",
@@ -41250,8 +42662,8 @@
 "antiga": 8697,
 "nova": "P4141-Q007",
 "semelhanca": 0.996,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga C, nova B)",
+"decisao": "nova",
+"motivo": "gabarito oficial (B) diferente do antigo (C): comentário a refazer",
 "exam": "SSA",
 "prova_antiga": "arquivos_ssa2__PROVA-SSA2-1-DIA.pdf",
 "numero_antiga": "7",
@@ -42478,8 +43890,8 @@
 "antiga": 8982,
 "nova": "P4074-Q041",
 "semelhanca": 0.786,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga D, nova C)",
+"decisao": "nova",
+"motivo": "gabarito oficial (C) diferente do antigo (D): comentário a refazer",
 "exam": "SSA",
 "prova_antiga": "processo2015__PROVA_SSA_1_-_2_Dia.pdf",
 "numero_antiga": "41",
@@ -42820,8 +44232,8 @@
 "antiga": 9114,
 "nova": "P4144-Q021",
 "semelhanca": 0.79,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga B, nova A)",
+"decisao": "nova",
+"motivo": "gabarito oficial (A) diferente do antigo (B): comentário a refazer",
 "exam": "SSA",
 "prova_antiga": "processo2017__PROVA-SSA2-2DIA.pdf",
 "numero_antiga": "21",
@@ -42871,8 +44283,8 @@
 "antiga": 9121,
 "nova": "P4144-Q023",
 "semelhanca": 0.535,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga B, nova A)",
+"decisao": "nova",
+"motivo": "gabarito oficial (A) diferente do antigo (B): comentário a refazer",
 "exam": "SSA",
 "prova_antiga": "processo2017__PROVA-SSA2-2DIA.pdf",
 "numero_antiga": "23",
@@ -43235,8 +44647,8 @@
 "antiga": 9284,
 "nova": "P4217-Q012",
 "semelhanca": 0.6,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga A, nova E)",
+"decisao": "nova",
+"motivo": "gabarito oficial (E) diferente do antigo (A): comentário a refazer",
 "exam": "SSA",
 "prova_antiga": "x__CADERNO_PROVAS_SSA_3_2_DIA.pdf",
 "numero_antiga": "12",
@@ -43600,8 +45012,8 @@
 "antiga": 9385,
 "nova": "P4084-Q030",
 "semelhanca": 0.75,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga C, nova D)",
+"decisao": "nova",
+"motivo": "gabarito oficial (D) diferente do antigo (C): comentário a refazer",
 "exam": "SSA",
 "prova_antiga": "x__CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
 "numero_antiga": "30",
@@ -44003,8 +45415,8 @@
 "antiga": 9499,
 "nova": "P4084-Q007",
 "semelhanca": 0.81,
-"decisao": "duvida",
-"motivo": "gabaritos diferentes (antiga B, nova E)",
+"decisao": "nova",
+"motivo": "gabarito oficial (E) diferente do antigo (B): comentário a refazer",
 "exam": "SSA",
 "prova_antiga": "x__CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
 "numero_antiga": "7",

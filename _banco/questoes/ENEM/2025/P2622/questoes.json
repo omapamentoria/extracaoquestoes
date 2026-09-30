@@ -41,7 +41,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    2
@@ -217,9 +217,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q001-ING_p2.jpg"
@@ -267,7 +265,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    2
@@ -437,9 +435,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q002-ING_p2.jpg"
@@ -499,7 +495,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    2
@@ -573,9 +569,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q003-ING_p2.jpg"
@@ -635,7 +629,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    3
@@ -709,9 +703,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q004-ING_p3.jpg"
@@ -759,7 +751,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    3
@@ -881,9 +873,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q005-ING_p3.jpg"
@@ -943,7 +933,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    3
@@ -1047,9 +1037,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q001-ESP_p3.jpg"
@@ -1097,7 +1085,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    4
@@ -1297,9 +1285,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q002-ESP_p4.jpg"
@@ -1359,7 +1345,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    4
@@ -1463,9 +1449,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q003-ESP_p4.jpg"
@@ -1513,7 +1497,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    5
@@ -1677,9 +1661,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q004-ESP_p5.jpg"
@@ -1727,7 +1709,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    5
@@ -2047,9 +2029,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q005-ESP_p5.jpg"
@@ -2097,7 +2077,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    7
@@ -2153,9 +2133,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q006_p7.jpg"
@@ -2203,7 +2181,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    7
@@ -2259,9 +2237,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q007_p7.jpg"
@@ -2309,7 +2285,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    7
@@ -2365,9 +2341,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q008_p7.jpg"
@@ -2415,7 +2389,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    7
@@ -2471,9 +2445,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q009_p7.jpg"
@@ -2521,7 +2493,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    7
@@ -2589,9 +2561,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q010_p7.jpg"
@@ -2652,7 +2622,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    8
@@ -2882,9 +2852,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q011_p8.jpg"
@@ -2932,7 +2900,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    8
@@ -3084,9 +3052,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q012_p8.jpg"
@@ -3134,7 +3100,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    8
@@ -3340,9 +3306,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q013_p8.jpg"
@@ -3402,7 +3366,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    9
@@ -3470,9 +3434,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q014_p9.jpg"
@@ -3532,7 +3494,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    9
@@ -3600,9 +3562,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q015_p9.jpg"
@@ -3650,7 +3610,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    10
@@ -3820,9 +3780,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q016_p10.jpg"
@@ -3870,7 +3828,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    10
@@ -4058,9 +4016,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q017_p10.jpg"
@@ -4120,7 +4076,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    10
@@ -4224,9 +4180,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q018_p10.jpg"
@@ -4274,7 +4228,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    11
@@ -4486,9 +4440,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q019_p11.jpg"
@@ -4536,7 +4488,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    11
@@ -4694,9 +4646,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q020_p11.jpg"
@@ -4744,7 +4694,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    11
@@ -4914,9 +4864,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q021_p11.jpg"
@@ -4964,7 +4912,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    11
@@ -5128,9 +5076,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q022_p11.jpg"
@@ -5178,7 +5124,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    12
@@ -5372,9 +5318,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q023_p12.jpg"
@@ -5422,7 +5366,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    12
@@ -5604,9 +5548,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q024_p12.jpg"
@@ -5666,7 +5608,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    12
@@ -5746,9 +5688,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q025_p12.jpg"
@@ -5808,7 +5748,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    13
@@ -5979,8 +5919,7 @@
    "P2621"
   ],
   "alertas": [
-   "imagem 1 tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto",
-   "sem gabarito"
+   "imagem 1 tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -6029,7 +5968,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    13
@@ -6199,9 +6138,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q027_p13.jpg"
@@ -6249,7 +6186,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    13
@@ -6473,9 +6410,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q028_p13.jpg"
@@ -6523,7 +6458,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    14
@@ -6723,9 +6658,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q029_p14.jpg"
@@ -6773,7 +6706,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    14
@@ -6955,9 +6888,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q030_p14.jpg"
@@ -7005,7 +6936,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    14
@@ -7163,9 +7094,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q031_p14.jpg"
@@ -7213,7 +7142,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    15
@@ -7419,9 +7348,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q032_p15.jpg"
@@ -7469,7 +7396,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    15
@@ -7621,9 +7548,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q033_p15.jpg"
@@ -7671,7 +7596,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    15
@@ -7925,9 +7850,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q034_p15.jpg"
@@ -7975,7 +7898,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    16
@@ -8151,9 +8074,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q035_p16.jpg"
@@ -8201,7 +8122,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    16
@@ -8407,9 +8328,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q036_p16.jpg"
@@ -8457,7 +8376,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    16
@@ -8723,9 +8642,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q037_p16.jpg"
@@ -8785,7 +8702,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    17
@@ -8883,9 +8800,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q038_p17.jpg"
@@ -8933,7 +8848,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    17
@@ -9127,9 +9042,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q039_p17.jpg"
@@ -9177,7 +9090,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    18
@@ -9371,9 +9284,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q040_p18.jpg"
@@ -9421,7 +9332,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    18
@@ -9555,9 +9466,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q041_p18.jpg"
@@ -9617,7 +9526,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    18
@@ -9721,9 +9630,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q042_p18.jpg"
@@ -9771,7 +9678,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    19
@@ -9959,9 +9866,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q043_p19.jpg"
@@ -10022,7 +9927,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    19
@@ -10199,8 +10104,7 @@
    "P2621"
   ],
   "alertas": [
-   "texto curto solto junto da imagem (“**teXto II**”): pode ser rótulo da figura — conferir",
-   "sem gabarito"
+   "texto curto solto junto da imagem (“**teXto II**”): pode ser rótulo da figura — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -10249,7 +10153,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    19,
@@ -10495,8 +10399,7 @@
    "P2621"
   ],
   "alertas": [
-   "figura na pág. 22 depois da alternativa E foi descartada (não faz parte da questão) — conferir",
-   "sem gabarito"
+   "figura na pág. 22 depois da alternativa E foi descartada (não faz parte da questão) — conferir"
   ],
   "status_revisao": "revisar",
   "recortes": [
@@ -10546,7 +10449,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    22
@@ -10674,9 +10577,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q046_p22.jpg"
@@ -10724,7 +10625,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    22
@@ -10828,9 +10729,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q047_p22.jpg"
@@ -10878,7 +10777,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    22
@@ -10988,9 +10887,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q048_p22.jpg"
@@ -11038,7 +10935,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    22
@@ -11160,9 +11057,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q049_p22.jpg"
@@ -11210,7 +11105,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    22
@@ -11344,9 +11239,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q050_p22.jpg"
@@ -11394,7 +11287,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    23
@@ -11528,9 +11421,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q051_p23.jpg"
@@ -11578,7 +11469,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    23
@@ -11754,9 +11645,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q052_p23.jpg"
@@ -11804,7 +11693,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    23
@@ -11908,9 +11797,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q053_p23.jpg"
@@ -11958,7 +11845,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    23
@@ -12128,9 +12015,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q054_p23.jpg"
@@ -12178,7 +12063,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    24
@@ -12282,9 +12167,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q055_p24.jpg"
@@ -12332,7 +12215,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    24
@@ -12454,9 +12337,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q056_p24.jpg"
@@ -12504,7 +12385,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    24
@@ -12608,9 +12489,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q057_p24.jpg"
@@ -12658,7 +12537,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    24
@@ -12774,9 +12653,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q058_p24.jpg"
@@ -12824,7 +12701,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    24
@@ -12940,9 +12817,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q059_p24.jpg"
@@ -12990,7 +12865,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    24
@@ -13112,9 +12987,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q060_p24.jpg"
@@ -13162,7 +13035,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    25
@@ -13296,9 +13169,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q061_p25.jpg"
@@ -13359,7 +13230,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    25
@@ -13523,9 +13394,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q062_p25.jpg"
@@ -13573,7 +13442,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    25
@@ -13701,9 +13570,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q063_p25.jpg"
@@ -13751,7 +13618,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    25
@@ -13903,9 +13770,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q064_p25.jpg"
@@ -13965,7 +13830,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    26
@@ -14075,9 +13940,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q065_p26.jpg"
@@ -14125,7 +13988,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    26
@@ -14247,9 +14110,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q066_p26.jpg"
@@ -14297,7 +14158,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    26
@@ -14419,9 +14280,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q067_p26.jpg"
@@ -14469,7 +14328,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    26
@@ -14627,9 +14486,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q068_p26.jpg"
@@ -14689,7 +14546,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    27
@@ -14793,9 +14650,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q069_p27.jpg"
@@ -14843,7 +14698,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    27
@@ -14947,9 +14802,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q070_p27.jpg"
@@ -14997,7 +14850,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    27
@@ -15125,9 +14978,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q071_p27.jpg"
@@ -15175,7 +15026,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    27
@@ -15273,9 +15124,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q072_p27.jpg"
@@ -15323,7 +15172,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    27
@@ -15433,9 +15282,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q073_p27.jpg"
@@ -15483,7 +15330,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    28
@@ -15605,9 +15452,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q074_p28.jpg"
@@ -15655,7 +15500,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    28
@@ -15777,9 +15622,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q075_p28.jpg"
@@ -15827,7 +15670,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    28
@@ -15961,9 +15804,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q076_p28.jpg"
@@ -16012,7 +15853,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    28
@@ -16122,9 +15963,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q077_p28.jpg"
@@ -16172,7 +16011,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    28
@@ -16312,9 +16151,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q078_p28.jpg"
@@ -16363,7 +16200,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    29
@@ -16533,9 +16370,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q079_p29.jpg"
@@ -16583,7 +16418,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    29
@@ -16723,9 +16558,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q080_p29.jpg"
@@ -16774,7 +16607,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "C",
   "anulada": false,
   "paginas": [
    29
@@ -16956,9 +16789,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q081_p29.jpg"
@@ -17006,7 +16837,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    29
@@ -17122,9 +16953,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q082_p29.jpg"
@@ -17184,7 +17013,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    30
@@ -17336,9 +17165,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q083_p30.jpg"
@@ -17386,7 +17213,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    30
@@ -17502,9 +17329,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q084_p30.jpg"
@@ -17552,7 +17377,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    30
@@ -17716,9 +17541,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q085_p30.jpg"
@@ -17766,7 +17589,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "A",
   "anulada": false,
   "paginas": [
    30
@@ -17930,9 +17753,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q086_p30.jpg"
@@ -17980,7 +17801,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "D",
   "anulada": false,
   "paginas": [
    31
@@ -18132,9 +17953,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q087_p31.jpg"
@@ -18182,7 +18001,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    31
@@ -18334,9 +18153,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q088_p31.jpg"
@@ -18384,7 +18201,7 @@
   ],
   "apos_alternativas": "",
   "imagens": [],
-  "gabarito": null,
+  "gabarito": "E",
   "anulada": false,
   "paginas": [
    31
@@ -18488,9 +18305,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q089_p31.jpg"
@@ -18551,7 +18366,7 @@
     ]
    }
   ],
-  "gabarito": null,
+  "gabarito": "B",
   "anulada": false,
   "paginas": [
    31
@@ -18679,9 +18494,7 @@
    "P2620",
    "P2621"
   ],
-  "alertas": [
-   "sem gabarito"
-  ],
+  "alertas": [],
   "status_revisao": "revisar",
   "recortes": [
    "revisao/Q090_p31.jpg"

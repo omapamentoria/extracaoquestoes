@@ -12,6 +12,18 @@ CAT = {r["id"]: r for r in json.load(open(os.path.join(R, "_banco", "catalogo_de
 FORA = set(re.findall(r"^(P\d{4})", open(os.path.join(R, "docs", "lotes", "fora_do_banco.txt")).read(), re.M))
 # provas com texto embaralhado sem alerta (fonte cifrada): nao contam como prontas
 FORA |= set(re.findall(r"^(P\d{4})", open(os.path.join(R, "docs", "lotes", "fora_das_prontas.txt")).read(), re.M))
+# gabarito so de resolucao (nao confirmado): fora da primeira carga
+FORA |= set(re.findall(r"^(P\d{4})", open(os.path.join(R, "docs", "lotes", "gabarito_nao_confirmado.txt")).read(), re.M))
+
+
+def gab_oficial(pid):
+    """o gabarito da prova veio de arquivo de gabarito oficial (nao de resolucao / comentado)"""
+    f = glob.glob(f"/home/user/*/questoes/*/*/{pid}/questoes.json") + glob.glob(os.path.join(R, "_banco", "questoes", "*", "*", pid, "questoes.json"))
+    orig = json.load(open(f[0], encoding="utf-8"))[0].get("gabarito_origem") or []
+    def com(g):
+        a = (CAT[g]["arquivo"] or "").lower()
+        return (not re.search(r"sem\s+coment", a)) and (bool(re.search(r"coment|resolu|respostas", a)) or CAT[g].get("papel") == "resolucao")
+    return any(g in CAT and not com(g) for g in orig)
 OUT = os.path.join(R, "unificacao"); os.makedirs(OUT, exist_ok=True)
 _dp = os.path.join(OUT, "decisoes_matheus.json")
 DECISOES = json.load(open(_dp, encoding="utf-8")) if os.path.exists(_dp) else {}
@@ -90,6 +102,10 @@ for o in antigas:
     if (o.get("gabarito") or "").strip().upper() != (n["gab"] or "").strip().upper() and prioridade(novas[qid_final]["pid"]) == 2:
         # a nova e de simulado: simulado costuma trocar a ordem das alternativas; o comentario antigo cita letras
         dec = "antiga"; motivo.append(f"gabaritos diferentes e a nova é de simulado (antiga {o.get('gabarito')}, nova {n['gab']})")
+    elif (o.get("gabarito") or "").strip().upper() != (n["gab"] or "").strip().upper() and gab_oficial(novas[qid_final]["pid"]):
+        # conferido em 30/09/2026 no gabarito oficial (ENEM e SSA definitivo): o do banco antigo estava errado.
+        # Fica a nova com o gabarito oficial; o comentario antigo explica a resposta errada -> refazer
+        dec = "nova"; motivo.append(f"gabarito oficial ({n['gab']}) diferente do antigo ({o.get('gabarito')}): comentário a refazer")
     elif (o.get("gabarito") or "").strip().upper() != (n["gab"] or "").strip().upper():
         dec = "duvida"; motivo.append(f"gabaritos diferentes (antiga {o.get('gabarito')}, nova {n['gab']})")
     elif figs_antiga and n["nimg"] == 0:
