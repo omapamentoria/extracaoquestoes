@@ -80,3 +80,40 @@ Primeira leva: só objetivas prontas (as discursivas precisam de outra tela).
 6. **Publicar**: juntar ao ramo padrão do `Banco-de-questoes`; a sincronização cria as questões novas.
 7. Depois: classificação (a plataforma já tem a taxonomia em `areas → materias → assuntos → subassuntos`) e
    comentários das questões novas.
+
+## Plano de trabalho (combinado em 30/09/2026)
+
+Decisões do Matheus:
+* Questão repetida: fica a **melhor extração** (antiga ou nova); o **gabarito comentado antigo sempre fica**.
+* Questões novas entram só com o gabarito; o comentário vem depois.
+* A classificação usa o sistema que já existe na plataforma (áreas → matérias → assuntos → subassuntos).
+* Antes de executar, o plano é fechado com as informações que faltam.
+
+### Fase 0 — Informações do Matheus (Lovable/Supabase)
+Exportar em CSV (Lovable → Cloud → Database → tabela → Export): `areas`, `materias`, `assuntos`, `subassuntos`,
+`depara_texto_livre`, `questoes` e as tabelas de relatos de erro e de respostas dos alunos; prints da tela do banco
+(aluno e mentor); o que incomoda hoje e o que falta; vestibulares prioritários.
+
+### Fase 1 — Diagnóstico (Claude, sem mexer em nada)
+Ler os CSVs: quantas questões estão publicadas e classificadas, como a taxonomia está organizada, quais questões
+antigas os alunos já responderam ou relataram com erro (essas nunca mudam de id).
+
+### Fase 2 — Unificação
+Mapa de repetidas com decisão automática; página de revisão lado a lado para os pares em dúvida.
+
+### Fase 3 — Conversão
+Banco novo no formato da plataforma, ids a partir de 100.001, imagens para web.
+
+### Fase 4 — Plataforma (prompts para o Lovable, um por vez, pequenos)
+Texto rico (fórmula, tabela, negrito, imagem no lugar), questão sem comentário, filtros por vestibular/ano/prova,
+imagens no Storage do Supabase se o GitHub ficar lento, e o que vier da Fase 0.
+
+### Fase 5 — Classificação
+Na taxonomia da plataforma: área e matéria pelo código (área da prova, ordem das questões), assunto e subassunto
+pelo Claude, em lotes, usando as 5 mil questões antigas já classificadas como exemplo.
+
+### Fase 6 — Carga
+Teste num ramo, conferência de contagens e amostra na tela, publicação.
+
+### Depois
+Comentários das questões novas; provas danificadas (`docs/lotes/pdfs_para_conseguir.md`); discursivas.
