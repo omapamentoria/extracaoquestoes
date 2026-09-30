@@ -13,6 +13,8 @@ FORA = set(re.findall(r"^(P\d{4})", open(os.path.join(R, "docs", "lotes", "fora_
 # provas com texto embaralhado sem alerta (fonte cifrada): nao contam como prontas
 FORA |= set(re.findall(r"^(P\d{4})", open(os.path.join(R, "docs", "lotes", "fora_das_prontas.txt")).read(), re.M))
 OUT = os.path.join(R, "unificacao"); os.makedirs(OUT, exist_ok=True)
+_dp = os.path.join(OUT, "decisoes_matheus.json")
+DECISOES = json.load(open(_dp, encoding="utf-8")) if os.path.exists(_dp) else {}
 
 
 def palavras(s):
@@ -85,7 +87,10 @@ for o in antigas:
     qid_final = copia_de.get(qid, qid)
     figs_antiga = [i for i in o.get("imagens", []) if "contexto" not in i]
     motivo = []
-    if (o.get("gabarito") or "").strip().upper() != (n["gab"] or "").strip().upper():
+    if (o.get("gabarito") or "").strip().upper() != (n["gab"] or "").strip().upper() and prioridade(novas[qid_final]["pid"]) == 2:
+        # a nova e de simulado: simulado costuma trocar a ordem das alternativas; o comentario antigo cita letras
+        dec = "antiga"; motivo.append(f"gabaritos diferentes e a nova é de simulado (antiga {o.get('gabarito')}, nova {n['gab']})")
+    elif (o.get("gabarito") or "").strip().upper() != (n["gab"] or "").strip().upper():
         dec = "duvida"; motivo.append(f"gabaritos diferentes (antiga {o.get('gabarito')}, nova {n['gab']})")
     elif figs_antiga and n["nimg"] == 0:
         dec = "duvida"; motivo.append("a antiga tem figura e a nova não")
@@ -96,9 +101,12 @@ for o in antigas:
         motivo.append("mesma questão e mesmo gabarito; a nova é cópia fiel do PDF, sem nenhum alerta")
         if any("contexto" in i for i in o.get("imagens", [])): motivo.append("a antiga usa recorte da página")
         if re.match(r"^\s*\d{1,3}\s*[.)]", o["statement"]): motivo.append("a antiga tem o número no enunciado")
+    if str(o["id"]) in DECISOES:      # escolha do Matheus na pagina de pares vale mais que qualquer regra
+        esc_ = DECISOES[str(o["id"])]["escolha"]
+        dec = {"nova": "nova", "antiga": "antiga", "nenhuma": "antiga"}[esc_]; motivo = [f"escolha do Matheus ({esc_})"]
     pares.append({"antiga": o["id"], "nova": qid_final, "semelhanca": round(s, 3), "decisao": dec, "motivo": "; ".join(motivo),
                   "exam": o["exam"], "prova_antiga": o["prova"], "numero_antiga": o["number"], "prova_nova": novas[qid_final]["pid"]})
-    usadas.add(qid_final)
+    if not (str(o["id"]) in DECISOES and DECISOES[str(o["id"])]["escolha"] == "nenhuma"): usadas.add(qid_final)
 
 # 4. o que entra como questao nova: prontas que nao sao copia e nao casaram com antiga
 entram = sorted(q for q in novas if q not in copia_de and q not in usadas)
