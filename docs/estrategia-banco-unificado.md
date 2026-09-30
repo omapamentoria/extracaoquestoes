@@ -108,10 +108,10 @@ montante", "pede a taxa", "pede o tempo (logaritmo)", "compara duas aplicações
 * cada estilo com pelo menos 5 questões no banco (senão junta com outro);
 * nome curto que o aluno entende ("pede a taxa mensal") e uma descrição de uma linha para o classificador.
 
-**Como a lista nasce.** Por dados, não de cabeça: para cada subassunto, o Claude lê as questões já classificadas
-nele, propõe os estilos com 2 exemplos cada, e o Matheus aprova, junta ou renomeia. Depois o Claude classifica cada
-questão no estilo. Piloto antes de escalar: 3 subassuntos (ex.: cálculo estequiométrico, juros compostos e um de
-Humanas), para acertar o tamanho dos estilos.
+**Como a lista nasce** (decisão do Matheus, 30/09): primeiro todas as questões são classificadas até o
+subassunto. Depois, para cada subassunto, o Claude lê as questões dele, identifica os estilos sozinho e classifica
+cada questão num deles. O Matheus não participa da criação dos estilos (são muitos subassuntos); recebe só um
+resumo por matéria e pode pedir ajuste onde quiser. Piloto em 3 subassuntos só para calibrar o tamanho dos estilos.
 
 **Na plataforma.** Tabela nova `estilos_questao` (código, subassunto, nome, descrição) e coluna `estilo_codigo` em
 `questoes`. O diagnóstico do aluno cruza `question_attempts` (acertos e erros) com o estilo: "em Juros compostos,
@@ -122,14 +122,14 @@ campo depois.
 
 | Fase | Quem | O que |
 |---|---|---|
-| 0. Informações | Matheus | CSVs do Lovable, prints e respostas (lista em `docs/pedido-csv-lovable.md`) |
+| 0. Informações | Matheus | Resultado da consulta `docs/consulta_mapa_banco.sql` (tudo de uma vez), prints e respostas |
 | 1. Diagnóstico | Claude | Ler os CSVs sem mexer em nada: o que está publicado, a taxonomia, o que os alunos já usam |
 | 2. Unificação | Claude + Matheus | Repetidas: fica a melhor extração, comentário antigo sempre; pares em dúvida numa página de revisão |
 | 3. Conversão | Claude | Banco novo no formato da plataforma, ids a partir de 100.001, imagens para web |
 | 4. Plataforma | Claude escreve, Matheus cola no Lovable | Prompts pequenos, um de cada vez: texto rico (fórmula, tabela, imagem no lugar), questão sem comentário, filtros por vestibular/ano/prova, tabela de estilos, diagnóstico por estilo |
 | 5a. Taxonomia | Claude + Matheus | Conferir se área → subassunto cobre o banco novo (FUVEST, UNICAMP etc.); propor o que falta |
 | 5b. Classificação até subassunto | Claude | Área e matéria pelo código; assunto e subassunto em lotes, com as 5 mil antigas como exemplo |
-| 5c. Estilos | Claude + Matheus | Piloto de 3 subassuntos → aprovação → lista de estilos de todos os subassuntos → classificação |
+| 5c. Estilos | Claude | Depois do 5b: estilos criados por subassunto a partir das questões dele e cada questão classificada; resumo por matéria para o Matheus |
 | 6. Carga | Claude + Matheus | Teste num ramo, conferência, publicação |
 | Depois | | Comentários das novas; provas danificadas; discursivas |
 
