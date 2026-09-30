@@ -1,0 +1,702 @@
+[
+{
+"id": 117923,
+"vest": "SSA",
+"ano": "2025",
+"area": "exatas",
+"texto": "O professor de Estatística avisou à turma do 2º Ano C que a avaliação de recuperação do bimestre será composta por quatro questões, todas com o mesmo valor de pontuação, com os conteúdos de medidas de tendência central (MTC) e medidas de dispersão (MD). Ele tem um banco de itens com quatro questões de MTC e seis de MD. Quantas avaliações de recuperação diferentes podem ser montadas pelo professor de Estatística, se em cada avaliação, 50% das questões utilizadas forem de MTC e 50% de MD? || A) 24 | B) 48 | C) 60 | D) 90 | E) 108"
+},
+{
+"id": 117924,
+"vest": "SSA",
+"ano": "2025",
+"area": "exatas",
+"texto": "Em 2021, a estudante de PhD Alexia Lopez estava analisando a luz proveniente de quasares distantes quando fez uma descoberta surpreendente. Ela encontrou um arco de galáxias gigante, quase simétrico, a 9,3 bilhões de anos-luz da Terra, na constelação do Boieiro. Conhecida como o Arco Gigante, a estrutura questiona algumas das nossas concepções básicas do Universo. O Arco Gigante descoberto por Lopez não é a única estrutura em larga escala descoberta pelos astrônomos. Existe também a \"Grande Muralha\" de galáxias (também chamada de Grande Muralha CfA2), descoberta em 1989 por Margaret Geller e John Huchra. A muralha tem cerca de 500 milhões de anos-luz de comprimento, 300 milhões de anos-luz de largura e 15 milhões de anos-luz de profundidade. Considerando a “Grande Muralha” como um astronômico bloco retangular, qual é o volume desse bloco em anos-luz cúbicos? || A) 1,15 x 10<sup>6</sup> | B) 1,15 x 10<sup>8</sup> | C) 2,25 x 10<sup>10</sup> | D) 2,25 x 10<sup>12</sup> | E) 2,25 x 10<sup>24</sup>"
+},
+{
+"id": 117925,
+"vest": "SSA",
+"ano": "2025",
+"area": "exatas",
+"texto": "Leia o texto a seguir. **Trabalho e salário** O Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou em 8 de março, Dia Internacional da Mulher, o estudo “Estatísticas de Gênero – Indicadores sociais das mulheres no Brasil” do ano de 2024. O levantamento serve como um mapa da desigualdade de gênero no país, passando por temas como mercado de trabalho, educação e representação política. O gráfico a seguir traz dados expressivos do IBGE que ajudam a mostrar a situação atual de disparidade social e econômica entre homens e mulheres. [figura] Com base no gráfico e no texto, assinale a alternativa **CORRETA**. || A) Homens pretos e pardos ganham, em média, 1/3 do que os homens brancos ganham. | B) O rendimento de uma mulher preta ou parda é cerca de 47% do de um homem branco. | C) Com base nos dados gerais, não é significativa a diferença de salário por cor. | D) Homens e mulheres brancas, proporcionalmente, recebem salários equivalentes. | E) O rendimento médio de pretos e pardos, independentemente do gênero, é equivalente ao rendimento de mulheres br"
+},
+{
+"id": 118131,
+"vest": "UFGD",
+"ano": "2012",
+"area": "exatas",
+"texto": "A radioatividade de um objeto cai pela metade após 100 anos e deixa de oferecer risco de contaminação quando ela cai para menos de 5% do valor inicial. Se esse objeto estiver com 80% da sua radioatividade inicial, então,** || A) será necessário esperar mais de 400 anos para que o objeto deixe de oferecer risco. | B) já se passou 50 anos do início do processo radioativo. | C) após exatamente 400 anos, este objeto ainda oferece risco. | D) não será necessário esperar 400 anos para que o objeto deixe de oferecer risco. | E) a radioatividade do objeto se extinguirá completamente após 1000 anos."
+},
+{
+"id": 118132,
+"vest": "UFGD",
+"ano": "2012",
+"area": "exatas",
+"texto": "Uma das principais operações realizadas em um laboratório de química é a separação de substâncias químicas envolvidas em misturas. Considere uma mistura formada pelo sistema (H<sub>2</sub>O<sub>(l)</sub> + Areia<sub>(s)</sub> + NaCl<sub>(l)</sub>). A sequência recomendada de operações que um químico deverá realizar a fim de separar totalmente os componentes desta mistura é?** || A) Destilação; peneiração; filtração. | B) Decantação; filtração; sublimação. | C) Centrifugação; filtração; destilação simples. | D) Centrifugação; destilação; evaporação. | E) Filtração; centrifugação; sublimação."
+},
+{
+"id": 118133,
+"vest": "UFGD",
+"ano": "2013",
+"area": "exatas",
+"texto": "O Colégio BOMBOM realizou uma pesquisa sobre as atividades esportivas praticadas por seus alunos, obtendo-se o seguinte resultado:** 30 jogavam vôlei; 30 jogavam basquete; 40 jogavam futebol; 17 jogavam vôlei e basquete; 15 jogavam futebol e basquete; 10 jogavam futebol e vôlei; 07 jogavam vôlei, basquete e futebol; 35 não praticavam nenhum esporte. **Selecionando-se aleatoriamente um aluno deste colégio, a probabilidade de ele jogar vôlei ou basquete é de** || A) 0,43. | B) 0,60. | C) 0,65. | D) 0,70. | E) 0,92."
+},
+{
+"id": 118336,
+"vest": "UFMS",
+"ano": "2018",
+"area": "exatas",
+"texto": "Três dúzias de ovos valem 4 dúzias de maçãs, 5 dúzias de maçãs valem 3 dúzias de peras. Sabendo-se que uma dúzia de peras custa R$ 6.00, quanto custará uma dúzia de ovos? || A) R$ 4,60. | B) R$ 5,00. | C) R$ 4,80. | D) R$ 5,10. | E) R$ 5,20."
+},
+{
+"id": 118337,
+"vest": "UFMS",
+"ano": "2018",
+"area": "exatas",
+"texto": "O matemático e músico francês Alexandre-Theóphile Vandermonde (1735-1796) criou uma matriz de ordem m x n, que tem a forma geral: [figura] A partir dessa informação, qual será o valor do determinante 1 1 1 log 5 log 500 log 5000 log<sup>2</sup> 5 log<sup>2</sup> 500 log<sup>2</sup> 5000 || A) 6. | B) 3. | C) log 5.log 500.log 5000. | D) log 50. | E) 0."
+},
+{
+"id": 118338,
+"vest": "UFMS",
+"ano": "2018",
+"area": "exatas",
+"texto": "Deseja-se construir uma indústria em um terreno de declividade acentuada. Para tornar possível a construção, é necessário um movimento de terra que planifique o terreno. Será efetuada uma compensação corte-aterro de modo que toda a terra retirada da parte mais alta seja usada no aterro da parte mais baixa. Por compactação, consegue-se que a densidade do aterro seja igual à do terreno natural. A firma de terraplanagem, empreiteira da obra, cobra R$ 300,00 por m<sup>3</sup> de terra movimentada. As dimensões apontadas nas figuras 1 e 2 estão em metros. Qual o custo aproximado da operação? (Utilizar tg 50º = 1,19) Figura 1 – Descrição do problema [figura] [figura] Figura 2 – Interpretação do problema || A) menor que 42 milhões. | B) 34 milhões. | C) entre 20 milhões e 33 milhões. | D) maior que 43 milhões. | E) 40 milhões."
+},
+{
+"id": 118339,
+"vest": "UFMS",
+"ano": "2018",
+"area": "exatas",
+"texto": "No torneio entre os universos do anime Dragon Ball Super, existem 12 Universos, dos quais 8 vão disputar o torneio com 10 lutadores cada. Sabendo-se que os lutadores de um mesmo Universo não vão lutar entre si, que a vitória de qualquer lutador é equiprovável e que o universo que sobrar com pelo menos um lutador será o vitorioso, dos Universos que estão disputando, qual é a chance de vitória do torneio? || A) 1,25%. | B) 10%. | C) 12,5%. | D) 66,66%. | E) 80%."
+},
+{
+"id": 118340,
+"vest": "UFMS",
+"ano": "2018",
+"area": "exatas",
+"texto": "A tabela a seguir mostra os últimos cinco valores do salário mínimo no Brasil: [figura] A empresa SS vai contratar, para o ano de 2018, seus funcionários com o salário base dado pelo valor médio dos últimos cinco anos, acrescido de 50%. Qual é o salário base dessa empresa? || A) R$ 801,40. | B) R$ 1.001,75. | C) R$ 1.182,00. | D) R$ 1.202,10. | E) R$ 1.405,50."
+},
+{
+"id": 118341,
+"vest": "UFMS",
+"ano": "2018",
+"area": "exatas",
+"texto": "O desvio padrão *é simplesmente o resultado positivo da raiz quadrada da variância.* Na prática, o desvio padrão indica qual é o “erro” ou o quão “confiável” é a média aritmética. O dono de uma microempresa pretende saber, em média, quantos produtos são vendidos por cada funcionário em um dia. O gerente tem conhecimento que nem todos conseguem vender a mesma quantidade de peças, mas pede que seus funcionários façam um registro de sua produção em uma semana de trabalho. Ao fim desse período, chegou-se à seguinte tabela: [figura] De acordo com a definição de desvio padrão e utilizando os dados da tabela acima, qual alternativa representa o menor desvio padrão? || A) 1,31. | B) 1,36. | C) 1,41. | D) 2,32. | E) 2,45."
+},
+{
+"id": 118342,
+"vest": "UFMS",
+"ano": "2018",
+"area": "exatas",
+"texto": "O Sr. Flávio é um apaixonado pela mobilidade e deseja pegar um transporte coletivo cuja função de custo é dada pela equação C(x) = 6,00 + 0,50.x, em que x representa a distância percorrida pelo transporte em km e C(x) o valor a ser pago em reais. Esse custo pode sofrer modificação caso a viagem seja alterada. Se a viagem aconteceu conforme o previsto pelo aplicativo utilizado, e o Sr. Flávio percorreu uma distância de 48 km, o total a ser pago para o motorista é: || A) R$ 6,00. | B) R$ 24,00. | C) R$ 30,00. | D) R$ 48,00 | E) R$ 54,00."
+},
+{
+"id": 118343,
+"vest": "UFMS",
+"ano": "2018",
+"area": "exatas",
+"texto": "A Escala Richter é utilizada para medir a magnitude dos terremotos, permitindo-nos ter uma noção exata sobre o potencial dos abalos sísmicos que ocorrem na litosfera. A Escala Richter é um sistema de medição elaborado por Charles Richter e Beno Gutenberg utilizado para quantificar a intensidade dos terremotos conforme a sua manifestação na superfície terrestre. Seu limite, teoricamente, não existe, mas é comum a convenção de que não haja terremotos que ultrapassem o grau 10. De modo geral, podemos considerar que os abalos sísmicos acima de 6 podem ser considerados graves. Confira a seguir uma relação comparativa entre a intensidade dos terremotos e os seus efeitos: || A) Magnitude menor que 2**: tremores captados apenas por sismógrafos. | B) Magnitude entre 2 e 4**: impacto semelhante à passagem de um veículo grande e pesado. | C) Magnitude entre 4 e 6**: quebra vidros, provoca rachaduras nas paredes e desloca móveis. | D) Magnitude entre 6 e 7**: danos em edifícios e destruição de construções frágeis. | E) Magnitude entre 7 e 8**: danos graves em edifícios e grandes rachaduras no solo. **F) Magnitude entre 8 e 9**:"
+},
+{
+"id": 118344,
+"vest": "UFMS",
+"ano": "2018",
+"area": "exatas",
+"texto": "A magnitude pode ser calculada pela seguinte equação: **2** ***E*** ***M*** = **log<sub>10</sub>** , **3** ***E*** em que E<sub>0</sub> é constante e vale 7.10<sup>-3</sup> kWh, e E é a energia liberada no terremoto em kWh. Se um terremoto teve E = 1 000 kWh, de energia liberada, a magnitude do terremoto está no intervalo de: A) E. B) D. C) C. D) B. E) A. O sistema a seguir foi construído com base nas vendas mensais de três vendedores (A, B e C), em que os valores de x, y e z são as quantidades vendidas por cada vendedor. 𝑨: 𝒙 + 𝟐𝒚 + 𝟑𝒛 = 𝟏𝟒 { 𝑩: 𝟐𝒙 − 𝟑𝒚 + 𝟐𝒛 = 𝟐 𝑪: −𝟐𝒙 + 𝒚 − 𝟓𝒛 = −𝟏𝟓 Sendo assim, o produto das vendas dos três vendedores foi de: || A) 12. | B) 10. | C) 9. | D) 8. | E) 6."
+},
+{
+"id": 118345,
+"vest": "UFMS",
+"ano": "2018",
+"area": "exatas",
+"texto": "Em geometria existem muitas simetrias, estudos dos ângulos internos e externos de uma figura. Nesse sentido, um aluno de Matemática desenhou um pentágono regular e, a partir dos seus vértices, traçou todas as diagonais. Assim, verificou a formação de uma estrela de cinco pontas, conforme a figura a seguir: [figura] Ao somar os ângulos internos das pontas da estrela, o valor encontrado foi de: || A) 1.440°. | B) 540°. | C) 180°. | D) 108°. | E) 36°."
+},
+{
+"id": 118346,
+"vest": "UFMS",
+"ano": "2018",
+"area": "exatas",
+"texto": "Os triângulos são largamente utilizados na formação de treliças, pela sua rigidez, visto que para três valores de lado só existe um triângulo; assim, são figuras que não se deformam. [figura] Um estudante de Arquitetura, ao observar a vista frontal de um telhado, conforme a figura, e sabendo-se que ele se estendia por 10 m, calculou que a área do telhado era de: || A) 10 m2. | B) 10√3 m2. | C) 20 m2. | D) 30 m2. | E) 20√3 m2."
+},
+{
+"id": 118347,
+"vest": "UFMS",
+"ano": "2018",
+"area": "exatas",
+"texto": "Em um canil, existem 12 cães, que são alimentados a cada 6 horas com 100 gramas de ração para cada. No final do ano, a população de cães passou para 20, e o regime de alimentação passou a ser de 4 em 4 horas, com 150 gramas de ração para cada animal. Se a dispensa com rações, antes do fim do ano, era suficiente para 30 dias, após o fim do ano, quantos dias durou a ração da dispensa? || A) 6. | B) 8. | C) 12. | D) 18. | E) 20."
+},
+{
+"id": 118376,
+"vest": "UFMS",
+"ano": "2019",
+"area": "exatas",
+"texto": "[figura] O Sr. Asdrúbal se preocupa muito com a segurança na internet, por isso troca mensalmente a senha de seu correio eletrônico. Para não esquecer a senha, ele utiliza o ano de nascimento de seu gato e a palavra *pet* para formar sua senha, totalizando 7 caracteres. No momento de alterar a senha, ele apenas inverte a ordem da palavra e dos números. Sabendo que o gato nasceu no ano de 2009 e que as letras da palavra pet são mantidas juntas e nessa mesma ordem, quantas senhas distintas o Sr. Asdrúbal consegue formar? || A) 5.040. | B) 72. | C) 720. | D) 120. | E) 60."
+},
+{
+"id": 118377,
+"vest": "UFMS",
+"ano": "2019",
+"area": "exatas",
+"texto": "Para atrair clientes no fim de semana, uma padaria da cidade reduziu o preço das sobremesas. Bia, Nina e Duda decidiram aproveitar a promoção, mas quando chegaram só havia um bolo, um pudim e uma torta, todos vendidos por pedaços de mesmo peso. Bia comprou 3 pedaços de bolo, 2 pedaços de pudim e 2 pedaços de torta; no total a compra saiu por R$ 29,00. Nina comprou 1 pedaço de cada uma das sobremesas, e o valor da compra foi R$ 13,00. Duda comprou 2 pedaços de bolo, 4 pedaços de pudim e 2 pedaços de torta. Sua compra totalizou R$ 35,00. Qual o valor do pedaço do bolo, do pudim e da torta, respectivamente? || A) R$ 5,00; R$ 5,00; R$ 2,00. | B) R$ 3,00; R$ 4,50; R$ 5,50. | C) R$ 2,00; R$ 5,00; R$ 6,50. | D) R$ 3,00; R$ 5,00; R$ 5,00. | E) R$ 1,00; R$ 6,00; R$ 2,00."
+},
+{
+"id": 118378,
+"vest": "UFMS",
+"ano": "2019",
+"area": "exatas",
+"texto": "A seguir encontra-se o histórico escolar do Ensino Médio do aluno Frederico Américo, que pretende ingressar no curso de Medicina Veterinária da UFMS. [figura] Ao observar as notas obtidas em Física, Química, Biologia, Matemática e Geometria, a moda, média e mediana são, respectivamente: || A) 7,7; 7,8; 7,8. | B) 7,8; 7,7; 7,8. | C) 7,8; 7,8; 7,7. | D) 7,8; 7,8; 7,8. | E) 7,9; 7,8; 7,7."
+},
+{
+"id": 118379,
+"vest": "UFMS",
+"ano": "2019",
+"area": "exatas",
+"texto": "A figura a seguir mostra parte do mapa da cidade de Campo Grande – MS, no qual se leem os nomes de algumas ruas e avenidas. [figura] https://www.google.com.br/maps/place/Campo+Grande,+MS/@-20.5001896,- 54.6233011,16.39z/data=!4m5!3m4!1s0x9486e6726b2b9f27:0xf5a8469ebc84d2c1!8m2!3d-20.4697105!4d- 54.6201211. Acesso em 10 nov. 2018). Fazendo uma análise das vias como segmentos de retas, são paralelas e concorrentes, respectivamente: || A) R. Tupã e R. Anhanguera, R. Gabinete e R. Arica. | B) R. Bertioga e R. das Guianas, R. Tupã e R. Caiçara. | C) R. Tupã e R. Nove de Julho, R. Bertioga e R. Pasteur. | D) R. Bertioga e R. Pasteur, R. Bertioga e R. das Guianas. | E) R. Bertioga e R. Nove de Julho, R. Tupã e R. Nove de Julho."
+},
+{
+"id": 118380,
+"vest": "UFMS",
+"ano": "2019",
+"area": "exatas",
+"texto": "Observe o quadro com a relação de códigos criados por Ana Beatriz: [figura] Após dividir o número 7.882.476 pelo número 28, Ana Beatriz escreveu o resultado obtido com os códigos criados por ela. A opção que corresponde à ordem do algarismo escrito na posição do símbolo @ no resultado dessa divisão é a: || A) unidade. | B) dezena. | C) centena. | D) unidade de milhar. | E) dezena de milhar."
+},
+{
+"id": 118381,
+"vest": "UFMS",
+"ano": "2019",
+"area": "exatas",
+"texto": "Observe a figura a seguir: [figura] A área da região aproximadamente: || A) 28%. | B) 36%. | C) 41%. | D) 56%. | E) 60%."
+},
+{
+"id": 118382,
+"vest": "UFMS",
+"ano": "2019",
+"area": "exatas",
+"texto": "A onça-pintada (*Panthera onca*) é o maior felino do continente americano e um animal de corpo robusto, dotado de grande força muscular, sendo a potência de sua mordida considerada a maior dentre os felinos de todo o mundo. Outra característica marcante dessa espécie é que ela não mia como a maioria dos felinos. Assim como o leão, o tigre e o leopardo, ela emite uma série de roncos muito fortes, que são chamados de esturro, e podem ser ouvidos por quilômetros. Originalmente a distribuição desse animal se dava desde o sudoeste dos Estados Unidos […] ivíduos ocasionalmente cruzam a partir do México), mas ainda podem ser encontrados na América Latina, inclusive no Brasil. De maneira geral, porém, suas populações vêm diminuindo onde entram em confronto com atividades humanas, sendo a caça uma das principais ameaças. No Brasil ela já praticamente desapareceu da maior parte das regiões Nordeste, Sudeste e Sul. A relação do homem com esse animal é: || A) harmônica, intraespecífica e de predação. | B) desarmônica, intraespecífica e de comensalismo. | C) desarmônica, interespecífica e de predação. | D) harmônica, interespecífica e de parasitismo. | E) desarmônica, interespecífica e de parasitismo."
+},
+{
+"id": 118383,
+"vest": "UFMS",
+"ano": "2019",
+"area": "exatas",
+"texto": "Em um determinado organismo, o gene para manifestação da cor branca (B) é epistático em relação ao gene que manifesta a cor azul com o alelo dominante (A) e a cor vermelha com o alelo recessivo (a). Do cruzamento entre dois organismos com genótipos heterozigotos para os dois genes, qual a probabilidade de surgirem descendentes brancos? || A) 1/4. | B) 3/4. | C) 2/7. | D) 4/5. | E) 1/2."
+},
+{
+"id": 118384,
+"vest": "UFMS",
+"ano": "2019",
+"area": "exatas",
+"texto": "Todas as células procariotas e eucariotas apresentam na superfície um envoltório, a membrana citoplasmática. Além de separar o interior da célula (meio intracelular) do ambiente externo (meio extracelular), a membrana regula a entrada e a saída de substâncias, permitindo que a célula mantenha uma composição química definida, diferente do meio extracelular. [figura] Ilustração da membrana plasmática. Sobre a membrana plasmática, assinale a alternativa correta. || A) O modelo teórico atualmente aceito para a estrutura da membrana é o do mosaico fluido, no qual a membrana apre | B) A membrana plasmática é responsável por dar forma à célula, participa do transporte de substâncias e, além dis | C) O modelo teórico atualmente aceito para a estrutura da membrana é o do mosaico fluido, no qual a membrana part | D) A membrana plasmática tem a função de regular as trocas de substâncias entre a célula e o meio, o que é feito  | E) A membrana plasmática é dotada de diversas especializações que costumam não variar de acordo com as diferencia"
+},
+{
+"id": 118385,
+"vest": "UFMS",
+"ano": "2019",
+"area": "exatas",
+"texto": "O núcleo de células eucarióticas possui ácido desoxirribonucleico (DNA) e ácido ribonucleico (RNA). Na síntese de proteínas, que ocorre no citoplasma, é necessária a participação, entre outros, do RNA mensageiro (RNAm), formado no núcleo da célula a partir do DNA. Assinale a alternativa que denomina o processo de formação do RNAm. || A) Tradução. | B) Síntese. | C) Transcrição. | D) RNA polimerase. | E) Transferência."
+},
+{
+"id": 118386,
+"vest": "UFMS",
+"ano": "2019",
+"area": "exatas",
+"texto": "Em humanos, depois da fecundação do óvulo pelo espermatozoide, forma-se o zigoto (ou ovo), contendo dois pró-núcleos que, durante a cariogamia, fundem-se. Na sequência do desenvolvimento embrionário, ocorre a formação da mórula. Assinale a alternativa que caracteriza a mórula. || A) Segmentação através de divisões celulares. | B) Migração dos blastômeros para a periferia celular. | C) Aumento do tamanho das células. | D) Diminuição do número de células. | E) Invaginação celular."
+},
+{
+"id": 118387,
+"vest": "UFMS",
+"ano": "2019",
+"area": "exatas",
+"texto": "A dureza da água normalmente é uma característica regional e, conforme o mapa geológico do território brasileiro, as regiões que apresentam solos com essa característica são Nordeste, Centro-Oeste e Sudeste. A água dura interfere na ação de limpeza dos sabões, pois: || A) os íons de sódio e de potássio reagem com o sal orgânico, formando compostos solúveis. | B) a alcalinidade da água pela presença de hidróxidos solúveis inibe a atuação do sabão. | C) os cloretos presentes na água reagem com a parte hidrofílica do sabão e formam sais pouco solúveis. | D) os cátions de cálcio e de magnésio reagem com o sal orgânico, formando compostos pouco solúveis. | E) a acidez da água, determinada pela alta concentração de cloretos e sulfatos, inibe a interação da parte hidrof"
+},
+{
+"id": 118388,
+"vest": "UFMS",
+"ano": "2019",
+"area": "exatas",
+"texto": "A erva mate (*Ilex paraguariensis*), originária da América do Sul, é utilizada como bebida tônica e estimulante. O produto obtido através do beneficiamento das folhas da erva mate pode ser utilizado para o preparo de chimarrão e tereré, entre outras bebidas de consumo habitual e cultural em regiões da Argentina, Paraguai e Brasil. O grande interesse na erva mate deve-se aos compostos químicos presentes, em função de suas propriedades antioxidante, estimulante e diurética. (Disponível em: http://repositorio.utfpr.edu.br/jspui/bitstream/1/3158/1/PG_PPGEP_Henrique%2C%20 Flavia%20Aparecida_2018.pdf. Acesso em: 01 nov.2018. Adaptado). As propriedades estimulantes da erva mate estão relacionadas aos seus teores de metilxantinas, sendo uma das principais a cafeína, estrutura apresentada a seguir: [figura] Ao analisar a fórmula estrutural da cafeína, é correto afirmar que ela possui as funções orgânicas e propriedades: || A) aldeído e amida, básicas. | B) amina e amida, alcalinas. | C) amina e cetona, alcalinas. | D) cetona e amida, anfóteras. | E) ácido carboxílico e amina, básicas."
+},
+{
+"id": 118389,
+"vest": "UFMS",
+"ano": "2019",
+"area": "exatas",
+"texto": "O craqueamento é um processo químico que converte substâncias de determinada fração de menor interesse comercial em outras de uma fração mais rentável, baseando-se na quebra de moléculas longas de hidrocarbonetos com elevada massa molar. A polimerização também é utilizada com obtenção de moléculas de combustíveis. Nesse processo, ocorre a combinação de moléculas menores, formando moléculas maiores. Em duas etapas de um processo de polimerização, temos a formação do produto I e produto II, como demonstrado a seguir. (Fonseca, M. R*. Química: ensino médio*. 2. ed. São Paulo: Ática, 2016. Adaptado). [figura] Os produtos I e II, são respectivamente: || A) alcano e alceno. | B) alceno e alcano. | C) alcano e alcino. | D) alceno e alcino. | E) alcino e alcano."
+},
+{
+"id": 118418,
+"vest": "UFMS",
+"ano": "2020",
+"area": "exatas",
+"texto": "Na fazenda Boa Esperança, o plantio de sorgo será feito pela região que satisfaz às [figura] A região que representa adequadamente o plantio de sorgo, na figura, é designada pelo número: || A) 1. | B) 2. | C) 3. | D) 4. | E) 5."
+},
+{
+"id": 118419,
+"vest": "UFMS",
+"ano": "2020",
+"area": "exatas",
+"texto": "Uma cerâmica da cidade de Três Lagoas comercializa 3 tipos de tijolos: T1, T2 e T3. A tabela a seguir indica pedidos de tijolos realizados por três clientes: [figura] Sabendo que o cliente 1, o cliente 2 e o cliente 3 pagaram por seus pedidos, respectivamente, a quantia de R$ 16.000,00, R$ 19.500,00 e R$ 20.000,00, é correto afirmar que: || A) o valor de cada unidade do tijolo T1 é R$ 2,00. | B) os três tipos de tijolo possuem o mesmo preço por unidade. | C) o valor de cada unidade do tijolo T3 é R$ 1,50. | D) a matriz formada pelos valores de cada unidade dos três tipos de tijolo é de ordem 1x3. | E) o valor de cada unidade do tijolo T2 é R$ 1,00."
+},
+{
+"id": 118454,
+"vest": "UFMS",
+"ano": "2021",
+"area": "exatas",
+"texto": "A figura a seguir é parte de um mosaico romano (século II d.C.) preservado em uma das mansões encontradas na cidade de Itálica, Espanha. Os bustos representados nos centros dos hexágonos regulares representam as divindades planetárias que dão nome aos dias da semana: no centro, Vênus (sexta-feira), rodeado pela Lua (segunda-feira), Marte (terça-feira), Mercúrio (quarta-feira), Júpiter (quinta-feira), Saturno (sábado) e o Sol (domingo). [figura] Disponível em: https://i0.wp.com/www.hisour.com/wp - content/uploads/2019/11/Mosaic-of-the-planetarium- 360%C2%B0-Video-Italica.jpg?fit=960%2C640&ssl=1 &resize=1280%2C720. Acesso em: 24 nov. 2020. A figura seguinte é uma representação simplificada do mosaico: [figura] Considerando que R seja a medida do raio da circunferência que envolve os hexágonos regulares na figura anterior, é correto afirmar que cada um deles tem perímetro igual a: || A) R \\(\\overline{\\sqrt{6}}\\) . | B) 6R \\(\\overline{\\sqrt{5}}\\) /5. | C) 3R/2. | D) 4R/3. | E) 6R \\(\\sqrt{7}\\) /7."
+},
+{
+"id": 118455,
+"vest": "UFMS",
+"ano": "2021",
+"area": "exatas",
+"texto": "Num período de três semanas, as ações de determinada empresa tiveram duas altas sucessivas, de 10% e 8%, mas, devido a notícias negativas veiculadas pela mídia, registrou-se uma queda de suas cotações em 50%. Em relação aos seus valores iniciais, tais ações sofreram uma diminuição percentual igual a: || A) 59,4%. | B) 50,0%. | C) 40,6%. | D) 32,0%. | E) 28,8%."
+},
+{
+"id": 118456,
+"vest": "UFMS",
+"ano": "2021",
+"area": "exatas",
+"texto": "Na figura a seguir, CD é um arco da circunferência de equação x<sup>2</sup> + (y – 4)<sup>2</sup> = 4, e ABCE é um retângulo de dimensões 2 u.c.×4 u.c. A região em cinza é posta em rotação em torno uuur do eixo Oy do plano cartesiano. [figura] O sólido gerado será produzido por um marceneiro e, sendo V e A, respectivamente, o volume de madeira a ser utilizada e a área da superfície exposta da peça, em unidades de volume e de área, a razão V/A, em unidades de comprimento, será igual a: || A) 8/21. | B) 8/27. | C) 8/15. | D) 4/21. | E) 1/27."
+},
+{
+"id": 118457,
+"vest": "UFMS",
+"ano": "2021",
+"area": "exatas",
+"texto": "De um polinômio P(x), sabe-se que: I - P(1) = 0 II - P(– 2) = 45 III - O resto de sua divisão por x<sup>2</sup> + x – 2 é o polinômio R(x) = ax + b. Sendo assim, é correto afirmar que: || A) R(– 3) = – 30. | B) R(2) = 15. | C) R(1) = 30. | D) R(– 1) = 0. | E) R(0) = 15."
+},
+{
+"id": 118458,
+"vest": "UFMS",
+"ano": "2021",
+"area": "exatas",
+"texto": "Um recipiente em forma de paralelepípedo reto-retângulo tem suas dimensões internas dadas por 100 cm×50 cm×20 cm. Estando ele completamente vazio, tal recipiente passa a ser abastecido por uma torneira que lhe fornece água com uma vazão constante e igual a 5 litros por minuto. Sendo assim, a partir do momento em que a torneira for aberta, o recipiente estará cheio em: || A) 45 minutos. | B) 40 minutos. | C) 30 minutos. | D) 20 minutos. | E) 15 minutos."
+},
+{
+"id": 118459,
+"vest": "UFMS",
+"ano": "2021",
+"area": "exatas",
+"texto": "Observe a sequência de números a seguir: (2, 5, 7, 25, 12, 125, …) A sequência mantém um padrão constante. Assim, a soma do 10° e do 11° termos é: || A) 3.152. | B) 3.125. | C) 652. | D) 647. | E) 625."
+},
+{
+"id": 118460,
+"vest": "UFMS",
+"ano": "2021",
+"area": "exatas",
+"texto": "Na fazenda Boa Esperança, a probabilidade de, pela inseminação, nascer um macho é de 0,6 e de nascer uma fêmea é de 0,4. Foram feitas 4 inseminações. Se todas vingarem, qual a probabilidade de nascer pelo menos um macho? || A) 97,44%. | B) 87,04%. | C) 76%. | D) 60%. | E) 40%."
+},
+{
+"id": 118461,
+"vest": "UFMS",
+"ano": "2021",
+"area": "exatas",
+"texto": "A terra está mudando rapidamente como consequência de ações humanas. Com a crescente perda e fragmentação de habitats, mudanças no ambiente físico e no clima da Terra e o aumento da população humana, enfrentamos difíceis dilemas na gestão dos recursos do mundo. Precisamos entender as interconexões da biosfera se nos propusermos a proteger espécies em extinção e melhorar a qualidade da vida humana. Para essa finalidade, muitos países, sociedades científicas e outros grupos têm adotado o conceito de desenvolvimento sustentável. Assinale a alternativa que indica corretamente práticas adequadas para o desenvolvimento sustentável. || A) Consumo elevado, fontes de energia renováveis e inseticidas. | B) Utilização consciente dos recursos naturais, uso de agrotóxicos e assoreamento. | C) Evitar desperdícios e excessos, criação de Unidades de Conservação e repovoamento. | D) Reciclagem, mudança ou diminuição nos padrões de consumo e reflorestamento. | E) Priorizar o consumo de produtos biodegradáveis, utilizar produtos químicos e coleta seletiva do lixo."
+},
+{
+"id": 118462,
+"vest": "UFMS",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Em relação à célula eucariótica representada a seguir, assinale a alternativa correta. || A) A estrutura 8 representa o Retículo Endoplasmático Liso ou Agranular, responsável pela síntese de carboidratos | B) As mitocôndrias, apontadas pelo número 9, produzem ATP através da fermentação. | C) O Sistema Golgiense ou Complexo de Golgi, marcado por 6, realiza a respiração celular. | D) Os Centríolos, indicados pelo número 13, participam ativamente no processo de divisão celular. | E) A seta 5 indica a Carioteca, estrutura que delimita o núcleo."
+},
+{
+"id": 118463,
+"vest": "UFMS",
+"ano": "2021",
+"area": "exatas",
+"texto": "O daltonismo ou discromatopsia é um caso de herança ligada ao sexo e se caracteriza pela incapacidade de diferenciar cores, e de certa forma, não prejudica gravemente seus portadores. Em mulheres, manifesta-se com um par de genes e no homem, por um gene apenas, uma vez que esses genes localizam-se no cromossomo X e não têm correspondente no cromossomo Y. Maria tem visão normal, porém seu pai é daltônico. Ela e seu companheiro, Pedro, daltônico, decidem ter uma criança que não seja afetada pela discromatopsia. Diante do exposto, assinale a alternativa correta. || A) O casal não pode ter crianças de visão normal. | B) Os filhos serão normais, pois a mãe é normal. | C) 50% das filhas serão normais, portadoras do gene para o daltonismo. | D) O casal não terá filhas daltônicas. | E) Maria é homozigota."
+},
+{
+"id": 118464,
+"vest": "UFMS",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Sobre o esquema a seguir e seus conhecimentos a respeito da circulação dos vertebrados, é correto afirmar: || A) o peixe tem coração bicavitário, com circulação dupla e completa. | B) nos anfíbios, o sangue arterial não se mistura com o venoso. | C) os répteis têm circulação dupla e incompleta. | D) o coração das aves é tricavitário e a circulação completa. | E) nos mamíferos, a crossa aórtica é voltada para o lado direito."
+},
+{
+"id": 118465,
+"vest": "UFMS",
+"ano": "2021",
+"area": "exatas",
+"texto": "Durante uma viagem espacial, em um de seus sonhos sobre ficção científica, o cientista Credes encontra duas luas de seu extinto planeta natal, o *Creed'Beer 13*. As luas são batizadas de *Nanica'Cris 1* e *Princesa Submúltipla*, cujos diâmetros (em km) calculados por Credes são, aproximadamente: Diâmetro de Nanica'Cris 1 = 2,5 x 10³ e Diâmetro de Princesa Submúltipla = 3,2 *10³, sendo seus respectivos raios médios da órbita em relação ao centro do planeta Creed'Beer 13 (km): Raio de Nanica'Cris 1 = 1,8 *10^5 e Princesa Submúltipla =5,4 *10^5. Credes, que hoje é terráqueo, determinou em seus cálculos que o período da órbita da lua Nanica'Cris 1 é de aproximadamente 2 dias terrestres. Determine aproximadamente qual o período orbital da lua Princesa Submúltipla em dias terrestres. || A) 6 dias terrestres. | B) 10,3 dias terrestres. | C) 12,6 dias terrestres. | D) 15,5 dias terrestres. | E) 20,6 dias terrestres."
+},
+{
+"id": 118466,
+"vest": "UFMS",
+"ano": "2021",
+"area": "exatas",
+"texto": "Durante uma aula de física, o Professor Einstein fez a seguinte demonstração: um corpo de 6 kg foi puxado com velocidade constante, durante 5,30 metros de distância, em uma superfície horizontal por uma corrente, que exercia uma força de 12,5 N, fazendo um ângulo θ de 30º acima da horizontal. Com as informações fornecidas, determine qual o trabalho W exercido pela corrente sobre o corpo em questão. (Considere cos 30º = 0,86.) || A) W = 344,24 #. | B) W = 198,75 #. | C) W = 64,95 #. | D) W = 56,97 #. | E) W = 27,53 #."
+},
+{
+"id": 118468,
+"vest": "UFMS",
+"ano": "2021",
+"area": "exatas",
+"texto": "A história da humanidade está relacionada ao uso de polímeros naturais, como o couro, a lã, o algodão e a madeira. Na atualidade, muitos utensílios utilizados no cotidiano são produzidos por polímeros. Qual destes polímeros é de origem sintética? || A) Amido. | B) Celulose. | C) Glicogênio. | D) Quitina. | E) Poliestireno."
+},
+{
+"id": 118469,
+"vest": "UFMS",
+"ano": "2021",
+"area": "exatas",
+"texto": "O alumínio já foi o metal mais caro do mundo. Por isso, Napoleão disponibilizava talheres e pratos de alumínio para convidados especiais nos banquetes, enquanto os menos favorecidos usavam de ouro. Em 1855, o norte-americano Charles Martin Hall e o francês Paul Louis Toussaint Héroult descobriram e patentearam quase simultaneamente um processo de obtenção de alumínio a partir do minério bauxita, rico em óxido de alumínio. KEAN, Sam. **A colher que desaparece**: Editora Zahar, 2011 (adaptado). O processo ficou conhecido como Hall-Heróult e permitiu o estabelecimento da indústria global do alumínio, cuja obtenção ocorre por meio de: || A) eletrometalurgia. | B) hidrometalurgia. | C) pirometalurgia. | D) calcinação. | E) ustulação."
+},
+{
+"id": 118497,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "A despesa mensal de uma família foi de D) 10. E) 12. R$ 6.240,00 durante os primeiros 3 meses, R$ 6.780,00 durante os próximos 4 meses e R$ 7.236,00 durante os últimos 5 meses de um ano. Se a economia total durante o ano foi de R$ 7.080,00, qual foi a renda média mensal da família? || A) R$6.245,00. | B) R$6.752,00. | C) R$6.834,00. | D) R$6.957,50. | E) R$7.425,00."
+},
+{
+"id": 118498,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "Para a composição da comissão de formatura de Veterinária de 2021 da UFMS, há 8 estudantes, sendo 5 homens e 3 mulheres. A comissão deverá ser composta por 6 estudantes. Se 2 mulheres são de caráter obrigatório estar na comissão, o número de possibilidades para a composição da comissão de formatura é: || A) 5. | B) 8. | C) 25. | D) 56. | E) 120."
+},
+{
+"id": 118499,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "Na tabela a seguir, há a cotação do dólar de abertura e fechamento dos dias 29/09/2021 a 29/10/2021. [figura] Ao analisar essa tabela, a medida de dispersão, denominada amplitude, ao longo do período foi de: || A) 0,3006. | B) 0,2970. | C) 0,2335. | D) 0,2206. | E) 0,2159."
+},
+{
+"id": 118500,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "Primatas como os chimpanzés não desenvolveram a capacidade inata da linguagem e da fala. Modificações em aminoácidos de uma proteína associada com o surgimento da linguagem podem explicar por que a fala é única para os seres humanos. Os cientistas acreditam que o gene FOXP2 está ligado à fala e à linguagem, pois, quando ele sofre uma mutação, essas capacidades são afetadas. A seguir estão as sequências de aminoácidos (utilizando o código de uma letra) de quatro segmentos curtos da proteína FOXP2 de seis espécies: chimpanzé (C), orangotango (O), […] , L. A., Cain, M. L., Minorsky, P. V., & Jackson, R. B. *Biologia* *de Campbell*. Porto Alegre:Artmed 2019. p. 460) [figura] Utilizando o quadro dos aminoácidos a seguir e sabendo que as sequências de chimpanzé, de gorila e de macaco rhesus (C, G, R) são idênticas e que a sequência de seres humanos (H) difere das sequências das espécies C, G e R em dois aminoácidos, assinale a alternativa correta. || A) A espécie gorila é representada pela sequência 2. | B) A sequência 4 corresponde à espécie orangotango. | C) As espécies C, G e R correspondem às sequências 1, 2 e 4. | D) A espécie humana difere devido aos aminoácidos Asparagina e Serina. | E) A espécie de macaco rhesus difere devido aos aminoácidos Serina e Treonina."
+},
+{
+"id": 118501,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "Observe o quadro a seguir: [figura] Com base nas informações do quadro, podemos constatar que em I, II, III, e IV temos, respectivamente: || A) I – Armazenamento; II – Núcleo; III – Aparelho de Golgi; IV – Vacúolo; V – Troca gasosa. | B) I – Respiração celular; II – Lisossomo; III – Aparelho de Golgi; IV – Núcleo; V – Digestão. | C) I – Lise da célula; II – Retículo endoplasmático; III –Núcleo; IV – Lisossomo; V – Respiração celular. | D) I – Síntese de lipídeos; II – Vacúolo; III – Retículo endoplasmático; IV – Peroxissomo; V – Digestão. | E) I - Síntese proteica; II – Aparelho de Golgi; III – Lisossomo; IV – Vacúolo; V – Respiração celular."
+},
+{
+"id": 118502,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "Variantes do coronavírus possuem como semelhança maior capacidade de transmissão da Covid-19. Em relação ao surgimento dessas novas variantes, qual das seguintes características NÃO ajudaria um vírus a evitar o desencadeamento de uma resposta imune adaptativa? || A) Ter baixa taxa de multiplicação. | B) Infectar e matar células T auxiliares. | C) Produzir proteínas muito similares àquelas de outros vírus**.** | D) Infectar células que produzem muito poucas moléculas de MHC. | E) Ter mutações frequentes em genes para proteínas de superfície."
+},
+{
+"id": 118503,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "Um hormônio chave no circuito regulador do rim é o hormônio antidiurético (HAD; ADH, *antidiuretic hormone*), também denominado vasopressina. Células osmorreceptoras no hipotálamo monitoram a osmolaridade do sangue e regulam a liberação de HAD a partir da hipófise posterior. Mutações que impedem a produção do HAD ou que inativam o gene receptor do HAD desorganizam a homeostase pelo bloqueio da inserção de canais de aquaporina adicionais à membrana do ducto coletor. O distúrbio resultante pode causar desidratação grave e desequilíbrio de solutos, devido à produção de urina copiosa e diluída. A descrição anterior caracteriza a seguinte doença: || A) diabetes insipidus. | B) esclerose múltipla. | C) artrite reumatoide. | D) diabetes mellitus tipo I. | E) diabetes mellitus tipo II."
+},
+{
+"id": 118504,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "Visando à segurança em construções verticais na capital do estado de Mato Grosso do Sul, pesquisadores da UFMS fazem experiências com corpos em queda livre. Em um desses experimentos, partindo do repouso, um corpo é solto no ar, caindo verticalmente. Esse corpo tem uma massa de 8 kg e após percorrer 6 metros, atinge a velocidade de 10m/s. Com a utilização de um sensor, foi possível perceber que, durante a queda, as moléculas do corpo e do ar recebem energia que provoca elevação de temperatura do corpo. Ao analisar os dados, os pesquisadores perceberam que a energia mecânica perdida pelo corpo, em joules, foi de: **(Use g = 10m/s²)** || A) 50J. | B) 60J. | C) 70J. | D) 80J. | E) 100J."
+},
+{
+"id": 118505,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "Os testes para a temporada 2022 da E) A densidade da espada é de 37,6 g/cm³, e Fórmula 1 já começaram. Antes mesmo de a ela afundou totalmente no líquido, pois é temporada 2021 terminar, as equipes estão se mais densa que o líquido. preparando para o novo desafio, o qual poderá decidir corridas e até mesmo o campeonato. Trata-se de conseguir uma arrancada mais ágil tanto na largada da corrida quanto na retomada do pit-stop. Os modelos 2021 fazem em média os 200 primeiros metros em 4,8 segundos, enquanto o novo modelo conseguiu fazer a mesma distância em 4,2 segundos. Determine a diferença de aceleração entre os carros de Fórmula 1, modelos 2021 e 2022, assinalando a alternativa correta, lembrando que eles partem do repouso. || A) O modelo 2022 superou a aceleração do modelo 2021 em aproximadamente 2,11 m/s². | B) O modelo 2021 ainda é superior na aceleração quando comparado ao modelo 2022. | C) O modelo 2022 superou a aceleração do modelo 2021 em aproximadamente 5,31m/s². | D) O modelo 2022 superou a aceleração do modelo 2021 em aproximadamente 8,31m/s² | E) O modelo 2022 superou a aceleração do modelo 2021 em aproximadamente 10,11m/s²"
+},
+{
+"id": 118506,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "Modelos científicos são uma parte importante da ciência. Muitas vezes eles têm como função explicar fenômenos do nosso cotidiano. Um dos exemplos de grande relevância para a Química foram as elaborações dos modelos atômicos. Esses modelos foram formulados por meio de muito estudo e experimentação, e cada um, à sua maneira, ajudou a compreender muitos aspectos da matéria. Nesse contexto, é correto afirmar que o primeiro modelo atômico utilizado para explicar a relação entre a matéria e a eletricidade foi: || A) o Modelo de John Dalton, apelidado de Bola de Bilhar. | B) o Modelo atômico de Ernest Rutherford, conhecido como Planetário. | C) o Modelo atômico de Joseph Thomson, chamado de Pudim de Passas. | D) o Modelo atômico de Arnold Sommerfeld e suas órbitas elípticas. | E) o Modelo atômico de Bohr e sua natureza quântica."
+},
+{
+"id": 118507,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "“A erosão por ravinas e voçorocas é causada por vários mecanismos que atuam em diferentes escalas temporais e espaciais, que derivam de rotas estabelecidas pelos fluxos de água, que podem ocorrer na superfície ou em subsuperfície” (COELHO NETTO, 1998). Sobre os processos erosivos e seus mecanismos, é correto afirmar que: || A) o deslocamento de partículas pelo impacto de gotas de chuva não deve ser considerado um mecanismo do processo  | B) entre os mecanismos envolvidos no processo erosivo, estão o deslocamento de partículas por impacto de gotas de | C) não é possível prever as rotas de organização do escoamento superficial concentrado nos sulcos e nas ravinas f | D) as denominadas “quedas de areia”, resultantes da liquefação espontânea de materiais inconsolidados e não coesi | E) a frequência dos eventos chuvosos influencia nos processos erosivos, no entanto, o efeito coesivo entre os mat"
+},
+{
+"id": 118508,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "A família Mendonça mora há 32 anos em Campo Grande (MS) e decidiu que irá conhecer o Balneário Quedas d'Água, localizado a 7 km do centro urbano de Rio Verde de Mato Grosso (MS), na rodovia estadual MS-427, assim que chegar ao fim a pandemia de Covid-19. João, o filho mais velho, que gosta muito de Geografia, ao consultar o mapa por meio de um aplicativo em seu celular, observou que a distância real, em linha reta, entre as duas cidades é de 175 km. Constatou que essa distância real corresponde a 7 cm no mapa. Qual foi a escala apresentada no mapa que permitiu a João chegar a essa conclusão? || A) 1: 25. | B) 1: 2.500. | C) 1: 25.000. | D) 1: 250.000. | E) 1: 2.500.000."
+},
+{
+"id": 118509,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "As formações vegetais são tipos de vegetação facilmente identificáveis na paisagem e que ocupam extensas áreas. As variações climáticas no mundo interferem na cobertura vegetal, definindo a altura das plantas, a forma das folhas, a espessura dos caules, a fisionomia geral da vegetação, etc. As plantas adaptadas a uma estação seca e outra úmida são conhecidas como: || A) caducifólias. | B) esclerófilas. | C) higrófilas. | D) tropófilas. | E) xerófilas."
+},
+{
+"id": 118510,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "Sobre a ascensão de Getúlio Vargas à Presidência da República no Brasil, é correto afirmar que: || A) após a instalação do chamado Estado Novo, Getúlio Vargas governou o Brasil entre 1930 e 1945, adotou práticas  | B) Getúlio Vargas foi eleito no ano de 1930 após conturbadas eleições. A vitória nas urnas foi garantida após a g | C) a Revolução Constitucionalista de 1932, protagonizada pela elite paulista, lutou pelo fim do monopólio polític | D) a Revolução de 1930, que permitiu a chegada de Vargas ao comando do Brasil, depôs o presidente Washington Luís | E) Vargas assumiu a presidência do País com o apoio do movimento tenentista no Brasil, evento que colocou tenente"
+},
+{
+"id": 118511,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "A organização do trabalho e a utilização da mão de obra livre no Brasil passou por vários estágios. Porém, foi no período republicano que mudanças significativas ocorreram e passaram a fazer parte do cotidiano dos trabalhadores. Acerca da conquista de direitos por trabalhadores livres, é correto afirmar que: || A) a principal conquista ocorrida durante o período republicano foi a libertação dos últimos cativos e o fim defi | B) foi a Revolução Industrial que causou impacto na legislação trabalhista brasileira, quando os primeiros sindic | C) a partir do ano de 1930, os direitos dos trabalhadores foram assegurados com a criação do Ministério do Trabal | D) os governos populistas das décadas de 1940 até 1960 foram os principais instrumentos de conquista de direitos  | E) a república no Brasil emergiu fundamentada pelo positivismo francês e com valores de democracia e amplo apoio "
+},
+{
+"id": 118512,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "O megaevento musical *Live Aid* foi realizado no dia 13 de junho de 1985, na cidade de Londres (Inglaterra) e na Filadelfia (EUA), e contou com a participação de inúmeros grupos musicais e cantores de muito sucesso, como: Queen, Paul McCartney, Elton John, David Bowie, U2, Sting, Black Sabbath e Judas Priest. Com público total de 160 mil pessoas e transmissão ao vivo para quase 2 bilhões de pessoas, em 150 países, esse evento foi realizado com o objetivo de arrecadar fundos para combater a fome na Etiópia. Além do entretenimento, a promoção desse megashow deve ser associada: || A) ao processo de globalização, que buscou combater o *welfare state* como instrumento de dominação política e so | B) à normatização do que ficou conhecido como a “partilha da África”, já que coube aos Estados Unidos e à Inglate | C) à diminuição das mazelas causadas por séculos de exploração imperialista e colonialista na África, o que gerou | D) à luta contra o Apartheid, política segregacionista que separava brancos e negros em todo o continente african | E) ao combate da exploração capitalista, já que os grupos musicais supracitados formam o que se denomina como roc"
+},
+{
+"id": 118513,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "Evento fundamental para a incorporação do extremo oeste do território português na América aos centros de poder, transpassou o território estadual de Mato Grosso do Sul de um lado a outro, descobriu novos caminhos, dilatou a fronteira, fez surgir vilas e povoados e permitiu a economia de exploração dos recursos naturais na região do Mato Grosso. Qual evento histórico está associado ao enunciado? || A) Monções. | B) Comissão Rondon. | C) Retirada da Laguna. | D) Caminho do Peabiru. | E) Estrada de Ferro Noroeste do Brasil."
+},
+{
+"id": 118514,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "O final do século XIX e o início do século XX foram marcados pela exploração de um importante produto nativo do Brasil: a borracha. Proveniente do extrativismo da seringueira e gerando como produto o látex, essa atividade econômica transformou significativamente a região Norte e permitiu um grande impulso no desenvolvimento de cidades como Manaus e Belém. Assinale a alternativa que está corretamente associada ao ciclo da borracha no Brasil no período proposto pelo enunciado. || A) Criação de um pátio industrial automobilístico no Brasil, visando à maximização da produção de látex nacional. | B) Expulsão de trabalhadores rurais do sertão e agreste nordestino, permitindo a ascensão de grupos locais armado | C) Negociação e aquisição do atual território do estado do Acre junto à Bolívia, já que muitos trabalhadores bras | D) Defesa do ecossistema e da diversidade ecológica da Amazônia, com o surgimento de órgãos na defesa da floresta | E) Ruptura com a política do café-com-leite, já que a elite nortista reivindicava maior participação na direção d"
+},
+{
+"id": 118515,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "Durante o século XVIII, a região onde hoje se localiza o Estado de Minas Gerais transformou-se com a mineração. Milhares de pessoas se dirigiram à zona em busca do ouro, viu-se a formação de núcleos urbanos e um grande controle da Coroa Portuguesa sobre os ganhos econômicos. Este controle leva a uma rebelião, ocorrida em 1720. Assinale a alternativa que nomeia a rebelião e descreve suas exigências, respectivamente. || A) Guerra dos Mascates. Grandes comerciantes que utilizavam o ouro como moeda exigiram o fim da Intendência de Mi | B) Revolta de Barbacena. Os revoltosos, em sua maioria liberais, exigiam a descentralização das decisões em relaç | C) Revolta de Beckman. Proprietários de minas exigiam a anulação do decreto que proibia a escravização de indígen | D) Revolta de Vila Rica. Os rebeldes exigiam a anulação no decreto que criava as Casas de Fundição, bem como a re | E) Guerra dos Emboabas. Os revoltosos, paulistas, que lutavam contra os portugueses pela posse das recém-descober"
+},
+{
+"id": 118516,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "A ocupação do continente americano por parte de espanhóis e de portugueses, bem como a manutenção desses territórios coloniais, deu-se em diversas frentes. Uma delas foi diplomática, com a assinatura de bulas e de tratados, normalmente mediados pela Igreja Católica. Assinale a alternativa que explica corretamente esses acordos. || A) Com a bula *Aeterni Regis,* de 1481, Portugal garantiu a posse do que hoje é o Nordeste brasileiro; essa bula  | B) A bula *Inter coetera*, publicada em 1493, fixou o que seria domínio português e espanhol no chamado Novo Mund | C) O Tratado de Tordesilhas, acordado em 1494, foi o primeiro a garantir posses portuguesas e espanholas no ocide | D) No Primeiro Tratado de Santo Idelfonso, assinado em 1777, foram resolvidos problemas coloniais ao sul do terri | E) Por meio do Tratado de Badajoz, em 1801, Portugal cedeu metade do que hoje são os estados do Pará e do Amapá p"
+},
+{
+"id": 118517,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "Leia a seguinte letra de uma canção. “Disseram que eu voltei americanizada” “E disseram que eu voltei americanizada Com o burro do dinheiro Que estou muito rica Que não suporto mais o breque do pandeiro E fico arrepiada ouvindo uma cuíca Disseram que com as mãos Estou preocupada E corre por aí Que eu sei certo zum-zum Que já não tenho molho, ritmo, nem nada E dos balangandans já nem existe mais nenhum Mas pra cima de mim, pra que tanto veneno? Eu posso lá ficar americanizada? Eu que nasci com o samba e vivo no sereno Topando a noite inteira a v […] icente Paiva) A letra foi elaborada para a interpretação de Carmen Miranda, que a gravou em 1940, e responde a acusações da mídia e de setores da sociedade de que, como símbolo da cultura nacional, a cantora estaria se “americanizando”. Essa polêmica faz parte de um contexto histórico maior, ocorrido durante a chamada “política da boa vizinhança” da ditadura de Getúlio Vargas, que consistia em/na: || A) um plano para atrair o apoio político dos Estados Unidos à ditadura de Vargas; consistia em demonstrar a vasta | B) percepção de como a cultura é parte importante na construção de uma nação; com isso, o governo dos Estados Uni | C) aproximação cultural entre o Brasil e os EUA em um período anterior à Segunda Guerra Mundial e de simpatia por | D) construção de símbolos nacionais artificializados, condizentes com o ufanismo fascista pensado por Vargas, e q | E) valorização das matérias-primas brasileiras, formando arquétipos da cultura nacional e financiando suas aprese"
+},
+{
+"id": 118518,
+"vest": "UFMS",
+"ano": "2022",
+"area": "exatas",
+"texto": "Uma das bases do pensamento político moderno está na legitimidade que o governante deve assumir se deseja exercer o poder. Um governo considerado ilegítimo pelos governados acarretaria a dissolução do Estado. Esta legitimidade seria uma combinação entre *virtú* (qualidade e habilidade) e *fortuna* (circunstâncias externas ao poder oficial) sobre a qual o governante deveria saber manter o equilíbrio. Esse pensamento é encontrado na obra de: || A) Thomas Hobbes. | B) Nicolau Maquiavel. | C) John Locke. | D) Santo Agostinho. | E) Adam Smith."
+},
+{
+"id": 118557,
+"vest": "UFU",
+"ano": "2015",
+"area": "exatas",
+"texto": "Assuma que a função exponencial de variável real *T* = *f* (*t*) = *r*.*e<sup>k</sup>*<sup>.</sup>*<sup>t</sup>* , em que *r* e *k* são constantes reais não nulas, representa a variação da temperatura *T* ao longo do tempo *t* (em horas) com 0 ≤ *t* ≤ 4. [figura] Sabendo que os valores *f* (1), *f* (2) , *f* (3) e *f* (4) formam, nessa ordem, uma progressão geométrica de razão \\(\\frac{1}{4}\\) e soma igual a \\(\\frac{255}{128}\\), então o valor de *r* é um número múltiplo de || A) 9. | B) 5. | C) 3. | D) 7."
+},
+{
+"id": 118558,
+"vest": "UFU",
+"ano": "2015",
+"area": "exatas",
+"texto": "O gráfico da função de variável real *y* = *f* (*x*) = *ax*<sup>2</sup> + *bx* + *c* , em que *a*, *b* e *c* são constantes reais, é uma parábola. Sabe-se que a função *y* = *g*(*x*) = 2. *f* (*x* +1) apresenta o gráfico que segue: [figura] Nessas condições, o produto entre os valores da abscissa e da ordenada do vértice da parábola representando *f* (*x*) é igual a || A) 18. | B) 6,5. | C) 9. | D) 4,5."
+},
+{
+"id": 118559,
+"vest": "UFU",
+"ano": "2015",
+"area": "exatas",
+"texto": "Uma das maiores emissoras de CO<sub>2</sub> do país, a Petrobrás anuncia que planeja deixar de lançar na atmosfera milhões de toneladas de carbono presentes nos reservatórios de petróleo e gás da camada pré-sal. As concentrações de carbono no local são muito maiores do que em outros campos petrolíferos. Estimativas apontam que somente nas duas áreas com reservas delimitadas – os campos de Tupi e Iara, onde há um acúmulo de até 12 bilhões de barris de óleo e gás – existam 3,1 bilhões de toneladas de CO<sub>2</sub>, um dos gases que contribuem para o aquecimento do planeta. Caso todo gás produzido na exploração do pré-sal seja lançado na atmosfera, poderá acarretar aumento || A) do efeito estufa e, consequentemente, maior dispersão dos raios solares para o espaço, gerando aquecimento glo | B) considerável do pH das águas dos mares e, consequentemente, destruição dos corais formados por carbonatos. | C) da temperatura nos mares, ocasionando o desvio de curso de correntes marítimas e, até mesmo, a extinção de ani | D) da sensação térmica, sem, contudo provocar alterações climáticas consideráveis, pois o efeito estufa é um fenô"
+},
+{
+"id": 118560,
+"vest": "UFU",
+"ano": "2015",
+"area": "exatas",
+"texto": "O oxigênio que entra nos pulmões durante a respiração irá se ligar à hemoglobina (Hb) segundo o equilíbrio: [figura] Todavia, quando uma pessoa é submetida a um local cuja concentração de CO (monóxido de carbono) é elevada, o equilíbrio químico se altera, pois a molécula de monóxido de carbono tem afinidade pela hemoglobina cerca de 150 vezes maior que o oxigênio, motivo pelo qual é tóxica. A toxidez do CO pode ser atribuída || A) ao seu potencial venenoso e à sua capacidade em se ligar com a hemoglobina, alterando o equilíbrio no sentido  | B) ao deslocamento de equilíbrio no sentido da formação do HbO<sub>2</sub>, pois a quantidade de oxigênio disponí | C) à formação da molécula de HbO<sub>2</sub>, que é mais estável do que a molécula de HbCO, devido à concentração | D) à sua competição com o oxigênio para se ligar à hemoglobina, se o ar inspirado tiver considerável conteúdo de "
+},
+{
+"id": 118643,
+"vest": "UFU",
+"ano": "2016",
+"area": "exatas",
+"texto": "Considere o polinômio de variável real *p*(*x*) = *x*<sup>3</sup> − *kx* +150, com *k* sendo um número natural fixo não nulo. Se o número complexo *z* = 3+ *ai* é uma raiz de *p*(*x*), em que *a* é um número real positivo e *i* é a unidade imaginária, então o valor do produto *k* ⋅*a* é igual a || A) 44. | B) 66. | C) 24. | D) 96."
+},
+{
+"id": 118644,
+"vest": "UFU",
+"ano": "2016",
+"area": "exatas",
+"texto": "Um estudante recorre a uma imobiliária na expectativa de alugar um apartamento. A imobiliária exige de seus locatários o pagamento de um depósito caução, dividido em três parcelas fixas e de iguais valores, a serem pagas junto com as mensalidades do aluguel nos três primeiros meses. Essas mensalidades são fixas e de iguais valores. O estudante desembolsará, em um ano de contrato, um total de R$ 8 400,00, de maneira que o desembolso total, após o término do pagamento do depósito caução, será 80% superior àquele correspondente ao desembolso referente aos três primeiros meses. Nas condições apresentadas, o valor do depósito caução é igual a || A) R$ 1 400,00. | B) R$ 1 200,00. | C) R$ 900,00. | D) R$ 1 800,00."
+},
+{
+"id": 118645,
+"vest": "UFU",
+"ano": "2016",
+"area": "exatas",
+"texto": "A senha de acesso ao cofre de um carro-forte é formada por *d* algarismos, em que esses algarismos pertencem ao conjunto de inteiros {0,1,2,...,9}. Um dos guardas observa o colega digitar o último algarismo da senha, concluindo que esta corresponde a um número ímpar. Assuma que esse guarda demore 1,8 segundos para realizar cada tentativa de validação da senha, sem realizar repetições, de maneira que, assim procedendo, no máximo em duas horas e meia terá sucesso na obtenção da senha. Segundo as condições apresentadas, conclui-se que o valor de *d* é um número || A) quadrado perfeito. | B) primo. | C) divisível por 3. | D) múltiplo de 5. [figura]"
+},
+{
+"id": 118646,
+"vest": "UFU",
+"ano": "2016",
+"area": "exatas",
+"texto": "Em uma gráfica, uma impressora foi ajustada para imprimir as 323 páginas de um livro, em ordem crescente da 1ª até a 323ª página. Assuma que ocorreu uma pane, interrompendo a impressão e deixando de ser impresso um total de páginas, em cujas enumerações seriam utilizados 636 algarismos. Se *A* é o conjunto de todos os números usados na enumeração das páginas, então a quantidade de elementos desse conjunto que são quadrados perfeitos é igual a || A) 11. | B) 8. | C) 9. | D) 10. [figura]"
+},
+{
+"id": 118647,
+"vest": "UFU",
+"ano": "2016",
+"area": "exatas",
+"texto": "Sejam *k*<sub>1</sub> e *k*<sub>2</sub> dois números reais positivos com *k*<sub>2</sub> = 3*k*<sub>1</sub>. Suponha que os gráficos cartesianos das funções reais definidas por *f* (*x*) = *x* + *k*<sub>1</sub> e *g*(*x*) = − *x* + *k*<sub>2</sub> delimitam um quadrilátero de área 8 unidades de área. Segundo essas condições, o valor do produto *k*<sub>1</sub> ⋅*k*<sub>2</sub> é igual a || A) 9. | B) 15. | C) 18. | D) 12. [figura]"
+},
+{
+"id": 118648,
+"vest": "UFU",
+"ano": "2016",
+"area": "exatas",
+"texto": "[figura] Apesar da notícia veiculada, especialistas dizem que, provavelmente, a Coreia do Norte teria realizado um teste nuclear e não um teste com a bomba de hidrogênio, no início de 2016. Pela análise da figura, infere-se que a Coreia do Norte possui || A) tecnologia para produção da bomba termonuclear de poder destrutivo menor que a bomba atômica. | B) instalações que indicam sua capacidade de produção de bombas atômicas, cujo princípio é a fissão nuclear. | C) reservas de urânio suficientes para a produção da bomba de hidrogênio, que se baseia na fusão de átomos de hél | D) potencial nuclear para produção da bomba H, cujo princípio é a fissão de átomos de urânio enriquecido. [figura"
+},
+{
+"id": 118649,
+"vest": "UFU",
+"ano": "2016",
+"area": "exatas",
+"texto": "Técnicos do Instituto de Criminalística de Campinas realizaram perícia na atração conhecida como ―Labirinto‖ do parque Hopi Hari, em Vinhedo, 79 km de São Paulo, após a morte de um estudante que passou mal nos corredores do brinquedo, no ano de 2007. No \"Labirinto\", os vários visitantes percorrem a pé 130 metros de corredores equipados com jogos de luzes, gelo seco e atores fantasiados para dar sustos. Laudo preliminar do Instituto Médico-Legal diz que a causa da morte do estudante foi um edema pulmonar (acúmulo de líquido nos pulmões). Associar, diretamente, a morte do estudante ao gelo seco puro pode ser indevida, pois, preliminarmente, sabe-se que || A) o gás carbônico sublimado não aumenta a quantidade de líquido nos pulmões. | B) a água sublimada acumula-se nos pulmões, porém não causa edemas. | C) a mistura de água com gás nitrogênio sublima e resseca os pulmões. | D) o nitrogênio sublimado é facilmente inalado, pois é inerte e não se liquefaz"
+},
+{
+"id": 118650,
+"vest": "UFU",
+"ano": "2016",
+"area": "exatas",
+"texto": "A iboga é uma misteriosa raiz africana à qual se atribuem fortes propriedades terapêuticas. Trata-se de uma raiz subterrânea que chega a atingir 1,50m de altura, pertencente ao gênero *Tabernanthe*, composto por várias espécies. A que tem mais interessado a medicina ocidental é a *Tabernanthe iboga*, encontrada sobretudo na região dos Camarões, Gabão, República Central Africana, Congo, República Democrática do Congo, Angola e Guinea Equatorial. A ibugaína é extraída dessa raiz e tem fórmula estrutural [figura] A partir da análise de sua estrutura, verifica-se que a ibogaína possui fórmula molecular || A) C<sub>19</sub>H<sub>24</sub>N<sub>2</sub>O e possui caráter básico. | B) C<sub>19</sub>H<sub>23</sub>N<sub>2</sub>O e possui caráter ácido. | C) C<sub>20</sub>H<sub>26</sub>N<sub>2</sub>O e possui caráter alcalino. | D) C<sub>20</sub>H<sub>24</sub>N<sub>2</sub>O e possui caráter adstringente. [figura]"
+},
+{
+"id": 118651,
+"vest": "UFU",
+"ano": "2016",
+"area": "exatas",
+"texto": "***Welcome to the International Union of Pure and Applied Chemistry*** *Discovery and Assignment of Elements with Atomic Numbers 113, 115, 117 and 118* *IUPAC announces the verification of the discoveries of four new chemical elements: The 7th* *period of the periodic table of elements is complete.* [figura] Foi assim que, em 30 de dezembro de 2015, a IUPAC (sigla, em inglês, de International Union of Pure and Applied Chemistry) anunciou, formalmente, a inclusão de novos elementos na Tabela Periódica: Unúntrio (<sup>113</sup>Uut), Unumpêntio (<sup>115</sup>Uup), Ununséptio 117 118 ( Uus) e Ununóctio ( Uuo). Esses novos elementos transurânicos possuem grandes núcleos e são || A) naturais e de peso atômico elevado. | B) artificiais e altamente radioativos. | C) isoeletrônicos e isótopos entre si. | D) estáveis com semelhança no tempo de vida. [figura]"
+},
+{
+"id": 118652,
+"vest": "UFU",
+"ano": "2016",
+"area": "exatas",
+"texto": "Nos últimos anos, vem se destacando o consumo da batata-doce com relação ao da batata inglesa, porém, é importante analisar cada uma delas sem o mito de que uma possa substituir a outra em qualquer situação nutricional. O índice glicêmico da batata-doce é baixo (IG=48) quando comparado ao da batata inglesa (IG=70). Esse valor representa a velocidade com que os carboidratos entram na nossa corrente sanguínea: quanto mais alto, mais insulina o pâncreas libera para tentar equilibrar os níveis de açúcar no sangue. Composição do alimento por 100 g de parte comestível. [figura] Assim, verifica-se que o consumo da batata || A) doce é um importante aliado no emagrecimento e na prática de exercícios físicos, por ser uma opção vantajosa d | B) inglesa é vantajoso com relação ao consumo da batata-doce, para os casos em que se desejam mais proteínas e ba | C) industrializada pode ser um importante aliado para a liberação de energia antes dos exercícios, pois libera gr | D) frita interfere pouco no ganho de peso, pois colabora para a liberação da insulina, diminuição da glicose no s"
+},
+{
+"id": 118653,
+"vest": "UFU",
+"ano": "2016",
+"area": "exatas",
+"texto": "[figura] A figura mostra os diferentes procedimentos que devem ser adotados para evitar a proliferação do mosquito *Aedes aegypti*, transmissor do vírus da dengue, febre zika e chicungunha. Além dessas ações, é importante a adição de substâncias químicas para eliminar os focos da doença. Entre essas substâncias, o sal de cozinha (NaCl), adicionado em água parada que não seja de consumo, é bastante eficiente, na proporção a seguir: [figura] [figura] Sobre o ataque à proliferação do mosquito *Aedes aegypti,* || A) limpar a bandeja coletora de água do ar condicionado implica deixá-la com água limpa, sem adição de produtos q | B) colocar areia nos pratos das plantas tem pouca eficiência, pois mesmo na areia úmida o mosquito irá depositar  | C) pode-se adicionar cloreto de sódio à água até a concentração mínima de 0,34 mol/L, ou mesmo adicionar água san | D) recolher o lixo é uma forma ineficiente de combate, pois, para a deposição de seus ovos, o mosquito prefere am"
+},
+{
+"id": 118654,
+"vest": "UFU",
+"ano": "2016",
+"area": "exatas",
+"texto": "[figura] O gráfico, presente no Relatório de 2015 da OXFAM (*Oxford Committee for Famine* *Relief -* Comitê de Oxford de Combate à Fome), demonstra que a parcela dos 10% mais ricos da população mundial é responsável por 49% da emissão individual do gás carbônico (CO<sub>2</sub>). Esse gás || A) tem pouca relação com o processo de industrialização dos países mais ricos, pois sua emissão ocorre essencialm | B) por absorver a energia irradiada do sol, forma uma espécie de \"cobertor térmico\" em torno do planeta, impedind | C) é importante para gerar um efeito estufa, caracterizado pela elevação intensa de sua concentração, que tem con | D) equilibra o sistema climático da Terra, e o aumento de sua concentração atmosférica afeta, principalmente, a p"
+},
+{
+"id": 118655,
+"vest": "UFU",
+"ano": "2016",
+"area": "exatas",
+"texto": "[figura] A figura acima faz referência à queda da barragem no distrito de Bento Gonçalves, na cidade de Mariana, MG, no ano de 2015. Segundo a reportagem, essa tragédia levou para os rios toneladas de rejeitos de minério de ferro contendo, inclusive, outros metais, como arsênio, antimônio, zinco e cobre. Esse rejeito || A) diminuiu a disponibilidade de oxigênio nas águas do Rio Doce, causando mortandade nos peixes, bem como alteraç | B) é pobre em matéria orgânica, causando a acidificação das águas do Rio Doce, porém, sem gerar alterações na qua | C) aumentou a turbidez da água do Rio Doce, o que favoreceu a penetração de luz solar para a proliferação de pequ | D) dispersou produtos químicos solúveis nas águas do Rio Doce, gerando aumento na solubilidade do oxigênio no rio"
+},
+{
+"id": 118656,
+"vest": "UFU",
+"ano": "2016",
+"area": "exatas",
+"texto": "A química dos compostos aromáticos é de grande importância para a produção de corantes, de inseticidas, de detergentes, de explosivos etc. Vários desses materiais são produzidos por meio de reações de adição ao benzeno. Dadas as entalpias de hidrogenação das reações representadas pelas equações químicas a seguir. [figura] A diferença nas entalpias de hidrogenação das reações apresentadas pode ser explicada pela || A) ausência de catalisadores para acelerar o processo. | B) liberação de calor das reações exotérmicas. | C) estabilidade do benzeno devido a sua ressonância. | D) energia de ressonância presente nos compostos alifáticos. [figura]"
+},
+{
+"id": 118657,
+"vest": "UFU",
+"ano": "2016",
+"area": "exatas",
+"texto": "[figura] Dos biocombustíveis destacados na figura, || A) o etanol é utilizado como principal substituto da gasolina no mundo e gera quantidades de CO<sub>2</sub> super | B) o processo de destilação é a forma mais eficaz da produção do biodiesel, que pode substituir a gasolina nos mo | C) o processo de obtenção do etanol ocorre por meio da fermentação e destilação do álcool, que é extraído das gor | D) o biodiesel pode ser produzido a partir da transesterificação de óleos de origem vegetal ou animal."
+},
+{
+"id": 118710,
+"vest": "UFU",
+"ano": "2017",
+"area": "exatas",
+"texto": "Um designer de jogos virtuais está simulando alguns deslocamentos associados com uma pirâmide quadrangular regular, em que o lado do quadrado da base mede 40 cm. [figura] (Figura ilustrativa e sem escalas) Ele simula a trajetória de um lagarto pelas faces da pirâmide. Inicialmente o lagarto desloca-se de A até E e, posteriormente, de E até F, em que F é o ponto médio de CD. Cada um desses dois trechos da trajetória ocorre em linha reta. A projeção perpendicular dessa trajetória em ABCD, presente no plano da base da pirâmide, descreve uma curva R, a qual é a união de dois segmentos. Nessas condições, o comprimento de R, em cm, é igual a || A) 20\\(\\overline{\\sqrt{2}}\\) | B) 40\\(\\overline{\\sqrt{2}}\\) | C) 40 (1+ \\(\\overline{2)}\\) | D) 20 (1+ \\(\\overline{2)}\\) [figura]"
+},
+{
+"id": 118711,
+"vest": "UFU",
+"ano": "2017",
+"area": "exatas",
+"texto": "A Secretaria de Saúde de um determinado Estado brasileiro necessita enviar 640 estojos de vacinas para N regiões distintas. Após avaliar as demandas de cada uma dessas regiões a serem atendidas, estabeleceu-se o seguinte esquema de envio: - para a região 1 serão enviados *x* estojos; - para a região 2 serão enviados *x* estojos; - para a região 3 serão enviados 2*x* estojos; - para a região 4 serão enviados 4*x* estojos; e esse padrão se repete nas demais regiões, ou seja, serão enviados tantos estojos a uma região quanto for a soma dos que já foram enviados às regiões anteriores. O valor de *x* deve ser tal que *N* é o maior possível e exatamente todos os estojos sejam distribuídos. Nas condições apresentadas, *N* ⋅ *x* é igual a || A) 35 | B) 30 | C) 40 | D) 45"
+},
+{
+"id": 118712,
+"vest": "UFU",
+"ano": "2017",
+"area": "exatas",
+"texto": "Para realizar uma venda, uma loja virtual solicita de seus clientes o cadastramento de uma senha pessoal que permitirá acompanhar a entrega de sua compra. Essa senha anteriormente era composta por quatro algarismos e uma letra (minúscula), sem quaisquer restrições de posicionamentos entre letra e algarismos. Com o grande aumento no número de vendas, houve a necessidade de ampliação no número de senhas, as quais passaram a ser compostas por cinco algarismos e uma letra (minúscula). Sabe-se que existem 26 letras no alfabeto e 10 algarismos disponíveis. *N M* Se denotarmos por e , respectivamente, o número total de senhas possíveis, antes e após a *N M* mudança, então, a relação entre e é dada por: || A) *M* =10.*N* | B) *M* = 5!.*N* | C) *M* = 6!.*N* | D) *M* =12.*N*"
+},
+{
+"id": 118713,
+"vest": "UFU",
+"ano": "2017",
+"area": "exatas",
+"texto": "Uma empresa que presta serviços de telefonia rural possui duas torres T<sub>1</sub> e T<sub>2</sub>, com específicas áreas de cobertura, correspondendo a círculos C<sub>1</sub> e C<sub>2</sub> que se tangenciam, conforme ilustra a Figura 1. [figura] Essas torres serão desativadas e uma nova torre será instalada de forma que sua área de cobertura corresponda ao círculo C, tangenciando C<sub>1</sub> e C<sub>2</sub> , conforme Figura 2. Se *x*<sup>2</sup> + *y*<sup>2</sup> − 6*x* = 0 é a equação cartesiana descrevendo C<sub>1</sub> e a medida da área (sombreada) da ampliação da cobertura é 30π km<sup>2</sup>, então, o valor do raio, em km, do círculo C<sub>2</sub> é um número || A) par | B) múltiplo de 3 | C) primo | D) divisível por 7"
+},
+{
+"id": 118714,
+"vest": "UFU",
+"ano": "2017",
+"area": "exatas",
+"texto": "[figura] Com relação às mudanças de estado físico, o processo de || A) fusão de misturas eutéticas ocorre à temperatura constante e por aquecimento. | B) ebulição da água pura, ao nível do mar, ocorre com variação da temperatura. | C) sublimação do gelo seco libera energia e aquece o meio em que está inserido. | D) separação de componentes das misturas azeotrópicas é favorecida na ebulição."
+},
+{
+"id": 118715,
+"vest": "UFU",
+"ano": "2017",
+"area": "exatas",
+"texto": "O texto faz referência às conclusões de Bohr ao explicar as dificuldades teóricas do modelo atômico rutherfordiano. **A história do Modelo de Bohr** 1. Que a energia radiada não é emitida (ou absorvida) da maneira contínua admitida pela eletrodinâmica clássica, mas apenas durante a passagem dos sistemas de um estado \"estacionário\" para outro diferente. 2. Que o equilíbrio dinâmico dos sistemas nos estados estacionários é governado pelas leis da mecânica clássica, não se verificando estas leis nas transições dos sistemas entre diferentes estados […] cleo é igual a um múltiplo inteiro de h/2p. 5. Que o estado \"permanente\" de um sistema atômico - isto é, o estado no qual a energia emitida é máxima - é determinado pela condição de ser igual a h/2p o momento angular de cada elétron em torno do centro da sua órbita. O problema que motivou Bohr a propor suas explicações e, consequentemente, seu modelo, baseou-se em qual das seguintes considerações? || A) O elétron acelerado irradia energia, estando sujeito a forças centrípetas que o levariam a desenvolver órbitas | B) A massa do átomo estava concentrada no núcleo e os elétrons girariam em torno dele em órbitas distintas com a  | C) As órbitas possuíam quantidade de energia fixa e os elétrons, ao passar de uma órbita menos energética para um | D) Os experimentos desenvolvidos no laboratório de Rutheford estavam incorretos e os elétrons ficariam retidos na"
+},
+{
+"id": 118716,
+"vest": "UFU",
+"ano": "2017",
+"area": "exatas",
+"texto": "O ácido sulfúrico é uma das matérias primas mais utilizadas pelas indústrias químicas: na produção de papel, corantes, medicamentos, tintas, inseticidas, explosivos, produção de outros ácidos, no refino do petróleo, entre outros usos. Esse ácido pode ser produzido a partir de uma reação da pirita (dissulfeto de ferro) em presença de oxigênio para produzir dióxido de enxofre e óxido de ferro III. Na sequência, o dióxido de enxofre reage na presença de oxigênio para produção do gás trióxido de enxofre que, por sua vez, reage com água para a produção do ácido sulfúrico. As equações químicas balanceadas, que representam as etapas descritas no texto sobre a produção do ácido sulfúrico, são: || A) 4 FeS<sub>2(s)</sub> + 11 O<sub>2(g)</sub> → 2 Fe<sub>2</sub>O<sub>3(s)</sub> + 8 SO<sub>2(g)</sub> 2 SO<sub>2 | B) FeS<sub>(s)</sub> + O<sub>2(g)</sub> → FeO<sub>(s)</sub> + SO<sub>2</sub> <sub>(g)</sub> SO<sub>2(g)</sub> + O | C) Fe<sub>2</sub>S<sub>3(s)</sub> + O<sub>2(g)</sub> → Fe<sub>2</sub>O<sub>3(s)</sub> + SO<sub>2</sub> <sub>(g)</ | D) FeS<sub>2(s)</sub> + O<sub>2(g)</sub> → FeO<sub>(s)</sub> + SO<sub>2</sub> <sub>(g)</sub> 4 SO<sub>2(g)</sub> "
+},
+{
+"id": 118717,
+"vest": "UFU",
+"ano": "2017",
+"area": "exatas",
+"texto": "O butano é comumente utilizado nos botijões de gás de cozinha, como combustível de isqueiros, matéria-prima na produção da borracha sintética, aquecimento de piscinas e saunas, dentre outros usos. Por ser inodoro, acrescenta-se mercaptano no botijão a fim de que as pessoas identifiquem vazamentos, caso ocorram. O butano pode ser obtido a partir do 2-butino, conforme a equação química a seguir. [figura] Para que o 2-butino se transforme no gás de cozinha, é necessário submetê-lo a uma reação de || A) adição de hidrogênios na ligação tripla, que é mais reativa que as ligações duplas. | B) substituição dos hidrogênios em presença de platina, que é um catalisador. | C) hidrogenação catalítica, em que o hidrogênio atacará as ligações insaturadas. | D) desidratação, em que ocorre a perda de água na estrutura do 2-butino."
+},
+{
+"id": 118718,
+"vest": "UFU",
+"ano": "2017",
+"area": "exatas",
+"texto": "[figura] O processo de obtenção de água potável contida em um poço de água salobra é descrito na figura. Pela análise dessa figura, é possível concluir que o processo de || A) dessalinização da água ocorre pela passagem da mistura na bomba DC, que retira por osmose reversa a água pura  | B) obtenção de água pura ocorre pela passagem da mistura ao sensor de vazão, que promove uma destilação simples s | C) purificação da água ocorre quando ela é submetida ao módulo de osmose, que promoverá passagem espontânea da ág | D) potabilização da água ocorre no módulo de osmose reversa que, por pressão controlada, faz com que a água da mi"
+},
+{
+"id": 118719,
+"vest": "UFU",
+"ano": "2017",
+"area": "exatas",
+"texto": "[figura] A obtenção do cloreto de sódio, utilizado como sal de cozinha, pode ser analisada por meio do processo termoquímico a que está associada essa transformação. Desse modo, a partir da análise do gráfico, é possível inferir que || A) as reações endotérmicas associadas ao processo levam a produtos mais estáveis que seus constituintes. | B) a estabilidade do cloreto de sódio é maior que a dos constituintes do estado intermediário que o formam. | C) a formação do cloro atômico gasoso é um processo espontâneo e uma das etapas finais de obtenção do cloreto de  | D) a emissão de energia na forma de calor produz substâncias mais estáveis energeticamente que o cloreto de sódio"
+}
+]

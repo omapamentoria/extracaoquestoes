@@ -1,0 +1,702 @@
+[
+{
+"id": 101874,
+"vest": "ENEM",
+"ano": "2017",
+"area": "exatas",
+"texto": "[figura] Existe um jogo de tabuleiro que combina estratégia e sorte. Em uma jogada, dois adversários disputam um território, sendo um deles o atacante e o outro, o defensor. O ataque e a defesa são determinados pelo lançamento de dados honestos convencionais (com seis faces numeradas de 1 a 6). Na jogada, o atacante utiliza dois dados, e o defensor, somente um. A defesa perde o território caso o resultado de algum dado lançado pelo ataque seja superior ao do dado lançado pela defesa, caso contrário, a defesa continua com seu território. Nessas condições, qual a probabilidade de o ataque conquistar o território? || A) \\(\\frac{181}{216}\\) | B) \\(\\frac{150}{216}\\) | C) \\(\\frac{144}{216}\\) | D) \\(\\frac{125}{216}\\) | E) \\(\\frac{120}{216}\\)"
+},
+{
+"id": 101875,
+"vest": "ENEM",
+"ano": "2017",
+"area": "exatas",
+"texto": "[figura] Um professor aplicou, em sua turma, uma prova valendo de 0 a 10 pontos. Após a correção das provas e a entrega dos resultados, um aluno notou que ninguém havia obtido nota maior do que 8 e questionou o professor sobre isso. Revisando a prova, o professor observou que ninguém acertou a última questão, que valia 2 pontos, porém, ela não possuía todos os dados necessários à resolução. Assim, o professor resolveu conceder 2 pontos extras à nota da prova de cada aluno. Após a concessão dos 2 pontos extras, o desvio padrão das notas das provas dessa turma || A) aumentou 2 pontos. | B) aumentou 4 pontos. | C) permaneceu igual. | D) diminuiu 2 pontos. | E) diminuiu 4 pontos. [figura]"
+},
+{
+"id": 102010,
+"vest": "ENEM",
+"ano": "2017",
+"area": "exatas",
+"texto": "[figura] Um terreno no formato de quadrilátero ABDE é tal que os pontos C e F pertencem aos lados BD eAE, respectivamente. Os ângulos B e E são retos e os segmentos AB, CD, DE e FA têm suas medidas indicadas, na figura, em metros. [figura] A região AFDC destacada é destinada à criação de galinhas. Qual a área, em metros quadrados, da região destacada? || A) 31 | B) 30 | C) 29 | D) 28 | E) 27"
+},
+{
+"id": 102011,
+"vest": "ENEM",
+"ano": "2017",
+"area": "exatas",
+"texto": "Uma escultura é formada por quatro circunferências de mesmo raio dispostas como na figura, determinando doze pequenos arcos, todos de comprimento igual a 3. [figura] Qual é o comprimento de cada uma dessas circunferências? || A) 18 | B) 20 | C) 21 | D) 22 | E) 24"
+},
+{
+"id": 102012,
+"vest": "ENEM",
+"ano": "2017",
+"area": "exatas",
+"texto": "Uma indústria produz mensalmente *x* lotes de um produto. O valor mensal resultante da venda deste produto é V(x) = 3x<sup>2</sup> – 12x e o custo mensal da produção é dado por C(x) = 5x<sup>2</sup> – 40x – 40. Qual o número de lotes mensais que essa indústria deve vender para obter lucro máximo? || A) 4 | B) 5 | C) 6 | D) 7 | E) 8"
+},
+{
+"id": 102013,
+"vest": "ENEM",
+"ano": "2017",
+"area": "exatas",
+"texto": "[figura] Ana vai a um banco e aplica a quantia de R$ 2 000,00 à taxa de juros compostos de 10% ao mês. Qual o valor que ela receberá de juros ao final de um ano? (**Dado:** 1,1<sup>12</sup> ≅ 3,13) || A) R$ 1 564,00 | B) R$ 2 376,00 | C) R$ 3 726,00 | D) R$ 4 260,00 | E) R$ 6 260,00"
+},
+{
+"id": 102103,
+"vest": "ENEM",
+"ano": "2017",
+"area": "exatas",
+"texto": "Nanci tem seis quadrados de cartolina iguais, como na figura I. Com esses cartões, ela montou a figura II. [figura] Qual a área dessa figura? || A) 450 cm<sup>2</sup> | B) 475 cm<sup>2</sup> | C) 525 cm<sup>2</sup> | D) 540 cm<sup>2</sup> | E) 600 cm<sup>2</sup>"
+},
+{
+"id": 102104,
+"vest": "ENEM",
+"ano": "2017",
+"area": "exatas",
+"texto": "Visando a uma maior participação da juventude fortalezense em projetos destinados a eles e proporcionando momentos de interação e lazer, a Prefeitura de Fortaleza, por meio da Coordenadoria de Juventude, lançou o Torneio de Futsal Masculino Comunidade em Pauta na Rede Cuca, no qual seis equipes irão competir. Sabendo que os jogos acontecerão em jogos de ida e volta, quantos jogos podem ser realizados entre os times finalistas? || A) 6 | B) 12 | C) 18 | D) 24 | E) 30"
+},
+{
+"id": 102134,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Ao visitar uma loja de brinquedos, Nícolas observou um quebra-cabeça, composto de figuras geométricas, em que as três primeiras peças estavam dispostas conforme mostrado a seguir. [figura] Nícolas associou essas peças a uma sequência numérica e calculou que a centésima peça dessa sequência teria || A) 199 lados. | B) 200 lados. | C) 201 lados. | D) 202 lados. | E) 203 lados."
+},
+{
+"id": 102135,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "A bandeira da República Tcheca é um pavilhão tricolor dividido horizontalmente em duas faixas iguais, uma branca (na parte superior) e outra vermelha (na parte inferior), invadidas por uma cunha triangular azul, que faz com que as faixas horizontais assumam o formato de trapézios retângulos. [figura] Uma bandeira como essa, a qual possui dimensões de 60 cm por 90 cm, deve ser produzida com retalhos de tecido branco, azul e vermelho, de modo que o triângulo azul possua um lado com 60 cm e os outros dois tenham 50 cm cada. No entanto, como não ha […] te para fazer as faixas horizontais sem emendas, o costureiro resolveu produzi-las costurando retalhos menores, de mesma largura, segundo as linhas pontilhadas na ilustração a seguir. [figura] Considere que, na confecção dessa bandeira, não haverá sobreposição de tecidos para além das regiões de costura. Desse modo, qual deve ser o comprimento de cada costura representada pelas linhas pontilhadas? || A) 55 cm | B) 60 cm | C) 65 cm | D) 70 cm | E) 75 cm"
+},
+{
+"id": 102136,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Uma instituição financeira empresta dinheiro a seus clientes mais antigos com juros de 1% ao mês, em regime de juros compostos. Um cliente resolveu pedir certa quantia emprestada e pagar em uma única parcela depois de determinado prazo, mas percebeu que teria que pagar por ela um total de juros igual à quantia emprestada. Assim, considerando as aproximações log 2 = 0,301 e log 101 = 2,0043, sabe-se que o empréstimo desse cliente foi realizado em um prazo de || A) 35 meses. | B) 48 meses. | C) 64 meses. | D) 70 meses. | E) 72 meses."
+},
+{
+"id": 102137,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "O tamanho de aparelhos eletroeletrônicos como televisores, monitores de computador, celulares e *tablets* costuma ser comercialmente designado pela medida, em polegadas, da diagonal da tela, enquanto os preços desses aparelhos, considerando uma mesma marca em uma mesma loja, costumam ser diretamente proporcionais às áreas de suas telas. Uma loja adepta dessa prática de proporcionalidade entre preços e áreas de telas colocou à venda dois modelos (A e B) de aparelhos televisores de 32 polegadas de um mesmo fabricante; a tela do aparelho de modelo A tem o formato 4 por 3, e a tela do eletroeletrônico de modelo B tem o formato 16 por 9. Sabendo que, nessa loja, o preço da TV de modelo A é R$ 1 348,00, então o preço do aparelho de modelo B, nessa mesma loja, é || A) R$ 1000,00. | B) R$ 1200,00. | C) R$ 1440,00. | D) R$ 1560,00. | E) R$ 1600,00."
+},
+{
+"id": 102138,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "As praias de tombo são assim chamadas por apresentarem ondas fortes que provocam uma espécie de depressão repentina no solo submerso, o que, por vezes, causa a queda dos banhistas. O perfil das praias desse tipo é bastante inclinado, de modo que ocorre um aumento rápido da profundidade após alguns passos em direção às águas mais profundas. Um topógrafo descreveu o perfil do relevo submerso em uma praia de tombo como semelhante ao gráfico da função y = −\\(\\sqrt{x}\\) em um sistema cartesiano, o qual está mais bem representado em || A) [figura] | B) [figura] | C) [figura] | D) [figura] | E) [figura]"
+},
+{
+"id": 102139,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Certa avenida possui 4 semáforos. O primeiro abre para a passagem de carros a cada 3 minutos, o segundo a cada 6 minutos, o terceiro a cada 4 minutos, e o quarto a cada 2 minutos. Agenor é taxista, e seu ponto é imediatamente antes do primeiro desses quatro semáforos. Ele recebeu uma chamada às 19h00, no exato momento em que todos os sinais abriram juntos para a passagem de carros. Quando terminou a ligação, às 19h04, Agenor resolveu esperar os quatro semáforos abrirem juntos novamente para sair de seu ponto de táxi. Sendo assim, ele saiu às || A) 19h10. | B) 19h12. | C) 19h14. | D) 19h16. | E) 19h18."
+},
+{
+"id": 102293,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Uma empresa adquiriu uma máquina nova para produzir determinado tipo de peça. Para testar a eficiência dessa máquina, a produção diária foi variada uniformemente, de modo que, no primeiro dia, foram produzidas 6 peças, no segundo dia, 18 peças; no terceiro dia, 30 peças, e assim sucessivamente. Considerando que, durante os primeiros 365 dias, a função P = P(n) fornece o número de peças produzidas pela máquina no n-ésimo dia, dois dos elementos que pertencem ao conjunto imagem de P são || A) 222 e 228. | B) 270 e 275. | C) 342 e 366. | D) 384 e 390. | E) 690 e 694."
+},
+{
+"id": 102294,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "A energia cinética E<sub>C</sub>, em joules, de um corpo de massa m, em kg, em movimento é uma função de sua velocidade v, em m/s. Sua expressão algébrica é dada por E<sub>C</sub> = \\(\\frac{mv^{2}}{2}\\). Se a massa do corpo é igual a 4 kg e sua velocidade em função do tempo t, em segundos, é dada por v = 2 – 3t, a energia cinética do corpo em função do tempo é dada por || A) E<sub>C</sub>= 4 – 6t | B) E<sub>C</sub>= 8 – 18t<sup>2</sup> | C) E<sub>C</sub>= 4 – 12t + 9t<sup>2</sup> | D) E<sub>C</sub>= 8 – 6t + 18t<sup>2</sup> | E) E<sub>C</sub>= 8 – 24t + 18t<sup>2</sup>"
+},
+{
+"id": 102295,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "A fim de tomar decisões para melhorar o plantio de um certo tipo de grão, um agricultor fez um gráfico da produção durante os seus primeiros cinco anos da atividade, de acordo com a figura a seguir. [figura] Considerando a produção P(t) do grão, em toneladas, em função do tempo t, em anos, verifica-se corretamente que || A) P(t) é injetora no intervalo [0, 3]. | B) P(t) é injetora apenas nos intervalos [0, 2] e [4, 5]. | C) P(t) é par no intervalo [1, 3]. | D) P(t) é par no intervalo [2, 3]. | E) P(t) é injetora no intervalo [2, 4]."
+},
+{
+"id": 102296,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Em determinada festa, a quantidade de rapazes é um número natural de dois algarismos em que o algarismo das unidades é y e o das dezenas é x, e a quantidade de moças é um número natural de dois algarismos em que o algarismo das unidades é x e o das dezenas é y. Sabendo que há 143 pessoas na festa e que y é maior que x, a maior diferença possível para (y – x) é igual a || A) 1. | B) 3. | C) 5. | D) 6. | E) 13."
+},
+{
+"id": 102297,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "A épura é uma representação geométrica de objetos tridimensionais muito usada em Geometria Descritiva e em Desenho Técnico. Essa representação é obtida a partir de projeções ortogonais em planos α e β, como mostrado na figura a seguir. [figura] É possível representar, nesses planos, uma trajetória (um caminho percorrido entre alguns pontos). Assim, traçando os segmentos de reta AE, EH, HB e BG, serão formadas, segundo o observador mostrado, respectivamente, nos pontos α e β, as seguintes projeções: || A) [figura] | B) [figura] | C) [figura] | D) [figura] | E) [figura]"
+},
+{
+"id": 102298,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Sabe-se que a numeração de calçados varia de país para país. Os dados apresentados no gráfico a seguir permitem a conversão da numeração dos tênis fabricados na Coreia do Sul, representada por x, para a numeração correspondente dos tênis fabricados nos Estados Unidos, representada por f(x). [figura] Uma lei de formação para converter a numeração x dos tênis fabricados nos Estados Unidos para a correspondente numeração g(x) dos tênis fabricados na Coreia do Sul é || A) g x) = 40x + 1 ( | B) g x) = x + \\(\\frac{1}{40}\\) ( | C) g x) = \\(\\frac{x\\,−\\,1}{40}\\) ( | D) g x) = 40x − 9634 ( | E) g x) = \\(\\frac{x\\,+\\,9634}{40}\\) ("
+},
+{
+"id": 102299,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Ao digitar rapidamente um número de cinco algarismos distintos e não nulos, Maria acabou invertendo a ordem entre os dois primeiros dígitos e também a ordem entre os dois últimos. Se o número digitado é maior do que o número original, a diferença entre o número digitado e o original é, no máximo, igual a || A) 9 009. | B) 72 000. | C) 72 054. | D) 72 072. | E) 72 081."
+},
+{
+"id": 102300,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Pedrinho pôs-se a praticar a milenar arte do *origami*. Ele partiu de um pedaço de papel em formato quadrado com 10 cm de lado e executou a primeira dobra em torno do eixo formado por um dos vértices e pela mediana do lado oposto, como mostrado a seguir: [figura] Entusiasta pela Matemática que era, Pedrinho pôs-se a calcular as medidas das arestas e dos ângulos do triângulo que se formou com essa primeira dobradura, concluindo corretamente que o ângulo oposto à menor aresta desse triângulo era de 26,6° e que || A) o segundo menor ângulo era igual a 63° 24’. | B) nenhum dos ângulos do triângulo era reto. | C) uma aresta do triângulo era maior que 15 cm. | D) as menores arestas eram iguais a 5 e 8 cm. | E) a menor aresta era igual a 10 cm."
+},
+{
+"id": 102301,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "A tabela a seguir apresenta a ordem de colocação dos treze primeiros países nas Olimpíadas do Rio de Janeiro, em 2016. [figura] Para ordenar os países, primeiro, são consideradas as medalhas de ouro que o país conquistou; em seguida, as de prata e, por último, as de bronze. Nota-se que a Itália e a Austrália têm o mesmo número de medalhas de ouro e, como a Itália tem mais medalhas de prata que a Austrália, aquela fica em uma posição anterior a esta. Supondo que o Brasil tivesse conquistado mais 11 medalhas, sendo: uma de ouro, cinco de prata e cinco de bronze, e que os demais países com classificação melhor que o Brasil mantivessem o mesmo número de medalhas apresentadas na tabela, o país-sede das Olimpíadas do Rio de Janeiro passaria a ocupar a || A) 5<u><sup>a</sup></u> posição. | B) 9<u><sup>a</sup></u> posição. | C) 10<u><sup>a</sup></u> posição. | D) 11<u><sup>a</sup></u> posição. | E) 12<u><sup>a</sup></u> posição."
+},
+{
+"id": 102302,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "As criptomoedas prometem um alto rendimento em curto espaço de tempo e têm atraído muitos investidores. Dados do CoinDesk divulgados pelo portal G1 News mostram o vertiginoso crescimento da pioneira e mais notória criptomoeda: o *bitcoin*. Os entusiastas dessa moeda acreditam que esse crescimento irá durar até a moeda bater incríveis US$ 300 mil, mesmo com o alerta de especialistas de que essa “bolha vai estourar” muito antes disso. **Evolução do preço de** ***bitcoin*** [figura] A partir da análise do gráfico, nota-se que, em janeiro de 2017, o valor da unidade de *bitcoin* chegou a || A) cerca de US$ 10 000,00. | B) cerca de US$ 6 100,00. | C) cerca de US$ 1 000,00. | D) cerca de US$ 140,00. | E) poucos centavos de dólar."
+},
+{
+"id": 102325,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Uma empresa de turismo atua entre as duas margens de um rio e oferece aos seus clientes três trajetos distintos de passeios de barco: AB (trajeto 1), AOC (trajeto 2) e AC (trajeto 3). Com essas três opções, essa empresa leva turistas para dois lugares distintos na outra margem (B e C) e ainda permite que os clientes optem por um trajeto com maior duração (AOC). Esses trajetos têm como origem o ponto A e estão representados na figura a seguir. [figura] Sabe-se que a distância percorrida no trajeto 1 é igual à distância entre os pontos B e C. Além disso, sabe-se que a primeira parte do trajeto 2, AO, está na bissetriz do menor ângulo formado pelos trajetos 1 e 3. Por fim, sabe- -se que, na segunda parte do trajeto 2, OC, a embarcação segue pela bissetriz do menor ângulo formado pela margem de destino e o trajeto 3. Qual é o menor ângulo formado pelo trajeto 1 e a margem de destino dos passeios? || A) 20° | B) 30° | C) 60° | D) 90° | E) 120°"
+},
+{
+"id": 102326,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Na conta de energia das casas de uma cidade, cobra- -se R$ 0,50 por kWh consumido, mais uma tarifa de iluminação pública, que é reajustada a cada mês. No mês de janeiro, a tarifa de iluminação pública foi de R$ 10,00 e a conta de energia de determinada casa dessa cidade foi de R$ 60,00. No mês de fevereiro, a tarifa de iluminação pública foi de R$ 12,00, e o consumo dessa mesma casa foi de 110 kWh. Considerando que o aumento mensal da tarifa de iluminação pública se manteve constante ao longo do primeiro semestre, assim como o crescimento mensal do consumo, em kWh, da casa mencionada, pode-se afirmar que a conta de energia elétrica dessa casa no mês de junho custou || A) R$ 67,00. | B) R$ 75,00. | C) R$ 87,00. | D) R$ 95,00. | E) R$ 102,00."
+},
+{
+"id": 102327,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "O preço pago por uma corrida em um aplicativo de transporte inclui uma parcela que depende da quilometragem rodada, no valor de R$ 0,90 por quilômetro, uma parcela fixa no valor de R$ 6,00 e uma taxa fixa a ser paga à prefeitura no valor de R$ 0,80. Se a corrida de um cliente desse aplicativo custou R$ 29,30, a distância percorrida por esse passageiro foi de || A) 20,2 km | B) 25,0 km | C) 25,8 km | D) 32,4 km | E) 40,1 km"
+},
+{
+"id": 102328,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Em viagens aéreas, os aviões realizam diferentes rotas, dependendo de seu destino, a partir de um determinado aeroporto. O esquema a seguir representa as rotas de 5 viagens aéreas distintas, todas partindo do mesmo aeroporto. [figura] Considere que o menor ângulo entre as rotas C e E mede 45°, conforme o esquema anterior. O menor ângulo entre a rota B e a rota E é o dobro do menor ângulo entre a rota A e a rota C, e a rota B está na bissetriz do menor ângulo entre a rota A e a rota C. Qual é o menor ângulo entre as rotas A e C? || A) 15° | B) 25° | C) 30° | D) 35° | E) 60°"
+},
+{
+"id": 102329,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Uma das jogadas mais conhecidas do tênis é o *lob*, em que um jogador rebate a bola de modo que ela passe por cima do oponente. No gráfico a seguir, pode-se observar a trajetória da bola em um *lob* iniciado a 1,1 m do chão. [figura] Considerando que a trajetória seja parabólica, de acordo com o gráfico, conclui-se que || A) a altura máxima que a bola atingiu foi de 3,5 m. | B) o deslocamento horizontal da bola até tocar no chão foi de 10 m. | C) o deslocamento horizontal da bola até tocar no chão foi de 12 m. | D) a altura máxima foi atingida com deslocamento horizontal de 5 m. | E) o deslocamento vertical da bola até tocar no chão foi de, aproximadamente, 2,5 m."
+},
+{
+"id": 102330,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "João comprou um terreno em forma de um triângulo ABC, em que AB = 56 m e BC = 70 m. Visando aproveitar melhor o terreno para uma produção de verduras, João irá dividi-lo em duas partes. Para isso, ele vai utilizar uma cerca que sairá de um ponto D pertencente ao lado <u>AB,</u> a 14 m do vértice A, e chegará a um ponto E do lado AC. Considere que a cerca terá 5 fios de arame paralelos entre si e será retilínea e paralela ao lado BC. Desse modo, considerando que o arame será fixado usando um método que dispensa sobras, o comprimento mínimo de arame necessário para construir a cerca de João é igual a || A) 19,0 m. | B) 23,3 m. | C) 56,0 m. | D) 87,5 m. | E) 116,6 m."
+},
+{
+"id": 102331,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "O dono de uma loja que comercializa apenas um tipo de camiseta consegue vender 400 camisetas por mês ao cobrar R$ 32,00 pela unidade, obtendo uma receita mensal de R$ 12 800,00. Contudo, esse comerciante pretende aumentar o preço da camiseta em x reais, mesmo sabendo que, a cada real que cobrar a mais, serão vendidas 8 camisetas a menos por mês. Assim, o intervalo de aumento no preço unitário da camiseta, em reais, para que o vendedor tenha uma receita mensal maior do que R$ 12 800,00, deve ser de || A) 0 < x < 18 | B) 0 < x < 46 | C) x > 18 | D) x > 46 | E) x > 82"
+},
+{
+"id": 102332,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Na planta de reurbanização da região central de uma cidade, há uma praça que possui a forma de um triângulo ABC, em que AB = 40 m, AC = 96 m e BC = 104 m. A prefeitura resolveu incluir no plano de reurbanização a construção de uma ciclofaixa que partirá do vértice A, passando por dentro da praça, chegará a um ponto P do lado BC e dividirá a praça em duas partes. Sabendo que a ciclofaixa será construída exatamente so- a bissetriz do ângulo BÂC, se o ponto P dividir o lado \\(\\frac{bre}{BC}\\) em duas partes, a maior dessas partes terá medida igual a || A) 24 m. | B) \\(\\frac{520}{17}\\) m. | C) \\(\\frac{1248}{17}\\) m. | D) \\(\\frac{520}{7}\\) m. | E) 80 m."
+},
+{
+"id": 102333,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Observando o movimento de um corpo, foi verificado que ele se move em linha reta e que a sua posição x, em metros, em função do tempo t, em segundos, é dada por x(t) = t<sup>2</sup> – 7t + 10. Se no instante t = T, ele passa pela posição x = A > 0 e, se no instante t = T + 1, ele passa pela posição x = 2A, considerando a aproximação \\(\\sqrt{17}\\) ≈ 4,12, a posição x = A é igual a || A) 2,06 m. | B) 4,12 m. | C) 7,12 m. | D) 8,24 m. | E) 9,36 m."
+},
+{
+"id": 102334,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Em Talesópolis, há cruzamentos de 4 avenidas paralelas entre si com uma rua perpendicular a elas e, ainda, com uma outra rua transversal, sendo todas as ruas e avenidas coplanares entre si, conforme mostra o mapa a seguir. [figura] Durante a semana, Guilherme, que reside no ponto A, usa seu carro para ir até a escola onde leciona, situada no ponto B. Considerando as distâncias mostradas no mapa e sabendo que Guilherme sempre segue pelo caminho mais curto, então, cada vez que o professor se desloca de sua casa até a escola, ele percorre uma distância de || A) 906 metros. | B) 1 275 metros. | C) 1 372 metros. | D) 1 442 metros. | E) 1 805 metros."
+},
+{
+"id": 102335,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Arthur adquiriu um pacote na academia que frequenta para obter preços mais vantajosos. Segundo o contrato, a mensalidade e as aulas avulsas devem ser quitadas sempre no dia 5 de cada mês. Em caso de atrasos, a academia cobrará dele, sobre o total da fatura, os seguintes valores: 1) Multa de 5% sobre o valor de cada fatura atrasada, independentemente do tempo de atraso; 2) Juros simples de 0,1% ao dia sobre o valor devido. Arthur atrasou o pagamento de duas faturas: a primeira, no valor de R$ 100,00, com 60 dias de atraso; e a segunda, no valor de R$ 200,00, com 30 dias de atraso. Para regularizar sua situação de inadimplência, Arthur calculou o valor a ser pago e procurou a academia para saldar, no mesmo dia, as duas faturas em atraso. Considerando a incidência de multa e juros simples sobre as faturas, o valor total a ser pago por Arthur para quitar suas duas dívidas, em reais, é igual a. || A) R$ 300,00 | B) R$ 312,00 | C) R$ 315,00 | D) R$ 327,00 | E) R$ 330,00"
+},
+{
+"id": 102336,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Para valorizar os condomínios residenciais, as construtoras têm acrescentado mais áreas comuns de convívio. Em certo empreendimento imobiliário, foram feitas quatro pequenas praças em forma de octógonos regulares em sua área comum. Considerando que todos os lados de cada um desses octógonos mede \\(\\sqrt{2}\\) m, a área total ocupada por essas praças no condomínio vale || A) 8\\(\\sqrt{2}\\) m<sup>2</sup>. | B) 32\\(\\sqrt{2}\\) m<sup>2</sup>. ) ( | C) 4 1+ \\(\\sqrt{2}\\) m<sup>2</sup>. ) ( | D) 16 1+ \\(\\sqrt{2}\\) m<sup>2</sup>. ) ( | E) 32 1+ \\(\\sqrt{2}\\) m<sup>2</sup>."
+},
+{
+"id": 102337,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "**Expressão da velocidade de uma reação química** A expressão da velocidade de uma reação química, também chamada de lei da ação das massas de Guldberg e Waage, é, simplesmente, uma fórmula criada por dois químicos noruegueses (Cato Maximilian Guldberg e Peter Waage) para determinar a velocidade de uma reação química por meio das concentrações molares (molaridade) dos reagentes. Na expressão da velocidade, além das concentrações dos reagentes elevadas aos seus respectivos expoentes (também denominados de ordens dos reagentes), temos a presença  […]  uma reação entre dois reagentes A e B, à mesma temperatura. No primeiro gráfico, fixou-se a concentração molar de A em 1 mol/L, variando a concentração molar de B. No segundo gráfico, fixou-se a concentração molar de B em 1 mol/L, variando a concentração molar de A. [figura] De acordo com as informações do texto, os gráficos apresentados estariam associados a uma velocidade de reação expressa por || A) v = [A] ∙ [B] | B) v = [A]<sup>2</sup> ∙ [B]<sup>3</sup> | C) v = [A]<sup>2</sup> ∙ [B]<sup>2</sup> | D) v = [A]<sup>3</sup> ∙ [B]<sup>2</sup> | E) v = [A]<sup>3</sup> ∙ [B]<sup>3</sup>"
+},
+{
+"id": 102338,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "[figura] O principal sistema de segurança do veículo é o de freios, que requer revisão geral, em média, a cada 15 mil km rodados e troca do fluido de freio a cada 10 mil km rodados. Sempre que fizer revisão, verifique o nível do fluido de freio, além do desgaste de lonas, pastilhas, discos e tambores, e fique atento se há vazamentos no sistema. A manutenção de certo carro que roda muito é feita seguindo rigorosamente as instruções de quilometragem mencionadas no texto anterior. Assim, a terceira vez em que se deve, simultaneamente, trocar o fluido e fazer uma revisão geral dos freios desse carro é, || A) aos 15 mil km rodados. | B) aos 30 mil km rodados. | C) aos 75 mil km rodados. | D) aos 90 mil km rodados. | E) aos 120 mil km rodados."
+},
+{
+"id": 102339,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "**Ciência nas pedaladas** Em uma bicicleta, a coroa é maior do que a catraca. Como o pedal fica preso na coroa, isso significa que, quando ele dá uma volta completa, a coroa faz o mesmo. Mas, em uma pedalada completa, a catraca dá algumas voltas a mais por ser menor do que a coroa. Isso faz com que os pneus também girem mais rápido do que a coroa, o que explica a velocidade da bicicleta. A imagem a seguir representa o esquema que envolve os pedais, a coroa, a corrente e a catraca de uma bicicleta. [figura] Se uma bicicleta tem 42 dentes em sua coroa e 24 dentes em sua catraca, a cada pedalada completa, ou seja, a cada giro de 360° da coroa, a catraca gira uma volta completa e mais || A) \\(\\frac{3}{4}\\) de volta. | B) \\(\\frac{7}{4}\\) de volta. | C) \\(\\frac{4}{7}\\) de volta. | D) \\(\\frac{4}{3}\\) de volta. | E) \\(\\frac{3}{7}\\) de volta."
+},
+{
+"id": 102340,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Considere que a parte interna de determinada obra arquitetônica tem a forma de uma parábola, conforme a vista da figura a seguir. [figura] Para manter a segurança no local, determinou-se que é necessário colocar uma haste AB na posição vertical, tocando o chão em B e a parábola em A. Sabendo que o comprimento AB é 9,6 m, a distância entre O e B, é igual a || A) 3 m. | B) 4,6 m. | C) 6 m. | D) 6,4 m. | E) 8,25 m."
+},
+{
+"id": 102419,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Em função de um longo período de chuvas, o trecho de uma rodovia que corta determinada cidade sofreu duas grandes quedas de barreiras, causando a interdição de uma das pistas da rodovia nesses dois locais, entre os quais localiza-se um posto policial rodoviário. A primeira barreira que caiu estende-se por um trecho que está situado a, no mínimo, 50 m e, no máximo, 200 m de distância do posto policial. Coincidentemente, a segunda barreira que caiu sobre a rodovia estende-se de maneira simétrica à primeira, em relação ao mesmo posto policial. Considerando um eixo x, graduado em metros, para representar as posições na estrada, e atribuindo a posição 0 (origem) para a posição do posto, os trechos da estrada que estão interditados por conta das quedas das barreiras podem ser representados pelas posições || A) {x | |x| > 200 m} | B) {x | |x| > 50 m} | C) {x | |x| < 50 m ou |x| > 200 m} | D) {x | |x| > 50 m ou |x| < 200 m} | E) {x | 50 m ≤ |x| ≤ 200 m}"
+},
+{
+"id": 102420,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Na final de um campeonato de futebol, durante o intervalo do jogo, vai acontecer o *show* de uma pequena banda. A apresentação ocorrerá em um palco circular que ocupa toda a área central do campo, conforme mostrado a seguir. [figura] Para mensurar o impacto do *show* na qualidade do gramado, deve-se calcular o quanto a área a ser ocupada pelo palco representa em relação à área total do campo. Sabe-se que o campo possui dimensões 100 m e 72 m e que o círculo central possui diâmetro de 18 m. Sendo assim, considerando que π = 3, a área a ser ocupada pelo palco representa || A) 0,03375% da área total do campo. | B) 0,135% da área total do campo. | C) 3,375% da área total do campo. | D) 6,75% da área total do campo. | E) 13,5% da área total do campo."
+},
+{
+"id": 102421,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Com o uso de uma calculadora, um aluno estava obtendo alguns valores de logaritmo, quando, de repente, a bateria da calculadora acabou, e o último valor a ser calculado, que era log<sub>3</sub>20, não pôde ser mostrado na tela do aparelho. Contudo, o aluno observou que poderia obter o último valor que precisava sem usar a calculadora, baseando-se apenas nos outros logaritmos que já havia calculado, cujo valores aproximados eram: log<sub>3</sub> 5 = 1,46 e log<sub>4</sub> 3 = 0,80. Assim, o valor encontrado pelo aluno para log<sub>3</sub> 20 foi || A) 2,26. | B) 2,71. | C) 3,92. | D) 4,00. | E) 6,40."
+},
+{
+"id": 102422,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Um professor, visando colocar em prática novas formas de ensino e avaliação, ouviu uma sugestão dos seus alunos: fazer a média da nota da P1 (primeira prova do bimestre) e da nota da P2 (segunda prova do bimestre) considerando a média geométrica, e não a tradicional média aritmética. Os alunos lhe disseram que, dados dois números x e y, a média geométrica entre eles é igual a M<sub>G</sub> = \\(\\sqrt{x\\,⋅\\,y}\\). Um dos alunos da turma, que não tinha participado da sugestão, percebeu que ela não foi boa, pois eles não obteriam notas melhores com essa nova média. Isso fica ilustrado, por exemplo, caso o aluno tire nota 4,0 na P1 e 9,0 na P2. Assim, se um aluno obtivesse nota 4,0 na P1 e nota 9,0 na P2, a média aritmética das notas superaria a média geométrica em || A) 0,25. | B) 0,5. | C) 1,0. | D) 1,5. | E) 2,5."
+},
+{
+"id": 102457,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Em um aeroporto, os passageiros devem submeter suas bagagens a uma das cinco máquinas de raio-X disponíveis ao adentrarem a sala de embarque. Num dado instante, o tempo gasto por essas máquinas para escanear a bagagem de cada passageiro e o número de pessoas presentes em cada fila estão apresentados em um painel, como mostrado na figura. [figura] Um passageiro, ao chegar à sala de embarque desse aeroporto no instante indicado, visando esperar o menor tempo possível, deverá se dirigir à máquina || A) 1. | B) 2. | C) 3. | D) 4. | E) 5."
+},
+{
+"id": 102458,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "O remo de assento deslizante é um esporte que faz uso de um barco e dois remos do mesmo tamanho. A figura mostra uma das posições de uma técnica chamada afastamento. [figura] Nessa posição, os dois remos se encontram no ponto *A* e suas outras extremidades estão indicadas pelos pontos *B* e *C*. Esses três pontos formam um triângulo *ABC* cujo ângulo *BÂC* tem medida de 170°. O tipo de triângulo com vértices nos pontos *A*, *B* e *C*, no momento em que o remador está nessa posição, é || A) retângulo escaleno. | B) acutângulo escaleno. | C) acutângulo isósceles. | D) obtusângulo escaleno. | E) obtusângulo isósceles."
+},
+{
+"id": 102459,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Um mapa é a representação reduzida e simplificada de uma localidade. Essa redução, que é feita com o uso de uma escala, mantém a proporção do espaço representado em relação ao espaço real. Certo mapa tem escala 1 : 58 000 000. [figura] [figura] Considere que, nesse mapa, o segmento de reta que liga o navio à marca do tesouro meça 7,6 cm. A medida real, em quilômetro, desse segmento de reta é || A) 4 408. | B) 7 632. | C) 44 080. | D) 76 316. | E) 440 800."
+},
+{
+"id": 102460,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "De acordo com um relatório recente da Agência Internacional de Energia (AIE), o mercado de veículos elétricos atingiu um novo marco em 2016, quando foram vendidos mais de 750 mil automóveis da categoria. Com isso, o total de carros elétricos vendidos no mundo alcançou a marca de 2 milhões de unidades desde que os primeiros modelos começaram a ser comercializados em 2011. No Brasil, a expansão das vendas também se verifica. A marca A, por exemplo, expandiu suas vendas no ano de 2016, superando em 360 unidades as vendas de 2015, conforme representado no gráfico. [figura] A média anual do número de carros vendidos pela marca A, nos anos representados no gráfico, foi de || A) 192. | B) 240. | C) 252. | D) 320. | E) 420."
+},
+{
+"id": 102462,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "A raiva é uma doença viral e infecciosa, transmitida por mamíferos. A campanha nacional de vacinação antirrábica tem o objetivo de controlar a circulação do vírus da raiva canina e felina, prevenindo a raiva humana. O gráfico mostra a cobertura (porcentagem de vacinados) da campanha, em cães, nos anos de 2013, 2015 e 2017, no município de Belo Horizonte, em Minas Gerais. Os valores das coberturas dos anos de 2014 e 2016 não estão informados no gráfico e deseja-se estimá-los. Para tal, levou-se em consideração que a variação na cobertura de vacinação da campanha antirrábica, nos períodos de 2013 a 2015 e de 2015 a 2017, deu-se de forma linear. [figura] Qual teria sido a cobertura dessa campanha no ano de 2014? || A) 62,3% | B) 63,0% | C) 63,5% | D) 64,0% | E) 65,5%"
+},
+{
+"id": 102463,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Em 2014 foi inaugurada a maior roda-gigante do mundo, a *High Roller*, situada em Las Vegas. A figura representa um esboço dessa roda-gigante, no qual o ponto *A* representa uma de suas cadeiras: [figura] [figura] A partir da posição indicada, em que o segmento *OA* se encontra paralelo ao plano do solo, rotaciona-se a *High Roller* no sentido anti-horário, em torno do ponto *O*. Sejam *t* o ângulo determinado pelo segmento *OA* em relação à sua posição inicial, e *f* a função que descreve a altura do ponto *A*, em relação ao solo, em função de *t*. Após duas voltas completas, *f* tem o seguinte gráfico: [figura] A expressão da função altura é dada por || A) *f* (*t*) = 80*sen*(*t*) + 88 | B) *f* (*t*) = 80*cos*(*t*) + 88 | C) *f* (*t*) = 88*cos*(*t*) + 168 | D) *f* (*t*) = 168*sen*(*t*) + 88*cos*(*t*) | E) *f* (*t*) = 88*sen*(*t*) + 168*cos*(*t*)"
+},
+{
+"id": 102464,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "[figura] A rosa dos ventos é uma figura que representa oito sentidos, que dividem o círculo em partes iguais. [figura] Uma câmera de vigilância está fixada no teto de um *shopping* e sua lente pode ser direcionada remotamente, através de um controlador, para qualquer sentido. A lente da câmera está apontada inicialmente no sentido Oeste e o seu controlador efetua três mudanças consecutivas, a saber: • 1<u><sup>a</sup></u> mudança: 135º no sentido anti-horário; • 2<u><sup>a</sup></u> mudança: 60º no sentido horário; • 3<u><sup>a</sup></u> mudança: 45º no sentido anti-horário. Após a 3<u><sup>a</sup></u> mudança, ele é orientado a reposicionar a câmera, com a menor amplitude possível, no sentido Noroeste (*NO*) devido a um movimento suspeito de um cliente. Qual mudança de sentido o controlador deve efetuar para reposicionar a câmera? || A) 75º no sentido horário. | B) 105º no sentido anti-horário. | C) 120º no sentido anti-horário. | D) 135º no sentido anti-horário. | E) 165º no sentido horário."
+},
+{
+"id": 102465,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Para decorar um cilindro circular reto será usada uma faixa retangular de papel transparente, na qual está desenhada em negrito uma diagonal que forma 30° com a borda inferior. O raio da base do cilindro mede \\(\\frac{6}{π}\\) cm, e ao enrolar a faixa obtém-se uma linha em formato de hélice, como na figura. [figura] O valor da medida da altura do cilindro, em centímetro, é || A) 36\\(\\sqrt{3}\\) | B) 24\\(\\sqrt{3}\\) | C) 4\\(\\sqrt{3}\\) | D) 36 | E) 72"
+},
+{
+"id": 102475,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Ao acessar uma página da internet, que trata da pesquisa de assuntos de interesse juvenil, encontramos a figura: **MÚSICA MANGÁS FÉ** **LIVROS** **A M O R ESPORTES** **DANÇA** **NOVELAS** **ESCOLA** **AMIZADE TEATRO** **CINEMA** **PAZ** **R E L I G I Ã O TRABALHO** **POLÍTICA** **FAMÍLIA** **LIBERDADE SEXO BALADAS** **HQ** Sabe-se que nesse tipo de comunicação visual, comum em páginas da internet, o tamanho das letras está diretamente associado ao número de vezes que o assunto ou termo foi pesquisado ou lido naquela página. Dessa forma, quanto maior o tamanho das letras de cada palavra, maior será o número de vezes que esse tema foi pesquisado. De acordo com a figura, quais são, em ordem decrescente, os três assuntos que mais interessaram às pessoas que acessaram a página citada? || A) HQ, FÉ, PAZ. | B) MANGÁS, FÉ, LIVROS. | C) MÚSICA, BALADAS, AMOR. | D) AMOR, MÚSICA, BALADAS. | E) AMOR, BALADAS, MÚSICA."
+},
+{
+"id": 102476,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "[figura] Na intenção de ampliar suas fatias de mercado, as operadoras de telefonia apresentam diferentes planos e promoções. Uma operadora oferece três diferentes planos baseados na quantidade de minutos utilizados mensalmente, apresentados no gráfico. Um casal foi à loja dessa operadora para comprar dois celulares, um para a esposa e outro para o marido. Ela utiliza o telefone, em média, 30 minutos por mês, enquanto ele, em média, utiliza 90 minutos por mês. [figura] Com base nas informações do gráfico, qual é o plano de menor custo mensal para cada um deles? || A) O plano A para ambos. | B) O plano B para ambos. | C) O plano C para ambos. | D) O plano B para a esposa e o plano C para o marido. | E) O plano C para a esposa e o plano B para o marido."
+},
+{
+"id": 102477,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Uma pessoa possui um terreno em forma de um pentágono, como ilustrado na figura. [figura] Sabe-se que a diagonal *AD* mede 50 m e é paralela ao lado *BC*, que mede 29 m. A distância do ponto *B* a *AD* é de 8 m e a distância do ponto *E* a *AD* é de 20 m. A área, em metro quadrado, deste terreno é igual a || A) 658. | B) 700. | C) 816. | D) 1 132. | E) 1 632."
+},
+{
+"id": 102478,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "[figura] A inclinação de um telhado depende do tipo e da marca das telhas escolhidas. A figura é o esboço do telhado da casa de um específico proprietário. As telhas serão apoiadas sobre a superfície quadrada plana *ABCD*, sendo *BOC* um triângulo retângulo em *O*. Sabe-se que *h* é a altura do telhado em relação ao forro da casa (a figura plana *ABOE*), *b* = 10 é o comprimento do segmento *OB*, e *d* é a largura do telhado (segmento *AB*), todas as medidas dadas em metro. [figura] Sabe-se que, em função do tipo de telha escolhida pelo proprie […]  = \\(\\frac{h\\,×100}{b}\\) , é de 40%, e que a expressão que determina o número *N* de telhas necessárias na cobertura é dada por *N* = *d*<sup>2</sup> ×10,5. Além disso, essas telhas são vendidas somente em milheiros. O proprietário avalia ser fundamental respeitar a inclinação ideal informada pelo fabricante, por isso argumenta ser necessário adquirir a quantidade mínima de telhas correspondente a || A) um milheiro. | B) dois milheiros. | C) três milheiros. | D) seis milheiros. | E) oito milheiros."
+},
+{
+"id": 102479,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Dois amigos abriram um restaurante. No primeiro ano, o custo total com as despesas do restaurante chegou a 250 mil reais. A receita neste ano foi de 325 mil reais, obtendo assim um lucro de 75 mil reais (diferença entre a receita e o custo total). A tabela representa o custo total e a receita nos cinco primeiros anos. [figura] De acordo com a tabela, a média anual do lucro, em milhar de real, ao longo dos cinco anos é || A) 60. | B) 70. | C) 75. | D) 80. | E) 85."
+},
+{
+"id": 102480,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "[figura] A quantidade *x* de peças, em milhar, produzidas e o faturamento *y*, em milhar de real, de uma empresa estão representados nos gráficos, ambos em função do número *t* de horas trabalhadas por seus funcionários. [figura] O número de peças que devem ser produzidas para se obter um faturamento de R$ 10 000,00 é || A) 2 000. | B) 2 500. | C) 40 000. | D) 50 000. | E) 200 000."
+},
+{
+"id": 102481,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "[figura] As Artes Marciais Mistas, tradução do inglês: MMA – *mixed martial arts*, são realizadas num octógono regular. De acordo com a figura, em certo momento os dois lutadores estão respectivamente nas posições *G* e *F,* e o juiz está na posição *I*. O triângulo *IGH* é equilátero e *GÎF* é o ângulo formado pelas semirretas com origem na posição do juiz, respectivamente passando pelas posições de cada um dos lutadores. [figura] A medida do ângulo *GÎF* é || A) 120° | B) 75° | C) 67,5° | D) 60° | E) 52,5°"
+},
+{
+"id": 102482,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Para garantir segurança ao dirigir, alguns motoristas instalam dispositivos em seus carros que alertam quando uma certa velocidade máxima (*v<sub>máx</sub>*), pré-programada pelo usuário de acordo com a velocidade máxima da via de tráfego, é ultrapassada. O gráfico exibido pelo dispositivo no painel do carro após o final de uma viagem fornece a velocidade (km/h) do carro em função do tempo (h). [figura] De acordo com o gráfico, quantas vezes o dispositivo alertou o motorista no percurso da viagem? || A) 1 | B) 2 | C) 3 | D) 4 | E) 5"
+},
+{
+"id": 102483,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "A figura a seguir representa parte da planta de um loteamento, em que foi usada a escala 1 : 1 000. No centro da planta uma área circular, com diâmetro de 8 cm, foi destinada para a construção de uma praça. [figura] [figura] O diâmetro real dessa praça, em metro, é: || A) 1 250 | B) 800 | C) 125 | D) 80 | E) 8"
+},
+{
+"id": 102484,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Uma senhora acaba de fazer uma ultrassonografia e descobre que está grávida de quadrigêmeos. Qual é a probabilidade de nascerem dois meninos e duas meninas? || A) \\(\\frac{1}{16}\\) | B) \\(\\frac{3}{16}\\) | C) \\(\\frac{1}{4}\\) | D) \\(\\frac{3}{8}\\) | E) \\(\\frac{1}{2}\\)"
+},
+{
+"id": 102485,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Em um jogo de tabuleiro, a pontuação é marcada com fichas coloridas. Cada ficha vermelha vale um ponto. Três fichas vermelhas podem ser trocadas por uma azul, três fichas azuis podem ser trocadas por uma branca, e três fichas brancas podem ser trocadas por uma verde. Ao final do jogo, os jogadores A, B e C terminaram, cada um, com as quantidades de fichas, conforme a tabela seguinte: [figura] De acordo com essa tabela, as classificações em primeiro, segundo e terceiro lugares ficaram, respectivamente, para os jogadores || A) A, B e C. | B) B, A e C. | C) C, B e A. | D) B, C e A. | E) C, A e B."
+},
+{
+"id": 102486,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "A figura mostra uma anticlepsidra, que é um sólido geométrico obtido ao se retirar dois cones opostos pelos vértices de um cilindro equilátero, cujas bases coincidam com as bases desse cilindro. A anticlepsidra pode ser considerada, também, como o sólido resultante da rotação de uma figura plana em torno de um eixo. [figura] [figura] A figura plana cuja rotação em torno do eixo indicado gera uma anticlepsidra como a da figura acima é || A) [figura] | B) [figura] | C) [figura] | D) [figura] | E) [figura]"
+},
+{
+"id": 102487,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Isometria é uma transformação geométrica que, aplicada a uma figura, mantém as distâncias entre pontos. Duas das transformações isométricas são a reflexão e a rotação. A reflexão ocorre por meio de uma reta chamada eixo. Esse eixo funciona como um espelho, a imagem refletida é o resultado da transformação. A rotação é o “giro” de uma figura ao redor de um ponto chamado centro de rotação. A figura sofreu cinco transformações isométricas, nessa ordem: [figura] [figura] 1ª) Reflexão no eixo *x*; 2ª) Rotação de 90 graus no sentido anti-horário, com centro de rotação no ponto A; 3ª) Reflexão no eixo *y*; 4ª) Rotação de 45 graus no sentido horário, com centro de rotação no ponto A; 5ª) Reflexão no eixo *x*. Qual a posição final da figura? || A) [figura] | B) [figura] | C) [figura] | D) [figura] | E) [figura]"
+},
+{
+"id": 102488,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "[figura] A resistência elétrica *R* de um condutor homogêneo é inversamente proporcional à área *S* de sua seção transversal. [figura] O gráfico que representa a variação da resistência *R* do condutor em função da área *S* de sua seção transversal é || A) [figura] | B) [figura] | C) *S* [figura] | D) [figura] | E) [figura]"
+},
+{
+"id": 102489,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "O índice de massa corporal (IMC) de uma pessoa é definido como o quociente entre a massa dessa pessoa, medida em quilograma, e o quadrado da sua altura, medida em metro. Esse índice é usado como parâmetro para verificar se o indivíduo está ou não acima do peso ideal para a sua altura. Durante o ano de 2011, uma pessoa foi acompanhada por um nutricionista e passou por um processo de reeducação alimentar. O gráfico indica a variação mensal do IMC dessa pessoa, durante o referido período. Para avaliar o sucesso do tratamento, o nutricionista vai analisar as medidas estatísticas referentes à variação do IMC. [figura] De acordo com o gráfico, podemos concluir que a mediana da variação mensal do IMC dessa pessoa é igual a || A) 27,40. | B) 27,55. | C) 27,70. | D) 28,15. | E) 28,45."
+},
+{
+"id": 102490,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "[figura] Uma indústria automobilística está testando um novo modelo de carro. Cinquenta litros de combustível são colocados no tanque desse carro, que é dirigido em uma pista de testes até que todo o combustível tenha sido consumido. O segmento de reta no gráfico mostra o resultado desse teste, no qual a quantidade de combustível no tanque é indicada no eixo *y* (vertical), e a distância percorrida pelo automóvel é indicada no eixo *x* (horizontal). [figura] A expressão algébrica que relaciona a quantidade de combustível no tanque e a distância percorrida pelo automóvel é || A) *y* = −10*x* + 500 | B) *y* = \\(\\frac{−x}{10}\\) + 50 | C) *y* = \\(\\frac{−x}{10}\\) + 500 | D) *y* = \\(\\frac{x}{10}\\) + 50 | E) *y* = \\(\\frac{x}{10}\\) + 500"
+},
+{
+"id": 102521,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Um dos netos de dona Maria perguntou-lhe qual era a sua data de aniversário. Ela, muito enigmática, respondeu com algumas dicas:  O número que representa o dia é um múltiplo de 3 cujo algarismo das unidades é um número primo.  O número que corresponde ao mês é um múltiplo de 5.  A soma dos números que representam o dia e o mês é um número primo maior que 30. De acordo com as dicas, a data de aniversário de dona Maria é || A) 12 de maio. | B) 27 de maio. | C) 15 de outubro. | D) 21 de outubro. | E) 27 de outubro."
+},
+{
+"id": 102522,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Para hospedar seus nove representantes durante um torneio esportivo, o departamento de recursos humanos de uma instituição reservou os quartos de números 101, 102 e 103 em um hotel, sendo a lotação máxima de cada um deles três pessoas. O número de formas distintas de acomodar os nove representantes nos três quartos é expresso por || A) P<sub>9</sub> | B) A<sub>9,3</sub> | C) C<sub>9,3</sub> | D) A<sub>9,3</sub> · A<sub>6,3</sub> · A<sub>3,3</sub> | E) C<sub>9,3</sub> · C<sub>6,3</sub> · C<sub>3,3</sub>"
+},
+{
+"id": 102523,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Uma rede de lanchonetes oferece 7 opções de pratos principais e 5 de acompanhamentos especiais. Pretendendo ofertar combos promocionais, ela elaborou o seguinte anúncio para seus clientes: [figura] Na compra de um único prato principal, o total de possíveis combos promocionais distintos que podem ser pedidos é || A) 35. | B) 70. | C) 140. | D) 175. | E) 220."
+},
+{
+"id": 102524,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "**A curva do esquecimento** No final do século XIX, o psicólogo alemão Hermann Ebbinghaus fez uma série de estudos sobre a memória humana. Uma das suas descobertas mais importantes foi “a curva do esquecimento”, que descreve a perda exponencial de informação que segue a aquisição de informação. Com base na curva do esquecimento de Ebbinghaus, criou-se um modelo matemático para estimar o percentual P da quantidade de informação que permanece na memória decorrido um período de tempo *t* após sua aquisição. O modelo é descrito pela função P(t) = 0,9 · 10<sup>–kt</sup> + 0,1, sendo *k* uma constante positiva. O gráfico que melhor descreve a função P da curva do esquecimento de Ebbinghaus é || A) [figura] | B) [figura] | C) [figura] | D) [figura] | E) [figura]"
+},
+{
+"id": 102525,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "As redes sociais estão cada vez mais presentes no dia a dia das pessoas. Determinada rede social focada no compartilhamento de fotos e vídeos possui 100 milhões de usuários. O gráfico a seguir mostra a divisão desses usuários de acordo com a faixa etária. [figura] O número de usuários que têm de 25 a 44 anos é, em milhões, igual a || A) 3,3. | B) 4,1. | C) 33. | D) 41. | E) 75."
+},
+{
+"id": 102526,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Uma empresa do ramo alimentício está correndo o risco de fechar. Para que seus investidores continuem a apoiá-la financeiramente, foi imposto que, de janeiro de 2018 até o final de maio do mesmo ano, a média dos lucros obtidos deve ser pelo menos 10% maior que a média mensal dos lucros dos seis últimos meses de 2017. As tabelas a seguir mostram os lucros mensais da empresa, com os valores dados em milhões de reais. [figura] Para satisfazer os investidores, o lucro da empresa em maio de 2018 deve ser de, no mínimo, || A) 3,74 milhões de reais. | B) 3,9 milhões de reais. | C) 5,6 milhões de reais. | D) 7,3 milhões de reais. | E) 9,34 milhões de reais."
+},
+{
+"id": 102527,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Uma equipe internacional de astrônomos descobriu um novo sistema solar, que orbita em torno da estrela Trappist-1, um astro do tamanho de Júpiter. Observações confirmam a existência de sete planetas nesse sistema, nomeados Trappist-1b, Trappist-1c, Trappist-1d, Trappist-1e, Trappist-1f, Trappist-1g e Trappist-1h. As órbitas dos sete planetas seguem um ritmo periódico, e o tempo que levam para completá-las pode ser expresso por razões simples. Por exemplo, os tempos de órbita do Trappist-1c e do Trappist-1b estão na razão 8:5. Já os tempos do Trappist-1d e do Trappist-1c estão na razão 5:3. O Trappist-1b leva 1 dia terrestre para completar uma órbita. O tempo terrestre de órbita do Trappist-1d é igual a || A) 9 horas. | B) 1 dia e 1 hora. | C) 1 dia e 16 horas. | D) 2 dias e 8 horas. | E) 2 dias e 16 horas."
+},
+{
+"id": 102528,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Cinco marcas de suco industrializado, A, B, C, D e E, serão avaliadas em um teste que retirará do mercado aquelas cujo percentual de açúcar por embalagem seja pelo menos igual a 6%. O conteúdo da embalagem de cada marca está indicado a seguir.  A – 300 mL de suco, dos quais 15 mL são açúcar;  B – 220 mL de suco, dos quais 16,5 mL são açúcar;  C – 200 mL de suco, dos quais 12 mL são açúcar;  D – 250 mL de suco, dos quais 17,5 mL são açúcar;  E – 400 mL de suco, dos quais 32 mL são açúcar. Entre as cinco marcas avaliadas, a única que permanecerá no mercado é || A) A. | B) B. | C) C. | D) D. | E) E."
+},
+{
+"id": 102529,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "A taxa de gordura corporal de uma pessoa é a razão entre sua massa de gordura corporal e sua massa total. André pesava 130 kg e sua taxa de gordura corporal era de 30%. Após iniciar uma dieta aliada à prática de exercícios físicos regulares, ele passou a pesar 90 kg. Sabendo que 75% da massa perdida por André foi de gordura, sua taxa de gordura corporal passou a ser de || A) 10,0%. | B) 11,1%. | C) 20,0%. | D) 22,5%. | E) 25,0%."
+},
+{
+"id": 102530,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Uma pessoa endividou-se com uma empresa de telefonia e fez um acordo para pagar a dívida em oito parcelas decrescentes. A primeira parcela deve corresponder a 20% do valor total da dívida, e cada parcela subsequente deve ser R$ 30,00 mais barata que a parcela anterior. Em relação à primeira parcela do pagamento, a última parcela corresponderá a || A) 2,5%. | B) 5,0%. | C) 12,5%. | D) 15,0%. | E) 25,0%."
+},
+{
+"id": 102531,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Elisabete possui um abajur como o mostrado a seguir. Devido ao tempo de uso, o tecido que reveste a parte de cima do abajur (que cobre a lâmpada) rasgou e deve ser trocado. Elisabete, então, comprou uma peça de tecido e resolveu fazer a troca ela mesma. Para isso, ela está pensando na forma como deve recortar o material, de modo que o abajur fique como sempre foi. [figura] Sabendo que Elisabete precisa unir determinados pontos do tecido, em qual formato ela deve cortá-lo? || A) [figura] | B) [figura] | C) [figura] | D) [figura] | E) [figura]"
+},
+{
+"id": 102532,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Uma arquiteta projetou um espelho com 90 cm de altura e composto por hexágonos regulares idênticos perfeitamente justapostos, conforme a imagem. [figura] [figura] A superfície desse espelho tem área, em centímetro quadrado, equivalente a || A) 450 | B) 900 | C) 1350 | D) 3 150 | E) 9 450"
+},
+{
+"id": 102533,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Uma empresa de produtos químicos armazena certo tipo de ácido em recipientes de vidro. Os recipientes têm formato de paralelepípedo retângulo, com medidas externas de 20 cm de comprimento, 16 cm de largura e 12 cm de altura. Devido ao poder de corrosão do ácido, o vidro do qual os recipientes são feitos tem espessura de 2 cm. Além disso, os recipientes são abertos na parte de cima, como ilustra a imagem. [figura] Um funcionário da empresa despejou um volume de ácido em um dos recipientes, de modo que faltaram 3 cm para preenchê-lo completamente. O volume ocupado pelo ácido, em centímetro cúbico, é igual a || A) 960. | B) 1 344. | C) 1 536. | D) 1 764. | E) 2 880."
+},
+{
+"id": 102534,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Cata-ventos serão confeccionados para a apresentação de uma turma de crianças no dia da inauguração de um *shopping*. Para a confecção, a professora dos alunos dispõe de cartolinas com faces de duas cores, sendo um lado azul e o outro amarelo com hachuras. Para a montagem de cada cata-vento, ela realizou os seguintes passos: I. Recortou um quadrado de cartolina cujos lados medem 20 cm; II. A partir de cada vértice do quadrado, fez um corte retilíneo de 8,5 cm em direção ao centro (figura 1); III. Com a face azul virada para cima, tomou 4 pontas […] e cartolina do cata-vento a uma haste de madeira (figura 3). [figura] Durante a apresentação, as crianças deverão segurar o cata-vento de modo que a plateia o veja como na figura 3. Considere que as partes em amarelo (hachuradas) são triângulos isósceles cujos lados iguais medem exatamente o tamanho do corte feito no passo II. A área amarela que será vista pelo público em cada cata-vento é igual a || A) 36,125 cm<sup>2</sup>. | B) 68 cm<sup>2</sup>. | C) 72,25 cm<sup>2</sup>. | D) 144,5 cm<sup>2</sup>. | E) 289 cm<sup>2</sup>."
+},
+{
+"id": 102535,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Henk Hesseling e seus colegas do Laboratório Nacional do Aeroespaço (NAL), na Holanda, estão trabalhando em um projeto chamado “Pista sem fim”, que propõe a substituição das longas pistas retilíneas de concreto por uma única pista circular. Para a gestão do tráfego em um aeroporto, as pistas circulares teriam de ser de grandes dimensões. O NAL sugeriu um diâmetro mínimo de 3 km. Considere 3 como aproximação para π. Seguindo a recomendação do NAL, uma pista construída nesse projeto deve ter um comprimento mínimo de || A) 4,5 km. | B) 6,75 km. | C) 9 km. | D) 18 km. | E) 27 km."
+},
+{
+"id": 102536,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "A arte do ladrilhamento consiste em preencher um plano com polígonos, sem superposições ou buracos. A figura a seguir exibe um exemplo de ladrilhamento composto apenas de polígonos regulares. [figura] Considerando apenas os ângulos internos de cada polígono que aparece nesse ladrilhamento, o maior ângulo que pode ser encontrado é || A) 150°. | B) 144°. | C) 135°. | D) 120°. | E) 90°."
+},
+{
+"id": 102537,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "O Tangram é um quebra-cabeça chinês formado por sete peças: cinco triângulos de três tamanhos diferentes, um quadrado e um paralelogramo. O quadrado ABCD a seguir foi montado com as peças do Tangram justapostas, sendo E, F, G, H, e J os pontos médios dos segmentos \\(\\frac{I}{GC}\\) AD, AG, AC, EJ, e DC, respectivamente. [figura] Em relação à área do quadrado ABCD, a área do || A) quadrado EFGH é 8 vezes menor. | B) quadrado EFGH é 4 vezes menor. | C) triângulo AEF é 8 vezes menor. | D) triângulo EDJ é 4 vezes menor. | E) triângulo ABG é 2 vezes menor."
+},
+{
+"id": 102538,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Na planta baixa de um terreno em que será construída uma casa, há um setor retangular destinado à construção de uma garagem cujas dimensões, no desenho, são 5 cm × 10 cm. Em uma maquete feita na mesma escala da planta baixa, a piscina da casa possui capacidade de 25 mL. O futuro proprietário da casa calculou que serão necessários 72 m<sup>2</sup> de porcelanato para cobrir o chão da garagem e, para a manutenção da piscina, contratará uma empresa que cobra 2 centavos por litro de água tratada. O custo que o proprietário terá com o tratamento da água da piscina será de || A) R$ 720,00. | B) R$ 864,00. | C) R$ 1 440,00. | D) R$ 1 728,00. | E) R$ 3 456,00."
+},
+{
+"id": 102539,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "**Temperatura média de outubro é a maior** **dos últimos 30 anos em Araraquara, SP** A temperatura média do mês de outubro bateu recorde e é a maior dos últimos 30 anos, em Araraquara (SP). A média histórica para o mês é de 28 °C, mas, nos 13 primeiros dias, a média foi 2,2 graus maior, chegando a 30,2 °C [...]. No Brasil, a escala de temperatura usual é a Celsius, mas também podem ser utilizadas outras escalas, como Fahrenheit e Kelvin. Para realizar a conversão entre elas, utilizam-se as relações \\(\\frac{T_{C}}{5}\\) = \\(\\frac{T_{F}\\,−\\,32}{9}\\) e T<sub>K</sub> = T<sub>C</sub> + 273, em que T<sub>C</sub>, T<sub>F</sub> e T<sub>K</sub> representam a temperatura nas escalas Celsius, Fahrenheit e Kelvin, respectivamente. Segundo a notícia, em Araraquara, a maior temperatura média alcançada durante outubro atingiu um valor igual a || A) 301 K. | B) 242,8 K. | C) 89,6 ºF. | D) 86,36 ºF. | E) 60,76 ºF."
+},
+{
+"id": 102540,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "O esquema a seguir representa parte de uma cidade, em que os quarteirões têm comprimento e largura de mesma medida. Na imagem, estão indicados o sentido do tráfego e a velocidade máxima de cada via. [figura] Um motorista sai do ponto A em direção ao ponto B seguindo o sentido indicado nas vias e percorrendo o mínimo de quarteirões possível, sem ultrapassar nenhum limite de velocidade. Desconsidere a largura das ruas. A maior velocidade média, expressa em km/h, que ele poderia desenvolver no trajeto é dada por || A) \\(\\frac{30\\,+\\,3\\,⋅\\,40\\,+\\,2\\,⋅\\,50}{6}\\) | B) \\(\\frac{2\\,⋅\\,30\\,+\\,3\\,⋅\\,40\\,+\\,50}{6}\\) | C) \\(\\frac{30\\,+\\,40\\,+\\,50}{3}\\) 3 | D) \\(\\frac{1}{30}\\) + \\(\\frac{1}{40}\\) + \\(\\frac{1}{50}\\) 6 | E) \\(\\frac{1}{30}\\) + \\(\\frac{3}{40}\\) + \\(\\frac{2}{50}\\)"
+},
+{
+"id": 102541,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Um grupo de arquitetos construiu a maquete de um condomínio que tem a forma de um paralelepípedo reto-retângulo. A maquete tem 5 dm de altura e 60 dm<sup>3</sup> de volume, e a escala utilizada em sua construção é de 1:48. A área real necessária para a construção desse condomínio equivale a || A) 144,00 m<sup>2</sup>. | B) 276,48 m<sup>2</sup>. | C) 288,00 m<sup>2</sup>. | D) 414,72 m<sup>2</sup>. | E) 576,00 m<sup>2</sup>."
+},
+{
+"id": 102542,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Na confraternização de fim de ano de uma empresa, haverá um churrasco para 50 funcionários, sendo estimado que cada pessoa deverá consumir o equivalente a 450 g de carne e 500 mL de refrigerante. No pedido de compras para a festa, a empresa solicitará uma quantidade inteira de quilos de carne, e o refrigerante será pedido em garrafas de dois litros. Para garantir que os comes e bebes sejam suficientes para todos, a empresa deve comprar, no mínimo, || A) 23 kg de carne e 25 garrafas de refrigerante. | B) 23 kg de carne e 13 garrafas de refrigerante. | C) 23 kg de carne e 12 garrafas de refrigerante. | D) 22 kg de carne e 13 garrafas de refrigerante. | E) 22 kg de carne e 12 garrafas de refrigerante."
+},
+{
+"id": 102543,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Em um jogo eletrônico de corrida, o jogador pode usar um suplemento chamado “nitro”, que permite que seu carro desloque-se com velocidade 25% maior durante 5 segundos. Em uma corrida, o carro do jogador desloca-se com velocidade constante de 72 km/h, em uma pista com 6 quilômetros de extensão. Se o jogador usar três “nitros”, um imediatamente após o outro, com suas durações totais, a fração percorrida da pista será || A) \\(\\frac{9}{40}\\) | B) \\(\\frac{3}{40}\\) | C) \\(\\frac{1}{16}\\) | D) \\(\\frac{1}{20}\\) | E) \\(\\frac{1}{48}\\)"
+},
+{
+"id": 102544,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Marcos comprou uma TV, leu na caixa do produto a indicação de tamanho de 50\" e decidiu verificar se a medida da tela realmente correspondia a esse valor. Sabendo que a medição das polegadas de uma TV é feita ao longo da diagonal da tela, ele utilizou seu polegar para calcular o tamanho e obteve 54\" como medida. Sabendo que uma polegada mede 2,54 cm, o tamanho do polegar de Marcos é mais próximo de || A) 2,35 cm. | B) 2,40 cm. | C) 2,70 cm. | D) 2,75 cm. | E) 2,80 cm."
+},
+{
+"id": 102545,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Neste domingo (15/10/2017), à 0h, os ponteiros dos relógios deverão ser adiantados em uma hora. Tradição desde 1985, o horário de verão vai vigorar até a 0h de 18 de fevereiro de 2018 nas regiões Sul, Sudeste e Centro-Oeste. No ano passado, o horário de verão durou um total de 126 dias e gerou, devido à redução no consumo de energia elétrica, uma economia de R$ 159,5 milhões. A notícia informa sobre o início do horário de verão de 2017 e a economia gerada no horário de verão de 2016. Suponha que, anualmente, a economia estimada seja proporcional ao número de dias do horário de verão. Nessas condições, em relação ao ano anterior, a economia gerada no horário de verão de 2017 foi || A) menor, pois a quantidade de dias foi menor. | B) menor, pois a quantidade de dias foi maior. | C) igual, pois a quantidade de dias foi igual. | D) maior, pois a quantidade de dias foi menor. | E) maior, pois a quantidade de dias foi maior."
+},
+{
+"id": 102546,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "O gráfico a seguir mostra a quantidade de energia elétrica gerada por um parque eólico durante os 9 primeiros meses de 2017. A curva descrita corresponde a um arco de parábola, e, no período representado, o máximo de energia produzida foi 1 650 MWh. [figura] Jan Fev Mar Abr Mai Jun Jul Ago Set Nessas condições, a quantidade de energia gerada no mês de agosto, em MWh, foi igual a || A) 400. | B) 450. | C) 750. | D) 850. | E) 1 000."
+},
+{
+"id": 102547,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Ao estudar uma cultura de micro-organismos, um pesquisador observou que, uma hora após o início do estudo, a população era de 600 indivíduos. Três horas após essa primeira observação, a população passou a 75 000 indivíduos. O crescimento populacional dessa cultura é dado pela função P(t) = P<sub>0</sub> · C<sup>t</sup>, em que P(t) é a população *t* horas após o início do estudo, P<sub>0</sub> é a população inicial e C é a taxa de crescimento (constante positiva). O número de indivíduos na população inicial do estudo era || A) 5. | B) 20. | C) 120. | D) 125. | E) 500."
+},
+{
+"id": 102548,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Em uma análise laboratorial, uma cultura de leveduras cresce de acordo com a função *f*(t) = 176 + t<sup>2</sup>, sendo *t* o tempo decorrido, em minuto, a partir do início do estudo. Certa quantidade de uma solução nutriente foi adicionada para alimentar as leveduras e decresce de acordo com a função g(t) = 2 200 – 2t – *f*(t). O tempo mínimo necessário para que a solução nutriente se esgote é || A) 22 minutos. | B) 23 minutos. | C) 44 minutos. | D) 45 minutos. | E) 46 minutos."
+},
+{
+"id": 102549,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Os números de crescimento da China são impressionantes. Conforme a projeção para 2018, os números devem superar assustadores 1 trilhão de dólares (US$ 1 011 280 000 000,00), quase o total de vendas do *e-commerce* mundial de hoje (1,221 trilhões, segundo o eMarketer). [figura] % de variação de crescimento [figura] Fonte: eMarketer. Suponha que a queda na variação de crescimento observada de 2017 para 2018 seja a mesma de 2018 para 2019. Nesse caso, em 2019, o número de vendas da China, em bilhões de dólares, será aproximadamente igual a || A) 849. | B) 910. | C) 1 098. | D) 1 112. | E) 1 150."
+},
+{
+"id": 102550,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "O gráfico a seguir apresenta a evolução do número de pessoas nos principais tipos de classes econômicas do Brasil. [figura] Fonte: Fundação Getúlio Vargas – Centro de Políticas Sociais – CPS/FGV – Baseado em dados do PNAD/POF/PME/IBGE Considere que o número de pessoas nas classes C e DE variou linearmente no período de 2003 a 2011. Em 2006, o módulo da diferença entre as quantidades de pessoas nas classes C e DE, em milhões, foi igual a || A) 0,9. | B) 3,0. | C) 3,6. | D) 6,1. | E) 7,0."
+},
+{
+"id": 102551,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "Uma loja de peças automotivas comercializa três tipos de peças: A, B e C. O quadro a seguir resume o número de vendas de cada tipo de peça e os respectivos faturamentos nos meses de abril, maio e junho. O preço de venda da peça A, em real, é igual a || A) 6 000. | B) 8 000. | C) 9 000. | D) 11 000. | E) 14 000. [figura]"
+},
+{
+"id": 102552,
+"vest": "ENEM",
+"ano": "2018",
+"area": "exatas",
+"texto": "O acesso à internet vem crescendo constantemente no Brasil nos últimos anos. O infográfico a seguir revela o perfil dos internautas brasileiros. [figura] O Brasil passa por uma democratização do acesso à internet. Nos últimos 5 anos, o consumo da rede cresceu 32% entre a população. [figura] Escolhendo ao acaso um internauta brasileiro, a probabilidade de que seja um homem, de classe diferente da AB e que não tenha entre 12 e 19 anos || A) é menor do que 5%. | B) está entre 5% e 10%. | C) está entre 10% e 15%. | D) está entre 15% e 20%. | E) é maior do que 20%."
+}
+]

@@ -1,0 +1,506 @@
+Formato: SUBASSUNTO_CODIGO  nome do subassunto
+
+# ÁREA exatas — Matemática e suas Tecnologias
+## MATÉRIA matematica — Matemática
+### ASSUNTO A001 — Matemática básica
+A001-01  Conjuntos numéricos e operações
+A001-02  Aritmética, MMC e MDC
+A001-03  Potenciação e radiciação
+A001-04  Notação científica e ordem de grandeza
+A001-05  Grandezas, unidades de medida e conversões
+### ASSUNTO A002 — Razão, proporção e porcentagem
+A002-01  Razão e proporção
+A002-02  Regra de três
+A002-03  Porcentagem, aumentos e descontos
+A002-04  Escalas
+A002-05  Juros e matemática financeira
+### ASSUNTO A003 — Álgebra
+A003-01  Expressões algébricas
+A003-02  Equações do 1º grau
+A003-03  Equações do 2º grau
+A003-04  Inequações
+A003-05  Sistemas de equações e sistemas lineares
+A003-06  Matrizes e determinantes
+A003-07  Polinômios
+### ASSUNTO A004 — Funções
+A004-01  Funções - conceitos, domínio e imagem
+A004-02  Plano cartesiano e gráficos
+A004-03  Função afim (1º grau)
+A004-04  Função quadrática (2º grau)
+A004-05  Função exponencial
+A004-06  Função logarítmica
+A004-07  Função modular
+### ASSUNTO A005 — Sequências e progressões
+A005-01  Progressão aritmética (PA)
+A005-02  Progressão geométrica (PG)
+### ASSUNTO A006 — Geometria plana
+A006-01  Conceitos, ângulos e retas
+A006-02  Triângulos e suas propriedades
+A006-03  Teorema de Pitágoras
+A006-04  Teorema de Tales
+A006-05  Semelhança e congruência
+A006-06  Relações métricas no triângulo retângulo
+A006-07  Quadriláteros e polígonos
+A006-08  Circunferência e círculo
+A006-09  Áreas e perímetros
+A006-10  Transformações geométricas e ladrilhamento
+### ASSUNTO A007 — Geometria espacial
+A007-01  Conceitos e poliedros
+A007-02  Prismas e pirâmides
+A007-03  Cilindro, cone e esfera
+A007-04  Volume e área total
+A007-05  Projeção ortogonal e vistas
+### ASSUNTO A008 — Trigonometria
+A008-01  Trigonometria no triângulo retângulo
+A008-02  Ciclo trigonométrico
+A008-03  Funções trigonométricas
+A008-04  Lei dos senos e lei dos cossenos
+### ASSUNTO A009 — Geometria analítica
+A009-01  Ponto, reta e distâncias
+A009-02  Equação da circunferência
+### ASSUNTO A010 — Análise combinatória
+A010-01  Princípio fundamental da contagem
+A010-02  Permutações
+A010-03  Arranjos e combinações
+### ASSUNTO A011 — Probabilidade
+A011-01  Probabilidade - conceitos e espaço amostral
+A011-02  União e interseção de eventos
+A011-03  Probabilidade condicional
+### ASSUNTO A012 — Estatística
+A012-01  Medidas de tendência central
+A012-02  Medidas de dispersão
+A012-03  Leitura e interpretação de gráficos
+A012-04  Leitura e interpretação de tabelas
+A012-05  Fluxogramas e simulações
+
+# ÁREA naturezas — Ciências da Natureza e suas Tecnologias
+## MATÉRIA fisica — Física
+### ASSUNTO A013 — Introdução à física
+A013-01  Grandezas, unidades e notação científica
+A013-02  Vetores e operações vetoriais
+### ASSUNTO A014 — Cinemática
+A014-01  MRU e MRUV
+A014-02  Gráficos do movimento
+A014-03  Lançamento vertical, horizontal e oblíquo
+A014-04  Movimento circular
+### ASSUNTO A015 — Dinâmica
+A015-01  Leis de Newton
+A015-02  Forças: peso, normal, atrito, tração e centrípeta
+A015-03  Trabalho e potência
+A015-04  Energia e conservação da energia mecânica
+A015-05  Impulso e quantidade de movimento
+A015-06  Estática e equilíbrio
+### ASSUNTO A016 — Gravitação
+A016-01  Lei da gravitação universal
+A016-02  Leis de Kepler e satélites
+### ASSUNTO A017 — Hidrostática
+A017-01  Pressão e densidade
+A017-02  Teoremas de Stevin, Pascal e Arquimedes
+### ASSUNTO A018 — Termologia
+A018-01  Termometria e escalas
+A018-02  Dilatação térmica
+A018-03  Calorimetria e mudanças de estado
+A018-04  Propagação de calor
+A018-05  Gases e leis dos gases
+A018-06  Termodinâmica e máquinas térmicas
+### ASSUNTO A019 — Ondulatória
+A019-01  Ondas - conceitos e classificação
+A019-02  Fenômenos ondulatórios
+A019-03  Movimento harmônico simples
+A019-04  Acústica
+### ASSUNTO A020 — Óptica
+A020-01  Óptica geométrica e reflexão
+A020-02  Espelhos planos e esféricos
+A020-03  Refração e lentes
+### ASSUNTO A021 — Eletricidade
+A021-01  Eletrostática: carga e eletrização
+A021-02  Campo e potencial elétrico
+A021-03  Corrente elétrica e resistores
+A021-04  Circuitos elétricos
+A021-05  Geradores, receptores e capacitores
+### ASSUNTO A022 — Eletromagnetismo
+A022-01  Campo magnético e ímãs
+A022-02  Indução eletromagnética
+### ASSUNTO A023 — Física moderna
+A023-01  Relatividade
+A023-02  Física quântica e efeito fotoelétrico
+A023-03  Física nuclear
+### ASSUNTO A024 — Astronomia
+A024-01  Cosmologia e evolução estelar
+A024-02  Sistema Solar
+## MATÉRIA quimica — Química
+### ASSUNTO A025 — Química geral
+A025-01  Matéria, propriedades e transformações
+A025-02  Estados físicos e mudanças de estado
+A025-03  Substâncias, misturas e alotropia
+A025-04  Separação de misturas
+### ASSUNTO A026 — Estrutura atômica
+A026-01  Modelos atômicos
+A026-02  Distribuição eletrônica e números quânticos
+A026-03  Radioatividade
+### ASSUNTO A027 — Tabela periódica
+A027-01  Classificação periódica
+A027-02  Propriedades periódicas
+### ASSUNTO A028 — Ligações químicas
+A028-01  Ligações iônica, covalente e metálica
+A028-02  Geometria molecular e polaridade
+A028-03  Forças intermoleculares
+### ASSUNTO A029 — Funções inorgânicas
+A029-01  Ácidos e bases
+A029-02  Sais e óxidos
+A029-03  Reações inorgânicas
+### ASSUNTO A030 — Reações e cálculos químicos
+A030-01  Reações químicas e balanceamento
+A030-02  Leis ponderais
+A030-03  Mol e grandezas químicas
+A030-04  Estequiometria
+A030-05  Pureza e rendimento
+### ASSUNTO A031 — Soluções
+A031-01  Concentração das soluções
+A031-02  Solubilidade e diluição
+A031-03  Propriedades coligativas
+### ASSUNTO A032 — Físico-química
+A032-01  Termoquímica
+A032-02  Cinética química
+A032-03  Equilíbrio químico
+A032-04  pH e equilíbrio iônico
+A032-05  Eletroquímica e oxirredução
+A032-06  Estudo dos gases
+### ASSUNTO A033 — Química orgânica
+A033-01  Cadeias carbônicas e nomenclatura
+A033-02  Funções oxigenadas
+A033-03  Funções nitrogenadas e demais funções
+A033-04  Isomeria
+A033-05  Reações orgânicas
+A033-06  Polímeros
+### ASSUNTO A034 — Química ambiental e do cotidiano
+A034-01  Poluição e impactos ambientais
+A034-02  Combustíveis e fontes de energia
+A034-03  Bioquímica e química da vida
+## MATÉRIA biologia — Biologia
+### ASSUNTO A035 — Introdução à biologia
+A035-01  Método científico
+A035-02  Origem da vida
+### ASSUNTO A036 — Bioquímica celular
+A036-01  Água e sais minerais
+A036-02  Carboidratos e lipídios
+A036-03  Proteínas e enzimas
+A036-04  Vitaminas
+A036-05  Ácidos nucleicos (DNA e RNA)
+### ASSUNTO A037 — Citologia
+A037-01  Estrutura celular e organelas
+A037-02  Membrana plasmática e transporte
+A037-03  Núcleo e ciclo celular
+A037-04  Divisão celular: mitose e meiose
+### ASSUNTO A038 — Metabolismo energético
+A038-01  Respiração celular e fermentação
+A038-02  Fotossíntese
+A038-03  Síntese proteica: replicação, transcrição e tradução
+### ASSUNTO A039 — Genética
+A039-01  Leis de Mendel
+A039-02  Extensões do mendelismo e interação gênica
+A039-03  Herança ligada ao sexo
+A039-04  Mutações e alterações cromossômicas
+A039-05  Genética de populações
+A039-06  Biotecnologia e engenharia genética
+### ASSUNTO A040 — Evolução
+A040-01  Teorias evolutivas
+A040-02  Evidências da evolução e especiação
+### ASSUNTO A041 — Seres vivos e classificação
+A041-01  Taxonomia e sistemática
+A041-02  Vírus e viroses
+A041-03  Bactérias e bacterioses
+A041-04  Protozoários e protozooses
+A041-05  Fungos
+A041-06  Parasitologia e verminoses
+### ASSUNTO A042 — Botânica
+A042-01  Grupos vegetais
+A042-02  Fisiologia vegetal
+### ASSUNTO A043 — Zoologia
+A043-01  Invertebrados
+A043-02  Vertebrados
+### ASSUNTO A044 — Histologia
+A044-01  Tecidos animais
+### ASSUNTO A045 — Fisiologia humana
+A045-01  Sistema digestório
+A045-02  Sistema respiratório
+A045-03  Sistema circulatório
+A045-04  Sistema excretor
+A045-05  Sistema nervoso e sensorial
+A045-06  Sistema endócrino
+A045-07  Sistema muscular e esquelético
+A045-08  Sistema imunológico
+A045-09  Reprodução e embriologia
+### ASSUNTO A046 — Saúde e sociedade
+A046-01  Programas de saúde e ISTs
+A046-02  Saúde pública e SUS
+### ASSUNTO A047 — Ecologia
+A047-01  Conceitos e relações ecológicas
+A047-02  Cadeias e teias alimentares
+A047-03  Ciclos biogeoquímicos
+A047-04  Populações e comunidades
+A047-05  Sucessão ecológica
+A047-06  Biomas e ecossistemas
+A047-07  Problemas ambientais e sustentabilidade
+
+# ÁREA humanas — Ciências Humanas e suas Tecnologias
+## MATÉRIA historia — História
+### ASSUNTO A048 — Introdução à história
+A048-01  Fontes históricas e temporalidade
+A048-02  Historiografia e teoria da história
+### ASSUNTO A049 — História Antiga
+A049-01  Pré-História
+A049-02  Antiguidade Oriental
+A049-03  Grécia Antiga
+A049-04  Roma Antiga
+### ASSUNTO A050 — Idade Média
+A050-01  Feudalismo e sociedade medieval
+A050-02  Império Bizantino e Muçulmano
+A050-03  Crise do feudalismo
+### ASSUNTO A051 — Idade Moderna
+A051-01  Renascimento e Reformas religiosas
+A051-02  Expansão marítima e navegações
+A051-03  Absolutismo e mercantilismo
+A051-04  Iluminismo
+### ASSUNTO A052 — Revoluções burguesas
+A052-01  Revoluções Inglesas
+A052-02  Independência dos EUA
+A052-03  Revolução Francesa e Era Napoleônica
+A052-04  Revolução Industrial
+### ASSUNTO A053 — Século XIX
+A053-01  Imperialismo e neocolonialismo
+A053-02  Ideologias e movimentos sociais do século XIX
+### ASSUNTO A054 — História Contemporânea
+A054-01  Primeira Guerra Mundial
+A054-02  Revolução Russa
+A054-03  Entreguerras e crise de 1929
+A054-04  Totalitarismos e Segunda Guerra Mundial
+A054-05  Guerra Fria
+A054-06  Descolonização e Terceiro Mundo
+A054-07  Mundo contemporâneo e conflitos atuais
+### ASSUNTO A055 — História da África e afro-brasileira
+A055-01  Reinos e sociedades africanas
+A055-02  Escravidão e tráfico atlântico
+### ASSUNTO A056 — Brasil Colônia
+A056-01  Período pré-colonial e povos originários
+A056-02  Economia e sociedade coloniais
+A056-03  Invasões estrangeiras
+A056-04  Revoltas coloniais e movimentos separatistas
+### ASSUNTO A057 — Brasil Império
+A057-01  Período Joanino e Independência
+A057-02  Primeiro Reinado e Período Regencial
+A057-03  Segundo Reinado
+A057-04  Abolicionismo e crise do Império
+### ASSUNTO A058 — Brasil República
+A058-01  República Velha
+A058-02  Era Vargas
+A058-03  Período democrático (1946-1964)
+A058-04  Ditadura Militar
+A058-05  Redemocratização e Brasil contemporâneo
+## MATÉRIA geografia — Geografia
+### ASSUNTO A059 — Introdução à geografia
+A059-01  Conceitos fundamentais: espaço, território e lugar
+### ASSUNTO A060 — Cartografia
+A060-01  Mapas, escalas e projeções
+A060-02  Fusos horários e coordenadas
+A060-03  Sensoriamento remoto e geotecnologias
+### ASSUNTO A061 — Geografia física
+A061-01  Estrutura da Terra e tectônica
+A061-02  Relevo e geomorfologia
+A061-03  Solos e pedologia
+A061-04  Climatologia
+A061-05  Hidrografia
+A061-06  Vegetação e domínios morfoclimáticos
+### ASSUNTO A062 — Geografia ambiental
+A062-01  Impactos ambientais e poluição
+A062-02  Mudanças climáticas
+A062-03  Sustentabilidade e legislação ambiental
+### ASSUNTO A063 — População
+A063-01  Demografia e estrutura populacional
+A063-02  Migrações
+A063-03  Diversidade e questões étnico-culturais
+### ASSUNTO A064 — Espaço urbano
+A064-01  Urbanização e rede urbana
+A064-02  Problemas urbanos
+### ASSUNTO A065 — Espaço agrário
+A065-01  Agricultura e agronegócio
+A065-02  Estrutura fundiária e questão agrária
+### ASSUNTO A066 — Indústria e energia
+A066-01  Industrialização e tipos de indústria
+A066-02  Fontes de energia e matriz energética
+A066-03  Redes, transportes e comércio
+### ASSUNTO A067 — Geografia econômica e política
+A067-01  Capitalismo e sistemas econômicos
+A067-02  Globalização e blocos econômicos
+A067-03  Geopolítica e conflitos mundiais
+A067-04  Nova ordem mundial
+### ASSUNTO A068 — Geografia do Brasil
+A068-01  Regionalização brasileira
+A068-02  Aspectos físicos do Brasil
+A068-03  Economia e desigualdade regional
+## MATÉRIA filosofia — Filosofia
+### ASSUNTO A069 — Introdução à filosofia
+A069-01  Origem da filosofia: mito e razão
+A069-02  Campos da filosofia
+### ASSUNTO A070 — Filosofia Antiga
+A070-01  Pré-socráticos
+A070-02  Sócrates e os sofistas
+A070-03  Platão
+A070-04  Aristóteles
+A070-05  Filosofia helenística
+### ASSUNTO A071 — Filosofia Medieval
+A071-01  Patrística
+A071-02  Escolástica
+### ASSUNTO A072 — Filosofia Moderna
+A072-01  Racionalismo
+A072-02  Empirismo
+A072-03  Contratualistas
+A072-04  Iluminismo e Kant
+### ASSUNTO A073 — Filosofia Contemporânea
+A073-01  Marxismo e crítica social
+A073-02  Existencialismo
+A073-03  Escola de Frankfurt
+A073-04  Filosofia francesa contemporânea
+### ASSUNTO A074 — Ética
+A074-01  Ética e moral
+A074-02  Bioética e questões contemporâneas
+### ASSUNTO A075 — Filosofia política
+A075-01  Estado, poder e democracia
+A075-02  Liberalismo e neoliberalismo
+A075-03  Totalitarismo e crise da democracia
+### ASSUNTO A076 — Teoria do conhecimento
+A076-01  Epistemologia e método científico
+### ASSUNTO A077 — Estética
+A077-01  Filosofia da arte
+## MATÉRIA sociologia — Sociologia
+### ASSUNTO A078 — Surgimento da sociologia
+A078-01  Contexto histórico e positivismo
+### ASSUNTO A079 — Clássicos da sociologia
+A079-01  Émile Durkheim
+A079-02  Max Weber
+A079-03  Karl Marx
+### ASSUNTO A080 — Cultura e sociedade
+A080-01  Cultura, identidade e etnocentrismo
+A080-02  Indústria cultural e cultura de massa
+### ASSUNTO A081 — Trabalho e sociedade
+A081-01  Modos de produção e divisão do trabalho
+A081-02  Trabalho, tecnologia e desemprego
+### ASSUNTO A082 — Estratificação social
+A082-01  Classes sociais e desigualdade
+A082-02  Gênero, raça e minorias
+### ASSUNTO A083 — Política e cidadania
+A083-01  Estado, poder e democracia
+A083-02  Cidadania e direitos humanos
+A083-03  Movimentos sociais
+### ASSUNTO A084 — Sociologia contemporânea
+A084-01  Globalização e capitalismo atual
+A084-02  Sociedade em rede e tecnologia
+
+# ÁREA linguagens — Linguagens, Códigos e suas Tecnologias
+## MATÉRIA portugues — Português
+### ASSUNTO A085 — Leitura e interpretação
+A085-01  Interpretação de texto
+A085-02  Ideias principais, fato e opinião
+A085-03  Estratégias de leitura
+### ASSUNTO A086 — Gêneros e tipologias
+A086-01  Gêneros textuais
+A086-02  Tipologias textuais
+A086-03  Gêneros digitais e multimodais
+### ASSUNTO A087 — Linguagem e comunicação
+A087-01  Funções da linguagem
+A087-02  Variação linguística e preconceito linguístico
+A087-03  Figuras de linguagem
+### ASSUNTO A088 — Semântica e coesão
+A088-01  Semântica, ambiguidade e implícitos
+A088-02  Coesão e coerência
+A088-03  Intertextualidade
+A088-04  Argumentação
+### ASSUNTO A089 — Gramática - morfologia
+A089-01  Classes de palavras
+A089-02  Formação de palavras
+### ASSUNTO A090 — Gramática - sintaxe
+A090-01  Termos da oração
+A090-02  Período composto: coordenação e subordinação
+A090-03  Concordância verbal e nominal
+A090-04  Regência e crase
+### ASSUNTO A091 — Ortografia e pontuação
+A091-01  Acentuação e ortografia
+A091-02  Pontuação
+### ASSUNTO A092 — Norma e uso
+A092-01  Norma padrão e adequação linguística
+A092-02  Tecnologias da informação e multiletramentos
+## MATÉRIA literatura — Literatura
+### ASSUNTO A093 — Teoria literária
+A093-01  Gêneros literários
+A093-02  Recursos estilísticos e versificação
+### ASSUNTO A094 — Literatura brasileira - Era Colonial
+A094-01  Quinhentismo
+A094-02  Barroco
+A094-03  Arcadismo
+### ASSUNTO A095 — Literatura brasileira - século XIX
+A095-01  Romantismo
+A095-02  Realismo e Naturalismo
+A095-03  Parnasianismo
+A095-04  Simbolismo
+### ASSUNTO A096 — Literatura brasileira - século XX
+A096-01  Pré-Modernismo
+A096-02  Vanguardas europeias
+A096-03  Modernismo - 1ª fase
+A096-04  Modernismo - 2ª e 3ª fases
+A096-05  Literatura contemporânea
+### ASSUNTO A097 — Literatura portuguesa
+A097-01  Trovadorismo, Humanismo e Classicismo
+A097-02  Literatura portuguesa moderna e contemporânea
+### ASSUNTO A098 — Outras literaturas
+A098-01  Literatura africana e afro-brasileira
+A098-02  Literatura indígena
+A098-03  Literatura regional, popular e pernambucana
+### ASSUNTO A099 — Obras obrigatórias
+A099-01  Leituras obrigatórias de vestibular
+## MATÉRIA ingles — Inglês
+### ASSUNTO A100 — Leitura em inglês
+A100-01  Interpretação de textos
+A100-02  Vocabulário, cognatos e inferência
+A100-03  Gêneros textuais e aspectos socioculturais
+### ASSUNTO A101 — Gramática em inglês
+A101-01  Tempos verbais
+A101-02  Modal verbs
+A101-03  Pronomes, artigos e possessivos
+A101-04  Preposições
+A101-05  Conectores e coesão
+A101-06  Comparativos e superlativos
+A101-07  Phrasal verbs
+## MATÉRIA espanhol — Espanhol
+### ASSUNTO A102 — Leitura em espanhol
+A102-01  Interpretação de textos
+A102-02  Vocabulário e falsos amigos
+### ASSUNTO A103 — Gramática em espanhol
+A103-01  Estruturas gramaticais básicas
+## MATÉRIA artes — Artes
+### ASSUNTO A104 — Fundamentos da arte
+A104-01  Função social e linguagens artísticas
+A104-02  História da arte
+### ASSUNTO A105 — Artes visuais
+A105-01  Elementos visuais e movimentos
+### ASSUNTO A106 — Música
+A106-01  Elementos e gêneros musicais
+### ASSUNTO A107 — Dança
+A107-01  Dança e expressão corporal
+### ASSUNTO A108 — Teatro
+A108-01  Encenação e expressão cênica
+### ASSUNTO A109 — Arte e cultura popular
+A109-01  Arte popular e patrimônio cultural
+A109-02  Arte pernambucana
+## MATÉRIA educacao_fisica — Educação Física
+### ASSUNTO A110 — Esportes
+A110-01  Esportes coletivos
+A110-02  Esportes individuais
+### ASSUNTO A111 — Ginástica e lutas
+A111-01  Ginástica e condicionamento físico
+A111-02  Lutas
+### ASSUNTO A112 — Danças e práticas corporais
+A112-01  Danças
+A112-02  Jogos e práticas corporais
+### ASSUNTO A113 — Saúde e sociedade
+A113-01  Saúde, corpo e qualidade de vida
+A113-02  Corpo, gênero e sociedade
