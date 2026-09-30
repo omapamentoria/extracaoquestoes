@@ -140,3 +140,10 @@ campo depois.
 | Depois | | Comentários das novas; provas danificadas; discursivas |
 
 A classificação (5b e 5c) é a parte mais cara em uso do Claude: cerca de 41 mil questões, em várias sessões.
+
+### Andamento (30/09/2026)
+* Fases 1 e 2 concluídas; auditoria de gabarito feita (ver pendências).
+* Fase 3 concluída: ramo `claude/banco-unificado` do `Banco-de-questoes` com 26.824 questões (5.288 antigas + 21.536
+  novas, 22 partes novas, 13.430 imagens). **Não publicar no ramo principal** antes da tela (Prompts 2 e 3) e da
+  classificação (Fase 5): as novas ainda não têm área/matéria/assunto.
+* Conversor: `ferramentas_nuvem/converte.py`; ids novos fixos em `unificacao/ids_novos.json`.

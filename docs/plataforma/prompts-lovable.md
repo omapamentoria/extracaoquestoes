@@ -15,26 +15,37 @@
 >
 > Não mude mais nada.
 
-## Prompt 2 — Texto rico da questão (colar na Fase 4)
+## Prompt 2 — Texto rico da questão e campos novos (Fase 4)
 
-> No `QuestaoCard.tsx`, mostre o enunciado, as alternativas e o campo novo `apos_alternativas` com formatação:
+> Vamos preparar o Banco de Questões para receber questões com formatação. Não mude o que já funciona.
+>
+> **1. Migração** em `questoes`: `fontes jsonb not null default '[]'`, `apos_alternativas text`, `vestibular text`,
+> `edicao text`, `dia text`, `formato text default 'objetiva'`, `origem_texto text`.
+>
+> **2. `question-bank-sync`**: ler também do JSON os campos `fontes`, `apos_alternativas`, `vestibular`, `edicao`, `dia`,
+> `formato` e `origem_texto` e gravar nas colunas novas. Se o JSON trouxer `area_codigo`, `materia_codigo`,
+> `assunto_codigo` ou `subassunto_codigo`, usar esses códigos direto (sem a busca por nome). Se o `gabarito` vier
+> como `"anulada"`, gravar `status = 'anulada'` (fora das listas).
+>
+> **3. `QuestaoCard.tsx`**: mostrar enunciado, alternativas e `apos_alternativas` com formatação:
 > * parágrafos separados por linha em branco; `**negrito**`, `*itálico*`, `<sup>`, `<sub>`, `<u>`, `<br>`;
-> * tabelas em markdown (`| a | b |`);
+> * tabelas em markdown (`| a | b |`), com rolagem horizontal no celular;
 > * fórmulas entre `\(` e `\)` com KaTeX (instalar `katex`);
-> * `{{img:N}}` no texto = a N-ésima imagem de `imagens`, mostrada **naquele ponto**; imagem citada no texto não
->   se repete no fim; alternativa pode ter `{{img:N}}` (a alternativa é a imagem);
-> * `{{fonte:N}}` = o N-ésimo item do campo novo `fontes` (texto pequeno e cinza, como crédito).
+> * `{{img:N}}` = a N-ésima imagem da lista `imagens`, mostrada **naquele ponto do texto**; imagem que já apareceu
+>   no texto não se repete no fim; uma alternativa pode ser só `{{img:N}}` (a alternativa é a imagem);
+> * `{{fonte:N}}` = o N-ésimo item de `fontes`, em texto pequeno e cinza (crédito do texto ou da imagem);
+> * as imagens novas são `.webp` e ficam na mesma pasta `imagens/` (a função `question-bank-image` já aceita).
 > Questões antigas (sem esses marcadores) continuam aparecendo exatamente como hoje.
-> Migração: colunas `fontes jsonb default '[]'`, `apos_alternativas text`, `vestibular text`, `edicao text`,
-> `formato text default 'objetiva'` em `questoes`; a função `question-bank-sync` passa a ler esses campos do JSON
-> (`fontes`, `apos_alternativas`, `vestibular`, `edicao`, `formato`) e, quando o JSON trouxer `area_codigo`,
-> `materia_codigo`, `assunto_codigo`, `subassunto_codigo`, usa esses códigos direto (sem a busca por nome).
+>
+> **4.** No topo da questão, a origem passa a usar `vestibular`, `ano`, `edicao` e `dia` quando existirem
+> (ex.: "ENEM 2019 · 2º dia · questão 135").
 
-## Prompt 3 — Questão sem comentário (Fase 4)
+## Prompt 3 — Questão sem comentário e questão anulada (Fase 4)
 
-> Questões sem comentário (`explicacao_correta_texto` vazio e `passos_raciocinio` vazio): depois de responder,
-> mostrar só o gabarito ("Gabarito: C") e a frase "Comentário em produção". Esconder as abas vazias e os flashcards.
-> No filtro, opção "Só questões comentadas" (desmarcada por padrão).
+> 1. Questão sem comentário (`explicacao_correta_texto` vazio e `passos_raciocinio` vazio): depois de responder,
+>    mostrar só o gabarito ("Gabarito: C") e a frase "Comentário em produção". Esconder as abas vazias e os flashcards.
+> 2. No filtro de criar lista, opção "Só questões comentadas" (desmarcada por padrão).
+> 3. Questões com `status = 'anulada'` nunca entram em listas.
 
 ## Prompt 4 — Imagens no Storage (Fase 4, antes da carga)
 
