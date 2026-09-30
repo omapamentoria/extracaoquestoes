@@ -95,3 +95,6 @@ Outra cópia (por exemplo, o PDF oficial do INEP ou da banca) costuma resolver. 
 | P2976 | ENEM | 2025 | 1º SOMOS 2025 - D2.pdf | extraída por OCR (com alerta) |
 | P1135 | FUVEST | 2026 | fuvest 2026 - 1 fase prova V1.pdf | extraída por OCR (com alerta) |
 | P1099 | FUVEST | 2014 | FUVEST 2014 - 1a fase - PROVA.pdf | ainda não extraída |
+
+| P2503 | ENEM | 2011 | ENEM - 2011 - 1° dia - Prova amarel.pdf | extraída, mas com trechos cifrados (fora das prontas) |
+| P2506 | ENEM | 2011 | ENEM - 2011 - 2° dia - Prova amarela.pdf | extraída, mas com trechos cifrados (fora das prontas) |
