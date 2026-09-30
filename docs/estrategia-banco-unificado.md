@@ -81,39 +81,56 @@ Primeira leva: só objetivas prontas (as discursivas precisam de outra tela).
 7. Depois: classificação (a plataforma já tem a taxonomia em `areas → materias → assuntos → subassuntos`) e
    comentários das questões novas.
 
-## Plano de trabalho (combinado em 30/09/2026)
+## Plano de trabalho completo (30/09/2026)
 
 Decisões do Matheus:
 * Questão repetida: fica a **melhor extração** (antiga ou nova); o **gabarito comentado antigo sempre fica**.
 * Questões novas entram só com o gabarito; o comentário vem depois.
-* A classificação usa o sistema que já existe na plataforma (áreas → matérias → assuntos → subassuntos).
-* Antes de executar, o plano é fechado com as informações que faltam.
+* A classificação usa o sistema da plataforma (área → matéria → assunto → subassunto) e ganha um nível novo:
+  o **estilo de questão**, dentro de cada subassunto.
+* O objetivo final: a plataforma dizer ao aluno não só o assunto que ele mais erra, mas **o estilo de questão**
+  que ele mais erra dentro do assunto.
+* Nada é executado antes do plano fechado.
 
-### Fase 0 — Informações do Matheus (Lovable/Supabase)
-Exportar em CSV (Lovable → Cloud → Database → tabela → Export): `areas`, `materias`, `assuntos`, `subassuntos`,
-`depara_texto_livre`, `questoes` e as tabelas de relatos de erro e de respostas dos alunos; prints da tela do banco
-(aluno e mentor); o que incomoda hoje e o que falta; vestibulares prioritários.
+### Classificação em 5 níveis
 
-### Fase 1 — Diagnóstico (Claude, sem mexer em nada)
-Ler os CSVs: quantas questões estão publicadas e classificadas, como a taxonomia está organizada, quais questões
-antigas os alunos já responderam ou relataram com erro (essas nunca mudam de id).
+    Área → Matéria → Assunto → Subassunto → Estilo de questão
+    Natureza → Química → Estequiometria → Cálculo estequiométrico → "pede a pureza do reagente"
+    Exatas → Matemática → Matemática financeira → Juros compostos → "pede a taxa mensal"
 
-### Fase 2 — Unificação
-Mapa de repetidas com decisão automática; página de revisão lado a lado para os pares em dúvida.
+**O que é um estilo.** É o que a questão pede e o passo que decide o acerto, não o tema do texto. Duas questões do
+mesmo estilo exigem o mesmo raciocínio, mesmo com contextos diferentes. Exemplos de juros compostos: "pede o
+montante", "pede a taxa", "pede o tempo (logaritmo)", "compara duas aplicações", "lê o gráfico de crescimento".
 
-### Fase 3 — Conversão
-Banco novo no formato da plataforma, ids a partir de 100.001, imagens para web.
+**Regras de uma boa lista de estilos** (para o diagnóstico fazer sentido):
+* de 2 a 8 estilos por subassunto; cada questão tem **um estilo principal**;
+* estilos que não se sobrepõem, cobrindo quase todas as questões do subassunto (o resto vai para "outros");
+* cada estilo com pelo menos 5 questões no banco (senão junta com outro);
+* nome curto que o aluno entende ("pede a taxa mensal") e uma descrição de uma linha para o classificador.
 
-### Fase 4 — Plataforma (prompts para o Lovable, um por vez, pequenos)
-Texto rico (fórmula, tabela, negrito, imagem no lugar), questão sem comentário, filtros por vestibular/ano/prova,
-imagens no Storage do Supabase se o GitHub ficar lento, e o que vier da Fase 0.
+**Como a lista nasce.** Por dados, não de cabeça: para cada subassunto, o Claude lê as questões já classificadas
+nele, propõe os estilos com 2 exemplos cada, e o Matheus aprova, junta ou renomeia. Depois o Claude classifica cada
+questão no estilo. Piloto antes de escalar: 3 subassuntos (ex.: cálculo estequiométrico, juros compostos e um de
+Humanas), para acertar o tamanho dos estilos.
 
-### Fase 5 — Classificação
-Na taxonomia da plataforma: área e matéria pelo código (área da prova, ordem das questões), assunto e subassunto
-pelo Claude, em lotes, usando as 5 mil questões antigas já classificadas como exemplo.
+**Na plataforma.** Tabela nova `estilos_questao` (código, subassunto, nome, descrição) e coluna `estilo_codigo` em
+`questoes`. O diagnóstico do aluno cruza `question_attempts` (acertos e erros) com o estilo: "em Juros compostos,
+você erra mais as questões que pedem a taxa". Os erros de simulado (`erros_simulado_questoes`) podem ganhar o mesmo
+campo depois.
 
-### Fase 6 — Carga
-Teste num ramo, conferência de contagens e amostra na tela, publicação.
+### Fases
 
-### Depois
-Comentários das questões novas; provas danificadas (`docs/lotes/pdfs_para_conseguir.md`); discursivas.
+| Fase | Quem | O que |
+|---|---|---|
+| 0. Informações | Matheus | CSVs do Lovable, prints e respostas (lista em `docs/pedido-csv-lovable.md`) |
+| 1. Diagnóstico | Claude | Ler os CSVs sem mexer em nada: o que está publicado, a taxonomia, o que os alunos já usam |
+| 2. Unificação | Claude + Matheus | Repetidas: fica a melhor extração, comentário antigo sempre; pares em dúvida numa página de revisão |
+| 3. Conversão | Claude | Banco novo no formato da plataforma, ids a partir de 100.001, imagens para web |
+| 4. Plataforma | Claude escreve, Matheus cola no Lovable | Prompts pequenos, um de cada vez: texto rico (fórmula, tabela, imagem no lugar), questão sem comentário, filtros por vestibular/ano/prova, tabela de estilos, diagnóstico por estilo |
+| 5a. Taxonomia | Claude + Matheus | Conferir se área → subassunto cobre o banco novo (FUVEST, UNICAMP etc.); propor o que falta |
+| 5b. Classificação até subassunto | Claude | Área e matéria pelo código; assunto e subassunto em lotes, com as 5 mil antigas como exemplo |
+| 5c. Estilos | Claude + Matheus | Piloto de 3 subassuntos → aprovação → lista de estilos de todos os subassuntos → classificação |
+| 6. Carga | Claude + Matheus | Teste num ramo, conferência, publicação |
+| Depois | | Comentários das novas; provas danificadas; discursivas |
+
+A classificação (5b e 5c) é a parte mais cara em uso do Claude: cerca de 41 mil questões, em várias sessões.
