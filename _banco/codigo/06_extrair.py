@@ -2463,8 +2463,22 @@ def le_gabarito(ids=None):
         for mq in re.finditer(r"(?s)QUEST[ÃA]O\s+0*(\d{1,3})\b(.*?)(?=QUEST[ÃA]O\s+\d|\Z)", t):
             mc = re.search(r"\b([A-E])\)\s*CORRETA\b", mq.group(2))
             if mc: gab.setdefault(int(mq.group(1)), mc.group(1))
+        # tabela com uma coluna por cor de caderno ("Azul Gab_Azul  Amarelo Gab_Amarelo ...", ENEM 2009): so vale a
+        # coluna da cor desta prova (sem isso a leitura solta pegaria a 1a coluna de cada linha)
+        cor_col = None
+        for linha in t.splitlines():
+            cores_l = re.findall(r"(?i)gab_(azul|amarel[oa]|branc[oa]|rosa|cinza|verde|laranja)", linha)
+            if len(cores_l) >= 2 and P.get("caderno"):
+                norm_c = [c_.lower()[:4] for c_ in cores_l]
+                if P["caderno"].lower()[:4] in norm_c: cor_col = (norm_c.index(P["caderno"].lower()[:4]), len(norm_c))
+                break
         for linha in (t.splitlines() if not eh_res else []):   # leitura solta de linha: so em arquivo de gabarito
             toks = re.findall(r"(?<![\w,])\d{1,3}(?![\w,])|Anulad[ao]|ANULAD[AO]|(?<![A-Za-zÀ-ÿ])[A-E](?![A-Za-zÀ-ÿ])", linha)
+            if cor_col:
+                pares_c = re.findall(r"(?<![\w,])(\d{1,3})\s+([A-E]|Anulad[ao]|ANULAD[AO])(?![A-Za-zÀ-ÿ])", linha)
+                if len(pares_c) == cor_col[1]:
+                    gab.setdefault(int(pares_c[cor_col[0]][0]), pares_c[cor_col[0]][1])
+                continue
             n = None; letras = []
             def fecha():
                 if n is None or not letras: return
