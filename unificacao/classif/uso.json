@@ -1,0 +1,149 @@
+{
+ "inicio": "2026-09-30T13:14:00Z",
+ "chamadas": [
+  {
+   "quando": "2026-09-30T13:15:00Z",
+   "modelo": "sonnet",
+   "lotes": [
+    "000"
+   ],
+   "tokens": 100289
+  },
+  {
+   "quando": "2026-09-30T13:15:00Z",
+   "modelo": "sonnet",
+   "lotes": [
+    "001"
+   ],
+   "tokens": 104338
+  },
+  {
+   "quando": "2026-09-30T13:15:00Z",
+   "modelo": "sonnet",
+   "lotes": [
+    "002"
+   ],
+   "tokens": 104613
+  },
+  {
+   "quando": "2026-09-30T13:15:00Z",
+   "modelo": "sonnet",
+   "lotes": [
+    "003"
+   ],
+   "tokens": 99102
+  },
+  {
+   "quando": "2026-09-30T13:15:00Z",
+   "modelo": "sonnet",
+   "lotes": [
+    "004"
+   ],
+   "tokens": 99421
+  },
+  {
+   "quando": "2026-09-30T13:16:00Z",
+   "modelo": "haiku",
+   "lotes": [
+    "000 teste"
+   ],
+   "tokens": 85676
+  },
+  {
+   "quando": "2026-09-30T13:16:00Z",
+   "modelo": "haiku",
+   "lotes": [
+    "001 teste"
+   ],
+   "tokens": 88998
+  },
+  {
+   "quando": "2026-09-30T13:20:38Z",
+   "modelo": "sonnet",
+   "lotes": [
+    "033",
+    "034",
+    "035",
+    "036"
+   ],
+   "tokens": 220131
+  },
+  {
+   "quando": "2026-09-30T13:20:44Z",
+   "modelo": "sonnet",
+   "lotes": [
+    "017",
+    "018",
+    "019",
+    "020"
+   ],
+   "tokens": 202756
+  },
+  {
+   "quando": "2026-09-30T13:20:50Z",
+   "modelo": "sonnet",
+   "lotes": [
+    "013",
+    "014",
+    "015",
+    "016"
+   ],
+   "tokens": 196699
+  },
+  {
+   "quando": "2026-09-30T13:20:50Z",
+   "modelo": "sonnet",
+   "lotes": [
+    "005",
+    "006",
+    "007",
+    "008"
+   ],
+   "tokens": 216198
+  },
+  {
+   "quando": "2026-09-30T13:20:50Z",
+   "modelo": "sonnet",
+   "lotes": [
+    "025",
+    "026",
+    "027",
+    "028"
+   ],
+   "tokens": 216500
+  },
+  {
+   "quando": "2026-09-30T13:20:51Z",
+   "modelo": "sonnet",
+   "lotes": [
+    "021",
+    "022",
+    "023",
+    "024"
+   ],
+   "tokens": 219722
+  },
+  {
+   "quando": "2026-09-30T13:20:56Z",
+   "modelo": "sonnet",
+   "lotes": [
+    "029",
+    "030",
+    "031",
+    "032"
+   ],
+   "tokens": 212173
+  },
+  {
+   "quando": "2026-09-30T13:20:56Z",
+   "modelo": "sonnet",
+   "lotes": [
+    "009",
+    "010",
+    "011",
+    "012"
+   ],
+   "tokens": 214382
+  }
+ ]
+}
