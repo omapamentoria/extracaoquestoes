@@ -158,6 +158,14 @@ Plano completo em `docs/estrategia-banco-unificado.md`; diagnóstico da platafor
 * SSA 2018: "NULA" no gabarito definitivo não é lido como anulada (a questão fica sem gabarito): ajustar.
 * ENEM anteriores a 2005 fora do banco (decisão do Matheus): `docs/lotes/fora_do_banco.txt`.
 
+## Resolução comentada pelo Gemini (30/09/2026)
+
+* O ramo `comentarios-gemini` do Banco-de-questoes tem 719 lotes de 30 questões (21.551 no total), com as figuras.
+  As instruções estão em `comentarios/INSTRUCOES.md`; o prompt e o passo a passo, em `docs/prompt-gemini.md`.
+* Ficaram fora dos lotes: a 620 (anulada no oficial) e a 103369 (sem alternativas; conferir a extração).
+* O conferidor é `ferramentas_nuvem/confere_comentarios.py`. A junção entra no `converte.py` (variável COMENTARIOS=).
+* Os casos "discordo" e "sem_imagem" vão para a revisão do Matheus.
+
 ## Decisões em aberto
 
 * ENCCEJA: incluir ou não? (metade é de ensino fundamental; no catálogo, prioridade 9 para médio e 10 para fundamental)

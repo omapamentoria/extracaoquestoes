@@ -5,8 +5,12 @@
 # - questoes novas: ids a partir de 100001 (fixos, unificacao/ids_novos.json), em banco_parte_07.json em diante;
 # - texto-base ligado a questao vai junto no enunciado (a plataforma mostra uma questao por vez);
 # - imagens para web: largura maxima 1000 px, WebP, em imagens/.
-# Uso: python3 ferramentas_nuvem/converte.py <pasta do repositorio Banco-de-questoes>
+# - resolucao comentada feita pelo Gemini (ramo comentarios-gemini), so a que passou no confere_comentarios.py:
+#   entra na questao que esta sem comentario (novas e as de comentario retirado). Informe a pasta em COMENTARIOS=.
+# Uso: [COMENTARIOS=<pasta do ramo comentarios-gemini>] python3 ferramentas_nuvem/converte.py <pasta do repositorio Banco-de-questoes>
 import json, os, sys, glob, re, collections, cv2
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from confere_comentarios import carrega as carrega_comentarios
 
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEST = sys.argv[1]
@@ -17,6 +21,13 @@ pares = json.load(open(os.path.join(R, "unificacao", "pares.json"), encoding="ut
 entram = json.load(open(os.path.join(R, "unificacao", "novas.json"), encoding="utf-8"))["entram_como_novas"]
 MAPA_IDS = os.path.join(R, "unificacao", "ids_novos.json")
 ids_novos = json.load(open(MAPA_IDS)) if os.path.exists(MAPA_IDS) else {}
+COMENT = carrega_comentarios(os.environ["COMENTARIOS"])[0] if os.environ.get("COMENTARIOS") else {}
+
+
+def comentario(qid, gab):
+    """comentario aceito do Gemini, so se foi escrito para o gabarito que a questao tem hoje"""
+    c = COMENT.get(qid)
+    return {k: v for k, v in c.items() if k != "_gabarito"} if c and c["_gabarito"] == gab else None
 IMG_DIR = os.path.join(DEST, "imagens"); os.makedirs(IMG_DIR, exist_ok=True)
 
 # 1. carrega as questoes novas usadas (e os textos-base da prova)
@@ -69,13 +80,17 @@ def monta(q, prefixo):
 
 # 2. questoes antigas: atualiza dentro do mesmo arquivo de parte
 dec = {p["antiga"]: p for p in pares}
-refazer = {}
+_rf = os.path.join(DEST, "final", "comentarios_a_refazer.json")
+refazer = json.load(open(_rf, encoding="utf-8")) if os.path.exists(_rf) else {}   # rodar de novo nao apaga os ja retirados
+n_coment = 0
 n_trocadas = 0
 arqs_partes = sorted(glob.glob(os.path.join(DEST, "final", "partes", "banco_parte_*.json")))
 antigos = [a for a in arqs_partes if int(re.search(r"(\d+)\.json$", a).group(1)) <= 6]
 for arq in antigos:
     lista = json.load(open(arq, encoding="utf-8"))
     for o in lista:
+        if not o.get("analise_correta_texto") and comentario(o["id"], o.get("gabarito")):
+            o.update(comentario(o["id"], o.get("gabarito"))); n_coment += 1
         p = dec.get(o["id"])
         if not p or p["decisao"] != "nova": continue
         q = novas[p["nova"]]
@@ -85,13 +100,14 @@ for arq in antigos:
                   "origem_texto": q["id"]})
         if q.get("anulada") or (q.get("gabarito") and q["gabarito"] != o.get("gabarito")):
             # gabarito antigo errado: vale o oficial; o comentario antigo explica a resposta errada -> sai
-            refazer[o["id"]] = {k: o.get(k) for k in ("gabarito", "passos_raciocinio", "analise_correta_titulo", "analise_correta_texto",
+            refazer[str(o["id"])] = {k: o.get(k) for k in ("gabarito", "passos_raciocinio", "analise_correta_titulo", "analise_correta_texto",
                                                    "analise_incorretas_intro", "analise_incorretas", "quadro_resumo", "leve_para_prova", "flashcards")}
             o["gabarito"] = "anulada" if q.get("anulada") else q["gabarito"]
             for k, v in (("passos_raciocinio", []), ("analise_correta_titulo", ""), ("analise_correta_texto", ""), ("analise_incorretas_intro", ""),
                          ("analise_incorretas", []), ("quadro_resumo", []), ("leve_para_prova", ""), ("flashcards", [])):
                 o[k] = v
             o["nota_revisao"] = None
+            if comentario(o["id"], o["gabarito"]): o.update(comentario(o["id"], o["gabarito"])); n_coment += 1
         n_trocadas += 1
     json.dump(lista, open(arq, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
 json.dump(refazer, open(os.path.join(DEST, "final", "comentarios_a_refazer.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
@@ -114,11 +130,12 @@ for qid in ordem:
                   "area_prova": q.get("area") or "", "idioma": q.get("idioma"), "origem_texto": qid,
                   "passos_raciocinio": [], "analise_correta_titulo": "", "analise_correta_texto": "", "analise_incorretas_intro": "",
                   "analise_incorretas": [], "quadro_resumo": [], "leve_para_prova": "", "flashcards": [], "nota_revisao": None})
+    if comentario(nid, q["gabarito"]): saida[-1].update(comentario(nid, q["gabarito"])); n_coment += 1
 json.dump(ids_novos, open(MAPA_IDS, "w"), indent=0)
 for a in arqs_partes:
     if a not in antigos: os.remove(a)
 for k in range(0, len(saida), 1000):
     json.dump(saida[k:k + 1000], open(os.path.join(DEST, "final", "partes", f"banco_parte_{7 + k // 1000:02d}.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=0)
-print(f"antigas com texto novo: {n_trocadas}; comentários a refazer: {len(refazer)}; novas: {len(saida)}; "
+print(f"antigas com texto novo: {n_trocadas}; comentários a refazer: {len(refazer)}; comentários do Gemini: {n_coment}; novas: {len(saida)}; "
       f"partes novas: {(len(saida) + 999) // 1000}; imagens em imagens/: {len(os.listdir(IMG_DIR))}")
