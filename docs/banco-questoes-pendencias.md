@@ -166,6 +166,15 @@ Plano completo em `docs/estrategia-banco-unificado.md`; diagnóstico da platafor
 * O conferidor é `ferramentas_nuvem/confere_comentarios.py`. A junção entra no `converte.py` (variável COMENTARIOS=).
 * Os casos "discordo" e "sem_imagem" vão para a revisão do Matheus.
 
+## Classificação matéria > assunto > subassunto (Fase 5b, concluída em 01/10/2026)
+
+* As 25.233 questões que estavam sem subassunto foram classificadas pelo Sonnet, em 256 lotes. As 1.591 que já eram classificadas na plataforma ficaram como estavam.
+* O resultado está em `unificacao/classificacao.json`, e o resumo em `docs/classificacao-resumo.md`.
+* Acerto no piloto, contra a classificação da plataforma: área 97%, matéria 95%, assunto 81%, subassunto 71%.
+* 1.260 questões ficaram com confiança baixa e a lista está no resumo; elas vão para a revisão do Matheus.
+* 1.298 questões ficaram em área diferente da impressa. A maior parte é do SSA: a extração gravou "MATEMÁTICA" como área de todas as questões do 1º dia. Vale a área da classificação.
+* Próximo passo: gravar no banco (converte) e entregar à plataforma, junto com o Prompt 3 do Lovable. Depois vem a Fase 5c (estilos).
+
 ## Decisões em aberto
 
 * ENCCEJA: incluir ou não? (metade é de ensino fundamental; no catálogo, prioridade 9 para médio e 10 para fundamental)
