@@ -147,3 +147,12 @@ A classificação (5b e 5c) é a parte mais cara em uso do Claude: cerca de 41 m
   novas, 22 partes novas, 13.430 imagens). **Não publicar no ramo principal** antes da tela (Prompts 2 e 3) e da
   classificação (Fase 5): as novas ainda não têm área/matéria/assunto.
 * Conversor: `ferramentas_nuvem/converte.py`; ids novos fixos em `unificacao/ids_novos.json`.
+
+### Andamento (01/10/2026)
+* Fase 5b concluída: as 26.824 questões estão classificadas até o subassunto, com a cadeia
+  área → matéria → assunto → subassunto conferida. 1.591 ficaram com a classificação da plataforma, 23.978 foram
+  classificadas pelo Sonnet e 1.255 de confiança baixa foram revisadas pelo Opus. O resultado está em
+  `unificacao/classificacao.json` e o resumo em `docs/classificacao-resumo.md`.
+* Resolução comentada: 719 lotes prontos para o Gemini no ramo `comentarios-gemini` (`docs/prompt-gemini.md`).
+* Faltam: a resposta do Lovable ao Prompt 2, os Prompts 3 e 4, gravar a classificação nas partes, a Fase 5c
+  (estilos) e a Fase 6 (carga).
