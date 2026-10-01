@@ -234714,5 +234714,212 @@
 "conf": "alta",
 "fonte_area": "classificação",
 "fonte_sub": "IA"
+},
+"100248": {
+"area_codigo": "linguagens",
+"materia_codigo": "portugues",
+"assunto_codigo": "A092",
+"subassunto_codigo": "A092-01",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"100943": {
+"area_codigo": "naturezas",
+"materia_codigo": "quimica",
+"assunto_codigo": "A034",
+"subassunto_codigo": "A034-01",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"102461": {
+"area_codigo": "exatas",
+"materia_codigo": "matematica",
+"assunto_codigo": "A002",
+"subassunto_codigo": "A002-01",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"109478": {
+"area_codigo": "naturezas",
+"materia_codigo": "fisica",
+"assunto_codigo": "A015",
+"subassunto_codigo": "A015-03",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"109888": {
+"area_codigo": "exatas",
+"materia_codigo": "matematica",
+"assunto_codigo": "A012",
+"subassunto_codigo": "A012-03",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"111865": {
+"area_codigo": "naturezas",
+"materia_codigo": "fisica",
+"assunto_codigo": "A018",
+"subassunto_codigo": "A018-03",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"112432": {
+"area_codigo": "naturezas",
+"materia_codigo": "quimica",
+"assunto_codigo": "A032",
+"subassunto_codigo": "A032-05",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"113235": {
+"area_codigo": "naturezas",
+"materia_codigo": "biologia",
+"assunto_codigo": "A038",
+"subassunto_codigo": "A038-02",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"113253": {
+"area_codigo": "exatas",
+"materia_codigo": "matematica",
+"assunto_codigo": "A003",
+"subassunto_codigo": "A003-03",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"113541": {
+"area_codigo": "exatas",
+"materia_codigo": "matematica",
+"assunto_codigo": "A006",
+"subassunto_codigo": "A006-01",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"117990": {
+"area_codigo": "exatas",
+"materia_codigo": "matematica",
+"assunto_codigo": "A001",
+"subassunto_codigo": "A001-02",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"118134": {
+"area_codigo": "exatas",
+"materia_codigo": "matematica",
+"assunto_codigo": "A007",
+"subassunto_codigo": "A007-03",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"118135": {
+"area_codigo": "naturezas",
+"materia_codigo": "quimica",
+"assunto_codigo": "A032",
+"subassunto_codigo": "A032-01",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"119340": {
+"area_codigo": "naturezas",
+"materia_codigo": "biologia",
+"assunto_codigo": "A036",
+"subassunto_codigo": "A036-02",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"119343": {
+"area_codigo": "naturezas",
+"materia_codigo": "biologia",
+"assunto_codigo": "A045",
+"subassunto_codigo": "A045-05",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"119380": {
+"area_codigo": "linguagens",
+"materia_codigo": "espanhol",
+"assunto_codigo": "A102",
+"subassunto_codigo": "A102-01",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"119409": {
+"area_codigo": "naturezas",
+"materia_codigo": "quimica",
+"assunto_codigo": "A034",
+"subassunto_codigo": "A034-01",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"119414": {
+"area_codigo": "naturezas",
+"materia_codigo": "fisica",
+"assunto_codigo": "A015",
+"subassunto_codigo": "A015-06",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"119416": {
+"area_codigo": "naturezas",
+"materia_codigo": "quimica",
+"assunto_codigo": "A026",
+"subassunto_codigo": "A026-03",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"119489": {
+"area_codigo": "naturezas",
+"materia_codigo": "fisica",
+"assunto_codigo": "A019",
+"subassunto_codigo": "A019-03",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"119549": {
+"area_codigo": "humanas",
+"materia_codigo": "historia",
+"assunto_codigo": "A054",
+"subassunto_codigo": "A054-06",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"119551": {
+"area_codigo": "humanas",
+"materia_codigo": "sociologia",
+"assunto_codigo": "A083",
+"subassunto_codigo": "A083-01",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
+},
+"119644": {
+"area_codigo": "linguagens",
+"materia_codigo": "literatura",
+"assunto_codigo": "A094",
+"subassunto_codigo": "A094-02",
+"conf": "media",
+"fonte_sub": "Claude (anulada)",
+"fonte_area": "classificação"
 }
 }
