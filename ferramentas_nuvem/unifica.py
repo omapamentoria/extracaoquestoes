@@ -50,7 +50,11 @@ for r in RAIZES:
     for f in glob.glob(r + "/*/*/*/questoes.json"):
         pid = f.split("/")[-2]
         if pid in FORA: continue
+        _tb = os.path.join(os.path.dirname(f), "textos_base.json")
+        # texto-base com alerta (tabela/mapa mal transcrito, trecho desenhado...) tambem tira a questao das prontas
+        tb_alerta = {t["id"] for t in json.load(open(_tb, encoding="utf-8")) if t.get("alertas")} if os.path.exists(_tb) else set()
         for q in json.load(open(f, encoding="utf-8")):
+            if set(q.get("textos_base_ids") or []) & tb_alerta: continue
             if q.get("formato") == "discursiva" or q.get("alertas") or not (q.get("gabarito") or q.get("anulada")) or len(q["alternativas"]) < 4:
                 continue
             w = palavras(q["enunciado"] + " " + " ".join(a["texto"] for a in q["alternativas"]))
