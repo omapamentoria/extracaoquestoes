@@ -1,100 +1,602 @@
 [
-{"id": 125, "sub": "A107-01", "conf": "media", "motivo": "leitura do balé Parade como expressão cênica e corporal que reflete inovações tecnológicas"},
-{"id": 443, "sub": "A104-01", "conf": "media", "motivo": "função social do teatro como diversão e expressão de valores da sociedade"},
-{"id": 7463, "sub": "A107-01", "conf": "media", "motivo": "percepção histórica e atual da dança em relação à religião"},
-{"id": 8661, "sub": "A109-02", "conf": "alta", "motivo": "influência da capoeira no surgimento do frevo pernambucano"},
-{"id": 9227, "sub": "A080-02", "conf": "baixa", "motivo": "identificar o conceito sociológico de multidão (agregado social de massa); texto misturado com outra questão"},
-{"id": 100143, "sub": "A109-01", "conf": "media", "motivo": "preconceito contra manifestações musicais populares"},
-{"id": 101646, "sub": "A105-01", "conf": "media", "motivo": "leitura de releitura de obra visual como estética de resistência"},
-{"id": 106337, "sub": "A105-01", "conf": "media", "motivo": "reconhecer a poesia visual em interferência artística urbana"},
-{"id": 106348, "sub": "A108-01", "conf": "media", "motivo": "uso político do teatro no Império Romano como manipulação das massas"},
-{"id": 106516, "sub": "A104-01", "conf": "media", "motivo": "superar visão elitista sobre a produção artística indígena"},
-{"id": 106673, "sub": "A108-01", "conf": "media", "motivo": "expressividade corporal de deficientes visuais em jogos dramáticos"},
-{"id": 108095, "sub": "A109-01", "conf": "media", "motivo": "objeto como patrimônio museológico ligado às habilidades dos sujeitos"},
-{"id": 109730, "sub": "A086-03", "conf": "media", "motivo": "leitura de peça publicitária visual e seu processo criativo"},
-{"id": 110167, "sub": "A104-02", "conf": "media", "motivo": "monumento budista Borobudur como representação de conceitos metafísicos"},
-{"id": 115922, "sub": "A105-01", "conf": "media", "motivo": "reconhecer pintura expressionista e suas características"},
-{"id": 118149, "sub": "A099-01", "conf": "baixa", "motivo": "conhecer o tema de curta-metragem indicado pelo vestibular"},
-{"id": 119697, "sub": "A104-01", "conf": "media", "motivo": "censura à arte baseada em critérios externos ao campo estético"},
-{"id": 120448, "sub": "A105-01", "conf": "media", "motivo": "leitura de obra visual sobre mão de obra negra e café"},
-{"id": 414, "sub": "A040-01", "conf": "alta", "motivo": "seleção natural de comportamento hereditário vantajoso"},
-{"id": 991, "sub": "A046-02", "conf": "media", "motivo": "impacto social de tratamento de baixo custo para doenças bucais"},
-{"id": 1998, "sub": "A045-09", "conf": "baixa", "motivo": "importância da reprodução para perpetuação da espécie"},
-{"id": 2529, "sub": "A113-01", "conf": "media", "motivo": "primeiros socorros em queimadura"},
-{"id": 3799, "sub": "A025-02", "conf": "media", "motivo": "volatilização dos óleos essenciais com o calor do sol"},
-{"id": 4203, "sub": "A039-06", "conf": "media", "motivo": "enxertia como clonagem que mantém o genótipo do híbrido"},
-{"id": 4450, "sub": "A041-02", "conf": "media", "motivo": "prevenção da dengue com repelentes que interferem no olfato do vetor"},
-{"id": 4551, "sub": "A043-01", "conf": "media", "motivo": "fototropismo/fototaxia positiva em larvas de crustáceo"},
-{"id": 5048, "sub": "A036-02", "conf": "media", "motivo": "fonte de carbono (glicídios) como suprimento energético celular"},
-{"id": 6960, "sub": "A044-01", "conf": "baixa", "motivo": "liberação de fármaco por nanocápsulas nas camadas da pele"},
-{"id": 7378, "sub": "A043-02", "conf": "media", "motivo": "toxina armazenada nas vísceras do peixe e manuseio seguro"},
-{"id": 8159, "sub": "A045-06", "conf": "alta", "motivo": "dieta pobre em carboidratos reduz secreção de insulina pelo pâncreas"},
-{"id": 8253, "sub": "A037-04", "conf": "baixa", "motivo": "reprodução assexuada por divisão binária"},
-{"id": 8266, "sub": "A036-02", "conf": "alta", "motivo": "estrutura e função dos triglicerídeos"},
-{"id": 8743, "sub": "A037-04", "conf": "baixa", "motivo": "tipos de reprodução assexuada: divisão binária, brotamento, esporulação"},
-{"id": 8814, "sub": "A043-02", "conf": "media", "motivo": "classificação e características dos mamíferos e eras geológicas"},
-{"id": 9510, "sub": "A040-02", "conf": "media", "motivo": "fósseis como vestígios e impacto humano nos ecossistemas"},
-{"id": 9511, "sub": "A040-01", "conf": "media", "motivo": "seleção natural de insetos resistentes a agrotóxicos"},
-{"id": 9514, "sub": "A043-01", "conf": "media", "motivo": "partenogênese e determinação de castas em abelhas"},
-{"id": 9617, "sub": "A037-04", "conf": "baixa", "motivo": "tipos de reprodução assexuada e seus processos"},
-{"id": 9786, "sub": "A036-05", "conf": "media", "motivo": "fosfato como componente de nucleotídeos e ATP"},
-{"id": 10146, "sub": "A046-01", "conf": "baixa", "motivo": "riscos à saúde do cigarro eletrônico"},
-{"id": 100091, "sub": "A046-02", "conf": "media", "motivo": "conduta de saúde pública diante de suspeita de fluorose"},
-{"id": 100104, "sub": "A047-07", "conf": "media", "motivo": "agricultura orgânica e conservação do solo"},
-{"id": 100116, "sub": "A012-03", "conf": "media", "motivo": "leitura de gráfico de experimento de seca induzida"},
-{"id": 100121, "sub": "A039-06", "conf": "media", "motivo": "células-tronco e capacidade de originar vários tecidos"},
-{"id": 100123, "sub": "A012-04", "conf": "media", "motivo": "leitura de quadro de especificações de testes de preservativos"},
-{"id": 100409, "sub": "A046-02", "conf": "baixa", "motivo": "padrão epidemiológico indica transmissão pelo ar"},
-{"id": 100729, "sub": "A046-02", "conf": "baixa", "motivo": "análise geográfica de epidemia de ebola na África"},
-{"id": 100743, "sub": "A074-02", "conf": "baixa", "motivo": "mistanásia e fome como questão bioética"},
-{"id": 101049, "sub": "A039-06", "conf": "media", "motivo": "interpretação de experimento com células-tronco e exercício"},
-{"id": 101109, "sub": "A045-07", "conf": "media", "motivo": "fatores (pH e cálcio) na contração do músculo cardíaco"},
-{"id": 101273, "sub": "A047-07", "conf": "media", "motivo": "interferência humana na dinâmica dos ambientes naturais"},
-{"id": 101352, "sub": "A047-07", "conf": "media", "motivo": "relação entre vegetação, nascentes e saúde ambiental"},
-{"id": 101355, "sub": "A040-02", "conf": "media", "motivo": "análise de dados de fósseis na evolução humana"},
-{"id": 101894, "sub": "A041-05", "conf": "baixa", "motivo": "interpretação de resultados de tolerância de leveduras extremófilas"},
-{"id": 102646, "sub": "A047-04", "conf": "media", "motivo": "curva de sobrevivência de população humana"},
-{"id": 103814, "sub": "A012-03", "conf": "media", "motivo": "leitura de gráfico de perda de água por atividade"},
-{"id": 104154, "sub": "A039-06", "conf": "media", "motivo": "conceito de genoma e sequenciamento de espécies eucarióticas"},
-{"id": 105124, "sub": "A036-01", "conf": "alta", "motivo": "açúcar não refinado fornece sais minerais e vitaminas"},
-{"id": 105131, "sub": "A039-02", "conf": "media", "motivo": "expressão gênica influenciada pelo meio"},
-{"id": 105686, "sub": "A039-06", "conf": "media", "motivo": "farmacogenética para escolher medicamento adequado"},
-{"id": 106378, "sub": "A046-02", "conf": "media", "motivo": "febre amarela em clima tropical e políticas públicas de controle"},
-{"id": 106425, "sub": "A037-01", "conf": "media", "motivo": "DNA mitocondrial de herança materna compartilhado entre irmãos"},
-{"id": 106442, "sub": "A039-06", "conf": "media", "motivo": "diferenciação de células-tronco em terapia"},
-{"id": 107046, "sub": "A012-03", "conf": "media", "motivo": "leitura de gráfico de perda de água por atividade"},
-{"id": 107389, "sub": "A039-02", "conf": "media", "motivo": "fenótipo determinado pelo ambiente (dieta), não hereditário"},
-{"id": 107405, "sub": "A041-03", "conf": "baixa", "motivo": "sabão remove micro-organismos sem matá-los"},
-{"id": 107452, "sub": "A039-01", "conf": "media", "motivo": "aconselhamento genético para doença autossômica dominante"},
-{"id": 107687, "sub": "A041-03", "conf": "media", "motivo": "detecção de infecção bacteriana para acompanhar tratamento"},
-{"id": 108340, "sub": "A047-01", "conf": "baixa", "motivo": "microrganismos associados que permitem cultivo em locais quentes"},
-{"id": 108425, "sub": "A046-02", "conf": "media", "motivo": "leitura de mapa de vacinação contra febre amarela"},
-{"id": 108865, "sub": "A036-05", "conf": "media", "motivo": "tamanho do genoma não determina complexidade"},
-{"id": 110607, "sub": "A038-03", "conf": "media", "motivo": "diferenciação celular por expressão gênica diferenciada"},
-{"id": 110874, "sub": "A041-03", "conf": "media", "motivo": "probióticos competem com bactérias patogênicas"},
-{"id": 111526, "sub": "A039-06", "conf": "media", "motivo": "propagação vegetativa (clonagem) gera plantios uniformes"},
-{"id": 111694, "sub": "A044-01", "conf": "media", "motivo": "compostos lipossolúveis se acumulam nos adipócitos"},
-{"id": 111710, "sub": "A043-02", "conf": "media", "motivo": "adaptação arborícola (cauda preênsil) de primatas"},
-{"id": 111879, "sub": "A046-02", "conf": "baixa", "motivo": "urbanização e aumento de arboviroses pela redução de predadores"},
-{"id": 111917, "sub": "A047-03", "conf": "media", "motivo": "adubação verde e ciclagem de nutrientes (nitrogênio)"},
-{"id": 112111, "sub": "A038-01", "conf": "alta", "motivo": "plantas respiram e liberam CO2 dia e noite"},
-{"id": 112132, "sub": "A042-01", "conf": "media", "motivo": "ausência de sementes afeta dispersão de angiospermas"},
-{"id": 112419, "sub": "A043-01", "conf": "media", "motivo": "hormônio juvenil impede metamorfose e maturação do inseto"},
-{"id": 113520, "sub": "A041-01", "conf": "media", "motivo": "nomenclatura binomial para contar espécies e gêneros"},
-{"id": 113523, "sub": "A041-03", "conf": "media", "motivo": "divisão binária bacteriana gera clones"},
-{"id": 113778, "sub": "A047-01", "conf": "media", "motivo": "relação benéfica de bactérias que destoxificam arsênio"},
-{"id": 113914, "sub": "A039-06", "conf": "alta", "motivo": "biotecnologia: clonagem terapêutica de tecidos"},
-{"id": 113942, "sub": "A047-07", "conf": "media", "motivo": "aquecimento oceânico e elevação do nível do mar"},
-{"id": 114733, "sub": "A046-02", "conf": "baixa", "motivo": "doenças tropicais e mortalidade associada"},
-{"id": 115078, "sub": "A040-02", "conf": "media", "motivo": "microfósseis como indicadores de camadas geológicas petrolíferas"},
-{"id": 115116, "sub": "A046-02", "conf": "baixa", "motivo": "identificar doença profissional segundo a lei"},
-{"id": 115257, "sub": "A042-02", "conf": "media", "motivo": "adaptações vegetais à seca (folhas modificadas)"},
-{"id": 115766, "sub": "A045-03", "conf": "media", "motivo": "termorregulação por vasos da pele e sudorese"},
-{"id": 115866, "sub": "A038-01", "conf": "media", "motivo": "fermentação por leveduras e decomposição do bicarbonato"},
-{"id": 116245, "sub": "A046-02", "conf": "media", "motivo": "fatores ambientais na expansão da dengue"},
-{"id": 116386, "sub": "A036-02", "conf": "baixa", "motivo": "identificação de nutrientes em alimentos"},
-{"id": 116391, "sub": "A037-04", "conf": "media", "motivo": "variabilidade na reprodução assexuada e sexuada"},
-{"id": 116906, "sub": "A036-01", "conf": "alta", "motivo": "funções dos sais minerais no organismo"},
-{"id": 116952, "sub": "A046-02", "conf": "media", "motivo": "distúrbios alimentares, desnutrição e tratamento"},
-{"id": 117094, "sub": "A041-01", "conf": "alta", "motivo": "classificação taxonômica dos seres vivos"}
+{
+"id": 125,
+"sub": "A107-01",
+"conf": "media",
+"motivo": "leitura do balé Parade como expressão cênica e corporal que reflete inovações tecnológicas"
+},
+{
+"id": 443,
+"sub": "A104-01",
+"conf": "media",
+"motivo": "função social do teatro como diversão e expressão de valores da sociedade"
+},
+{
+"id": 7463,
+"sub": "A107-01",
+"conf": "media",
+"motivo": "percepção histórica e atual da dança em relação à religião"
+},
+{
+"id": 8661,
+"sub": "A109-02",
+"conf": "alta",
+"motivo": "influência da capoeira no surgimento do frevo pernambucano"
+},
+{
+"id": 9227,
+"sub": "A080-02",
+"conf": "baixa",
+"motivo": "identificar o conceito sociológico de multidão (agregado social de massa); texto misturado com outra questão"
+},
+{
+"id": 100143,
+"sub": "A109-01",
+"conf": "media",
+"motivo": "preconceito contra manifestações musicais populares"
+},
+{
+"id": 101646,
+"sub": "A105-01",
+"conf": "media",
+"motivo": "leitura de releitura de obra visual como estética de resistência"
+},
+{
+"id": 106337,
+"sub": "A105-01",
+"conf": "media",
+"motivo": "reconhecer a poesia visual em interferência artística urbana"
+},
+{
+"id": 106348,
+"sub": "A108-01",
+"conf": "media",
+"motivo": "uso político do teatro no Império Romano como manipulação das massas"
+},
+{
+"id": 106516,
+"sub": "A104-01",
+"conf": "media",
+"motivo": "superar visão elitista sobre a produção artística indígena"
+},
+{
+"id": 106673,
+"sub": "A108-01",
+"conf": "media",
+"motivo": "expressividade corporal de deficientes visuais em jogos dramáticos"
+},
+{
+"id": 108095,
+"sub": "A109-01",
+"conf": "media",
+"motivo": "objeto como patrimônio museológico ligado às habilidades dos sujeitos"
+},
+{
+"id": 109730,
+"sub": "A086-03",
+"conf": "media",
+"motivo": "leitura de peça publicitária visual e seu processo criativo"
+},
+{
+"id": 110167,
+"sub": "A104-02",
+"conf": "media",
+"motivo": "monumento budista Borobudur como representação de conceitos metafísicos"
+},
+{
+"id": 115922,
+"sub": "A105-01",
+"conf": "media",
+"motivo": "reconhecer pintura expressionista e suas características"
+},
+{
+"id": 118149,
+"sub": "A099-01",
+"conf": "baixa",
+"motivo": "conhecer o tema de curta-metragem indicado pelo vestibular"
+},
+{
+"id": 119697,
+"sub": "A104-01",
+"conf": "media",
+"motivo": "censura à arte baseada em critérios externos ao campo estético"
+},
+{
+"id": 120448,
+"sub": "A105-01",
+"conf": "media",
+"motivo": "leitura de obra visual sobre mão de obra negra e café"
+},
+{
+"id": 414,
+"sub": "A040-01",
+"conf": "alta",
+"motivo": "seleção natural de comportamento hereditário vantajoso"
+},
+{
+"id": 991,
+"sub": "A046-02",
+"conf": "media",
+"motivo": "impacto social de tratamento de baixo custo para doenças bucais"
+},
+{
+"id": 1998,
+"sub": "A045-09",
+"conf": "baixa",
+"motivo": "importância da reprodução para perpetuação da espécie"
+},
+{
+"id": 2529,
+"sub": "A113-01",
+"conf": "media",
+"motivo": "primeiros socorros em queimadura"
+},
+{
+"id": 3799,
+"sub": "A025-02",
+"conf": "media",
+"motivo": "volatilização dos óleos essenciais com o calor do sol"
+},
+{
+"id": 4203,
+"sub": "A039-06",
+"conf": "media",
+"motivo": "enxertia como clonagem que mantém o genótipo do híbrido"
+},
+{
+"id": 4450,
+"sub": "A041-02",
+"conf": "media",
+"motivo": "prevenção da dengue com repelentes que interferem no olfato do vetor"
+},
+{
+"id": 4551,
+"sub": "A043-01",
+"conf": "media",
+"motivo": "fototropismo/fototaxia positiva em larvas de crustáceo"
+},
+{
+"id": 5048,
+"sub": "A036-02",
+"conf": "media",
+"motivo": "fonte de carbono (glicídios) como suprimento energético celular"
+},
+{
+"id": 6960,
+"sub": "A044-01",
+"conf": "baixa",
+"motivo": "liberação de fármaco por nanocápsulas nas camadas da pele"
+},
+{
+"id": 7378,
+"sub": "A043-02",
+"conf": "media",
+"motivo": "toxina armazenada nas vísceras do peixe e manuseio seguro"
+},
+{
+"id": 8159,
+"sub": "A045-06",
+"conf": "alta",
+"motivo": "dieta pobre em carboidratos reduz secreção de insulina pelo pâncreas"
+},
+{
+"id": 8253,
+"sub": "A037-04",
+"conf": "baixa",
+"motivo": "reprodução assexuada por divisão binária"
+},
+{
+"id": 8266,
+"sub": "A036-02",
+"conf": "alta",
+"motivo": "estrutura e função dos triglicerídeos"
+},
+{
+"id": 8743,
+"sub": "A037-04",
+"conf": "baixa",
+"motivo": "tipos de reprodução assexuada: divisão binária, brotamento, esporulação"
+},
+{
+"id": 8814,
+"sub": "A043-02",
+"conf": "media",
+"motivo": "classificação e características dos mamíferos e eras geológicas"
+},
+{
+"id": 9510,
+"sub": "A040-02",
+"conf": "media",
+"motivo": "fósseis como vestígios e impacto humano nos ecossistemas"
+},
+{
+"id": 9511,
+"sub": "A040-01",
+"conf": "media",
+"motivo": "seleção natural de insetos resistentes a agrotóxicos"
+},
+{
+"id": 9514,
+"sub": "A043-01",
+"conf": "media",
+"motivo": "partenogênese e determinação de castas em abelhas"
+},
+{
+"id": 9617,
+"sub": "A037-04",
+"conf": "baixa",
+"motivo": "tipos de reprodução assexuada e seus processos"
+},
+{
+"id": 9786,
+"sub": "A036-05",
+"conf": "media",
+"motivo": "fosfato como componente de nucleotídeos e ATP"
+},
+{
+"id": 10146,
+"sub": "A046-01",
+"conf": "baixa",
+"motivo": "riscos à saúde do cigarro eletrônico"
+},
+{
+"id": 100091,
+"sub": "A046-02",
+"conf": "media",
+"motivo": "conduta de saúde pública diante de suspeita de fluorose"
+},
+{
+"id": 100104,
+"sub": "A047-07",
+"conf": "media",
+"motivo": "agricultura orgânica e conservação do solo"
+},
+{
+"id": 100116,
+"sub": "A012-03",
+"conf": "media",
+"motivo": "leitura de gráfico de experimento de seca induzida"
+},
+{
+"id": 100121,
+"sub": "A039-06",
+"conf": "media",
+"motivo": "células-tronco e capacidade de originar vários tecidos"
+},
+{
+"id": 100123,
+"sub": "A012-04",
+"conf": "media",
+"motivo": "leitura de quadro de especificações de testes de preservativos"
+},
+{
+"id": 100409,
+"sub": "A046-02",
+"conf": "baixa",
+"motivo": "padrão epidemiológico indica transmissão pelo ar"
+},
+{
+"id": 100729,
+"sub": "A046-02",
+"conf": "baixa",
+"motivo": "análise geográfica de epidemia de ebola na África"
+},
+{
+"id": 100743,
+"sub": "A074-02",
+"conf": "baixa",
+"motivo": "mistanásia e fome como questão bioética"
+},
+{
+"id": 101049,
+"sub": "A039-06",
+"conf": "media",
+"motivo": "interpretação de experimento com células-tronco e exercício"
+},
+{
+"id": 101109,
+"sub": "A045-07",
+"conf": "media",
+"motivo": "fatores (pH e cálcio) na contração do músculo cardíaco"
+},
+{
+"id": 101273,
+"sub": "A047-07",
+"conf": "media",
+"motivo": "interferência humana na dinâmica dos ambientes naturais"
+},
+{
+"id": 101352,
+"sub": "A047-07",
+"conf": "media",
+"motivo": "relação entre vegetação, nascentes e saúde ambiental"
+},
+{
+"id": 101355,
+"sub": "A040-02",
+"conf": "media",
+"motivo": "análise de dados de fósseis na evolução humana"
+},
+{
+"id": 101894,
+"sub": "A041-05",
+"conf": "baixa",
+"motivo": "interpretação de resultados de tolerância de leveduras extremófilas"
+},
+{
+"id": 102646,
+"sub": "A047-04",
+"conf": "media",
+"motivo": "curva de sobrevivência de população humana"
+},
+{
+"id": 103814,
+"sub": "A012-03",
+"conf": "media",
+"motivo": "leitura de gráfico de perda de água por atividade"
+},
+{
+"id": 104154,
+"sub": "A039-06",
+"conf": "media",
+"motivo": "conceito de genoma e sequenciamento de espécies eucarióticas"
+},
+{
+"id": 105124,
+"sub": "A036-01",
+"conf": "alta",
+"motivo": "açúcar não refinado fornece sais minerais e vitaminas"
+},
+{
+"id": 105131,
+"sub": "A039-02",
+"conf": "media",
+"motivo": "expressão gênica influenciada pelo meio"
+},
+{
+"id": 105686,
+"sub": "A039-06",
+"conf": "media",
+"motivo": "farmacogenética para escolher medicamento adequado"
+},
+{
+"id": 106378,
+"sub": "A046-02",
+"conf": "media",
+"motivo": "febre amarela em clima tropical e políticas públicas de controle"
+},
+{
+"id": 106425,
+"sub": "A037-01",
+"conf": "media",
+"motivo": "DNA mitocondrial de herança materna compartilhado entre irmãos"
+},
+{
+"id": 106442,
+"sub": "A039-06",
+"conf": "media",
+"motivo": "diferenciação de células-tronco em terapia"
+},
+{
+"id": 107046,
+"sub": "A012-03",
+"conf": "media",
+"motivo": "leitura de gráfico de perda de água por atividade"
+},
+{
+"id": 107389,
+"sub": "A039-02",
+"conf": "media",
+"motivo": "fenótipo determinado pelo ambiente (dieta), não hereditário"
+},
+{
+"id": 107405,
+"sub": "A041-03",
+"conf": "baixa",
+"motivo": "sabão remove micro-organismos sem matá-los"
+},
+{
+"id": 107452,
+"sub": "A039-01",
+"conf": "media",
+"motivo": "aconselhamento genético para doença autossômica dominante"
+},
+{
+"id": 107687,
+"sub": "A041-03",
+"conf": "media",
+"motivo": "detecção de infecção bacteriana para acompanhar tratamento"
+},
+{
+"id": 108340,
+"sub": "A047-01",
+"conf": "baixa",
+"motivo": "microrganismos associados que permitem cultivo em locais quentes"
+},
+{
+"id": 108425,
+"sub": "A046-02",
+"conf": "media",
+"motivo": "leitura de mapa de vacinação contra febre amarela"
+},
+{
+"id": 108865,
+"sub": "A036-05",
+"conf": "media",
+"motivo": "tamanho do genoma não determina complexidade"
+},
+{
+"id": 110607,
+"sub": "A038-03",
+"conf": "media",
+"motivo": "diferenciação celular por expressão gênica diferenciada"
+},
+{
+"id": 110874,
+"sub": "A041-03",
+"conf": "media",
+"motivo": "probióticos competem com bactérias patogênicas"
+},
+{
+"id": 111526,
+"sub": "A039-06",
+"conf": "media",
+"motivo": "propagação vegetativa (clonagem) gera plantios uniformes"
+},
+{
+"id": 111694,
+"sub": "A044-01",
+"conf": "media",
+"motivo": "compostos lipossolúveis se acumulam nos adipócitos"
+},
+{
+"id": 111710,
+"sub": "A043-02",
+"conf": "media",
+"motivo": "adaptação arborícola (cauda preênsil) de primatas"
+},
+{
+"id": 111879,
+"sub": "A046-02",
+"conf": "baixa",
+"motivo": "urbanização e aumento de arboviroses pela redução de predadores"
+},
+{
+"id": 111917,
+"sub": "A047-03",
+"conf": "media",
+"motivo": "adubação verde e ciclagem de nutrientes (nitrogênio)"
+},
+{
+"id": 112111,
+"sub": "A038-01",
+"conf": "alta",
+"motivo": "plantas respiram e liberam CO2 dia e noite"
+},
+{
+"id": 112132,
+"sub": "A042-01",
+"conf": "media",
+"motivo": "ausência de sementes afeta dispersão de angiospermas"
+},
+{
+"id": 112419,
+"sub": "A043-01",
+"conf": "media",
+"motivo": "hormônio juvenil impede metamorfose e maturação do inseto"
+},
+{
+"id": 113520,
+"sub": "A041-01",
+"conf": "media",
+"motivo": "nomenclatura binomial para contar espécies e gêneros"
+},
+{
+"id": 113523,
+"sub": "A041-03",
+"conf": "media",
+"motivo": "divisão binária bacteriana gera clones"
+},
+{
+"id": 113778,
+"sub": "A047-01",
+"conf": "media",
+"motivo": "relação benéfica de bactérias que destoxificam arsênio"
+},
+{
+"id": 113914,
+"sub": "A039-06",
+"conf": "alta",
+"motivo": "biotecnologia: clonagem terapêutica de tecidos"
+},
+{
+"id": 113942,
+"sub": "A047-07",
+"conf": "media",
+"motivo": "aquecimento oceânico e elevação do nível do mar"
+},
+{
+"id": 114733,
+"sub": "A046-02",
+"conf": "baixa",
+"motivo": "doenças tropicais e mortalidade associada"
+},
+{
+"id": 115078,
+"sub": "A040-02",
+"conf": "media",
+"motivo": "microfósseis como indicadores de camadas geológicas petrolíferas"
+},
+{
+"id": 115116,
+"sub": "A046-02",
+"conf": "baixa",
+"motivo": "identificar doença profissional segundo a lei"
+},
+{
+"id": 115257,
+"sub": "A042-02",
+"conf": "media",
+"motivo": "adaptações vegetais à seca (folhas modificadas)"
+},
+{
+"id": 115766,
+"sub": "A045-03",
+"conf": "media",
+"motivo": "termorregulação por vasos da pele e sudorese"
+},
+{
+"id": 115866,
+"sub": "A038-01",
+"conf": "media",
+"motivo": "fermentação por leveduras e decomposição do bicarbonato"
+},
+{
+"id": 116245,
+"sub": "A046-02",
+"conf": "media",
+"motivo": "fatores ambientais na expansão da dengue"
+},
+{
+"id": 116386,
+"sub": "A036-02",
+"conf": "baixa",
+"motivo": "identificação de nutrientes em alimentos"
+},
+{
+"id": 116391,
+"sub": "A037-04",
+"conf": "media",
+"motivo": "variabilidade na reprodução assexuada e sexuada"
+},
+{
+"id": 116906,
+"sub": "A036-01",
+"conf": "alta",
+"motivo": "funções dos sais minerais no organismo"
+},
+{
+"id": 116952,
+"sub": "A046-02",
+"conf": "media",
+"motivo": "distúrbios alimentares, desnutrição e tratamento"
+},
+{
+"id": 117094,
+"sub": "A041-01",
+"conf": "alta",
+"motivo": "classificação taxonômica dos seres vivos"
+},
+{
+"id": 8921,
+"sub": "A104-02",
+"conf": "media",
+"motivo": "obra de Wagner (arte total, nacionalismo, mitologia alemã) — história da música/arte no Romantismo (revisão feita pelo Claude)"
+},
+{
+"id": 101325,
+"sub": "A085-01",
+"conf": "media",
+"motivo": "compreensão do texto jornalístico: o que o estudo conclui (revisão feita pelo Claude)"
+}
 ]
