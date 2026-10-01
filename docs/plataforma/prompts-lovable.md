@@ -25,7 +25,7 @@
 > **2. `question-bank-sync`**: ler também do JSON os campos `fontes`, `apos_alternativas`, `vestibular`, `edicao`, `dia`,
 > `formato` e `origem_texto` e gravar nas colunas novas. Se o JSON trouxer `area_codigo`, `materia_codigo`,
 > `assunto_codigo` ou `subassunto_codigo`, usar esses códigos direto (sem a busca por nome). Se o `gabarito` vier
-> como `"anulada"`, gravar `status = 'anulada'` (fora das listas).
+> como `"anulada"`, gravar `anulada = true` (coluna nova `anulada boolean default false`); a questão continua publicada.
 >
 > **3. `QuestaoCard.tsx`**: mostrar enunciado, alternativas e `apos_alternativas` com formatação:
 > * parágrafos separados por linha em branco; `**negrito**`, `*itálico*`, `<sup>`, `<sub>`, `<u>`, `<br>`;
@@ -45,7 +45,9 @@
 > 1. Questão sem comentário (`explicacao_correta_texto` vazio e `passos_raciocinio` vazio): depois de responder,
 >    mostrar só o gabarito ("Gabarito: C") e a frase "Comentário em produção". Esconder as abas vazias e os flashcards.
 > 2. No filtro de criar lista, opção "Só questões comentadas" (desmarcada por padrão).
-> 3. Questões com `status = 'anulada'` nunca entram em listas.
+> 3. Questão anulada (`anulada = true`) entra normalmente nas listas. Quando o aluno marcar uma alternativa, em vez do
+>    gabarito mostrar "Questão anulada pela banca — todas as alternativas são consideradas". Não conta como acerto nem
+>    como erro em estatísticas, desempenho e diagnóstico. Se tiver comentário, ele aparece normalmente.
 
 ## Prompt 4 — Imagens no Storage (Fase 4, antes da carga)
 

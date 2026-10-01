@@ -119,13 +119,13 @@ saida = []
 for qid in ordem:
     if qid not in ids_novos: ids_novos[qid] = prox; prox += 1
     q = novas[qid]; c = CAT[qid.split("-")[0]]; nid = ids_novos[qid]
-    if q.get("anulada") or not q.get("gabarito"): continue
+    if not (q.get("anulada") or q.get("gabarito")): continue    # anulada entra (decisao do Matheus, 01/10): a tela avisa que foi anulada
     texto, alts, apos, fontes, imgs = monta(q, str(nid))
     saida.append({"id": nid, "exam": c["vestibular"], "prova": c["arquivo"], "ano": str(c["ano"] or ""),
                   "number": q["id"].split("-", 1)[1].lstrip("Q").lstrip("0") or "0", "subject": "",
                   "tema_n1": "", "tema_n2": "", "tema_n3": "", "tema_n4": "",
                   "statement": texto, "fontes": fontes, "alternativas": alts, "apos_alternativas": apos,
-                  "gabarito": q["gabarito"], "tem_imagem": "sim" if imgs else "nao", "imagens": imgs, "url": "",
+                  "gabarito": "anulada" if q.get("anulada") else q["gabarito"], "tem_imagem": "sim" if imgs else "nao", "imagens": imgs, "url": "",
                   "vestibular": c["vestibular"], "edicao": c.get("edicao") or "", "dia": c.get("dia") or "", "formato": "objetiva",
                   "area_prova": q.get("area") or "", "idioma": q.get("idioma"), "origem_texto": qid,
                   "passos_raciocinio": [], "analise_correta_titulo": "", "analise_correta_texto": "", "analise_incorretas_intro": "",
