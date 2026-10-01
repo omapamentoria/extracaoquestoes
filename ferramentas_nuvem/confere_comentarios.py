@@ -9,7 +9,7 @@ CAMPOS = ("passos_raciocinio", "analise_correta_titulo", "analise_correta_texto"
 TAGS = {"Fato", "Conceito", "Pegadinha", "Interpretação", "Vocabulário", "Fórmula"}
 STATUS_REV = {"discordo", "sem_imagem", "incompleta"}
 # "gabarito B", "alternativa correta é a C", "resposta: D", "letra E"
-RESP = re.compile(r"(?i)(?:gabarito|resposta(?: correta)?|alternativa correta|letra)\s*(?:é|e|:)?\s*(?:a\s+)?(?:letra\s+)?\(?([A-E])\)?(?![\wÀ-ÿ])")
+RESP = re.compile(r"(?:[Gg]abarito|[Rr]esposta(?: correta)?|[Aa]lternativa correta|[Ll]etra)\s*(?:é|e|:)?\s*(?:a\s+)?(?:letra\s+)?\(?([A-E])\)?(?![\wÀ-ÿ])")   # letra maiuscula: "a resposta é a soma" nao conta
 
 
 def textos(c):
@@ -52,7 +52,7 @@ def erros_de(q, c):
     if re.search(r"\*\*|^#|\$\$|\\\(|\\frac|\\sqrt", j, re.M): e.append("Markdown ou LaTeX no texto")
     # nenhuma frase pode apontar outra letra como resposta (fora a analise das incorretas, que fala delas)
     for t in [c["analise_correta_titulo"], c["analise_correta_texto"], c["leve_para_prova"], *c["passos_raciocinio"]]:
-        outras = {m for m in RESP.findall(t) if m.upper() != q["gabarito"]}
+        outras = {m for m in RESP.findall(t) if m != q["gabarito"]}
         if outras: e.append(f"texto aponta {sorted(outras)} como resposta (gabarito {q['gabarito']})"); break
     return e
 

@@ -55,6 +55,9 @@ for r in RAIZES:
         tb_alerta = {t["id"] for t in json.load(open(_tb, encoding="utf-8")) if t.get("alertas")} if os.path.exists(_tb) else set()
         for q in json.load(open(f, encoding="utf-8")):
             if set(q.get("textos_base_ids") or []) & tb_alerta: continue
+            # texto com palavras grudadas (PDF sem espacos): nao e copia fiel -> fica para correcao
+            _t = re.sub(r"\{\{[^}]+\}\}|https?://\S+|\S+@\S+|\\\(.*?\\\)", "", q["enunciado"] + " " + " ".join(a["texto"] for a in q["alternativas"]))
+            if re.search(r"[A-Za-zÀ-ÿ]{28,}", _t): continue
             if q.get("formato") == "discursiva" or q.get("alertas") or not (q.get("gabarito") or q.get("anulada")) or len(q["alternativas"]) < 4:
                 continue
             w = palavras(q["enunciado"] + " " + " ".join(a["texto"] for a in q["alternativas"]))
