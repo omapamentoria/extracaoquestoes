@@ -234921,5 +234921,41 @@
 "conf": "media",
 "fonte_sub": "Claude (anulada)",
 "fonte_area": "classificação"
+},
+"121560": {
+"area_codigo": "humanas",
+"materia_codigo": "historia",
+"assunto_codigo": "A051",
+"subassunto_codigo": "A051-02",
+"conf": "media",
+"fonte_sub": "Claude",
+"fonte_area": "classificação"
+},
+"121561": {
+"area_codigo": "linguagens",
+"materia_codigo": "portugues",
+"assunto_codigo": "A088",
+"subassunto_codigo": "A088-04",
+"conf": "media",
+"fonte_sub": "Claude",
+"fonte_area": "classificação"
+},
+"121562": {
+"area_codigo": "humanas",
+"materia_codigo": "sociologia",
+"assunto_codigo": "A079",
+"subassunto_codigo": "A079-01",
+"conf": "media",
+"fonte_sub": "Claude",
+"fonte_area": "classificação"
+},
+"121563": {
+"area_codigo": "linguagens",
+"materia_codigo": "portugues",
+"assunto_codigo": "A088",
+"subassunto_codigo": "A088-04",
+"conf": "media",
+"fonte_sub": "Claude",
+"fonte_area": "classificação"
 }
 }

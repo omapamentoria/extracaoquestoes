@@ -80,9 +80,11 @@ def monta(q, prefixo):
 
 # 2. questoes antigas: atualiza dentro do mesmo arquivo de parte
 dec = {p["antiga"]: p for p in pares}
+ORIG = {o["id"]: o for o in json.load(open(os.path.join(DEST, "final", "banco_mapa_final.json"), encoding="utf-8"))}   # banco antigo intacto
 _rf = os.path.join(DEST, "final", "comentarios_a_refazer.json")
 refazer = json.load(open(_rf, encoding="utf-8")) if os.path.exists(_rf) else {}   # rodar de novo nao apaga os ja retirados
 n_coment = 0
+n_restauradas = 0
 n_trocadas = 0
 arqs_partes = sorted(glob.glob(os.path.join(DEST, "final", "partes", "banco_parte_*.json")))
 antigos = [a for a in arqs_partes if int(re.search(r"(\d+)\.json$", a).group(1)) <= 6]
@@ -92,6 +94,12 @@ for arq in antigos:
         if not o.get("analise_correta_texto") and comentario(o["id"], o.get("gabarito")):
             o.update(comentario(o["id"], o.get("gabarito"))); n_coment += 1
         p = dec.get(o["id"])
+        if (not p or p["decisao"] != "nova") and o.get("origem_texto") and o["id"] in ORIG:
+            # a decisao voltou para a antiga (ex.: extracao nova saiu da carga): restaura o texto e as imagens antigos
+            a = ORIG[o["id"]]
+            for k in ("statement", "alternativas", "imagens", "tem_imagem"): o[k] = a.get(k)
+            for k in ("apos_alternativas", "fontes", "formato", "origem_texto"): o.pop(k, None)
+            n_restauradas += 1
         if not p or p["decisao"] != "nova": continue
         q = novas[p["nova"]]
         texto, alts, apos, fontes, imgs = monta(q, f"{o['id']}_n")
@@ -137,5 +145,5 @@ for a in arqs_partes:
 for k in range(0, len(saida), 1000):
     json.dump(saida[k:k + 1000], open(os.path.join(DEST, "final", "partes", f"banco_parte_{7 + k // 1000:02d}.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=0)
-print(f"antigas com texto novo: {n_trocadas}; comentários a refazer: {len(refazer)}; comentários do Gemini: {n_coment}; novas: {len(saida)}; "
+print(f"antigas restauradas: {n_restauradas}; antigas com texto novo: {n_trocadas}; comentários a refazer: {len(refazer)}; comentários do Gemini: {n_coment}; novas: {len(saida)}; "
       f"partes novas: {(len(saida) + 999) // 1000}; imagens em imagens/: {len(os.listdir(IMG_DIR))}")
