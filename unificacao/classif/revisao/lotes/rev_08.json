@@ -1,0 +1,1602 @@
+[
+{
+"id": 104646,
+"vest": "ENEM",
+"ano": "2019",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Os alunos de uma turma escolar foram divididos em dois grupos. Um grupo jogaria basquete, enquanto o outro jogaria futebol. Sabe-se que o grupo de basquete é formado pelos alunos mais altos da classe e tem uma pessoa a mais do que o grupo de futebol. A tabela seguinte apresenta informações sobre as alturas dos alunos da turma. [figura] Os alunos P, J, F e M medem, respectivamente, 1,65 m, 1,66 m, 1,67 m e 1,68 m, e as suas alturas não são iguais a de nenhum outro colega da sala. Segundo essas informações, argumenta-se que os alunos P, J, F e M jogaram, respectivamente,",
+"alternativas": [
+"A) basquete, basquete, basquete, basquete.",
+"B) futebol, basquete, basquete, basquete.",
+"C) futebol, futebol, basquete, basquete.",
+"D) futebol, futebol, futebol, basquete.",
+"E) futebol, futebol, futebol, futebol."
+],
+"gabarito": "C",
+"primeira_tentativa": "A012-01 — Estatística > Medidas de tendência central"
+},
+{
+"id": 105003,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Um brinquedo eletrônico tem três teclas nomeadas A, B e C, e um visor no qual aparece um número inteiro x. [figura] Quando se aperta a tecla A, o número do visor é substituído por (2x + 3). Quando se aperta a tecla B, o número do visor é substituído por (2x – 1). Quando se aperta a tecla C, o número do visor é substituído por x<sup>2</sup>. No visor, está o número 4, e são apertadas exatamente quatro teclas, consecutivamente, sendo a última, a tecla A. Ao se apertar a 1ª tecla, apareceu no visor um número primo; ao se apertar a 2ª tecla, apareceu no visor um número quadrado perfeito e, ao se apertar a 3ª tecla, apareceu no visor um número cuja soma dos algarismos é igual a 8. Assim, ao se apertar a última tecla, A, apareceu no visor, o número",
+"alternativas": [
+"A) 49.",
+"B) 53.",
+"C) 97.",
+"D) 109.",
+"E) 193."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 105016,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Em uma gincana, uma das tarefas consistia em retirar, de uma urna, certa quantidade de papéis e conseguir encontrar cinco nomes começados por uma mesma letra. Sabe-se que em cada papel estava escrito apenas um nome e que todos os papéis possuíam nomes diferentes. Considere que o alfabeto é formado por 26 letras distintas e que todos os nomes que estão nessa urna são compostos por combinações dessas letras. O número mínimo de papéis que um participante dessa gincana deverá retirar dessa urna, ao acaso, para ter a certeza de que serão retirados cinco nomes que começam pela mesma letra do alfabeto, é igual a",
+"alternativas": [
+"A) 55.",
+"B) 80.",
+"C) 81.",
+"D) 104.",
+"E) 105."
+],
+"gabarito": "E",
+"primeira_tentativa": "A010-01 — Análise combinatória > Princípio fundamental da contagem"
+},
+{
+"id": 105025,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Após muito tempo de uso, o celular de Eduarda foi infectado por um vírus que altera os números de telefone guardados por meio de duas situações diferentes: **X** – Escreve o número de trás para a frente. **Y** – Troca as posições do segundo e do terceiro algarismo. Por exemplo, se o vírus aplicar a operação X ao número 12345678, obtém-se 87654321 e se, em seguida, aplicar a operação Y**,** obtém-se o número 86754321. Eduarda quer ligar para Bruna a fim de convidá-la para uma festa, mas o número 43215678 foi alterado pelo vírus, usando a sequência de métodos XYXYX. Qual é o verdadeiro número do telefone da Bruna?",
+"alternativas": [
+"A) 87651234",
+"B) 86751234",
+"C) 86751324",
+"D) 43215768",
+"E) 42315768"
+],
+"gabarito": "C",
+"primeira_tentativa": "A010-02 — Análise combinatória > Permutações"
+},
+{
+"id": 105169,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Perto da casa de Raquel, há uma padaria, uma farmácia e um pequeno restaurante. Diariamente, a padaria fica aberta das 6 às 18 horas; a farmácia, das 8 às 19 horas; o restaurante, das 11 às 23 horas. O número de horas, por dia, que a padaria e a farmácia ficam abertas, simultaneamente, enquanto o restaurante está fechado é",
+"alternativas": [
+"A) 3.",
+"B) 5.",
+"C) 6.",
+"D) 8.",
+"E) 9."
+],
+"gabarito": "A",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 105175,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Na gaveta da escrivaninha do quarto de João há 5 canetas azuis e 3 canetas vermelhas. Como está escuro e a luz do seu quarto não está funcionando, ele vai passar um tempo desenhando na sala. O número mínimo de canetas que João deve pegar na escrivaninha do seu quarto para garantir pelo menos uma caneta de cada cor é igual a",
+"alternativas": [
+"A) 2.",
+"B) 3.",
+"C) 4.",
+"D) 5.",
+"E) 6."
+],
+"gabarito": "E",
+"primeira_tentativa": "A010-01 — Análise combinatória > Princípio fundamental da contagem"
+},
+{
+"id": 105177,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Em um *shopping center* de quatro andares, está sendo planejada a instalação de três novas escadas rolantes. Sabe-se que os pés-direitos (alturas) do térreo e do 3º andar são maiores do que os pés-direitos dos demais andares. Além disso, as alturas do 1º e do 2º andares são iguais. A área reservada para as escadas está ilustrada na figura. [figura] Sabendo que todas as escadas possuem a mesma inclinação em relação ao piso de cada andar, o desenho que melhor expressa o projeto de instalação dessas escadas é:",
+"alternativas": [
+"A) [figura]",
+"B) [figura]",
+"C) [figura]",
+"D) [figura]",
+"E) [figura]"
+],
+"gabarito": "B",
+"primeira_tentativa": "A006-02 — Geometria plana > Triângulos e suas propriedades"
+},
+{
+"id": 105186,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Quatro amigos, Paula, Vinícius, Marcos e Thais, alugaram salas em um prédio comercial com quatro andares, sendo uma sala por andar. Os amigos, não necessariamente nessa ordem, são formados em Engenharia, Odontologia, Advocacia e Medicina. Sabe-se que Thais vive reclamando do barulho do consultório de dentista que se localiza exatamente acima do seu andar. Paula não aceitou ter a sua sala no último andar do prédio e exigiu que a sua sala fosse a primeira acima da sala de Marcos, que é advogado, e que, por sua vez, não quis a sua sala no segundo andar do prédio. Sabendo que os pedidos quanto ao local de trabalho dos amigos foram satisfeitos e que a sala do terceiro andar é um consultório médico, o andar em que Vinícius trabalha e a sua profissão são, respectivamente",
+"alternativas": [
+"A) primeiro andar, engenheiro.",
+"B) segundo andar, dentista.",
+"C) terceiro andar, médico.",
+"D) quarto andar, engenheiro.",
+"E) quarto andar, dentista."
+],
+"gabarito": "E",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 105325,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Truco é um jogo que é praticado apenas com 40 cartas do baralho, retirando-se as cartas 8, 9 e 10, além dos coringas. No jogo, algumas cartas são mais fortes que outras, e é isso que garante a supremacia de um jogador sobre o outro com o passar das rodadas. Existe uma ordem fixa de força, obedecendo a seguinte sequência, independentemente dos naipes: 3 > 2 > A > K > J > Q > 7 > 6 > 5 > 4 As manilhas são as cartas mais poderosas do jogo. Elas são delimitadas após o “vira”, a carta que é virada no início de cada turno. Se a carta do “vira” for 5, por exemplo, a manilha será a carta que, em seguida, é a mais forte na sequência do jogo. Nesse caso, corresponderia à carta 6. Para as manilhas do truco paulista, existe uma ordem de força específica envolvendo os naipes, em caso de empate no número ou letra da carta, seguindo esta sequência: Paus > Copas > Espadas > Ouro Quatro jogadores de truco estão cada um com uma carta na mão, na final de uma etapa do jogo. As cartas dos jogadores do primeiro ao quarto, respectivamente, são Q de copas, 7 de paus, A de copas e 7 de espadas. A ordem da manilha do truco paulista, da maior para a menor carta dessa roda, é",
+"alternativas": [
+"A) A de copas > Q de copas > 7 de paus > 7 de espadas.",
+"B) A de copas > Q de copas > 7 de espadas > 7 de paus.",
+"C) 7 de espadas > 7 de paus > Q de copas > A de copas.",
+"D) 7 de paus > Q de copas > A de copas > 7 de espadas.",
+"E) 7 de paus > A de copas > Q de copas > 7 de espadas."
+],
+"gabarito": "A",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 105326,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Uma fábrica de laticínios trabalha com três tamanhos diferentes de galões para armazenar o leite, sendo essa divisão feita de acordo com a destinação de cada um: galões pequenos para o setor de iogurtes, médios para o de requeijões e grandes para o de queijos. Sabe-se que o galão médio tem dez litros de capacidade a mais que o galão pequeno e dez litros de capacidade a menos que o galão grande. Todos os dias, chega um caminhão com 14,4 m<sup>3</sup> de leite, e seu conteúdo é distribuído igualmente entre os três setores. No setor de requeijões, são abastecidos 60 galões sem que sobre leite. Tanto no setor de iogurtes quanto no setor de queijos há sobras. Esse leite que sobra, em vez de ser descartado, é utilizado no café da manhã dos funcionários. Após 30 dias, se tivesse outra aplicação, a quantidade de leite que sobrou durante o mês seria o suficiente para abastecer exatamente",
+"alternativas": [
+"A) 10 galões grandes e 15 galões médios.",
+"B) 10 galões médios e 20 galões pequenos.",
+"C) 10 galões pequenos e 20 galões grandes.",
+"D) 20 galões médios e 15 galões grandes.",
+"E) 20 galões pequenos e 10 galões médios."
+],
+"gabarito": "A",
+"primeira_tentativa": "A003-02 — Álgebra > Equações do 1º grau"
+},
+{
+"id": 105333,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Um jogo matemático em uma plataforma *online* permite o uso das operações básicas: adição, subtração, divisão e multiplicação. O jogador vence uma fase se descobrir a quantidade mínima de operações necessárias para se chegar a um número informado pelo jogo. Em uma determinada fase desse jogo, só é permitido multiplicar por dois ou adicionar uma unidade. Nessa fase, sabendo que só são usados números inteiros não negativos, qual é a quantidade mínima de operações que um jogador deve realizar a partir do número 0 para chegar ao número 2 016?",
+"alternativas": [
+"A) 12",
+"B) 13",
+"C) 14",
+"D) 15",
+"E) 16"
+],
+"gabarito": "E",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 105335,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Para manter uma rotina de exercícios físicos, uma pessoa planejou se exercitar caminhando nos dias pares de cada mês, descansando nos dias ímpares e nos domingos. Assim, para se exercitar, ela não caminhava no primeiro dia do mês, caminhava no segundo dia do mês, não caminhava no terceiro dia do mês, caminhava no quarto dia do mês, e seguia esse processo só o interrompendo se o dia da sua caminhada fosse domingo. Sabendo que o último mês se iniciou em um sábado e teve trinta dias, quantos dias essa pessoa se exercitou caminhando nesse mês?",
+"alternativas": [
+"A) 18",
+"B) 15",
+"C) 12",
+"D) 10",
+"E) 8"
+],
+"gabarito": "C",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 105336,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Miguel, Gabriel e Rafael, não necessariamente nessa ordem, são estudantes de Matemática, Engenharia e Medicina. Pensando nas idades dos três, sabe-se que o estudante de Medicina é o melhor amigo de Gabriel e, além disso, é o mais novo entre os três e que o estudante de Engenharia é mais novo que Rafael. Sendo 1, 2 e 3 a ordem respectiva do mais novo ao mais velho entre os jovens, o curso e o número atribuído à idade de Miguel é",
+"alternativas": [
+"A) Medicina e 3.",
+"B) Medicina e 1.",
+"C) Matemática e 3.",
+"D) Matemática e 1.",
+"E) Engenharia e 2"
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 105555,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS",
+"enunciado": "Em agosto de 2019, a conta do Twitter do monumento histórico da Torre de Londres lançou um jogo de perguntas em que os internautas deveriam tomar decisões sequenciadas para tentar, por meio de uma fuga bem planejada, libertar um prisioneiro. O jogo era compreendido por postagens em que cada uma poderia conter uma pergunta simples, que possuía duas respostas possíveis, ou uma mensagem de finalização informando o sucesso ou a falha da fuga. Algumas respostas levavam a postagens com uma nova pergunta, enquanto outras levavam direto às mensagens de finalização sem a necessidade de que cada uma das perguntas tivesse uma resposta correta e uma errada. No total, o desafio era composto por 47 postagens, sendo que 18 delas apenas indicavam que a missão falhou, 1 indicava que a missão foi um sucesso, e o restante exibia as perguntas a serem respondidas. A única sequência de postagens que levava ao sucesso da fuga continha 18 perguntas e 1 postagem de finalização pela execução bem-sucedida. O número de postagens com uma pergunta que, independentemente da resposta, levaria à falha da fuga é",
+"alternativas": [
+"A) 9.",
+"B) 10.",
+"C) 19.",
+"D) 28.",
+"E) 29."
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 105581,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS",
+"enunciado": "Uma marca de sabão líquido para roupas comercializa esse produto em embalagens acompanhadas de uma tampa com capacidade para 100 mL, que funciona como medidor para as lavagens. A marca aconselha que uma tampa cheia com sabão seja utilizada para cada lavagem de até 8 kg e que, para lavagens acima de 8 kg, seja utilizada uma tampa e meia. Sabe-se que, para realizar uma lavagem eficiente e econômica utilizando uma máquina de lavar, deve-se respeitar o limite de massa suportado por esta. Uma pessoa comprou esse sabão líquido e deseja lavar um conjunto de roupas que totaliza 25 kg. Ela possui uma máquina de lavar que suporta até 11 kg de roupas. Para realizar uma lavagem eficiente e econômica utilizando a menor quantidade de sabão líquido e seguindo as recomendações da marca, essa pessoa colocará, ao todo, quantos mililitros de sabão na máquina?",
+"alternativas": [
+"A) 500",
+"B) 450",
+"C) 400",
+"D) 350",
+"E) 300"
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 105715,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Para a construção de uma estrutura, um grupo de jovens empilhou blocos cúbicos sobre uma superfície e obteve a configuração indicada na figura a seguir. [figura] Ao final da construção, o grupo se reuniu e resolveu pintar toda a estrutura, exceto a parte em contato com a superfície, com a condição de que os blocos empilhados não fossem movimentados. O número de blocos que, após a pintura, apresentarão exatamente quatro faces pintadas é",
+"alternativas": [
+"A) 1.",
+"B) 2.",
+"C) 4.",
+"D) 5.",
+"E) 9."
+],
+"gabarito": "C",
+"primeira_tentativa": "A007-01 — Geometria espacial > Conceitos e poliedros"
+},
+{
+"id": 106089,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "[figura] Um aplicativo de celular utilizado por corredores é capaz de calcular a velocidade de um atleta durante a prática do exercício e de compará-la com a de outros atletas conectados. Dois corredores que utilizam o aplicativo correm numa pista circular com velocidades constantes. Seguindo em direções opostas, encontram-se de 20 em 20 segundos e, correndo na mesma direção, um dos atletas alcança o outro a cada 250 segundos. Considerando que a pista tem 200 metros, os valores apresentados pelo aplicativo, em metro por segundo, associados à velocidade de cada corredor são",
+"alternativas": [
+"A) 0,1 e 0,9.",
+"B) 4,6 e 5,4.",
+"C) 5,0 e 5,0.",
+"D) 9,6 e 10,4.",
+"E) 23,0 e 27,0."
+],
+"gabarito": "B",
+"primeira_tentativa": "A003-05 — Álgebra > Sistemas de equações e sistemas lineares"
+},
+{
+"id": 106301,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "[figura] Após o período de chuvas ter causado diversas enchentes, a prefeitura de uma cidade decidiu transformá-la em uma cidade-esponja. Esse conceito se baseia em desenvolver a capacidade de drenagem de água de um centro urbano a partir de uma série de recursos. Os recursos selecionados pela prefeitura foram: parques alagáveis, calçamentos permeáveis e praças-piscina. Após a avaliação inicial, a prefeitura publicou um relatório sobre os recursos selecionados contendo as áreas disponíveis, o custo de implementação, a capacidade de drenagem e o valor agregado estimado por área construída. [figura] A prefeitura decidiu priorizar o investimento de Valor Real (Vr) e implementá-lo em sua totalidade, ou seja, utilizando por completo a área disponível para ele. Essa variável é calculada da seguinte forma: Vr 5 \\(\\frac{Ci\\,2\\,Va}{D}\\) Sendo Vr (Valor Real), Ci (Custo de Implementação/km<sup>2</sup>), Va (Valor Agregado/km<sup>2</sup>) e D (Capacidade Drenagem/km<sup>2</sup>). O valor investido pela prefeitura para implementar o recurso de menor Valor Real será de, aproximadamente,",
+"alternativas": [
+"A) R$ 400 000,00.",
+"B) R$ 26 400 000,00.",
+"C) R$ 200 000 000,00.",
+"D) R$ 264 000 000,00.",
+"E) R$ 288 000 000,00."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 106323,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Em um experimento no laboratório de Matemática, o professor solicita a um grupo de alunos que desenhe uma elipse. Para isso, o professor disponibiliza duas tachinhas, um barbante de tamanho específico, papel, caneta e régua. De posse desses objetos, primeiramente o grupo fixa as duas tachinhas sobre uma mesma reta horizontal no papel, a uma distância de 8,0 cm (medida com a régua) um do outro, amarrando cada uma das pontas do barbante em uma delas. Em seguida, a caneta é empregada para esticar o barbante e fazer o traçado da elipse no papel. Depois disso, usando novamente a régua, são medidas as distâncias dos pontos em que ambas as tachinhas se encontram (F<sub>1</sub> e F<sub>2</sub>) até um ponto P da elipse, obtendo-se 6,5 cm e 3,5 cm, respectivamente. Por fim, o professor pede ao grupo que também desenhe um retângulo ABCD circunscrito à elipse e tocando-a nos seus pontos extremos, conforme a situação representada a seguir: [figura] No caso, a área do retângulo ABCD mede",
+"alternativas": [
+"A) 60,0 cm<sup>2</sup>.",
+"B) 52,0 cm<sup>2</sup>.",
+"C) 40,0 cm<sup>2</sup>.",
+"D) 28,0 cm<sup>2</sup>.",
+"E) 14,0 cm<sup>2</sup>."
+],
+"gabarito": "A",
+"primeira_tentativa": "A009-01 — Geometria analítica > Ponto, reta e distâncias"
+},
+{
+"id": 106496,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Roboto é um jogo de tabuleiro cujo objetivo é fazer a personagem pegar a chave com o menor número de movimentos possível. A personagem pode girar 90º para a esquerda ou para a direita e andar para frente, porém, uma vez iniciado esse movimento, não pode mais parar nem mudar de direção até encontrar o limite do tabuleiro ou uma parede. Os movimentos são realizados dentro dos quadradinhos do tabuleiro. Uma partida de Roboto se inicia nas configurações da imagem a seguir. [figura] Para alcançar a chave com o menor número de movimentos possível, a personagem deve",
+"alternativas": [
+"A) andar, girar 90º para a esquerda e andar.",
+"B) girar 90º para a esquerda, andar, girar 90º para a direita e andar.",
+"C) andar, girar 90º para a direita, andar, girar 90º para a direita, andar, girar 90º para a direita e andar.",
+"D) andar, girar 90º para a direita, andar, girar 90º para a direita, andar, girar 90º para a esquerda e andar.",
+"E) andar, girar 90º para a esquerda, andar, girar 90º para a esquerda, andar, girar 90º para a esquerda e andar."
+],
+"gabarito": "C",
+"primeira_tentativa": "A012-05 — Estatística > Fluxogramas e simulações"
+},
+{
+"id": 106628,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Júlio mora em determinado bairro de uma cidade. Em um fim de semana, ele saiu de casa para se exercitar, quando encontrou uma pessoa que lhe pediu uma informação. Ela queria saber, naquele bairro, onde encontraria uma padaria mais próxima. Júlio, com base na rosa dos ventos, respondeu: “Caminhando na direção norte, você vai ver uma esquina, então vire no sentido leste e caminhe mais um pouco, daí encontrará uma rotatória onde tem uma grande árvore plantada, caminhe no sentido norte e, em seguida, ao leste, ande mais um pouco e chegará à padaria”. A figura mostra a representação do mapa de algumas ruas desse bairro. [figura] Conforme a orientação dada por Júlio, a pessoa que pediu essa informação estava em qual ponto assinalado no mapa?",
+"alternativas": [
+"A) P",
+"B) Q",
+"C) R",
+"D) S",
+"E) T"
+],
+"gabarito": "C",
+"primeira_tentativa": "A006-01 — Geometria plana > Conceitos, ângulos e retas"
+},
+{
+"id": 106800,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Uma fábrica tem um reservatório principal, de formato cúbico, que armazena certo tipo de líquido. No fundo desse reservatório, há um cano de escoamento fechado por uma válvula que, quando aberta, permite que o líquido escoe para encher um reservatório secundário. Certo dia, uma mangueira foi ligada ao reservatório principal, que estava inicialmente vazio, para enchê-lo com o líquido. Às 12h35min, a torneira ligada à mangueira foi aberta, com vazão constante, e o nível do líquido no reservatório alcançou 90 cm de altura às 13h50min. Nesse instante, a válvula do cano de escoamento foi aberta, e o líquido começou a escoar, também com vazão constante, para o reservatório secundário. Às 14h40min, a torneira ligada à mangueira foi desligada, e, nesse exato momento, o nível do líquido no reservatório principal era de 60 cm. Sabendo que a válvula do cano de escoamento continuou aberta, o líquido no reservatório principal terminou de escoar completamente em um horário entre",
+"alternativas": [
+"A) 14h40min e 15h20min.",
+"B) 15h20min e 15h40min.",
+"C) 15h40min e 16h10min.",
+"D) 16h10min e 16h30min.",
+"E) 16h30min e 17h10min."
+],
+"gabarito": "A",
+"primeira_tentativa": "A004-03 — Funções > Função afim (1º grau)"
+},
+{
+"id": 106822,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Um recipiente isolado contém certa quantidade de um líquido cuja temperatura de ebulição é de 50 °C. O recipiente, que estava inicialmente à temperatura de 20 °C, foi aquecido durante certo período, fazendo com que o líquido em seu interior sofresse algumas alterações controladas de estado físico. O gráfico mostra a variação de temperatura no interior do recipiente em função do tempo. [figura] Nesse período, durante quantos minutos a temperatura no interior do recipiente esteve acima da temperatura de ebulição do líquido?",
+"alternativas": [
+"A) 4",
+"B) 8",
+"C) 12",
+"D) 16",
+"E) 20"
+],
+"gabarito": "C",
+"primeira_tentativa": "A012-03 — Estatística > Leitura e interpretação de gráficos"
+},
+{
+"id": 107191,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Antônio, Bernardo e César são amigos e jogam futebol no mesmo time. Um deles veste o tamanho P do uniforme, um veste o tamanho M e o outro veste o tamanho G. No início do ano, houve a troca do uniforme nesse time e a filha de César ficou responsável por pegar o uniforme do pai e dos amigos dele, porém não havia sobrenome nas etiquetas dos uniformes, havendo mais de um jogador com os nomes dos amigos. Assim, ela fez as seguintes afirmações para o responsável pela entrega dos uniformes: • Antônio veste tamanho M; • César não veste tamanho M; • Bernardo não veste tamanho G; • Bernardo e César não vestem tamanho P. Sabendo que a filha de César errou o tamanho do uniforme de Antônio e acertou os tamanhos dos uniformes de seu pai e de Bernardo, então",
+"alternativas": [
+"A) César veste tamanho P.",
+"B) César veste tamanho M.",
+"C) Antônio veste tamanho G.",
+"D) Bernardo veste tamanho M.",
+"E) Bernardo veste tamanho G."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 107192,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "No sistema de segurança de uma casa, o dispositivo em que o usuário insere a senha que aciona ou desliga o sistema pode ser visto na imagem a seguir. [figura] Ao criar a senha a ser utilizada nesse dispositivo, o usuário deve informar um código de quatro dígitos, considerando a configuração do dispositivo, em que deve ser digitado inicialmente um número de 0 a 9 e, para os demais dígitos, as letras X ou Y. Quando se aperta a tecla X, o número no visor é substituído pelo seu triplo, e quando se aperta a tecla Y, o número no visor é substituído por seu quadrado. Assim, por exemplo, a senha que possui código 3XYX é 243, pois após digitar 3 o usuário digitou X, então apareceu 9 no visor, em seguida ele digitou Y, logo apareceu 81 no visor e, finalmente, ele digitou X, aparecendo 243 no visor. Uma pessoa codificou sua senha para que ela seja o menor número de três algarismos que se pode obter ao iniciar o código digitando o número 2 nesse dispositivo de segurança. A senha dessa pessoa é",
+"alternativas": [
+"A) 108.",
+"B) 144.",
+"C) 162.",
+"D) 216.",
+"E) 256."
+],
+"gabarito": "A",
+"primeira_tentativa": "A001-03 — Matemática básica > Potenciação e radiciação"
+},
+{
+"id": 107194,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "A supervisora de Marisa pediu que a funcionária comunicasse a um colega de trabalho, Reginaldo, que ele precisará trabalhar no final de semana. Após conversar com Reginaldo, Marisa voltou à sala da supervisora e contou que ele havia dito que trabalhará no final de semana e não chegará atrasado. No momento em que Marisa dizia essas palavras, Reginaldo passou na porta da sala e se manifestou negando a afirmação de Marisa. Considerando a resposta de Reginaldo, Marisa deveria ter falado à supervisora que ele",
+"alternativas": [
+"A) trabalhará no final de semana, mas chegará atrasado.",
+"B) não trabalhará no final de semana ou chegará atrasado.",
+"C) trabalhará no final de semana, pois não chegará atrasado.",
+"D) não trabalhará no final de semana, visto que chegará atrasado.",
+"E) não trabalhará no final de semana, por isso não chegará atrasado."
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 107195,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Para a produção de dois tipos de refrigerante em uma fábrica, um tanque de água é esvaziado com uma vazão de 2 L por hora e o volume retirado é recolhido em recipientes A de 1 L de capacidade. Após uma hora, a vazão de saída de água é alterada para 600 mL por hora e o volume de água que sai do tanque é recolhido em recipientes B de 1,5 L de capacidade. Essas duas vazões no tanque de água são alternadas de hora em hora, sendo os recipientes A usados em sua capacidade máxima para recolher a água na vazão de 2 L por hora, e os recipientes B usados em sua capacidade máxima para recolher a água do tanque na vazão de 600 mL por hora. Em um intervalo de 10 horas, a quantidade de recipientes A que são usados a mais do que a quantidade de recipientes B é",
+"alternativas": [
+"A) 25.",
+"B) 13.",
+"C) 10.",
+"D) 8.",
+"E) 2."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 107198,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Uma empresa responsável por cinco usinas termelétricas, A, B, C, D e E, solicitou um relatório comparativo das produções energéticas dessas usinas para distribuir os investimentos de acordo com essas produções. Com base no relatório recebido, um dos funcionários fez as seguintes afirmações corretas sobre as produções energéticas das usinas: • A produção energética da usina E é menor do que a da usina B. • A quantidade de energia produzida pela usina B é inferior à produzida pela usina A. • A usina C é a que tem a menor produção energética. • A usina D produz uma quantidade de energia inferior à produção da usina E. De acordo com o que foi exposto, a usina que produz a maior quantidade de energia é a",
+"alternativas": [
+"A) usina A.",
+"B) usina B.",
+"C) usina C.",
+"D) usina D.",
+"E) usina E."
+],
+"gabarito": "A",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 107204,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Quatro jovens estão reunidos, entre os quais há um químico, um físico e dois matemáticos. Gustavo ou Bruno é químico. Pedro não é matemático. Se Vinícius é matemático, então Gustavo é químico. Vinícius não é físico. Entre os jovens, os matemáticos são",
+"alternativas": [
+"A) Bruno e Pedro.",
+"B) Pedro e Vinícius.",
+"C) Bruno e Vinícius.",
+"D) Bruno e Gustavo.",
+"E) Gustavo e Vinícius."
+],
+"gabarito": "C",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 107212,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "No concurso de Carnaval de uma cidade, cinco escolas de samba disputaram os cinco primeiros lugares: Animados, Bagunceiros, Contagiantes, Despachados e Empolgados. Na classificação final dessas escolas de samba, observou-se corretamente que: • A escola de samba Animados ficou à frente da escola de samba Contagiantes na classificação; • A escola de samba Contagiantes ficou à frente da escola de samba Empolgados; • A escola de samba Bagunceiros não ficou entre as três últimas colocadas na classificação final; • A escola de samba Despachados ficou em uma classificação melhor do que a escola de samba Animados. Assim, as duas escolas de samba mais bem classificadas foram",
+"alternativas": [
+"A) Animados e Bagunceiros.",
+"B) Animados e Contagiantes.",
+"C) Bagunceiros e Empolgados.",
+"D) Bagunceiros e Despachados.",
+"E) Contagiantes e Despachados."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 107421,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Um professor de Matemática criou um jogo de tiro ao alvo baseado nos estudos a respeito do conjunto dos números complexos, considerando o eixo das abscissas como a parte real desses números e o eixo das ordenadas como a parte imaginária deles. A figura a seguir apresenta esse alvo após 10 arremessos (pontos de cor preta): [figura] Sabe-se que a maior pontuação será obtida caso se acerte a posição de um número imaginário puro, em que o número deve ter a parte real nula, mas a parte imaginária diferente de zero. Dessa maneira, entre os arremessos representados anteriormente, o número de acertos com a pontuação máxima foi igual a",
+"alternativas": [
+"A) 1.",
+"B) 2.",
+"C) 3.",
+"D) 4.",
+"E) 5."
+],
+"gabarito": "C",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 107435,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "A federação de futebol de um determinado estado brasileiro está definindo a localidade da final da próxima competição das categorias de base. O critério utilizado para a seleção da cidade foi o de que: “Se essa cidade estiver a 300 ou mais quilômetros da capital, então o estádio deverá ter mais de 8 000 lugares de capacidade”. Na etapa seguinte do processo seletivo, os critérios a respeito da distância à capital e capacidade do estádio foram mantidos, porém a frase presente no regulamento foi alterada para fins de publicidade. Sabe-se que foi transcrita a primeira parte da frase do novo regulamento: “Se o estádio não tiver mais de 8 000 lugares de capacidade, então essa cidade...”. Dessa maneira, o complemento da frase após a alteração, de tal maneira que o sentido original seja preservado, está mais bem expresso por",
+"alternativas": [
+"A) “...deve estar a 300 quilômetros da capital”.",
+"B) “...deve estar a 800 quilômetros da capital”.",
+"C) “...deve estar a 8 000 quilômetros da capital”.",
+"D) “...deve estar a menos de 300 quilômetros da capital”.",
+"E) “...deve estar a menos de 8 000 quilômetros da capital”."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 107438,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Ao observar a tábua de passar roupas de sua casa, João fez um desenho dessa tábua na posição aberta em uma altura 2 h em relação ao solo e com uma distância d entre os pés dela. O desenho feito por ele está representado a seguir: [figura] Sabe-se que João também fez um desenho dessa tábua depois que a altura dela foi regulada para uma posição mais alta, havendo também um ajuste na distância entre os pés do utensílio, sendo que o ponto de fixação P é o ponto médio das pernas da tábua. Dessa maneira, o segundo desenho feito por João está mais bem representado em:",
+"alternativas": [
+"A) [figura]",
+"B) [figura]",
+"C) [figura]",
+"D) [figura]",
+"E) [figura]"
+],
+"gabarito": "C",
+"primeira_tentativa": "A006-05 — Geometria plana > Semelhança e congruência"
+},
+{
+"id": 107485,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Um grupo de seis empresários vai participar de uma conferência internacional. Todos eles estavam no mesmo aeroporto e iam embarcar no mesmo voo com antecedência de uma semana do início da conferência. Com relação a esse embarque, sabe-se que Felipe, irmão de Lucas, estava com a documentação e bagagens corretas e embarcou no voo programado. A documentação de Maria estava correta, mas sua bagagem foi levada para a inspeção, o que a fez perder o embarque no voo. Fernanda, esposa de Francisco, fez a viagem ao lado do marido. Lucas sentou-se ao lado de Felipe no voo. O passaporte de Francisco estava vencido, por isso só pôde embarcar após regularizar sua documentação, uma semana depois. Marcos viajou no mesmo voo de Lucas. Os nomes dos empresários que viajaram no voo correto, conforme o programado, são",
+"alternativas": [
+"A) Francisco, Fernanda e Felipe.",
+"B) Francisco, Fernanda e Maria.",
+"C) Felipe, Lucas e Francisco.",
+"D) Felipe, Fernanda e Lucas.",
+"E) Felipe, Lucas e Marcos."
+],
+"gabarito": "E",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 107491,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Um homem formulou três planos para o próximo ano baseados em respostas e decisões que saberia no início do ano seguinte. O primeiro plano foi que, se passasse no vestibular de Arquitetura, então permaneceria em Minas Gerais. O segundo plano foi que, se conseguisse comprar um carro, então ele venderia sua bicicleta. O terceiro plano foi que, se adotasse um cachorro, então ele pagaria um profissional para dar banho no animal. Passado um ano, o homem estava voltando para sua casa após pedalar com sua antiga bicicleta pela orla da praia de Copacabana, no Rio de Janeiro, que fica a alguns minutos de onde mora, quando viu uma placa na vitrine de um *pet shop* informando o valor de banho de um cachorro e a desconsiderou, já que era um assunto que não fazia parte da sua vida. Considerando que o homem seguiu os planos que traçou há um ano, então ele",
+"alternativas": [
+"A) passou no vestibular de Arquitetura, comprou um carro e adotou um cachorro.",
+"B) não passou no vestibular de Arquitetura, comprou um carro e não adotou um cachorro.",
+"C) não passou no vestibular de Arquitetura, não comprou um carro e adotou um cachorro.",
+"D) passou no vestibular de Arquitetura, não comprou um carro e não adotou um cachorro.",
+"E) não passou no vestibular de Arquitetura, não comprou um carro e não adotou um cachorro."
+],
+"gabarito": "E",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 108136,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela, a disposição das poltronas deve obedecer à norma técnica da Associação Brasileira de Normas Técnicas (ABNT), que faz as seguintes indicações: • Distância mínima (*D*<sub>mín</sub>) entre a tela de projeção e o encosto da poltrona da primeira fileira deve ser de, pelo menos, 60% da largura (*L*) da tela. • Distância máxima (*D*<sub>máx</sub>) entre a tela de projeção e o encosto da poltrona da última fileira deve ser o dobro da largura (*L*) da tela, sendo aceitável uma distância de até 2,9 vezes a largura (*L*) da tela. Para o espaçamento entre as fileiras de poltronas, é considerada a distância de 1 metro entre os encostos de poltronas em duas fileiras consecutivas. Uma sala de cinema, cuja largura da tela mede 12 m, está montada em conformidade com as normas da ABNT e tem suas dimensões especificadas na figura. [figura] Pretende-se ampliar essa sala, mantendo-se na mesma posição a tela e todas as poltronas já instaladas, ampliando-se ao máximo a sala para os fundos (área de instalação de novas poltronas), respeitando-se o limite aceitável da norma da ABNT. A intenção é aumentar, ao máximo, a quantidade de poltronas da sala, instalando-se novas unidades, iguais às já instaladas. Quantas fileiras de poltronas a sala comportará após essa ampliação?",
+"alternativas": [
+"A) 26",
+"B) 27",
+"C) 28",
+"D) 29",
+"E) 35"
+],
+"gabarito": "C",
+"primeira_tentativa": "A002-01 — Razão, proporção e porcentagem > Razão e proporção"
+},
+{
+"id": 108346,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Thayná fez uma caminhada em um parque e, ao analisar o trajeto percorrido, percebeu que andou em linha reta até fazer uma curva, de alguns metros, e retornou por outro caminho, também em linha reta e sem curvas, chegando no ponto de partida. Qual das figuras representa o trajeto que Thayná fez?",
+"alternativas": [
+"A) [figura]",
+"B) [figura]",
+"C) [figura]",
+"D) [figura]",
+"E) [figura]"
+],
+"gabarito": "D",
+"primeira_tentativa": "A006-01 — Geometria plana > Conceitos, ângulos e retas"
+},
+{
+"id": 108360,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Você sabia que, dependendo do país, existem diferentes modos de escrever as datas? [...] Por exemplo, no Brasil, escreve-se dia/mês/ano. [...] Por outro lado, no Japão, escreve-se ano/mês/dia. Ao visitar uma loja de produtos orientais no Brasil, uma senhora consulta a data de validade dos alimentos e encontra na embalagem de um produto japonês a inscrição 20220212 sem as barras ou pontos separando dia, mês e ano. Confusa, ela acredita que o alimento é próprio para consumo até o dia 20 do mês em que está, de janeiro de 2022. Levando em conta o padrão de representação das datas no país de origem do produto, quantos dias a mais, em relação à data que a senhora acredita estar marcada, o alimento ainda estará próprio para o consumo?",
+"alternativas": [
+"A) 22",
+"B) 23",
+"C) 33",
+"D) 312",
+"E) 316"
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 108761,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Marcos e Rafaela estão disputando uma partida em um jogo de tabuleiro no qual, para movimentar os personagens, devem somar os resultados obtidos nas faces superiores de dois dados iguais. Na sua vez, após lançar os dados, Rafaela observou a soma obtida e os números envolvidos ao longo da partida, e fez a seguinte afirmação: “Se a soma de dois números inteiros é ímpar, então algum dos números é par”. Marcos, por sua vez, também fez uma afirmação que é logicamente equivalente e contrapositiva à feita por Rafaela. Desse modo, uma possível frase de Marcos foi:",
+"alternativas": [
+"A) “A soma de dois números inteiros é par ou nenhum dos números é par”.",
+"B) “A soma de dois números inteiros é ímpar ou algum dos números é ímpar”.",
+"C) “Se nenhum dos números é par, então a soma de dois números inteiros é par”.",
+"D) “Se a soma de dois números inteiros é par, então algum dos números é ímpar”.",
+"E) “Se nenhum dos números é par, então a soma de dois números inteiros é ímpar”."
+],
+"gabarito": "C",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 108762,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Uma pessoa estava montando um quebra-cabeça e, em determinado momento, o jogo estava como mostra a imagem a seguir, faltando o preenchimento das posições 2, 7, 8 e 9. [figura] Ao analisar as peças que ainda restavam para completar o quebra-cabeça, a pessoa percebeu que havia uma peça a mais. As cinco peças restantes são vistas no quadro a seguir: [figura] Para completar o quebra-cabeça que havia iniciado, sem trocar nenhuma das peças já colocadas de posição e sem rotacionar as peças restantes, qual das peças essa pessoa irá descartar?",
+"alternativas": [
+"A) [figura]",
+"B) [figura]",
+"C) [figura]",
+"D) [figura]",
+"E) [figura]"
+],
+"gabarito": "A",
+"primeira_tentativa": "A006-10 — Geometria plana > Transformações geométricas e ladrilhamento"
+},
+{
+"id": 108908,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Um determinado jogo de tabuleiro funciona da seguinte forma: cada jogador lança um dado especial, que tem as suas 6 faces numeradas com os números inteiros de –3 a 2, e deve deslocar seu pino pelas casas do tabuleiro de acordo com o número apontado pela face superior do dado, sendo que números negativos indicam que o jogador deve retroceder, números positivos indicam que ele deve avançar e 0 indica que ele deve ficar parado. Caso o jogador tire um número negativo ou 0 que o leve à casa “INÍCIO”, ele permanece nessa casa. Cada uma das casas nesse tabuleiro tem uma figura impressa, como representado a seguir, sendo que, pelas regras do jogo, uma dessas figuras, previamente determinada, elimina o jogador que parar sobre ela. [figura] Miguel, que estava participando desse jogo, foi eliminado na 5ª rodada. Sabe-se que, ao lançar o dado em cada uma dessas rodadas, ele tirou a seguinte sequência de números: 3, –2, 0, 2 e –1. Dessa maneira, a figura no tabuleiro que elimina o jogador é:",
+"alternativas": [
+"A) [figura]",
+"B) [figura]",
+"C) [figura]",
+"D) [figura]",
+"E) [figura]"
+],
+"gabarito": "E",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 108917,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Uma fábrica de picolés oferece como brinde aos seus clientes minipicolés que, junto com o palito, têm comprimento de 6 cm ou 7 cm. No processo de produção desses brindes, os picolés passam por uma passarela que os levam até a máquina de embalagem. A passarela tem dois metros de comprimento e os picolés são dispostos nela conforme a imagem a seguir, sendo todos tangentes entre si e a beirada da passarela. [figura] 6 cm ou 7 cm 6 cm ou 7 cm 6 cm ou 7 cm 6 cm ou 7 cm Utilizando o menor número possível de picolés dos dois tamanhos de forma que preencham todo o comprimento da passarela conforme a disposição da imagem, o número de picolés de 7 cm que estarão dispostos é igual a",
+"alternativas": [
+"A) 26.",
+"B) 27.",
+"C) 28.",
+"D) 29.",
+"E) 30."
+],
+"gabarito": "A",
+"primeira_tentativa": "A003-05 — Álgebra > Sistemas de equações e sistemas lineares"
+},
+{
+"id": 108918,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Um grupo de amigos resolveu rifar duas cestas, uma cesta de café da manhã e uma cesta de chocolate, para ajudar com as despesas da festa de formatura do Ensino Médio. A rifa da cesta de café da manhã custava R$ 2,00, e a rifa da cesta de chocolate, R$ 5,00. Sabe-se que 55 pessoas adquiriram apenas uma rifa cada, 30 compraram a rifa de café da manhã e 10 adquiriram as duas rifas. Dessa maneira, o valor total arrecadado com as rifas foi de",
+"alternativas": [
+"A) R$ 185,00.",
+"B) R$ 205,00.",
+"C) R$ 235,00.",
+"D) R$ 285,00.",
+"E) R$ 385,00."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 108930,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "No jogo “Dado mentiroso”, cada jogador inicialmente possui um copo e cinco dados. Simultaneamente, todos os jogadores rolam seus dados e verificam o seu próprio resultado sem revelá-lo aos demais. Após isso, cada jogador deve dar um palpite a respeito da quantidade de faces com determinado valor, considerando os dados de todos os jogadores, por exemplo, um jogador aposta: “Há 7 faces com o número 2”. Caso o jogador que realizou o palpite esteja correto, todos os demais jogadores perdem um dado. No entanto, se ele estiver errado, é ele quem perde um dado. O objetivo desse jogo é ser o único jogador da mesa com um ou mais dados. [figura] Seis jogadores estão disputando uma partida de “Dado mentiroso”, segundo as regras apresentadas, e, até o momento, houve 8 palpites desses jogadores, sendo 3 certos e 5 errados. Sabe-se que os palpites errados foram dados por jogadores diferentes. Dessa maneira, a quantidade de dados na mesa, após esses palpites, será necessariamente igual a",
+"alternativas": [
+"A) 5.",
+"B) 7.",
+"C) 10.",
+"D) 15.",
+"E) 20."
+],
+"gabarito": "C",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 109057,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Mancala é um jogo de origem africana para duas pessoas que tem como objetivo a distribuição de peças em casas. No início do jogo, 48 peças idênticas são distribuídas igualmente em 12 casas, sendo que as 6 casas em uma mesma linha pertencem a cada um dos jogadores e são chamadas de campo, campo A e campo B. Nas extremidades esquerda e direita do jogo, há dois espaços maiores chamados de cala, nos quais não se depositam peças antes do início do jogo, sendo a cala A pertencente ao campo A e a cala B pertencente ao campo B. Na figura a seguir, apresenta-se a disposição inicial do jogo. [figura] Na sua vez, cada jogador escolhe uma das casas do seu campo, pega todas as peças dessa casa e as distribui uma a uma, no sentido anti-horário, nas casas seguintes, podendo incluir as casas do adversário. Caso a última peça caia na sua cala, a pessoa joga outra vez, repetindo o procedimento. Porém, não é permitido colocar peças na cala do adversário, depositar mais de uma peça em cada casa nem começar uma jogada no campo inimigo. Em uma determinada partida, após duas jogadas do jogador do campo A, é a vez do jogador do campo B. O tabuleiro se encontra da seguinte maneira antes de o jogador do campo B iniciar sua jogada (as peças que faltam nas casas estão nas calas): [figura] Sabendo que o jogador do campo B também fez duas jogadas seguidas, uma das possíveis configurações do tabuleiro, após essas jogadas, é:",
+"alternativas": [
+"A) [figura]",
+"B) [figura]",
+"C) [figura]",
+"D) [figura]",
+"E) [figura]"
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 109061,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Bia, Patrícia e Rita cursaram Medicina, Direito e Química, não necessariamente nessa ordem. Uma delas realizou seu curso na UFMG, a outra na USP e a outra na UFRJ. Bia fez seu curso na UFMG. Rita cursou Química. Patrícia não realizou seu curso na UFRJ e não fez Medicina. Assim, os cursos e as respectivas instituições onde Bia, Patrícia e Rita estudaram, são, nessa ordem,",
+"alternativas": [
+"A) Medicina na UFMG, Química na USP, Direito na UFRJ.",
+"B) Química na UFMG, Direito na USP, Medicina na UFRJ.",
+"C) Medicina na UFMG, Direito na USP, Química na UFRJ.",
+"D) Direito na UFMG, Medicina na UFRJ, Química na USP.",
+"E) Medicina na UFMG, Direito na UFRJ, Química na USP."
+],
+"gabarito": "C",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 109073,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Devido a um erro de programação na impressora de senhas de uma agência bancária, os algarismos ímpares em ordem crescente foram substituídos pelas vogais do alfabeto, A, E, I, O, U, nessa ordem. Por exemplo, o número 57 passou a ser IO. Sabe-se que a última senha correta, antes da falha, foi a de número 29 e que o sistema voltou ao normal apenas na senha 121. Dessa maneira, a quantidade de senhas impressas apenas usando letras, nesse intervalo, foi exatamente igual a",
+"alternativas": [
+"A) 20.",
+"B) 25.",
+"C) 32.",
+"D) 45.",
+"E) 55."
+],
+"gabarito": "B",
+"primeira_tentativa": "A010-01 — Análise combinatória > Princípio fundamental da contagem"
+},
+{
+"id": 109075,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Uma mulher comprou um armário para guardar seus calçados. Nesse armário, há sete prateleiras, sendo que em cada uma cabem 3 pares de tênis, ou 4 pares de sapatilhas, ou 2 pares de tênis e 1 par de sapatilhas, ou 2 pares de sapatilhas e 1 par de tênis. Das sete prateleiras, a mulher separou duas para guardar apenas tênis, e as outras poderiam ter qualquer das combinações de pares que caibam nelas. Sabendo que a mulher possui 15 pares de sapatilhas e 10 pares de tênis, a quantidade máxima de pares de calçados que ela conseguirá colocar no armário é",
+"alternativas": [
+"A) 25.",
+"B) 24.",
+"C) 21.",
+"D) 18.",
+"E) 12."
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 109209,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Em um cruzamento de uma avenida muito movimentada, há quatro semáforos e duas faixas de pedestres, uma no semáforo I e outra no semáforo II, como indicado na figura a seguir: [figura] O semáforo I fica verde durante 60 s. Ao final desse tempo, o semáforo II e o semáforo III ficam verde no mesmo instante. O semáforo II fica verde por 45 s e, quando fica vermelho, o sinal de pedestres desse semáforo fica verde durante 15 s. Quando o sinal de pedestres do semáforo II fica vermelho, o semáforo IV fica verde por 30 s. O ciclo desses quatro semáforos se encerra assim que o semáforo III e o semáforo IV ficam vermelhos simultaneamente. Pelas informações, o semáforo III fica verde durante",
+"alternativas": [
+"A) 15 s.",
+"B) 30 s.",
+"C) 45 s.",
+"D) 60 s.",
+"E) 90 s."
+],
+"gabarito": "E",
+"primeira_tentativa": "A001-02 — Matemática básica > Aritmética, MMC e MDC"
+},
+{
+"id": 109362,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Duas pessoas que trabalhavam como corretoras no mercado de ações precisavam trocar mensagens sobre os valores que queriam comprar ou vender ações. Como as mensagens podiam ser vistas por outros corretores, elas decidiram usar um código binário para criptografar suas mensagens. Assim, passaram a negociar os valores de compra e venda usando a base dois. Em uma troca de mensagens, um dos corretores enviou o seguinte comando: “Comprei cada lote de ações por 110 110 reais e vamos vender cada um por 111 100 reais”. Após a conversão para a base decimal, o lucro, em real, por lote de ações, que esse corretor terá após a venda das ações será igual a",
+"alternativas": [
+"A) 6.",
+"B) 10.",
+"C) 54.",
+"D) 60.",
+"E) 990."
+],
+"gabarito": "A",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 109373,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Em um jogo de tabuleiro, os movimentos de cada jogador são calculados em função do lançamento de um dado de seis faces, numerado de 1 a 6, cuja soma de faces opostas é sempre igual a 7. Para o cálculo da quantidade de espaços a serem percorridos em uma jogada, após o lançamento do dado, é realizado o seguinte procedimento: a face que caiu voltada para cima e a oposta a ela são descartadas; das outras quatro faces restantes, é descartada a de menor valor; finalmente, a soma das três faces que restaram é a quantidade que será percorrida pelo jogador no tabuleiro. Após algumas jogadas, os jogadores perceberam que só poderiam andar certas quantidades de casas no tabuleiro. Nessas condições, a quantidade de deslocamentos possíveis em uma jogada no tabuleiro desse jogo é igual a",
+"alternativas": [
+"A) um.",
+"B) dois.",
+"C) três.",
+"D) quatro.",
+"E) seis."
+],
+"gabarito": "B",
+"primeira_tentativa": "A010-01 — Análise combinatória > Princípio fundamental da contagem"
+},
+{
+"id": 109374,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Uma pizzaria adquiriu uma máquina para automatizar o processo de fatiar os alimentos. Essa máquina pode cortar uma *pizza* circular em n pedaços iguais, em que n é dado pelo ângulo do setor definido por cada fatia. Por exemplo, em uma *pizza* de 3 fatias, o ângulo central é igual a \\(\\frac{2π}{3}\\), conforme a figura a seguir, em que os cortes têm o tamanho de um raio e sempre partem do centro da *pizza.* [figura] Considerando que essa máquina estava programada para uma *pizza* de 6 fatias, um funcionário, ao ajustar para uma *pizza* de 8 fatias, irá gerar uma diferença entre os ângulos centrais, em radiano, igual a:",
+"alternativas": [
+"A) \\(\\frac{π}{24}\\)",
+"B) \\(\\frac{π}{12}\\)",
+"C) \\(\\frac{π}{4}\\)",
+"D) \\(\\frac{π}{3}\\)",
+"E) π"
+],
+"gabarito": "B",
+"primeira_tentativa": "A008-02 — Trigonometria > Ciclo trigonométrico"
+},
+{
+"id": 109520,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "As datas aproximadas das estações do ano no Brasil, localizado no Hemisfério Sul, são: • Outono: de 20 de março a 21 de junho. • Inverno: de 21 de junho a 23 de setembro. • Primavera: de 23 de setembro a 22 de dezembro. • Verão: de 21 de dezembro a 20 de março. No Hemisfério Norte, estão localizados os Estados Unidos da América e a Europa, por exemplo. Lá, as estações do ano ocorrem em épocas diferentes: • Primavera: de 20 de março a 21 de junho. • Verão: de 21 de junho a 23 de setembro. • Outono: de 22 ou 23 de setembro a 22 de dezembro. • Inverno: de 22 de dezembro a 20 de março. Embora localizada no Hemisfério Norte, na China são cinco as estações do ano: primavera, verão, estio (períodos quentes), outono e inverno (períodos frios), em que: • Primavera: início dia 21 de março. • Verão: início dia 21 de junho. • Outono: início dia 23 de setembro. Na Índia, o ano é dividido em três estações: quente, frio e chuvoso. O verão na Índia dura mais ou menos de março até final de junho. As monções são carregadas de ventos frios e fortes que preparam o lugar para o inverno de julho a outubro, aproximadamente. O inverno dura mais ou menos de novembro até fevereiro. As regiões polares possuem apenas duas estações no ano. No polo norte, o inverno é de janeiro a junho, e o verão, de julho a dezembro. Já no polo sul é o inverso, o verão é de janeiro a junho, e o inverno é de julho a dezembro. De acordo com o texto, os locais que possuem intercessão de dias da estação verão com a Europa são",
+"alternativas": [
+"A) Brasil, Estados Unidos da América, Índia e polo sul.",
+"B) Brasil, Estados Unidos da América, Índia e polo norte.",
+"C) Estados Unidos da América, China, Índia e polo sul.",
+"D) Estados Unidos da América, China, Índia e polo norte.",
+"E) Estados Unidos da América, China, Índia, polo norte e polo sul."
+],
+"gabarito": "E",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 109526,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "A geometria é muito utilizada nas obras de arte. Construções com linhas paralelas e transversais permitem, por exemplo, a visualização de um efeito tridimensional em um quadro de duas dimensões. A figura a seguir apresenta um quadro de 1983 do artista Luiz Sacilotto. [figura] Para a obtenção do efeito de profundidade no quadro, o artista Luiz Sacilotto utilizou, além de quadrados, quais figuras geométricas?",
+"alternativas": [
+"A) Prismas.",
+"B) Losangos.",
+"C) Trapézios.",
+"D) Pirâmides.",
+"E) Triângulos."
+],
+"gabarito": "C",
+"primeira_tentativa": "A006-07 — Geometria plana > Quadriláteros e polígonos"
+},
+{
+"id": 109667,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "[figura] Considerando que a taxa de variação de 2018 para 2022 seja a mesma que a de 2014 para 2018, a média de gols esperada para a copa de 2022 é",
+"alternativas": [
+"A) 2,67.",
+"B) 2,64.",
+"C) 2,61.",
+"D) 1,32.",
+"E) 0,66."
+],
+"gabarito": "C",
+"primeira_tentativa": "A004-03 — Funções > Função afim (1º grau)"
+},
+{
+"id": 109830,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "A trajetória de um avião durante um voo entre duas cidades ocorre dentro de áreas de controle de tráfego. Durante um voo, é exigido que o avião sobrevoe pontos de controle situados no solo e demarcados entre a origem (*O*) e o destino (*D*) da aeronave. Assim, embora a trajetória do avião ocorra num espaço tridimensional, para o controlador de voo, a visualização representativa dessa trajetória é dada por uma linha poligonal plana, em que três pontos de controle sucessivos, nas representações, devem ser não colineares. As figuras apresentam algumas possibilidades dessas representações, nas quais todos os pontos de controle estão representados. [figura] Suponha que um avião fez um voo com origem diferente do destino final e cuja representação apresente três pontos de controle. Nesse voo, qual das figuras apresentadas é compatível com as restrições estabelecidas?",
+"alternativas": [
+"A) I",
+"B) II",
+"C) III",
+"D) IV",
+"E) V"
+],
+"gabarito": "A",
+"primeira_tentativa": "A006-01 — Geometria plana > Conceitos, ângulos e retas"
+},
+{
+"id": 109887,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Uma pessoa comprou um ingresso para o cinema em cuja entrada está afixado um mapa com a representação bidimensional do posicionamento das poltronas, conforme a figura. Essa pessoa, após consultar o mapa, começou a subir uma das escadas e parou na posição indicada pela estrela, direcionada para o norte. Ela conferiu seu bilhete e observou que, para encontrar sua poltrona, deveria partir do ponto onde estava, continuar subindo a escada na direção norte por mais quatro fileiras e olhar à sua direita, e sua poltrona será a terceira. [figura] Nesse cinema, as poltronas são identificadas por uma letra, que indica a fileira, e um número, que fornece a posição da poltrona na fileira, respectivamente. A poltrona dessa pessoa é a identificada por",
+"alternativas": [
+"A) A6.",
+"B) H1.",
+"C) H6.",
+"D) I1.",
+"E) I6."
+],
+"gabarito": "E",
+"primeira_tentativa": "A009-01 — Geometria analítica > Ponto, reta e distâncias"
+},
+{
+"id": 109894,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "As características culturais variam de povo para povo. Há notícias de um povo que possuía formas de contar diferentes das nossas, como indicado no quadrinho a seguir. [figura] Segundo o padrão de contagem indicado na figura, as representações dos numerais cinco e sete, nessa cultura, devem ser, respectivamente,",
+"alternativas": [
+"A) okosa urapum urapum urapum e okosa okosa urapum urapum urapum.",
+"B) okosa okosa urapum e okosa okosa okosa okosa urapum.",
+"C) okosa okosa urapum e okosa okosa okosa urapum.",
+"D) okosa urapum urapum e okosa urapum okosa urapum urapum.",
+"E) okosa okosa urapum e okosa okosa okosa okosa."
+],
+"gabarito": "C",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 109951,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Desde remotos tempos, o homem, ao observar o Sol, percebeu que ele provocava a sombra dos objetos. Ao fazer essas observações, notou que ao longo do dia o tamanho dessas sombras variava. O homem primitivo, primeiramente, usou a própria sombra para estimar as horas (sombras moventes), mas logo depois viu que podia, através de uma vareta fincada no chão na posição vertical, fazer essas mesmas estimativas: estava criado o pai de todos os “Relógios de Sol”, o famoso “Gnômon” [...]. [figura] As imagens mostram que o próprio eixo da Terra pode ser tomado como um gnômon, e, nesse caso, sua sombra, formada a partir da iluminação solar, varia de posição conforme a mudança de horário do dia. As duas sombras do eixo representadas, na ordem em que aparecem nas imagens, podem ser tomadas como",
+"alternativas": [
+"A) duas retas.",
+"B) dois segmentos de reta.",
+"C) um arco e um diâmetro.",
+"D) uma esfera e um círculo.",
+"E) uma semicircunferência e um raio."
+],
+"gabarito": "E",
+"primeira_tentativa": "A007-05 — Geometria espacial > Projeção ortogonal e vistas"
+},
+{
+"id": 109962,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Maria planeja uma viagem partindo da cidade A até a cidade C e da cidade C de volta à cidade A, com a possibilidade de passar ou não por uma cidade B, intermediária entre A e C, tanto no caminho de ida como no de volta. Para calcular o custo total relacionado ao deslocamento, Maria precisa contabilizar os gastos com combustível e pedágios. O automóvel que será utilizado por ela em toda a viagem faz 14 km com 1 L (litro) de combustível, cujo preço médio é R$ 5,80/L nos postos de todas as cidades visitadas. Na viagem, os percursos poderão variar entre uma cidade e outra, porém serão exatamente os mesmos dentro das cidades. Para facilitar os cálculos do custo total da viagem, Maria coletou os dados pertinentes a distâncias e pedágios entre as cidades e colocou-os em tabelas: [figura] Como consequência de diferenças nas quilometragens das vias intermunicipais de sentidos opostos, as distâncias a serem percorridas e os preços dos pedágios na ida e na volta entre duas determinadas cidades são distintos. O menor custo possível com o qual Maria terá de arcar para fazer a viagem é",
+"alternativas": [
+"A) R$ 165,15.",
+"B) R$ 164,20.",
+"C) R$ 160,15.",
+"D) R$ 159,20.",
+"E) R$ 154,50."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 110078,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Um mochileiro pretende visitar dois continentes na sua próxima viagem, entre Europa, África, Oceania ou Ásia. Ele vai sair do Brasil e retornar para o mesmo país, e já está pesquisando o preço médio da passagem entre os continentes. • Saindo do Brasil: R$ 2 000 para a Europa, R$ 3 000 para a África, R$ 4 500 para a Oceania e 3 500 para a Ásia. • Saindo da Europa: R$ 500 para a África, R$ 3 000 para a Oceania e R$ 1 000 para a Ásia. • Saindo da África: R$ 4 000 para a Oceania e R$ 2 500 para a Ásia. • Saindo da Oceania: R$ 1 500 para a Ásia. Considere que o preço da passagem de ida é o mesmo preço da passagem de volta. O roteiro mais barato custará, em reais,",
+"alternativas": [
+"A) 3 000.",
+"B) 4 000.",
+"C) 5 000.",
+"D) 5 500.",
+"E) 6 500."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 110079,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "No dia de seu aniversário, Laura foi ao supermercado comprar guardanapos para servir bolo e salgados. Ela precisava comprar exatamente 500 folhas de guardanapo, e [figura] A marca do guardanapo é irrelevante para Laura, mas ela quer gastar o menor valor possível nessa compra. Qual(is) pacote(s) Laura deve comprar?",
+"alternativas": [
+"A) Um pacote de Maciez.",
+"B) Dez pacotes de Limpa Tudo.",
+"C) Um pacote de Suavíssimo e um pacote de Sem Gordura.",
+"D) Dois pacotes de Limpa Tudo e dois pacotes de Suavíssimo.",
+"E) Dois pacotes de Limpa Tudo, dois pacotes de Boca Limpa e um pacote de Suavíssimo."
+],
+"gabarito": "D",
+"primeira_tentativa": "A003-05 — Álgebra > Sistemas de equações e sistemas lineares"
+},
+{
+"id": 110279,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Um casal está redecorando sua casa e decide comprar dois móveis diferentes para colocar lado a lado sobre um tapete. As opções de móvel são: • Um cubo de aresta 50 cm; • Um cilindro de raio 74 cm; • Um prisma de base hexagonal regular de lado 80 cm; • Um prisma de base octogonal regular de lado 60 cm. O casal deseja que os dois móveis escolhidos fiquem totalmente dentro do tapete, de medidas 2 m x 1,5 m, e que seus centros estejam perfeitamente alinhados na horizontal. √ √ Considere que: π 5 3, 2 5 1,4 e 3 5 1,7. Quais devem ser os dois móveis comprados para que a área ocupada do tapete seja a menor possível?",
+"alternativas": [
+"A) Cubo e cilindro.",
+"B) Cubo e prisma de base octagonal.",
+"C) Cubo e prisma de base hexagonal.",
+"D) Cilindro e prisma de base hexagonal.",
+"E) Prisma de base hexagonal e prisma de base octagonal."
+],
+"gabarito": "A",
+"primeira_tentativa": "A006-09 — Geometria plana > Áreas e perímetros"
+},
+{
+"id": 110485,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Em *shoppings* e supermercados é comum encontrar máquinas em que é possível pegar prêmios com uma garra controlada por um mecanismo fora da estrutura, conforme as imagens a seguir, que representam a máquina e os prêmios disponíveis em cada posição. [figura] A garra encontra-se inicialmente sobre o buraco, representado pelo quadrado cinza, e, ao inserir créditos, a pessoa a comanda segundo os controles que indicam as posições norte, sul, leste e oeste. Cada vez que uma tecla direcional é apertada, a garra se desloca para o próximo quadrado na direção indicada, para que, quando na posição desejada pelo consumidor, seja apertada a tecla X. [figura] O pai de uma criança que apertou as teclas na sequência N, N, O, O, S, L, N, N, O, O, S e X pegou o prêmio",
+"alternativas": [
+"A) Bebê Tubarão.",
+"B) Bebê Macaco.",
+"C) Bebê Dragão.",
+"D) Bebê Rato.",
+"E) Bebê Robô."
+],
+"gabarito": "A",
+"primeira_tentativa": "A009-01 — Geometria analítica > Ponto, reta e distâncias"
+},
+{
+"id": 110767,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Em um jogo de plataforma para *videogames*, o jogador guia seu personagem para desviar de obstáculos que vão de encontro a ele. Para desviar dos obstáculos, o jogador pode saltar uma vez ou utilizar um salto duplo, sendo que, após o salto duplo, os dois próximos saltos devem ser simples, para que ele possa utilizar novamente o salto duplo. Em uma partida, o jogador planejou a seguinte sequência de saltos, em que o X representa os saltos que ele ainda não determinou. • 1º: Duplo • 2º: X • 3º: X • 4º: X • 5º: Simples • 6º: Duplo De acordo com as informações e a regra do jogo, na sequência dada,",
+"alternativas": [
+"A) o quarto salto pode ser duplo.",
+"B) o terceiro salto pode ser duplo.",
+"C) ocorrerão três saltos duplos no total.",
+"D) ocorrerão três saltos simples no total.",
+"E) ocorrerão quatro saltos simples no total."
+],
+"gabarito": "E",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 110768,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Durante uma partida de um jogo de tabuleiro, em sua jogada, um dos participantes se deparou com a seguinte situação: [figura] Na origem da jogada, ele se encontra na casa representada pelo x na imagem, e, para jogar, irá utilizar um dado cúbico, honesto, numerado de 1 a 6. Sabendo-se que o número retirado foi ímpar, esse jogador, necessariamente,",
+"alternativas": [
+"A) retornou à casa de origem.",
+"B) alcançou a linha de chegada.",
+"C) não retornou à casa de origem.",
+"D) avançou em direção à linha de chegada.",
+"E) regrediu no tabuleiro em relação à casa de origem."
+],
+"gabarito": "C",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 110777,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Ao levar o filho para escolher seu presente de aniversário, seus pais decidiram pelo seguinte: Enquanto o pai realizava as compras de supermercado em uma determinada loja, a mãe levaria o filho para a loja de jogos. Nesta loja, o filho optou por dois jogos, um de corrida e um de futebol. Sua mãe lhe disse que iria aguardar o retorno do pai, para avaliar financeiramente se, após as compras de supermercado, seria possível comprar os jogos, com as seguintes condições: “Se seu pai chegar e a compra ficar abaixo do esperado, podemos comprar os dois jogos, caso contrário você pode escolher apenas um deles.” Após esperar algum tempo, decidiram mesmo sem o retorno do pai. Dessa forma, a criança, necessariamente, saiu da loja com",
+"alternativas": [
+"A) nenhum dos jogos.",
+"B) o jogo de futebol.",
+"C) o jogo de corrida.",
+"D) algum dos jogos.",
+"E) ambos os jogos."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 110894,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "O inclinômetro é um dispositivo eletrônico que mede a inclinação de máquinas e equipamentos. Com essa informação, é possível amenizar riscos de tombamento durante uma operação, trazendo, assim, mais segurança aos processos. Ele possui configurações que possibilitam emitir alertas, registrar eventos e até mesmo bloquear movimentos hidráulicos. Uma colheitadeira deve trabalhar em uma inclinação máxima de 25°, para evitar tombamentos, sendo emitidos alertas para as inclinações de 15° (evento I) e 20° (evento II), sendo que, ao atingir a inclinação máxima (evento III), os movimentos hidráulicos são bloqueados. O esquema que melhor representa os eventos I, II e III e o arco que indica a movimentação lateral do trator é:",
+"alternativas": [
+"A) [figura]",
+"B) [figura]",
+"C) [figura]",
+"D) [figura]",
+"E) [figura]"
+],
+"gabarito": "B",
+"primeira_tentativa": "A006-01 — Geometria plana > Conceitos, ângulos e retas"
+},
+{
+"id": 110898,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "No sistema hexadecimal (base 16), os algarismos podem variar de 0 até 15 e são representados de forma alfanumérica como: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E e F, nessa ordem. Assim como no sistema decimal, deve-se multiplicar o valor de cada algarismo pela sua base elevada à potência relativa à sua posição no número (a partir do expoente zero, da direita para a esquerda) e somar os resultados de todos os algarismos. Por exemplo, o número 9AB, na base 16, será (9 . 16<sup>2</sup>) + (10 . 16<sup>1</sup>) + (11 . 16<sup>0</sup>) = (9 . 256) + (10 . 16) + (11 . 1) = 2 304 + 160 + 11 = 2 475. Em uma aula de Informática, os alunos deveriam apresentar o valor da soma dos hexadecimais ABB e BAA usando o sistema decimal. O resultado correto para a operação apresentada é:",
+"alternativas": [
+"A) 2 331",
+"B) 2 553",
+"C) 5 733",
+"D) 5 883",
+"E) 6 279"
+],
+"gabarito": "C",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 110899,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Nas comemorações do aniversário de 20 anos de um determinado supermercado, ao passar pelo caixa, os clientes recebiam fichas numeradas de 1 a 100 em ordem crescente. Sabe-se que todos aqueles que tivessem o algarismo 2 na ficha seriam premiados com 20% de desconto na quantia a ser paga. O gerente solicitou que fosse elaborado um gráfico que representasse os 15 primeiros premiados em um determinado dia, segundo o critério apresentado. Na horizontal, foi descrito o número da ficha e, na vertical, a ordem dos ganhadores. O gráfico que melhor representa essa situação é:",
+"alternativas": [
+"A) [figura]",
+"B) [figura]",
+"C) [figura]",
+"D) [figura]",
+"E) [figura]"
+],
+"gabarito": "D",
+"primeira_tentativa": "A004-02 — Funções > Plano cartesiano e gráficos"
+},
+{
+"id": 110902,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Dois jovens decidem criar um jogo para passar o tempo. Um deles deve pensar em um número entre 0 e 100, que deve ser adivinhado pelo outro jogador. O jogador que deve adivinhar o número anuncia, a cada rodada, um número inteiro entre 0 e 100, e o outro jogador deve responder de forma correta se o número anunciado é maior, menor ou igual ao número pensado. Ganha o jogo aquele que anunciar menos números até chegar ao número correto. O jogador que deve adivinhar o número decide implementar uma estratégia minimizadora do teto da quantidade de palpites possíveis até se chegar à resposta correta. Sob essa estratégia, o jogador que deve adivinhar o número o fará em uma quantidade máxima de palpites igual a",
+"alternativas": [
+"A) 5.",
+"B) 6.",
+"C) 7.",
+"D) 8.",
+"E) 9."
+],
+"gabarito": "C",
+"primeira_tentativa": "A005-02 — Sequências e progressões > Progressão geométrica (PG)"
+},
+{
+"id": 110911,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Água cinza pode ser definida como qualquer efluente gerado por uma residência, exceto esgoto sanitário. Ela é gerada em chuveiros, pias e tanques, máquinas de lavar e demais processos domésticos. O tratamento de água cinza é importante para garantir que seu reúso seja feito de maneira segura, gerando economia e ajudando a preservar a água potável. Em determinado projeto residencial, foi sugerido que a água cinza fosse reaproveitada. Para isso, foram identificados os setores cozinha (C), área de serviço (A), banho (B) e vaso sanitário (V). O diagrama que melhor representa as possibilidades de captação para armazenar a água cinza dessa residência é:",
+"alternativas": [
+"A) [figura]",
+"B) [figura]",
+"C) [figura]",
+"D) [figura]",
+"E) [figura]"
+],
+"gabarito": "C",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 111052,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "A apuração das horas normais trabalhadas deve ser feita sempre considerando o sistema sexagesimal. Entretanto, quando essas horas apuradas no ponto são lançadas no sistema de folha de pagamento, os minutos devem ser convertidos para o sistema centesimal, no qual a hora do relógio é dividida em 100 partes iguais. Com o intuito de explicar melhor o conceito para os alunos de uma disciplina da área contábil, foi preparado um relógio com as divisões da hora no sistema centesimal. Nesse relógio, foram usados traços maiores para indicar intervalos de 5 centésimos de hora e traços menores para intervalos de 1 centésimo de hora. Sabe-se que, de forma semelhante ao relógio analógico tradicional, nos traços maiores foram posicionados números do sistema indo-arábico, em ordem crescente, de 0 até o 100, começando e terminando no mesmo lugar. Dessa maneira, a quantidade de algarismos 1 utilizados nos números de traços maiores nesse relógio centesimal foi igual a",
+"alternativas": [
+"A) 2.",
+"B) 3.",
+"C) 4.",
+"D) 5.",
+"E) 6."
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 111188,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "No baralho comum há 52 cartas, sendo 13 cartas de cada naipe. Em cada naipe há 9 cartas numeradas (de 2 a 10) e 4 cartas com letras (A – ás, J – valete, Q – dama e K – rei). Em determinado jogo, os tipos de cartas, em ordem crescente de valor, são organizados da seguinte maneira: [figura] Em uma modalidade desse jogo, sorteia-se uma carta que passa a ser a de maior valor, chamada de manilha. Assim, a disposição das cartas se altera de modo que o conjunto das cartas que estavam acima da manilha passa a ser de menor valor que o conjunto das cartas que estavam abaixo da manilha, mantendo a ordem crescente dentro dos conjuntos. Sabe-se que, em uma partida, a carta sorteada foi a de número 6 para se tornar a manilha. Dessa maneira, a sexta carta, considerando a ordem crescente de valor das cartas, após a manilha sorteada, trata-se da carta",
+"alternativas": [
+"A) 7.",
+"B) 9.",
+"C) J.",
+"D) Q.",
+"E) K."
+],
+"gabarito": "E",
+"primeira_tentativa": "A010-01 — Análise combinatória > Princípio fundamental da contagem"
+},
+{
+"id": 111343,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Por questões de segurança, principalmente para os veículos pesados, a inclinação máxima em rodovias (BRs) não pode ser superior a 3°. Para exemplificar essa inclinação, foi feito o seguinte desenho, fora de escala: [figura] A partir do desenho apresentado, um aluno resolveu apresentar o ângulo de 6°, para fins de comparação. Uma construção geométrica que ele poderia utilizar para apresentar o ângulo de 6° está ilustrada em:",
+"alternativas": [
+"A) [figura]",
+"B) [figura]",
+"C) [figura]",
+"D) [figura]",
+"E) [figura]"
+],
+"gabarito": "E",
+"primeira_tentativa": "A006-01 — Geometria plana > Conceitos, ângulos e retas"
+},
+{
+"id": 111571,
+"vest": "ENEM",
+"ano": "2023",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Uma pessoa estava interessada em adquirir um plano de internet básico. Após uma pesquisa, ela recebeu cinco propostas de provedores da região. Todos cobravam o valor mensal de R$ 79,99, com diferença apenas nas multas empregadas em caso de atraso, que eram as seguintes.  Provedor I: Após o vencimento, cobrar multa de R$ 1,30 e juros de R$ 0,22 por dia.  Provedor II: Após o vencimento, cobrar multa de R$ 1,18 e juros de R$ 0,25 por dia.  Provedor III: Após o vencimento, cobrar multa de R$ 1,69 e juros de R$ 0,20 por dia.  Provedor IV: Após o vencimento, cobrar multa de R$ 1,25 e juros de R$ 0,26 por dia.  Provedor V: Após o vencimento, cobrar multa de R$ 1,33 e juros de R$ 0,21 por dia. Em sua escolha, ela optou pelo plano em que a soma da multa com os juros depois de um mês de atraso apresentasse, dentre os planos analisados, o menor valor. Sendo assim, o provedor escolhido por essa pessoa foi o",
+"alternativas": [
+"A) I.",
+"B) II.",
+"C) III.",
+"D) IV.",
+"E) V."
+],
+"gabarito": "E",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 111837,
+"vest": "ENEM",
+"ano": "2024",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Um garrafão, cujas seções transversais são circunferências, encontra-se cheio de água. Ao ser acoplado a um bebedouro, ficou com sua base voltada para cima e paralela ao chão. A torneira desse bebedouro foi aberta para escoar toda a água desse garrafão com vazão constante. A vista frontal do garrafão é apresentada na figura. [figura] O gráfico que melhor representa a variação da altura *h* da água no garrafão, em função do tempo *t*, é",
+"alternativas": [
+"A) [figura]",
+"B) [figura]",
+"C) [figura]",
+"D) [figura]",
+"E) [figura]"
+],
+"gabarito": "A",
+"primeira_tentativa": "A004-02 — Funções > Plano cartesiano e gráficos"
+},
+{
+"id": 111898,
+"vest": "ENEM",
+"ano": "2024",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Um artesão utiliza dois tipos de componentes, X e Y, nos enfeites que produz. Ele sempre compra todos os componentes em uma mesma loja. O quadro apresenta os preços dos dois tipos de componentes nas lojas I e II. [figura] Ele confeccionará enfeites formados por duas unidades do componente X e uma unidade do componente Y e efetuará a compra na loja que oferecer o menor valor total para a confecção de um enfeite. O artesão efetuará a compra na loja",
+"alternativas": [
+"A) I, pois o valor é R$ 7,00.",
+"B) I, pois o valor é R$ 4,00.",
+"C) II, pois o valor é R$ 6,00.",
+"D) I, pois anuncia o componente com o menor preço.",
+"E) II, pois o componente X, que é o mais utilizado, tem menor preço."
+],
+"gabarito": "A",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 111938,
+"vest": "ENEM",
+"ano": "2024",
+"area_impressa": "MAteMÁtICA e suAs teCNoLoGIAs",
+"enunciado": "Roberto possuía uma consulta médica logo após o trabalho, decidiu que, naquele dia, iria para o escritório onde trabalha de táxi ou com seu carro, para que pudesse chegar com alguns minutos de antecedência em sua consulta. Ele sabe que o trajeto de sua casa até seu local trabalho é de 3 km, do seu local de trabalho até o médico é de 2 km e que do consultório até sua casa é de 1,5 km. Ele também decidiu que caso fosse de táxi para o escritório e para o consultório, voltaria da consulta caminhando. Roberto sabe que o taxímetro inicia a contagem do preço com R$ 4,00 e cada quilômetro rodado custa R$ 2,40, além disso, sabe que o litro da gasolina custa R$ 4,00 sendo que seu carro roda 11 km com 1 litro de gasolina, e a diária do estacionamento ao lado do escritório em que trabalha custa R$ 20,00. Considerando os dados envolvidos o menor gasto seria alcançado",
+"alternativas": [
+"A) de táxi, gastando R$ 12,00.",
+"B) de táxi, gastando R$ 20,00.",
+"C) de táxi, gastando R$ 27,60.",
+"D) com seu próprio carro, gastando R$ 21,81.",
+"E) com seu próprio carro, gastando R$ 22,36."
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 111950,
+"vest": "ENEM",
+"ano": "2024",
+"area_impressa": "MAteMÁtICA e suAs teCNoLoGIAs",
+"enunciado": "Em um hospital de determinada cidade, os enfermeiros e médicos são divididos em grupos, de acordo com o número fixo de horas que trabalham por dia. A tabela [figura] Certo dia, por conta de um surto de uma doença na cidade, o hospital precisará atender uma grande quantidade de pessoas. Para isso, serão escalados dois grupos de funcionários para trabalhar simultaneamente, de forma que a soma das horas trabalhadas por todos os servidores no dia seja a maior possível. Para atender a essa especificação, os grupos escalados devem ser",
+"alternativas": [
+"A) A e B.",
+"B) B e C.",
+"C) C e D.",
+"D) D e E.",
+"E) E e F."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 112139,
+"vest": "ENEM",
+"ano": "2024",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Uma pessoa pegou um táxi na Praça 1 para ir até a Praça 2. Porém, o motorista do táxi alegou não saber chegar até essa praça e pediu que a pessoa descrevesse o caminho para ele. Assim, a pessoa disse “Saindo da Praça 1, o senhor vai reto, vira na primeira à direita, segue em frente e vira à esquerda, continua em frente e vira à esquerda novamente, vá direto e chegará na Praça 2”. As direções permitidas em cada rua estão representadas no mapa a seguir. [figura] O trajeto indicado pela pessoa ao taxista passa pelos pontos",
+"alternativas": [
+"A) C, A, H.",
+"B) E, F, I, J.",
+"C) C, B, G, I, J.",
+"D) C, A, B, G, I, J.",
+"E) C, B, D, E, F, I, J."
+],
+"gabarito": "C",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 112572,
+"vest": "ENEM",
+"ano": "2024",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Uma bola de futebol americano oficial tem massa entre 397 e 425 g, valores correspondentes a ela completamente cheia. Já as bolas de futebol americano infantis têm um tamanho menor e são encontradas com a massa entre 250 e 350 g. Por questão de segurança, elas são sempre enviadas vazias. O dono de uma escola de futebol planeja inserir aulas de futebol americano para adultos e crianças, por isso comprou 5 bolas oficiais e 8 bolas infantis de futebol americano. Para verificar se as bolas compradas estavam de acordo com o pedido, o dono da escola encheu todas as bolas e mediu suas massas, verificando que a massa total estava correta. Considerando que todas as bolas compradas possuem a maior massa possível quando cheias, a massa total delas encontrada pelo dono da escola foi",
+"alternativas": [
+"A) 775 g.",
+"B) 4 925 g.",
+"C) 5 525 g.",
+"D) 6 200 g.",
+"E) 10 075 g."
+],
+"gabarito": "E",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 112786,
+"vest": "ENEM",
+"ano": "2024",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Em um jogo de computador, as superfícies dos objetos e materiais são formadas por quadrados. O *designer* gráfico desse jogo pretende montar um *layout* específico da superfície de um dos artefatos do jogo. Para isso, ele pretende desenhar linhas retas brancas de mesmo comprimento na superfície de um quadrado, partindo de um dos lados dele e seguindo em direção ao lado superior desse quadrado. Para a realização do desenho, o *designer* seguirá o seguinte padrão, constituído de três etapas: • O primeiro segmento de reta branco deve estar sobre o lado esquerdo do quadrado e ir até o seu ponto médio. • O segundo segmento de reta branco deve formar um ângulo de 150° com o lado esquerdo do quadrado. • O terceiro segmento de reta branco deve ser paralelo ao lado esquerdo do quadrado. A figura a seguir representa os traçados iniciais desse *designer*: [figura] Sabe-se que esse traçado segue o padrão indicado até encontrar o lado direito do quadrado. O desenho é, então, finalizado ligando os pontos inferiores por meio de segmentos brancos. Considerando a descrição anterior, o desenho feito pelo *designer* foi:",
+"alternativas": [
+"A) [figura]",
+"B) [figura]",
+"C) [figura]",
+"D) [figura]",
+"E) [figura]"
+],
+"gabarito": "A",
+"primeira_tentativa": "A006-10 — Geometria plana > Transformações geométricas e ladrilhamento"
+},
+{
+"id": 112802,
+"vest": "ENEM",
+"ano": "2024",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Em um determinado jogo, os personagens têm atributos básicos que podem ser potencializados com os chamados bônus de atributos. Cada jogada se inicia com o jogador da vez lançando um dado comum com as faces numeradas de 1 a 6. Caso o resultado seja par, ele faz a ação proposta pela primeira carta do monte. Caso o resultado seja ímpar, passa a valer a negativa do que diz o conteúdo dessa carta. Em sua vez, certo jogador obteve o número 5 no dado e retirou a seguinte carta do monte: “Se utilizar o bônus de atributo, então não venda sua armadura.” A ação que deve ser considerada pelo jogador é a de",
+"alternativas": [
+"A) não utilizar o bônus de atributo ou não vender a armadura.",
+"B) não utilizar o bônus de atributo ou vender a armadura.",
+"C) utilizar o bônus de atributo e não vender a armadura.",
+"D) utilizar o bônus de atributo ou vender a armadura.",
+"E) utilizar o bônus de atributo e vender a armadura."
+],
+"gabarito": "E",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 112841,
+"vest": "ENEM",
+"ano": "2024",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Um professor realizou uma pesquisa a respeito das preferências de lazer e dos hábitos de sono dos alunos de sua turma. Depois disso, ele selecionou as preferências de lazer e os hábitos de sono de três estudantes (Fred, Hugo e Conrado) e criou um desafio para que os outros alunos tentassem resolver. Ele informou aos alunos que um dos estudantes selecionados gosta de jogar futebol, o outro gosta de tocar violão e o outro gosta de jogar *videogame*, não necessariamente nessa ordem, e que um deles tem o hábito de dormir 7 horas por noite, um outro, 9 horas, e um terceiro, 10 horas, regularmente. Adicionalmente, ele deu as seguintes dicas: “Quem gosta de tocar violão dorme menos que 9 horas por noite. Hugo gosta de jogar futebol, mas não dorme 10 horas por noite. Conrado não toca violão.” Sendo assim, com relação às preferências de lazer e hábitos de sono dos três estudantes em questão, tem-se que o nome de quem dorme mais horas por noite e a sua respectiva preferência de lazer são:",
+"alternativas": [
+"A) Fred, violão.",
+"B) Hugo, futebol.",
+"C) Conrado, futebol.",
+"D) Fred, *videogame*.",
+"E) Conrado, *videogame*."
+],
+"gabarito": "E",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 112982,
+"vest": "ENEM",
+"ano": "2024",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Em uma determinada indústria, os testes de qualidade são realizados em lotes de 48 peças, de modo que se retira a última peça de cada lote para verificação. Nesse local, em condições normais, cada peça é identificada com um rótulo composto por uma letra do alfabeto na ordem usual (que indica o lote) seguida do número da peça naquele lote em ordem crescente. Por exemplo, a peça B01 é a primeira do segundo lote. Além disso, as peças produzidas em determinado dia, ao passarem por um sensor no final da esteira são numeradas de 1 a n, sendo n um número natural, e indicadas na tela de controle do operador como apresentado a seguir: [figura] Devido a uma falha no equipamento de inserção dos rótulos em certo dia, as letras foram mantidas, porém, os algarismos passaram a ser os dois últimos da tela de controle em vez da numeração da peça em cada lote. Sabe-se que, nesse dia, foram produzidas 540 peças, e que o operador retirou as peças corretamente, apesar de a identificação do rótulo estar errada. Com base nas informações apresentadas, com a falha, a última peça retirada para verificação naquele dia estava rotulada como",
+"alternativas": [
+"A) K28.",
+"B) K40.",
+"C) K60.",
+"D) L12.",
+"E) L48."
+],
+"gabarito": "A",
+"primeira_tentativa": "A001-02 — Matemática básica > Aritmética, MMC e MDC"
+},
+{
+"id": 113247,
+"vest": "ENEM",
+"ano": "2025",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "*Pace* é um termo usado por um corredor para denominar o seu ritmo médio em uma corrida. Representa o tempo médio, em segundo, que esse corredor leva para percorrer 1 km. O esquema apresenta o tempo, em segundo, que um corredor levou para cruzar as marcas que definem os quatro primeiros trechos de 1 km, em uma corrida de 5 km, e o tempo gasto para percorrer cada trecho de 1 km. [figura] O melhor *pace* que esse corredor alcançou em corridas de 5 km foi 281 s/km. Para que consiga repetir nessa corrida seu melhor *pace* em corridas de 5 km, seu tempo, no 5º trecho, deve ser quantos segundos menor do que o que ele gastou para percorrer o 4º trecho?",
+"alternativas": [
+"A) 1",
+"B) 2",
+"C) 8",
+"D) 9",
+"E) 15"
+],
+"gabarito": "E",
+"primeira_tentativa": "A002-01 — Razão, proporção e porcentagem > Razão e proporção"
+},
+{
+"id": 113251,
+"vest": "ENEM",
+"ano": "2025",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Os quadrados em cinza na figura representam os quarteirões de uma parte do bairro onde moram João e seu amigo. O quadrado pequeno (A), pintado em preto e localizado no canto superior esquerdo de um quadrado maior, indica a casa do amigo de João. João também mora em uma casa de esquina, mas na extremidade nordeste de um quarteirão. Para chegar à casa de seu amigo, ao sair de casa, João deve caminhar pelo quarteirão onde mora na direção oeste, dobrar à direita, caminhar por três quarteirões na direção norte e dobrar à esquerda. A casa de seu amigo fica no segundo quarteirão a oeste. [figura] O quarteirão onde se encontra a casa de João é representado pelo quadrado com a letra",
+"alternativas": [
+"A) P.",
+"B) Q.",
+"C) R.",
+"D) S.",
+"E) T."
+],
+"gabarito": "A",
+"primeira_tentativa": "A009-01 — Geometria analítica > Ponto, reta e distâncias"
+},
+{
+"id": 113291,
+"vest": "ENEM",
+"ano": "2025",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Em uma cidade, existem cinco caminhos ligando dois pontos turísticos. Um turista, dispondo de um carro para ir de um desses pontos turísticos ao outro, buscou informações sobre essas opções de caminhos e obteve as que estão apresentadas no esquema. [figura] O turista escolheu o caminho que lhe permite chegar a seu destino no menor tempo possível, trafegando nas velocidades máximas permitidas em cada trecho. O caminho escolhido foi o",
+"alternativas": [
+"A) I.",
+"B) II.",
+"C) III.",
+"D) IV.",
+"E) V."
+],
+"gabarito": "A",
+"primeira_tentativa": "A002-01 — Razão, proporção e porcentagem > Razão e proporção"
+},
+{
+"id": 113301,
+"vest": "ENEM",
+"ano": "2025",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "No piso de uma sala, há obstáculos. Cada obstáculo tem uma cor: azul, cinza ou alaranjado. Um robô foi colocado na posição representada pela seta, conforme a figura. [figura] Esse robô foi programado para, ao iniciar sua movimentação, seguir continuamente sempre no sentido que aponta a seta. Ele tem um sensor que, ao tocar em um obstáculo, identifica sua cor. Se a cor é cinza, o robô gira 90° no sentido horário; se a cor é alaranjado, gira 90° no sentido anti-horário, e se a cor for azul, gira 180°. Para sair dessa sala, em quantos obstáculos ele tocará?",
+"alternativas": [
+"A) 11",
+"B) 8",
+"C) 7",
+"D) 6",
+"E) 1"
+],
+"gabarito": "A",
+"primeira_tentativa": "A012-05 — Estatística > Fluxogramas e simulações"
+},
+{
+"id": 113409,
+"vest": "ENEM",
+"ano": "2025",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "De acordo com as informações, o valor, em milhar de real, do metro quadrado citado era, no momento da divulgação da notícia, aproximadamente,",
+"alternativas": [
+"A) 20,2.",
+"B) 61,2.",
+"C) 202,0.",
+"D) 61 200,0.",
+"E) 202 000,0."
+],
+"gabarito": "B",
+"primeira_tentativa": "A002-01 — Razão, proporção e porcentagem > Razão e proporção"
+},
+{
+"id": 113410,
+"vest": "ENEM",
+"ano": "2025",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "sem que haja nenhum desconto ou promoção. Em um dia de queima de estoques, a loja vendeu apenas os modelos A e B de celulares, obtendo um lucro desses aparelhos, nos valores anunciados, sem que sejam considerados outros custos. O número mínimo de aparelhos vendidos nesse dia é igual a",
+"alternativas": [
+"A) 21.",
+"B) 22.",
+"C) 25.",
+"D) 82.",
+"E) 85. da era datada das moedas de bronze encontradas em"
+],
+"gabarito": "B",
+"primeira_tentativa": "A002-03 — Razão, proporção e porcentagem > Porcentagem, aumentos e descontos"
+},
+{
+"id": 113414,
+"vest": "ENEM",
+"ano": "2025",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "O esquema a seguir ilustra parte do projeto de uma cerca de madeira que será usada para separar uma região retilínea de 58 metros de comprimento de outra parte da propriedade. Nesse projeto, a cerca é composta por estacas de madeira de 1,2 m de altura e 30 cm de largura separadas por uma distância de 52 cm. A única exceção é o último espaçamento, que pode ser reduzido, de forma que a cerca comece e termine com uma estaca vertical. As estacas de madeira são unidas por duas faixas horizontais de madeira paralelas de mesma largura e comprimentos iguais ao comprimento total da cerca. [figura] O dono da propriedade pretende definir o quanto o proporcional ao do metro linear, de acordo com o d comprimento desejado. a z O valor que o dono desse terreno deverá reservar para a i compra dessas ripas de madeira é igual a l i",
+"alternativas": [
+"A) R$ 6 587,20. b i",
+"B) R$ 6 642,40. n",
+"C) R$ 9 200,00. o",
+"D) R$ 9 255,20. p s",
+"E) R$ 9 310,40. i D"
+],
+"gabarito": "E",
+"primeira_tentativa": "A002-02 — Razão, proporção e porcentagem > Regra de três"
+},
+{
+"id": 113422,
+"vest": "ENEM",
+"ano": "2025",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Para ilustrar melhor o fluxo de água escoado de um vertedouro de Itaipu a cada segundo na situação apresentada como acima do normal, foi feita uma comparação desse valor com a quantidade de água contida em caixas-d’água de 1 m³ de volume interno. Nessa comparação, o volume de água escoado a cada segundo em Itaipu é equivalente a uma quantidade de caixas-d’água cheias igual a",
+"alternativas": [
+"A) 410.",
+"B) 4 100.",
+"C) 41 000.",
+"D) 410 000.",
+"E) 4 100 000."
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-05 — Matemática básica > Grandezas, unidades de medida e conversões"
+},
+{
+"id": 113424,
+"vest": "ENEM",
+"ano": "2025",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "-bomba utilizado para encher os reservatórios possui uma vazão total de 400 litros por minuto. Para não precisar esperar que o caminhão encha todos os reservatórios, o piscicultor iniciará a produção após dois reservatórios estarem cheios, começando por aqueles de menor capacidade. O tempo que o piscicultor precisará esperar para iniciar a nova produção, de acordo com seu planejamento, é de aproximadamente",
+"alternativas": [
+"A) 31 horas.",
+"B) 42 horas.",
+"C) 63 horas.",
+"D) 73 horas.",
+"E) 83 horas."
+],
+"gabarito": "C",
+"primeira_tentativa": "A002-02 — Razão, proporção e porcentagem > Regra de três"
+},
+{
+"id": 113962,
+"vest": "ENEM",
+"ano": "2026",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Uma empresa de lavagem veicular, que adota uma filosofia de limpeza sustentável, conta com um sistema de armazenamento de água com capacidade total de 1 500 litros, dos quais 80% são reservados exclusivamente para as atividades de limpeza automotiva. Uma vez iniciada a utilização dessa reserva, ela será reabastecida no dia seguinte ao seu esgotamento completo. Na rotina diária da empresa, atuam três equipes de trabalho, cada uma realizando exatamente 25 lavagens de veículos por dia. Sabe-se que, em consequência da utilização de produtos químicos específicos, cada lavagem veicular consome 800 mililitros de água. Com base nisso, a reserva exclusiva para a limpeza automotiva será reabastecida após exatamente quantos dias do início da utilização?",
+"alternativas": [
+"A) 21",
+"B) 25",
+"C) 26",
+"D) 32",
+"E) 61"
+],
+"gabarito": "A",
+"primeira_tentativa": "A001-05 — Matemática básica > Grandezas, unidades de medida e conversões"
+},
+{
+"id": 113975,
+"vest": "ENEM",
+"ano": "2026",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "A associação de moradores de um condomínio com 400 residências iniciou um projeto de sustentabilidade para a coletadeóleodecozinhausadoesuaconversãoemsabãoartesanal para a venda. O projeto possui um custo operacional mensal fixo de R$ 600,00,e a meta da associação é,além de cobrir os custos,obter um lucro mensal que será destinado à reforma do condomínio. No planejamento inicial, o lucro mensal esperado era de R$ 300,00 e foi calculado considerando que 75% das residências contribuiriam com o projeto, doando uma média de 0,6 litro de óleo cada uma. Contudo, ao final do primeiro mês, verificou-se que apenas 60% dos domicílios efetivamente participaram. Para compensar a diminuição no total de óleo arrecadado, a associação precisará reajustar o preço de venda do sabão para o próximo mês, considerando que nenhuma outra residência passará a contribuir e mantendo a doação média de cada uma. Sabe-se que cada litro de óleo de cozinha usado produz 1,25 kg de sabão. Para se obter o lucro mensal previsto inicialmente no próximo mês, o preço de venda, em real, do quilograma do sabão deverá ter um reajuste mínimo, em relação ao inicial, de",
+"alternativas": [
+"A) R$ 0,60.",
+"B) R$ 0,80.",
+"C) R$ 1,00.",
+"D) R$ 3,50.",
+"E) R$ 4,00."
+],
+"gabarito": "C",
+"primeira_tentativa": "A002-03 — Razão, proporção e porcentagem > Porcentagem, aumentos e descontos"
+},
+{
+"id": 114080,
+"vest": "FAMERP",
+"ano": "2016",
+"area_impressa": "",
+"enunciado": "Observe as três primeiras linhas de um padrão, que continua nas linhas subsequentes. [figura] Na 30<sup>a</sup> linha desse padrão, o maior número da soma em vermelho, indicada dentro do retângulo, será igual a",
+"alternativas": [
+"A) 929.",
+"B) 930.",
+"C) 959.",
+"D) 1 029.",
+"E) 960."
+],
+"gabarito": "E",
+"primeira_tentativa": "A005-01 — Sequências e progressões > Progressão aritmética (PA)"
+},
+{
+"id": 114145,
+"vest": "FAMERP",
+"ano": "2017",
+"area_impressa": "",
+"enunciado": "A escala de coma de Glasgow é utilizada como primeira avaliação do nível de consciência de pacientes com trauma craniano. Essa escala consiste em avaliar o paciente em três testes, que são: ocular (O), verbal (V) e motor (M). O especialista que avalia o paciente atribui de 1 a 4 pontos para O, de 1 a 5 pontos para V e de 1 a 6 pontos para M. Um trauma cranioencefálico é considerado grave se a pontuação total é de 3 a 8 pontos, moderado se é de 9 a 13 pontos, e leve se é de 14 a 15 pontos. Se um paciente foi avaliado na escala de Glasgow com classificação moderada de trauma, é correto afirmar que ele obteve, necessariamente, pontuação",
+"alternativas": [
+"A) de 1 unidade inferior ao máximo em apenas um dos três testes.",
+"B) de 2 unidades inferiores ao máximo em apenas um dos três testes.",
+"C) maior do que 1 em pelo menos dois dos três testes.",
+"D) máxima em pelo menos um dos três testes.",
+"E) menor do que 3 em apenas um dos três testes."
+],
+"gabarito": "C",
+"primeira_tentativa": "A010-01 — Análise combinatória > Princípio fundamental da contagem"
+},
+{
+"id": 114146,
+"vest": "FAMERP",
+"ano": "2017",
+"area_impressa": "",
+"enunciado": "A figura mostra, em perspectiva, as quatro primeiras pilhas de blocos de uma sequência. [figura] Mantida a mesma lógica de empilhamento dos blocos, a 6<sup>a</sup> pilha da sequência terá um total de blocos igual a",
+"alternativas": [
+"A) 149.",
+"B) 141.",
+"C) 146.",
+"D) 151.",
+"E) 144."
+],
+"gabarito": "C",
+"primeira_tentativa": "A005-01 — Sequências e progressões > Progressão aritmética (PA)"
+}
+]
