@@ -1,10 +1,10 @@
 # Junção do banco antigo com o novo (Fase 2)
 
-* Questões novas prontas (objetivas): 25281
+* Questões novas prontas (objetivas): 25093
 * Repetições dentro do banco novo (simulado/apostila copiando prova): 794 (fica a da prova oficial)
 * Questões antigas: 5288 — fica a extração nova em 2912, fica a antiga em 2376, dúvida em 0
-* Entram como questões novas: 21559
-* **Total do banco depois da junção: 26847**
+* Entram como questões novas: 21371
+* **Total do banco depois da junção: 26659**
 
 ## Por vestibular (antigas)
 

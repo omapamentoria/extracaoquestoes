@@ -175,6 +175,14 @@ Plano completo em `docs/estrategia-banco-unificado.md`; diagnóstico da platafor
 * 1.298 questões ficaram em área diferente da impressa. A maior parte é do SSA: a extração gravou "MATEMÁTICA" como área de todas as questões do 1º dia. Vale a área da classificação.
 * Próximo passo: gravar no banco (converte) e entregar à plataforma, junto com o Prompt 3 do Lovable. Depois vem a Fase 5c (estilos).
 
+## Questões com texto-base com alerta (01/10/2026)
+
+* No teste da tela, a 119821 (UNESP 2020) apareceu com uma tabela vazia. O mapa do texto-base tinha sido transcrito
+  como tabela, e o alerta estava no texto-base, não na questão.
+* A junção agora também confere os alertas do texto-base. 188 questões saíram da carga; a lista está em
+  `docs/lotes/fora_texto_base_alerta.txt`. Elas voltam depois da correção.
+* A 8034 (Estequiometria) está com o texto embaralhado com o de outras questões: conferir a extração.
+
 ## Decisões em aberto
 
 * ENCCEJA: incluir ou não? (metade é de ensino fundamental; no catálogo, prioridade 9 para médio e 10 para fundamental)
