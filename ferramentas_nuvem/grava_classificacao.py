@@ -21,6 +21,7 @@ for f in sorted(glob.glob(os.path.join(DEST, "final", "partes", "banco_parte_*.j
         a = ASS[SUB[sub]["assunto_codigo"]]; m = MAT[a["materia_codigo"]]
         q.update({"area_codigo": m["area_codigo"], "materia_codigo": m["codigo"], "assunto_codigo": a["codigo"], "subassunto_codigo": sub})
         cont["plataforma" if q["id"] in ja else "classificação"] += 1
+        q.setdefault("tipo_prova", "oficial")   # questoes antigas: todas de prova oficial (ENEM, SSA, FPS)
     json.dump(lista, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
 print(dict(cont), "sem classificação:", len(sem), sem[:30])
 json.dump(sem, open(os.path.join(R, "unificacao", "sem_classificacao.json"), "w"))

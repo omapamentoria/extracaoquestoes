@@ -120,6 +120,24 @@ for arq in antigos:
     json.dump(lista, open(arq, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
 json.dump(refazer, open(os.path.join(DEST, "final", "comentarios_a_refazer.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
+def num_simulado(c):
+    """numero do simulado; o catalogo deixou 0/vazio em alguns (Poliedro 2025, SAS-SSA): tira do caminho do arquivo"""
+    n = str(c.get("simulado_n") or "").strip(); cam = c.get("caminho") or ""
+    if n in ("", "0") or (n == "00" and "Bernoulli" not in cam):
+        m = (re.search(r"P0LY - 0?(\d+)", cam) or re.search(r"(\d)\s*FASE", cam, re.I) or re.search(r"Simulado\s*0?(\d+)", cam, re.I))
+        if m: return m.group(1) + ("ª fase" if "FASE" in m.group(0).upper() else "")
+        return ""
+    return str(int(n)) if n.isdigit() else n
+
+
+def edicao_de(c):
+    """simulado aparece com o nome de quem fez (ex.: 'Simulado Bernoulli 01'); prova oficial, a edicao (regular, PPL...)"""
+    if (c.get("grupo") or "").startswith("SIMULADO"):
+        n = num_simulado(c)
+        return " ".join(x for x in ("Simulado", c.get("instituicao") or "", n) if x)
+    return c.get("edicao") or ""
+
+
 # 3. questoes novas
 prox = max([int(v) for v in ids_novos.values()] + [100000]) + 1
 ordem = sorted(entram, key=lambda i: (CAT[i.split("-")[0]]["vestibular"] or "", str(CAT[i.split("-")[0]]["ano"] or ""), i))
@@ -134,7 +152,9 @@ for qid in ordem:
                   "tema_n1": "", "tema_n2": "", "tema_n3": "", "tema_n4": "",
                   "statement": texto, "fontes": fontes, "alternativas": alts, "apos_alternativas": apos,
                   "gabarito": "anulada" if q.get("anulada") else q["gabarito"], "tem_imagem": "sim" if imgs else "nao", "imagens": imgs, "url": "",
-                  "vestibular": c["vestibular"], "edicao": c.get("edicao") or "", "dia": c.get("dia") or "", "formato": "objetiva",
+                  "vestibular": c["vestibular"], "edicao": edicao_de(c), "dia": c.get("dia") or "", "formato": "objetiva",
+                  "tipo_prova": "simulado" if (c.get("grupo") or "").startswith("SIMULADO") else "oficial",
+                  "instituicao": c.get("instituicao") or "", "simulado_n": num_simulado(c) if (c.get("grupo") or "").startswith("SIMULADO") else "",
                   "area_prova": q.get("area") or "", "idioma": q.get("idioma"), "origem_texto": qid,
                   "passos_raciocinio": [], "analise_correta_titulo": "", "analise_correta_texto": "", "analise_incorretas_intro": "",
                   "analise_incorretas": [], "quadro_resumo": [], "leve_para_prova": "", "flashcards": [], "nota_revisao": None})
