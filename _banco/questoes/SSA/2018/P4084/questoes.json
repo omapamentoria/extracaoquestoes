@@ -1,0 +1,7460 @@
+[
+ {
+  "id": "P4084-Q001",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 1,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Os insetos são considerados o alimento do futuro por terem elementos nutritivos. Veja, na tabela a seguir, a descrição dos nutrientes neles encontrados.\n\nLagarta mopane - estágio larval das mariposas imperador,  \n*Imbrasia belina* - rica em potássio, sódio, cálcio, fósforo, magnésio, zinco, manganês e cobre.\n\nLarvas da farinha - larvas do besouro *Tenebrio molitor* - ricas em  \ncobre, sódio, potássio, ferro, zinco, selênio e gorduras poli-insaturadas.\n\n{{img:1}}\n\nPercevejo Maria-fedida - *Nezara viridula -* rico em vitaminas do complexo B, proteínas, ferro, potássio e fósforo.\n\nBesouro escaravelho-vermelho - *Rhynchophorus ferrugineus –*  \nrico em potássio, zinco, ferro, fósforo e também em vários aminoácidos, ácidos graxos monoinsaturados, poli-insaturados e  \nem quitina.\n\n{{fonte:1}}\n\nSobre os componentes químicos encontrados nesses animais e o seu valor nutricional, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "Fonte: http://www.ecycle.com.br/component/content/article/35-atitude/1928-conheca-os-insetos-que-voce-vai-comer-no-futuro.html (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A quitina, encontrada no exoesqueleto de artrópodes, como o escaravelho-vermelho, é um polissacarídeo energético, solúvel em água, formado por várias moléculas de glicose e um grupo amina (NH<sub>2</sub>)."
+   },
+   {
+    "letra": "B",
+    "texto": "As gorduras de origem animal, como aquelas encontradas nas larvas do besouro *Tenebrio molitor,* são formadas por ácidos graxos insaturados, em que todas as ligações disponíveis dos átomos de carbono são ocupadas por átomos de hidrogênio."
+   },
+   {
+    "letra": "C",
+    "texto": "O magnésio encontrado na lagarta mopane é um mineral importante na ativação de enzimas envolvidas na síntese de proteínas e na contração muscular. Sua carência pode provocar bócio e queda de dentes."
+   },
+   {
+    "letra": "D",
+    "texto": "O cálcio, o fósforo e o zinco, encontrados na lagarta mopane, são minerais, que participam de importantes funções do nosso corpo; os dois primeiros participam da formação e manutenção de ossos e dentes, enquanto o zinco atua no processo de cicatrização."
+   },
+   {
+    "letra": "E",
+    "texto": "As vitaminas do complexo B, encontradas na Maria-fedida, são um complexo de vitaminas lipossolúveis, o qual regula várias funções do nosso corpo, por exemplo, a vitamina B9 ou riboflavina, que previne anemia."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q001_img1.png",
+    "pagina": 3,
+    "bbox": [
+     417.6,
+     126.7,
+     517.7,
+     405.4
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.625,
+     83.70700000000011,
+     547.1899999999999,
+     94.70700000000011
+    ],
+    [
+     42.625,
+     96.30700000000002,
+     303.358,
+     107.30700000000002
+    ],
+    [
+     62.225,
+     141.49700000000007,
+     347.12600000000003,
+     152.49700000000007
+    ],
+    [
+     62.225,
+     153.92700000000002,
+     389.8910000000001,
+     164.92700000000002
+    ],
+    [
+     62.225,
+     166.92700000000002,
+     188.38199999999998,
+     177.92700000000002
+    ],
+    [
+     62.225,
+     215.52700000000004,
+     378.214,
+     226.52700000000004
+    ],
+    [
+     62.225,
+     228.3270000000001,
+     350.163,
+     239.3270000000001
+    ],
+    [
+     62.225,
+     241.12700000000007,
+     122.21900000000001,
+     252.12700000000007
+    ],
+    [
+     417.6,
+     126.72,
+     517.6800000000001,
+     405.36
+    ],
+    [
+     62.225,
+     297.357,
+     369.44599999999997,
+     308.357
+    ],
+    [
+     62.225,
+     310.157,
+     296.547,
+     321.157
+    ],
+    [
+     62.225,
+     355.777,
+     368.846,
+     366.788
+    ],
+    [
+     62.225,
+     368.777,
+     345.37100000000004,
+     379.777
+    ],
+    [
+     62.225,
+     381.377,
+     378.63599999999997,
+     392.377
+    ],
+    [
+     62.225,
+     393.97700000000003,
+     116.045,
+     404.97700000000003
+    ],
+    [
+     76.025,
+     423.55600000000004,
+     539.0939999999999,
+     431.55600000000004
+    ],
+    [
+     499.35,
+     432.75600000000003,
+     538.798,
+     440.75600000000003
+    ],
+    [
+     42.625,
+     451.777,
+     547.265,
+     462.777
+    ],
+    [
+     42.625,
+     464.207,
+     153.708,
+     475.207
+    ],
+    [
+     42.625,
+     489.807,
+     547.224,
+     500.807
+    ],
+    [
+     64.025,
+     502.407,
+     546.9750000000001,
+     513.4069999999999
+    ],
+    [
+     64.025,
+     514.9970000000001,
+     127.108,
+     525.9970000000001
+    ],
+    [
+     42.625,
+     533.2070000000001,
+     547.228,
+     544.207
+    ],
+    [
+     64.025,
+     545.9970000000001,
+     547.1320000000001,
+     556.9970000000001
+    ],
+    [
+     64.025,
+     558.807,
+     306.0580000000001,
+     569.807
+    ],
+    [
+     42.625,
+     577.2270000000001,
+     547.1510000000001,
+     588.227
+    ],
+    [
+     64.025,
+     589.827,
+     547.496,
+     600.827
+    ],
+    [
+     64.025,
+     602.427,
+     149.308,
+     613.427
+    ],
+    [
+     42.625,
+     620.827,
+     547.3679999999999,
+     631.827
+    ],
+    [
+     64.025,
+     633.427,
+     547.337,
+     644.427
+    ],
+    [
+     64.025,
+     646.2270000000001,
+     394.95500000000004,
+     657.227
+    ],
+    [
+     42.625,
+     664.657,
+     547.28,
+     675.657
+    ],
+    [
+     64.025,
+     677.2520000000001,
+     546.9709999999998,
+     688.2520000000001
+    ],
+    [
+     64.025,
+     689.852,
+     219.93900000000005,
+     700.852
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q002",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 2,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a figura a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nSobre os desenhos no quadro, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "Fonte: Genética na Escola | Vol. 9 | Nº 1 | 2014 -",
+   "Disponível em: www.sbg.org.br (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O desenho 1 corresponde ao ácido desoxirribonucleico, constituído de duas cadeias de nucleotídeos, unidas uma à outra por meio de pontes de hidrogênio."
+   },
+   {
+    "letra": "B",
+    "texto": "O desenho 1 corresponde ao ácido ribonucleico, no qual as bolinhas correspondem aos fosfatos, e as linhas internas correspondem às pentoses com suas bases."
+   },
+   {
+    "letra": "C",
+    "texto": "O desenho 2 representa a cromatina eucariótica, formada pelo DNA empacotado pelo RNA; esse conjunto de filamentos possui a mesma morfologia para cada elemento."
+   },
+   {
+    "letra": "D",
+    "texto": "O desenho 3 mostra uma pentose do tipo desoxirribose, por ter um átomo de hidrogênio a menos em relação à ribose."
+   },
+   {
+    "letra": "E",
+    "texto": "O desenho 3 mostra uma base nitrogenada do tipo pirimídica, visto apresentar dois anéis, e irá se ligar à pentose, para formar um nucleotídeo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q002_img1.png",
+    "pagina": 4,
+    "bbox": [
+     137.5,
+     88.6,
+     451.4,
+     379.4
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.625,
+     45.70700000000011,
+     183.26999999999998,
+     56.70700000000011
+    ],
+    [
+     137.52,
+     88.56,
+     451.44,
+     379.44
+    ],
+    [
+     287.7,
+     381.75600000000003,
+     460.014,
+     389.75600000000003
+    ],
+    [
+     307.3,
+     390.956,
+     459.794,
+     398.956
+    ],
+    [
+     42.625,
+     422.777,
+     359.978,
+     433.777
+    ],
+    [
+     42.625,
+     448.377,
+     547.238,
+     459.377
+    ],
+    [
+     64.025,
+     461.007,
+     396.5070000000002,
+     472.007
+    ],
+    [
+     42.625,
+     479.407,
+     547.4399999999999,
+     490.407
+    ],
+    [
+     64.025,
+     492.007,
+     370.991,
+     503.007
+    ],
+    [
+     42.625,
+     510.407,
+     547.468,
+     521.4069999999999
+    ],
+    [
+     64.025,
+     522.9970000000001,
+     414.804,
+     533.9970000000001
+    ],
+    [
+     42.625,
+     541.407,
+     547.1300000000001,
+     552.407
+    ],
+    [
+     64.025,
+     554.2070000000001,
+     163.79499999999996,
+     565.207
+    ],
+    [
+     42.625,
+     572.627,
+     547.473,
+     583.627
+    ],
+    [
+     64.025,
+     585.2270000000001,
+     280.599,
+     596.227
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q003",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 3,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\nAs bactérias empregaram o oxigênio reativo para aprimorar os processos celulares de transformação de energia, no que talvez constitua o maior exemplo de reciclagem de todos os tempos, cumprindo as seguintes etapas: oxidando o material que produziam, ao aprisionarem a energia da luz, as bactérias fotossintéticas roxas aumentaram sua capacidade de metabolizar ATP, o composto de armazenagem de energia usado por todas as células de todos os seres vivos. Decompondo as moléculas orgânicas e produzindo dióxido de carbono e água, as bactérias desviaram a combustão natural do oxigênio para seus próprios fins. Os organismos fermentadores foram atacados por bactérias, que usavam oxigênio e se multiplicaram em seu interior. É provável que os invasores - linhagem roxa – tenham sido as protomitocôndrias, que, alimentadas e protegidas num meio ambiente vivo, poderiam sair-se melhor, não destruindo seus hospedeiros, intolerantes ao oxigênio.\n\n{{fonte:1}}\n\nSobre isso, assinale a alternativa **CORRETA.**",
+  "fontes": [
+   "Fonte: MARGULIS, L.; SAGAN, D. **O que é vida**. Rio de Janeiro: Jorge Zahar Ed. 2002. (Adaptado)."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Os quatro processos celulares de transformação de energia nos seres vivos envolvem a luz do sol. São divididos em dois grupos: os de incorporação de energia, a exemplo da respiração e fermentação, e os de liberação de energia, tais como fotossíntese e quimiossíntese."
+   },
+   {
+    "letra": "B",
+    "texto": "Em média, duas moléculas de ATP são produzidas pela respiração de uma molécula de glicose, enquanto essa mesma quantidade de glicose, com a evolução da fermentação, passou a gerar até 36 moléculas de ATP."
+   },
+   {
+    "letra": "C",
+    "texto": "Admitir uma hipótese heterotrófica para explicar a origem dos seres vivos implica a aceitação da ocorrência de reações químicas muito mais complexas, pois o metabolismo dependia da presença de oxigênio, com rendimento energético menor e, consequentemente, menor descendência."
+   },
+   {
+    "letra": "D",
+    "texto": "Por causa de mutações no material genético de seres heterótrofos, surgiram células autótrofas com a capacidade de produzir o seu próprio alimento a partir do uso de gás carbônico e de água do ambiente, utilizando a luz solar como fonte de energia para a síntese de matéria orgânica."
+   },
+   {
+    "letra": "E",
+    "texto": "Atualmente, apesar de as mitocôndrias possuírem o seu próprio DNA linear e continuarem a se reproduzir como bactérias, o parasitismo se tornou permanente. Assim, ela não pode sobreviver sozinha, embora sua hospedeira o faça."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.625,
+     45.70700000000011,
+     158.908,
+     56.70700000000011
+    ],
+    [
+     62.225,
+     71.49700000000007,
+     532.8790000000002,
+     82.49700000000007
+    ],
+    [
+     62.225,
+     84.10700000000008,
+     533.1060000000001,
+     95.10700000000008
+    ],
+    [
+     62.225,
+     96.90700000000004,
+     533.496,
+     107.90700000000004
+    ],
+    [
+     62.225,
+     109.49700000000007,
+     532.9589999999998,
+     120.49700000000007
+    ],
+    [
+     62.225,
+     122.10700000000008,
+     532.7720000000002,
+     133.10700000000008
+    ],
+    [
+     62.225,
+     134.7070000000001,
+     533.3629999999999,
+     145.7070000000001
+    ],
+    [
+     62.225,
+     147.52700000000004,
+     532.9370000000001,
+     158.52700000000004
+    ],
+    [
+     62.225,
+     160.12700000000007,
+     533.327,
+     171.12700000000007
+    ],
+    [
+     62.225,
+     172.7270000000001,
+     533.638,
+     183.76
+    ],
+    [
+     62.225,
+     185.3270000000001,
+     533.394,
+     196.3270000000001
+    ],
+    [
+     62.225,
+     198.12700000000007,
+     273.67800000000005,
+     209.12700000000007
+    ],
+    [
+     176.85,
+     214.70600000000002,
+     533.3420000000001,
+     222.70600000000002
+    ],
+    [
+     42.625,
+     237.52700000000004,
+     264.538,
+     248.52700000000004
+    ],
+    [
+     42.625,
+     262.957,
+     547.035,
+     273.957
+    ],
+    [
+     64.025,
+     275.557,
+     547.357,
+     286.557
+    ],
+    [
+     64.025,
+     288.357,
+     474.44899999999996,
+     299.357
+    ],
+    [
+     42.625,
+     306.757,
+     546.9300000000001,
+     317.757
+    ],
+    [
+     64.025,
+     319.357,
+     546.8369999999999,
+     330.357
+    ],
+    [
+     64.025,
+     331.957,
+     171.59400000000002,
+     342.957
+    ],
+    [
+     42.625,
+     350.357,
+     547.327,
+     361.357
+    ],
+    [
+     64.025,
+     362.97700000000003,
+     546.76,
+     373.97700000000003
+    ],
+    [
+     64.025,
+     375.777,
+     514.092,
+     386.777
+    ],
+    [
+     42.625,
+     392.97700000000003,
+     547.047,
+     403.97700000000003
+    ],
+    [
+     64.025,
+     405.577,
+     546.6390000000001,
+     416.577
+    ],
+    [
+     64.025,
+     418.177,
+     518.7319999999997,
+     429.177
+    ],
+    [
+     42.625,
+     436.577,
+     546.94,
+     447.577
+    ],
+    [
+     64.025,
+     449.377,
+     546.9139999999999,
+     460.377
+    ],
+    [
+     64.025,
+     462.007,
+     259.71500000000003,
+     473.007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q003_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q004",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 4,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Os antibióticos estão perdendo a competição para as bactérias. Numa experiência, cientistas ingleses misturaram duas espécies de bactérias, a *Staphylococcus aureus* e a *Enterococcus*. A primeira era quase imbatível, porque já havia deixado para trás os mais de 200 tipos de antibióticos conhecidos, com exceção da vancomicina; a segunda espécie sabia o que fazer para derrotar justamente a tal vancomicina — e foi esse segredo que transmitiu às *Staphylococcus aureus*, passados alguns dias de convivência em tubo de ensaio. Os remédios antimicrobianos têm várias estratégias para vencer os adversários. Uma delas é a destruição de uma estrutura complexa e resistente, que dá a forma da célula bacteriana.\n\n{{fonte:1}}\n\nAssinale a alternativa que apresenta a e*strutura complexa e resistente* citada no texto.",
+  "fontes": [
+   "Fonte: http://super.abril.com.br/ciencia/antibioticos-x-bacterias-a-corrida-do-seculo. (Adaptado)."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Cápsula de lignina"
+   },
+   {
+    "letra": "B",
+    "texto": "Glicocálix"
+   },
+   {
+    "letra": "C",
+    "texto": "Membrana plasmática"
+   },
+   {
+    "letra": "D",
+    "texto": "Parede celulósica"
+   },
+   {
+    "letra": "E",
+    "texto": "Parede bacteriana"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.625,
+     487.207,
+     546.8700000000001,
+     498.207
+    ],
+    [
+     42.625,
+     499.807,
+     547.511,
+     510.807
+    ],
+    [
+     42.625,
+     512.607,
+     546.8690000000001,
+     523.607
+    ],
+    [
+     42.625,
+     525.2070000000001,
+     547.0890000000002,
+     536.207
+    ],
+    [
+     42.625,
+     537.607,
+     547.438,
+     548.64
+    ],
+    [
+     42.625,
+     550.607,
+     547.241,
+     561.607
+    ],
+    [
+     42.625,
+     563.2270000000001,
+     547.496,
+     574.227
+    ],
+    [
+     42.625,
+     575.827,
+     275.084,
+     586.827
+    ],
+    [
+     209.27,
+     587.806,
+     547.1800000000001,
+     595.806
+    ],
+    [
+     42.625,
+     610.2270000000001,
+     463.93499999999995,
+     621.227
+    ],
+    [
+     42.625,
+     635.627,
+     154.258,
+     646.627
+    ],
+    [
+     42.625,
+     648.2270000000001,
+     110.87400000000002,
+     659.227
+    ],
+    [
+     42.625,
+     660.827,
+     172.12900000000002,
+     671.827
+    ],
+    [
+     42.625,
+     673.652,
+     150.65,
+     684.652
+    ],
+    [
+     42.625,
+     686.2520000000001,
+     153.862,
+     697.2520000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q004_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q005",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 5,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o diálogo a seguir:\n\n{{img:1}}\n\n**Fonte:**\n\nOrganelas são pequenas estruturas presentes no citoplasma das células. Sobre as características e funções destas, analise as afirmativas a seguir:\n\nI. O retículo endoplasmático é constituído por uma rede de tubos e bolsas membranosas; pode ser do tipo liso ou não granuloso e rugoso ou granuloso. O não granuloso sintetiza esteroides e fosfolipídios, e o granuloso se encarrega da produção de certas proteínas destinadas à exportação.\n\nII. O complexo de Golgi ou golgiense é formado por um conjunto de bolsas membranosas, denominadas cisternas ou vesículas. Localiza-se geralmente próximo ao núcleo e ao retículo endoplasmático não granuloso e produz proteínas e polissacarídeos, como a hemicelulose presente na cápsula bacteriana.\n\nIII. Os peroxissomos são organelas membranosas, encontrados em células eucarióticas; essas organelas estão envolvidas na oxidação de ácidos graxos, processo conhecido como betaoxidação.\n\nIV. As mitocôndrias são organelas responsáveis pela respiração celular aeróbica; em geral, têm forma de um bastonete, sendo constituídas por duas membranas lipoproteicas: uma externa, lisa e contínua, e outra interna, com invaginações, que formam as cristas mitocondriais.\n\nV. Os lisossomos são pequenas vesículas esféricas, membranosas, ricas em enzimas digestivas, encontrados em todas as células, desde as procarióticas até as eucarióticas. Estão relacionados às funções de degradação de bebida alcoólica e à digestão intracelular.\n\nEstão **CORRETAS** apenas",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e V."
+   },
+   {
+    "letra": "B",
+    "texto": "I, III e IV."
+   },
+   {
+    "letra": "C",
+    "texto": "II e III."
+   },
+   {
+    "letra": "D",
+    "texto": "II e V."
+   },
+   {
+    "letra": "E",
+    "texto": "III, IV e V."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q005_img1.png",
+    "pagina": 6,
+    "bbox": [
+     177.2,
+     72.7,
+     376.2,
+     277.2
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.625,
+     45.70700000000011,
+     191.26999999999998,
+     56.70700000000011
+    ],
+    [
+     177.2,
+     72.72,
+     376.25,
+     277.2
+    ],
+    [
+     189.05,
+     269.536,
+     213.33,
+     277.536
+    ],
+    [
+     42.625,
+     290.757,
+     547.286,
+     301.757
+    ],
+    [
+     42.625,
+     303.357,
+     273.4820000000001,
+     314.357
+    ],
+    [
+     71.025,
+     341.357,
+     547.496,
+     352.357
+    ],
+    [
+     92.225,
+     353.97700000000003,
+     547.075,
+     364.97700000000003
+    ],
+    [
+     92.225,
+     366.577,
+     547.471,
+     377.577
+    ],
+    [
+     92.225,
+     379.377,
+     215.259,
+     390.377
+    ],
+    [
+     71.025,
+     397.777,
+     546.987,
+     408.777
+    ],
+    [
+     92.225,
+     410.377,
+     546.9860000000001,
+     421.377
+    ],
+    [
+     92.225,
+     422.97700000000003,
+     547.15,
+     433.97700000000003
+    ],
+    [
+     92.225,
+     435.577,
+     248.74,
+     446.577
+    ],
+    [
+     71.025,
+     453.97700000000003,
+     547.462,
+     464.97700000000003
+    ],
+    [
+     92.225,
+     466.807,
+     547.4709999999999,
+     477.807
+    ],
+    [
+     92.225,
+     479.407,
+     160.821,
+     490.407
+    ],
+    [
+     71.025,
+     497.807,
+     547.333,
+     508.807
+    ],
+    [
+     92.225,
+     510.407,
+     547.542,
+     521.4069999999999
+    ],
+    [
+     92.225,
+     522.9970000000001,
+     519.638,
+     533.9970000000001
+    ],
+    [
+     71.025,
+     541.407,
+     546.811,
+     552.407
+    ],
+    [
+     92.225,
+     554.2070000000001,
+     546.9230000000002,
+     565.207
+    ],
+    [
+     92.225,
+     566.827,
+     538.5039999999999,
+     577.827
+    ],
+    [
+     42.625,
+     600.027,
+     174.71699999999998,
+     611.027
+    ],
+    [
+     42.025,
+     625.427,
+     101.87600000000002,
+     636.427
+    ],
+    [
+     42.025,
+     638.027,
+     107.88200000000002,
+     649.027
+    ],
+    [
+     42.025,
+     650.627,
+     94.48400000000002,
+     661.6270000000001
+    ],
+    [
+     42.025,
+     663.457,
+     92.68000000000002,
+     674.457
+    ],
+    [
+     42.025,
+     676.052,
+     112.27100000000002,
+     687.052
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [
+   "texto curto solto junto da imagem (“**Fonte:**”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q005_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q006",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 6,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nA meiose é um tipo de divisão celular, que persiste entre os seres vivos como um mecanismo gerador de variabilidade e uma consequente evolução biológica. Assinale a alternativa que indica a fase da divisão celular de acordo com o que é observado na célula e que garante essa possibilidade de diversidade.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Na Prófase I, ocorre o *crossing-over*. Na figura, observam-se dois quiasmas no par 1 e um quiasma no par 2."
+   },
+   {
+    "letra": "B",
+    "texto": "Na Prófase II, ocorre a permutação. Na figura, observam-se três quiasmas entre cromossomos não homólogos."
+   },
+   {
+    "letra": "C",
+    "texto": "Na Interfase, ocorre a formação das cromátides-irmãs. Na figura, observam-se dois pares de centríolos auxiliando a separação dos centrômeros."
+   },
+   {
+    "letra": "D",
+    "texto": "Na Anáfase I, ocorre a formação do fuso acromático. Na figura, observam-se dois pares de cromossomos acrocêntricos (pares 1 e 2)."
+   },
+   {
+    "letra": "E",
+    "texto": "Na Metáfase II, ocorre a formação dos quiasmas. Na figura, observa-se a variabilidade resultante da troca entre cromátides homólogas dos pares 1 e 2."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q006_img1.png",
+    "pagina": 7,
+    "bbox": [
+     205.2,
+     98.6,
+     385.0,
+     267.1
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.625,
+     45.70700000000011,
+     547.409,
+     56.70700000000011
+    ],
+    [
+     42.625,
+     58.307000000000016,
+     547.316,
+     69.30700000000002
+    ],
+    [
+     42.625,
+     71.10700000000008,
+     547.211,
+     82.10700000000008
+    ],
+    [
+     42.625,
+     83.70700000000011,
+     117.48800000000001,
+     94.70700000000011
+    ],
+    [
+     205.15,
+     98.64,
+     384.95000000000005,
+     267.1
+    ],
+    [
+     42.625,
+     270.957,
+     547.0740000000001,
+     281.957
+    ],
+    [
+     64.025,
+     283.757,
+     152.22299999999998,
+     294.757
+    ],
+    [
+     42.625,
+     296.557,
+     547.252,
+     307.557
+    ],
+    [
+     64.025,
+     309.157,
+     142.42899999999997,
+     320.157
+    ],
+    [
+     42.625,
+     321.757,
+     547.4590000000001,
+     332.757
+    ],
+    [
+     64.025,
+     334.357,
+     316.0350000000001,
+     345.357
+    ],
+    [
+     42.625,
+     347.157,
+     545.955,
+     358.157
+    ],
+    [
+     64.025,
+     359.777,
+     269.538,
+     370.777
+    ],
+    [
+     42.625,
+     372.377,
+     545.9,
+     383.377
+    ],
+    [
+     64.025,
+     384.97700000000003,
+     327.758,
+     395.97700000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q006_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q007",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 7,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a charge a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nNela o óvulo ―barra‖ a entrada de vários espermatozoides para seu interior a fim de impedir a poliespermia humana. Assinale a alternativa que **CORRETAMENTE** justifica esse ato.",
+  "fontes": [
+   "Fonte: www.zoado.com.br (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Há alteração da polaridade elétrica da membrana plasmática ovular aos íons Na<sup>+</sup> e K<sup>+</sup>; antes da fecundação, o interior da membrana plasmática do óvulo é carregado positivamente, gerando uma onda de polarização por toda a superfície do óvulo, impedindo que outros espermatozoides se unam a ela."
+   },
+   {
+    "letra": "B",
+    "texto": "Com a entrada do primeiro espermatozoide e a polarização da membrana ovular, as enzimas dos grânulos corticais atuam sobre a membrana pelúcida, alterando os receptores presentes no envoltório ovular, os quais perdem a capacidade de se ligarem a outros espermatozoides."
+   },
+   {
+    "letra": "C",
+    "texto": "Na ejaculação, são liberados cerca de 300 milhões de espermatozoides; poucos atingem a tuba uterina, e um só fecunda o óvulo, que se encontra na prófase II da meiose I. Para haver a gravidez, o espermatozoide penetra no óvulo, que chega ao final da meiose, surgindo o zigoto ou mórula, primeira célula do futuro mamífero."
+   },
+   {
+    "letra": "D",
+    "texto": "O óvulo humano é um ovócito primário, revestido por uma camada de lipoproteínas aderidas à membrana plasmática ovular, membrana ou zona pelúcida ou envelope vitelínico, sendo este último recoberto por camadas de células foliculares que constituem eficiente revestimento protetor do gameta feminino. Todos são obstáculos que o espermatozoide deve ser capaz de vencer."
+   },
+   {
+    "letra": "E",
+    "texto": "A reação acrossômica é um mecanismo, que garante a entrada dos espermatozoides no óvulo e a ocorrência da fecundação. Nessa reação, o acrossomo do espermatozoide libera enzimas, tais como a hialuronidase, que abre um canal na zona pelúcida, por onde o espermatozoide penetra, e atinge a membrana plasmática do óvulo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q007_img1.png",
+    "pagina": 7,
+    "bbox": [
+     164.9,
+     443.5,
+     416.2,
+     625.7
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   7,
+   8
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.625,
+     422.97700000000003,
+     189.38599999999997,
+     433.97700000000003
+    ],
+    [
+     164.88,
+     443.52000000000004,
+     416.16,
+     625.6800000000001
+    ],
+    [
+     226.88,
+     634.0060000000001,
+     361.54799999999994,
+     642.0060000000001
+    ],
+    [
+     42.625,
+     656.427,
+     547.231,
+     667.46
+    ],
+    [
+     42.625,
+     668.857,
+     463.408,
+     679.857
+    ]
+   ],
+   "8": [
+    [
+     42.625,
+     45.70700000000011,
+     547.452,
+     56.70700000000011
+    ],
+    [
+     64.025,
+     58.307000000000016,
+     546.856,
+     69.30700000000002
+    ],
+    [
+     64.025,
+     71.10700000000008,
+     547.308,
+     82.10700000000008
+    ],
+    [
+     64.025,
+     83.70700000000011,
+     121.44500000000001,
+     94.70700000000011
+    ],
+    [
+     42.625,
+     96.30700000000002,
+     547.1100000000001,
+     107.30700000000002
+    ],
+    [
+     64.025,
+     108.90700000000004,
+     547.201,
+     119.90700000000004
+    ],
+    [
+     64.025,
+     121.70700000000011,
+     502.478,
+     132.7070000000001
+    ],
+    [
+     42.625,
+     134.30700000000002,
+     547.361,
+     145.30700000000002
+    ],
+    [
+     64.025,
+     146.92700000000002,
+     547.496,
+     157.92700000000002
+    ],
+    [
+     64.025,
+     159.52700000000004,
+     547.457,
+     170.52700000000004
+    ],
+    [
+     64.025,
+     172.3270000000001,
+     274.312,
+     183.3270000000001
+    ],
+    [
+     42.625,
+     184.92700000000002,
+     546.694,
+     195.92700000000002
+    ],
+    [
+     64.025,
+     197.52700000000004,
+     546.7819999999997,
+     208.52700000000004
+    ],
+    [
+     64.025,
+     210.12700000000007,
+     547.3620000000001,
+     221.12700000000007
+    ],
+    [
+     64.025,
+     222.92700000000002,
+     517.511,
+     233.92700000000002
+    ],
+    [
+     42.625,
+     235.52700000000004,
+     546.8039999999999,
+     246.52700000000004
+    ],
+    [
+     64.025,
+     248.12700000000007,
+     546.8900000000001,
+     259.12700000000007
+    ],
+    [
+     64.025,
+     260.75700000000006,
+     546.7709999999998,
+     271.757
+    ],
+    [
+     64.025,
+     273.557,
+     261.915,
+     284.557
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q007_p7.jpg",
+   "revisao/Q007_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q008",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 8,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\n―Murmurava a **Vaca** Mocha no ouvido do **Papagaio**: \"Onde já se viu uma coisa igual? Uma **andorinha** namorando com um **gato**? E o Papagaio retrucava: \"Onde já se viu a andorinha Sinhá andar pelos cantos escondida com o gato Malhado?\" Tem uma lei, uma velha lei, **pombo** com **pomba**, **pato** com **pata**, **pássaro** com **pássaro**, **cão** com **cadela** e **gato** com **gata**. E a Pomba murmurava ao Pombo num cochicho: \"É o fim do mundo, os tempos são outros, perdeu-se o respeito a todas as leis.\" Murmurava o Cachorro no ouvido da Cadela: \"Pobre Andorinha, passeia com o Gato, mal sabe ela que ele deseja apenas um dia almoçá-la.\" E o Pato dizia à Pata Pepita: \"Reprovo o desairoso proceder dessa tonta Andorinha.\" O pai da Andorinha disse zangado à mãe da andorinha: \"Nossa filha vai mal, anda às voltas com o Gato Malhado.\" A mãe respondeu: \"Nossa filha é uma tola, precisa casar.\" O pai perguntou: \"Casar, mas com quem?\" A mãe respondeu: \"Com o **Rouxinol**.‖\n\n{{fonte:1}}\n\nTomando por base o desenvolvimento embrionário dos animais citados no texto, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "Fonte: O gato malhado e a andorinha Sinhá. Jorge Amado. Companhia das Letrinhas. (Adaptado)."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Nos ovos da pata Pepita e nos mamíferos monotremados, como o gato e a cadela, o saco vitelínico é a primeira membrana extraembrionária a se formar; é repleta de líquido que amortece o choque mecânico e permite a mobilidade do embrião."
+   },
+   {
+    "letra": "B",
+    "texto": "Todos os animais destacados em negrito no texto possuem anexos embrionários, tais como o saco vitelínico e a placenta, que permitem a comunicação nutricional entre a mãe e o embrião."
+   },
+   {
+    "letra": "C",
+    "texto": "O gato malhado é um mamífero placentário; o ovo desse animal é do tipo telolécito, enquanto na andorinha, que é uma ave, o ovo é do tipo oligolécito."
+   },
+   {
+    "letra": "D",
+    "texto": "No rouxinol e em mamíferos placentários, como a vaca Mocha, a fecundação é interna; no entanto, no rouxinol, o desenvolvimento embrionário ocorre fora do corpo materno."
+   },
+   {
+    "letra": "E",
+    "texto": "O padrão de segmentação dos ovos dos animais é definido apenas pela quantidade de vitelo. Na vaca Mocha e no gato malhado, a segmentação é do tipo holoblástica e discoidal e, na pata e na pomba, do tipo holoblástica e igual."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.625,
+     311.357,
+     158.908,
+     322.357
+    ],
+    [
+     62.225,
+     332.357,
+     540.3760000000001,
+     343.39000000000004
+    ],
+    [
+     62.225,
+     345.157,
+     540.593,
+     356.157
+    ],
+    [
+     62.225,
+     357.777,
+     540.526,
+     368.777
+    ],
+    [
+     62.225,
+     370.377,
+     540.589,
+     381.377
+    ],
+    [
+     62.225,
+     383.177,
+     540.652,
+     394.177
+    ],
+    [
+     62.225,
+     395.97700000000003,
+     540.596,
+     406.97700000000003
+    ],
+    [
+     62.225,
+     408.577,
+     540.212,
+     419.577
+    ],
+    [
+     62.225,
+     421.177,
+     540.0429999999997,
+     432.177
+    ],
+    [
+     62.225,
+     433.777,
+     540.3420000000001,
+     444.777
+    ],
+    [
+     62.225,
+     446.577,
+     539.9769999999999,
+     457.577
+    ],
+    [
+     62.225,
+     459.007,
+     213.543,
+     470.04
+    ],
+    [
+     190.85,
+     471.18600000000004,
+     540.35,
+     479.18600000000004
+    ],
+    [
+     42.625,
+     494.207,
+     547.338,
+     505.207
+    ],
+    [
+     42.625,
+     506.607,
+     99.88300000000001,
+     517.607
+    ],
+    [
+     42.625,
+     537.807,
+     546.8739999999999,
+     548.807
+    ],
+    [
+     64.025,
+     550.607,
+     547.411,
+     561.607
+    ],
+    [
+     64.025,
+     563.2270000000001,
+     325.567,
+     574.227
+    ],
+    [
+     42.625,
+     575.827,
+     547.496,
+     586.827
+    ],
+    [
+     64.025,
+     588.427,
+     525.769,
+     599.427
+    ],
+    [
+     42.625,
+     601.2270000000001,
+     547.405,
+     612.227
+    ],
+    [
+     64.025,
+     613.827,
+     325.018,
+     624.827
+    ],
+    [
+     42.625,
+     626.427,
+     547.496,
+     637.427
+    ],
+    [
+     64.025,
+     639.027,
+     468.0390000000001,
+     650.027
+    ],
+    [
+     42.625,
+     651.6270000000001,
+     547.496,
+     662.6270000000001
+    ],
+    [
+     64.025,
+     664.457,
+     547.41,
+     675.457
+    ],
+    [
+     64.025,
+     677.052,
+     236.14200000000002,
+     688.052
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q008_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q009",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 9,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a charge a seguir:\n\n{{img:1}}\n\nSobre ela, pode-se entender que a vida dos organismos pluricelulares inicia-se com, apenas, uma única célula, a célula-ovo, após a fecundação. As demais células se originam dela pela divisão celular do tipo mitose e terão as mesmas informações genéticas; no entanto, exercerão funções diferentes por causa da expressão gênica. Isso quer dizer que cada diferente tipo de célula possui a inibição ou a ativação de determinados grupos de genes, responsáveis por definir a função de cada uma delas. Com base nisso, assinale a alternativa que descreve a origem e a função de células e tecidos no nosso corpo.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Os adipócitos são células, que constituem o tecido adiposo, um tipo de tecido conjuntivo denso. São especializadas no armazenamento de substâncias lipídicas, de colesterol e na manutenção da temperatura do corpo."
+   },
+   {
+    "letra": "B",
+    "texto": "Assim como os adipócitos, os fibroblastos são células de natureza conjuntiva, originadas por diferenciação dos linfócitos tipo B. Os fibroblastos respondem pela síntese de colágeno e da substância intercelular."
+   },
+   {
+    "letra": "C",
+    "texto": "Os melanócitos são células da epiderme, situadas junto à lâmina basal e especializadas na produção de melanina, pigmento escuro, de natureza orgânica sintetizada a partir do aminoácido tirosina, que dá cor à pele e aos pelos."
+   },
+   {
+    "letra": "D",
+    "texto": "Os neurônios são células especializadas que formam o tecido nervoso, derivado da mesoderme. Os neurônios respondem aos estímulos e são constituídos por um corpo celular ou pericárdio, pelo axônio e pelos dendritos."
+   },
+   {
+    "letra": "E",
+    "texto": "Outras células, como a micróglia e os astrócitos, constituem o tecido nervoso; são chamados de gliócitos ou células gliais; recebem e transmitem os estímulos nervosos; respondem pela defesa por fagocitose e pela nutrição dos neurônios, respectivamente."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q009_img1.png",
+    "pagina": 9,
+    "bbox": [
+     106.6,
+     74.9,
+     458.6,
+     257.0
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.625,
+     45.70700000000011,
+     189.38599999999997,
+     56.70700000000011
+    ],
+    [
+     106.56,
+     74.88000000000001,
+     458.64000000000004,
+     257.04
+    ],
+    [
+     64.025,
+     280.357,
+     546.0759999999999,
+     291.357
+    ],
+    [
+     42.625,
+     292.957,
+     545.5600000000002,
+     303.957
+    ],
+    [
+     42.625,
+     305.757,
+     546.0000000000001,
+     316.757
+    ],
+    [
+     42.625,
+     318.357,
+     546.086,
+     329.357
+    ],
+    [
+     42.625,
+     330.957,
+     545.8820000000001,
+     341.957
+    ],
+    [
+     42.625,
+     343.557,
+     545.904,
+     354.557
+    ],
+    [
+     42.625,
+     356.377,
+     105.831,
+     367.377
+    ],
+    [
+     42.625,
+     384.97700000000003,
+     547.1569999999999,
+     395.97700000000003
+    ],
+    [
+     64.025,
+     397.777,
+     547.292,
+     408.777
+    ],
+    [
+     64.025,
+     410.377,
+     187.58799999999997,
+     421.377
+    ],
+    [
+     42.625,
+     422.97700000000003,
+     546.8809999999995,
+     433.97700000000003
+    ],
+    [
+     64.025,
+     435.577,
+     547.256,
+     446.577
+    ],
+    [
+     64.025,
+     448.377,
+     176.48499999999999,
+     459.377
+    ],
+    [
+     42.625,
+     461.007,
+     547.0820000000001,
+     472.007
+    ],
+    [
+     64.025,
+     473.607,
+     547.415,
+     484.607
+    ],
+    [
+     64.025,
+     486.207,
+     256.034,
+     497.207
+    ],
+    [
+     42.625,
+     499.007,
+     547.424,
+     510.007
+    ],
+    [
+     64.025,
+     511.607,
+     547.2970000000001,
+     522.607
+    ],
+    [
+     64.025,
+     524.2070000000001,
+     186.17999999999995,
+     535.207
+    ],
+    [
+     42.625,
+     536.807,
+     547.377,
+     547.807
+    ],
+    [
+     64.025,
+     549.607,
+     547.359,
+     560.607
+    ],
+    [
+     64.025,
+     562.2270000000001,
+     370.28600000000006,
+     573.227
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q009_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q010",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 10,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe as imagens a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nFaça a **CORRETA** associação entre o tipo (A, B e C), a origem (I, II e III) e as características histológicas e a função dos tecidos.",
+  "fontes": [
+   "Fonte: Simbryo 2001, Summit, Stanford University"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O tecido A – epitelial cúbico simples – é de origem ectodérmica – II. Constituído por células poliédricas ciliadas. Sua função é de secreção e absorção."
+   },
+   {
+    "letra": "B",
+    "texto": "O tecido A – epitelial pseudoestratificado – é de origem endodérmica – III. Constituído por células cilíndricas ciliadas, em alturas diferentes, o que lhe dá o falso aspecto de estratificado. Sua função é de revestimento e proteção."
+   },
+   {
+    "letra": "C",
+    "texto": "O tecido B – cartilaginoso – é uma variedade especial do tecido conjuntivo de origem mesodérmica – I. Sua constituição é rígida, em razão da presença de sais de cálcio e fósforo. Sua função é de sustentação."
+   },
+   {
+    "letra": "D",
+    "texto": "O tecido B – ósseo – é uma variedade especial do tecido conjuntivo de origem ectodérmica III. Constituído por condroblastos e osteócitos, tem consistência firme. Sua função é de sustentação e revestimento de superfícies articulares, facilitando os movimentos."
+   },
+   {
+    "letra": "E",
+    "texto": "O tecido C – muscular liso – é de origem mesodérmica – II. Suas células são cilíndricas, longas, citoplasma com estrias e numerosos núcleos. Sua função é de contração rápida e involuntária."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q010_img1.png",
+    "pagina": 10,
+    "bbox": [
+     67.7,
+     69.8,
+     522.0,
+     475.9
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.625,
+     45.70700000000011,
+     206.96200000000002,
+     56.70700000000011
+    ],
+    [
+     67.68,
+     69.84,
+     522.0,
+     475.92
+    ],
+    [
+     206.08,
+     476.386,
+     383.744,
+     484.386
+    ],
+    [
+     42.625,
+     504.407,
+     547.348,
+     515.4069999999999
+    ],
+    [
+     42.625,
+     517.407,
+     216.452,
+     528.407
+    ],
+    [
+     42.625,
+     542.607,
+     547.3919999999999,
+     553.64
+    ],
+    [
+     64.025,
+     555.2070000000001,
+     351.029,
+     566.207
+    ],
+    [
+     42.625,
+     568.027,
+     547.092,
+     579.0600000000001
+    ],
+    [
+     64.025,
+     580.627,
+     546.7709999999998,
+     591.627
+    ],
+    [
+     64.025,
+     593.2270000000001,
+     209.581,
+     604.227
+    ],
+    [
+     42.625,
+     605.827,
+     547.197,
+     616.86
+    ],
+    [
+     64.025,
+     618.627,
+     547.473,
+     629.6600000000001
+    ],
+    [
+     64.025,
+     631.2270000000001,
+     187.042,
+     642.227
+    ],
+    [
+     42.625,
+     643.827,
+     547.438,
+     654.86
+    ],
+    [
+     64.025,
+     656.427,
+     547.403,
+     667.427
+    ],
+    [
+     64.025,
+     669.2570000000001,
+     388.17400000000004,
+     680.2570000000001
+    ],
+    [
+     42.625,
+     681.852,
+     547.392,
+     692.885
+    ],
+    [
+     64.025,
+     694.452,
+     526.2610000000001,
+     705.452
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q010_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q011",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 11,
+  "area": "",
+  "texto_base_id": "P4084-T1",
+  "textos_base_ids": [
+   "P4084-T1"
+  ],
+  "enunciado": "Analise a notícia a seguir:\n\n**Chuva ácida faz com que rios da costa leste dos EUA fiquem alcalinos**\n\n―Dois terços dos rios na costa leste dos Estados Unidos registram níveis crescentes de alcalinidade, com o que suas águas se tornam cada vez mais perigosas para a rega de plantios e a vida aquática, informaram cientistas esta segunda-feira‖.\n\n{{fonte:1}}\n\nO aumento da alcalinidade ocorre, porque",
+  "fontes": [
+   "Fonte: Portal G1 Notícias, em 26/08/2013"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a chuva ácida, ao cair nos rios, deixa o meio mais alcalino."
+   },
+   {
+    "letra": "B",
+    "texto": "a chuva ácida pode corroer rochas ricas em óxidos básicos e sais de hidrólise básica e deixar o meio mais alcalino."
+   },
+   {
+    "letra": "C",
+    "texto": "a chuva ácida pode corroer rochas ricas em óxidos ácidos e sais de hidrólise ácida e deixar o meio mais alcalino."
+   },
+   {
+    "letra": "D",
+    "texto": "a chuva ácida pode corroer a vegetação, arrastar matéria orgânica e deixar o meio mais alcalino."
+   },
+   {
+    "letra": "E",
+    "texto": "o aumento da alcalinidade não se deve à ação da chuva ácida, sendo um processo natural de modificação do meio."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.625,
+     83.70700000000011,
+     187.655,
+     94.70700000000011
+    ],
+    [
+     108.62,
+     128.9140000000001,
+     494.3119999999999,
+     140.9140000000001
+    ],
+    [
+     62.225,
+     150.92700000000002,
+     540.6090000000002,
+     161.95999999999992
+    ],
+    [
+     62.225,
+     163.52700000000004,
+     540.4939999999999,
+     174.52700000000004
+    ],
+    [
+     62.225,
+     176.12700000000007,
+     257.524,
+     187.15999999999997
+    ],
+    [
+     402.92,
+     188.30599999999993,
+     540.968,
+     196.30599999999993
+    ],
+    [
+     42.625,
+     212.3270000000001,
+     238.381,
+     223.3270000000001
+    ],
+    [
+     42.625,
+     243.3270000000001,
+     350.447,
+     254.3270000000001
+    ],
+    [
+     42.625,
+     256.15700000000004,
+     546.3870000000001,
+     267.15700000000004
+    ],
+    [
+     64.025,
+     268.757,
+     157.39299999999997,
+     279.757
+    ],
+    [
+     42.625,
+     281.357,
+     546.5790000000001,
+     292.357
+    ],
+    [
+     64.025,
+     293.957,
+     130.608,
+     304.957
+    ],
+    [
+     42.625,
+     306.757,
+     536.8749999999998,
+     317.757
+    ],
+    [
+     42.625,
+     319.357,
+     547.1410000000001,
+     330.357
+    ],
+    [
+     64.025,
+     331.957,
+     167.975,
+     342.957
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q011_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q012",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 12,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A efervescência de um comprimido contendo vitamina C é causada pelo dióxido de carbono (CO<sub>2</sub>), produzido na reação do bicarbonato de sódio (NaHCO<sub>3</sub>) com o ácido cítrico (C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>), formando o dihidrogenocitrato de sódio (C<sub>6</sub>H<sub>7</sub>O<sub>7</sub>Na), conforme a equação a seguir:\n\nNaHCO<sub>3(aq)</sub> + C<sub>6</sub>H<sub>8</sub>O<sub>7(aq)</sub> → C<sub>6</sub>H<sub>7</sub>O<sub>7</sub>Na<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub> + CO<sub>2(g)</sub>\n\nInicialmente, pesou-se o sistema formado pelo béquer, pelo comprimido efervescente e uma quantidade de água, e a massa foi de 80g. Ao final do processo, a massa do sistema foi novamente medida 77,8g. Qual a massa de bicarbonato de sódio na composição do comprimido, informada no rótulo do medicamento?\n\nDados: H = 1g/mol; C = 12g/mol; O = 16g/mol; Na = 23g/mol",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "2200mg"
+   },
+   {
+    "letra": "B",
+    "texto": "2350mg"
+   },
+   {
+    "letra": "C",
+    "texto": "4400mg"
+   },
+   {
+    "letra": "D",
+    "texto": "4700mg"
+   },
+   {
+    "letra": "E",
+    "texto": "4200mg"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.625,
+     367.577,
+     546.8239999999998,
+     378.577
+    ],
+    [
+     42.625,
+     380.377,
+     547.422,
+     391.377
+    ],
+    [
+     42.625,
+     392.97700000000003,
+     395.81600000000003,
+     403.97700000000003
+    ],
+    [
+     156.65,
+     421.777,
+     432.847,
+     432.81
+    ],
+    [
+     42.625,
+     450.377,
+     547.259,
+     461.377
+    ],
+    [
+     42.625,
+     463.207,
+     546.9200000000001,
+     474.207
+    ],
+    [
+     42.625,
+     475.807,
+     546.7549999999999,
+     486.807
+    ],
+    [
+     42.625,
+     488.407,
+     160.655,
+     499.407
+    ],
+    [
+     147.25,
+     510.207,
+     442.647,
+     521.207
+    ],
+    [
+     42.625,
+     549.407,
+     103.91100000000002,
+     560.407
+    ],
+    [
+     42.625,
+     564.027,
+     103.91100000000002,
+     575.027
+    ],
+    [
+     42.625,
+     578.427,
+     103.91100000000002,
+     589.427
+    ],
+    [
+     42.625,
+     593.027,
+     103.91100000000002,
+     604.027
+    ],
+    [
+     42.625,
+     607.627,
+     103.925,
+     618.627
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q012_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q013",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 13,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Quando exposto a uma temperatura menor que 13ºC, o estanho pode se transformar em uma versão mais frágil e quebradiça. Tais formas são chamadas, respectivamente, de beta e alfa e podem ser vistas na figura a seguir:\n\n{{img:1}}\n\nFonte: www.engenheirodemateriais.com.br\n\nEssa transformação é associada popularmente à ―doença do estanho‖, e o fenômeno químico associado a essa transformação é denominado de",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Isomeria."
+   },
+   {
+    "letra": "B",
+    "texto": "Isotopia."
+   },
+   {
+    "letra": "C",
+    "texto": "Alogenia."
+   },
+   {
+    "letra": "D",
+    "texto": "Alotropia."
+   },
+   {
+    "letra": "E",
+    "texto": "Radioatividade."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q013_img1.png",
+    "pagina": 12,
+    "bbox": [
+     162.7,
+     90.7,
+     390.2,
+     257.0
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.625,
+     45.70700000000011,
+     547.156,
+     56.70700000000011
+    ],
+    [
+     42.625,
+     58.307000000000016,
+     546.524,
+     69.30700000000002
+    ],
+    [
+     42.625,
+     71.10700000000008,
+     179.95999999999998,
+     82.10700000000008
+    ],
+    [
+     162.72,
+     90.72,
+     390.24,
+     257.04
+    ],
+    [
+     241.08,
+     260.126,
+     393.44000000000005,
+     268.12600000000003
+    ],
+    [
+     42.625,
+     282.757,
+     547.136,
+     293.79
+    ],
+    [
+     42.625,
+     295.357,
+     288.98800000000006,
+     306.357
+    ],
+    [
+     42.625,
+     320.557,
+     109.278,
+     331.557
+    ],
+    [
+     42.625,
+     333.357,
+     105.67800000000001,
+     344.357
+    ],
+    [
+     42.625,
+     345.957,
+     109.878,
+     356.957
+    ],
+    [
+     42.625,
+     358.577,
+     110.278,
+     369.577
+    ],
+    [
+     42.625,
+     371.177,
+     140.108,
+     382.177
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [
+   "texto curto solto junto da imagem (“Fonte: www.engenheirodemateriais.com.br”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q013_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q014",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 14,
+  "area": "",
+  "texto_base_id": "P4084-T2",
+  "textos_base_ids": [
+   "P4084-T2"
+  ],
+  "enunciado": "No trecho: ―A gente produz um certo gás, aparentemente normal, mas quando se acumula em excesso, ele pode ser fatal‖, o autor faz referência ao seguinte gás:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Metano (CH<sub>4</sub>)"
+   },
+   {
+    "letra": "B",
+    "texto": "Gás Sulfídrico (H<sub>2</sub>S)"
+   },
+   {
+    "letra": "C",
+    "texto": "Gás Carbônico (CO<sub>2</sub>)"
+   },
+   {
+    "letra": "D",
+    "texto": "Monóxido de Carbono (CO)"
+   },
+   {
+    "letra": "E",
+    "texto": "Butano (C<sub>4</sub>H<sub>10</sub>)"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     45.70700000000011,
+     546.7319999999999,
+     56.74000000000001
+    ],
+    [
+     42.625,
+     58.307000000000016,
+     371.388,
+     69.33999999999992
+    ],
+    [
+     42.625,
+     83.70700000000011,
+     130.913,
+     94.70700000000011
+    ],
+    [
+     42.625,
+     96.30700000000002,
+     162.513,
+     107.30700000000002
+    ],
+    [
+     42.625,
+     108.90700000000004,
+     168.31300000000002,
+     119.90700000000004
+    ],
+    [
+     42.625,
+     121.70700000000011,
+     199.171,
+     132.7070000000001
+    ],
+    [
+     42.625,
+     134.30700000000002,
+     136.71300000000002,
+     145.30700000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q014_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q015",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 15,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Qual a geometria molecular dos seguintes gases, citados na música: clorofluorcarbono (por exemplo, CFCl<sub>3</sub>), monóxido de carbono (CO) e dióxido de enxofre (SO<sub>2</sub>)?\n\nDados: Números Atômicos – C = 6; F = 9; Cl = 17; O = 8; S = 16",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Linear, Angular e Tetraédrica"
+   },
+   {
+    "letra": "B",
+    "texto": "Bipiramidal, Angular e Linear"
+   },
+   {
+    "letra": "C",
+    "texto": "Trigonal Plana, Bipiramidal e Piramidal"
+   },
+   {
+    "letra": "D",
+    "texto": "Tetraédrica, Linear e Angular"
+   },
+   {
+    "letra": "E",
+    "texto": "Angular, Linear e Trigonal Plana"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     172.3270000000001,
+     546.9470000000001,
+     183.3270000000001
+    ],
+    [
+     42.625,
+     184.92700000000002,
+     400.236,
+     195.92700000000002
+    ],
+    [
+     127.65,
+     210.52700000000004,
+     441.621,
+     221.55999999999995
+    ],
+    [
+     42.625,
+     248.12700000000007,
+     206.233,
+     259.12700000000007
+    ],
+    [
+     42.625,
+     260.75700000000006,
+     205.166,
+     271.757
+    ],
+    [
+     42.625,
+     273.557,
+     253.51100000000008,
+     284.557
+    ],
+    [
+     42.625,
+     286.157,
+     206.37600000000006,
+     297.157
+    ],
+    [
+     42.625,
+     298.757,
+     221.61100000000002,
+     309.757
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q016",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 16,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Quando chegou ao seu laboratório, a princesa Jujuba ficou desesperada com algo que viu no quadro utilizado pelo Mordomo Menta.\n\n{{img:1}}\n\nFonte: Hora de Aventura, Cartoon Network.\n\nSobre o composto desenhado, é **CORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "representa um ácido."
+   },
+   {
+    "letra": "B",
+    "texto": "representa um sal ácido de hidrólise básica."
+   },
+   {
+    "letra": "C",
+    "texto": "é estável e não apresenta cargas elétricas, ou seja, não é um cátion nem um ânion."
+   },
+   {
+    "letra": "D",
+    "texto": "apresenta um erro na sua estrutura, uma vez que carbono e oxigênio estão com quantidades incompatíveis de ligações químicas."
+   },
+   {
+    "letra": "E",
+    "texto": "apresenta um erro na sua estrutura, uma vez que carbono e oxigênio, por serem ametais, não podem se unir por ligação covalente."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q016_img1.png",
+    "pagina": 13,
+    "bbox": [
+     92.9,
+     362.9,
+     500.4,
+     571.0
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     336.757,
+     546.8529999999998,
+     347.757
+    ],
+    [
+     42.625,
+     349.357,
+     230.34000000000003,
+     360.357
+    ],
+    [
+     92.88000000000001,
+     362.88,
+     500.40000000000003,
+     570.96
+    ],
+    [
+     377.52,
+     576.606,
+     531.4900000000001,
+     584.606
+    ],
+    [
+     42.625,
+     598.827,
+     318.56199999999995,
+     609.827
+    ],
+    [
+     42.625,
+     625.427,
+     167.40599999999995,
+     636.427
+    ],
+    [
+     42.625,
+     638.027,
+     278.756,
+     649.027
+    ],
+    [
+     42.625,
+     650.627,
+     472.608,
+     661.6270000000001
+    ],
+    [
+     42.625,
+     663.457,
+     547.4010000000001,
+     674.457
+    ],
+    [
+     64.025,
+     676.052,
+     240.328,
+     687.052
+    ],
+    [
+     42.625,
+     688.652,
+     546.861,
+     699.652
+    ],
+    [
+     64.025,
+     701.2520000000001,
+     243.72100000000003,
+     712.2520000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q016_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q017",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 17,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Os antiácidos são medicamentos, que atuam para neutralizar o ácido clorídrico (HCl), liberado pelas células parietais no estômago. Ao ingerirmos comidas e bebidas em excesso, normalmente buscamos tais remédios para aliviar os sintomas.\n\nQual das substâncias a seguir é a melhor para funcionar como medicamento antiácido?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "NaCl"
+   },
+   {
+    "letra": "B",
+    "texto": "NaOH"
+   },
+   {
+    "letra": "C",
+    "texto": "CaCO<sub>3</sub>"
+   },
+   {
+    "letra": "D",
+    "texto": "H<sub>2</sub>SO<sub>4</sub>"
+   },
+   {
+    "letra": "E",
+    "texto": "CaCl<sub>2</sub>"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     45.70700000000011,
+     547.463,
+     56.70700000000011
+    ],
+    [
+     42.625,
+     58.307000000000016,
+     547.177,
+     69.30700000000002
+    ],
+    [
+     42.625,
+     71.10700000000008,
+     283.158,
+     82.10700000000008
+    ],
+    [
+     46.025,
+     91.70700000000011,
+     473.7819999999999,
+     102.70700000000011
+    ],
+    [
+     42.625,
+     117.10700000000008,
+     88.632,
+     128.10700000000008
+    ],
+    [
+     42.625,
+     131.49700000000007,
+     94.73700000000002,
+     142.49700000000007
+    ],
+    [
+     42.625,
+     146.10700000000008,
+     98.717,
+     157.10700000000008
+    ],
+    [
+     42.625,
+     160.7270000000001,
+     95.717,
+     171.7270000000001
+    ],
+    [
+     42.625,
+     175.3270000000001,
+     92.317,
+     186.3270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q017_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q018",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 18,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Diversos povos africanos apresentavam uma relação especial com os metais, sobretudo o ferro, e, assim, muito do conhecimento que chegou ao Brasil sobre obtenção e forja tinha origem nesse continente. Entre os negros do período colonial, os ferreiros, com seus martelos e bigornas, desempenhavam importante papel político e financeiro. Supondo que mestre ferreiro Taú trabalhava com hematita (Fe<sub>2</sub>O<sub>3</sub>), quantos quilogramas de ferro aproximadamente seriam produzidos a partir de 500kg do minério, admitindo uma pureza de 85% do mineral?\n\nFe<sub>2</sub>O<sub>3</sub> <sub>(s)</sub> + 3 CO<sub>(g)</sub>  2 Fe<sub>(l)</sub> + 3 CO<sub>2(g)</sub>\n\nDados: C = 12g/mol; O = 16g/mol; Fe = 56g/mol",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "175kg"
+   },
+   {
+    "letra": "B",
+    "texto": "350kg"
+   },
+   {
+    "letra": "C",
+    "texto": "297kg"
+   },
+   {
+    "letra": "D",
+    "texto": "590kg"
+   },
+   {
+    "letra": "E",
+    "texto": "147kg"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     239.7270000000001,
+     547.638,
+     250.7270000000001
+    ],
+    [
+     42.625,
+     252.35700000000008,
+     546.7479999999998,
+     263.3570000000001
+    ],
+    [
+     42.625,
+     264.957,
+     546.9860000000001,
+     275.957
+    ],
+    [
+     42.625,
+     277.557,
+     547.366,
+     288.557
+    ],
+    [
+     42.625,
+     290.357,
+     547.0729999999999,
+     301.357
+    ],
+    [
+     42.625,
+     302.957,
+     342.5070000000001,
+     313.957
+    ],
+    [
+     205.88,
+     323.535,
+     387.657,
+     334.557
+    ],
+    [
+     42.625,
+     347.757,
+     277.281,
+     358.757
+    ],
+    [
+     42.625,
+     378.777,
+     94.11000000000001,
+     389.777
+    ],
+    [
+     42.625,
+     393.377,
+     94.11000000000001,
+     404.377
+    ],
+    [
+     42.625,
+     407.97700000000003,
+     94.11000000000001,
+     418.97700000000003
+    ],
+    [
+     42.625,
+     422.377,
+     94.11000000000001,
+     433.377
+    ],
+    [
+     42.625,
+     436.97700000000003,
+     94.11000000000001,
+     447.97700000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [
+   "PENDENTE: há um trecho desenhado (caractere que o PDF não traduz: chave, parêntese grande ou sinal de fórmula) na linha “Fe 2 O 3 (s) + 3 CO (g)  2 Fe (l) + 3 C” — transcrever lendo a imagem",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "caractere estranho no texto"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q018_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q019",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 19,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O nióbio (Nb, Z = 41) é um metal de transição, descoberto, em 1801, pelo inglês Charles Hatchett. O Brasil é historicamente o maior produtor mundial desse metal, que é bastante utilizado na fabricação de um tipo especial de aço. Este tem grande aplicação na indústria, especialmente de alta tecnologia.\n\nEm relação a esse metal, analise as afirmativas a seguir:\n\nI. O nióbio tem alta afinidade com o carbono, por isso é utilizado para a fabricação desse tipo especial de aço.\n\nII. O nióbio garante ao aço uma maior resistência mecânica, por isso é utilizado na fabricação dos gasodutos e motores para foguetes espaciais.\n\nIII. A resistência à corrosão do nióbio faz que seja importante na indústria, porém não deve ser utilizado em grande quantidade para a fabricação de joias, pois alguns dos seus compostos são tóxicos para os seres humanos. Está **CORRETO** o que e se afirma em",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I e II, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "II e III, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "I e III, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "I, II e III."
+   },
+   {
+    "letra": "E",
+    "texto": "I, apenas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   14,
+   15
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     522.2070000000001,
+     547.3520000000001,
+     533.207
+    ],
+    [
+     42.625,
+     534.807,
+     547.427,
+     545.807
+    ],
+    [
+     42.625,
+     547.407,
+     539.088,
+     558.407
+    ],
+    [
+     42.625,
+     567.027,
+     320.45200000000006,
+     578.027
+    ],
+    [
+     64.025,
+     592.2270000000001,
+     547.423,
+     603.227
+    ],
+    [
+     85.225,
+     605.027,
+     164.79899999999998,
+     616.027
+    ],
+    [
+     64.025,
+     617.627,
+     546.8500000000001,
+     628.627
+    ],
+    [
+     85.225,
+     630.2270000000001,
+     330.65700000000004,
+     641.227
+    ],
+    [
+     64.025,
+     642.827,
+     547.6370000000001,
+     653.827
+    ],
+    [
+     85.225,
+     655.6270000000001,
+     547.076,
+     666.6270000000001
+    ],
+    [
+     85.225,
+     668.2570000000001,
+     261.313,
+     679.2570000000001
+    ]
+   ],
+   "15": [
+    [
+     42.625,
+     45.49700000000007,
+     228.964,
+     56.49700000000007
+    ],
+    [
+     42.625,
+     71.10700000000008,
+     130.839,
+     82.10700000000008
+    ],
+    [
+     42.625,
+     83.70700000000011,
+     137.043,
+     94.70700000000011
+    ],
+    [
+     42.625,
+     96.30700000000002,
+     133.84199999999998,
+     107.30700000000002
+    ],
+    [
+     42.625,
+     108.90700000000004,
+     103.68000000000002,
+     119.90700000000004
+    ],
+    [
+     42.625,
+     121.70700000000011,
+     112.48800000000001,
+     132.7070000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019_p14.jpg",
+   "revisao/Q019_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q020",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 20,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em 12 de outubro de 2012, Dia das Crianças, um trágico acidente aconteceu na entrada do Zoológico do Recife, deixando cinco feridos, dois em estado grave. De acordo com o Corpo de Bombeiros, um cilindro do gás, utilizado para encher balões de festa a fim de serem vendidos às crianças, teria explodido. Esse cilindro deveria conter gás Hélio (He, Z = 2), mas apresentava avarias e, provavelmente, possuía outro gás em seu interior.\n\nSupondo que o gás foi obtido a partir da reação entre alumínio e ácido clorídrico, qual o gás presente no recipiente?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Gás Cloro"
+   },
+   {
+    "letra": "B",
+    "texto": "Gás Oxigênio"
+   },
+   {
+    "letra": "C",
+    "texto": "Gás Carbônico"
+   },
+   {
+    "letra": "D",
+    "texto": "Gás Hidrogênio"
+   },
+   {
+    "letra": "E",
+    "texto": "Gás Metano"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.625,
+     159.52700000000004,
+     547.104,
+     170.52700000000004
+    ],
+    [
+     42.625,
+     172.3270000000001,
+     546.6780000000001,
+     183.3270000000001
+    ],
+    [
+     42.625,
+     184.92700000000002,
+     547.465,
+     195.92700000000002
+    ],
+    [
+     42.625,
+     197.52700000000004,
+     546.8990000000001,
+     208.52700000000004
+    ],
+    [
+     42.625,
+     210.12700000000007,
+     299.07900000000006,
+     221.12700000000007
+    ],
+    [
+     71.025,
+     222.92700000000002,
+     547.438,
+     233.92700000000002
+    ],
+    [
+     42.625,
+     235.52700000000004,
+     157.443,
+     246.52700000000004
+    ],
+    [
+     42.625,
+     260.75700000000006,
+     113.492,
+     271.757
+    ],
+    [
+     42.625,
+     273.557,
+     130.48700000000002,
+     284.557
+    ],
+    [
+     42.625,
+     286.157,
+     137.472,
+     297.157
+    ],
+    [
+     42.625,
+     298.757,
+     140.266,
+     309.757
+    ],
+    [
+     42.625,
+     311.357,
+     124.09599999999999,
+     322.357
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q020_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q021",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 21,
+  "area": "",
+  "texto_base_id": "P4084-T3",
+  "textos_base_ids": [
+   "P4084-T3"
+  ],
+  "enunciado": "{{img:1}}\n\nObservando os grafismos, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Não havia animais nesse período específico."
+   },
+   {
+    "letra": "B",
+    "texto": "Essas manifestações culturais não podem ser consideradas arte."
+   },
+   {
+    "letra": "C",
+    "texto": "Nada sabemos sobre essas populações humanas."
+   },
+   {
+    "letra": "D",
+    "texto": "Inexistiam técnicas para produção de pigmentos."
+   },
+   {
+    "letra": "E",
+    "texto": "Há grande relevância histórica e artística."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q021_img1.png",
+    "pagina": 16,
+    "bbox": [
+     67.7,
+     87.8,
+     538.4,
+     287.3
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     81.10700000000008,
+     58.083,
+     92.10700000000008
+    ],
+    [
+     67.68,
+     87.84,
+     538.35,
+     287.28000000000003
+    ],
+    [
+     42.625,
+     295.957,
+     337.95799999999997,
+     306.957
+    ],
+    [
+     42.625,
+     321.357,
+     287.231,
+     332.357
+    ],
+    [
+     42.625,
+     334.157,
+     385.9820000000001,
+     345.157
+    ],
+    [
+     42.625,
+     346.757,
+     315.491,
+     357.757
+    ],
+    [
+     42.625,
+     359.377,
+     307.322,
+     370.377
+    ],
+    [
+     42.625,
+     371.97700000000003,
+     270.471,
+     382.97700000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q022",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 22,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "―(...) aprendemos executando o que temos que executar. Exemplo: homens se tornam construtores construindo e se tornam tocadores de lira tocando lira. É a realização de atos justos que nos torna justos, a de atos moderados que nos torna moderados, a de atos corajosos que nos torna corajosos (...).‖\n\n{{fonte:1}}\n\nSegundo o texto, para Aristóteles, as virtudes são",
+  "fontes": [
+   "Aristóteles. Ética a Nicômaco. Livro II, cap. I, pág.75. São Paulo: Edipro, 2014. (Adaptado)."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "puramente inatas ao ser humano."
+   },
+   {
+    "letra": "B",
+    "texto": "frutos do nascimento nobre."
+   },
+   {
+    "letra": "C",
+    "texto": "oriundas da prática e do exercício."
+   },
+   {
+    "letra": "D",
+    "texto": "exclusivas dos atenienses."
+   },
+   {
+    "letra": "E",
+    "texto": "proibidas aos bárbaros."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     409.97700000000003,
+     546.8570000000001,
+     421.01000000000005
+    ],
+    [
+     42.625,
+     422.577,
+     547.174,
+     433.577
+    ],
+    [
+     42.625,
+     435.377,
+     546.7439999999999,
+     446.377
+    ],
+    [
+     42.625,
+     447.97700000000003,
+     115.883,
+     459.01000000000005
+    ],
+    [
+     224.48,
+     459.98600000000005,
+     547.188,
+     467.98600000000005
+    ],
+    [
+     42.625,
+     475.607,
+     285.438,
+     486.607
+    ],
+    [
+     42.625,
+     497.407,
+     228.53,
+     508.407
+    ],
+    [
+     42.625,
+     509.997,
+     200.38099999999997,
+     520.9970000000001
+    ],
+    [
+     42.625,
+     522.807,
+     232.138,
+     533.807
+    ],
+    [
+     42.625,
+     535.407,
+     194.947,
+     546.407
+    ],
+    [
+     42.625,
+     547.9970000000001,
+     179.16199999999998,
+     558.9970000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q022_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q024",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 24,
+  "area": "",
+  "texto_base_id": "P4084-T5",
+  "textos_base_ids": [
+   "P4084-T5"
+  ],
+  "enunciado": "Qual dos textos acima representa melhor a Crise da República Romana no último século antes de Nossa Era?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Texto 1"
+   },
+   {
+    "letra": "B",
+    "texto": "Texto 5"
+   },
+   {
+    "letra": "C",
+    "texto": "Texto 3"
+   },
+   {
+    "letra": "D",
+    "texto": "Texto 2"
+   },
+   {
+    "letra": "E",
+    "texto": "Texto 4"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.625,
+     535.807,
+     546.876,
+     546.807
+    ],
+    [
+     42.625,
+     548.407,
+     100.08900000000001,
+     559.407
+    ],
+    [
+     60.625,
+     573.827,
+     115.134,
+     584.827
+    ],
+    [
+     162.85,
+     573.827,
+     217.359,
+     584.827
+    ],
+    [
+     265.27,
+     573.827,
+     319.80899999999997,
+     584.827
+    ],
+    [
+     367.73,
+     573.827,
+     422.23900000000003,
+     584.827
+    ],
+    [
+     469.95,
+     573.827,
+     524.459,
+     584.827
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q024_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q025",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 25,
+  "area": "",
+  "texto_base_id": "P4084-T5",
+  "textos_base_ids": [
+   "P4084-T5"
+  ],
+  "enunciado": "Qual dos textos acima representa melhor a Expansão Romana pelo centro-norte europeu?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Texto 1"
+   },
+   {
+    "letra": "B",
+    "texto": "Texto 5"
+   },
+   {
+    "letra": "C",
+    "texto": "Texto 3"
+   },
+   {
+    "letra": "D",
+    "texto": "Texto 2"
+   },
+   {
+    "letra": "E",
+    "texto": "Texto 4"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.625,
+     624.427,
+     503.809,
+     635.427
+    ],
+    [
+     60.625,
+     649.627,
+     115.134,
+     660.6270000000001
+    ],
+    [
+     162.85,
+     649.627,
+     217.359,
+     660.6270000000001
+    ],
+    [
+     265.27,
+     649.627,
+     319.80899999999997,
+     660.6270000000001
+    ],
+    [
+     367.73,
+     649.627,
+     422.23900000000003,
+     660.6270000000001
+    ],
+    [
+     469.95,
+     649.627,
+     524.459,
+     660.6270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q026",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 26,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nO Saltério de Chludov, hoje na Rússia, é um dos mais importantes documentos provenientes do Império Bizantino. Essa iluminura, em especial, retrata um importante movimento sociopolítico ocorrido nesse Estado, denominado de",
+  "fontes": [
+   "Iluminura do Saltério de Chludov. Bizantino, séc. IX.",
+   "Disponível em: https://en.wikipedia.org/wiki/File:Clasm_Chludov.jpg. Acesso em: 10/07/2017."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Cesaropapismo, a aliança entre o Imperador e o Patriarca."
+   },
+   {
+    "letra": "B",
+    "texto": "Iconoclasmo, o movimento pela destruição dos ícones religiosos."
+   },
+   {
+    "letra": "C",
+    "texto": "Bizantinismo, a discussão interminável sobre temas exotéricos."
+   },
+   {
+    "letra": "D",
+    "texto": "Cisma, a excomunhão mútua entre as igrejas Católica Romana e Ortodoxa Oriental."
+   },
+   {
+    "letra": "E",
+    "texto": "Iluminismo, a política em prol da ilustração dos manuscritos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q026_img1.png",
+    "pagina": 18,
+    "bbox": [
+     348.5,
+     82.1,
+     537.1,
+     334.1
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.625,
+     45.70700000000011,
+     546.933,
+     56.70700000000011
+    ],
+    [
+     42.625,
+     58.307000000000016,
+     546.634,
+     69.30700000000002
+    ],
+    [
+     42.625,
+     71.10700000000008,
+     191.28600000000003,
+     82.10700000000008
+    ],
+    [
+     348.48,
+     82.08,
+     537.12,
+     334.08
+    ],
+    [
+     35.6,
+     100.10700000000008,
+     329.88000000000005,
+     111.10700000000008
+    ],
+    [
+     57.025,
+     112.70700000000011,
+     104.039,
+     123.70700000000011
+    ],
+    [
+     35.6,
+     125.30700000000002,
+     329.80300000000005,
+     136.30700000000002
+    ],
+    [
+     57.025,
+     137.88717499999996,
+     106.62647499999999,
+     148.91217500000005
+    ],
+    [
+     35.6,
+     150.52700000000004,
+     329.84700000000004,
+     161.52700000000004
+    ],
+    [
+     57.025,
+     163.3270000000001,
+     110.23200000000001,
+     174.3270000000001
+    ],
+    [
+     35.6,
+     175.92700000000002,
+     329.66,
+     186.92700000000002
+    ],
+    [
+     57.025,
+     188.52700000000004,
+     200.377,
+     199.52700000000004
+    ],
+    [
+     35.6,
+     201.12700000000007,
+     330.151,
+     212.12700000000007
+    ],
+    [
+     57.025,
+     213.92700000000002,
+     119.406,
+     224.92700000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q026_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q027",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 27,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a imagem abaixo:\n\n{{img:1}}\n\n{{fonte:1}}\n\nEssa imagem representa o famoso Elefante de Cremona, um presente que o Sultão Al-Kamil, do Egito, deu para o Sacro Imperador Romano-Germânico Frederico II em 1229. Esse fato indica que as relações internacionais nesse período se caracterizavam",
+  "fontes": [
+   "Chronica Maiora II, de Matthew Paris (séc. XIII). Disponível em: https://en.wikipedia.org/wiki/File:Matthew_Paris_Elephant_from_Parker_MS_16_fol_151v.jpg. Acesso em: 10/07/2017."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "por conflitos e diplomacia."
+   },
+   {
+    "letra": "B",
+    "texto": "pelo isolamento entre muçulmanos e cristãos."
+   },
+   {
+    "letra": "C",
+    "texto": "unicamente pelas guerras."
+   },
+   {
+    "letra": "D",
+    "texto": "exclusivamente por trocas comerciais."
+   },
+   {
+    "letra": "E",
+    "texto": "pelo privativo da corte papal em Roma."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q027_img1.png",
+    "pagina": 18,
+    "bbox": [
+     139.7,
+     423.4,
+     430.6,
+     607.7
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   18,
+   19
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.625,
+     399.97700000000003,
+     192.188,
+     410.97700000000003
+    ],
+    [
+     139.68,
+     423.36,
+     430.56,
+     607.6800000000001
+    ],
+    [
+     175.25,
+     612.206,
+     400.554,
+     620.206
+    ],
+    [
+     172.05,
+     621.4060000000001,
+     400.5380000000001,
+     629.4060000000001
+    ],
+    [
+     208.88,
+     630.606,
+     400.28400000000005,
+     638.606
+    ],
+    [
+     42.625,
+     649.627,
+     547.337,
+     660.6270000000001
+    ],
+    [
+     42.625,
+     662.227,
+     547.465,
+     673.227
+    ],
+    [
+     42.625,
+     674.852,
+     319.9130000000001,
+     685.852
+    ]
+   ],
+   "19": [
+    [
+     42.625,
+     45.70700000000011,
+     191.17399999999998,
+     56.70700000000011
+    ],
+    [
+     42.625,
+     58.307000000000016,
+     287.875,
+     69.30700000000002
+    ],
+    [
+     42.625,
+     71.10700000000008,
+     193.75899999999996,
+     82.10700000000008
+    ],
+    [
+     42.625,
+     83.70700000000011,
+     250.421,
+     94.70700000000011
+    ],
+    [
+     42.625,
+     96.30700000000002,
+     255.53500000000005,
+     107.30700000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q027_p18.jpg",
+   "revisao/Q027_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q028",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 28,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a imagem a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nQual aspecto da sociedade medieval é mais caracteristicamente representado por essa imagem?",
+  "fontes": [
+   "Detalhe de uma iluminura medieval mostra dois cavaleiros duelando a pé, enquanto seus cavalos lutam entre si. The British Library. Disponível em: www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=43193. Acesso em: 10/07/2017."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Religiosidade"
+   },
+   {
+    "letra": "B",
+    "texto": "Belicosidade"
+   },
+   {
+    "letra": "C",
+    "texto": "Racionalidade"
+   },
+   {
+    "letra": "D",
+    "texto": "Piedade"
+   },
+   {
+    "letra": "E",
+    "texto": "Humanismo"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q028_img1.png",
+    "pagina": 19,
+    "bbox": [
+     151.2,
+     150.5,
+     435.6,
+     335.5
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.625,
+     129.7070000000001,
+     199.138,
+     140.7070000000001
+    ],
+    [
+     151.20000000000002,
+     150.48000000000002,
+     435.6,
+     335.52000000000004
+    ],
+    [
+     76.625,
+     340.93600000000004,
+     515.966,
+     348.93600000000004
+    ],
+    [
+     76.625,
+     350.116175,
+     503.544825,
+     358.14117500000003
+    ],
+    [
+     76.625,
+     359.35600000000005,
+     118.641,
+     367.35600000000005
+    ],
+    [
+     42.625,
+     376.97700000000003,
+     518.6329999999999,
+     387.97700000000003
+    ],
+    [
+     42.625,
+     402.377,
+     130.06900000000002,
+     413.377
+    ],
+    [
+     42.625,
+     414.97700000000003,
+     126.472,
+     425.97700000000003
+    ],
+    [
+     42.625,
+     427.577,
+     133.66600000000003,
+     438.577
+    ],
+    [
+     42.625,
+     440.177,
+     104.50500000000001,
+     451.177
+    ],
+    [
+     42.625,
+     452.97700000000003,
+     122.677,
+     463.97700000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q028_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q030",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 30,
+  "area": "",
+  "texto_base_id": "P4084-T7",
+  "textos_base_ids": [
+   "P4084-T7"
+  ],
+  "enunciado": "Observe o quadro a seguir:\n\n{{img:1}}\n\nMuseu Nacional da Dinamarca (Nationalmuseet).\n\n\"Mulher Mameluca\", (Mameluca, 1641), óleo sobre tela do pintor dinamarquês Albert Eckhout.\n\nEle se propõe a retratar realisticamente uma mulher no Brasil Holandês, território ocupado pelos holandeses entre 1630 e 1654. Que elemento(s) pode(m) ser apontado(s) como não pertencente(s) a esse contexto histórico?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A fauna, representada pelos preás."
+   },
+   {
+    "letra": "B",
+    "texto": "A flora, representada pelo cajueiro."
+   },
+   {
+    "letra": "C",
+    "texto": "A paisagem ao fundo."
+   },
+   {
+    "letra": "D",
+    "texto": "A pose e o estilo da toga usada pela mulher."
+   },
+   {
+    "letra": "E",
+    "texto": "A abundância de flores."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q030_img1.png",
+    "pagina": 20,
+    "bbox": [
+     55.4,
+     59.8,
+     325.4,
+     499.7
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.625,
+     45.70700000000011,
+     197.26999999999998,
+     56.70700000000011
+    ],
+    [
+     55.440000000000005,
+     59.760000000000005,
+     325.44,
+     499.68
+    ],
+    [
+     332.1,
+     493.786,
+     506.61200000000014,
+     501.786
+    ],
+    [
+     332.1,
+     475.386,
+     546.9640000000002,
+     483.386
+    ],
+    [
+     332.1,
+     484.586,
+     456.868,
+     492.586
+    ],
+    [
+     42.625,
+     528.807,
+     546.74,
+     539.807
+    ],
+    [
+     42.625,
+     541.407,
+     547.496,
+     552.407
+    ],
+    [
+     42.625,
+     554.2070000000001,
+     160.446,
+     565.207
+    ],
+    [
+     42.625,
+     592.027,
+     235.933,
+     603.027
+    ],
+    [
+     42.625,
+     604.827,
+     235.12400000000002,
+     615.827
+    ],
+    [
+     42.625,
+     617.427,
+     171.19799999999998,
+     628.427
+    ],
+    [
+     42.625,
+     630.027,
+     281.73700000000014,
+     641.027
+    ],
+    [
+     42.625,
+     642.627,
+     179.57999999999998,
+     653.6270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q030_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q031",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 31,
+  "area": "",
+  "texto_base_id": "P4084-T8",
+  "textos_base_ids": [
+   "P4084-T8"
+  ],
+  "enunciado": "Por volta de 1990, práticas agropecuárias inadequadas contribuíram para a degradação de cerca de 562 milhões de hectares, ou seja, algo aproximadamente em torno de 38% dos 3,5 bilhões de hectares de terras agricultáveis de todo o mundo. Esse fato continua até os dias atuais, acarretando graves consequências ao meio ambiente.\n\n{{img:1}}\n\nFonte: www.google.com.br\n\nA fotografia acima exibe uma das consequências dessa degradação ambiental promovida por um processo específico, denominado",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Erosão laminar."
+   },
+   {
+    "letra": "B",
+    "texto": "Eolização."
+   },
+   {
+    "letra": "C",
+    "texto": "Voçorocamento."
+   },
+   {
+    "letra": "D",
+    "texto": "Assoreamento. e) Lixiviação."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q031_img1.png",
+    "pagina": 21,
+    "bbox": [
+     136.8,
+     135.4,
+     493.9,
+     375.1
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.625,
+     83.70700000000011,
+     547.227,
+     94.70700000000011
+    ],
+    [
+     42.625,
+     96.30700000000002,
+     547.3,
+     107.30700000000002
+    ],
+    [
+     42.625,
+     108.90700000000004,
+     547.46,
+     119.90700000000004
+    ],
+    [
+     42.625,
+     121.70700000000011,
+     245.89000000000001,
+     132.7070000000001
+    ],
+    [
+     136.8,
+     135.36,
+     493.92,
+     375.12
+    ],
+    [
+     361.33,
+     378.75600000000003,
+     456.346,
+     386.75600000000003
+    ],
+    [
+     42.625,
+     393.177,
+     546.758,
+     404.177
+    ],
+    [
+     42.625,
+     405.777,
+     206.453,
+     416.777
+    ],
+    [
+     42.625,
+     430.97700000000003,
+     218.138,
+     441.97700000000003
+    ],
+    [
+     246.48,
+     430.97700000000003,
+     338.86899999999997,
+     441.97700000000003
+    ],
+    [
+     366.92,
+     430.97700000000003,
+     539.3349999999999,
+     441.97700000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [
+   "4 alternativas encontradas (esperado 5)",
+   "texto curto solto junto da imagem (“Fonte: www.google.com.br”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q031_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q032",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 32,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Determinado grupo de pesquisadores foi incumbido de realizar um estudo climático de uma dada área. Após as medições térmicas realizadas em um certo dia de inverno, elaboraram um esboço da paisagem, localizando os pontos onde foram feitas tais medições, conforme se pode observar na figura ao lado:\n\n{{img:1}}\n\nFonte: Banca Elaboradora da UPE Tomando por base as informações contidas no esboço de paisagem, é **CORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "no dia de inverno citado, ocorreu uma situação atmosférica denominada pelos climatologistas de inversão térmica."
+   },
+   {
+    "letra": "B",
+    "texto": "a presença do estuário caudaloso determinou a redução da pressão atmosférica no vale fluvial."
+   },
+   {
+    "letra": "C",
+    "texto": "no momento em que foram feitas as medições térmicas, uma massa de ar quente se espalhou pelo fundo do vale, estacionando sobre a área do estuário."
+   },
+   {
+    "letra": "D",
+    "texto": "a pressão atmosférica, em face do quadro térmico local, aumentou desde o fundo do vale em direção aos picos das elevações topográficas."
+   },
+   {
+    "letra": "E",
+    "texto": "no dia de inverno considerado, ocorreu, na área investigada, um vórtice ciclônico que alterou sensivelmente o quadro térmico e pluviométrico."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q032_img1.png",
+    "pagina": 21,
+    "bbox": [
+     271.3,
+     482.6,
+     555.2,
+     690.8
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   21,
+   22
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.625,
+     481.607,
+     262.408,
+     492.607
+    ],
+    [
+     42.625,
+     494.407,
+     262.152,
+     505.407
+    ],
+    [
+     42.625,
+     506.997,
+     262.295,
+     517.9970000000001
+    ],
+    [
+     42.625,
+     519.607,
+     262.365,
+     530.607
+    ],
+    [
+     42.625,
+     532.2070000000001,
+     262.291,
+     543.207
+    ],
+    [
+     42.625,
+     544.9970000000001,
+     261.94300000000004,
+     555.9970000000001
+    ],
+    [
+     42.625,
+     557.607,
+     262.32800000000003,
+     568.607
+    ],
+    [
+     42.625,
+     570.2270000000001,
+     173.50799999999998,
+     581.227
+    ],
+    [
+     271.3,
+     482.55000000000007,
+     555.25,
+     690.75
+    ],
+    [
+     424.13,
+     695.0310000000001,
+     547.1940000000001,
+     703.0310000000001
+    ]
+   ],
+   "22": [
+    [
+     42.625,
+     45.49700000000007,
+     505.654,
+     56.49700000000007
+    ],
+    [
+     42.625,
+     67.49700000000007,
+     538.841,
+     78.49700000000007
+    ],
+    [
+     64.025,
+     80.30700000000002,
+     147.81199999999998,
+     91.30700000000002
+    ],
+    [
+     42.625,
+     92.90700000000004,
+     528.885,
+     103.90700000000004
+    ],
+    [
+     42.625,
+     105.49700000000007,
+     525.125,
+     116.49700000000007
+    ],
+    [
+     64.025,
+     118.10700000000008,
+     350.4430000000001,
+     129.10700000000008
+    ],
+    [
+     42.625,
+     130.90700000000004,
+     519.652,
+     141.90700000000004
+    ],
+    [
+     64.025,
+     143.49700000000007,
+     288.93600000000004,
+     154.49700000000007
+    ],
+    [
+     42.625,
+     156.12700000000007,
+     517.1080000000001,
+     167.12700000000007
+    ],
+    [
+     64.025,
+     168.7270000000001,
+     299.66700000000014,
+     179.7270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q032_p21.jpg",
+   "revisao/Q032_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q033",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 33,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um dos temas que vêm sendo muito debatidos na comunidade geográfica brasileira diz respeito ao que se conhece como Desertificação, que, segundo a UNCED - *United Nations Conference on* *Environment and Development*, corresponde *à degradação ambiental de terras em áreas áridas,* *semiáridas e subúmidas secas, resultantes de vários fatores, incluindo variações climáticas e* *atividades humanas*.\n\nSobre esse tema, analise as afirmativas a seguir:\n\n1. A desertificação aumentará a perda de biomassa e de produtividade do planeta, contribuindo para o esgotamento das reservas de húmus, perturbando, assim, as transformações biogeoquímicas nas áreas afetadas por esse processo.\n\n2. A desertificação é um processo de degradação ecológica, no qual o solo fértil e produtivo perde, total ou parcialmente, o potencial de produção.\n\n3. A desertificação contribui para a mudança climática global, aumentando o albedo da superfície terrestre e diminuindo a taxa de evapotranspiração, modificando, portanto, o equilíbrio energético da superfície e a temperatura do ar.\n\n4. A desertificação converte pessoas que vivem nas áreas atingidas pelo processo em refugiados ambientais, buscando melhores terras para realizar atividades agrícolas.\n\n5. A desertificação no Brasil intensificou-se nas últimas décadas e vem atingindo, indistintamente, espaços geográficos situados em faixas semiáridas, tropicais subúmidas e, até, em áreas úmidas, submetidas ao proceso de arenização.\n\nEstão **CORRETAS**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "apenas 1 e 4."
+   },
+   {
+    "letra": "B",
+    "texto": "apenas 2 e 3."
+   },
+   {
+    "letra": "C",
+    "texto": "apenas 1, 2 e 4."
+   },
+   {
+    "letra": "D",
+    "texto": "apenas 2, 4 e 5."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 3, 4 e 5."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.625,
+     206.7270000000001,
+     546.705,
+     217.7270000000001
+    ],
+    [
+     42.625,
+     219.12700000000007,
+     547.261,
+     230.12700000000007
+    ],
+    [
+     42.625,
+     231.92700000000002,
+     547.0890000000002,
+     242.92700000000002
+    ],
+    [
+     42.625,
+     244.52700000000004,
+     546.81,
+     255.52700000000004
+    ],
+    [
+     42.625,
+     257.15700000000004,
+     143.708,
+     268.157
+    ],
+    [
+     42.625,
+     278.157,
+     282.9,
+     289.157
+    ],
+    [
+     56.825,
+     298.757,
+     547.0710000000001,
+     309.757
+    ],
+    [
+     71.025,
+     311.357,
+     547.1890000000001,
+     322.357
+    ],
+    [
+     71.025,
+     324.157,
+     340.852,
+     335.157
+    ],
+    [
+     56.825,
+     336.757,
+     547.638,
+     347.757
+    ],
+    [
+     71.025,
+     349.357,
+     299.801,
+     360.357
+    ],
+    [
+     56.825,
+     361.97700000000003,
+     547.286,
+     372.97700000000003
+    ],
+    [
+     71.025,
+     374.777,
+     546.8299999999998,
+     385.777
+    ],
+    [
+     71.025,
+     387.377,
+     248.95000000000002,
+     398.377
+    ],
+    [
+     56.825,
+     399.97700000000003,
+     546.8189999999998,
+     410.97700000000003
+    ],
+    [
+     71.025,
+     412.577,
+     425.1240000000001,
+     423.577
+    ],
+    [
+     56.825,
+     425.377,
+     547.234,
+     436.377
+    ],
+    [
+     71.025,
+     437.97700000000003,
+     547.406,
+     448.97700000000003
+    ],
+    [
+     71.025,
+     450.577,
+     301.602,
+     461.577
+    ],
+    [
+     42.625,
+     475.807,
+     135.317,
+     486.807
+    ],
+    [
+     42.625,
+     501.207,
+     130.828,
+     512.207
+    ],
+    [
+     42.625,
+     513.807,
+     130.828,
+     524.807
+    ],
+    [
+     42.625,
+     526.607,
+     146.03,
+     537.607
+    ],
+    [
+     42.625,
+     539.2070000000001,
+     143.027,
+     550.207
+    ],
+    [
+     42.625,
+     551.807,
+     128.26500000000001,
+     562.807
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q034",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 34,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O Brasil possui uma legislação ambiental, que é tida como uma das mais destacadas do planeta. A Política Nacional de Meio Ambiente foi desenvolvida com base em uma série de princípios. Identifique-os entre os mencionados a seguir:\n\n1- A Educação Ambiental  \n2- A proteção dos ecossistemas  \n3- O controle e zoneamento de atividades poluidoras  \n4- O planejamento e a fiscalização do uso dos recursos ambientais  \n5- A racionalização do uso do solo, do subsolo, da água e do ar Estão **CORRETOS**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "apenas 1 e 5."
+   },
+   {
+    "letra": "B",
+    "texto": "apenas 1, 2 e 3."
+   },
+   {
+    "letra": "C",
+    "texto": "apenas 3, 4 e 5."
+   },
+   {
+    "letra": "D",
+    "texto": "apenas 2, 3 e 5."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 3, 4 e 5."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   22,
+   23
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.625,
+     589.827,
+     547.1830000000002,
+     600.827
+    ],
+    [
+     42.625,
+     602.427,
+     500.808,
+     613.427
+    ],
+    [
+     42.625,
+     615.027,
+     265.092,
+     626.027
+    ],
+    [
+     42.625,
+     634.627,
+     168.167,
+     645.627
+    ],
+    [
+     42.625,
+     647.2270000000001,
+     200.397,
+     658.227
+    ],
+    [
+     42.625,
+     659.827,
+     302.00800000000004,
+     670.827
+    ],
+    [
+     42.625,
+     672.652,
+     370.8639999999999,
+     683.652
+    ],
+    [
+     42.625,
+     685.2520000000001,
+     354.6550000000001,
+     696.2520000000001
+    ]
+   ],
+   "23": [
+    [
+     42.625,
+     45.49700000000007,
+     136.307,
+     56.49700000000007
+    ],
+    [
+     42.625,
+     65.30700000000002,
+     130.828,
+     76.30700000000002
+    ],
+    [
+     42.625,
+     77.90700000000004,
+     143.027,
+     88.90700000000004
+    ],
+    [
+     42.625,
+     90.49700000000007,
+     143.027,
+     101.49700000000007
+    ],
+    [
+     42.625,
+     103.30700000000002,
+     143.027,
+     114.30700000000002
+    ],
+    [
+     42.625,
+     115.90700000000004,
+     128.308,
+     126.90700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q034_p22.jpg",
+   "revisao/Q034_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q035",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 35,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A Cartografia, uma ciência auxiliar da Geografia, vem utilizando intensamente as informações obtidas de satélites artificiais, que se deslocam em torno da Terra. Essas imagens servem para usos os mais diversos, como a Geologia, a Climatologia e a Hidrografia. A imagem a seguir é um exemplo desse avanço alcançado pela Cartografia. Observe-a.\n\n{{img:1}}\n\nPodem ser vistos, nessa imagem de satélite, os seguintes fenômenos climáticos, **EXCETO**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Frentes frias."
+   },
+   {
+    "letra": "B",
+    "texto": "Zona de Convergência Intertropical."
+   },
+   {
+    "letra": "C",
+    "texto": "Áreas de instabilidade."
+   },
+   {
+    "letra": "D",
+    "texto": "Faixas de baixa nebulosidade."
+   },
+   {
+    "letra": "E",
+    "texto": "Ciclone tropical."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q035_img1.png",
+    "pagina": 23,
+    "bbox": [
+     150.7,
+     197.3,
+     435.6,
+     454.2
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.625,
+     141.10700000000008,
+     546.8149999999999,
+     152.10700000000008
+    ],
+    [
+     42.625,
+     153.92700000000002,
+     546.9450000000002,
+     164.92700000000002
+    ],
+    [
+     42.625,
+     166.52700000000004,
+     547.1510000000001,
+     177.52700000000004
+    ],
+    [
+     42.625,
+     179.12700000000007,
+     305.758,
+     190.12700000000007
+    ],
+    [
+     150.7,
+     197.28,
+     435.6,
+     454.20000000000005
+    ],
+    [
+     56.825,
+     467.607,
+     500.27,
+     478.607
+    ],
+    [
+     56.825,
+     487.407,
+     142.21,
+     498.407
+    ],
+    [
+     56.825,
+     500.007,
+     252.738,
+     511.007
+    ],
+    [
+     56.825,
+     512.807,
+     189.50799999999998,
+     523.807
+    ],
+    [
+     56.825,
+     525.407,
+     226.938,
+     536.407
+    ],
+    [
+     56.825,
+     537.9970000000001,
+     156.108,
+     548.9970000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q035_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q036",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 36,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Atualmente, a maior parte das espécies ameaçadas da fauna brasileira, sejam elas aquáticas ou terrestres, estão em situação de risco por causa da perda do habitat florestal. \"São 1.051 espécies ameaçadas. Todas estão assim em função do desmatamento\", afirmou a coordenadora de Avaliação do Estado de Conservação da Biodiversidade (Coabio/ICMBio), Rosana Subirá.\n\n{{fonte:1}}\n\n{{img:1}}\n\nSobre os principais prejuízos ambientais, decorrentes do desmatamento em áreas tropicais, analise os itens a seguir:\n\n4. Diminuição da quantidade de carbono  \n1. Degradação dos mananciais  \n5. Aumento do efeito estufa  \n2. Perda da biodiversidade\n\n6. Acréscimo dos valores da umidade relativa do ar  \n3. Alteração pluviométrica\n\nEstão **CORRETOS,** apenas,",
+  "fontes": [
+   "Fonte: http://www.brasil.gov.br/meio-ambiente/2014/07"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1, 4 e 5."
+   },
+   {
+    "letra": "B",
+    "texto": "2, 3 e 4."
+   },
+   {
+    "letra": "C",
+    "texto": "1, 2, 3 e 5."
+   },
+   {
+    "letra": "D",
+    "texto": "3, 4, 5 e 6."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 4, 5 e 6."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q036_img1.png",
+    "pagina": 23,
+    "bbox": [
+     325.4,
+     571.7,
+     543.6,
+     723.6
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   23,
+   24
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.625,
+     576.027,
+     316.9370000000001,
+     587.027
+    ],
+    [
+     42.625,
+     588.627,
+     316.81100000000004,
+     599.627
+    ],
+    [
+     42.625,
+     601.2270000000001,
+     317.11699999999996,
+     612.227
+    ],
+    [
+     42.625,
+     613.827,
+     316.86600000000004,
+     624.827
+    ],
+    [
+     42.625,
+     626.627,
+     316.855,
+     637.627
+    ],
+    [
+     42.625,
+     639.2270000000001,
+     316.8440000000001,
+     650.227
+    ],
+    [
+     42.625,
+     651.827,
+     317.0530000000001,
+     662.827
+    ],
+    [
+     42.625,
+     664.457,
+     205.76100000000002,
+     675.457
+    ],
+    [
+     122.85,
+     681.231,
+     317.096,
+     689.231
+    ],
+    [
+     325.44,
+     571.6800000000001,
+     543.6,
+     723.6
+    ]
+   ],
+   "24": [
+    [
+     42.625,
+     45.70700000000011,
+     547.391,
+     56.70700000000011
+    ],
+    [
+     42.625,
+     58.307000000000016,
+     111.078,
+     69.30700000000002
+    ],
+    [
+     278.3,
+     77.90700000000004,
+     475.87,
+     88.90700000000004
+    ],
+    [
+     85.025,
+     77.90700000000004,
+     238.375,
+     88.90700000000004
+    ],
+    [
+     278.3,
+     90.49700000000007,
+     412.74199999999996,
+     101.49700000000007
+    ],
+    [
+     85.025,
+     90.49700000000007,
+     217.82699999999997,
+     101.49700000000007
+    ],
+    [
+     278.3,
+     103.30700000000002,
+     528.707,
+     114.30700000000002
+    ],
+    [
+     85.025,
+     103.30700000000002,
+     213.508,
+     114.30700000000002
+    ],
+    [
+     42.625,
+     128.30700000000002,
+     181.708,
+     139.30700000000002
+    ],
+    [
+     42.625,
+     150.3270000000001,
+     96.66700000000002,
+     161.3270000000001
+    ],
+    [
+     141.65,
+     150.3270000000001,
+     195.692,
+     161.3270000000001
+    ],
+    [
+     233.88,
+     150.3270000000001,
+     300.121,
+     161.3270000000001
+    ],
+    [
+     349.52,
+     150.3270000000001,
+     419.561,
+     161.3270000000001
+    ],
+    [
+     448.75,
+     150.3270000000001,
+     524.99,
+     161.3270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q036_p23.jpg",
+   "revisao/Q036_p24.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q037",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 37,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o gráfico a seguir e assinale o que os números 1 e 2 estão indicando.\n\n{{img:1}}\n\nFonte: www.google.com.br",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1 - formação de nuvens; 2 - centro anticiclônico"
+   },
+   {
+    "letra": "B",
+    "texto": "1 - área ciclônica; 2 - anticiclone"
+   },
+   {
+    "letra": "C",
+    "texto": "1 - brisas terrestres; 2 - brisas marinhas"
+   },
+   {
+    "letra": "D",
+    "texto": "1 - ciclone extratropical; 2 - ventos constantes"
+   },
+   {
+    "letra": "E",
+    "texto": "1 - centro de altas pressões; 2 - centro de baixas pressões"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q037_img1.png",
+    "pagina": 24,
+    "bbox": [
+     124.4,
+     207.7,
+     428.3,
+     390.4
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   24
+  ],
+  "caixas": {
+   "24": [
+    [
+     42.625,
+     188.3270000000001,
+     447.35299999999984,
+     199.3270000000001
+    ],
+    [
+     124.4,
+     207.70000000000005,
+     428.3,
+     390.35600000000005
+    ],
+    [
+     248.27,
+     391.35600000000005,
+     343.31600000000003,
+     399.35600000000005
+    ],
+    [
+     42.625,
+     410.377,
+     295.103,
+     421.377
+    ],
+    [
+     42.625,
+     422.97700000000003,
+     221.11300000000003,
+     433.97700000000003
+    ],
+    [
+     42.625,
+     435.577,
+     258.466,
+     446.577
+    ],
+    [
+     42.625,
+     448.377,
+     287.894,
+     459.377
+    ],
+    [
+     42.625,
+     461.007,
+     350.26099999999997,
+     472.007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [
+   "texto curto solto junto da imagem (“Fonte: www.google.com.br”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q037_p24.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q038",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 38,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nA teoria da Tectônica de Placas representou um avanço extraordinário para duas importantes ciências, a Geologia e a Geografia Física. Diversos aspectos da geomorfologia de áreas continentais e oceânicas, que, antes da década de 1960, ficavam sem uma explicação convincente, foram melhor entendidos desde a aplicação dessa teoria.\n\nCom relação a esse tema, examine a figura ao lado.\n\nFonte: www.google.com.br\n\nEla pode ser aplicada para revelar **CORRETAMENTE** a",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "formação da dorsal do Atlântico."
+   },
+   {
+    "letra": "B",
+    "texto": "gênese da Cordilheira do Himalaia."
+   },
+   {
+    "letra": "C",
+    "texto": "evolução dos escudos e maciços antigos."
+   },
+   {
+    "letra": "D",
+    "texto": "origem das Aleutas."
+   },
+   {
+    "letra": "E",
+    "texto": "formação de depósitos carboníferos recentes."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q038_img1.png",
+    "pagina": 24,
+    "bbox": [
+     329.2,
+     493.5,
+     544.2,
+     607.8
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   24
+  ],
+  "caixas": {
+   "24": [
+    [
+     42.625,
+     499.007,
+     320.166,
+     510.007
+    ],
+    [
+     42.625,
+     511.607,
+     319.99000000000007,
+     522.607
+    ],
+    [
+     42.625,
+     524.2070000000001,
+     319.97900000000004,
+     535.207
+    ],
+    [
+     42.625,
+     536.807,
+     320.558,
+     547.807
+    ],
+    [
+     42.625,
+     549.607,
+     320.202,
+     560.607
+    ],
+    [
+     42.625,
+     562.2270000000001,
+     320.416,
+     573.227
+    ],
+    [
+     329.25,
+     493.5,
+     544.25,
+     607.75
+    ],
+    [
+     42.625,
+     574.827,
+     154.97899999999996,
+     585.827
+    ],
+    [
+     42.625,
+     600.2270000000001,
+     297.706,
+     611.227
+    ],
+    [
+     432.55,
+     609.35,
+     521.318,
+     617.35
+    ],
+    [
+     42.625,
+     632.027,
+     315.416,
+     643.027
+    ],
+    [
+     42.625,
+     657.6270000000001,
+     214.356,
+     668.6270000000001
+    ],
+    [
+     42.625,
+     670.2570000000001,
+     231.56699999999998,
+     681.2570000000001
+    ],
+    [
+     42.625,
+     682.852,
+     259.86300000000006,
+     693.852
+    ],
+    [
+     42.625,
+     695.652,
+     154.19699999999997,
+     706.652
+    ],
+    [
+     42.625,
+     708.2520000000001,
+     280.675,
+     719.2520000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q038_p24.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q039",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 39,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise a figura a seguir:\n\n{{img:1}}\n\nFonte: //https.Pt.slideshare.net/mobile/catir/o-ciclo-das-rochas\n\nSobre os elementos nela contidos, analise as afirmativas a seguir:\n\n1. As rochas magmáticas são aquelas, que se originam pelo resfriamento lento ou rápido do material em estado de fusão, encontrado em áreas profundas da litosfera.\n\n2. Dá-se a denominação de diagênese aos processos de lixiviação dos solos, fato esse que determina a redução da fertilidade dos sedimentos argilosos.\n\n3. A meteorização pode ser de natureza química e mecânica ou física; esse fenômeno prepara os corpos rochosos para os processos de erosão.\n\n4. As rochas sedimentares encontram-se, em geral, dispostas em camadas, a exemplo do gnaisse e dos diversos tipos de arenito.\n\n5. Quando os processos erosivos retiram uma imensa quantidade de rochas preexistentes, que recobrem as rochas magmáticas intrusivas, estas podem aparecer na superfície terrestre, a exemplo dos granitos. Nesses casos, diz-se que houve um afloramento rochoso.\n\nEstão **CORRETAS**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "apenas 1, 3 e 5."
+   },
+   {
+    "letra": "B",
+    "texto": "apenas 2, 4 e 5."
+   },
+   {
+    "letra": "C",
+    "texto": "apenas 1, 2 e 3."
+   },
+   {
+    "letra": "D",
+    "texto": "apenas 3, 4 e 5."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 3, 4 e 5."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q039_img1.png",
+    "pagina": 25,
+    "bbox": [
+     118.1,
+     63.8,
+     472.9,
+     349.6
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   25
+  ],
+  "caixas": {
+   "25": [
+    [
+     42.625,
+     45.70700000000011,
+     181.77199999999996,
+     56.70700000000011
+    ],
+    [
+     118.1,
+     63.80000000000007,
+     472.9,
+     349.6
+    ],
+    [
+     308.7,
+     363.35600000000005,
+     527.946,
+     371.35600000000005
+    ],
+    [
+     42.625,
+     395.377,
+     365.578,
+     406.377
+    ],
+    [
+     71.025,
+     420.777,
+     547.1480000000001,
+     431.777
+    ],
+    [
+     85.225,
+     433.377,
+     445.947,
+     444.377
+    ],
+    [
+     71.025,
+     452.97700000000003,
+     546.8369999999999,
+     463.97700000000003
+    ],
+    [
+     85.225,
+     465.607,
+     382.22500000000014,
+     476.607
+    ],
+    [
+     71.025,
+     485.207,
+     546.851,
+     496.207
+    ],
+    [
+     85.225,
+     497.807,
+     328.582,
+     508.807
+    ],
+    [
+     71.025,
+     517.407,
+     547.496,
+     528.407
+    ],
+    [
+     85.225,
+     529.9970000000001,
+     278.49899999999997,
+     540.9970000000001
+    ],
+    [
+     71.025,
+     549.607,
+     546.7299999999999,
+     560.607
+    ],
+    [
+     85.225,
+     562.2270000000001,
+     547.496,
+     573.227
+    ],
+    [
+     85.225,
+     574.827,
+     479.183,
+     585.827
+    ],
+    [
+     42.625,
+     600.027,
+     135.317,
+     611.027
+    ],
+    [
+     42.625,
+     625.427,
+     143.108,
+     636.427
+    ],
+    [
+     42.625,
+     638.027,
+     143.108,
+     649.027
+    ],
+    [
+     42.625,
+     650.627,
+     143.108,
+     661.6270000000001
+    ],
+    [
+     42.625,
+     663.457,
+     143.073,
+     674.457
+    ],
+    [
+     42.625,
+     676.052,
+     128.263,
+     687.052
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [
+   "texto curto solto junto da imagem (“Fonte: //https.Pt.slideshare.net/mobile/”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q039_p25.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q040",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 40,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "―A onda de protestos contra o Governo já completou um mês, resultando na morte de 35 pessoas e deixando outras 717 feridas. Os dados, contabilizados até quinta-feira, dia 4 de maio, pelo Ministério Público, mostram um aumento significativo na violência policial. Até o momento, não é possível prever um fim próximo do conflito, porque o Executivo está promovendo uma Assembleia Nacional Constituinte para criar uma Carta Magna sob medida e evitar as eleições.‖\n\n{{fonte:1}}\n\nNo mapa, o país que apresenta o problema geográfico atual, referido na notícia transcrita, está indicado por um dos numerais.\n\n{{img:1}}\n\nAssinale a alternativa cujo numeral representa esse país.",
+  "fontes": [
+   "Fonte: Jornal El Pais, edição de 5 de maio de 2017, com modificações. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1"
+   },
+   {
+    "letra": "B",
+    "texto": "2"
+   },
+   {
+    "letra": "C",
+    "texto": "3"
+   },
+   {
+    "letra": "D",
+    "texto": "4"
+   },
+   {
+    "letra": "E",
+    "texto": "5"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q040_img1.png",
+    "pagina": 26,
+    "bbox": [
+     184.7,
+     159.1,
+     412.5,
+     473.5
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     42.625,
+     45.70700000000011,
+     547.4449999999999,
+     56.74000000000001
+    ],
+    [
+     42.625,
+     58.307000000000016,
+     546.825,
+     69.30700000000002
+    ],
+    [
+     42.625,
+     71.10700000000008,
+     547.4649999999999,
+     82.10700000000008
+    ],
+    [
+     42.625,
+     83.70700000000011,
+     547.3090000000002,
+     94.70700000000011
+    ],
+    [
+     42.625,
+     96.30700000000002,
+     405.02000000000004,
+     107.33999999999992
+    ],
+    [
+     255.08,
+     111.87599999999998,
+     545.788,
+     119.87599999999998
+    ],
+    [
+     42.625,
+     130.90700000000004,
+     547.28,
+     141.90700000000004
+    ],
+    [
+     42.625,
+     143.49700000000007,
+     192.94000000000003,
+     154.49700000000007
+    ],
+    [
+     184.7,
+     159.10000000000002,
+     412.54999999999995,
+     473.45000000000005
+    ],
+    [
+     42.625,
+     488.607,
+     322.233,
+     499.607
+    ],
+    [
+     42.625,
+     513.807,
+     70.141,
+     524.807
+    ],
+    [
+     42.625,
+     526.607,
+     70.141,
+     537.607
+    ],
+    [
+     42.625,
+     539.2070000000001,
+     70.141,
+     550.207
+    ],
+    [
+     42.625,
+     551.807,
+     70.141,
+     562.807
+    ],
+    [
+     42.625,
+     564.427,
+     70.141,
+     575.427
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q040_p26.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q041",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 41,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia os textos a seguir:\n\n**TEXTO I**\n\n*Convicto de que a reorganização da* *sociedade exigiria a elaboração de uma* *nova maneira de conhecer a realidade,* *Comte procurou estabelecer os princípios* *que deveriam nortear os conhecimentos* *humanos. Seu ponto de partida era a* *ciência e o avanço que ela vinha obtendo* *em todos os campos de investigação. (...)* *O advento da sociologia representava para* *Comte o coroamento da evolução do* *conhecimento científico, já constituído em* *várias áreas do saber.*\n\n{{fonte:1}}\n\n**SOCIOLOGIA**\n\n**TEXTO II**\n\n*O conjunto da nova filosofia tenderá* *sempre a fazer sobressair, tanto na vida* *ativa como na especulativa, a ligação de* *cada um a todos, sob uma série de* *aspectos diversos, de modo a tornar* *involuntariamente familiar o sentimento* *íntimo da solidariedade social, (...) Não* *somente a ativa busca do bem público* *será sempre privada, será sempre* *representada como a maneira mais* *conveniente de assegurar a felicidade* *privada; mas, por uma influência (...) dos* *pendores generosos, se tornará a principal* *fonte da felicidade pessoal.*\n\nCOMTE, August. **Discurso sobre o espírito positivo.** São\n\nPaulo: Escala, s/d, p. 74.\n\nA Revolução Industrial e a Revolução Francesa impulsionaram o surgimento da Sociologia como ciência voltada para compreender as novas relações entre as pessoas. Essas relações envolviam agora um complexo de hábitos e costumes e eram provocadas por causa da maneira de se produzirem e se consumirem os excedentes na Europa do século XIX. Sobre esse período da Sociologia e com base na concepção apresentada nos textos I e II, é **CORRETO** afirmar que",
+  "fontes": [
+   "MARTINS, Carlos Benedito. **O que é Sociologia.** São Paulo: Brasiliense, 2006, p. 44."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a Sociologia foi chamada de física social e deveria utilizar os métodos da filosofia teológica como instrumento de compreensão da sociedade."
+   },
+   {
+    "letra": "B",
+    "texto": "as investigações sociológicas deveriam utilizar os mesmos procedimentos das ciências naturais, ou seja, a observação, a experimentação e a comparação."
+   },
+   {
+    "letra": "C",
+    "texto": "o positivismo foi a corrente filosófica, que fundamentou o surgimento da Sociologia como ciência da sociedade, pois tinha uma visão metafísica das relações entre as pessoas."
+   },
+   {
+    "letra": "D",
+    "texto": "o principal representante da Sociologia nesse período foi August Comte, que tinha uma visão positiva de sociedade, ou seja, uma reflexão sobre a essência e o significado abstrato das relações sociais."
+   },
+   {
+    "letra": "E",
+    "texto": "as ideias de Comte tinham como objetivo encontrar leis universais para explicar as relações sociais, com base nos princípios de subjetividade e parcialidade, utilizados pelas ciências da natureza."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   27
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.625,
+     71.10700000000008,
+     177.07,
+     82.10700000000008
+    ],
+    [
+     161.65,
+     99.70400000000006,
+     208.354,
+     111.70400000000006
+    ],
+    [
+     95.825,
+     129.90700000000004,
+     281.73600000000005,
+     140.90700000000004
+    ],
+    [
+     70.225,
+     144.3270000000001,
+     281.689,
+     155.3270000000001
+    ],
+    [
+     70.225,
+     158.92700000000002,
+     281.66700000000003,
+     169.92700000000002
+    ],
+    [
+     70.225,
+     173.52700000000004,
+     281.6890000000001,
+     184.52700000000004
+    ],
+    [
+     70.225,
+     188.12700000000007,
+     281.91200000000003,
+     199.12700000000007
+    ],
+    [
+     70.225,
+     202.52700000000004,
+     281.51300000000003,
+     213.52700000000004
+    ],
+    [
+     70.225,
+     217.12700000000007,
+     281.6780000000001,
+     228.12700000000007
+    ],
+    [
+     70.225,
+     231.7270000000001,
+     281.458,
+     242.7270000000001
+    ],
+    [
+     70.225,
+     246.10717499999998,
+     281.45297500000015,
+     257.1321750000001
+    ],
+    [
+     70.225,
+     260.75700000000006,
+     281.711,
+     271.757
+    ],
+    [
+     70.225,
+     275.357,
+     281.6120000000001,
+     286.357
+    ],
+    [
+     70.225,
+     289.957,
+     179.202,
+     300.957
+    ],
+    [
+     89.425,
+     324.536,
+     281.936,
+     332.536
+    ],
+    [
+     171.05,
+     335.336,
+     281.60200000000003,
+     343.336
+    ],
+    [
+     260.27,
+     41.40599999999995,
+     332.155,
+     52.40599999999995
+    ],
+    [
+     405.73,
+     100.11400000000003,
+     455.81800000000004,
+     112.11400000000003
+    ],
+    [
+     315.9,
+     131.7070000000001,
+     527.1990000000001,
+     142.7070000000001
+    ],
+    [
+     315.9,
+     146.3270000000001,
+     527.375,
+     157.3270000000001
+    ],
+    [
+     315.9,
+     160.92700000000002,
+     527.689,
+     171.92700000000002
+    ],
+    [
+     315.9,
+     175.3270000000001,
+     527.397,
+     186.3270000000001
+    ],
+    [
+     315.9,
+     189.92700000000002,
+     527.3530000000001,
+     200.92700000000002
+    ],
+    [
+     315.9,
+     204.52700000000004,
+     527.232,
+     215.52700000000004
+    ],
+    [
+     315.9,
+     219.12700000000007,
+     527.4189999999999,
+     230.12700000000007
+    ],
+    [
+     315.9,
+     233.52700000000004,
+     527.3530000000001,
+     244.52700000000004
+    ],
+    [
+     315.9,
+     248.15700000000004,
+     527.402,
+     259.15700000000004
+    ],
+    [
+     315.9,
+     262.75700000000006,
+     527.47,
+     273.757
+    ],
+    [
+     315.9,
+     277.357,
+     527.408,
+     288.357
+    ],
+    [
+     315.9,
+     291.757,
+     527.6310000000001,
+     302.757
+    ],
+    [
+     315.9,
+     306.357,
+     527.723,
+     317.357
+    ],
+    [
+     315.9,
+     320.957,
+     449.25299999999993,
+     331.957
+    ],
+    [
+     316.9,
+     344.93600000000004,
+     527.6099999999999,
+     352.93600000000004
+    ],
+    [
+     439.15,
+     354.156,
+     527.326,
+     362.156
+    ],
+    [
+     42.625,
+     389.97700000000003,
+     546.733,
+     400.97700000000003
+    ],
+    [
+     42.625,
+     402.777,
+     547.263,
+     413.777
+    ],
+    [
+     42.625,
+     415.377,
+     547.3330000000001,
+     426.377
+    ],
+    [
+     42.625,
+     427.97700000000003,
+     547.127,
+     438.97700000000003
+    ],
+    [
+     42.625,
+     440.377,
+     409.00399999999996,
+     451.377
+    ],
+    [
+     42.625,
+     478.607,
+     546.704,
+     489.607
+    ],
+    [
+     64.025,
+     491.207,
+     278.1070000000001,
+     502.207
+    ],
+    [
+     42.625,
+     503.997,
+     546.8919999999999,
+     514.9970000000001
+    ],
+    [
+     64.025,
+     516.607,
+     350.17100000000005,
+     527.607
+    ],
+    [
+     42.625,
+     529.2070000000001,
+     547.037,
+     540.207
+    ],
+    [
+     64.025,
+     541.807,
+     444.13,
+     552.807
+    ],
+    [
+     42.625,
+     554.607,
+     547.347,
+     565.607
+    ],
+    [
+     64.025,
+     567.2270000000001,
+     546.7379999999997,
+     578.227
+    ],
+    [
+     64.025,
+     579.827,
+     145.19400000000002,
+     590.827
+    ],
+    [
+     42.625,
+     592.427,
+     546.7380000000003,
+     603.427
+    ],
+    [
+     64.025,
+     605.2270000000001,
+     547.26,
+     616.227
+    ],
+    [
+     64.025,
+     617.827,
+     110.04900000000002,
+     628.827
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q041_p27.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q042",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 42,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:2}}\n\nLeia o texto a seguir:\n\n{{img:1}}\n\n*“Quando desempenho meu papel social de irmão,* *esposo ou de cidadão, quando realizo os compromissos* *que tomei, cumpro deveres que estão definidos para além* *de mim e dos meus atos, no direito e nos costumes.* *Mesmo quando eles estão de acordo com os meus* *sentimentos próprios e sentindo-lhes interiormente a* *realidade, esta não deixa de ser objetiva, pois não fui eu* *quem os estabeleci, antes os recebi pela educação”.*\n\n{{img:3}}\n\n{{fonte:1}}\n\nAs ideias contidas no texto se referem a um objeto de estudo da Sociologia, utilizado por muitos sociólogos para se compreender a função das instituições sociais e a atuação da sociedade sobre os indivíduos. Sobre esse objeto de estudo, assinale a alternativa **CORRETA.**",
+  "fontes": [
+   "**As regras do método sociológico**. São Paulo: Martin Claret, 2008, p. 31-32."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Os fenômenos sociais devem ser compreendidos como toda maneira de agir da sociedade sobre os indivíduos, que sofrem uma coerção exterior, e, ainda, é geral na extensão de uma dada sociedade."
+   },
+   {
+    "letra": "B",
+    "texto": "A maneira de agir dos indivíduos, com base nas condições materiais e na relação conflituosa entre dominante e dominador, é o princípio desse objeto de estudo da Sociologia."
+   },
+   {
+    "letra": "C",
+    "texto": "O objeto de estudo em destaque são as ações sociais coletivas que possuem como principal característica a atuação carismática dos indivíduos sobre a sociedade."
+   },
+   {
+    "letra": "D",
+    "texto": "As relações sociais na sociedade capitalista têm sua sede na individualidade, pois as consciências particulares são norteadoras das leis e normas sociais."
+   },
+   {
+    "letra": "E",
+    "texto": "As forças produtivas são o objeto próprio da sociologia de Durkheim, pois elas exprimem a ação dos homens sobre a natureza e determinam os conflitos entre as classes sociais."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q042_img1.png",
+    "pagina": 28,
+    "bbox": [
+     60.5,
+     58.3,
+     225.4,
+     234.0
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q042_img2.png",
+    "pagina": 28,
+    "bbox": [
+     498.2,
+     59.0,
+     532.1,
+     85.9
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q042_img3.png",
+    "pagina": 28,
+    "bbox": [
+     406.1,
+     200.9,
+     531.4,
+     233.3
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   28
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.625,
+     45.70700000000011,
+     166.017,
+     56.70700000000011
+    ],
+    [
+     60.480000000000004,
+     58.32,
+     225.36,
+     234.0
+    ],
+    [
+     225.27,
+     74.918,
+     491.42600000000016,
+     85.918
+    ],
+    [
+     498.15800000000013,
+     59.04,
+     532.08,
+     85.918
+    ],
+    [
+     225.27,
+     89.49700000000007,
+     510.225,
+     100.49700000000007
+    ],
+    [
+     225.27,
+     103.90700000000004,
+     510.46700000000004,
+     114.90700000000004
+    ],
+    [
+     225.27,
+     118.49700000000007,
+     510.40100000000007,
+     129.49700000000007
+    ],
+    [
+     225.27,
+     133.10700000000008,
+     510.24700000000007,
+     144.10700000000008
+    ],
+    [
+     225.27,
+     147.7270000000001,
+     510.53999999999996,
+     158.7270000000001
+    ],
+    [
+     225.27,
+     162.12700000000007,
+     510.0820000000001,
+     173.12700000000007
+    ],
+    [
+     225.27,
+     176.7270000000001,
+     482.153,
+     187.73800000000006
+    ],
+    [
+     406.13,
+     200.90599999999995,
+     531.36,
+     233.28
+    ],
+    [
+     233.88,
+     210.106,
+     510.374,
+     218.106
+    ],
+    [
+     42.625,
+     252.55700000000002,
+     547.37,
+     263.557
+    ],
+    [
+     42.625,
+     265.15700000000004,
+     546.7710000000001,
+     276.157
+    ],
+    [
+     42.625,
+     277.557,
+     408.143,
+     288.557
+    ],
+    [
+     42.625,
+     303.157,
+     546.672,
+     314.157
+    ],
+    [
+     64.025,
+     315.757,
+     546.7819999999997,
+     326.757
+    ],
+    [
+     64.025,
+     328.357,
+     117.41900000000001,
+     339.357
+    ],
+    [
+     42.625,
+     341.157,
+     547.273,
+     352.157
+    ],
+    [
+     64.025,
+     353.777,
+     434.4380000000001,
+     364.777
+    ],
+    [
+     42.625,
+     366.377,
+     547.5020000000001,
+     377.377
+    ],
+    [
+     64.025,
+     378.97700000000003,
+     409.092,
+     389.97700000000003
+    ],
+    [
+     42.625,
+     391.777,
+     546.7379999999998,
+     402.777
+    ],
+    [
+     64.025,
+     404.377,
+     332.01800000000003,
+     415.377
+    ],
+    [
+     42.625,
+     416.97700000000003,
+     547.473,
+     427.97700000000003
+    ],
+    [
+     64.025,
+     429.577,
+     459.7500000000001,
+     440.577
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q042_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q043",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 43,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{fonte:1}}\n\n{{fonte:2}}\n\nOs processos sociais são sociologicamente considerados um conjunto de interações repetitivas de padrões de comportamento, elaborados pelos sujeitos na vida em sociedade. Dentre os processos sociais, pode-se destacar aquele que ocorre com os indivíduos ou grupos numa dinâmica de disputa de bens materiais ou vantagens sociais, ocorrendo de maneira consciente ou inconsciente. Assinale a alternativa que indica a imagem que melhor representa esse processo.",
+  "fontes": [
+   "Disponível em: http://nabuska.blogspot.com.br",
+   "Disponível em: http://www.overmundo.com.br"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:1}}"
+   },
+   {
+    "letra": "B",
+    "texto": "Fonte: JONAS PEREIRA/AGÊNCIA SENADO/FOTOS Fonte: CICLO VIVO PÚBLICAS\n\n{{img:2}}"
+   },
+   {
+    "letra": "C",
+    "texto": "{{img:3}}"
+   },
+   {
+    "letra": "D",
+    "texto": "Fonte: Andreia/#concursos públicos\n\n{{img:4}}"
+   },
+   {
+    "letra": "E",
+    "texto": "{{img:5}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q043_img1.png",
+    "pagina": 28,
+    "bbox": [
+     60.5,
+     541.4,
+     249.1,
+     694.8
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q043_img2.png",
+    "pagina": 28,
+    "bbox": [
+     327.6,
+     541.4,
+     537.1,
+     691.9
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q043_img3.png",
+    "pagina": 29,
+    "bbox": [
+     60.5,
+     67.7,
+     287.3,
+     217.4
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q043_img4.png",
+    "pagina": 29,
+    "bbox": [
+     327.6,
+     67.7,
+     527.0,
+     218.2
+    ]
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q043_img5.png",
+    "pagina": 29,
+    "bbox": [
+     60.5,
+     249.8,
+     271.4,
+     391.7
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   28,
+   29
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.625,
+     454.97700000000003,
+     546.727,
+     465.97700000000003
+    ],
+    [
+     42.625,
+     467.607,
+     547.269,
+     478.607
+    ],
+    [
+     42.625,
+     480.207,
+     547.417,
+     491.207
+    ],
+    [
+     42.625,
+     493.007,
+     547.2049999999999,
+     504.007
+    ],
+    [
+     42.625,
+     505.607,
+     388.91700000000003,
+     516.607
+    ],
+    [
+     42.625,
+     530.807,
+     52.488,
+     541.807
+    ],
+    [
+     309.7,
+     530.807,
+     319.563,
+     541.807
+    ],
+    [
+     60.480000000000004,
+     541.44,
+     249.12,
+     694.8000000000001
+    ],
+    [
+     327.6,
+     541.44,
+     537.12,
+     691.9200000000001
+    ],
+    [
+     343.5,
+     692.0310000000001,
+     536.438,
+     700.0310000000001
+    ],
+    [
+     163.25,
+     695.831,
+     233.83399999999997,
+     700.0310000000001
+    ],
+    [
+     496.95,
+     701.231,
+     536.446,
+     709.231
+    ]
+   ],
+   "29": [
+    [
+     42.625,
+     57.307000000000016,
+     51.888000000000005,
+     68.30700000000002
+    ],
+    [
+     309.7,
+     57.307000000000016,
+     319.563,
+     68.30700000000002
+    ],
+    [
+     60.480000000000004,
+     67.68,
+     287.28000000000003,
+     217.44
+    ],
+    [
+     327.6,
+     67.68,
+     527.04,
+     218.16
+    ],
+    [
+     149.05,
+     218.30599999999993,
+     276.17,
+     226.30599999999993
+    ],
+    [
+     352.92,
+     219.106,
+     517.3299999999999,
+     226.30599999999993
+    ],
+    [
+     42.625,
+     239.52700000000004,
+     52.488,
+     250.52700000000004
+    ],
+    [
+     60.480000000000004,
+     249.84,
+     271.44,
+     391.68
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q043_p28.jpg",
+   "revisao/Q043_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q044",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 44,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A socialização é o processo sociológico, por meio do qual adquirimos hábitos e costumes, além de maneiras de agir, pensar e sentir próprios do grupo em que vivemos, sendo compartilhado por todos os seus membros. Baseando-se nesse conceito da Sociologia, qual das alternativas a seguir **NÃO** indica um agente de socialização?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Família"
+   },
+   {
+    "letra": "B",
+    "texto": "Escolas"
+   },
+   {
+    "letra": "C",
+    "texto": "Trabalho"
+   },
+   {
+    "letra": "D",
+    "texto": "Meios de comunicação de massa"
+   },
+   {
+    "letra": "E",
+    "texto": "Imagens subconscientes"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.625,
+     414.97700000000003,
+     547.169,
+     425.97700000000003
+    ],
+    [
+     42.625,
+     427.577,
+     547.3290000000001,
+     438.577
+    ],
+    [
+     42.625,
+     439.97700000000003,
+     547.31,
+     450.97700000000003
+    ],
+    [
+     42.625,
+     452.97700000000003,
+     210.79300000000003,
+     463.97700000000003
+    ],
+    [
+     42.625,
+     478.207,
+     99.918,
+     489.207
+    ],
+    [
+     42.625,
+     490.807,
+     102.492,
+     501.807
+    ],
+    [
+     42.625,
+     503.607,
+     107.31000000000002,
+     514.607
+    ],
+    [
+     42.625,
+     516.2070000000001,
+     227.18800000000005,
+     527.207
+    ],
+    [
+     42.625,
+     528.807,
+     185.01399999999998,
+     539.807
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q044_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q045",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 45,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Atualmente observamos o surgimento de ideologias que colocam a sociedade sob o comando de grupos radicais. Estes provocam conflitos e guerras, que matam milhões de pessoas no mundo. A justificativa religiosa é um dos principais instrumentos ideológicos desses grupos para os diversos cenários de terrorismo, observados em diferentes lugares. A religião como instituição possui diferentes funções sociais. Assinale a alternativa que **INDICA** uma dessas funções.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Preencher a necessidade de explicação dos fenômenos ainda não desvendados pela ciência."
+   },
+   {
+    "letra": "B",
+    "texto": "Preparar os indivíduos para os papéis ocupacionais e profissionais."
+   },
+   {
+    "letra": "C",
+    "texto": "Engajar os indivíduos em pesquisas para promover o bem-estar social."
+   },
+   {
+    "letra": "D",
+    "texto": "Institucionalizar juridicamente a conjugalidade e união entre os membros do grupo."
+   },
+   {
+    "letra": "E",
+    "texto": "Possibilitar a transmissão da herança genética dentro do grupo nuclear de sociabilidade."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.625,
+     566.827,
+     547.105,
+     577.827
+    ],
+    [
+     42.625,
+     579.427,
+     547.1460000000001,
+     590.427
+    ],
+    [
+     42.625,
+     592.027,
+     546.7,
+     603.027
+    ],
+    [
+     42.625,
+     604.827,
+     547.39,
+     615.827
+    ],
+    [
+     42.625,
+     617.2270000000001,
+     398.05699999999996,
+     628.227
+    ],
+    [
+     42.625,
+     642.627,
+     520.8659999999998,
+     653.6270000000001
+    ],
+    [
+     42.625,
+     655.227,
+     392.945,
+     666.227
+    ],
+    [
+     42.625,
+     668.057,
+     410.54,
+     679.057
+    ],
+    [
+     42.625,
+     680.652,
+     468.81100000000004,
+     691.652
+    ],
+    [
+     42.625,
+     693.2520000000001,
+     496.38300000000004,
+     704.2520000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q045_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4084-Q046",
+  "prova_id": "P4084",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2018",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "2",
+  "caderno": "",
+  "numero": 46,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Pernambuco sofreu forte influência da herança indígena na composição de sua identidade cultural. Sobre esse assunto, analise os itens a seguir:\n\nI. Na linguagem, a contribuição indígena teve maior influência em relação aos termos utilizados pelas artes plásticas e às músicas que retratam a vida da região litorânea de Pernambuco. No entanto, no dia a dia, essa herança linguística foi rejeitada, adotando-se as expressões africanas.\n\nII. Macaxeira, beiju, pamonha e canjica são alimentos de herança indígena, bastante consumidos hoje, em Pernambuco, principalmente em grandes festas populares ao longo do ano.\n\nIII. Os hábitos cotidianos são importantes para a constituição cultural de um povo. O banho diário foi um desses hábitos deixados pelos indígenas à cultura pernambucana.\n\nIV.A cerâmica é uma técnica utilizada pelos indígenas para guardar alimentos, servindo como objeto decorativo ou religioso. Em Pernambuco, o uso dessa técnica sofreu críticas por parte dos artistas pelo fato de distorcer a origem cultural do estado.\n\nV. Os cultos indígenas são percebidos na cultura pernambucana, em manifestações populares, como no maracatu rural e em rituais de jurema ou de umbanda, existentes em diferentes regiões do Estado.\n\nEstão **CORRETOS**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e III."
+   },
+   {
+    "letra": "B",
+    "texto": "II, IV e V."
+   },
+   {
+    "letra": "C",
+    "texto": "II, III e V."
+   },
+   {
+    "letra": "D",
+    "texto": "I e V."
+   },
+   {
+    "letra": "E",
+    "texto": "III e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   30
+  ],
+  "caixas": {
+   "30": [
+    [
+     42.625,
+     45.70700000000011,
+     547.298,
+     56.70700000000011
+    ],
+    [
+     42.625,
+     58.307000000000016,
+     266.695,
+     69.30700000000002
+    ],
+    [
+     71.025,
+     83.70700000000011,
+     547.371,
+     94.70700000000011
+    ],
+    [
+     85.225,
+     96.30700000000002,
+     547.0250000000002,
+     107.30700000000002
+    ],
+    [
+     85.225,
+     108.90700000000004,
+     547.347,
+     119.90700000000004
+    ],
+    [
+     85.225,
+     121.70700000000011,
+     133.031,
+     132.7070000000001
+    ],
+    [
+     71.025,
+     134.30700000000002,
+     547.466,
+     145.30700000000002
+    ],
+    [
+     85.225,
+     146.92700000000002,
+     546.9459999999999,
+     157.92700000000002
+    ],
+    [
+     85.225,
+     159.52700000000004,
+     106.883,
+     170.52700000000004
+    ],
+    [
+     71.025,
+     172.3270000000001,
+     546.9230000000001,
+     183.3270000000001
+    ],
+    [
+     85.225,
+     184.92700000000002,
+     443.57900000000006,
+     195.92700000000002
+    ],
+    [
+     71.025,
+     197.52700000000004,
+     547.477,
+     208.52700000000004
+    ],
+    [
+     85.225,
+     210.12700000000007,
+     546.752,
+     221.12700000000007
+    ],
+    [
+     85.225,
+     222.92700000000002,
+     386.236,
+     233.92700000000002
+    ],
+    [
+     71.025,
+     235.52700000000004,
+     547.638,
+     246.52700000000004
+    ],
+    [
+     85.225,
+     248.12700000000007,
+     547.365,
+     259.12700000000007
+    ],
+    [
+     85.225,
+     260.75700000000006,
+     177.08,
+     271.757
+    ],
+    [
+     42.625,
+     285.957,
+     136.307,
+     296.957
+    ],
+    [
+     42.625,
+     311.357,
+     103.68000000000002,
+     322.357
+    ],
+    [
+     42.625,
+     324.157,
+     109.06900000000002,
+     335.157
+    ],
+    [
+     42.625,
+     336.757,
+     107.88200000000002,
+     347.757
+    ],
+    [
+     42.625,
+     349.357,
+     89.683,
+     360.357
+    ],
+    [
+     42.625,
+     361.97700000000003,
+     98.68600000000002,
+     372.97700000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2018/CADERNO_DE_PROVAS_SSA_1_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4086"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q046_p30.jpg"
+  ]
+ }
+]

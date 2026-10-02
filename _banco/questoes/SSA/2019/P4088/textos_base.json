@@ -1,0 +1,306 @@
+[
+ {
+  "id": "P4088-T1",
+  "texto": "**QUÍMICA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     272.05,
+     44.17700000000002,
+     319.74600000000004,
+     55.17700000000002
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4088-Q011"
+  ],
+  "recortes": [
+   "revisao/T1_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4088-T2",
+  "texto": "Observe a tirinha a seguir para responder às questões 15 e 16.\n\n{{img:1}}\n\n{{fonte:1}}",
+  "fontes": [
+   "Disponível em: http://www.cbpf.br/~eduhq. Adaptado."
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T2_img1.png",
+    "pagina": 11,
+    "bbox": [
+     95.0,
+     282.6,
+     494.7,
+     458.9
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.6,
+     271.407,
+     351.407994,
+     282.407
+    ],
+    [
+     95.02499,
+     282.58001,
+     494.72499,
+     458.92001000000005
+    ],
+    [
+     188.52,
+     460.913,
+     401.382,
+     469.913
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   15,
+   16
+  ],
+  "questoes": [
+   "P4088-Q015",
+   "P4088-Q016"
+  ],
+  "recortes": [
+   "revisao/T2_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4088-T3",
+  "texto": "Texto 1 para as questões 18 e 19.\n\n**TEXTO 1**\n\n**O Experimento de Ira Remsen**\n\nLendo um livro de química, deparei-me com a seguinte frase: “O ácido nítrico age sobre o cobre. Estava ficando farto de ler afirmações absurdas, de forma que decidi ver o que isso significava. O cobre era um material familiar, uma vez que as moedas de um centavo de dólar eram feitas de cobre. Numa mesa, no gabinete do médico para quem eu trabalhava, avistei um frasco com o rótulo “ácido nítrico”. A partir disso, eu estava determinado a aprender e descobrir o significado das palavras “agir sobre”. Esse termo passaria a significar mais que meras palavras. Para o bem do conhecimento, estava disposto a perder minhas poucas moedas. Coloquei uma delas sobre a mesa, abri o frasco, despejei um pouco do líquido na moeda e me atentei a, apenas, observar. Mas o que era essa coisa maravilhosa que vi? A moeda já tinha se modificado, e não foi pouca a mudança. Um líquido azul-esverdeado espumou e exalou vapores sobre a moeda e a mesa. O ar tornou-se vermelho escuro. Como poderia interromper esse processo? Tentei fazer isso pegando a moeda e jogando-a pela janela. Então outro fato: o ácido nítrico age sobre os dedos. A dor me levou a outro experimento não previsto. Passei meus dedos na minha roupa e descobri que o ácido nítrico age também sobre a minha roupa. Esse foi o experimento mais impressionante que já realizei”.\n\n(The Principles of Theoretical Chemistry, 1887. Adaptado.)",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.6,
+     144.90700000000015,
+     209.57998900000004,
+     155.90700000000015
+    ],
+    [
+     49.7,
+     164.49700000000018,
+     95.49300000000001,
+     175.49700000000018
+    ],
+    [
+     219.55,
+     177.60700000000008,
+     375.967,
+     188.60700000000008
+    ],
+    [
+     55.1,
+     202.90700000000004,
+     540.4689999999999,
+     213.93999999999994
+    ],
+    [
+     55.1,
+     215.60700000000008,
+     540.1340000000001,
+     226.60700000000008
+    ],
+    [
+     55.1,
+     228.2070000000001,
+     540.561,
+     239.2070000000001
+    ],
+    [
+     55.1,
+     240.90700000000004,
+     540.399,
+     251.90700000000004
+    ],
+    [
+     55.1,
+     253.52999999999997,
+     540.191,
+     264.53
+    ],
+    [
+     55.1,
+     266.207,
+     540.5709999999999,
+     277.24
+    ],
+    [
+     55.1,
+     278.827,
+     540.2879999999999,
+     289.827
+    ],
+    [
+     55.1,
+     291.527,
+     540.447,
+     302.527
+    ],
+    [
+     55.1,
+     304.127,
+     540.079,
+     315.127
+    ],
+    [
+     55.1,
+     316.827,
+     540.402,
+     327.827
+    ],
+    [
+     55.1,
+     329.427,
+     540.428,
+     340.427
+    ],
+    [
+     55.1,
+     342.127,
+     540.2289999999999,
+     353.127
+    ],
+    [
+     55.1,
+     354.72700000000003,
+     540.1559999999997,
+     365.72700000000003
+    ],
+    [
+     55.1,
+     367.427,
+     540.3210000000001,
+     378.427
+    ],
+    [
+     55.1,
+     380.027,
+     96.58300000000001,
+     391.06
+    ],
+    [
+     305.15,
+     392.72700000000003,
+     540.563,
+     403.72700000000003
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   18,
+   19
+  ],
+  "questoes": [
+   "P4088-Q018",
+   "P4088-Q019"
+  ],
+  "recortes": [
+   "revisao/T3_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4088-T4",
+  "texto": "**HISTÓRIA - SSA 1**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     247.75,
+     42.47700000000009,
+     341.752,
+     53.47700000000009
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4088-Q021"
+  ],
+  "recortes": [
+   "revisao/T4_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4088-T6",
+  "texto": "**GEOGRAFIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     263.65,
+     40.777000000000044,
+     330.24399999999997,
+     51.777000000000044
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4088-Q031"
+  ],
+  "recortes": [
+   "revisao/T6_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4088-T7",
+  "texto": "**SOCIOLOGIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     259.85,
+     41.17700000000002,
+     330.261,
+     52.17700000000002
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4088-Q041"
+  ],
+  "recortes": [
+   "revisao/T7_p26.jpg"
+  ]
+ }
+]

@@ -1,0 +1,5452 @@
+[
+ {
+  "id": "P4014-Q001",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 1,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Juliana, aluna estagiária do curso de Bioquímica, acompanhou, periodicamente, o crescimento de uma colônia de bactérias. Na primeira observação, ela constatou um total de 1.500 bactérias. Durante as observações subsequentes, ela constatou que a população da colônia sempre dobrava em relação à observação anterior.\n\nEm qual observação da colônia a contagem de Juliana alcançou um total de 375×2<sup>55</sup> bactérias?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "48<sup>\\(\\frac{a}{a}\\)</sup>"
+   },
+   {
+    "letra": "B",
+    "texto": "50"
+   },
+   {
+    "letra": "C",
+    "texto": "52<sup>\\(\\frac{a}{a}\\)</sup>"
+   },
+   {
+    "letra": "D",
+    "texto": "54"
+   },
+   {
+    "letra": "E",
+    "texto": "56<sup>a</sup>"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.6,
+     114.90700000000004,
+     545.9559959999997,
+     125.90700000000004
+    ],
+    [
+     42.6,
+     127.60700000000008,
+     545.4319999999998,
+     138.60700000000008
+    ],
+    [
+     42.6,
+     140.2070000000001,
+     545.9359979999998,
+     151.2070000000001
+    ],
+    [
+     42.6,
+     152.90700000000004,
+     152.02800000000002,
+     163.90700000000004
+    ],
+    [
+     42.6,
+     165.49700000000007,
+     510.012998,
+     176.49700000000007
+    ],
+    [
+     42.6,
+     190.80700000000002,
+     71.625,
+     201.80700000000002
+    ],
+    [
+     42.6,
+     203.49700000000007,
+     67.724,
+     214.49700000000007
+    ],
+    [
+     42.6,
+     216.10700000000008,
+     70.89999999999999,
+     227.10700000000008
+    ],
+    [
+     42.6,
+     228.80700000000002,
+     67.724,
+     239.80700000000002
+    ],
+    [
+     42.6,
+     241.40700000000004,
+     71.592,
+     252.40700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q002",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 2,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O consumo de energia elétrica é calculado multiplicando a potência do equipamento em watts (W) pelo tempo de uso em horas (h) e dividindo o resultado por 1.000. O resultado é a quantidade de energia consumida em quilowatts-hora (kWh).\n\nO gráfico a seguir representa o histórico de consumo (em kWh) de uma conta de energia elétrica no período de dezembro de 2023 até agosto de 2024. O consumo mensal aparece na parte superior de cada coluna.\n\n{{img:1}}\n\nNesse período, qual foi aproximadamente a taxa de crescimento do mês de menor consumo em relação ao mês de maior consumo?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "44%"
+   },
+   {
+    "letra": "B",
+    "texto": "46%"
+   },
+   {
+    "letra": "C",
+    "texto": "48%"
+   },
+   {
+    "letra": "D",
+    "texto": "49%"
+   },
+   {
+    "letra": "E",
+    "texto": "50%"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q002_img1.png",
+    "pagina": 3,
+    "bbox": [
+     140.9,
+     379.0,
+     449.3,
+     580.9
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.6,
+     304.72700000000003,
+     545.7350000000002,
+     315.72700000000003
+    ],
+    [
+     42.6,
+     317.327,
+     545.8230000000001,
+     328.327
+    ],
+    [
+     42.6,
+     329.927,
+     266.962,
+     340.927
+    ],
+    [
+     42.6,
+     342.627,
+     545.5529999999998,
+     353.627
+    ],
+    [
+     42.6,
+     355.22700000000003,
+     545.857007,
+     366.22700000000003
+    ],
+    [
+     42.6,
+     367.927,
+     104.86,
+     378.927
+    ],
+    [
+     140.91,
+     379.04,
+     449.28999999999996,
+     580.9000000000001
+    ],
+    [
+     42.6,
+     594.857,
+     512.025,
+     605.857
+    ],
+    [
+     42.6,
+     607.4570000000001,
+     217.4560000000001,
+     618.457
+    ],
+    [
+     42.6,
+     632.7470000000001,
+     77.503,
+     643.7470000000001
+    ],
+    [
+     42.6,
+     645.457,
+     77.503,
+     656.457
+    ],
+    [
+     42.6,
+     658.077,
+     76.887,
+     669.077
+    ],
+    [
+     42.6,
+     670.777,
+     77.503,
+     681.777
+    ],
+    [
+     42.6,
+     683.3770000000001,
+     77.503,
+     694.3770000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q003",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 3,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O fazendeiro Sr. Everton Oliveira cultiva verduras, laranjas, cajus e abacaxis em um terreno de forma retangular de área igual a 5.000 m<sup>2</sup>. No esquema da figura a seguir, que representa esse terreno, ele está dividido por dois segmentos em que um deles é uma diagonal, e o outro liga um vértice à metade do lado maior.\n\n{{img:1}}\n\nSe a parte reservada à plantação de verduras tem área de 200 m<sup>2</sup>, e a parte reservada à plantação de cajus é quatro vezes maior, que percentagem do terreno corresponde à plantação de abacaxis?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "34%"
+   },
+   {
+    "letra": "B",
+    "texto": "29%"
+   },
+   {
+    "letra": "C",
+    "texto": "27%"
+   },
+   {
+    "letra": "D",
+    "texto": "25%"
+   },
+   {
+    "letra": "E",
+    "texto": "22%"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q003_img1.png",
+    "pagina": 4,
+    "bbox": [
+     222.5,
+     137.5,
+     393.8,
+     224.6
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.6,
+     76.77700000000004,
+     545.7169989999999,
+     87.77700000000004
+    ],
+    [
+     42.6,
+     89.49700000000007,
+     545.864992,
+     100.49700000000007
+    ],
+    [
+     42.6,
+     102.10700000000008,
+     545.6669999999999,
+     113.10700000000008
+    ],
+    [
+     42.6,
+     114.80700000000002,
+     196.62600400000005,
+     125.80700000000002
+    ],
+    [
+     222.48000000000002,
+     137.52,
+     393.84000000000003,
+     224.64000000000001
+    ],
+    [
+     42.6,
+     237.80700000000002,
+     545.7610000000001,
+     248.80700000000002
+    ],
+    [
+     42.6,
+     250.49700000000007,
+     510.7929999999999,
+     261.49700000000007
+    ],
+    [
+     42.6,
+     275.827,
+     77.47899799999999,
+     286.827
+    ],
+    [
+     42.6,
+     288.427,
+     77.47899799999999,
+     299.427
+    ],
+    [
+     42.6,
+     301.127,
+     76.879003,
+     312.127
+    ],
+    [
+     42.6,
+     313.72700000000003,
+     77.479,
+     324.72700000000003
+    ],
+    [
+     42.6,
+     326.427,
+     77.47899799999999,
+     337.427
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q003_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q004",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 4,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\n{{img:2}}\n\nA transmissão de calor por condução entre dois pontos separados por um determinado meio é regida pela Lei de Fourier. Consideremos uma barra metálica de comprimento L, seção transversal A. O fluxo de calor ao longo da barra é dado pela fórmula  \nna qual K é uma constante positiva, e a variação de temperatura entre as extremidades da barra.\n\n{{img:3}}\n\n{{fonte:1}}\n\nSe a seção transversal da barra metálica é um círculo, é **CORRETO** afirmar que, ao triplicar o seu raio, sem modificar nenhuma das outras variáveis nem o material da barra, o fluxo de calor será multiplicado por quanto?",
+  "fontes": [
+   "FERRARO, Nicolau Gilberto. *Física básica*: volume único. 3. ed. São Paulo, SP: Atual, 2009. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:5}}"
+   },
+   {
+    "letra": "B",
+    "texto": "{{img:6}}"
+   },
+   {
+    "letra": "C",
+    "texto": "{{img:7}}"
+   },
+   {
+    "letra": "D",
+    "texto": "{{img:8}}"
+   },
+   {
+    "letra": "E",
+    "texto": "{{img:9}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q004_img1.png",
+    "pagina": 4,
+    "bbox": [
+     122.4,
+     422.6,
+     129.6,
+     431.3
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q004_img2.png",
+    "pagina": 4,
+    "bbox": [
+     258.5,
+     445.7,
+     329.8,
+     471.6
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q004_img3.png",
+    "pagina": 4,
+    "bbox": [
+     229.0,
+     486.7,
+     244.1,
+     496.1
+    ]
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q004_alta.png",
+    "pagina": 4,
+    "bbox": [
+     42.5,
+     578.9,
+     70.6,
+     640.1
+    ],
+    "recorte_de": 4
+   },
+   {
+    "id": 6,
+    "arquivo": "img/Q004_altb.png",
+    "pagina": 4,
+    "bbox": [
+     42.5,
+     578.9,
+     70.6,
+     640.1
+    ],
+    "recorte_de": 4
+   },
+   {
+    "id": 7,
+    "arquivo": "img/Q004_altc.png",
+    "pagina": 4,
+    "bbox": [
+     42.5,
+     578.9,
+     70.6,
+     640.1
+    ],
+    "recorte_de": 4
+   },
+   {
+    "id": 8,
+    "arquivo": "img/Q004_altd.png",
+    "pagina": 4,
+    "bbox": [
+     42.5,
+     578.9,
+     70.6,
+     640.1
+    ],
+    "recorte_de": 4
+   },
+   {
+    "id": 9,
+    "arquivo": "img/Q004_alte.png",
+    "pagina": 4,
+    "bbox": [
+     42.5,
+     578.9,
+     70.6,
+     640.1
+    ],
+    "recorte_de": 4
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.6,
+     394.22700000000003,
+     545.608,
+     405.22700000000003
+    ],
+    [
+     42.6,
+     406.827,
+     545.557994,
+     417.827
+    ],
+    [
+     42.6,
+     419.72700000000003,
+     320.0029990000001,
+     430.72700000000003
+    ],
+    [
+     122.4,
+     422.64000000000004,
+     129.6,
+     431.28000000000003
+    ],
+    [
+     258.48,
+     445.68,
+     329.76,
+     471.6
+    ],
+    [
+     42.6,
+     486.157,
+     534.836998,
+     497.157
+    ],
+    [
+     228.96,
+     486.72,
+     244.08,
+     496.08000000000004
+    ],
+    [
+     178.02,
+     505.336,
+     545.71,
+     513.336
+    ],
+    [
+     42.6,
+     527.657,
+     545.859997,
+     538.657
+    ],
+    [
+     42.6,
+     540.2470000000001,
+     545.542,
+     551.2470000000001
+    ],
+    [
+     42.6,
+     552.9570000000001,
+     162.36800000000002,
+     563.957
+    ],
+    [
+     42.480000000000004,
+     578.88,
+     70.56,
+     640.08
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [
+   "imagem 1 é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição",
+   "imagem 3 é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição",
+   "alternativas estão desenhadas no PDF (sem texto): recortadas como imagem, uma por alternativa — conferir",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q004_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q005",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 5,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir.\n\n**4 bilhões de garrafas de plástico**\n\nEm artigo publicado na revista acadêmica Science Advances, o pesquisador Roland Geyer, da Universidade da Califórnia, em Santa Bárbara, estima em 8,3 bilhões de toneladas a quantidade de plástico já produzido no mundo. Garrafas de bebida são um dos tipos mais comuns de resíduos de plástico. Estima-se que 480 bilhões de garrafas tenham sido vendidas em todo o mundo até 2016, conforme as informações do infográfico a seguir.\n\n{{img:1}}\n\n{{fonte:1}}\n\nCom base nas informações e nos dados do infográfico, analise as proposições a seguir.\n\n¼  \nI. A Coca-Cola é responsável pela produção de mais de das garrafas plásticas produzidas pelo mundo, o que contribui para a produção de resíduos.\n\nII. Cerca de 33,6 milhões de garrafas plásticas são transformadas em novas garrafas após o processo de reciclagem.\n\nIII. 1,66 x 10<sup>8</sup> garrafas são compradas por dia no mundo, o que contribui significativamente para a produção de plásticos enquanto resíduo.\n\nEstá **CORRETO** o que se afirma apenas em",
+  "fontes": [
+   "Disponíveis em: https://www.bbc.com/portuguese/geral-42308171. Acesso em: 04 abr. 2024. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I."
+   },
+   {
+    "letra": "B",
+    "texto": "II."
+   },
+   {
+    "letra": "C",
+    "texto": "III."
+   },
+   {
+    "letra": "D",
+    "texto": "I e II."
+   },
+   {
+    "letra": "E",
+    "texto": "II e III."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q005_img1.png",
+    "pagina": 5,
+    "bbox": [
+     137.4,
+     192.6,
+     452.7,
+     487.2
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.6,
+     75.67700000000002,
+     156.96499800000004,
+     86.67700000000002
+    ],
+    [
+     208.93,
+     100.99700000000007,
+     379.51800000000003,
+     111.99700000000007
+    ],
+    [
+     42.6,
+     125.10700000000008,
+     545.5859999999999,
+     136.10700000000008
+    ],
+    [
+     42.6,
+     137.80700000000013,
+     545.5309999999997,
+     148.80700000000013
+    ],
+    [
+     42.6,
+     150.40700000000015,
+     545.7010049999998,
+     161.40700000000015
+    ],
+    [
+     42.6,
+     163.1070000000002,
+     545.4820059999996,
+     174.1070000000002
+    ],
+    [
+     42.6,
+     175.70700000000022,
+     280.3870000000001,
+     186.70700000000022
+    ],
+    [
+     137.3999939,
+     192.61000980000006,
+     452.6899872,
+     487.23000490000004
+    ],
+    [
+     110.32,
+     498.43600000000004,
+     477.96199999999976,
+     506.43600000000004
+    ],
+    [
+     42.6,
+     518.357,
+     471.72099999999995,
+     529.357
+    ],
+    [
+     336.25,
+     540.578,
+     347.926,
+     554.578
+    ],
+    [
+     42.6,
+     542.9570000000001,
+     545.6980010000001,
+     553.957
+    ],
+    [
+     56.80000000000001,
+     556.357,
+     315.3880000000002,
+     567.357
+    ],
+    [
+     42.60000000000001,
+     568.9570000000001,
+     545.7850019999998,
+     579.957
+    ],
+    [
+     56.80000000000001,
+     581.657,
+     128.23400000000004,
+     592.657
+    ],
+    [
+     42.60000000000001,
+     594.2470000000001,
+     545.9159999999999,
+     605.2470000000001
+    ],
+    [
+     56.799999999999955,
+     606.857,
+     255.56799800000005,
+     617.857
+    ],
+    [
+     42.6,
+     628.7470000000001,
+     259.051,
+     639.7470000000001
+    ],
+    [
+     42.6,
+     654.077,
+     62.958,
+     665.077
+    ],
+    [
+     42.599999999999994,
+     666.677,
+     66.058,
+     677.677
+    ],
+    [
+     42.599999999999994,
+     679.3770000000001,
+     69.04299900000001,
+     690.3770000000001
+    ],
+    [
+     42.599999999999994,
+     691.977,
+     81.319,
+     702.977
+    ],
+    [
+     42.599999999999994,
+     704.677,
+     87.40200000000002,
+     715.677
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q005_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q006",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 6,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Toras de madeira são pedaços de madeira bruta com mais de 2,50 metros de comprimento, conforme ilustrado na imagem a seguir. Elas são importantes para os setores de decoração e de fabricação de móveis e casas, pois podem ser utilizadas de diversas formas, graças à sua aparência natural e rústica.\n\n{{img:1}}\n\nUm marceneiro está montando portas de um armário escolar a partir de toras de madeira com secção circular de comprimento igual a 62,8 centímetros. Qual é, aproximadamente, a medida da maior secção quadrada que o marceneiro pode obter dessas toras?\n\n{{img:2}}\n\nAdote π = 3,14 e = 1,4.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "14 cm"
+   },
+   {
+    "letra": "B",
+    "texto": "13 cm"
+   },
+   {
+    "letra": "C",
+    "texto": "12 cm"
+   },
+   {
+    "letra": "D",
+    "texto": "11 cm"
+   },
+   {
+    "letra": "E",
+    "texto": "10 cm"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q006_img1.png",
+    "pagina": 6,
+    "bbox": [
+     230.1,
+     124.8,
+     359.7,
+     226.8
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q006_img2.png",
+    "pagina": 6,
+    "bbox": [
+     128.2,
+     266.4,
+     141.8,
+     277.2
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.6,
+     75.67700000000002,
+     545.5310000000001,
+     86.67700000000002
+    ],
+    [
+     42.6,
+     88.30700000000002,
+     545.7200000000001,
+     99.30700000000002
+    ],
+    [
+     42.6,
+     100.99700000000007,
+     545.4539999999998,
+     111.99700000000007
+    ],
+    [
+     42.6,
+     113.60700000000008,
+     123.96700000000003,
+     124.60700000000008
+    ],
+    [
+     230.14999,
+     124.7700000000001,
+     359.70999,
+     226.79000000000008
+    ],
+    [
+     42.6,
+     228.2070000000001,
+     545.902998,
+     239.2070000000001
+    ],
+    [
+     42.6,
+     240.90700000000004,
+     545.4209999999998,
+     251.90700000000004
+    ],
+    [
+     42.6,
+     253.49700000000007,
+     342.86999900000006,
+     264.49700000000007
+    ],
+    [
+     128.16,
+     266.40000000000003,
+     141.84,
+     277.2
+    ],
+    [
+     42.6,
+     268.007,
+     172.382997,
+     279.04
+    ],
+    [
+     42.6,
+     293.327,
+     86.753,
+     304.327
+    ],
+    [
+     42.6,
+     306.027,
+     86.753,
+     317.027
+    ],
+    [
+     42.6,
+     318.627,
+     86.752999,
+     329.627
+    ],
+    [
+     42.6,
+     331.327,
+     86.753,
+     342.327
+    ],
+    [
+     42.6,
+     343.927,
+     86.753,
+     354.927
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [
+   "imagem 2 é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q006_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q007",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 7,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Existem seis linhas de ônibus ligando as cidades de Garanhuns e Caruaru e outras quatro linhas ligando a cidade de Caruaru a Santa Cruz do Capibaribe. Não existem linhas de ônibus ligando Garanhuns a Santa Cruz do Capibaribe. Marina vai viajar de Garanhuns a Santa Cruz do Capibaribe. Quantas são as possibilidades distintas de ela fazer essa viagem de ida e volta, é claro, passando sempre por Garanhuns?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "24"
+   },
+   {
+    "letra": "B",
+    "texto": "48"
+   },
+   {
+    "letra": "C",
+    "texto": "240"
+   },
+   {
+    "letra": "D",
+    "texto": "480"
+   },
+   {
+    "letra": "E",
+    "texto": "576"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.6,
+     419.827,
+     545.3329999999999,
+     430.827
+    ],
+    [
+     42.6,
+     432.527,
+     545.553,
+     443.527
+    ],
+    [
+     42.6,
+     445.127,
+     536.6920049999999,
+     456.127
+    ],
+    [
+     42.6,
+     457.827,
+     545.3439999999998,
+     468.827
+    ],
+    [
+     42.6,
+     470.457,
+     161.829,
+     481.457
+    ],
+    [
+     42.6,
+     495.757,
+     69.016,
+     506.757
+    ],
+    [
+     42.6,
+     508.457,
+     69.016,
+     519.457
+    ],
+    [
+     42.6,
+     521.057,
+     75.116,
+     532.057
+    ],
+    [
+     42.6,
+     533.657,
+     75.116,
+     544.657
+    ],
+    [
+     42.6,
+     546.357,
+     75.116,
+     557.357
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q007_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q008",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 8,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Veja, a seguir, uma oferta de venda de uma TV LED 46”.\n\n{{img:1}}\n\nTV 46” LED FULL HD DIGITAL  \nÀ vista R$ 3 590,00  \nou\n\n12 x no cartão de R$ 359,00\n\nNa compra a prazo, o cliente pagará quantos por cento de juros?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "10%"
+   },
+   {
+    "letra": "B",
+    "texto": "15%"
+   },
+   {
+    "letra": "C",
+    "texto": "20%"
+   },
+   {
+    "letra": "D",
+    "texto": "25%"
+   },
+   {
+    "letra": "E",
+    "texto": "30%"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q008_img1.png",
+    "pagina": 7,
+    "bbox": [
+     125.4,
+     97.2,
+     419.2,
+     279.4
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.6,
+     75.67700000000002,
+     332.39300000000003,
+     86.70999999999992
+    ],
+    [
+     125.39999,
+     97.2,
+     419.19999,
+     279.36
+    ],
+    [
+     186.83,
+     302.222,
+     341.662,
+     314.222
+    ],
+    [
+     212.93,
+     316.622,
+     315.51800000000003,
+     328.622
+    ],
+    [
+     257.65,
+     331.022,
+     270.826,
+     343.022
+    ],
+    [
+     191.23,
+     345.422,
+     337.33,
+     357.422
+    ],
+    [
+     42.6,
+     403.034,
+     388.942,
+     415.034
+    ],
+    [
+     42.6,
+     430.627,
+     77.503,
+     441.627
+    ],
+    [
+     42.6,
+     443.327,
+     77.503,
+     454.327
+    ],
+    [
+     42.6,
+     455.927,
+     76.887,
+     466.927
+    ],
+    [
+     42.6,
+     468.657,
+     77.503,
+     479.657
+    ],
+    [
+     42.6,
+     481.257,
+     77.503,
+     492.257
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q008_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q009",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 9,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Marcos comprou um automóvel 0 Km do modelo *X* da marca *Alfa* por P<sub>o</sub> (reais). Logo após adquirir o veículo, ele soube que esse modelo vem sofrendo uma desvalorização anual de 10%.\n\nQual é a função matemática que expressa o preço P<sub>n</sub> do seu carro após n anos?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:2}}"
+   },
+   {
+    "letra": "B",
+    "texto": "{{img:3}}"
+   },
+   {
+    "letra": "C",
+    "texto": "{{img:4}}"
+   },
+   {
+    "letra": "D",
+    "texto": "{{img:5}}"
+   },
+   {
+    "letra": "E",
+    "texto": "{{img:6}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 2,
+    "arquivo": "img/Q009_alta.png",
+    "pagina": 7,
+    "bbox": [
+     42.5,
+     607.7,
+     131.8,
+     669.6
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q009_altb.png",
+    "pagina": 7,
+    "bbox": [
+     42.5,
+     607.7,
+     131.8,
+     669.6
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q009_altc.png",
+    "pagina": 7,
+    "bbox": [
+     42.5,
+     607.7,
+     131.8,
+     669.6
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q009_altd.png",
+    "pagina": 7,
+    "bbox": [
+     42.5,
+     607.7,
+     131.8,
+     669.6
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 6,
+    "arquivo": "img/Q009_alte.png",
+    "pagina": 7,
+    "bbox": [
+     42.5,
+     607.7,
+     131.8,
+     669.6
+    ],
+    "recorte_de": 1
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.6,
+     557.157,
+     545.739002,
+     568.157
+    ],
+    [
+     42.6,
+     569.857,
+     471.237,
+     580.857
+    ],
+    [
+     42.6,
+     582.4570000000001,
+     435.61299999999994,
+     593.457
+    ],
+    [
+     42.480000000000004,
+     607.6800000000001,
+     131.76,
+     669.6
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [
+   "alternativas estão desenhadas no PDF (sem texto): recortadas como imagem, uma por alternativa — conferir",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q009_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q010",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 10,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Saturno tem uma lua gelada relativamente pequena (com um raio de 504 km), chamada Enceladus, que tem um oceano interno graças ao aquecimento das marés resultante da interação com a lua maior, chamada Dione.\n\n{{fonte:1}}\n\nUm cientista, a fim de obter uma estimativa para o volume da Enceladus, considerou seu raio igual a 500 km e\n\n{{img:1}}\n\nQual é o volume encontrado por ele em Km<sup>3</sup>?",
+  "fontes": [
+   "Por que cientistas acreditam na existência de oceanos em planetas-anões. David Rothery. G1, 2024. Disponível em: https://g1.globo.com/ciencia/noticia/2024/04/14/por-que-cientistas-acreditam-na-existencia-de-oceanos-em-planetas-anoes.ghtml. Acesso em: 10 jul. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "5,4 x 10<sup>8</sup>"
+   },
+   {
+    "letra": "B",
+    "texto": "5,0 x 10<sup>8</sup>"
+   },
+   {
+    "letra": "C",
+    "texto": "5,4 x 10<sup>6</sup>"
+   },
+   {
+    "letra": "D",
+    "texto": "5,0 x 10<sup>6</sup>"
+   },
+   {
+    "letra": "E",
+    "texto": "5,4 x 10<sup>-4</sup>"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q010_img1.png",
+    "pagina": 8,
+    "bbox": [
+     90.7,
+     164.4,
+     121.2,
+     175.4
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.6,
+     75.67700000000002,
+     545.377,
+     86.67700000000002
+    ],
+    [
+     42.6,
+     88.30700000000002,
+     545.4759999999999,
+     99.30700000000002
+    ],
+    [
+     42.6,
+     100.99700000000007,
+     183.167999,
+     111.99700000000007
+    ],
+    [
+     132.73,
+     113.18599999999992,
+     545.82,
+     121.18599999999992
+    ],
+    [
+     86.025,
+     122.37599999999998,
+     545.8240000000001,
+     130.37599999999998
+    ],
+    [
+     458.27,
+     131.586,
+     545.8160000000001,
+     139.586
+    ],
+    [
+     42.6,
+     151.60700000000008,
+     545.5199999999999,
+     162.60700000000008
+    ],
+    [
+     42.6,
+     164.40700000000004,
+     87.941,
+     175.40700000000004
+    ],
+    [
+     90.72,
+     164.40700000000004,
+     121.17800000000001,
+     175.40700000000004
+    ],
+    [
+     42.6,
+     185.2070000000001,
+     265.466,
+     196.2070000000001
+    ],
+    [
+     42.6,
+     206.99700000000007,
+     99.817,
+     217.99700000000007
+    ],
+    [
+     42.6,
+     219.7070000000001,
+     99.817,
+     230.7070000000001
+    ],
+    [
+     42.6,
+     232.30700000000002,
+     99.817,
+     243.30700000000002
+    ],
+    [
+     42.6,
+     244.99700000000007,
+     99.817,
+     255.99700000000007
+    ],
+    [
+     42.6,
+     257.6070000000001,
+     102.116997,
+     268.607
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [
+   "imagem 1 é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q010_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q011",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 11,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O professor Simões, de Educação Física, fez uma pesquisa dos “pesos” médios de seus alunos do 2<sup>o</sup> Ano A – turno da manhã – do Ensino Médio do Colégio Monteiro Lobato no início do ano letivo de 2024. O quadro a seguir apresenta os resultados obtidos pelo professor Simões.\n\n|  | “Peso” (kg) |  | 50 | 52 | 54 | 58 | 60 | 62 | 64 |\n|---|---|---|---|---|---|---|---|---|---|\n|  | N<sup>o</sup> de alunos |  | 6 | 4 | 6 | 7 | 5 | 4 | 8 |\n\nEm seguida, o professor Simões fez o cálculo do “peso” médio da turma utilizando uma *média* *ponderada* e chegou ao resultado 57,45 Kg. Qual é o percentual aproximado de alunos que estão abaixo do “peso” médio da turma?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "58%"
+   },
+   {
+    "letra": "B",
+    "texto": "54%"
+   },
+   {
+    "letra": "C",
+    "texto": "50%"
+   },
+   {
+    "letra": "D",
+    "texto": "44%"
+   },
+   {
+    "letra": "E",
+    "texto": "40%"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.6,
+     346.127,
+     545.4719999999998,
+     357.16
+    ],
+    [
+     42.6,
+     358.827,
+     545.558005,
+     369.86
+    ],
+    [
+     42.6,
+     371.427,
+     435.839,
+     382.427
+    ],
+    [
+     102.24000000000001,
+     396.72,
+     486.0,
+     425.52000000000004
+    ],
+    [
+     42.6,
+     439.627,
+     545.7969999999999,
+     450.66
+    ],
+    [
+     42.6,
+     452.327,
+     545.3989999999999,
+     463.327
+    ],
+    [
+     42.6,
+     464.99,
+     210.11900000000006,
+     475.99
+    ],
+    [
+     42.6,
+     490.257,
+     77.503,
+     501.257
+    ],
+    [
+     42.6,
+     502.957,
+     77.503,
+     513.957
+    ],
+    [
+     42.6,
+     515.557,
+     76.887,
+     526.557
+    ],
+    [
+     42.6,
+     528.2470000000001,
+     77.503,
+     539.2470000000001
+    ],
+    [
+     42.6,
+     540.857,
+     77.503,
+     551.857
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [
+   "tabela transcrita automaticamente — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q011_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q012",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 12,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Os polígonos regulares cuja quantidade de lados é um número par têm uma particularidade em relação às suas diagonais. É que algumas diagonais passam pelo “centro” do polígono, e outras não. A propriedade matemática, nesse caso, é a seguinte:\n\n“Se um polígono regular tem n lados, sendo n um número par, então o número de digonais que passam pelo seu centro é igual a n/2”.\n\nCom base nessa propriedade, quantas diagonais **NÃO** passam pelo centro do dodecágono regular?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "30"
+   },
+   {
+    "letra": "B",
+    "texto": "34"
+   },
+   {
+    "letra": "C",
+    "texto": "36"
+   },
+   {
+    "letra": "D",
+    "texto": "46"
+   },
+   {
+    "letra": "E",
+    "texto": "48"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.6,
+     75.67700000000002,
+     545.8330050000001,
+     86.67700000000002
+    ],
+    [
+     42.6,
+     88.33999999999992,
+     545.5749999999998,
+     99.33999999999992
+    ],
+    [
+     42.6,
+     100.99700000000007,
+     302.43699500000014,
+     111.99700000000007
+    ],
+    [
+     61.8,
+     126.30700000000002,
+     526.607,
+     137.33999999999992
+    ],
+    [
+     200.93,
+     138.93999999999994,
+     387.3910000000001,
+     149.93999999999994
+    ],
+    [
+     42.6,
+     164.2070000000001,
+     531.0689980000002,
+     175.2070000000001
+    ],
+    [
+     42.6,
+     190.7070000000001,
+     67.724,
+     201.7070000000001
+    ],
+    [
+     42.6,
+     203.30700000000002,
+     67.724,
+     214.30700000000002
+    ],
+    [
+     42.6,
+     215.99700000000007,
+     67.108,
+     226.99700000000007
+    ],
+    [
+     42.6,
+     228.60700000000008,
+     67.724,
+     239.60700000000008
+    ],
+    [
+     42.6,
+     241.30700000000002,
+     67.724,
+     252.30700000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q012_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q013",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 13,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Na introdução do estudo dos logaritmos, os autores de livros didáticos do Ensino Médio costumam, de início, apresentar a seguinte definição:\n\n*“Sendo a e b números reais, com b > 0 e 0 < a ≠ 1, o logaritmo de b na base a é definido assim*\n\n{{img:1}}\n\nE, durante o estudo desse importante conceito matemático, oficializam que, quando a base de um logaritmo for 10, não é necessário escrever a base.\n\n{{img:2}}\n\nAgora, ciente da definição de logaritmo e desse detalhe da base 10, assinale a alternativa que corresponde ao resultado da seguinte potência:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "16"
+   },
+   {
+    "letra": "B",
+    "texto": "32"
+   },
+   {
+    "letra": "C",
+    "texto": "160"
+   },
+   {
+    "letra": "D",
+    "texto": "256"
+   },
+   {
+    "letra": "E",
+    "texto": "260"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q013_img1.png",
+    "pagina": 9,
+    "bbox": [
+     226.1,
+     362.9,
+     362.3,
+     384.5
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q013_img2.png",
+    "pagina": 9,
+    "bbox": [
+     268.6,
+     450.7,
+     320.4,
+     468.7
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.6,
+     304.527,
+     545.8760039999999,
+     315.527
+    ],
+    [
+     42.6,
+     317.22700000000003,
+     246.19900000000013,
+     328.22700000000003
+    ],
+    [
+     61.8,
+     343.63800000000003,
+     526.2749999999996,
+     354.63800000000003
+    ],
+    [
+     226.08,
+     362.88,
+     362.332,
+     384.48
+    ],
+    [
+     42.6,
+     399.72700000000003,
+     545.6299999999999,
+     410.72700000000003
+    ],
+    [
+     42.6,
+     412.327,
+     293.3879990000002,
+     423.327
+    ],
+    [
+     42.6,
+     425.027,
+     545.5199999999998,
+     436.027
+    ],
+    [
+     42.6,
+     437.627,
+     274.8210000000002,
+     448.627
+    ],
+    [
+     268.56,
+     450.72,
+     320.40000000000003,
+     468.72
+    ],
+    [
+     42.6,
+     479.157,
+     67.724,
+     490.157
+    ],
+    [
+     42.6,
+     491.857,
+     67.724,
+     502.857
+    ],
+    [
+     42.6,
+     504.457,
+     73.216,
+     515.457
+    ],
+    [
+     42.6,
+     517.157,
+     73.84,
+     528.157
+    ],
+    [
+     42.6,
+     529.7470000000001,
+     73.84,
+     540.7470000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [
+   "imagem 2 é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q013_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q014",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 14,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um artista plástico está buscando construir uma nova peça a partir de um cubo de madeira para compor as obras de uma exposição. Na figura representada a seguir, esboço de sua criação, vê-se o *tetraedro* EFBG como parte do *cubo* ABCDEFG.\n\n{{img:1}}\n\nSe o cubo tem volume igual 64 dm<sup>3</sup>, qual é a medida aproximada do volume do tetraedro?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "14 dm<sup>3</sup>"
+   },
+   {
+    "letra": "B",
+    "texto": "13 dm<sup>3</sup>"
+   },
+   {
+    "letra": "C",
+    "texto": "12 dm<sup>3</sup>"
+   },
+   {
+    "letra": "D",
+    "texto": "11 dm<sup>3</sup>"
+   },
+   {
+    "letra": "E",
+    "texto": "10 dm<sup>3</sup>"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q014_img1.png",
+    "pagina": 10,
+    "bbox": [
+     210.9,
+     111.7,
+     378.8,
+     257.4
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.599999999999966,
+     62.97700000000009,
+     545.5419999999999,
+     73.97700000000009
+    ],
+    [
+     42.599999999999966,
+     75.67700000000013,
+     545.8070009999999,
+     86.67700000000013
+    ],
+    [
+     42.599999999999966,
+     88.30700000000013,
+     279.195,
+     99.30700000000013
+    ],
+    [
+     210.8999939,
+     111.68000180000001,
+     378.7999878,
+     257.4300018
+    ],
+    [
+     42.59999999999994,
+     285.82700000000006,
+     483.27999700000004,
+     296.82700000000006
+    ],
+    [
+     42.59999999999994,
+     311.12700000000007,
+     90.01699999999994,
+     322.12700000000007
+    ],
+    [
+     42.599999999999945,
+     323.7270000000001,
+     90.01699999999994,
+     334.7270000000001
+    ],
+    [
+     42.599999999999945,
+     336.4270000000001,
+     89.41699999999994,
+     347.4270000000001
+    ],
+    [
+     42.59999999999995,
+     349.0270000000001,
+     90.01699999999994,
+     360.0270000000001
+    ],
+    [
+     42.599999999999945,
+     361.7270000000001,
+     90.01699999999994,
+     372.7270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q014_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q015",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 15,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Profissionais liberais precisam pagar os seguintes impostos: Imposto de Renda Pessoa Física (IRPF), Imposto Sobre Serviços (ISS) e Contribuição Previdenciária (INSS). As alíquotas incidem sobre os rendimentos mensais do profissional liberal e devem ser recolhidas separadamente.\n\nAndré prestou serviço de jardinagem para uma empresa. Depois dos descontos de 11% de INSS e 5% de ISS, ele recebeu o valor líquido de R$ 504,00. Qual foi o valor bruto do serviço que ele acertou com essa empresa?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "R$ 600,00"
+   },
+   {
+    "letra": "B",
+    "texto": "R$ 650,00"
+   },
+   {
+    "letra": "C",
+    "texto": "R$ 680,00"
+   },
+   {
+    "letra": "D",
+    "texto": "R$ 700,00"
+   },
+   {
+    "letra": "E",
+    "texto": "R$ 720,00"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.6,
+     437.627,
+     545.52,
+     448.627
+    ],
+    [
+     42.6,
+     450.22700000000003,
+     545.692,
+     461.22700000000003
+    ],
+    [
+     42.6,
+     462.957,
+     498.19800000000004,
+     473.957
+    ],
+    [
+     42.6,
+     488.257,
+     545.892,
+     499.257
+    ],
+    [
+     42.6,
+     500.857,
+     545.4649999999999,
+     511.857
+    ],
+    [
+     42.6,
+     513.557,
+     117.83999999999999,
+     524.557
+    ],
+    [
+     42.6,
+     538.857,
+     106.202,
+     549.857
+    ],
+    [
+     42.6,
+     551.457,
+     106.185995,
+     562.457
+    ],
+    [
+     42.6,
+     564.1569999999999,
+     105.586,
+     575.1569999999999
+    ],
+    [
+     42.6,
+     576.7470000000001,
+     106.202,
+     587.747
+    ],
+    [
+     42.6,
+     589.457,
+     106.202,
+     600.457
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q016",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 16,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O astrônomo Simon Newcomb foi o primeiro a observar que, em grandes conjuntos de números das mais variadas naturezas, o algarismo 1 aparece na primeira posição significativa com maior frequência que o 2, que, por sua vez, é mais frequente que o 3, e assim sucessivamente. Ele notou esse fenômeno ao observar que, nas extensas tábuas de logaritmo utilizadas na época, as páginas correspondentes aos algarismos menores estavam mais gastas que as dos algarismos maiores. Então, ele propôs a seguinte lei para a distribuição de probabilidades dos algarismos:\n\n{{img:1}}\n\nEsse achado, que ficou esquecido no tempo, foi redescoberto anos depois pelo físico Frank Benford, que, além de promover sua divulgação, desenvolveu generalizações e realizou testes do funcionamento da Lei em imensos conjuntos numéricos de diversas origens. Hoje sabemos que ela se aplica a incontáveis tipos de conjuntos de dados, como listas de comprimentos de rios, populações, extensões territoriais, balancetes contábeis, entre muitos outros.\n\n{{fonte:1}}\n\n{{img:2}}\n\n{{img:3}}\n\nÉ **CORRETO** afirmar que, de acordo com a Lei de Benford,",
+  "fontes": [
+   "Lei de Benford. ANPMat. Disponível em: https://anpmat.org.br/desafio-2. Acesso em: 10 jul. 2024. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:4}}"
+   },
+   {
+    "letra": "B",
+    "texto": "{{img:5}}"
+   },
+   {
+    "letra": "C",
+    "texto": "{{img:6}}"
+   },
+   {
+    "letra": "D",
+    "texto": "{{img:7}}"
+   },
+   {
+    "letra": "E",
+    "texto": "{{img:8}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q016_img1.png",
+    "pagina": 11,
+    "bbox": [
+     204.5,
+     144.7,
+     382.3,
+     171.4
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q016_img2.png",
+    "pagina": 11,
+    "bbox": [
+     375.1,
+     261.9,
+     545.0,
+     272.9
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q016_img3.png",
+    "pagina": 11,
+    "bbox": [
+     42.5,
+     274.8,
+     189.4,
+     285.8
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q016_img4.png",
+    "pagina": 11,
+    "bbox": [
+     54.3,
+     297.4,
+     120.2,
+     315.4
+    ]
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q016_img5.png",
+    "pagina": 11,
+    "bbox": [
+     54.3,
+     315.4,
+     120.2,
+     329.8
+    ]
+   },
+   {
+    "id": 6,
+    "arquivo": "img/Q016_img6.png",
+    "pagina": 11,
+    "bbox": [
+     53.6,
+     329.8,
+     120.2,
+     345.4
+    ]
+   },
+   {
+    "id": 7,
+    "arquivo": "img/Q016_img7.png",
+    "pagina": 11,
+    "bbox": [
+     54.3,
+     343.8,
+     120.2,
+     357.8
+    ]
+   },
+   {
+    "id": 8,
+    "arquivo": "img/Q016_img8.png",
+    "pagina": 11,
+    "bbox": [
+     54.3,
+     357.8,
+     120.2,
+     373.5
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.6,
+     62.97700000000009,
+     545.4869999999999,
+     73.97700000000009
+    ],
+    [
+     42.6,
+     75.67700000000002,
+     545.52,
+     86.67700000000002
+    ],
+    [
+     42.6,
+     88.30700000000002,
+     545.5880019999997,
+     99.30700000000002
+    ],
+    [
+     42.6,
+     100.99700000000007,
+     545.5809999999999,
+     111.99700000000007
+    ],
+    [
+     42.6,
+     113.60700000000008,
+     545.800995,
+     124.60700000000008
+    ],
+    [
+     42.6,
+     126.30700000000002,
+     459.522,
+     137.30700000000002
+    ],
+    [
+     204.48000000000002,
+     144.72,
+     382.32,
+     171.36
+    ],
+    [
+     42.6,
+     180.10700000000008,
+     545.4099999999999,
+     191.10700000000008
+    ],
+    [
+     42.6,
+     192.7070000000001,
+     545.559996,
+     203.7070000000001
+    ],
+    [
+     42.6,
+     205.40700000000004,
+     545.5969999999999,
+     216.40700000000004
+    ],
+    [
+     42.6,
+     217.99700000000007,
+     545.836998,
+     228.99700000000007
+    ],
+    [
+     42.6,
+     230.7070000000001,
+     356.70500000000004,
+     241.7070000000001
+    ],
+    [
+     160.33,
+     242.87599999999998,
+     545.7099999999997,
+     250.87599999999998
+    ],
+    [
+     42.6,
+     261.90700000000004,
+     368.6690010000001,
+     272.907
+    ],
+    [
+     375.12,
+     261.90700000000004,
+     545.04,
+     272.907
+    ],
+    [
+     42.480000000000004,
+     274.827,
+     189.422998,
+     285.84000000000003
+    ],
+    [
+     42.6,
+     299.834,
+     53.29600000000001,
+     311.834
+    ],
+    [
+     56.160000000000004,
+     297.36,
+     97.92,
+     314.64
+    ],
+    [
+     54.29600000000001,
+     315.52000000000004,
+     120.24000000000001,
+     315.36
+    ],
+    [
+     42.6,
+     317.334,
+     53.29600000000001,
+     329.334
+    ],
+    [
+     54.29600000000001,
+     315.36,
+     120.24000000000001,
+     329.76
+    ],
+    [
+     42.6,
+     331.434,
+     52.596000000000004,
+     343.434
+    ],
+    [
+     53.596000000000004,
+     329.76,
+     120.24000000000001,
+     345.44
+    ],
+    [
+     53.596000000000004,
+     343.6,
+     120.24000000000001,
+     343.8
+    ],
+    [
+     42.6,
+     345.434,
+     53.29600000000001,
+     357.434
+    ],
+    [
+     54.29600000000001,
+     343.8,
+     120.24000000000001,
+     357.84000000000003
+    ],
+    [
+     42.6,
+     359.534,
+     53.29600000000001,
+     371.534
+    ],
+    [
+     54.29600000000001,
+     357.84000000000003,
+     120.24000000000001,
+     373.52000000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [
+   "alternativas A, B, C, D, E são texto desenhado no PDF (sem camada de texto): recortadas como imagem — precisam ser transcritas",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q016_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q017",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 17,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A taxa de variação é um conceito matemático que descreve a mudança de uma quantidade em relação a outra quantidade, comumente utilizado em álgebra, e, em especial, no estudo das funções para descrever a velocidade com que uma grandeza muda em relação a outra. É possível calcular a taxa de variação de uma função em um determinado ponto ou em um intervalo de valores.\n\nA figura a seguir é a representação gráfica da relação entre duas grandezas y e x.\n\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n\nQual é a taxa de variação da grandeza y relativamente à grandeza x?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "25%"
+   },
+   {
+    "letra": "B",
+    "texto": "35%"
+   },
+   {
+    "letra": "C",
+    "texto": "40%"
+   },
+   {
+    "letra": "D",
+    "texto": "50%"
+   },
+   {
+    "letra": "E",
+    "texto": "60%"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.6,
+     400.927,
+     545.4869999999999,
+     411.927
+    ],
+    [
+     42.6,
+     413.527,
+     545.823,
+     424.527
+    ],
+    [
+     42.6,
+     426.22700000000003,
+     545.5529999999999,
+     437.22700000000003
+    ],
+    [
+     42.6,
+     438.827,
+     484.06500000000005,
+     449.827
+    ],
+    [
+     42.6,
+     459.527,
+     443.555005,
+     470.527
+    ],
+    [
+     177.12,
+     478.8,
+     332.64,
+     607.6800000000001
+    ],
+    [
+     42.6,
+     618.357,
+     382.41200000000003,
+     629.357
+    ],
+    [
+     42.6,
+     641.357,
+     77.503,
+     652.357
+    ],
+    [
+     42.6,
+     654.077,
+     77.503,
+     665.077
+    ],
+    [
+     42.6,
+     666.677,
+     76.887,
+     677.677
+    ],
+    [
+     42.6,
+     679.3770000000001,
+     77.503,
+     690.3770000000001
+    ],
+    [
+     42.6,
+     691.977,
+     77.503,
+     702.977
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [
+   "tabela transcrita automaticamente — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q017_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q018",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 18,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Uma bibliotecária acaba de receber livros devolvidos por estudantes e precisa reorganizá-los em uma estante. Foram devolvidos dois livros de crônicas, três livros de poemas e quatro livros de ficção científica.\n\nDe quantos modos ela pode ordenar esses livros de forma que os de mesma temática fiquem sempre juntos, e, além disso, os de ficção científica, entre si, fiquem sempre na mesma ordem?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "24"
+   },
+   {
+    "letra": "B",
+    "texto": "36"
+   },
+   {
+    "letra": "C",
+    "texto": "48"
+   },
+   {
+    "letra": "D",
+    "texto": "60"
+   },
+   {
+    "letra": "E",
+    "texto": "72"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.6,
+     62.97700000000009,
+     545.752,
+     73.97700000000009
+    ],
+    [
+     42.6,
+     75.67700000000002,
+     545.811995,
+     86.67700000000002
+    ],
+    [
+     42.6,
+     88.30700000000002,
+     89.05300000000001,
+     99.30700000000002
+    ],
+    [
+     42.6,
+     100.99700000000007,
+     545.52,
+     111.99700000000007
+    ],
+    [
+     42.6,
+     113.60700000000008,
+     469.94599600000004,
+     124.60700000000008
+    ],
+    [
+     42.6,
+     137.80700000000002,
+     69.016,
+     148.80700000000002
+    ],
+    [
+     42.6,
+     150.40700000000004,
+     69.016,
+     161.40700000000004
+    ],
+    [
+     42.6,
+     163.10700000000008,
+     69.016,
+     174.10700000000008
+    ],
+    [
+     42.6,
+     175.7070000000001,
+     69.016,
+     186.7070000000001
+    ],
+    [
+     42.6,
+     188.40700000000004,
+     69.016,
+     199.40700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q018_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q019",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 19,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Para amenizar o racionamento no período do verão, Maria utiliza um tonel de forma cilíndrica para armazenar água. O tonel está com metade da sua capacidade, quando Maria retira 40 litros para o consumo diário, de forma que a altura no nível da água no tonel baixa 20%. Qual é a capacidade, em litros, desse tonel?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "200"
+   },
+   {
+    "letra": "B",
+    "texto": "400"
+   },
+   {
+    "letra": "C",
+    "texto": "500"
+   },
+   {
+    "letra": "D",
+    "texto": "600"
+   },
+   {
+    "letra": "E",
+    "texto": "900"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.6,
+     223.99700000000007,
+     545.653,
+     234.99700000000007
+    ],
+    [
+     42.6,
+     236.7070000000001,
+     545.443,
+     247.7070000000001
+    ],
+    [
+     42.6,
+     249.30700000000002,
+     411.87799699999994,
+     260.307
+    ],
+    [
+     42.6,
+     262.00700000000006,
+     259.509,
+     273.007
+    ],
+    [
+     42.6,
+     286.127,
+     75.116,
+     297.127
+    ],
+    [
+     42.6,
+     298.827,
+     75.116,
+     309.827
+    ],
+    [
+     42.6,
+     311.427,
+     75.116,
+     322.427
+    ],
+    [
+     42.6,
+     324.127,
+     75.116,
+     335.127
+    ],
+    [
+     42.6,
+     336.72700000000003,
+     75.116,
+     347.72700000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q020",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 20,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O professor de Estatística avisou à turma do 2º Ano C que a avaliação de recuperação do bimestre será composta por quatro questões, todas com o mesmo valor de pontuação, com os conteúdos de medidas de tendência central (MTC) e medidas de dispersão (MD). Ele tem um banco de itens com quatro questões de MTC e seis de MD.\n\nQuantas avaliações de recuperação diferentes podem ser montadas pelo professor de Estatística, se em cada avaliação, 50% das questões utilizadas forem de MTC e 50% de MD?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "24"
+   },
+   {
+    "letra": "B",
+    "texto": "48"
+   },
+   {
+    "letra": "C",
+    "texto": "60"
+   },
+   {
+    "letra": "D",
+    "texto": "90"
+   },
+   {
+    "letra": "E",
+    "texto": "108"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.6,
+     372.427,
+     545.7919980000001,
+     383.427
+    ],
+    [
+     42.6,
+     385.027,
+     545.4759999999997,
+     396.027
+    ],
+    [
+     42.6,
+     397.627,
+     545.777994,
+     408.627
+    ],
+    [
+     42.6,
+     410.327,
+     233.95700100000005,
+     421.327
+    ],
+    [
+     42.6,
+     422.927,
+     545.685,
+     433.927
+    ],
+    [
+     42.6,
+     435.627,
+     429.0229930000001,
+     446.627
+    ],
+    [
+     42.6,
+     459.72700000000003,
+     69.016,
+     470.72700000000003
+    ],
+    [
+     42.6,
+     472.457,
+     69.016,
+     483.457
+    ],
+    [
+     42.6,
+     485.057,
+     69.016,
+     496.057
+    ],
+    [
+     42.6,
+     497.757,
+     69.016,
+     508.757
+    ],
+    [
+     42.6,
+     510.357,
+     75.116,
+     521.357
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q020_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q021",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 21,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em 2021, a estudante de PhD Alexia Lopez estava analisando a luz proveniente de quasares distantes quando fez uma descoberta surpreendente. Ela encontrou um arco de galáxias gigante, quase simétrico, a 9,3 bilhões de anos-luz da Terra, na constelação do Boieiro. Conhecida como o Arco Gigante, a estrutura questiona algumas das nossas concepções básicas do Universo. O Arco Gigante descoberto por Lopez não é a única estrutura em larga escala descoberta pelos astrônomos. Existe também a \"Grande Muralha\" de galáxias (também chamada de Grande Muralha CfA2), descoberta em 1989 por Margaret Geller e John Huchra. A muralha tem cerca de 500 milhões de anos-luz de comprimento, 300 milhões de anos-luz de largura e 15 milhões de anos-luz de profundidade.\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nConsiderando a “Grande Muralha” como um astronômico bloco retangular, qual é o volume desse bloco em anos-luz cúbicos?",
+  "fontes": [
+   "O que são os arcos de galáxias, estruturas gigantescas que desafiam o que sabemos sobre o Universo. Jasmin Fox-Skelly, BBC. G1, 2023.",
+   "Disponível em: https://g1.globo.com/ciencia/noticia/2023/03/18/o-que-sao-os-arcos-de-galaxias-estruturas-gigantescas-que-desafiam-o-que-sabemos-sobre-o-universo.ghtml. Acesso em: 10 jul. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1,15 x 10<sup>6</sup>"
+   },
+   {
+    "letra": "B",
+    "texto": "1,15 x 10<sup>8</sup>"
+   },
+   {
+    "letra": "C",
+    "texto": "2,25 x 10<sup>10</sup>"
+   },
+   {
+    "letra": "D",
+    "texto": "2,25 x 10<sup>12</sup>"
+   },
+   {
+    "letra": "E",
+    "texto": "2,25 x 10<sup>24</sup>"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   12,
+   13
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.6,
+     543.7470000000001,
+     545.5869899999998,
+     554.7470000000001
+    ],
+    [
+     42.6,
+     556.357,
+     545.6409999999998,
+     567.357
+    ],
+    [
+     42.6,
+     569.057,
+     545.8340059999998,
+     580.057
+    ],
+    [
+     42.6,
+     581.657,
+     545.3990000000001,
+     592.657
+    ],
+    [
+     42.6,
+     594.357,
+     545.641,
+     605.357
+    ],
+    [
+     42.6,
+     606.9570000000001,
+     545.624005,
+     617.957
+    ],
+    [
+     42.6,
+     619.657,
+     545.5419999999998,
+     630.657
+    ],
+    [
+     42.6,
+     632.2470000000001,
+     545.716013,
+     643.2470000000001
+    ],
+    [
+     42.6,
+     644.957,
+     109.76600000000003,
+     655.957
+    ],
+    [
+     49.2,
+     661.7560000000001,
+     545.7699999999994,
+     669.7560000000001
+    ],
+    [
+     48.3,
+     670.956,
+     545.862,
+     678.956
+    ],
+    [
+     336.85,
+     680.1560000000001,
+     545.816,
+     688.1560000000001
+    ]
+   ],
+   "13": [
+    [
+     42.599999999999966,
+     62.97700000000009,
+     545.809,
+     74.00999999999999
+    ],
+    [
+     42.60000000000002,
+     75.67700000000013,
+     178.25400200000004,
+     86.67700000000013
+    ],
+    [
+     42.6,
+     99.80700000000002,
+     105.91199999999999,
+     110.80700000000002
+    ],
+    [
+     151.73,
+     99.80700000000002,
+     212.62199999999999,
+     110.80700000000002
+    ],
+    [
+     255.45,
+     99.80700000000002,
+     321.44199999999995,
+     110.80700000000002
+    ],
+    [
+     360.38,
+     99.80700000000002,
+     429.062,
+     110.80700000000002
+    ],
+    [
+     467.88000000000005,
+     99.80700000000002,
+     534.6920000000001,
+     110.80700000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p12.jpg",
+   "revisao/Q021_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q022",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 22,
+  "area": "MATEMÁTICA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir.\n\n**Trabalho e salário**\n\nO Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou em 8 de março, Dia Internacional da Mulher, o estudo “Estatísticas de Gênero – Indicadores sociais das mulheres no Brasil” do ano de 2024. O levantamento serve como um mapa da desigualdade de gênero no país, passando por temas como mercado de trabalho, educação e representação política.\n\n{{fonte:1}}\n\nO gráfico a seguir traz dados expressivos do IBGE que ajudam a mostrar a situação atual de disparidade social e econômica entre homens e mulheres.\n\n{{img:1}}\n\nCom base no gráfico e no texto, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "Disponível em: https://congressoemfoco.uol.com.br/area/pais/veja-a-desigualdade-de-genero-no-brasil-em-sete-infograficos/ Acesso em 10 mar. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Homens pretos e pardos ganham, em média, 1/3 do que os homens brancos ganham."
+   },
+   {
+    "letra": "B",
+    "texto": "O rendimento de uma mulher preta ou parda é cerca de 47% do de um homem branco."
+   },
+   {
+    "letra": "C",
+    "texto": "Com base nos dados gerais, não é significativa a diferença de salário por cor."
+   },
+   {
+    "letra": "D",
+    "texto": "Homens e mulheres brancas, proporcionalmente, recebem salários equivalentes."
+   },
+   {
+    "letra": "E",
+    "texto": "O rendimento médio de pretos e pardos, independentemente do gênero, é equivalente ao rendimento de mulheres brancas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q022_img1.png",
+    "pagina": 13,
+    "bbox": [
+     110.4,
+     291.6,
+     479.7,
+     539.3
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.6,
+     137.80700000000002,
+     162.98499000000004,
+     148.80700000000002
+    ],
+    [
+     248.85,
+     163.10700000000008,
+     339.76500000000004,
+     174.10700000000008
+    ],
+    [
+     42.6,
+     176.90700000000004,
+     546.079,
+     187.90700000000004
+    ],
+    [
+     42.6,
+     189.64,
+     546.012,
+     200.64
+    ],
+    [
+     42.6,
+     202.2070000000001,
+     545.7069999999998,
+     213.2070000000001
+    ],
+    [
+     42.6,
+     214.90700000000004,
+     312.64,
+     225.90700000000004
+    ],
+    [
+     122.82,
+     227.086,
+     546.0360000000001,
+     235.086
+    ],
+    [
+     458.17,
+     236.28599999999994,
+     546.0200000000001,
+     244.28599999999994
+    ],
+    [
+     42.6,
+     259.707,
+     545.9,
+     270.707
+    ],
+    [
+     42.6,
+     272.407,
+     260.551,
+     283.407
+    ],
+    [
+     110.3999939,
+     291.580011,
+     479.7299957,
+     539.3400055
+    ],
+    [
+     42.6,
+     578.557,
+     365.438,
+     589.557
+    ],
+    [
+     42.6,
+     603.857,
+     477.363,
+     614.857
+    ],
+    [
+     42.599999999999994,
+     616.557,
+     482.26600100000013,
+     627.557
+    ],
+    [
+     42.599999999999994,
+     629.1569999999999,
+     435.95799799999986,
+     640.1569999999999
+    ],
+    [
+     42.599999999999994,
+     641.857,
+     452.363993,
+     652.857
+    ],
+    [
+     42.599999999999994,
+     654.477,
+     545.7389999999998,
+     665.477
+    ],
+    [
+     56.8,
+     667.177,
+     220.60100000000006,
+     678.177
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q022_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q023",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 23,
+  "area": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4014-T1",
+  "textos_base_ids": [
+   "P4014-T1"
+  ],
+  "enunciado": "{{img:1}}\n\nAristóteles (384 a.C.-322 a.C.) foi o primeiro a estabelecer o conceito de simetria, posteriormente utilizado na Zoologia. As simetrias serviram também para se desenvolverem as relações filogenéticas entre organismos, a partir da compreensão do desenvolvimento embrionário, originando os conceitos sobre organismos protostômios e deuterostômios. Observe o esquema a seguir e assinale a alternativa **CORRETA** quanto aos filos a que pertencem X e Y.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Equinodermos e cordados"
+   },
+   {
+    "letra": "B",
+    "texto": "Platelmintos e vertebrados"
+   },
+   {
+    "letra": "C",
+    "texto": "Nematódeos e cnidários"
+   },
+   {
+    "letra": "D",
+    "texto": "Urocordados e nematelmintos"
+   },
+   {
+    "letra": "E",
+    "texto": "Cefalocordados e poríferos"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q023_img1.png",
+    "pagina": 14,
+    "bbox": [
+     255.6,
+     260.6,
+     535.7,
+     455.8
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.6,
+     188.80700000000002,
+     545.5810000000001,
+     199.80700000000002
+    ],
+    [
+     42.6,
+     201.40700000000004,
+     545.836,
+     212.40700000000004
+    ],
+    [
+     42.6,
+     214.10700000000008,
+     545.652,
+     225.10700000000008
+    ],
+    [
+     42.6,
+     226.7070000000001,
+     545.678,
+     237.7070000000001
+    ],
+    [
+     42.6,
+     239.40700000000004,
+     349.509,
+     250.40700000000004
+    ],
+    [
+     255.60000000000002,
+     260.64,
+     535.6800000000001,
+     455.76
+    ],
+    [
+     42.6,
+     276.627,
+     188.93,
+     287.627
+    ],
+    [
+     42.6,
+     289.22700000000003,
+     190.77400500000002,
+     300.22700000000003
+    ],
+    [
+     42.6,
+     301.927,
+     179.215999,
+     312.927
+    ],
+    [
+     42.6,
+     314.527,
+     207.27400500000005,
+     325.527
+    ],
+    [
+     42.6,
+     327.22700000000003,
+     193.37000500000005,
+     338.22700000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q024",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 24,
+  "area": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir.\n\nQuando as pessoas pensam em plantas extraordinárias, dificilmente elas se lembram do musgo. Os musgos se misturam no ambiente verde da vida vegetal e parecem crescer em toda parte, quer você queira ou não. Mas esse grupo de plantas – que, na verdade, compreende de 12 mil a 15 mil espécies – é surpreendente. Sua resiliência quase única permite que eles cresçam em praticamente todos os lugares da Terra. Os musgos ajudam os cientistas a entenderem a evolução da vida e formam um dos grupos vegetais mais antigos ainda vivos. O musgo, as hepáticas e os antóceros fazem parte de um grupo de plantas conhecidas como briófitas. Elas evoluíram há mais de 400 milhões de anos e ainda apresentam muitas características comuns com as primeiras plantas que surgiram na superfície terrestre do planeta, como seu pequeno tamanho e a falta de raízes verdadeiras.\n\n{{fonte:1}}\n\nSobre as características do grupo descrito no texto, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "Disponível em: https://www.bbc.com/portuguese/articles/cd1x5pyj24qo. Acesso em: 29 jul. 2024. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Água é extravasada na forma de vapor pelos estômatos presentes nas folhas."
+   },
+   {
+    "letra": "B",
+    "texto": "Transporte de água ao longo do corpo por difusão de célula a célula."
+   },
+   {
+    "letra": "C",
+    "texto": "Presença de tecido especializado na condução da água."
+   },
+   {
+    "letra": "D",
+    "texto": "Sifonogamia, fecundação da oosfera sem presença de água."
+   },
+   {
+    "letra": "E",
+    "texto": "Desenvolvimento de frutos com sementes que se dispersam por hidrocoria."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.6,
+     476.557,
+     163.003,
+     487.557
+    ],
+    [
+     42.6,
+     496.057,
+     545.6210000000001,
+     507.057
+    ],
+    [
+     42.6,
+     508.747,
+     545.3439999999999,
+     519.7470000000001
+    ],
+    [
+     42.6,
+     521.357,
+     545.6490000000001,
+     532.39
+    ],
+    [
+     42.6,
+     534.057,
+     545.5009999999997,
+     545.09
+    ],
+    [
+     42.6,
+     546.657,
+     545.5529999999998,
+     557.657
+    ],
+    [
+     42.6,
+     559.357,
+     545.741,
+     570.357
+    ],
+    [
+     42.6,
+     571.9570000000001,
+     545.4979999999998,
+     582.957
+    ],
+    [
+     42.6,
+     584.657,
+     545.4759999999999,
+     595.657
+    ],
+    [
+     42.6,
+     597.2470000000001,
+     437.66200000000003,
+     608.2470000000001
+    ],
+    [
+     164.73,
+     609.5360000000001,
+     545.808,
+     617.5360000000001
+    ],
+    [
+     42.6,
+     629.4570000000001,
+     460.828,
+     640.457
+    ],
+    [
+     42.6,
+     649.077,
+     441.27300099999997,
+     660.077
+    ],
+    [
+     42.6,
+     661.677,
+     396.066004,
+     672.677
+    ],
+    [
+     42.6,
+     674.3770000000001,
+     336.1160030000001,
+     685.3770000000001
+    ],
+    [
+     42.6,
+     686.977,
+     357.709004,
+     697.977
+    ],
+    [
+     42.6,
+     699.677,
+     428.345009,
+     710.677
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q024_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q025",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 25,
+  "area": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em 2022, a Índia e os seus vizinhos enfrentaram repetidas ondas de calor que expuseram mais de um bilhão de pessoas a condições perigosamente quentes. A Índia quebrou vários recordes de temperatura. O março mais quente em mais de um século foi registrado em todo o país, e um novo máximo de mais de 49 ºC foi atingido em Deli, em maio. […] Uma investigação recente descobriu que podemos já estar a aproximar-nos dos valores limite para a sobrevivência humana de temperatura e umidade durante curtos períodos em alguns locais do mundo – uma medida conhecida como temperatura de ‘bulbo úmido’ – e que esse limite pode realmente ser muito abaixo do que se pensava anteriormente. A temperatura de bulbo úmido combina a temperatura do ar seco (como você veria em um termômetro) com a umidade – em essência, é uma medida das condições de estresse térmico em humanos. O termo vem de como é medido. Se você deslizar um pano úmido sobre o bulbo de um termômetro, a evaporação da água do pano esfriará o termômetro. Essa temperatura mais baixa é a temperatura de bulbo úmido, que não pode ultrapassar a temperatura seca. Contudo, se a umidade no ar circundante for elevada – o que significa que o ar já está mais saturado com água – ocorrerá menos evaporação, pelo que temperatura de bulbo úmido estará mais próxima da temperatura seca.\n\n{{fonte:1}}\n\nAssinale a alternativa **CORRETA** a respeito da termodinâmica dos processos relacionados.",
+  "fontes": [
+   "Disponível em: https://www.theguardian.com/science/2022/jul/31/why-you-need-to-worry-about-the-wet-bulb-temperature. Acesso em: 18 ago. 2024. Traduzido e adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A temperatura de bulbo úmido será sempre maior do que a temperatura do ar seco, devido à contribuição da umidade na elevação da temperatura."
+   },
+   {
+    "letra": "B",
+    "texto": "A umidade e a temperatura do ambiente são os únicos elementos relevantes que podem afetar a temperatura corporal de uma pessoa."
+   },
+   {
+    "letra": "C",
+    "texto": "A temperatura de bulbo úmido pode ser superior à temperatura do ar seco em situações de alta umidade relativa, devido ao aumento da quantidade de vapor d'água no ar."
+   },
+   {
+    "letra": "D",
+    "texto": "A regulação da temperatura do corpo através da transpiração deixa de ser eficiente quanto maior for a umidade do ar."
+   },
+   {
+    "letra": "E",
+    "texto": "O fenômeno de resfriamento observado na medição da temperatura de bulbo úmido está relacionado à convecção forçada por agentes externos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.6,
+     75.67700000000002,
+     545.8459959999999,
+     86.67700000000002
+    ],
+    [
+     42.6,
+     88.30700000000002,
+     545.5859999999998,
+     99.30700000000002
+    ],
+    [
+     42.6,
+     100.99700000000007,
+     545.7609989999997,
+     111.99700000000007
+    ],
+    [
+     42.6,
+     113.60700000000008,
+     545.7880020000001,
+     124.63999999999999
+    ],
+    [
+     42.6,
+     126.30700000000002,
+     545.7949999999997,
+     137.30700000000002
+    ],
+    [
+     42.6,
+     138.90700000000004,
+     545.793003,
+     149.93999999999994
+    ],
+    [
+     42.6,
+     151.60700000000008,
+     545.6310010000001,
+     162.64
+    ],
+    [
+     42.6,
+     164.2070000000001,
+     545.52,
+     175.2070000000001
+    ],
+    [
+     42.6,
+     176.90700000000004,
+     545.8100030000002,
+     187.93999999999994
+    ],
+    [
+     42.6,
+     189.49700000000007,
+     545.3989999999998,
+     200.49700000000007
+    ],
+    [
+     42.6,
+     202.2070000000001,
+     545.52,
+     213.2070000000001
+    ],
+    [
+     42.6,
+     214.80700000000002,
+     545.7039969999998,
+     225.80700000000002
+    ],
+    [
+     42.6,
+     227.49700000000007,
+     545.858,
+     238.52999999999997
+    ],
+    [
+     42.6,
+     240.10700000000008,
+     498.32799800000004,
+     251.10700000000008
+    ],
+    [
+     115.52,
+     252.37599999999998,
+     545.8960000000001,
+     260.376
+    ],
+    [
+     370.58,
+     261.586,
+     545.6920000000001,
+     269.586
+    ],
+    [
+     42.6,
+     279.22700000000003,
+     488.73499900000013,
+     290.22700000000003
+    ],
+    [
+     42.6,
+     304.527,
+     545.4429999999999,
+     315.527
+    ],
+    [
+     56.8,
+     317.22700000000003,
+     319.6890000000002,
+     328.22700000000003
+    ],
+    [
+     42.6,
+     329.827,
+     545.5749999999998,
+     340.827
+    ],
+    [
+     56.8,
+     342.527,
+     240.28500500000007,
+     353.527
+    ],
+    [
+     42.6,
+     355.127,
+     545.5639999999997,
+     366.127
+    ],
+    [
+     56.8,
+     367.827,
+     422.74800000000005,
+     378.827
+    ],
+    [
+     42.6,
+     380.427,
+     545.9019969999998,
+     391.427
+    ],
+    [
+     56.8,
+     393.027,
+     155.195,
+     404.027
+    ],
+    [
+     42.6,
+     405.72700000000003,
+     545.4429999999999,
+     416.72700000000003
+    ],
+    [
+     56.8,
+     418.327,
+     327.58700000000016,
+     429.327
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q026",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 26,
+  "area": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Uma estudante de química realizou uma titulação ácido-base para determinar a concentração de ácido acético (CH<sub>3</sub>COOH) em uma amostra de um vinagre artesanal adquirido em uma feira de seu bairro. No laboratório de sua escola, ela utilizou uma solução padrão de hidróxido de amônio (NH<sub>4</sub>OH) com concentração de 0,1 mol/L como titulante. Ela pipetou 25,0 mL da amostra do vinagre em um erlenmeyer e adicionou algumas gotas de fenolftaleína como indicador. Após a titulação, ela observou que o ponto de equivalência foi atingido após a adição de 30,0 mL da solução de NH<sub>4</sub>OH.\n\nDados: H = 1 g/mol; C = 12 g/mol; O = 16 g/mol; N = 14g/mol.\n\nLevando em consideração que o teor de ácido acético no vinagre comercial é em torno de 5% e a densidade do vinagre aproximadamente 1g/ml, acerca do experimento realizado, é possível afirmar que a concentração de ácido acético na amostra é de",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "0,12 mol/L, estando fora do parâmetro de concentração do vinagre comercial."
+   },
+   {
+    "letra": "B",
+    "texto": "0,12 mol/L, estando dentro do parâmetro de concentração do vinagre comercial."
+   },
+   {
+    "letra": "C",
+    "texto": "0,24 mol/L, estando fora do parâmetro de concentração do vinagre comercial."
+   },
+   {
+    "letra": "D",
+    "texto": "0,02 mol/L, estando fora do parâmetro de concentração do vinagre comercial."
+   },
+   {
+    "letra": "E",
+    "texto": "0,02 mol/L, estando dentro do parâmetro de concentração do vinagre comercial."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.6,
+     456.327,
+     545.8569959999999,
+     467.327
+    ],
+    [
+     42.6,
+     468.957,
+     545.5450000000001,
+     479.957
+    ],
+    [
+     42.6,
+     481.657,
+     545.7520000000001,
+     492.657
+    ],
+    [
+     42.6,
+     494.257,
+     545.5479949999996,
+     505.257
+    ],
+    [
+     42.6,
+     506.957,
+     545.4319999999999,
+     517.957
+    ],
+    [
+     42.6,
+     519.557,
+     480.12699999999995,
+     530.557
+    ],
+    [
+     150.63,
+     539.157,
+     452.123,
+     550.157
+    ],
+    [
+     42.6,
+     563.2470000000001,
+     545.5639999999999,
+     574.2470000000001
+    ],
+    [
+     42.6,
+     575.9570000000001,
+     545.487,
+     586.957
+    ],
+    [
+     42.6,
+     588.557,
+     304.37199800000013,
+     599.557
+    ],
+    [
+     42.6,
+     610.4570000000001,
+     435.7170000000001,
+     621.457
+    ],
+    [
+     42.6,
+     623.057,
+     448.02600000000007,
+     634.057
+    ],
+    [
+     42.6,
+     635.7470000000001,
+     435.9070020000001,
+     646.7470000000001
+    ],
+    [
+     42.6,
+     648.357,
+     435.7170000000001,
+     659.357
+    ],
+    [
+     42.6,
+     661.077,
+     448.02600000000007,
+     672.077
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q026_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q027",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 27,
+  "area": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Uma barra de 500g de rapadura de cana-de-açúcar contém 50kcal por cada 40g (uma fatia). Considere a tabela de atividades diárias a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nUma mulher adulta, pesando 60kg, ao ingerir 4 fatias desta rapadura, terá energia para realizar algumas atividades descritas na tabela. Ela terá energia para 30 minutos de",
+  "fontes": [
+   "Disponível em: https://www.centralnacionalunimed.com.br/web/guest/viver-bem/saude-em-pauta/atividades-x-calorias (valores em kcal). Acesso em: 24 jul. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "hidroginástica, pois, de acordo com a Segunda Lei da Termodinâmica, que trata do princípio da conservação da energia, o calor pode ser convertido em trabalho."
+   },
+   {
+    "letra": "B",
+    "texto": "basquete, pois, de acordo com a Terceira Lei da Termodinâmica, que trata do princípio da conservação da energia, o calor pode ser convertido em trabalho."
+   },
+   {
+    "letra": "C",
+    "texto": "basquete, pois, de acordo com a Segunda Lei da Termodinâmica, que trata do princípio da conservação da energia, o calor pode ser convertido em trabalho."
+   },
+   {
+    "letra": "D",
+    "texto": "pular corda, pois, de acordo com a Terceira Lei da Termodinâmica, que trata do princípio da conservação da energia, o calor pode ser convertido em trabalho."
+   },
+   {
+    "letra": "E",
+    "texto": "hidroginástica, pois, de acordo com a Primeira Lei da Termodinâmica, que trata do princípio da conservação da energia, o calor pode ser convertido em trabalho."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q027_img1.png",
+    "pagina": 16,
+    "bbox": [
+     127.4,
+     90.7,
+     465.8,
+     519.8
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.6,
+     62.97700000000009,
+     545.7410030000001,
+     73.97700000000009
+    ],
+    [
+     42.6,
+     75.67700000000002,
+     283.36800000000017,
+     86.67700000000002
+    ],
+    [
+     127.44,
+     90.72,
+     465.84000000000003,
+     519.84
+    ],
+    [
+     185.23,
+     520.736,
+     431.33000000000004,
+     528.736
+    ],
+    [
+     145.43,
+     529.936,
+     471.35399999999987,
+     537.936
+    ],
+    [
+     42.6,
+     552.157,
+     545.4319999999999,
+     563.157
+    ],
+    [
+     42.6,
+     564.857,
+     413.1079949999999,
+     575.857
+    ],
+    [
+     42.6,
+     585.557,
+     545.820001,
+     596.557
+    ],
+    [
+     56.8,
+     598.157,
+     377.07599999999996,
+     609.157
+    ],
+    [
+     42.6,
+     610.857,
+     545.7059999999998,
+     621.857
+    ],
+    [
+     56.8,
+     623.4570000000001,
+     377.07599999999996,
+     634.457
+    ],
+    [
+     42.6,
+     636.157,
+     545.6749899999999,
+     647.157
+    ],
+    [
+     56.8,
+     648.7570000000001,
+     377.07599999999996,
+     659.7570000000001
+    ],
+    [
+     42.6,
+     661.477,
+     545.7829889999999,
+     672.477
+    ],
+    [
+     56.8,
+     674.077,
+     377.169005,
+     685.077
+    ],
+    [
+     42.6,
+     686.777,
+     545.6669939999999,
+     697.777
+    ],
+    [
+     56.8,
+     699.3770000000001,
+     377.07599999999996,
+     710.3770000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q027_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q028",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 28,
+  "area": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O efeito mais imediato de uma explosão nuclear é uma emissão intensa de radiação nuclear, principalmente raios gama e nêutrons. Essa radiação direta é produzida nas próprias reações nucleares da arma e dura menos de um segundo. A radiação direta letal se estende por quase um quilômetro desde uma explosão de 10 quilotons. Porém, como a maioria das armas, a radiação direta é de pouca importância porque outros efeitos letais geralmente abrangem distâncias maiores. Uma exceção importante é a arma de radiação melhorada, ou bomba de nêutrons, que maximiza a radiação direta e minimiza outros efeitos destrutivos. Uma arma nuclear explodindo se vaporiza instantaneamente. O que era material sólido e frio microssegundos antes se torna um gás mais quente do que o núcleo do Sol de 15 milhões de graus. Este gás quente irradia sua energia na forma de raios X, que aquece o ar circundante. Uma bola de fogo de ar superaquecido se forma e cresce rapidamente; 10 segundos após uma explosão de 1 megaton, ela apresenta um quilômetro de diâmetro e brilha visivelmente devido ao seu próprio calor, um brilho que, nos estágios iniciais com 1 megaton, é muitas vezes maior do que o do Sol, mesmo a uma distância de 80 quilômetros. Além da luz, a bola de fogo irradia calor.\n\n{{fonte:1}}\n\nO dano causado pela radiação ionizante em tecidos vivos surge porque a radiação interage com o DNA e danifica-o, interferindo no funcionamento normal dos tecidos. Uma dose de raios X com energia de 5,0 J/kg gera danos severos ao DNA, porém os efeitos da radiação podem não ser bem percebidos durante a exposição uma vez que o aquecimento térmico produzido nos tecidos vivos não é expressivo. Considerando que o calor específico do tecido vivo em questão é o mesmo da água, se a energia dos raios X fosse absorvida na forma de calor, qual seria o aumento da temperatura do tecido submetido a essa dose?",
+  "fontes": [
+   "Disponível em: https://thereader.mitpress.mit.edu/devastating-effects-of-nuclear-weapons-war. Acesso em: 30 jul. 2024. Traduzido e Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1,2 mK"
+   },
+   {
+    "letra": "B",
+    "texto": "2,5 mK"
+   },
+   {
+    "letra": "C",
+    "texto": "4,2 mK"
+   },
+   {
+    "letra": "D",
+    "texto": "5,0 mK"
+   },
+   {
+    "letra": "E",
+    "texto": "7,4 mK"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     75.67700000000002,
+     545.8359969999998,
+     86.67700000000002
+    ],
+    [
+     42.6,
+     88.30700000000002,
+     545.7030069999998,
+     99.30700000000002
+    ],
+    [
+     42.6,
+     100.99700000000007,
+     545.5419999999998,
+     111.99700000000007
+    ],
+    [
+     42.6,
+     113.60700000000008,
+     545.7119939999998,
+     124.60700000000008
+    ],
+    [
+     42.6,
+     126.30700000000002,
+     545.6629999999999,
+     137.30700000000002
+    ],
+    [
+     42.6,
+     138.90700000000004,
+     545.816,
+     149.90700000000004
+    ],
+    [
+     42.6,
+     151.60700000000008,
+     545.432,
+     162.60700000000008
+    ],
+    [
+     42.6,
+     164.2070000000001,
+     545.7450049999999,
+     175.2070000000001
+    ],
+    [
+     42.6,
+     176.90700000000004,
+     545.7540029999998,
+     187.90700000000004
+    ],
+    [
+     42.6,
+     189.49700000000007,
+     545.7109929999998,
+     200.49700000000007
+    ],
+    [
+     42.6,
+     202.2070000000001,
+     545.4869999999997,
+     213.2070000000001
+    ],
+    [
+     42.6,
+     214.80700000000002,
+     545.6750010000001,
+     225.80700000000002
+    ],
+    [
+     42.6,
+     227.49700000000007,
+     545.921003,
+     238.49700000000007
+    ],
+    [
+     42.6,
+     240.10700000000008,
+     195.97300000000007,
+     251.10700000000008
+    ],
+    [
+     211.52,
+     252.37599999999998,
+     545.916,
+     260.376
+    ],
+    [
+     375.17,
+     261.586,
+     545.7060000000001,
+     269.586
+    ],
+    [
+     42.6,
+     283.827,
+     545.9459969999998,
+     294.827
+    ],
+    [
+     42.6,
+     296.527,
+     545.758001,
+     307.527
+    ],
+    [
+     42.6,
+     309.127,
+     545.5349919999998,
+     320.127
+    ],
+    [
+     42.6,
+     321.827,
+     545.7509999999999,
+     332.827
+    ],
+    [
+     42.6,
+     334.427,
+     545.6180019999999,
+     345.427
+    ],
+    [
+     42.6,
+     347.127,
+     546.0189929999998,
+     358.127
+    ],
+    [
+     42.6,
+     359.72700000000003,
+     161.79600000000005,
+     370.72700000000003
+    ],
+    [
+     42.6,
+     385.027,
+     90.36200000000001,
+     396.027
+    ],
+    [
+     42.6,
+     397.627,
+     90.36200000000001,
+     408.627
+    ],
+    [
+     42.6,
+     410.327,
+     89.762,
+     421.327
+    ],
+    [
+     42.6,
+     422.927,
+     90.36200000000001,
+     433.927
+    ],
+    [
+     42.6,
+     435.627,
+     90.36200000000001,
+     446.627
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q028_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q029",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 29,
+  "area": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "No mundo o microplástico é encontrado em todos os ambientes: terrestres, de água doce e no oceano. Os microplásticos, que podem ter até cinco milímetros de diâmetro, entram no oceano a partir da decomposição do lixo plástico marinho, do escoamento de encanamentos, do vazamento de instalações de produção e de outras fontes. Quando ingeridos pela vida marinha, como aves, peixes, mamíferos e plantas, os microplásticos têm efeitos tóxicos e mecânicos, levando a problemas como redução da ingestão de alimentos, sufocamento, mudanças comportamentais e alteração genética.\n\nSobre os microplásticos encontrados no Oceano, é possível citar como fontes",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "resíduos da construção civil, sacolas plásticas, tampinhas de garrafa."
+   },
+   {
+    "letra": "B",
+    "texto": "isopor, redes de pesca, tintas automotivas."
+   },
+   {
+    "letra": "C",
+    "texto": "garrafas PETs, embalagens de alimento, equipamentos eletrônicos."
+   },
+   {
+    "letra": "D",
+    "texto": "filtros de cigarro, vestuários, cosméticos."
+   },
+   {
+    "letra": "E",
+    "texto": "cotonetes, canudinhos, pellets."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     497.357,
+     545.2889999999998,
+     508.357
+    ],
+    [
+     42.6,
+     510.057,
+     545.3989999999998,
+     521.057
+    ],
+    [
+     42.6,
+     522.657,
+     545.77,
+     533.657
+    ],
+    [
+     42.6,
+     535.357,
+     545.6409999999998,
+     546.357
+    ],
+    [
+     42.6,
+     547.9570000000001,
+     545.4649999999999,
+     558.957
+    ],
+    [
+     42.6,
+     560.657,
+     526.2840000000001,
+     571.657
+    ],
+    [
+     42.6,
+     585.9570000000001,
+     422.19900000000007,
+     596.957
+    ],
+    [
+     42.6,
+     611.2470000000001,
+     398.5190039999999,
+     622.2470000000001
+    ],
+    [
+     42.6,
+     623.857,
+     269.58800400000007,
+     634.857
+    ],
+    [
+     42.6,
+     636.557,
+     391.072003,
+     647.557
+    ],
+    [
+     42.6,
+     649.177,
+     259.1600040000001,
+     660.177
+    ],
+    [
+     42.6,
+     661.8770000000001,
+     211.48600400000004,
+     672.8770000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q029_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q030",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 30,
+  "area": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em países com inverno rigoroso, nos quais costuma nevar bastante, é comum fazer a limpeza das ruas adicionando altas quantidades de sal de cozinha na neve, fazendo com que ela derreta, liberando o caminho em calçadas e ruas.\n\n{{img:1}}\n\nFonte: Google Imagens\n\nQual é o nome da propriedade coligativa associada a esse fenômeno e o que faz a neve, que é basicamente a água em estado sólido, derreter?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Crioscopia, pois a neve tem um abaixamento de seu ponto de ebulição."
+   },
+   {
+    "letra": "B",
+    "texto": "Crioscopia, pois a neve tem um abaixamento de seu ponto de fusão."
+   },
+   {
+    "letra": "C",
+    "texto": "Ebulioscopia, pois a neve tem um abaixamento de seu ponto de ebulição."
+   },
+   {
+    "letra": "D",
+    "texto": "Tonoscopia, pois a neve tem um abaixamento de seu ponto de fusão."
+   },
+   {
+    "letra": "E",
+    "texto": "Tonoscopia, pois a neve tem um abaixamento de seu ponto de ebulição."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q030_img1.png",
+    "pagina": 18,
+    "bbox": [
+     180.7,
+     111.6,
+     411.1,
+     263.5
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.6,
+     75.67700000000002,
+     545.573999,
+     86.67700000000002
+    ],
+    [
+     42.6,
+     88.30700000000002,
+     545.9159999999999,
+     99.30700000000002
+    ],
+    [
+     42.6,
+     100.99700000000007,
+     194.85100000000006,
+     111.99700000000007
+    ],
+    [
+     180.72,
+     111.60000000000001,
+     411.12,
+     263.52
+    ],
+    [
+     252.45,
+     263.88599999999997,
+     335.914,
+     271.886
+    ],
+    [
+     42.6,
+     286.22700000000003,
+     545.9069979999999,
+     297.22700000000003
+    ],
+    [
+     42.6,
+     298.827,
+     278.74300600000015,
+     309.827
+    ],
+    [
+     42.6,
+     321.827,
+     405.75999600000006,
+     332.827
+    ],
+    [
+     42.6,
+     334.527,
+     391.82299600000005,
+     345.527
+    ],
+    [
+     42.6,
+     347.127,
+     416.337001,
+     358.127
+    ],
+    [
+     42.6,
+     359.827,
+     396.720999,
+     370.827
+    ],
+    [
+     42.6,
+     372.427,
+     410.65000200000003,
+     383.427
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [
+   "texto curto solto junto da imagem (“Fonte: Google Imagens”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q030_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q031",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 31,
+  "area": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia os versos de Luiz Gonzaga, em “O xote das meninas”:\n\nMandacaru quando fulora na seca  \nÉ o sinal que a chuva chega no sertão  \nToda menina que enjoa da boneca  \nÉ sinal que o amor já chegou no coração\n\nSobre o mandacaru típico do Sertão, o fato relatado na música ocorre por ser ele uma espécie classificada como",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "herbácea."
+   },
+   {
+    "letra": "B",
+    "texto": "palmácea."
+   },
+   {
+    "letra": "C",
+    "texto": "cactácea."
+   },
+   {
+    "letra": "D",
+    "texto": "bromeliácea."
+   },
+   {
+    "letra": "E",
+    "texto": "ciperácea."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.6,
+     397.72700000000003,
+     350.6520000000001,
+     408.76000000000005
+    ],
+    [
+     210.73,
+     417.327,
+     377.611,
+     428.327
+    ],
+    [
+     200.63,
+     429.927,
+     387.8280000000001,
+     440.927
+    ],
+    [
+     209.23,
+     442.627,
+     379.158,
+     453.627
+    ],
+    [
+     194.23,
+     455.22700000000003,
+     394.10000000000014,
+     466.22700000000003
+    ],
+    [
+     42.6,
+     474.857,
+     545.5639999999999,
+     485.857
+    ],
+    [
+     42.6,
+     487.457,
+     129.37900000000002,
+     498.457
+    ],
+    [
+     42.6,
+     512.7470000000001,
+     109.37300400000001,
+     523.7470000000001
+    ],
+    [
+     42.6,
+     525.4570000000001,
+     111.14400400000001,
+     536.457
+    ],
+    [
+     42.6,
+     538.057,
+     107.580003,
+     549.057
+    ],
+    [
+     42.6,
+     550.7470000000001,
+     123.35400400000002,
+     561.7470000000001
+    ],
+    [
+     42.6,
+     563.357,
+     111.155004,
+     574.357
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q031_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q032",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 32,
+  "area": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O congelamento de 100 litros de água a 0 ºC é realizado através de um refrigerador que tem 25% da eficiência do refrigerador ideal de Carnot.\n\nSe a temperatura do ambiente é 29 ºC, qual é o trabalho aproximado necessário por ciclo de operação do refrigerador, em kcal?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "850"
+   },
+   {
+    "letra": "B",
+    "texto": "2100"
+   },
+   {
+    "letra": "C",
+    "texto": "3400"
+   },
+   {
+    "letra": "D",
+    "texto": "4200"
+   },
+   {
+    "letra": "E",
+    "texto": "5700"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.6,
+     588.657,
+     545.6090009999997,
+     599.657
+    ],
+    [
+     42.6,
+     601.357,
+     259.5420000000001,
+     612.357
+    ],
+    [
+     42.6,
+     613.9570000000001,
+     545.3329999999999,
+     624.957
+    ],
+    [
+     42.6,
+     626.657,
+     164.79399500000005,
+     637.657
+    ],
+    [
+     42.6,
+     651.977,
+     73.84,
+     662.977
+    ],
+    [
+     42.6,
+     664.577,
+     79.91199999999999,
+     675.577
+    ],
+    [
+     42.6,
+     677.277,
+     79.296,
+     688.277
+    ],
+    [
+     42.6,
+     689.8770000000001,
+     79.91199999999999,
+     700.8770000000001
+    ],
+    [
+     42.6,
+     702.577,
+     79.91199999999999,
+     713.577
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q032_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q033",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 33,
+  "area": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Ao acender a churrasqueira para uma festa, para o preparo de carnes e legumes em uma parrilha, geralmente colocamos os menores pedaços de carvão próximo ao fogo inicial e, em seguida, colocamos os pedaços maiores. Isso pode ser explicado pela influência da",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "superfície de contato, pois os menores pedaços de carvão vão queimar mais rapidamente, diferente dos maiores, aumentando a chance de a chama vingar."
+   },
+   {
+    "letra": "B",
+    "texto": "concentração de oxigênio, que é maior quando os pedaços menores circundam a chama inicial, pois os grandes pedaços podem funcionar como uma parede, que impede a ação do vento."
+   },
+   {
+    "letra": "C",
+    "texto": "natureza do carvão, pois os menores pedaços têm origem mineral, enquanto os pedaços maiores são de carvão vegetal."
+   },
+   {
+    "letra": "D",
+    "texto": "pressão, pois colocar os pedaços maiores acima dos menores garante uma maior pressão sobre a chama inicial."
+   },
+   {
+    "letra": "E",
+    "texto": "temperatura, pois os pedaços maiores geralmente são mais frios e, por isso, demoram mais a entrar em combustão."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.6,
+     75.67700000000002,
+     545.553,
+     86.67700000000002
+    ],
+    [
+     42.6,
+     88.30700000000002,
+     545.41,
+     99.30700000000002
+    ],
+    [
+     42.6,
+     100.99700000000007,
+     407.096,
+     111.99700000000007
+    ],
+    [
+     45.9,
+     126.30700000000002,
+     545.4140050000001,
+     137.30700000000002
+    ],
+    [
+     63.9,
+     138.90700000000004,
+     381.15100000000007,
+     149.90700000000004
+    ],
+    [
+     45.9,
+     151.60700000000008,
+     545.582008,
+     162.60700000000008
+    ],
+    [
+     63.9,
+     164.2070000000001,
+     510.907,
+     175.2070000000001
+    ],
+    [
+     45.9,
+     176.90700000000004,
+     545.4690039999999,
+     187.90700000000004
+    ],
+    [
+     63.9,
+     189.49700000000007,
+     174.549,
+     200.49700000000007
+    ],
+    [
+     45.9,
+     202.2070000000001,
+     545.780008,
+     213.2070000000001
+    ],
+    [
+     63.9,
+     214.80700000000002,
+     130.45,
+     225.80700000000002
+    ],
+    [
+     45.9,
+     227.49700000000007,
+     545.5240049999999,
+     238.49700000000007
+    ],
+    [
+     63.9,
+     240.10700000000008,
+     170.842,
+     251.10700000000008
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4014-Q034",
+  "prova_id": "P4014",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 34,
+  "area": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir.\n\nUm vírus altamente contagioso tem sido o principal responsável pelos casos atuais de infecções respiratórias em crianças. O principal causador de bronquiolite é um vírus respiratório, o Vírus Sincicial Respiratório (VSR). Para evitar o VSR, é importante lembrar as lições que aprendemos com a Covid. Em caso de sintomas de gripe, usar máscara e não mandar os pequenos para escola ou para creche, não circular com bebês em aglomerações e dar para as crianças todas as vacinas disponíveis. A Anvisa aprovou no mês passado uma vacina contra o VSR aplicada em grávidas, que cria anticorpos que protegem os bebês nos primeiros meses de vida. Ela ainda não está disponível no Brasil, mas as vacinas contra gripe e Covid estão e podem proteger crianças a partir dos 6 meses. Ele é um vírus que pode infectar qualquer pessoa em qualquer faixa etária. Mas nas crianças, principalmente com menos de 2 anos de idade, ele costuma causar uma doença chamada bronquiolite.\n\n{{fonte:1}}\n\nA partir das ideias do texto, sobre as viroses provocadas pelo VSR e outros quadros virais, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "Disponível em: https://g1.globo.com/jornal-nacional/noticia/2024/05/03/virus-altamente-contagioso-tem-sido-o-principal-responsavel-pelos-casos-de-infeccoes-respiratorias-em-criancas.ghtml. Acesso em: 22 jun. 2024. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Em crianças muito pequenas, o uso de máscaras não é eficaz para evitar o VSR ou a Covid. No entanto, é importante higienizar as mãos."
+   },
+   {
+    "letra": "B",
+    "texto": "A imunização das mulheres grávidas garante a proteção ao bebê, uma vez que cria anticorpos. Assim, crianças com menos de 2 anos estão livres da contaminação por VSR."
+   },
+   {
+    "letra": "C",
+    "texto": "A vacina contra gripe, aplicada em crianças e bebês, também imuniza contra o VSR. Desse modo, crianças vacinadas podem frequentar ambientes escolares ou creches, *shoppings* e outros espaços, pois a vacina garante imunidade contra qualquer tipo de vírus."
+   },
+   {
+    "letra": "D",
+    "texto": "A transmissão do VSR acontece por meio do contato de pessoa a pessoa, da secreção da fala, tosse ou espirros ou do contato com objetos contaminados."
+   },
+   {
+    "letra": "E",
+    "texto": "O tratamento para VSR é específico, por meio do uso de antiviral e antibióticos, capazes de impedir a ação do patógeno. Importante tratar os sintomas com hidratação e repouso, mantendo o ambiente ventilado e úmido com a ajuda de um umidificador."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   19,
+   20
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.6,
+     278.127,
+     162.99500000000003,
+     289.127
+    ],
+    [
+     42.6,
+     298.827,
+     545.4429999999999,
+     309.827
+    ],
+    [
+     42.6,
+     311.427,
+     545.7819999999999,
+     322.427
+    ],
+    [
+     42.6,
+     324.127,
+     545.7040000000001,
+     335.127
+    ],
+    [
+     42.6,
+     336.72700000000003,
+     546.011,
+     347.72700000000003
+    ],
+    [
+     42.6,
+     349.427,
+     545.9159999999999,
+     360.427
+    ],
+    [
+     42.6,
+     362.027,
+     545.5519999999999,
+     373.027
+    ],
+    [
+     42.6,
+     374.72700000000003,
+     545.4649999999999,
+     385.72700000000003
+    ],
+    [
+     42.6,
+     387.327,
+     546.2129999999999,
+     398.327
+    ],
+    [
+     42.6,
+     399.927,
+     546.0369999999997,
+     410.927
+    ],
+    [
+     42.6,
+     412.627,
+     418.0409999999999,
+     423.627
+    ],
+    [
+     55.3,
+     428.30600000000004,
+     545.764,
+     436.30600000000004
+    ],
+    [
+     228.85,
+     437.50600000000003,
+     545.7,
+     445.50600000000003
+    ],
+    [
+     42.6,
+     457.427,
+     545.4099999999999,
+     468.427
+    ],
+    [
+     42.6,
+     470.157,
+     153.78799999999998,
+     481.157
+    ],
+    [
+     42.6,
+     496.557,
+     545.5299999999997,
+     507.557
+    ],
+    [
+     56.8,
+     509.247,
+     258.62399999999997,
+     520.2470000000001
+    ],
+    [
+     42.6,
+     521.857,
+     545.4639999999999,
+     532.857
+    ],
+    [
+     56.8,
+     534.557,
+     438.10399999999987,
+     545.557
+    ],
+    [
+     42.6,
+     547.157,
+     545.497,
+     558.157
+    ],
+    [
+     56.8,
+     559.857,
+     545.7860000000001,
+     570.857
+    ],
+    [
+     56.8,
+     572.4570000000001,
+     407.8210000000002,
+     583.457
+    ],
+    [
+     42.6,
+     585.157,
+     545.0929999999998,
+     596.157
+    ],
+    [
+     56.8,
+     597.7470000000001,
+     352.326,
+     608.7470000000001
+    ],
+    [
+     42.5,
+     610.4570000000001,
+     545.1040000000002,
+     621.457
+    ],
+    [
+     56.8,
+     623.057,
+     544.9259999999999,
+     634.057
+    ],
+    [
+     56.8,
+     635.7470000000001,
+     367.8800000000001,
+     646.7470000000001
+    ]
+   ],
+   "20": [
+    [
+     42.480000000000004,
+     76.32000000000001,
+     545.76,
+     150.48000000000002
+    ],
+    [
+     42.480000000000004,
+     164.88,
+     192.96,
+     267.12
+    ],
+    [
+     42.480000000000004,
+     280.08,
+     545.76,
+     704.1600000000001
+    ],
+    [
+     535.6800000000001,
+     721.44,
+     545.76,
+     728.64
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-2-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4010"
+  ],
+  "alertas": [
+   "figura na pág. 20 depois da alternativa E foi descartada (não faz parte da questão) — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q034_p19.jpg",
+   "revisao/Q034_p20.jpg"
+  ]
+ }
+]

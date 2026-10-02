@@ -1,0 +1,913 @@
+[
+ {
+  "id": "P2494-T1",
+  "texto": "**Texto para as questões 97 e 98**\n\n{{img:1}}\n\n{{fonte:1}}",
+  "fontes": [
+   "**BRASIL**. Ministério da Saúde, 2009 (adaptado)."
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T1_img1.png",
+    "pagina": 5,
+    "bbox": [
+     312.5,
+     64.1,
+     556.6,
+     360.0
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     309.0,
+     43.766309999999976,
+     448.9234829999999,
+     53.27630999999997
+    ],
+    [
+     312.48,
+     64.08,
+     556.5600000000001,
+     360.0
+    ],
+    [
+     432.12,
+     363.7617,
+     559.9272000000001,
+     369.7617
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   97,
+   98
+  ],
+  "questoes": [
+   "P2494-Q097",
+   "P2494-Q098"
+  ],
+  "recortes": [
+   "revisao/T1_p5.jpg"
+  ]
+ },
+ {
+  "id": "P2494-T2",
+  "texto": "**Texto para as questões 101 e 102**\n\n{{img:1}}\n\n{{fonte:1}}",
+  "fontes": [
+   "XAVIER, C. **Quadrinho quadrado**. Disponível em: http://www.releituras.com. Acesso em: 5 jul. 2009."
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T2_img1.png",
+    "pagina": 7,
+    "bbox": [
+     42.5,
+     62.6,
+     281.5,
+     278.6
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     35.46,
+     36.836310000000026,
+     185.94909299999992,
+     46.34631000000002
+    ],
+    [
+     42.480000000000004,
+     62.64,
+     281.52,
+     278.64
+    ],
+    [
+     80.28,
+     290.0217,
+     286.31280000000004,
+     296.0217
+    ],
+    [
+     223.95,
+     297.4017,
+     286.3464,
+     303.4017
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   101,
+   102
+  ],
+  "questoes": [
+   "P2494-Q101",
+   "P2494-Q102"
+  ],
+  "recortes": [
+   "revisao/T2_p7.jpg"
+  ]
+ },
+ {
+  "id": "P2494-T3",
+  "texto": "**Textos para as questões 107 e 108**\n\n**Texto I**\n\nÉ praticamente impossível imaginarmos nossas vidas sem o plástico. Ele está presente em embalagens de alimentos, bebidas e remédios, além de eletrodomésticos, automóveis etc. Esse uso ocorre devido à sua atoxicidade e à inércia, isto é: quando em contato com outras substâncias, o plástico não as contamina; ao contrário, protege o produto embalado. Outras duas grandes vantagens garantem o uso dos plásticos em larga escala: são leves, quase não alteram o peso do material embalado, e são 100% recicláveis, fato que, infelizmente, não é aproveitado, visto que, em todo o mundo, a percentagem de plástico reciclado, quando comparado ao total produzido, ainda é irrelevante.\n\n{{fonte:1}}\n\n**Texto II**\n\nSacolas plásticas são leves e voam ao vento. Por isso, elas entopem esgotos e bueiros, causando enchentes. São encontradas até no estômago de tartarugas marinhas, baleias, focas e golfinhos, mortos por sufocamento.\n\nSacolas plásticas descartáveis são gratuitas para os consumidores, mas têm um custo incalculável para o meio ambiente.\n\n{{fonte:2}}",
+  "fontes": [
+   "**Revista Mãe Terra**. Minuano, ano I, n. 6 (adaptado).",
+   "**Veja**, 8 jul. 2009. Fragmentos de texto publicitário do Instituto Akatu pelo Consumo Consciente."
+  ],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     35.46,
+     43.28631000000007,
+     191.210976,
+     52.79631000000006
+    ],
+    [
+     35.46,
+     59.3106600000001,
+     66.085053,
+     68.82066000000009
+    ],
+    [
+     70.858122,
+     74.38827000000003,
+     286.30051500000013,
+     83.89827000000002
+    ],
+    [
+     35.46,
+     84.31671000000006,
+     286.31573100000026,
+     93.82671000000005
+    ],
+    [
+     35.46,
+     94.24515000000008,
+     286.3100250000002,
+     103.75515000000007
+    ],
+    [
+     35.46,
+     104.1735900000001,
+     286.34045700000036,
+     113.6835900000001
+    ],
+    [
+     35.46,
+     114.07350000000008,
+     286.3166819999999,
+     123.58350000000007
+    ],
+    [
+     35.46000000000001,
+     124.0019400000001,
+     286.280544,
+     133.5119400000001
+    ],
+    [
+     35.46000000000001,
+     133.93038000000013,
+     286.2900540000001,
+     143.44038000000012
+    ],
+    [
+     35.46000000000001,
+     143.85882000000015,
+     286.27293599999996,
+     153.36882000000014
+    ],
+    [
+     35.46000000000001,
+     153.75873000000013,
+     286.2900540000003,
+     163.26873000000012
+    ],
+    [
+     35.46000000000001,
+     163.68717000000015,
+     286.3271430000003,
+     173.19717000000014
+    ],
+    [
+     35.46000000000001,
+     173.61561000000017,
+     286.3661340000001,
+     183.12561000000017
+    ],
+    [
+     35.46000000000001,
+     183.5440500000002,
+     286.3090740000001,
+     193.0540500000002
+    ],
+    [
+     35.46000000000001,
+     193.44396000000017,
+     183.86735399999986,
+     202.95396000000017
+    ],
+    [
+     144.54,
+     203.14170000000001,
+     286.35660000000007,
+     209.14170000000001
+    ],
+    [
+     35.46,
+     215.69631000000004,
+     68.74690199999999,
+     225.20631000000003
+    ],
+    [
+     70.85812200000001,
+     230.80827,
+     287.4569310000003,
+     240.31826999999998
+    ],
+    [
+     35.46,
+     240.73671000000002,
+     287.48355900000024,
+     250.24671
+    ],
+    [
+     35.46,
+     250.63662,
+     287.4540780000001,
+     260.14662
+    ],
+    [
+     35.46,
+     260.56506,
+     287.45883300000025,
+     270.07506
+    ],
+    [
+     35.46,
+     270.49350000000004,
+     92.49622500000002,
+     280.00350000000003
+    ],
+    [
+     70.859073,
+     280.42194000000006,
+     286.36423200000013,
+     289.93194000000005
+    ],
+    [
+     35.46,
+     290.32185000000004,
+     286.2919560000003,
+     299.83185000000003
+    ],
+    [
+     35.46,
+     300.25029000000006,
+     100.40093699999998,
+     309.76029000000005
+    ],
+    [
+     145.92,
+     309.94169999999997,
+     286.3182,
+     315.94169999999997
+    ],
+    [
+     174.6,
+     316.21169999999995,
+     286.305,
+     322.21169999999995
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   107,
+   108
+  ],
+  "questoes": [
+   "P2494-Q107",
+   "P2494-Q108"
+  ],
+  "recortes": [
+   "revisao/T3_p9.jpg"
+  ]
+ },
+ {
+  "id": "P2494-T4",
+  "texto": "**Texto para as questões 117 e 118**\n\n**Canção do vento e da minha vida**\n\nO vento varria as folhas,  \nO vento varria os frutos,  \nO vento varria as flores...\n\nE a minha vida ficava\n\nCada vez mais cheia\n\nDe frutos, de flores, de folhas.\n\n[...]\n\nO vento varria os sonhos  \nE varria as amizades...  \nO vento varria as mulheres...\n\nE a minha vida ficava\n\nCada vez mais cheia\n\nDe afetos e de mulheres.\n\nO vento varria os meses  \nE varria os teus sorrisos...  \nO vento varria tudo!\n\nE a minha vida ficava\n\nCada vez mais cheia  \nDe tudo.\n\n{{fonte:1}}",
+  "fontes": [
+   "BANDEIRA, M. **Poesia completa e prosa**. Rio de Janeiro: José Aguilar, 1967."
+  ],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     35.46,
+     45.836310000000026,
+     185.94909299999992,
+     55.34631000000002
+    ],
+    [
+     85.65378,
+     74.21415000000013,
+     236.11719600000012,
+     83.72415000000012
+    ],
+    [
+     83.46,
+     97.36827000000005,
+     186.464712,
+     106.87827000000004
+    ],
+    [
+     83.46,
+     111.5571900000001,
+     184.876542,
+     121.0671900000001
+    ],
+    [
+     83.46,
+     125.77464000000009,
+     189.646758,
+     135.28464000000008
+    ],
+    [
+     106.263078,
+     139.96356000000014,
+     196.53199799999996,
+     149.47356000000013
+    ],
+    [
+     106.263078,
+     154.1524800000002,
+     194.41982699999997,
+     163.6624800000002
+    ],
+    [
+     106.25737199999999,
+     168.36993000000018,
+     233.00855400000012,
+     177.87993000000017
+    ],
+    [
+     83.36489999999999,
+     185.56401000000017,
+     96.576192,
+     195.07401000000016
+    ],
+    [
+     83.46,
+     202.75809000000015,
+     189.11134500000003,
+     212.26809000000014
+    ],
+    [
+     83.46,
+     216.97554000000014,
+     180.11678700000002,
+     226.48554000000013
+    ],
+    [
+     83.46,
+     231.1644600000002,
+     205.47710400000005,
+     240.67446000000018
+    ],
+    [
+     106.263078,
+     245.38191000000018,
+     196.53199799999996,
+     254.89191000000017
+    ],
+    [
+     106.263078,
+     259.5708300000002,
+     194.41982699999997,
+     269.0808300000002
+    ],
+    [
+     106.263078,
+     273.7597500000003,
+     212.42891399999988,
+     283.2697500000003
+    ],
+    [
+     83.46,
+     302.1661200000003,
+     186.478026,
+     311.6761200000003
+    ],
+    [
+     83.46,
+     316.3550400000004,
+     193.31286300000005,
+     325.86504000000036
+    ],
+    [
+     83.46,
+     330.57249000000036,
+     166.928319,
+     340.08249000000035
+    ],
+    [
+     106.263078,
+     344.76141000000035,
+     196.53199799999996,
+     354.27141000000034
+    ],
+    [
+     106.263078,
+     358.97886000000034,
+     194.41982699999997,
+     368.48886000000033
+    ],
+    [
+     106.26117599999999,
+     373.16778000000033,
+     142.176642,
+     382.6777800000003
+    ],
+    [
+     76.92,
+     392.80170000000004,
+     286.3608000000001,
+     398.80170000000004
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   117,
+   118
+  ],
+  "questoes": [
+   "P2494-Q117",
+   "P2494-Q118"
+  ],
+  "recortes": [
+   "revisao/T4_p13.jpg"
+  ]
+ },
+ {
+  "id": "P2494-T5",
+  "texto": "**Texto para as questões 122 e 123**\n\nQuando eu falo com vocês, procuro usar o código de vocês. A figura do índio no Brasil de hoje não pode ser aquela de 500 anos atrás, do passado, que representa aquele primeiro contato. Da mesma forma que o Brasil de hoje não é o Brasil de ontem, tem 160 milhões de pessoas com diferentes sobrenomes. Vieram para cá asiáticos, europeus, africanos, e todo mundo quer ser brasileiro. A importante pergunta que nós fazemos é: qual é o pedaço de índio que vocês têm? O seu cabelo? São seus olhos? Ou é o nome da sua rua? O nome da sua praça? Enfim, vocês devem ter um pedaço de índio dentro de vocês. Para nós, o importante é que vocês olhem para a gente como seres humanos, como pessoas que nem precisam de paternalismos, nem precisam ser tratadas com privilégios. Nós não queremos tomar o Brasil de vocês, nós queremos compartilhar esse Brasil com vocês.\n\n{{fonte:1}}",
+  "fontes": [
+   "TERENA, M. Debate. MORIN, E. **Saberes globais e saberes locais***.* Rio de Janeiro: Garamond, 2000 (adaptado)."
+  ],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     35.46,
+     45.92631000000006,
+     185.94909299999992,
+     55.43631000000005
+    ],
+    [
+     70.85812200000001,
+     67.96826999999996,
+     286.2862500000002,
+     77.47826999999995
+    ],
+    [
+     35.46,
+     82.15719000000001,
+     286.2852990000002,
+     91.66719
+    ],
+    [
+     35.46,
+     96.34611000000007,
+     286.3071720000002,
+     105.85611000000006
+    ],
+    [
+     35.46,
+     110.56356000000005,
+     286.30146600000023,
+     120.07356000000004
+    ],
+    [
+     35.46,
+     124.7524800000001,
+     286.29576000000026,
+     134.2624800000001
+    ],
+    [
+     35.46,
+     138.94140000000016,
+     286.2986130000002,
+     148.45140000000015
+    ],
+    [
+     35.46,
+     153.15885000000014,
+     286.29100500000027,
+     162.66885000000013
+    ],
+    [
+     35.46,
+     167.3477700000002,
+     286.2491610000003,
+     176.8577700000002
+    ],
+    [
+     35.46,
+     181.56522000000018,
+     286.33760400000034,
+     191.07522000000017
+    ],
+    [
+     35.46,
+     195.75414000000023,
+     286.3357020000003,
+     205.26414000000022
+    ],
+    [
+     35.46,
+     209.9430600000003,
+     286.31192700000025,
+     219.45306000000028
+    ],
+    [
+     35.46,
+     224.16051000000027,
+     286.3014660000003,
+     233.67051000000026
+    ],
+    [
+     35.46,
+     238.34943000000032,
+     286.340457,
+     247.85943000000032
+    ],
+    [
+     35.46,
+     252.53835000000038,
+     286.26723,
+     262.04835000000037
+    ],
+    [
+     35.46,
+     266.75580000000036,
+     286.32143700000006,
+     276.26580000000035
+    ],
+    [
+     35.46,
+     280.9447200000004,
+     232.35694200000003,
+     290.4547200000004
+    ],
+    [
+     101.25,
+     296.62159999999994,
+     286.308,
+     302.62159999999994
+    ],
+    [
+     166.92000000000002,
+     305.5616,
+     286.3368000000001,
+     311.5616
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   122,
+   123
+  ],
+  "questoes": [
+   "P2494-Q122",
+   "P2494-Q123"
+  ],
+  "recortes": [
+   "revisao/T5_p15.jpg"
+  ]
+ },
+ {
+  "id": "P2494-T6",
+  "texto": "**Texto para as questões 126 e 127**\n\n{{img:1}}\n\n{{fonte:1}}",
+  "fontes": [
+   "BRASIL. Ministério da Saúde. **Revista Nordeste**, João Pessoa, ano 3, n. 35, maio/jun. 2009."
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T6_img1.png",
+    "pagina": 16,
+    "bbox": [
+     35.3,
+     59.2,
+     286.6,
+     352.8
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     35.46,
+     43.646310000000085,
+     185.94909299999992,
+     53.156310000000076
+    ],
+    [
+     35.28,
+     59.159652699999924,
+     286.56,
+     352.8
+    ],
+    [
+     116.58,
+     359.1417,
+     286.3254,
+     365.1417
+    ],
+    [
+     210.26999999999998,
+     366.0417,
+     286.3722,
+     372.0417
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   126,
+   127
+  ],
+  "questoes": [
+   "P2494-Q126",
+   "P2494-Q127"
+  ],
+  "recortes": [
+   "revisao/T6_p16.jpg"
+  ]
+ },
+ {
+  "id": "P2494-T7",
+  "texto": "**Textos para as questões 132 e 133**\n\n**Texto I**\n\n[...] já foi o tempo em que via a convivência como viável, só exigindo deste bem comum, piedosamente, o meu quinhão, já foi o tempo em que consentia num contrato, deixando muitas coisas de fora sem ceder contudo no que me era vital, já foi o tempo em que reconhecia a existência escandalosa de imaginados valores, coluna vertebral de toda ‘ordem’; mas não tive sequer o sopro necessário, e, negado o respiro, me foi imposto o sufoco; é esta consciência que me libera, é ela hoje que me empurra, são outras agora minhas preocupações, é hoje outro o meu universo de problemas; num mundo estapafúrdio — definitivamente fora de foco — cedo ou tarde tudo acaba se reduzindo a um ponto de vista, e você que vive paparicando as ciências humanas, nem suspeita que paparica uma piada: impossível ordenar o mundo dos valores, ninguém arruma a casa do capeta; me recuso pois a pensar naquilo em que não mais acredito, seja o amor, a amizade, a família, a igreja, a humanidade; me lixo com tudo isso! me apavora ainda a existência, mas não tenho medo de ficar sozinho, foi conscientemente que escolhi o exílio, me bastando hoje o cinismo dos grandes indiferentes [...].\n\n{{fonte:1}}\n\n**Texto II**\n\nRaduan Nassar lançou a novela **Um Copo de Cólera** em 1978, fervilhante narrativa de um confronto verbal entre amantes, em que a fúria das palavras cortantes se estilhaçava no ar. O embate conjugal ecoava o autoritário discurso do poder e da submissão de um Brasil que vivia sob o jugo da ditadura militar.\n\n{{fonte:2}}",
+  "fontes": [
+   "NASSAR, R. **Um copo de cólera**. São Paulo: Companhia das Letras, 1992.",
+   "COMODO, R. Um silêncio inquietante. **IstoÉ**. Disponível em: http://www.terra.com.br. Acesso em: 15 jul. 2009."
+  ],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     309.0,
+     43.97631000000001,
+     464.7509759999999,
+     53.48631
+    ],
+    [
+     309.0,
+     66.56256000000008,
+     339.625053,
+     76.07256000000007
+    ],
+    [
+     344.398122,
+     83.80827,
+     559.8348090000004,
+     93.31826999999998
+    ],
+    [
+     309.0,
+     95.08826999999997,
+     559.8509760000003,
+     104.59826999999996
+    ],
+    [
+     309.0,
+     106.39827000000002,
+     559.8291030000001,
+     115.90827000000002
+    ],
+    [
+     309.0,
+     117.67827,
+     559.8281520000002,
+     127.18826999999999
+    ],
+    [
+     309.0,
+     128.95826999999997,
+     559.8462210000001,
+     138.46826999999996
+    ],
+    [
+     309.0,
+     140.26827000000003,
+     559.8329070000002,
+     149.77827000000002
+    ],
+    [
+     309.0,
+     151.54827,
+     559.8623880000001,
+     161.05827
+    ],
+    [
+     309.0,
+     162.82826999999997,
+     559.8386130000002,
+     172.33826999999997
+    ],
+    [
+     309.0,
+     174.10827000000006,
+     559.8395640000002,
+     183.61827000000005
+    ],
+    [
+     309.0,
+     185.41827,
+     559.8100830000001,
+     194.92827
+    ],
+    [
+     309.0,
+     196.69826999999998,
+     559.8414660000002,
+     206.20826999999997
+    ],
+    [
+     309.0,
+     207.97826999999995,
+     559.8452700000001,
+     217.48826999999994
+    ],
+    [
+     309.0,
+     219.25827000000004,
+     559.8738000000001,
+     228.76827000000003
+    ],
+    [
+     309.0,
+     230.56826999999998,
+     559.8814080000003,
+     240.07826999999997
+    ],
+    [
+     309.0,
+     241.84816999999998,
+     559.8319560000001,
+     251.35816999999997
+    ],
+    [
+     309.0,
+     253.12827000000004,
+     559.820544,
+     262.63827000000003
+    ],
+    [
+     309.0,
+     264.43827,
+     559.8481230000001,
+     273.94827
+    ],
+    [
+     309.0,
+     275.71817,
+     559.8500250000002,
+     285.22817
+    ],
+    [
+     309.0,
+     286.99827000000005,
+     559.7939160000003,
+     296.50827000000004
+    ],
+    [
+     309.0,
+     298.27827,
+     559.8823590000003,
+     307.78827
+    ],
+    [
+     309.0,
+     309.58826999999997,
+     559.7977199999997,
+     319.09826999999996
+    ],
+    [
+     309.0,
+     320.86827000000005,
+     466.3543619999998,
+     330.37827000000004
+    ],
+    [
+     437.79,
+     337.5717,
+     559.8744,
+     343.5717
+    ],
+    [
+     481.14,
+     344.68170000000003,
+     559.8803999999999,
+     350.68170000000003
+    ],
+    [
+     309.0,
+     358.40630999999996,
+     342.286902,
+     367.91631
+    ],
+    [
+     344.402877,
+     375.64794,
+     559.8671429999999,
+     385.19598
+    ],
+    [
+     309.0,
+     386.9268,
+     559.815789,
+     396.47484000000003
+    ],
+    [
+     309.0,
+     398.20566,
+     559.8509760000001,
+     407.71566
+    ],
+    [
+     309.0,
+     409.51305,
+     559.8738000000003,
+     419.02305
+    ],
+    [
+     309.0,
+     420.79191000000003,
+     559.8386130000001,
+     430.30191
+    ],
+    [
+     309.0,
+     432.07077000000004,
+     500.116764,
+     441.58077000000003
+    ],
+    [
+     398.1,
+     448.81170000000003,
+     559.8894,
+     454.81170000000003
+    ],
+    [
+     428.85,
+     455.8917,
+     559.8840000000001,
+     461.8917
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   132,
+   133
+  ],
+  "questoes": [
+   "P2494-Q132",
+   "P2494-Q133"
+  ],
+  "recortes": [
+   "revisao/T7_p18.jpg"
+  ]
+ }
+]

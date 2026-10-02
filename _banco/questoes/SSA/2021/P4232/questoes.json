@@ -1,0 +1,6778 @@
+[
+ {
+  "id": "P4232-Q011",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 11,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em 2020, o mundo foi surpreendido pela pandemia da Covid-19. Entre as medidas de enfrentamento, estão o uso de máscaras, o distanciamento social, a higienização de mãos e o reforço do sistema imunológico da população. Nesse sentido, alguns médicos estão recomendando que seus pacientes façam uso regular de vitaminas C e D, importantes para o sistema imunológico. Abaixo, são apresentadas as estruturas de algumas vitaminas:\n\n{{img:1}}\n\nAs vitaminas C e D possuem isômeros opticamente ativos. A vitamina C é hidrossolúvel e apresenta equilíbrio ceto-enólico; por outro lado, a vitamina D possui quatro insaturações e, mesmo sendo lipossolúvel, é capaz de formar ligação de hidrogênio.\n\nAssinale a alternativa que apresenta as fórmulas estruturais das vitaminas C e D, respectivamente.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I e III"
+   },
+   {
+    "letra": "B",
+    "texto": "I e V"
+   },
+   {
+    "letra": "C",
+    "texto": "II e IV"
+   },
+   {
+    "letra": "D",
+    "texto": "II e V"
+   },
+   {
+    "letra": "E",
+    "texto": "III e IV"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q011_img1.png",
+    "pagina": 11,
+    "bbox": [
+     42.5,
+     142.6,
+     549.4,
+     617.0
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.625,
+     71.49700000000007,
+     547.2740040000001,
+     82.49700000000007
+    ],
+    [
+     42.625,
+     84.10700000000008,
+     547.2269989999998,
+     95.10700000000008
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     546.6669999999999,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.49700000000007,
+     546.8179969999999,
+     120.49700000000007
+    ],
+    [
+     42.625,
+     122.10700000000008,
+     288.75800800000013,
+     133.10700000000008
+    ],
+    [
+     42.480000000000004,
+     142.56,
+     549.36,
+     617.0400000000001
+    ],
+    [
+     42.625,
+     623.627,
+     546.6999999999998,
+     634.627
+    ],
+    [
+     42.625,
+     636.427,
+     547.0340039999999,
+     647.427
+    ],
+    [
+     42.625,
+     649.027,
+     304.85400000000016,
+     660.027
+    ],
+    [
+     42.625,
+     670.857,
+     526.2750019999999,
+     681.857
+    ],
+    [
+     42.625,
+     696.2520000000001,
+     79.68400000000001,
+     707.2520000000001
+    ],
+    [
+     143.85,
+     696.2520000000001,
+     182.388994,
+     707.2520000000001
+    ],
+    [
+     240.48,
+     696.2520000000001,
+     284.611994,
+     707.2520000000001
+    ],
+    [
+     342.69999100000007,
+     696.2520000000001,
+     381.221991,
+     707.2520000000001
+    ],
+    [
+     436.3499869999998,
+     696.2520000000001,
+     480.8779869999998,
+     707.2520000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q011_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q012",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 12,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Segundo a Agência Nacional de Petróleo, Gás Natural e Biodiesel (ANP), o biodiesel é um combustível renovável, obtido a partir de um processo químico chamado transesterificação. A figura a seguir apresenta a cadeia do biodiesel.\n\n{{img:1}}\n\nSobre esse combustível, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Permite o estabelecimento de um ciclo fechado para o carbono, apresentando considerável vantagem ambiental."
+   },
+   {
+    "letra": "B",
+    "texto": "Apesar do ciclo renovável, apresenta uma grande quantidade de carbonos nas cadeias, o que polui consideravelmente a atmosfera."
+   },
+   {
+    "letra": "C",
+    "texto": "Apresenta pouca vantagem ambiental, pois, apesar do ciclo renovável, muitos produtos secundários, poluentes do meio ambiente, são produzidos."
+   },
+   {
+    "letra": "D",
+    "texto": "Para ser produzido, exige tecnologia de ponta, o que impossibilita sua utilização comercial devido ao alto custo envolvido no processo de transesterificação."
+   },
+   {
+    "letra": "E",
+    "texto": "Apresenta desvantagens ambientais, pois, mesmo com o ciclo renovável do carbono, a eficiência do combustível não permite sua utilização em atividades, a exemplo da aviação e do automobilismo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q012_img1.png",
+    "pagina": 12,
+    "bbox": [
+     144.1,
+     91.7,
+     445.0,
+     309.2
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.625,
+     46.107000000000085,
+     547.1989989999996,
+     57.107000000000085
+    ],
+    [
+     42.62500000000001,
+     58.70700000000011,
+     546.6480030000001,
+     69.70700000000011
+    ],
+    [
+     42.62500000000001,
+     71.30700000000013,
+     233.70600000000007,
+     82.30700000000013
+    ],
+    [
+     144.1300049,
+     91.68999630000008,
+     445.01000980000003,
+     309.23999940000004
+    ],
+    [
+     42.625,
+     319.757,
+     329.95799999999997,
+     330.757
+    ],
+    [
+     42.625,
+     340.757,
+     546.9179979999999,
+     351.757
+    ],
+    [
+     56.825,
+     353.377,
+     158.80599999999998,
+     364.377
+    ],
+    [
+     42.625,
+     365.97700000000003,
+     546.6229999999996,
+     376.97700000000003
+    ],
+    [
+     56.825,
+     378.57700000000006,
+     213.33300000000003,
+     389.57700000000006
+    ],
+    [
+     42.625,
+     391.37700000000007,
+     546.8480050000001,
+     402.37700000000007
+    ],
+    [
+     56.825,
+     403.9770000000001,
+     278.904,
+     414.9770000000001
+    ],
+    [
+     42.625,
+     416.5770000000001,
+     546.931,
+     427.5770000000001
+    ],
+    [
+     56.825,
+     429.17700000000013,
+     324.07200200000005,
+     440.17700000000013
+    ],
+    [
+     42.625,
+     441.97700000000015,
+     544.7089999999998,
+     452.97700000000015
+    ],
+    [
+     56.825,
+     454.57700000000017,
+     531.6729999999999,
+     465.57700000000017
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q012_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q013",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 13,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Ao comprar cenouras em um supermercado, José se deparou com a imagem ao lado, impressa na embalagem do produto. Ao buscar o significado na *internet,* ele descobriu que se trata da radura, símbolo internacional para produto irradiado, e que as cenouras foram expostas, por tempo controlado, à radiação a partir de uma fonte de cobalto-60, visando retardar seu apodrecimento. Preocupado, José decidiu enterrar o produto para evitar que sua família fosse exposta ao perigo da radiação.\n\n{{img:1}}\n\nA decisão de José foi considerada",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "correta, pois a radiação presente nas cenouras pode causar problemas de saúde, a exemplo de queimaduras e câncer de pele."
+   },
+   {
+    "letra": "B",
+    "texto": "equivocada, pois a radiação emitida pelo cobalto-60 é de baixa intensidade e, por isso, não é prejudicial aos seres humanos."
+   },
+   {
+    "letra": "C",
+    "texto": "correta, pois a cenoura irradiada, se consumida, pode levar a óbito imediato do consumidor, caso o tempo de meia-vida não tenha sido atingido."
+   },
+   {
+    "letra": "D",
+    "texto": "equivocada, pois as cenouras não se tornam emissoras de radiação ao serem irradiadas, portanto não existe risco de contaminação em nenhum momento após o processo inicial."
+   },
+   {
+    "letra": "E",
+    "texto": "equivocada, pois as cenouras, após irradiadas, perdem a capacidade de emissão radioativa durante o transporte para o supermercado, logo não são perigosas para o consumo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q013_img1.png",
+    "pagina": 12,
+    "bbox": [
+     470.9,
+     489.6,
+     542.2,
+     560.9
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.625,
+     488.007,
+     462.466,
+     499.007
+    ],
+    [
+     42.625,
+     500.407,
+     462.259,
+     511.407
+    ],
+    [
+     42.625,
+     513.207,
+     461.835,
+     524.207
+    ],
+    [
+     42.625,
+     525.9970000000001,
+     461.96100499999994,
+     536.997
+    ],
+    [
+     42.625,
+     538.607,
+     461.573002,
+     549.607
+    ],
+    [
+     42.625,
+     551.207,
+     446.56699999999984,
+     562.207
+    ],
+    [
+     470.88,
+     489.6,
+     542.16,
+     560.88
+    ],
+    [
+     42.625,
+     573.027,
+     210.29699900000003,
+     584.027
+    ],
+    [
+     42.625,
+     593.827,
+     546.804,
+     604.827
+    ],
+    [
+     64.025,
+     606.427,
+     214.94500000000002,
+     617.427
+    ],
+    [
+     42.62500000000001,
+     619.027,
+     547.1539979999997,
+     630.027
+    ],
+    [
+     64.025,
+     631.827,
+     215.91899500000002,
+     642.827
+    ],
+    [
+     42.62500000000001,
+     644.427,
+     546.7379999999999,
+     655.427
+    ],
+    [
+     64.025,
+     657.027,
+     289.5899990000001,
+     668.027
+    ],
+    [
+     42.62500000000001,
+     669.657,
+     546.749,
+     680.657
+    ],
+    [
+     64.025,
+     682.452,
+     454.428002,
+     693.452
+    ],
+    [
+     42.62500000000001,
+     695.052,
+     546.7819999999999,
+     706.052
+    ],
+    [
+     64.025,
+     707.652,
+     475.35900000000004,
+     718.652
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q013_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q014",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 14,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A corrosão de estruturas metálicas é uma transformação eletroquímica, que pode resultar em sérios prejuízos, seja para processos industriais, seja no cotidiano das pessoas. Aqui, são apresentados alguns potenciais padrão de redução.\n\n→ Cu<sup>2+</sup><sub>(aq)</sub> + 2e<sup>-</sup>\n\n→ Fe<sup>2+</sup><sub>(aq)</sub> + 2e<sup>-</sup>\n\n→ Zn<sup>2+</sup><sub>(aq)</sub> + 2e<sup>-</sup>\n\n→ Al<sup>3+</sup><sub>(aq)</sub> + 3e<sup>-</sup>  \nCu<sub>(s)</sub>\n\nEº = +0,34 V\n\nFe<sub>(s)</sub>\n\nEº = -0,44 V\n\nZn<sub>(s)</sub>\n\nEº = -0,76 V\n\nAl<sub>(s)</sub>\n\nEº = -1,66 V\n\nConsiderando os potenciais padrão de redução apresentados, avalie as sentenças abaixo e assinale aquela quimicamente **INCORRETA** quanto ao processo de corrosão.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A corrosão é um processo que ocorre com variação de Energia de Gibbs menor que zero."
+   },
+   {
+    "letra": "B",
+    "texto": "Na galvanização, um filme compacto de zinco metálico protege a estrutura metálica da corrosão."
+   },
+   {
+    "letra": "C",
+    "texto": "O cobre metálico pode ser utilizado como eletrodo de sacrífico em estrutura de ferro, protegendo-a da corrosão."
+   },
+   {
+    "letra": "D",
+    "texto": "Esponjas de aço usadas podem ter sua vida útil ampliada, protegidas da corrosão, se totalmente imersas em água."
+   },
+   {
+    "letra": "E",
+    "texto": "Placas metálicas de zinco e alumínio são resistentes à corrosão, porque elas são passivadas por uma camada de ZnO e Al<sub>2</sub>O<sub>3</sub> respectivamente."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     46.107000000000085,
+     546.8219919999998,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     546.7989999999998,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     295.84500000000014,
+     82.30700000000002
+    ],
+    [
+     242.23790315703718,
+     100.51222363862757,
+     275.7269484600402,
+     108.4193828711276
+    ],
+    [
+     153.60366481161418,
+     102.54196179965504,
+     228.2669352926853,
+     114.53211596465508
+    ],
+    [
+     242.23790315703707,
+     124.19172880112762,
+     275.7269484600401,
+     132.09888803362765
+    ],
+    [
+     153.60366481161407,
+     126.2226328659051,
+     227.05411602369023,
+     138.21278703090513
+    ],
+    [
+     242.237903157037,
+     149.07444663362764,
+     275.72694846004003,
+     156.98160586612767
+    ],
+    [
+     153.603664811614,
+     151.1041847946551,
+     227.05411602369017,
+     163.09433895965515
+    ],
+    [
+     242.23790315703712,
+     172.98246893112764,
+     275.72694846004015,
+     180.88962816362766
+    ],
+    [
+     153.60366481161412,
+     175.01337299590512,
+     223.70157889461328,
+     187.00352716090515
+    ],
+    [
+     291.9720333083756,
+     102.54196179965504,
+     317.13343222399715,
+     114.56808642714998
+    ],
+    [
+     367.45742651375315,
+     102.57793226215006,
+     435.27868180606555,
+     114.56808642714998
+    ],
+    [
+     294.1114605605554,
+     126.2226328659051,
+     318.082595130167,
+     138.24875749340003
+    ],
+    [
+     368.406589419923,
+     126.25860332840011,
+     433.32366132622104,
+     138.24875749340003
+    ],
+    [
+     294.1114605605553,
+     151.1041847946551,
+     318.08259513016696,
+     163.13030942215005
+    ],
+    [
+     368.40658941992297,
+     151.14015525715013,
+     433.323661326221,
+     163.13030942215005
+    ],
+    [
+     294.5112226093767,
+     175.01337299590512,
+     314.69607562543706,
+     187.03949762340005
+    ],
+    [
+     368.384034496938,
+     175.04934345840013,
+     433.30110640323596,
+     187.03949762340005
+    ],
+    [
+     42.625,
+     208.3270000000001,
+     546.8799929999999,
+     219.3270000000001
+    ],
+    [
+     42.625,
+     220.92700000000002,
+     379.596997,
+     231.92700000000002
+    ],
+    [
+     42.625,
+     246.3270000000001,
+     502.9139949999998,
+     257.3270000000001
+    ],
+    [
+     42.625,
+     258.957,
+     536.0419909999998,
+     269.957
+    ],
+    [
+     42.625,
+     271.757,
+     547.496,
+     282.757
+    ],
+    [
+     64.025,
+     284.357,
+     125.218,
+     295.357
+    ],
+    [
+     42.625,
+     296.957,
+     547.3109959999997,
+     307.957
+    ],
+    [
+     64.025,
+     309.557,
+     151.60700000000003,
+     320.557
+    ],
+    [
+     42.625,
+     322.357,
+     546.8039950000001,
+     333.357
+    ],
+    [
+     64.025,
+     334.957,
+     292.64299700000004,
+     345.957
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q014_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q015",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 15,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Quando um álcool possui dois grupos hidroxila, ele é chamado de diálcool ou diol, podendo ser classificado como geminal quando as duas hidroxilas estão no mesmo carbono; ou vicinal quando as hidroxilas estão em carbonos vizinhos. Os dióis vicinais são estáveis, enquanto os geminais são instáveis, tendendo a perderem água e se transformarem em outro composto.\n\nQuanto à função orgânica dos compostos obtidos a partir dos dióis geminais, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Fenol, se as duas hidroxilas estiverem em carbono primário; e éter, se as duas hidroxilas estiverem em carbono secundário."
+   },
+   {
+    "letra": "B",
+    "texto": "Aldeído, se as duas hidroxilas estiverem em carbono primário; e cetona, se as duas hidroxilas estiverem em carbono secundário."
+   },
+   {
+    "letra": "C",
+    "texto": "Cetona, se as duas hidroxilas estiverem em carbono primário; e aldeído, se as duas hidroxilas estiverem em carbono secundário."
+   },
+   {
+    "letra": "D",
+    "texto": "Ácido carboxílico, se as duas hidroxilas estiverem em carbono primário; e éster, se as duas hidroxilas estiverem em carbono secundário."
+   },
+   {
+    "letra": "E",
+    "texto": "Éster, se as duas hidroxilas estiverem em carbono primário; e ácido carboxílico, se as duas hidroxilas estiverem em carbono secundário."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     360.97700000000003,
+     547.5529859999997,
+     371.97700000000003
+    ],
+    [
+     42.625,
+     373.777,
+     546.80901,
+     384.777
+    ],
+    [
+     42.625,
+     386.377,
+     546.6780000000001,
+     397.377
+    ],
+    [
+     42.625,
+     398.97700000000003,
+     423.293995,
+     409.97700000000003
+    ],
+    [
+     42.625,
+     411.577,
+     546.6779999999997,
+     422.577
+    ],
+    [
+     42.625,
+     424.177,
+     99.88300000000001,
+     435.177
+    ],
+    [
+     42.625,
+     449.577,
+     546.5839950000001,
+     460.577
+    ],
+    [
+     64.025,
+     462.207,
+     232.65600100000003,
+     473.207
+    ],
+    [
+     42.625,
+     474.807,
+     546.4849949999998,
+     485.807
+    ],
+    [
+     64.025,
+     487.607,
+     232.54500000000004,
+     498.607
+    ],
+    [
+     42.625,
+     500.207,
+     546.5070009999997,
+     511.207
+    ],
+    [
+     64.025,
+     512.807,
+     232.66199600000004,
+     523.807
+    ],
+    [
+     42.625,
+     525.407,
+     546.704995,
+     536.407
+    ],
+    [
+     64.025,
+     538.2070000000001,
+     282.07800000000015,
+     549.207
+    ],
+    [
+     42.625,
+     550.807,
+     546.737995,
+     561.807
+    ],
+    [
+     64.025,
+     563.427,
+     282.1969980000001,
+     574.427
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q016",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 16,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nA doutora, regeneração da personagem principal da série *Doctor Who*, a mais longeva série de ficção científica da história, está em uma enrascada! O ano é 3400 d.C., e seu companheiro de viagem, Graham, está preso em uma fortaleza. Seus captores exigem, em troca da liberdade de seu amigo, alguns litros de vinagre, substância que não existe nesse futuro. Ela entra na sua máquina do tempo, a TARDIS, e volta aos dias atuais. Não encontrando vinagre, pega algumas garrafas de vinho e coloca em local seguro. Ao regressar ao ano 3400, busca as garrafas, agora com vinagre, e entrega aos captores.\n\nFonte: BBC Quanto ao fenômeno descrito, ocorreu uma reação de",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "hidrólise, com o etanol presente no vinho, transformando-se no ácido etanoico, presente no vinagre."
+   },
+   {
+    "letra": "B",
+    "texto": "hidrólise, com o metanol presente no vinho, transformando-se no ácido metanoico, presente no vinagre."
+   },
+   {
+    "letra": "C",
+    "texto": "oxidação, com o metanal presente no vinho, transformando-se no ácido etanoico, presente no vinagre."
+   },
+   {
+    "letra": "D",
+    "texto": "oxidação, com o etanol presente no vinho, transformando-se no ácido etanoico, presente no vinagre."
+   },
+   {
+    "letra": "E",
+    "texto": "substituição, com o etanol presente no vinho, transformando-se no ácido etanoico, presente no vinagre."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q016_img1.png",
+    "pagina": 13,
+    "bbox": [
+     464.4,
+     589.7,
+     542.2,
+     714.2
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   13,
+   14
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     589.427,
+     455.57099999999997,
+     600.427
+    ],
+    [
+     42.625,
+     602.2270000000001,
+     455.202,
+     613.227
+    ],
+    [
+     42.625,
+     614.827,
+     455.31300099999993,
+     625.827
+    ],
+    [
+     42.625,
+     627.427,
+     455.235,
+     638.427
+    ],
+    [
+     42.625,
+     640.2270000000001,
+     455.1139999999999,
+     651.227
+    ],
+    [
+     42.625,
+     652.827,
+     455.252996,
+     663.827
+    ],
+    [
+     42.625,
+     665.457,
+     455.18,
+     676.457
+    ],
+    [
+     464.40000000000003,
+     589.6800000000001,
+     542.16,
+     714.24
+    ],
+    [
+     42.625,
+     678.052,
+     255.299,
+     689.052
+    ],
+    [
+     411.73,
+     705.038,
+     458.404,
+     714.038
+    ]
+   ],
+   "14": [
+    [
+     42.625,
+     46.107000000000085,
+     307.3400000000001,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     545.5840049999998,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     547.2399999999999,
+     94.90700000000004
+    ],
+    [
+     56.825,
+     96.70700000000011,
+     96.04,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     547.4090099999999,
+     120.30700000000002
+    ],
+    [
+     56.825,
+     121.90700000000004,
+     96.04,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     547.258997,
+     145.49700000000007
+    ],
+    [
+     56.825,
+     147.3270000000001,
+     96.04,
+     158.3270000000001
+    ],
+    [
+     42.625,
+     159.92700000000002,
+     547.2619999999998,
+     170.92700000000002
+    ],
+    [
+     56.825,
+     172.52700000000004,
+     96.04,
+     183.52700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q016_p13.jpg",
+   "revisao/Q016_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q017",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 17,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Uma joalheria produz suas peças “banhadas de ouro”, e sua propaganda informa que qualquer peça, com a sua assinatura, contém 3,94 g de ouro metálico, pelo menos. Considere que esse “banho de ouro” é um processo de eletrodeposição, que utiliza uma solução de Au(NO<sub>3</sub>)<sub>3</sub> e uma intensidade de corrente elétrica igual a 10,0 A.\n\nAssinale a alternativa que apresenta o tempo aproximado que a célula de eletrodeposição deve ser mantida ligada, nas condições apresentadas, para que a propaganda seja verdadeira.\n\nDados: Massa atômica do ouro = 197 u. Constante de Faraday = 96500 C/mol de e<sup>-</sup>",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "200 s"
+   },
+   {
+    "letra": "B",
+    "texto": "300 s"
+   },
+   {
+    "letra": "C",
+    "texto": "400 s"
+   },
+   {
+    "letra": "D",
+    "texto": "500 s"
+   },
+   {
+    "letra": "E",
+    "texto": "600 s"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     198.7270000000001,
+     547.3289990000001,
+     209.76
+    ],
+    [
+     42.625,
+     211.36,
+     546.7109999999999,
+     222.36
+    ],
+    [
+     42.625,
+     223.92700000000002,
+     547.375996,
+     234.95999999999992
+    ],
+    [
+     42.625,
+     236.52700000000004,
+     210.14399999999995,
+     247.52700000000004
+    ],
+    [
+     42.625,
+     257.3570000000001,
+     546.6779999999999,
+     268.357
+    ],
+    [
+     42.625,
+     269.957,
+     461.725,
+     280.957
+    ],
+    [
+     88.225,
+     295.957,
+     497.281,
+     306.957
+    ],
+    [
+     42.625,
+     334.357,
+     85.506993,
+     345.357
+    ],
+    [
+     146.45,
+     334.357,
+     189.33199299999998,
+     345.357
+    ],
+    [
+     253.47998900000005,
+     334.357,
+     295.7519880000001,
+     345.357
+    ],
+    [
+     362.92,
+     334.357,
+     405.812,
+     345.357
+    ],
+    [
+     466.95000000000005,
+     334.357,
+     509.831993,
+     345.357
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q017_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q018",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 18,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Na Medicina Nuclear, é comum a utilização de radioisótopos para diagnóstico ou intervenção terapêutica. <sup>32</sup>P (32 g/mol) e <sup>131</sup>I (131 g/mol), que são amplamente utilizados nesse campo da medicina, têm tempos de meia-vida de 14 e 8 dias, respectivamente. Fosfato de crômio (CrPO<sub>4</sub>) coloidal e Iodeto de sódio (NaI) são exemplos de radiofármacos empregados para esse fim.\n\nConsiderando que doses equivalentes a 2,0x10<sup>-3</sup> mol desses radiofármacos são administradas no mesmo instante, assinale a alternativa que apresenta as massas desses radioisótopos contidas nos corpos dos pacientes, após 56 dias da administração.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "4,00 mg de <sup>32</sup>P e 2,05 mg de <sup>131</sup>I"
+   },
+   {
+    "letra": "B",
+    "texto": "16,4 mg de <sup>32</sup>P e 0,60 mg de <sup>131</sup>I"
+   },
+   {
+    "letra": "C",
+    "texto": "20,4 mg de <sup>32</sup>P e 2,90 mg de <sup>131</sup>I"
+   },
+   {
+    "letra": "D",
+    "texto": "30,1 mg de <sup>32</sup>P e 10,5 mg de <sup>131</sup>I"
+   },
+   {
+    "letra": "E",
+    "texto": "41,2 mg de <sup>32</sup>P e 20,6 mg de <sup>131</sup>I"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     373.97700000000003,
+     547.3609919999998,
+     384.97700000000003
+    ],
+    [
+     42.625,
+     386.577,
+     547.0110000000002,
+     397.577
+    ],
+    [
+     42.625,
+     399.177,
+     547.443,
+     410.177
+    ],
+    [
+     42.625,
+     411.777,
+     490.17899700000004,
+     422.777
+    ],
+    [
+     42.625,
+     430.177,
+     547.355996,
+     441.177
+    ],
+    [
+     42.625,
+     442.97700000000003,
+     546.711,
+     453.97700000000003
+    ],
+    [
+     42.625,
+     455.577,
+     304.8320000000001,
+     466.577
+    ],
+    [
+     42.625,
+     475.007,
+     216.738,
+     486.007
+    ],
+    [
+     42.625,
+     487.807,
+     216.738,
+     498.807
+    ],
+    [
+     42.625,
+     500.407,
+     216.138,
+     511.407
+    ],
+    [
+     42.625,
+     512.9970000000001,
+     216.738,
+     523.9970000000001
+    ],
+    [
+     42.625,
+     525.607,
+     216.738,
+     536.607
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q018_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q019",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 19,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Abaixo são apresentadas cinco fórmulas estruturais de compostos encontrados em diferentes óleos essenciais.\n\n{{img:1}}\n\nI  \nII  \nIII  \nIV\n\nV  \nA análise de um óleo essencial, usado na indústria farmacêutica, indicou que esse óleo é constituído por dois compostos que podem formar ligação de hidrogênio e, juntos, têm 12 isômeros ópticos. Sabe-se que um dos constituintes do óleo essencial é produto de oxidação do limoneno, que é um terpeno, cuja fórmula molecular é C<sub>10</sub>H<sub>16</sub>. (Estrutura abaixo)\n\n{{img:2}}\n\nAssinale a alternativa que apresenta os constituintes desse óleo.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I e II"
+   },
+   {
+    "letra": "B",
+    "texto": "I e III"
+   },
+   {
+    "letra": "C",
+    "texto": "II e IV"
+   },
+   {
+    "letra": "D",
+    "texto": "II e V"
+   },
+   {
+    "letra": "E",
+    "texto": "IV e V"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q019_img1.png",
+    "pagina": 14,
+    "bbox": [
+     97.2,
+     607.7,
+     496.3,
+     676.8
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q019_img2.png",
+    "pagina": 15,
+    "bbox": [
+     244.0,
+     104.5,
+     283.4,
+     165.1
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   14,
+   15
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     568.827,
+     546.7709959999999,
+     579.827
+    ],
+    [
+     42.625,
+     581.627,
+     126.19200000000001,
+     592.627
+    ],
+    [
+     97.2,
+     607.6800000000001,
+     496.34851928299844,
+     676.8000000000001
+    ],
+    [
+     109.825783736,
+     692.6294390160429,
+     112.95296983619201,
+     703.0529335201148
+    ],
+    [
+     201.425128496,
+     692.6294390160429,
+     207.68590814358402,
+     703.0529335201148
+    ],
+    [
+     291.8765628,
+     692.6294390160429,
+     301.27093599497596,
+     703.0529335201148
+    ],
+    [
+     384.56734559999995,
+     692.6294390160429,
+     395.20393601368,
+     703.0529335201148
+    ],
+    [
+     454.5062608,
+     692.6294390160429,
+     462.009257666288,
+     703.0529335201148
+    ]
+   ],
+   "15": [
+    [
+     42.625,
+     46.107000000000085,
+     547.2239919999998,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     547.6329979999999,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000013,
+     547.6380029999998,
+     82.30700000000013
+    ],
+    [
+     42.625,
+     83.90700000000015,
+     290.47499999999997,
+     94.90700000000015
+    ],
+    [
+     244.0,
+     104.4500061,
+     283.4499969,
+     165.10000000000002
+    ],
+    [
+     42.625,
+     172.52700000000004,
+     358.977993,
+     183.52700000000004
+    ],
+    [
+     42.625,
+     197.92700000000002,
+     79.68800400000002,
+     208.92700000000002
+    ],
+    [
+     140.85,
+     197.92700000000002,
+     181.30299499999998,
+     208.92700000000002
+    ],
+    [
+     239.26999999999998,
+     197.92700000000002,
+     283.411999,
+     208.92700000000002
+    ],
+    [
+     344.5,
+     197.92700000000002,
+     386.062004,
+     208.92700000000002
+    ],
+    [
+     431.95,
+     197.92700000000002,
+     478.08099999999996,
+     208.92700000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019_p14.jpg",
+   "revisao/Q019_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q020",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 20,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Nas células fotorreceptoras, a exemplo de cones e bastonetes, existem proteínas chamadas de opsinas, que possuem, em sua estrutura, moléculas chamadas de retinal [3,7-dimetil-9-(2,6,6-trimetil ciclohexenil) nona-2,4,6,8-tetraenal]. Ao atingir o olho, a luz provoca a isomerização do cis-retinal para o trans-retinal, o que gera impulsos elétricos, os quais são enviados ao cérebro e formam a imagem que estamos vendo. A estrutura dos compostos está apresentada a seguir:\n\n{{img:1}}\n\nEm qual carbono ocorre o processo de isomerização responsável pela visão?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Carbono 3"
+   },
+   {
+    "letra": "B",
+    "texto": "Carbono 4"
+   },
+   {
+    "letra": "C",
+    "texto": "Carbono 6"
+   },
+   {
+    "letra": "D",
+    "texto": "Carbono 7"
+   },
+   {
+    "letra": "E",
+    "texto": "Carbono 9"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q020_img1.png",
+    "pagina": 15,
+    "bbox": [
+     81.0,
+     310.9,
+     480.2,
+     391.8
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.625,
+     236.52700000000004,
+     547.110001,
+     247.52700000000004
+    ],
+    [
+     42.62500000000001,
+     249.327,
+     547.387016,
+     260.327
+    ],
+    [
+     42.62500000000001,
+     261.957,
+     547.0030059999998,
+     272.95699999999994
+    ],
+    [
+     42.62500000000001,
+     274.55699999999996,
+     546.676999,
+     285.55699999999996
+    ],
+    [
+     42.62500000000001,
+     287.157,
+     408.96799899999996,
+     298.157
+    ],
+    [
+     81.0,
+     310.9499908,
+     480.25,
+     391.7999969
+    ],
+    [
+     42.625,
+     406.177,
+     420.981,
+     417.177
+    ],
+    [
+     42.625,
+     431.577,
+     109.89,
+     442.577
+    ],
+    [
+     42.625,
+     444.177,
+     109.89,
+     455.177
+    ],
+    [
+     42.625,
+     456.807,
+     109.28499999999998,
+     467.807
+    ],
+    [
+     42.625,
+     469.40700000000004,
+     109.89,
+     480.40700000000004
+    ],
+    [
+     42.625,
+     482.00700000000006,
+     109.89,
+     493.00700000000006
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q020_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q021",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 21,
+  "area": "",
+  "texto_base_id": "P4232-T1",
+  "textos_base_ids": [
+   "P4232-T1"
+  ],
+  "enunciado": "{{img:1}}\n\nEm diversas máquinas, óleos e esferas de aço, ocas ou não, são frequentemente utilizadas com o objetivo de lubrificar engrenagens e rolamentos de máquinas. Sabendo que a densidade de um óleo específico é 700 kg/m<sup>3</sup>, qual tipo de esfera de aço, de acordo com a tabela, flutuaria nesse óleo em questão?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Tipo A"
+   },
+   {
+    "letra": "B",
+    "texto": "Tipo B"
+   },
+   {
+    "letra": "C",
+    "texto": "Tipo C"
+   },
+   {
+    "letra": "D",
+    "texto": "Tipo D"
+   },
+   {
+    "letra": "E",
+    "texto": "Tipo E"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q021_img1.png",
+    "pagina": 16,
+    "bbox": [
+     208.1,
+     214.6,
+     382.3,
+     316.1
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.62499999999994,
+     160.12700000000007,
+     547.4959999999999,
+     171.12700000000007
+    ],
+    [
+     42.624999999999886,
+     172.92700000000002,
+     546.7439999999996,
+     183.92700000000002
+    ],
+    [
+     42.624999999999886,
+     185.52700000000004,
+     547.2639999999998,
+     196.52700000000004
+    ],
+    [
+     42.6249999999999,
+     198.12700000000007,
+     87.90099999999991,
+     209.12700000000007
+    ],
+    [
+     42.62499999999989,
+     231.52700000000004,
+     95.7379949999999,
+     242.52700000000004
+    ],
+    [
+     208.08,
+     214.56,
+     382.32,
+     316.08
+    ],
+    [
+     42.6249999999999,
+     244.12700000000007,
+     95.7379949999999,
+     255.12700000000007
+    ],
+    [
+     42.6249999999999,
+     256.74700000000007,
+     96.3430009999999,
+     267.747
+    ],
+    [
+     42.6249999999999,
+     269.557,
+     96.34299499999989,
+     282.55
+    ],
+    [
+     42.6249999999999,
+     282.15700000000004,
+     95.7379949999999,
+     293.15700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q022",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 22,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Na praia de Porto de Galinhas, litoral Sul de Pernambuco, existem navios naufragados com história e beleza guardadas no fundo do mar. Atualmente são locais de turismo para quem aprecia mergulhos, que misturam contos com beleza natural. A profundidade desses mergulhos varia entre 20 e 80 metros. Qual a diferença aproximada de pressão entre os dois pontos extremos do mergulho, em atm,\n\n3  \nonde a densidade da água do mar é 1,03 g/cm ?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "2"
+   },
+   {
+    "letra": "B",
+    "texto": "5"
+   },
+   {
+    "letra": "C",
+    "texto": "6"
+   },
+   {
+    "letra": "D",
+    "texto": "8"
+   },
+   {
+    "letra": "E",
+    "texto": "10"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.6249999999999,
+     345.35700000000014,
+     546.857982,
+     356.35700000000014
+    ],
+    [
+     42.6249999999999,
+     357.97700000000015,
+     547.6279999999999,
+     368.97700000000015
+    ],
+    [
+     42.625,
+     370.77700000000016,
+     547.2480089999999,
+     381.77700000000016
+    ],
+    [
+     42.625,
+     383.3770000000002,
+     547.2620000000001,
+     394.3770000000002
+    ],
+    [
+     270.88,
+     394.1490000000002,
+     274.772,
+     401.1490000000002
+    ],
+    [
+     42.625,
+     395.9770000000002,
+     280.816,
+     406.9770000000002
+    ],
+    [
+     42.625,
+     421.37700000000024,
+     64.540993,
+     432.37700000000024
+    ],
+    [
+     147.05,
+     421.37700000000024,
+     168.96599400000002,
+     432.37700000000024
+    ],
+    [
+     239.26998600000007,
+     421.37700000000024,
+     260.7959850000001,
+     432.37700000000024
+    ],
+    [
+     337.0999819999999,
+     421.37700000000024,
+     359.2509789999999,
+     432.37700000000024
+    ],
+    [
+     448.1549699999996,
+     421.37700000000024,
+     476.266,
+     432.37700000000024
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q022_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q023",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 23,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um oscilador vertical de massa *m* e mola de constante elástica *k* tem período *T*<sub>1</sub>. Se uma segunda mola com constante elástica 3*k* é introduzida em série entre a mola e a massa, o novo sistema apresenta um período de oscilação *T*<sub>2</sub>. Qual é o valor da expressão (3)<sup>1/2</sup>*T<sub>2</sub>*/*T*<sub>1</sub>?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1"
+   },
+   {
+    "letra": "B",
+    "texto": "2"
+   },
+   {
+    "letra": "C",
+    "texto": "3"
+   },
+   {
+    "letra": "D",
+    "texto": "6"
+   },
+   {
+    "letra": "E",
+    "texto": "9"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     471.8070000000001,
+     547.3860030000001,
+     482.8070000000001
+    ],
+    [
+     42.62500000000006,
+     484.4070000000001,
+     547.3840070000001,
+     495.4070000000001
+    ],
+    [
+     42.62500000000006,
+     497.0070000000001,
+     428.4460000000002,
+     508.0070000000001
+    ],
+    [
+     42.62500000000023,
+     522.4070000000002,
+     64.54099300000023,
+     533.4070000000002
+    ],
+    [
+     150.05000100000024,
+     522.4070000000002,
+     171.96599400000028,
+     533.4070000000002
+    ],
+    [
+     239.26998900000018,
+     522.4070000000002,
+     260.79598800000014,
+     533.4070000000002
+    ],
+    [
+     334.09997699999997,
+     522.4070000000002,
+     356.24598,
+     533.4070000000002
+    ],
+    [
+     451.14897499999967,
+     522.4070000000002,
+     473.0659940000002,
+     533.4070000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q024",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 24,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nDuas fontes de luz F<sub>1</sub> e F<sub>2</sub> que emitem ondas de luz coerentes e em fase, de comprimento de onda λ, estão dispostas conforme ilustra a figura a seguir. Se para uma distância D específica, verifica-se que não há um ponto iluminado no centro do anteparo, então a distância d entre as fontes deve ser",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "λ/2"
+   },
+   {
+    "letra": "B",
+    "texto": "λ/5"
+   },
+   {
+    "letra": "C",
+    "texto": "2λ/3"
+   },
+   {
+    "letra": "D",
+    "texto": "5λ/6"
+   },
+   {
+    "letra": "E",
+    "texto": "7λ/9"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q024_img1.png",
+    "pagina": 16,
+    "bbox": [
+     239.1,
+     614.2,
+     403.0,
+     710.4
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.62500000000023,
+     573.0270000000002,
+     547.0440000000003,
+     584.0270000000002
+    ],
+    [
+     42.625000000000256,
+     585.8270000000002,
+     547.6329910000002,
+     596.8600000000001
+    ],
+    [
+     42.625000000000256,
+     598.4270000000001,
+     541.9500020000002,
+     609.4270000000001
+    ],
+    [
+     239.1000061,
+     614.2000062,
+     403.0,
+     710.4000031
+    ],
+    [
+     60.625000000000256,
+     623.6270000000002,
+     93.34100000000025,
+     634.6600000000001
+    ],
+    [
+     60.62500000000025,
+     636.4270000000001,
+     93.34100000000025,
+     647.4600000000002
+    ],
+    [
+     60.62500000000025,
+     649.0270000000002,
+     99.52500000000025,
+     660.0600000000002
+    ],
+    [
+     60.62500000000024,
+     661.6270000000002,
+     99.52500000000025,
+     672.6600000000001
+    ],
+    [
+     60.62500000000024,
+     674.2520000000002,
+     99.52500000000025,
+     685.2850000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q024_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q025",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 25,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A equipe do Robolab, do curso de Física de Materiais da Escola Politécnica da Universidade de* *Pernambuco, desde o início da pandemia, realizou a entrega de mais de mil protetores faciais* *impressos para diversos hospitais e instituições de saúde em todo o Estado de Pernambuco. Essa* *equipe utilizou quatro impressoras 3D de 400 W idênticas.*\n\nhttp://www.upe.br/noticias/curso-de-f%C3%ADsica-de-materiais-entrega-mais-de-1000-protetores-faciais-\n\n{{fonte:1}}\n\n{{img:1}}\n\nCom referência à instalação das impressoras, ilustramos um esquema na figura a seguir. Cada protetor facial consome aproximadamente 25 g de filamento de PLA (poliácido láctico) em 1,5 h de impressão. Supondo que o custo efetivo do kWh em Pernambuco é de R$ 1,10 e que o filamento PLA é orçado em R$ 120,00/kg, estime o valor necessário para produzir 1000 protetores faciais.",
+  "fontes": [
+   "Disponível em: impressos-em-3d-para-profissionais-de-saúde-do-estado-de-pernambuco.html. Acesso em: 18 set. 2020. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "R$ 720"
+   },
+   {
+    "letra": "B",
+    "texto": "R$ 1450"
+   },
+   {
+    "letra": "C",
+    "texto": "R$ 2840"
+   },
+   {
+    "letra": "D",
+    "texto": "R$ 3660"
+   },
+   {
+    "letra": "E",
+    "texto": "R$ 4210"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q025_img1.png",
+    "pagina": 17,
+    "bbox": [
+     218.9,
+     225.5,
+     455.0,
+     309.7
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.625,
+     58.49700000000007,
+     547.3459879999999,
+     69.49700000000007
+    ],
+    [
+     42.62499999999997,
+     71.10700000000008,
+     546.910991,
+     82.10700000000008
+    ],
+    [
+     42.62499999999997,
+     83.70700000000011,
+     547.4800099999998,
+     94.70700000000011
+    ],
+    [
+     42.62499999999997,
+     96.49700000000007,
+     326.9589950000001,
+     107.49700000000007
+    ],
+    [
+     126.24999999999997,
+     121.49300000000005,
+     547.5780060000001,
+     130.49300000000005
+    ],
+    [
+     70.82499999999997,
+     122.28599999999994,
+     123.609,
+     130.28599999999994
+    ],
+    [
+     81.02500000000003,
+     131.89300000000003,
+     547.51,
+     140.89300000000003
+    ],
+    [
+     42.625,
+     155.327,
+     546.7659999999998,
+     166.327
+    ],
+    [
+     42.625,
+     167.92700000000002,
+     547.3769949999999,
+     178.92700000000002
+    ],
+    [
+     42.625,
+     180.52700000000004,
+     546.7769999999996,
+     191.52700000000004
+    ],
+    [
+     42.625,
+     193.327,
+     488.3749969999999,
+     204.327
+    ],
+    [
+     218.8999939,
+     225.4500061,
+     455.0499878,
+     309.7000061
+    ],
+    [
+     42.625,
+     231.12700000000007,
+     99.510995,
+     242.12700000000007
+    ],
+    [
+     42.625,
+     243.92700000000002,
+     105.70399499999999,
+     254.92700000000002
+    ],
+    [
+     42.625,
+     256.557,
+     105.70400099999999,
+     267.557
+    ],
+    [
+     42.625,
+     269.157,
+     105.70399499999999,
+     280.157
+    ],
+    [
+     42.625,
+     281.757,
+     105.70399499999999,
+     292.757
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q026",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 26,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nA figura a seguir ilustra um gráfico da potência dissipada P por quatro diferentes resistores quando submetidos a uma passagem de corrente de intensidade i. Assim, é **CORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "R<sub>1</sub> = R<sub>4</sub>"
+   },
+   {
+    "letra": "B",
+    "texto": "R<sub>2</sub> > R<sub>3</sub>"
+   },
+   {
+    "letra": "C",
+    "texto": "R<sub>3</sub> < R<sub>4</sub>"
+   },
+   {
+    "letra": "D",
+    "texto": "R<sub>4</sub> > R<sub>1</sub>"
+   },
+   {
+    "letra": "E",
+    "texto": "R<sub>1</sub> < R<sub>2</sub>"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q026_img1.png",
+    "pagina": 17,
+    "bbox": [
+     218.9,
+     374.9,
+     320.5,
+     478.2
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.625,
+     345.1570000000001,
+     546.739996,
+     356.1570000000001
+    ],
+    [
+     42.625,
+     357.5770000000001,
+     490.43199699999997,
+     368.5770000000001
+    ],
+    [
+     218.8500061,
+     374.90000299999997,
+     320.4500122,
+     478.2000061
+    ],
+    [
+     42.625,
+     395.77700000000016,
+     100.11699999999999,
+     406.77700000000016
+    ],
+    [
+     42.625,
+     408.3770000000002,
+     100.11699999999999,
+     419.3770000000002
+    ],
+    [
+     42.625,
+     420.9770000000002,
+     99.11699999999999,
+     431.9770000000002
+    ],
+    [
+     42.62499999999999,
+     433.5770000000002,
+     100.11699999999999,
+     444.5770000000002
+    ],
+    [
+     42.625,
+     446.37700000000024,
+     100.11699999999999,
+     457.37700000000024
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q026_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q027",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 27,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Uma espira retangular, condutora e resistiva possui um capacitor C de placas paralelas 1 e 2. Em t = 0, o capacitor está completamente descarregado, e a espira é movida com velocidade constante para fora de uma região de campo magnético constante, de intensidade B, que aponta para dentro do plano do papel. Veja a figura ao lado e assinale a alternativa\n\n{{img:1}}\n\n**CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A placa 1 do capacitor não se carregará."
+   },
+   {
+    "letra": "B",
+    "texto": "A placa 2 do capacitor se carregará negativamente."
+   },
+   {
+    "letra": "C",
+    "texto": "O capacitor descarrega completamente antes de sair da região com campo magnético."
+   },
+   {
+    "letra": "D",
+    "texto": "A tensão entre as placas do capacitor é proporcional ao módulo do campo magnético."
+   },
+   {
+    "letra": "E",
+    "texto": "Se a intensidade da velocidade diminuir, mais carga pode ser acumulada no capacitor."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q027_img1.png",
+    "pagina": 17,
+    "bbox": [
+     377.2,
+     505.3,
+     553.3,
+     632.2
+    ]
+   }
+  ],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.625,
+     522.2070000000003,
+     367.84699600000005,
+     533.2070000000003
+    ],
+    [
+     42.625,
+     534.8070000000002,
+     367.98299999999995,
+     545.8070000000002
+    ],
+    [
+     42.625,
+     547.6070000000003,
+     367.8950000000001,
+     558.6070000000003
+    ],
+    [
+     42.625,
+     560.2270000000003,
+     368.33700200000015,
+     571.2270000000003
+    ],
+    [
+     42.625,
+     572.8270000000003,
+     368.08199999999994,
+     583.8270000000003
+    ],
+    [
+     42.625,
+     585.4270000000004,
+     367.9060000000001,
+     596.4270000000004
+    ],
+    [
+     377.25,
+     505.299997,
+     553.3000031,
+     632.2499939
+    ],
+    [
+     42.625,
+     598.0270000000003,
+     99.88300000000001,
+     609.0270000000003
+    ],
+    [
+     42.625,
+     636.0270000000003,
+     262.27,
+     647.0270000000003
+    ],
+    [
+     42.62499999999997,
+     648.627,
+     316.09699100000006,
+     659.6270000000001
+    ],
+    [
+     42.62499999999997,
+     661.427,
+     488.18600199999986,
+     672.427
+    ],
+    [
+     42.62499999999997,
+     674.052,
+     483.31199499999985,
+     685.052
+    ],
+    [
+     42.62499999999997,
+     686.652,
+     486.71099499999997,
+     697.652
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q027_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q028",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 28,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Sobre a teoria da relatividade de Albert Einstein, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Quando exposto à radiação eletromagnética, um material metálico ejeta elétrons da superfície."
+   },
+   {
+    "letra": "B",
+    "texto": "O tempo é uma grandeza absoluta."
+   },
+   {
+    "letra": "C",
+    "texto": "Um observador que esteja próximo da velocidade da luz verifica uma contração temporal, quando comparado a um observador em repouso."
+   },
+   {
+    "letra": "D",
+    "texto": "Um observador em repouso verifica a contração do comprimento de um objeto que esteja se movendo próximo da velocidade da luz."
+   },
+   {
+    "letra": "E",
+    "texto": "Um observador em repouso verifica a dilatação do comprimento de um objeto que esteja se movendo próximo da velocidade da luz."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.625,
+     58.49700000000007,
+     464.008,
+     69.49700000000007
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     525.9150039999997,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     236.35100400000005,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     550.3789989999999,
+     120.30700000000002
+    ],
+    [
+     64.025,
+     121.90700000000004,
+     268.70200000000006,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     549.9500039999997,
+     145.49700000000007
+    ],
+    [
+     64.025,
+     147.3270000000001,
+     257.51500000000004,
+     158.3270000000001
+    ],
+    [
+     42.625,
+     159.92700000000002,
+     550.4120039999997,
+     170.92700000000002
+    ],
+    [
+     64.025,
+     172.52700000000004,
+     257.51500000000004,
+     183.52700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q028_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q029",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 29,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um forno de micro-ondas doméstico com 1600 W de potência emite uma radiação em seu interior, no comprimento de onda de 12,0 cm, para aquecer ou cozer os alimentos. Supondo que todos os fótons emitidos pelo canhão de micro-ondas - o magnetron - sejam absorvidos pelo alimento para aquecê-lo, aproximadamente quantos fótons de micro-ondas foram absorvidos pelo alimento em 10,0 s de exposição nesse forno?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "10<sup>3</sup>"
+   },
+   {
+    "letra": "B",
+    "texto": "10<sup>10</sup>"
+   },
+   {
+    "letra": "C",
+    "texto": "10<sup>18</sup>"
+   },
+   {
+    "letra": "D",
+    "texto": "10<sup>28</sup>"
+   },
+   {
+    "letra": "E",
+    "texto": "10<sup>38</sup>"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.625,
+     210.52700000000004,
+     550.4380100000001,
+     221.52700000000004
+    ],
+    [
+     42.625,
+     223.12700000000007,
+     550.6310039999998,
+     234.12700000000007
+    ],
+    [
+     42.625,
+     235.7270000000001,
+     550.5790000000002,
+     246.7270000000001
+    ],
+    [
+     42.625,
+     248.52700000000004,
+     550.3760019999997,
+     259.52700000000004
+    ],
+    [
+     42.625,
+     261.15700000000004,
+     174.031,
+     272.157
+    ],
+    [
+     42.625,
+     286.357,
+     74.717,
+     297.357
+    ],
+    [
+     166.25,
+     286.357,
+     202.172,
+     297.357
+    ],
+    [
+     275.5,
+     286.357,
+     310.79200000000003,
+     297.357
+    ],
+    [
+     367.72999699999997,
+     286.357,
+     403.822,
+     297.357
+    ],
+    [
+     458.749998,
+     286.357,
+     494.642,
+     297.357
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q029_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q030",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 30,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um instrumento de diagnóstico médico moderno, que usa técnica de imagem por raios gamas da aniquilação do par elétron-pósitron, é conhecido como PET. Essa máquina realiza tomografia por emissão de pósitrons, para produzir imagens da seção transversal do corpo de um paciente. O pósitron é a antipartícula do elétron, que possui mesma massa, mas carga de sinal oposta. Para um exame, um paciente recebe injeção intravenosa de um marcador radioativo contendo um isótopo de Flúor-18 ou Gálio-67 ou Tecnécio-99, por exemplo. Encontre o comprimento de onda aproximado de aniquilação de um par elétron-pósitron lento em angstrons.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "7,0 x 10<sup>2</sup>"
+   },
+   {
+    "letra": "B",
+    "texto": "4,0 x 10<sup>2</sup>"
+   },
+   {
+    "letra": "C",
+    "texto": "1,0 x 10"
+   },
+   {
+    "letra": "D",
+    "texto": "2,4 x 10<sup>-1</sup>"
+   },
+   {
+    "letra": "E",
+    "texto": "1,2 x 10<sup>-2</sup>"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.625,
+     336.957,
+     550.345994,
+     347.957
+    ],
+    [
+     42.625,
+     349.757,
+     550.5490100000001,
+     360.757
+    ],
+    [
+     42.625,
+     362.377,
+     549.56,
+     373.377
+    ],
+    [
+     42.625,
+     374.97700000000003,
+     550.537988,
+     385.97700000000003
+    ],
+    [
+     42.625,
+     387.577,
+     550.6660059999999,
+     398.577
+    ],
+    [
+     42.625,
+     400.377,
+     550.5660049999999,
+     411.377
+    ],
+    [
+     42.625,
+     412.97700000000003,
+     256.328006,
+     423.97700000000003
+    ],
+    [
+     42.625,
+     438.177,
+     101.517,
+     449.177
+    ],
+    [
+     165.65000200000003,
+     438.177,
+     224.772,
+     449.177
+    ],
+    [
+     276.499998,
+     438.177,
+     331.01599999999996,
+     449.177
+    ],
+    [
+     367.51999700000005,
+     438.177,
+     429.021999,
+     449.177
+    ],
+    [
+     459.35000299999996,
+     438.177,
+     520.8620030000001,
+     449.177
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q030_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q032",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 32,
+  "area": "",
+  "texto_base_id": "P4232-T2",
+  "textos_base_ids": [
+   "P4232-T2"
+  ],
+  "enunciado": "{{img:1}}\n\n{{fonte:1}}\n\nA imagem a seguir retrata um importante evento da Segunda Guerra Mundial, que teve como principal consequência o/a",
+  "fontes": [
+   "Disponível em: http://historiaupf.blogspot.com/2011/01/1942-conferencia-de-wannsee.html. Acesso em: 08 ago. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "início da invasão da antiga URSS."
+   },
+   {
+    "letra": "B",
+    "texto": "anexação da Áustria e da República Tcheca."
+   },
+   {
+    "letra": "C",
+    "texto": "extermínio em massa dos judeus da Europa."
+   },
+   {
+    "letra": "D",
+    "texto": "plano arco-íris de defesa do Oceano Atlântico."
+   },
+   {
+    "letra": "E",
+    "texto": "decisão de expansão do Reich para o norte da África."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q032_img1.png",
+    "pagina": 19,
+    "bbox": [
+     322.6,
+     365.0,
+     542.9,
+     490.3
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.625,
+     332.557,
+     547.4729919999997,
+     343.557
+    ],
+    [
+     42.625,
+     345.157,
+     172.80999999999997,
+     356.157
+    ],
+    [
+     322.56,
+     365.04,
+     542.88,
+     490.32
+    ],
+    [
+     44.425,
+     374.377,
+     232.75,
+     385.377
+    ],
+    [
+     44.425,
+     386.97700000000003,
+     284.68100000000004,
+     397.97700000000003
+    ],
+    [
+     44.425,
+     399.777,
+     284.26400100000006,
+     410.777
+    ],
+    [
+     44.425,
+     412.377,
+     292.068,
+     423.377
+    ],
+    [
+     44.425,
+     424.97700000000003,
+     293.28300000000013,
+     435.97700000000003
+    ],
+    [
+     65.825,
+     437.577,
+     112.24500000000002,
+     448.577
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q032_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q033",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 33,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nA imagem do Rio de Janeiro, em 1º de abril de 1964, retrata qual característica política do regime instalado no Brasil?",
+  "fontes": [
+   "1964: que dizem os novos estudos históricos.",
+   "Disponível em: https://outraspalavras.net/outrasmidias/golpe-de-1964-o-que-dizem-os-novos-estudos-historicos/ Acesso em: 08 ago. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Predomínio dos empresários"
+   },
+   {
+    "letra": "B",
+    "texto": "Centralização nas Forças Armadas"
+   },
+   {
+    "letra": "C",
+    "texto": "Implantação do desenvolvimentismo"
+   },
+   {
+    "letra": "D",
+    "texto": "Proeminência da autonomia na política externa"
+   },
+   {
+    "letra": "E",
+    "texto": "Cooperação dos países integrantes do Pacto de Varsóvia"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q033_img1.png",
+    "pagina": 19,
+    "bbox": [
+     72.0,
+     529.2,
+     252.0,
+     680.4
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.625,
+     522.407,
+     58.083,
+     533.407
+    ],
+    [
+     72.0,
+     529.2,
+     252.0,
+     680.4
+    ],
+    [
+     266.08,
+     544.807,
+     535.2520000000002,
+     555.807
+    ],
+    [
+     266.08,
+     557.427,
+     535.745,
+     568.427
+    ],
+    [
+     266.08,
+     570.027,
+     314.865,
+     581.027
+    ],
+    [
+     266.08,
+     595.2270000000001,
+     428.019995,
+     606.227
+    ],
+    [
+     266.08,
+     608.027,
+     459.24600300000003,
+     619.027
+    ],
+    [
+     266.08,
+     620.627,
+     465.46099999999996,
+     631.627
+    ],
+    [
+     266.08,
+     633.2270000000001,
+     517.4460020000001,
+     644.227
+    ],
+    [
+     266.08,
+     645.827,
+     535.519,
+     656.827
+    ],
+    [
+     287.5,
+     658.607175,
+     330.38725,
+     669.632175
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q034",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 34,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em maio de 1966, durante a convenção estadual da Arena pernambucana, Nilo Coelho, por indicação do governador Paulo Guerra, foi designado candidato oficial do partido para as eleições indiretas ao governo do estado. Coelho derrotou na convenção outros dois postulantes, Eraldo Gueiros e o general Antônio Carlos Murici, comandante da 7ª Região Militar, sediada em Recife, apresentado pelos militares. Foi eleito pela Assembleia Legislativa em 3 de setembro e tomou posse em 31 de janeiro de 1967.\n\n{{fonte:1}}\n\nQual a principal característica socioeconômica do governo citado pelo texto?",
+  "fontes": [
+   "Fonte: CPDOC – FGV - http://www.fgv.br/cpdoc/acervo/dicionarios/verbete-biografico/nilo-de-sousa-coelho. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Ampliação da rede elétrica rural"
+   },
+   {
+    "letra": "B",
+    "texto": "Construção da barragem de Tapacurá"
+   },
+   {
+    "letra": "C",
+    "texto": "Criação do programa de renda mínima"
+   },
+   {
+    "letra": "D",
+    "texto": "Inauguração do aeroporto de Petrolina"
+   },
+   {
+    "letra": "E",
+    "texto": "Implantação da Liga Social contra o Mocambo"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.625,
+     46.107000000000085,
+     546.9619979999998,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     546.7989999999996,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000013,
+     547.4059909999999,
+     82.30700000000013
+    ],
+    [
+     42.625,
+     83.90700000000015,
+     546.9309999999999,
+     94.90700000000015
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     547.4060019999998,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000013,
+     121.605,
+     120.30700000000013
+    ],
+    [
+     71.42500000000001,
+     126.08300000000008,
+     547.532,
+     135.11
+    ],
+    [
+     42.625,
+     144.90700000000004,
+     416.4049999999999,
+     155.90700000000004
+    ],
+    [
+     42.625,
+     170.327,
+     219.12199200000003,
+     181.327
+    ],
+    [
+     42.625,
+     182.92700000000002,
+     250.54699000000002,
+     193.92700000000002
+    ],
+    [
+     42.625,
+     195.52700000000004,
+     253.01800300000005,
+     206.52700000000004
+    ],
+    [
+     42.625,
+     208.12700000000007,
+     252.23199200000002,
+     219.12700000000007
+    ],
+    [
+     42.625,
+     220.92700000000002,
+     290.4329900000001,
+     231.92700000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q034_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q035",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 35,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\n{{fonte:1}}\n\nA cena do documentário retratado na imagem resgata a trajetória dos atores e bailarinos que se tornaram símbolo da contracultura no Brasil de 1970, ao confrontar a Ditadura Civil-Militar por meio da",
+  "fontes": [
+   "Cena de *Dzi Croquettes*, 2009. Dirigido por Tatiana Issa e Raphael Alvarez."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "adesão à luta armada com amplo apoio da sociedade civil organizada."
+   },
+   {
+    "letra": "B",
+    "texto": "americanização da arte, buscando apresentar uma aceitação da realidade."
+   },
+   {
+    "letra": "C",
+    "texto": "transgressão das normativas de identidade de gênero de forma lúdica e satírica."
+   },
+   {
+    "letra": "D",
+    "texto": "inspiração no comunismo soviético utilizando técnicas da arte e cinema clássico."
+   },
+   {
+    "letra": "E",
+    "texto": "aceitação dos valores conservadores da sociedade, criticando a identidade de gênero."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q035_img1.png",
+    "pagina": 20,
+    "bbox": [
+     73.4,
+     264.2,
+     280.1,
+     376.6
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.625,
+     258.74700000000007,
+     58.083,
+     269.747
+    ],
+    [
+     73.44,
+     264.24,
+     280.08,
+     376.56
+    ],
+    [
+     71.025,
+     380.1560000000001,
+     339.36200000000014,
+     388.1560000000001
+    ],
+    [
+     42.625,
+     402.5770000000001,
+     546.8330009999997,
+     413.5770000000001
+    ],
+    [
+     42.625,
+     415.17700000000013,
+     541.602996,
+     426.17700000000013
+    ],
+    [
+     42.625,
+     437.17700000000013,
+     407.787986,
+     448.17700000000013
+    ],
+    [
+     42.625,
+     449.77700000000016,
+     429.4079909999999,
+     460.77700000000016
+    ],
+    [
+     42.625,
+     462.40700000000015,
+     456.0079989999999,
+     473.40700000000015
+    ],
+    [
+     42.625,
+     475.0070000000002,
+     458.00799099999995,
+     486.0070000000002
+    ],
+    [
+     42.625,
+     487.8070000000002,
+     485.80799399999984,
+     498.8070000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q035_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q036",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 36,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nQual a principal característica do grupo político retratado na imagem?",
+  "fontes": [
+   "Foto do movimento Panteras Negras nos EUA.",
+   "Disponível em: https://super.abril.com.br/mundo-estranho/quem-foram-os-panteras-negras/ Acesso em: 08 ago. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Resistência armada contra a opressão aos negros"
+   },
+   {
+    "letra": "B",
+    "texto": "Luta pacífica em resistência ao porte de armas nos EUA"
+   },
+   {
+    "letra": "C",
+    "texto": "Melhoria no sistema de saúde dos Estados confederados"
+   },
+   {
+    "letra": "D",
+    "texto": "Cooperação com o movimento *Baader Meinhof,* na Alemanha, para ações em conjunto"
+   },
+   {
+    "letra": "E",
+    "texto": "Combate às políticas de Lyndon Johnson de retirada da cidadania dos afro-americanos"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q036_img1.png",
+    "pagina": 20,
+    "bbox": [
+     63.4,
+     542.2,
+     234.7,
+     658.1
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.625,
+     525.6070000000002,
+     403.84799599999985,
+     536.6070000000002
+    ],
+    [
+     63.36,
+     542.16,
+     234.72,
+     658.08
+    ],
+    [
+     245.27,
+     548.807,
+     513.1030000000001,
+     559.807
+    ],
+    [
+     245.27,
+     561.427,
+     538.3810000000001,
+     572.427
+    ],
+    [
+     266.67,
+     574.2270000000001,
+     289.462,
+     585.227
+    ],
+    [
+     245.27,
+     586.827,
+     537.577,
+     597.827
+    ],
+    [
+     266.67,
+     599.427,
+     333.539,
+     610.427
+    ],
+    [
+     245.27,
+     611.827,
+     537.896,
+     622.827
+    ],
+    [
+     266.67,
+     624.827,
+     439.726994,
+     635.827
+    ],
+    [
+     245.27,
+     637.427,
+     538.4470000000001,
+     648.427
+    ],
+    [
+     266.67,
+     650.027,
+     432.567,
+     661.027
+    ],
+    [
+     56.825,
+     665.4360000000003,
+     223.32900000000012,
+     673.4360000000003
+    ],
+    [
+     56.825,
+     674.6310000000002,
+     475.174,
+     682.6310000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q036_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q037",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 37,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nA imagem ao lado representa uma crítica a duas questões fundamentais para a sociedade norte-americana durante a Guerra Fria, sendo elas, respectivamente, a/o",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": ""
+   },
+   {
+    "letra": "B",
+    "texto": ""
+   },
+   {
+    "letra": "C",
+    "texto": ""
+   },
+   {
+    "letra": "D",
+    "texto": ""
+   },
+   {
+    "letra": "E",
+    "texto": ""
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q037_img1.png",
+    "pagina": 21,
+    "bbox": [
+     67.0,
+     57.2,
+     256.3,
+     178.6
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.625,
+     46.107000000000085,
+     58.083,
+     57.107000000000085
+    ],
+    [
+     269.5,
+     57.107000000000085,
+     543.652,
+     68.10700000000008
+    ],
+    [
+     269.5,
+     69.70700000000011,
+     544.0430050000001,
+     80.70700000000011
+    ],
+    [
+     269.5,
+     82.30700000000002,
+     543.938,
+     93.30700000000002
+    ],
+    [
+     269.5,
+     94.90700000000004,
+     371.846002,
+     105.90700000000004
+    ],
+    [
+     66.96000000000001,
+     57.200006099999996,
+     256.32,
+     178.56
+    ],
+    [
+     269.5,
+     116.70700000000011,
+     279.363,
+     127.70700000000011
+    ],
+    [
+     269.5,
+     129.49700000000007,
+     279.363,
+     140.49700000000007
+    ],
+    [
+     269.5,
+     142.087175,
+     278.77132500000005,
+     153.1121750000001
+    ],
+    [
+     269.5,
+     154.7270000000001,
+     279.363,
+     165.7270000000001
+    ],
+    [
+     269.5,
+     167.12700000000007,
+     279.363,
+     178.12700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [
+   "alternativa vazia"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q037_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q038",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 38,
+  "area": "",
+  "texto_base_id": "P4232-T5",
+  "textos_base_ids": [
+   "P4232-T5"
+  ],
+  "enunciado": "A política externa do Governo João Batista Figueiredo (1979-1985) manteve-se próxima à do governo Geisel, tendo apenas uma pequena modificação no campo de atuação e linguagem.\n\n{{fonte:1}}\n\nAs principais características da política externa do governo citado no texto foram",
+  "fontes": [
+   "Fonte: ALTEMANI, Henrique. *Política externa brasileira*. São Paulo: Saraiva, 2005. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "integração regional e multilateralismo."
+   },
+   {
+    "letra": "B",
+    "texto": "adesão ao neoliberalismo e autonomia pela distância."
+   },
+   {
+    "letra": "C",
+    "texto": "aproximação com o mercado da Ásia e construção do Mercosul."
+   },
+   {
+    "letra": "D",
+    "texto": "manutenção do pragmatismo e diálogo com países em desenvolvimento."
+   },
+   {
+    "letra": "E",
+    "texto": "implementação do desenvolvimentismo e cooperação bilateral com os EUA."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.62500000000001,
+     234.7270000000001,
+     547.3920109999999,
+     245.72700000000032
+    ],
+    [
+     42.62500000000001,
+     247.3270000000001,
+     496.2869999999998,
+     258.3270000000001
+    ],
+    [
+     211.68,
+     262.9430000000001,
+     547.167,
+     271.9430000000001
+    ],
+    [
+     42.625000000000114,
+     287.55700000000013,
+     435.457,
+     298.55700000000013
+    ],
+    [
+     42.625000000000114,
+     309.35700000000014,
+     249.53799300000014,
+     320.35700000000014
+    ],
+    [
+     42.625000000000114,
+     322.15700000000015,
+     326.3580000000002,
+     333.15700000000015
+    ],
+    [
+     42.625000000000114,
+     334.7570000000002,
+     377.7880000000001,
+     345.7570000000002
+    ],
+    [
+     42.625000000000114,
+     347.3570000000002,
+     420.78799500000025,
+     358.3570000000002
+    ],
+    [
+     42.625000000000114,
+     359.9770000000002,
+     435.17599500000006,
+     370.9770000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q038_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q039",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 39,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a charge a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nQuais as principais críticas políticas ao Governo José Sarney estão nela contidas?",
+  "fontes": [
+   "Claudius. 08-05-1985.",
+   "Disponível em: https://acervo.folha.com.br//leitor.do?anchor=4281304&pd=b1c74f8c7a4176a6eb476d59bee91673. Acesso em: 08 ago. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Isolamento político e tentativa de reeleição"
+   },
+   {
+    "letra": "B",
+    "texto": "Alta da inflação e corrupção no poder executivo"
+   },
+   {
+    "letra": "C",
+    "texto": "Retorno do estado autoritário e economia liberalizante"
+   },
+   {
+    "letra": "D",
+    "texto": "Militarização da sociedade e crise da representatividade"
+   },
+   {
+    "letra": "E",
+    "texto": "Questionável legitimidade e necessidade de eleições diretas"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q039_img1.png",
+    "pagina": 21,
+    "bbox": [
+     123.8,
+     419.0,
+     328.3,
+     591.1
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.62500000000011,
+     397.97700000000026,
+     202.67199700000018,
+     408.97700000000026
+    ],
+    [
+     123.84,
+     419.04,
+     328.32,
+     591.12
+    ],
+    [
+     127.65000000000012,
+     595.2060000000004,
+     206.3140000000001,
+     603.2060000000004
+    ],
+    [
+     127.65000000000012,
+     604.4060000000004,
+     534.9199999999997,
+     612.4060000000004
+    ],
+    [
+     127.65000000000012,
+     613.606,
+     220.494,
+     621.606
+    ],
+    [
+     42.62500000000001,
+     636.027,
+     445.3459999999998,
+     647.027
+    ],
+    [
+     42.62500000000001,
+     660.227,
+     272.3649950000001,
+     671.227
+    ],
+    [
+     42.625000000000014,
+     672.852,
+     296.38999600000005,
+     683.852
+    ],
+    [
+     42.625000000000014,
+     685.452,
+     327.9150010000001,
+     696.452
+    ],
+    [
+     42.625000000000014,
+     698.252,
+     337.880995,
+     709.252
+    ],
+    [
+     42.625000000000014,
+     710.852,
+     358.45099500000015,
+     721.852
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q039_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q040",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 40,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o quadrinho a seguir:\n\n{{img:1}}\n\nEle se remete a qual movimento ocorrido em 1987, no Oriente Médio?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Guerra dos Seis Dias, configurando a conquista do Egito."
+   },
+   {
+    "letra": "B",
+    "texto": "Guerra do Yom Kippur, pela anexação dos territórios Sírios."
+   },
+   {
+    "letra": "C",
+    "texto": "Terceira Intifada, marcando a retomada do território da Cisjordânia."
+   },
+   {
+    "letra": "D",
+    "texto": "Conflito Israel-Líbano, com a intenção de desarmar o grupo Hezbollah."
+   },
+   {
+    "letra": "E",
+    "texto": "Guerra das Pedras, levante da população palestina contra a ocupação israelense."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q040_img1.png",
+    "pagina": 22,
+    "bbox": [
+     128.3,
+     64.1,
+     483.1,
+     216.6
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.625,
+     46.107000000000085,
+     197.173999,
+     57.107000000000085
+    ],
+    [
+     128.3,
+     64.10000000000002,
+     483.12,
+     216.64999999999998
+    ],
+    [
+     42.625,
+     231.3270000000001,
+     385.55499399999985,
+     242.3270000000001
+    ],
+    [
+     42.625,
+     251.9570000000001,
+     344.157991,
+     262.9570000000001
+    ],
+    [
+     42.625,
+     264.557,
+     355.7879940000001,
+     275.557
+    ],
+    [
+     42.625,
+     277.357,
+     392.5780059999999,
+     288.357
+    ],
+    [
+     42.625,
+     289.957,
+     409.57801099999995,
+     300.957
+    ],
+    [
+     42.625,
+     302.557,
+     464.314995,
+     313.557
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q040_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q041",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 41,
+  "area": "",
+  "texto_base_id": "P4232-T6",
+  "textos_base_ids": [
+   "P4232-T6"
+  ],
+  "enunciado": "A crise no final de 2007, nos Estados Unidos propagou-se, nos anos seguintes, para outras economias, trazendo várias consequências econômicas e sociais adversas. Essa crise teve início no/na",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "setor agropecuário do Sul daquele país, agravada com a Peste Suína."
+   },
+   {
+    "letra": "B",
+    "texto": "setor imobiliário, decorrente da expansão dos créditos bancários."
+   },
+   {
+    "letra": "C",
+    "texto": "Região Norte dos EEUU, em face dos incêndios que desestabilizaram a produção agrícola."
+   },
+   {
+    "letra": "D",
+    "texto": "setor têxtil, provocada pela concorrência da indústria chinesa na porção central do país."
+   },
+   {
+    "letra": "E",
+    "texto": "setor Primário da economia estadunidense, afetado pela política de substituição de importação."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.625,
+     86.30700000000002,
+     547.257996,
+     97.30700000000002
+    ],
+    [
+     42.625,
+     98.90700000000004,
+     546.8839969999998,
+     109.90700000000004
+    ],
+    [
+     42.625,
+     111.49700000000007,
+     70.34100099999999,
+     122.49700000000007
+    ],
+    [
+     42.625,
+     133.49700000000007,
+     407.24499299999997,
+     144.49700000000007
+    ],
+    [
+     42.625,
+     146.10700000000008,
+     382.01299500000005,
+     157.10700000000008
+    ],
+    [
+     42.625,
+     158.7270000000001,
+     509.438002,
+     169.7270000000001
+    ],
+    [
+     42.625,
+     171.3270000000001,
+     493.00798900000007,
+     182.3270000000001
+    ],
+    [
+     42.625,
+     184.12700000000007,
+     530.2279959999997,
+     195.12700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q041_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q042",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 42,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Algo nem sempre reconhecido, mas com efeitos possivelmente benéficos para toda a sociedade brasileira refere-se àquilo que alguns denominam *janela de oportunidades*, enquanto outros chamam de \"bônus demográfico\", ou \"dividendo demográfico\". Esses termos são corolários da **transição demográfica**.\n\n{{fonte:1}}\n\nSobre o assunto tratado no texto, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "(Extraído de RIGOTTI, J.R R. Transição demográfica. **Educ. Real**. vol. 37. nº. 2 Porto Alegre: mai/ago., 2012)."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A transição demográfica é a passagem de uma situação de equilíbrio no crescimento populacional, caracterizado por altos níveis de fecundidade e de mortalidade para uma etapa de níveis baixos, em ambas as componentes."
+   },
+   {
+    "letra": "B",
+    "texto": "Quando um país ou região se apresenta com a taxa de mortalidade da população superando a densidade demográfica, diz-se que se encontra na transição demográfica."
+   },
+   {
+    "letra": "C",
+    "texto": "Durante a transição demográfica que ocorre num país, configura-se uma situação de Pleno Emprego na economia."
+   },
+   {
+    "letra": "D",
+    "texto": "As rápidas mudanças na estrutura etária da população não têm implicações no crescimento econômico, sobretudo em países que se encontram em desenvolvimento."
+   },
+   {
+    "letra": "E",
+    "texto": "O Brasil mergulhou na fase de Transição Demográfica, e isso acarretou objetivamente as frequentes crises recessivas na economia do país."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.625,
+     216.7270000000001,
+     546.7799999999999,
+     227.7270000000001
+    ],
+    [
+     42.625,
+     229.12700000000007,
+     547.17,
+     240.12700000000007
+    ],
+    [
+     42.625,
+     241.7270000000001,
+     547.436,
+     252.7270000000001
+    ],
+    [
+     42.625,
+     254.55700000000002,
+     110.722,
+     265.557
+    ],
+    [
+     262.48,
+     266.736,
+     545.01,
+     274.73600000000005
+    ],
+    [
+     440.55,
+     275.93600000000004,
+     547.2040000000001,
+     283.93600000000004
+    ],
+    [
+     42.625,
+     293.557,
+     372.188,
+     304.557
+    ],
+    [
+     42.625,
+     312.557,
+     547.228,
+     323.557
+    ],
+    [
+     64.025,
+     325.157,
+     546.7049999999999,
+     336.157
+    ],
+    [
+     64.025,
+     337.757,
+     202.35,
+     348.757
+    ],
+    [
+     42.625,
+     350.557,
+     547.094,
+     361.557
+    ],
+    [
+     64.025,
+     363.177,
+     425.446,
+     374.177
+    ],
+    [
+     42.625,
+     375.777,
+     547.317,
+     386.777
+    ],
+    [
+     64.025,
+     388.377,
+     177.77599999999998,
+     399.377
+    ],
+    [
+     42.625,
+     400.97700000000003,
+     547.398,
+     411.97700000000003
+    ],
+    [
+     64.025,
+     413.777,
+     424.38300000000004,
+     424.777
+    ],
+    [
+     42.625,
+     426.377,
+     547.222,
+     437.377
+    ],
+    [
+     64.025,
+     438.97700000000003,
+     311.052,
+     449.97700000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q042_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q043",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 43,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o mapa a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nCom relação aos países enumerados, é **CORRETO** afirmar que",
+  "fontes": [
+   "Disponível em: Google Earth. Acesso em: 25 set. 2020. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o país 1 vem investindo em centros de formação e reeducação para o trabalho, capacitando livremente a população, segundo as diferentes etnias e grupos culturais, o que evita desemprego, precarização do trabalho e fome. Essa mão de obra é absorvida e dignamente remunerada por fábricas de produtos e marcas conhecidas mundialmente, nas áreas de tecnologia."
+   },
+   {
+    "letra": "B",
+    "texto": "o país 2 é republicano, de constituição monárquica, e apresenta a maior taxa de imigração per capta do mundo. Essa condição está vinculada ao elevado nível de desenvolvimento econômico, segurança e oferta de emprego, derivada de sua economia estável."
+   },
+   {
+    "letra": "C",
+    "texto": "o modelo especializado da economia industrial do país 3, nas últimas décadas, permitiu ampliar o valor agregado na sua economia e gerar condições de emprego, postos e salários competitivos no nível de grandes economias mundiais. Muito dessa condição se deve às “maquilas” montadoras de bens importados da Ásia para vender nos Estados Unidos."
+   },
+   {
+    "letra": "D",
+    "texto": "as condições climáticas e edáficas predominantes no país 4 favoreceram o desenvolvimento de um sistema agrícola intensivo, eficiente e que abastece boa parte da região."
+   },
+   {
+    "letra": "E",
+    "texto": "no país 5, constata-se um elevado número de trabalhadores, com fluência em inglês, empregados na área de informática, realização de telesserviços em redes internacionais, bem como produção de softwares. Por outro lado, cerca de 2/3 da população desse país encontram-se ocupados no setor agrícola, com baixo desempenho econômico."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q043_img1.png",
+    "pagina": 23,
+    "bbox": [
+     140.4,
+     487.4,
+     443.5,
+     707.0
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   23,
+   24
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.625,
+     464.407,
+     196.708,
+     475.407
+    ],
+    [
+     140.4,
+     487.44,
+     443.52000000000004,
+     707.0400000000001
+    ],
+    [
+     172.29871,
+     698.15256,
+     410.94871000000006,
+     706.15256
+    ]
+   ],
+   "24": [
+    [
+     42.625,
+     45.90700000000004,
+     354.58399999999995,
+     56.90700000000004
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     546.8739999999998,
+     82.30700000000002
+    ],
+    [
+     64.025,
+     83.90700000000004,
+     547.5,
+     94.90700000000004
+    ],
+    [
+     64.025,
+     96.70700000000011,
+     547.4010000000001,
+     107.70700000000011
+    ],
+    [
+     64.025,
+     109.30700000000002,
+     468.5319999999999,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     547.3100000000001,
+     132.90700000000004
+    ],
+    [
+     64.025,
+     134.49700000000007,
+     546.8259999999999,
+     145.49700000000007
+    ],
+    [
+     64.025,
+     147.3270000000001,
+     393.388,
+     158.3270000000001
+    ],
+    [
+     42.625,
+     159.92700000000002,
+     546.5920000000001,
+     170.92700000000002
+    ],
+    [
+     64.025,
+     172.52700000000004,
+     546.716,
+     183.52700000000004
+    ],
+    [
+     64.025,
+     185.12700000000007,
+     547.292,
+     196.15999999999997
+    ],
+    [
+     64.025,
+     197.92700000000002,
+     366.0190000000001,
+     208.92700000000002
+    ],
+    [
+     42.625,
+     210.52700000000004,
+     546.778,
+     221.52700000000004
+    ],
+    [
+     64.025,
+     223.12700000000007,
+     435.77300000000014,
+     234.12700000000007
+    ],
+    [
+     42.625,
+     235.7270000000001,
+     546.892,
+     246.7270000000001
+    ],
+    [
+     64.025,
+     248.52700000000004,
+     547.0540000000001,
+     259.52700000000004
+    ],
+    [
+     64.025,
+     261.15700000000004,
+     547.496,
+     272.157
+    ],
+    [
+     64.025,
+     273.757,
+     312.87800000000016,
+     284.757
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q043_p23.jpg",
+   "revisao/Q043_p24.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q044",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 44,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o mapa a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nQue título abaixo define **CORRETAMENTE** essa representação?",
+  "fontes": [
+   "Disponível em: https://www.slideshare.net"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Rotas do CO2 vindo da África e da Eurásia"
+   },
+   {
+    "letra": "B",
+    "texto": "Fluxos populacionais"
+   },
+   {
+    "letra": "C",
+    "texto": "Circulação atmosférica global"
+   },
+   {
+    "letra": "D",
+    "texto": "Fluxos comerciais intrazonais"
+   },
+   {
+    "letra": "E",
+    "texto": "Migrações pendulares por causas políticas"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q044_img1.png",
+    "pagina": 24,
+    "bbox": [
+     42.6,
+     320.4,
+     523.9,
+     599.0
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   24
+  ],
+  "caixas": {
+   "24": [
+    [
+     42.625,
+     302.557,
+     196.57999900000004,
+     313.557
+    ],
+    [
+     42.5500031,
+     320.40000000000003,
+     523.9000092,
+     599.0400000000001
+    ],
+    [
+     211.48,
+     612.013,
+     378.523,
+     621.013
+    ],
+    [
+     42.625,
+     632.827,
+     360.498997,
+     643.827
+    ],
+    [
+     42.625,
+     653.827,
+     274.26200500000004,
+     664.827
+    ],
+    [
+     42.62500000000001,
+     666.457,
+     166.622,
+     677.457
+    ],
+    [
+     42.62500000000001,
+     679.052,
+     208.312,
+     690.052
+    ],
+    [
+     42.62500000000001,
+     691.652,
+     207.98200000000003,
+     702.652
+    ],
+    [
+     42.62500000000001,
+     704.452,
+     272.40200400000003,
+     715.452
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q044_p24.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q045",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 45,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O desenvolvimento tem conotações muito mais amplas que crescimento econômico; isso implica o aumento físico da produção ou rendimento em uma economia. Quando se instala o processo de desenvolvimento, mudanças estruturais por ele provocadas surgem, dentre elas as seguintes, **EXCETO**:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Modificação na estrutura da participação do uso da força de trabalho do setor primário da economia para os outros setores."
+   },
+   {
+    "letra": "B",
+    "texto": "Diminuição da diferença de produtividade do trabalho entre os vários setores da economia."
+   },
+   {
+    "letra": "C",
+    "texto": "Aumento da participação relativa do setor agrícola do total da renda gerada no país, em face da Reforma Agrária que se verifica com frequência."
+   },
+   {
+    "letra": "D",
+    "texto": "Aumento da produtividade do trabalho."
+   },
+   {
+    "letra": "E",
+    "texto": "Modificações na estrutura etária, taxas de natalidade e de mortalidade da população."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   25
+  ],
+  "caixas": {
+   "25": [
+    [
+     42.625,
+     46.107000000000085,
+     547.286,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     547.2259979999998,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     547.429993,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.70700000000011,
+     91.08300000000001,
+     94.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     499.9579869999999,
+     120.30700000000002
+    ],
+    [
+     64.025,
+     121.90700000000004,
+     227.33100000000002,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     507.69899499999997,
+     145.49700000000007
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     532.0419899999996,
+     158.3270000000001
+    ],
+    [
+     64.025,
+     159.92700000000002,
+     299.8760000000001,
+     170.92700000000002
+    ],
+    [
+     42.625,
+     172.52700000000004,
+     253.53299500000003,
+     183.52700000000004
+    ],
+    [
+     42.625,
+     185.12700000000007,
+     478.9339949999998,
+     196.12700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q045_p25.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q046",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 46,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o mapa a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nSobre os principais aspectos físico-geográficos e geoeconômicos dessa região das Américas, assinale a alternativa **INCORRETA**.",
+  "fontes": [
+   "Disponível em: Google Earth. Acesso em: 27 set. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A Nicarágua sofre, episodicamente, os efeitos de sistemas atmosféricos ciclônicos que atravessam o país, deixando mortos e um rastro de destruição com sérias repercussões econômicas negativas."
+   },
+   {
+    "letra": "B",
+    "texto": "O setor econômico mais importante do Panamá é o de serviços, que engloba as atividades financeiras e as rendas obtidas com a Zona de Livre Comércio, além da exploração do Canal."
+   },
+   {
+    "letra": "C",
+    "texto": "A Costa Rica destaca-se nessa região pelo elevado IDH e pela estabilidade política, quando comparada com a de outros países da América Central."
+   },
+   {
+    "letra": "D",
+    "texto": "Trata-se de uma área do planeta que apresenta, por motivos geológicos e geomorfológicos, uma estabilidade tectônica, que se reflete plenamente na ocorrência de fenômenos sísmicos e magmáticos, sobretudo na Guatemala e em El Salvador."
+   },
+   {
+    "letra": "E",
+    "texto": "O café e a banana são os dois principais produtos da pauta de exportação de Honduras. No passado, esse país teve preocupantes conflitos relacionados à demarcação de fronteira com El Salvador."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q046_img1.png",
+    "pagina": 25,
+    "bbox": [
+     121.0,
+     246.9,
+     468.0,
+     434.2
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   25
+  ],
+  "caixas": {
+   "25": [
+    [
+     42.625,
+     223.12700000000007,
+     190.37099400000002,
+     234.12700000000007
+    ],
+    [
+     120.96000000000001,
+     246.93001000000004,
+     468.0,
+     434.16
+    ],
+    [
+     196.48,
+     435.35600000000005,
+     393.3,
+     443.35600000000005
+    ],
+    [
+     42.625,
+     455.577,
+     544.0640039999998,
+     466.577
+    ],
+    [
+     42.625,
+     468.007,
+     173.908,
+     479.007
+    ],
+    [
+     42.625,
+     493.607,
+     546.7929949999999,
+     504.607
+    ],
+    [
+     64.025,
+     506.207,
+     547.0319970000002,
+     517.207
+    ],
+    [
+     64.025,
+     518.807,
+     175.961,
+     529.807
+    ],
+    [
+     42.625,
+     531.407,
+     546.7269949999999,
+     542.407
+    ],
+    [
+     64.025,
+     544.2070000000001,
+     522.2210019999999,
+     555.207
+    ],
+    [
+     42.625,
+     556.807,
+     546.9119989999996,
+     567.807
+    ],
+    [
+     64.025,
+     569.427,
+     336.44000000000005,
+     580.427
+    ],
+    [
+     42.625,
+     582.027,
+     546.7000009999999,
+     593.027
+    ],
+    [
+     64.025,
+     594.827,
+     547.0449880000002,
+     605.827
+    ],
+    [
+     64.025,
+     607.427,
+     340.69999200000007,
+     618.427
+    ],
+    [
+     42.625,
+     620.027,
+     546.8149949999998,
+     631.027
+    ],
+    [
+     64.025,
+     632.627,
+     547.593008,
+     643.627
+    ],
+    [
+     64.025,
+     645.427,
+     110.632,
+     656.427
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q046_p25.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q048",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 48,
+  "area": "",
+  "texto_base_id": "P4232-T7",
+  "textos_base_ids": [
+   "P4232-T7"
+  ],
+  "enunciado": "Observe o mapa a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nSobre o país Cingapura indicado no mapa, assinale a afirmativa **CORRETA.**",
+  "fontes": [
+   "FONTE: Encyclopedia Britanica",
+   "Disponível em: https://escola.britannica.com.br/artigo/Cingapura/482507"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Essa Cidade-Estado de pequena extensão territorial, de base originária agrária, produtora de quase toda a sua alimentação, após a independência, passou por uma acelerada desindustrialização e adotou o sistema socialista de governo; hoje a maioria das fazendas está eliminada."
+   },
+   {
+    "letra": "B",
+    "texto": "Cingapura tenta explorar cada vez mais o subsolo para atividades, como transporte e armazenamento, a fim de liberar espaço para moradia, escritórios e agricultura. É um dos poucos países da Oceania que aboliu a censura à imprensa."
+   },
+   {
+    "letra": "C",
+    "texto": "A sua localização estratégica configurou-se num enorme benefício econômico, mas, nas últimas décadas, têm sido frequentes os conflitos bélicos por motivações econômicas e étnicas com a Malásia."
+   },
+   {
+    "letra": "D",
+    "texto": "Integrando o grupo dos chamados Tigres Asiáticos (conjuntamente com Hong Kong, Coreia do Sul e Taiwan), Cingapura tornou-se uma das mais prósperas nações em nível mundial, com uma das mais desenvolvidas e bem-sucedidas economias de mercado, que adotaram o modelo econômico socialista."
+   },
+   {
+    "letra": "E",
+    "texto": "O país é particularmente exportador de produtos eletrônicos e de tecnologias de informação, bem como de produtos farmacêuticos. É um importante entreposto comercial e financeiro da Ásia."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q048_img1.png",
+    "pagina": 26,
+    "bbox": [
+     166.6,
+     249.1,
+     423.0,
+     459.4
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     42.625,
+     230.12700000000007,
+     187.36999600000004,
+     241.12700000000007
+    ],
+    [
+     166.63,
+     249.12,
+     422.95001,
+     459.36
+    ],
+    [
+     341.3,
+     460.18600000000004,
+     453.476,
+     468.18600000000004
+    ],
+    [
+     197.48,
+     469.386,
+     453.51200000000006,
+     477.386
+    ],
+    [
+     42.625,
+     491.607,
+     415.574984,
+     502.607
+    ],
+    [
+     42.025,
+     517.2070000000001,
+     546.8679989999996,
+     528.207
+    ],
+    [
+     64.025,
+     529.807,
+     547.4200000000001,
+     540.807
+    ],
+    [
+     64.025,
+     542.407,
+     547.481996,
+     553.407
+    ],
+    [
+     64.025,
+     555.2070000000001,
+     114.24000000000001,
+     566.207
+    ],
+    [
+     42.025,
+     567.827,
+     547.3769909999999,
+     578.827
+    ],
+    [
+     64.025,
+     580.427,
+     546.7050000000003,
+     591.427
+    ],
+    [
+     64.025,
+     593.027,
+     321.45800000000014,
+     604.027
+    ],
+    [
+     42.025,
+     605.827,
+     547.4649969999999,
+     616.827
+    ],
+    [
+     64.025,
+     618.427,
+     546.7819999999999,
+     629.427
+    ],
+    [
+     64.025,
+     631.027,
+     104.84600000000002,
+     642.027
+    ],
+    [
+     42.025,
+     643.627,
+     547.1450009999999,
+     654.6270000000001
+    ],
+    [
+     64.025,
+     656.427,
+     547.2089980000002,
+     667.427
+    ],
+    [
+     64.025,
+     669.057,
+     546.9730039999998,
+     680.057
+    ],
+    [
+     64.025,
+     681.652,
+     112.22700000000002,
+     692.652
+    ],
+    [
+     46.025,
+     694.2520000000001,
+     546.6170049999998,
+     705.2520000000001
+    ],
+    [
+     64.025,
+     707.052,
+     518.0669949999999,
+     718.052
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q048_p26.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q049",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 49,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Exposta em 1798, foi a primeira teoria demográfica de grande repercussão nos meios acadêmicos,* *políticos e econômicos e até hoje é a mais popular de todas, apesar das falhas que apresenta.* *Preocupado com os problemas socioeconômicos (desemprego, fome, êxodo rural, rápido aumento* *populacional) decorrentes da Revolução Industrial e que afetavam seriamente a Inglaterra, o seu autor* *expôs a famosa teoria a respeito do crescimento demográfico*.\n\n{{fonte:1}}\n\nA que os autores do texto se referem?",
+  "fontes": [
+   "(Texto adaptado de FONTANA, R.L.M et al. Teorias demográficas e o crescimento populacional no mundo. **Ciências Humanas e Sociais**  \n**Unit**, Aracaju, v. 2, n.3, março, 2015)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Teoria Malthusiana"
+   },
+   {
+    "letra": "B",
+    "texto": "Teoria Marxista do Crescimento Populacional"
+   },
+   {
+    "letra": "C",
+    "texto": "Teoria do Ecodesenvolvimento Populacional"
+   },
+   {
+    "letra": "D",
+    "texto": "Teoria do Desemprego e do Crescimento Populacional"
+   },
+   {
+    "letra": "E",
+    "texto": "Teoria de Moore do Êxodo Rural"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   27
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.625,
+     45.90700000000004,
+     547.0520010000001,
+     56.90700000000004
+    ],
+    [
+     42.625,
+     58.49700000000007,
+     547.633999,
+     69.49700000000007
+    ],
+    [
+     42.625,
+     71.10700000000008,
+     546.8209999999999,
+     82.10700000000008
+    ],
+    [
+     42.625,
+     83.70700000000011,
+     546.9199999999998,
+     94.70700000000011
+    ],
+    [
+     42.625,
+     96.49700000000007,
+     346.558,
+     107.49700000000007
+    ],
+    [
+     54.825,
+     112.08600000000001,
+     547.35,
+     120.08600000000001
+    ],
+    [
+     413.52,
+     121.28599999999994,
+     547.236,
+     129.28599999999994
+    ],
+    [
+     42.625,
+     143.7070000000001,
+     229.812,
+     154.7070000000001
+    ],
+    [
+     42.625,
+     169.12700000000007,
+     157.458995,
+     180.12700000000007
+    ],
+    [
+     42.625,
+     181.7270000000001,
+     286.1559920000001,
+     192.7270000000001
+    ],
+    [
+     42.625,
+     194.3270000000001,
+     281.0920050000001,
+     205.3270000000001
+    ],
+    [
+     42.625,
+     207.12700000000007,
+     331.9689900000001,
+     218.12700000000007
+    ],
+    [
+     42.625,
+     219.7270000000001,
+     223.74499500000007,
+     230.7270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q049_p27.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q050",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 50,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A urbanização contemporânea revela com clareza que a cidade como a conhecemos, circunscrita* *a um ponto, tende, em algumas áreas, a se amalgamar com outras e constituir regiões urbanas de* *grande coesão, deixando como imagem do passado a cidade como aglomeração concentrada. Talvez* *evoluamos para um mundo sem cidades a exemplo da que herdamos do passado e vivamos em* *grandes aglomerações dispersas. Isso não significa que não haverá mais cidades com aglomerações* *concentradas, significa apenas que a tendência é a de que, no futuro, multipliquem-se as grandes* *concentrações urbanas construídas por movimentos de dispersão*.\n\n{{fonte:1}}\n\nCom base na abordagem do texto e nos seus conhecimentos sobre o tema, assinale a afirmativa **CORRETA**.",
+  "fontes": [
+   "(LENCIONI, S. Urbanização difusa e a constituição de megarregiões. In: **Observatório das Metrópoles**. N. 22. Ano 6. 2015.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A primeira megalópole BosWash foi identificada na década de 1980, nos Estados Unidos, com uma população de 50 milhões de habitantes; a segunda foi a México DC, com 20 milhões de habitantes em 1990."
+   },
+   {
+    "letra": "B",
+    "texto": "As transformações socioespaciais provocadas pelos avanços do meio técnico-científico informacional, além de corresponder às bases estruturais do processo de Globalização, dão origem às megalópoles. São nesses espaços denominados megalópoles que se concentram as principais atividades econômicas e as grandes corporações mundiais. No Brasil existe uma megalópole."
+   },
+   {
+    "letra": "C",
+    "texto": "As cidades globais podem apresentar uma menor densidade populacional, no entanto são centros urbanos com grande concentração de poder (político e econômico) e influência mundial. Por exemplo, Tóquio, São Paulo e Nova York são megacidades e cidades globais."
+   },
+   {
+    "letra": "D",
+    "texto": "De acordo com a Organização das Nações Unidas – ONU, os centros urbanos que possuem mais de 10 milhões de habitantes são identificados como Megalópoles ou Megacidades, mas com influências econômicas restritas ao país de origem."
+   },
+   {
+    "letra": "E",
+    "texto": "A China é o país com maior número de megalópoles do mundo. Pequim deverá ser a cidade mais populosa do mundo em 2030, com função administrativa, ultrapassando Tokyo, que atualmente é a cidade mais populosa da Eurásia."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   27
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.625,
+     257.557,
+     546.5870000000001,
+     268.55699999999996
+    ],
+    [
+     42.625,
+     270.157,
+     546.763998,
+     281.157
+    ],
+    [
+     42.625,
+     282.757,
+     546.9200000000001,
+     293.757
+    ],
+    [
+     42.625,
+     295.357,
+     547.307002,
+     306.357
+    ],
+    [
+     42.625,
+     308.157,
+     546.645,
+     319.157
+    ],
+    [
+     42.625,
+     320.757,
+     547.3830009999997,
+     331.757
+    ],
+    [
+     42.625,
+     333.357,
+     367.578,
+     344.357
+    ],
+    [
+     101.82,
+     350.136,
+     547.244,
+     358.136
+    ],
+    [
+     42.625,
+     372.777,
+     547.1530019999998,
+     383.777
+    ],
+    [
+     42.625,
+     385.177,
+     99.88300000000001,
+     396.177
+    ],
+    [
+     42.625,
+     410.577,
+     547.1260030000001,
+     421.577
+    ],
+    [
+     64.025,
+     423.377,
+     547.3399969999998,
+     434.377
+    ],
+    [
+     64.025,
+     435.97700000000003,
+     163.80599999999998,
+     446.97700000000003
+    ],
+    [
+     42.625,
+     448.577,
+     547.4669979999999,
+     459.577
+    ],
+    [
+     64.025,
+     461.207,
+     547.471997,
+     472.207
+    ],
+    [
+     64.025,
+     474.007,
+     547.220009,
+     485.007
+    ],
+    [
+     64.025,
+     486.607,
+     547.3379950000001,
+     497.607
+    ],
+    [
+     64.025,
+     499.207,
+     124.01900000000002,
+     510.207
+    ],
+    [
+     42.625,
+     511.807,
+     547.0419969999997,
+     522.807
+    ],
+    [
+     64.025,
+     524.607,
+     546.914,
+     535.607
+    ],
+    [
+     64.025,
+     537.2070000000001,
+     446.29099399999996,
+     548.207
+    ],
+    [
+     42.625,
+     549.807,
+     547.118001,
+     560.84
+    ],
+    [
+     64.025,
+     562.427,
+     546.6279999999997,
+     573.427
+    ],
+    [
+     64.025,
+     575.2270000000001,
+     314.04400000000004,
+     586.227
+    ],
+    [
+     42.625,
+     587.827,
+     547.2319939999999,
+     598.827
+    ],
+    [
+     64.025,
+     600.427,
+     547.496,
+     611.427
+    ],
+    [
+     64.025,
+     613.027,
+     238.12200000000004,
+     624.027
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q050_p27.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q051",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 51,
+  "area": "",
+  "texto_base_id": "P4232-T8",
+  "textos_base_ids": [
+   "P4232-T8"
+  ],
+  "enunciado": "Leia o texto a seguir:\n\nAnalisar uma sociedade a partir de um modelo de estratificação social permite averiguar “fotograficamente” como os recursos sociais disputados estão distribuídos. Esse modo de captar uma dada realidade favorece o conhecimento das desigualdades estruturadas num determinado momento histórico.\n\nComplementarmente, os estudos sobre mobilidade social favorecem uma análise “cinematográfica” da distribuição e apropriação dos recursos sociais, ou seja, favorecem a análise dos deslocamentos de indivíduos e grupos sociais ao longo do tempo.\n\n{{fonte:1}}\n\nNo mundo globalizado capitalista, a organização política e econômica influencia o deslocamento das pessoas no/a",
+  "fontes": [
+   "GEHLEN, Ivaldo; MOCELIN, Daniel Gustavo. **Organização Social e**  \n**Movimentos sociais rurais**. Porto Alegre: Editora da UFRGS, 2009, p. 26."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "sistema de subjetivação."
+   },
+   {
+    "letra": "B",
+    "texto": "estrato elitizado tecnocrático."
+   },
+   {
+    "letra": "C",
+    "texto": "posição política partidária."
+   },
+   {
+    "letra": "D",
+    "texto": "sistema de classes e status."
+   },
+   {
+    "letra": "E",
+    "texto": "prática da assistência social."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   28
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.625,
+     80.49700000000007,
+     165.617,
+     91.49700000000007
+    ],
+    [
+     78.025,
+     108.10700000000008,
+     547.3279989999999,
+     119.10700000000008
+    ],
+    [
+     42.625,
+     120.74000000000001,
+     546.491,
+     131.74
+    ],
+    [
+     42.625,
+     133.49700000000007,
+     546.766,
+     144.49700000000007
+    ],
+    [
+     42.625,
+     146.10700000000008,
+     86.62500000000001,
+     157.10700000000008
+    ],
+    [
+     78.025,
+     158.7270000000001,
+     546.751005,
+     169.7270000000001
+    ],
+    [
+     42.625,
+     171.36,
+     546.634,
+     182.36
+    ],
+    [
+     42.625,
+     184.12700000000007,
+     364.16599999999994,
+     195.12700000000007
+    ],
+    [
+     303.9,
+     201.90599999999995,
+     547.358,
+     209.90599999999995
+    ],
+    [
+     280.1,
+     211.106,
+     547.056,
+     219.106
+    ],
+    [
+     42.625,
+     240.3270000000001,
+     547.329002,
+     251.3270000000001
+    ],
+    [
+     42.625,
+     253.15700000000004,
+     108.086,
+     264.15700000000004
+    ],
+    [
+     42.625,
+     272.557,
+     181.163,
+     283.557
+    ],
+    [
+     42.625,
+     285.357,
+     202.954,
+     296.357
+    ],
+    [
+     42.625,
+     297.957,
+     188.14799999999997,
+     308.957
+    ],
+    [
+     42.625,
+     310.557,
+     198.34499999999997,
+     321.557
+    ],
+    [
+     42.625,
+     323.157,
+     200.538004,
+     334.157
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q051_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q052",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 52,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise a seguinte tirinha:\n\n{{img:1}}\n\n{{fonte:1}}\n\nEla faz uma crítica aos meios de comunicação de massa empregados pela indústria cultural que valoriza a",
+  "fontes": [
+   "Disponível em: <<https:evolucaosertaneja.files.wordpress.com>>. Acesso em: 06 jul. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "produção humana material e simbólica."
+   },
+   {
+    "letra": "B",
+    "texto": "subordinação alienante dos indivíduos."
+   },
+   {
+    "letra": "C",
+    "texto": "reprodução dos rituais religiosos."
+   },
+   {
+    "letra": "D",
+    "texto": "diminuição da desigualdade social."
+   },
+   {
+    "letra": "E",
+    "texto": "formação crítica dos sujeitos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q052_img1.png",
+    "pagina": 28,
+    "bbox": [
+     95.8,
+     391.8,
+     493.9,
+     534.4
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   28
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.625,
+     363.577,
+     192.588002,
+     374.577
+    ],
+    [
+     95.77499,
+     391.82000000000005,
+     493.93499,
+     534.42001
+    ],
+    [
+     132.05,
+     535.376,
+     455.08178000000004,
+     543.376
+    ],
+    [
+     42.625,
+     561.427,
+     546.7930049999999,
+     572.427
+    ],
+    [
+     42.625,
+     574.027,
+     89.507,
+     585.027
+    ],
+    [
+     42.625,
+     593.627,
+     252.50900000000001,
+     604.627
+    ],
+    [
+     42.625,
+     606.2270000000001,
+     250.89200000000005,
+     617.227
+    ],
+    [
+     42.625,
+     618.827,
+     222.116,
+     629.827
+    ],
+    [
+     42.625,
+     631.427,
+     231.03700000000003,
+     642.427
+    ],
+    [
+     42.625,
+     644.2270000000001,
+     202.95399999999998,
+     655.227
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q052_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q053",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 53,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o seguinte trecho:\n\nÉ pela mobilização da sociedade civil organizada que se poderá pensar numa conquista de direitos, e não de privilégios, o que representará a ressignificação das relações público-privado, que levarão à superação do padrão oligárquico, autoritário e patrimonialista, que têm marcado a cultura brasileira. A existência dos movimentos sociais não conservadores pode favorecer a emergência de uma ideia de cidadania como um direito a ter direitos, que se conquista de baixo para cima e transforma as relações sociais, estabelecendo um padrão de sociabilidade que rompe com o autoritarismo.\n\n{{fonte:1}}\n\nObtendo sucesso e adesão de um grande número de pessoas, as mobilizações populares substituem (ou reorientam) o líder carismático por uma liderança profissional permitindo ao movimento uma",
+  "fontes": [
+   "MIRANDA, Ana Paula Mendes de. Movimentos sociais, a construção de sujeitos de direitos e a busca por democratização do Estado. **Lex Humana,** Petrópolis, n. 1, p. 218-237, 2009."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "agitação."
+   },
+   {
+    "letra": "B",
+    "texto": "excitação."
+   },
+   {
+    "letra": "C",
+    "texto": "substancialização."
+   },
+   {
+    "letra": "D",
+    "texto": "institucionalização."
+   },
+   {
+    "letra": "E",
+    "texto": "rivalidade."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.625,
+     58.70700000000011,
+     178.308,
+     69.70700000000011
+    ],
+    [
+     64.025,
+     79.30700000000002,
+     546.7489999999999,
+     90.30700000000002
+    ],
+    [
+     42.625,
+     92.10700000000008,
+     547.389997,
+     103.10700000000008
+    ],
+    [
+     42.625,
+     104.70700000000011,
+     546.7109999999998,
+     115.70700000000011
+    ],
+    [
+     42.625,
+     117.30700000000002,
+     546.7330000000002,
+     128.30700000000002
+    ],
+    [
+     42.625,
+     129.90700000000004,
+     547.0870019999998,
+     140.90700000000004
+    ],
+    [
+     42.625,
+     142.7070000000001,
+     546.8100000000001,
+     153.7070000000001
+    ],
+    [
+     42.625,
+     155.3270000000001,
+     109.41700000000002,
+     166.3270000000001
+    ],
+    [
+     102.62,
+     167.30599999999993,
+     547.3579999999996,
+     175.30599999999993
+    ],
+    [
+     345.5,
+     176.50599999999997,
+     547.2000000000002,
+     184.50599999999997
+    ],
+    [
+     42.625,
+     198.92700000000002,
+     546.5240000000001,
+     209.92700000000002
+    ],
+    [
+     42.625,
+     211.7270000000001,
+     510.5319999999998,
+     222.7270000000001
+    ],
+    [
+     42.625,
+     233.52700000000004,
+     103.23899300000001,
+     244.52700000000004
+    ],
+    [
+     42.625,
+     246.12700000000007,
+     108.23299300000001,
+     257.12700000000007
+    ],
+    [
+     42.625,
+     258.74700000000007,
+     147.90800199999998,
+     269.747
+    ],
+    [
+     42.625,
+     271.557,
+     151.010992,
+     282.557
+    ],
+    [
+     42.625,
+     284.157,
+     108.815993,
+     295.157
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q053_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q054",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 54,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\n{{fonte:1}}\n\nAnalise a imagem a seguir:",
+  "fontes": [
+   "Disponível em: http://morrodababilonia.blogspot.com/2011/05/aula-de-historia-ii.html. Acesso em: 05 ago. 2020."
+  ],
+  "alternativas": [],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q054_img1.png",
+    "pagina": 29,
+    "bbox": [
+     42.5,
+     338.9,
+     286.9,
+     536.2
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.625,
+     322.157,
+     199.17498900000004,
+     333.157
+    ],
+    [
+     42.55,
+     338.9200000000001,
+     286.90001,
+     536.1500000000001
+    ],
+    [
+     133.05,
+     537.186,
+     185.834,
+     545.186
+    ],
+    [
+     48.025,
+     546.376,
+     270.744,
+     554.376
+    ],
+    [
+     99.225,
+     555.586,
+     217.40437,
+     563.586
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "0 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q054_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q055",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 55,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o trecho a seguir:\n\nEla indica um processo cultural  \ncaracterizado pela/o",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "fusão de dois rituais distintos."
+   },
+   {
+    "letra": "B",
+    "texto": "rejeição de traços culturais."
+   },
+   {
+    "letra": "C",
+    "texto": "uso de linguagem gramatical particular."
+   },
+   {
+    "letra": "D",
+    "texto": "aprendizagem de uma cultura desde a infância."
+   },
+   {
+    "letra": "E",
+    "texto": "ajuste e conformidade de padrões culturais."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.625,
+     588.427,
+     178.38199999999998,
+     599.427
+    ],
+    [
+     318.7,
+     379.577,
+     532.546,
+     390.577
+    ],
+    [
+     318.7,
+     392.177,
+     417.63600199999996,
+     403.177
+    ],
+    [
+     318.7,
+     420.97700000000003,
+     480.95600199999996,
+     431.97700000000003
+    ],
+    [
+     318.7,
+     433.577,
+     470.4269999999999,
+     444.577
+    ],
+    [
+     318.7,
+     446.35717500000004,
+     528.3365830749999,
+     457.382175
+    ],
+    [
+     318.7,
+     459.007,
+     532.506,
+     470.007
+    ],
+    [
+     336.7,
+     471.607,
+     377.52099999999996,
+     482.607
+    ],
+    [
+     318.7,
+     484.207,
+     532.3900000000001,
+     495.207
+    ],
+    [
+     336.7,
+     497.007,
+     380.513,
+     508.007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q055_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q056",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 56,
+  "area": "",
+  "texto_base_id": "P4232-T9",
+  "textos_base_ids": [
+   "P4232-T9"
+  ],
+  "enunciado": "Observe a seguinte imagem:\n\n{{img:1}}\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nOs Movimentos de Cultura Popular pernambucanos utilizaram as cenas retratadas por esse estilo artístico como pauta de mobilização e luta, questionando a",
+  "fontes": [
+   "BORGES, J. **Trabalhadores rurais.** Papel sulfite, 66 cm x 48 cm.",
+   "Disponível em: https://cestariasregio.com.br/. Acesso em: 06 ago. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "pouca atenção das políticas públicas em benefício dos ricos."
+   },
+   {
+    "letra": "B",
+    "texto": "mobilização em prol de reformas nas políticas públicas para as artes."
+   },
+   {
+    "letra": "C",
+    "texto": "ação de grupos de intelectuais na proteção da cultura do povo."
+   },
+   {
+    "letra": "D",
+    "texto": "ausência de assistência da população socialmente invisível às políticas públicas."
+   },
+   {
+    "letra": "E",
+    "texto": "criação de praças de cultura na cidade."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q056_img1.png",
+    "pagina": 30,
+    "bbox": [
+     171.9,
+     167.6,
+     417.9,
+     331.9
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   30
+  ],
+  "caixas": {
+   "30": [
+    [
+     42.625,
+     156.52700000000004,
+     207.55699999999996,
+     167.52700000000004
+    ],
+    [
+     171.85001,
+     167.58999000000006,
+     417.89,
+     331.92
+    ],
+    [
+     178.25,
+     333.73600000000005,
+     411.65200000000004,
+     341.73600000000005
+    ],
+    [
+     166.25,
+     342.93600000000004,
+     420.05874,
+     350.93600000000004
+    ],
+    [
+     42.625,
+     366.577,
+     546.6230000000003,
+     377.577
+    ],
+    [
+     42.625,
+     379.177,
+     329.4390000000001,
+     390.177
+    ],
+    [
+     42.625,
+     404.577,
+     356.5110130000001,
+     415.577
+    ],
+    [
+     42.625,
+     417.177,
+     397.96200500000003,
+     428.177
+    ],
+    [
+     42.625,
+     429.777,
+     367.437,
+     440.777
+    ],
+    [
+     42.625,
+     442.577,
+     455.07799800000004,
+     453.577
+    ],
+    [
+     42.625,
+     455.177,
+     252.69600500000007,
+     466.177
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q056_p30.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q057",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 57,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\nA escola é um lugar institucional de educação para a cidadania, de uma importância cívica fundamental, não como uma antecâmara para a vida em sociedade, mas constituindo os primeiros degraus de uma caminhada, que a família e a comunidade se enquadram. Deve proporcionar a “cultura do outro” como “necessidade de compreensão de singularidades e diferenças”, a responsabilidade pessoal e comunitária, o conhecimento rigoroso e metódico da vida e das coisas e a compreensão de culturas, de nações, do mundo. A escola fornece um horizonte mais amplo no qual a criança ou o jovem inscrevem as suas vidas.\n\n{{fonte:1}}\n\nA educação como instituição social funciona sociologicamente como um agente de mudanças e de",
+  "fontes": [
+   "ASSIS, G. J.; LIMA, E. E. **Escola, família e sociedade:** diferentes espaços na construção da cidadania. Disponível em: https://educere.bruc.com.br. Acesso em: 06 ago., 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "responsabilização."
+   },
+   {
+    "letra": "B",
+    "texto": "nepotismo."
+   },
+   {
+    "letra": "C",
+    "texto": "compaixão."
+   },
+   {
+    "letra": "D",
+    "texto": "jurisprudência."
+   },
+   {
+    "letra": "E",
+    "texto": "comunicação."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   30
+  ],
+  "caixas": {
+   "30": [
+    [
+     42.625,
+     488.607,
+     166.017,
+     499.607
+    ],
+    [
+     78.025,
+     513.807,
+     546.8229999999998,
+     524.807
+    ],
+    [
+     42.625,
+     526.407,
+     547.0900159999999,
+     537.407
+    ],
+    [
+     42.625,
+     539.2070000000001,
+     546.733,
+     550.207
+    ],
+    [
+     42.625,
+     551.84,
+     546.6670000000001,
+     562.84
+    ],
+    [
+     42.625,
+     564.427,
+     546.871996,
+     575.427
+    ],
+    [
+     42.625,
+     577.027,
+     546.5019999999997,
+     588.027
+    ],
+    [
+     42.625,
+     589.827,
+     260.85400000000004,
+     600.827
+    ],
+    [
+     68.825,
+     601.813,
+     547.247,
+     610.813
+    ],
+    [
+     325.5,
+     612.413,
+     547.2819999999999,
+     621.413
+    ],
+    [
+     42.625,
+     633.427,
+     525.2300019999999,
+     644.427
+    ],
+    [
+     42.625,
+     658.827,
+     151.79300499999997,
+     669.827
+    ],
+    [
+     42.625,
+     671.452,
+     114.63500500000002,
+     682.452
+    ],
+    [
+     42.625,
+     684.052,
+     116.82400000000001,
+     695.052
+    ],
+    [
+     42.625,
+     696.652,
+     132.19100499999996,
+     707.652
+    ],
+    [
+     42.625,
+     709.4590000000001,
+     128.98600000000002,
+     721.4590000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q057_p30.jpg"
+  ]
+ },
+ {
+  "id": "P4232-Q058",
+  "prova_id": "P4232",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 58,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise a seguinte imagem:\n\n{{img:1}}\n\n{{fonte:1}}\n\nA educação prepara as gerações mais novas para o desenvolvimento de suas atividades ao longo da vida em grupo e, na imagem, a transmissão do conhecimento é classificada como",
+  "fontes": [
+   "Cesto Baré, Arte indígena Kauar. Disponível em: https://www.kauar.com.br/. Acesso em: 06 ago. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "pragmática."
+   },
+   {
+    "letra": "B",
+    "texto": "formal."
+   },
+   {
+    "letra": "C",
+    "texto": "difusa."
+   },
+   {
+    "letra": "D",
+    "texto": "sistemática."
+   },
+   {
+    "letra": "E",
+    "texto": "acadêmica."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q058_img1.png",
+    "pagina": 31,
+    "bbox": [
+     168.5,
+     82.1,
+     421.2,
+     284.4
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   31
+  ],
+  "caixas": {
+   "31": [
+    [
+     42.625,
+     58.70700000000011,
+     199.36899999999997,
+     69.70700000000011
+    ],
+    [
+     168.48000000000002,
+     82.08,
+     421.2,
+     284.40000000000003
+    ],
+    [
+     143.05,
+     286.14300000000003,
+     446.85200000000003,
+     295.14300000000003
+    ],
+    [
+     241.48,
+     296.543,
+     346.18374,
+     305.543
+    ],
+    [
+     42.625,
+     318.757,
+     546.6009999999999,
+     329.757
+    ],
+    [
+     42.625,
+     331.357,
+     442.547985,
+     342.357
+    ],
+    [
+     42.625,
+     356.777,
+     118.023005,
+     367.777
+    ],
+    [
+     42.625,
+     369.377,
+     94.263005,
+     380.377
+    ],
+    [
+     42.625,
+     381.97700000000003,
+     93.05300000000001,
+     392.97700000000003
+    ],
+    [
+     42.625,
+     394.577,
+     118.617005,
+     405.577
+    ],
+    [
+     42.625,
+     407.377,
+     117.02200500000001,
+     418.377
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2021/CADERNO-DE-PROVAS-3FASE-2DIA.pdf",
+  "gabarito_origem": [
+   "P4234"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q058_p31.jpg"
+  ]
+ }
+]

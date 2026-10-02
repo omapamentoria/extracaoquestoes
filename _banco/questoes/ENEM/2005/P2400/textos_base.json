@@ -1,0 +1,501 @@
+[
+ {
+  "id": "P2400-T1",
+  "texto": "**As questões 1 e 2 referem-se ao poema.**\n\n*A DANÇA E A ALMA*\n\n*A DANÇA? Não é movimento,*  \n*súbito gesto musical.*  \n*É concentração, num momento,*  \n*da humana graça natural.*\n\n*No solo não, no éter pairamos,*  \n*nele amaríamos ficar.*  \n*A dança – não vento nos ramos:*  \n*seiva, força, perene estar.*\n\n(Carlos Drummond de Andrade. *Obra completa*. Rio",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     39.71991600000001,
+     91.81414799999993,
+     230.2742639999999,
+     101.83414800000003
+    ],
+    [
+     110.63947200000001,
+     109.03451999999993,
+     203.96875799999998,
+     119.05452000000002
+    ],
+    [
+     110.34,
+     127.45391999999993,
+     244.25429400000002,
+     137.47392000000002
+    ],
+    [
+     110.34,
+     138.97391399999992,
+     203.77349400000003,
+     148.99391400000002
+    ],
+    [
+     110.34,
+     150.43378799999994,
+     252.06688799999998,
+     160.45378800000003
+    ],
+    [
+     110.34,
+     161.95378199999993,
+     224.318502,
+     171.97378200000003
+    ],
+    [
+     110.34,
+     180.37392,
+     247.00979399999997,
+     190.3939200000001
+    ],
+    [
+     110.34,
+     191.833794,
+     206.54202,
+     201.8537940000001
+    ],
+    [
+     110.34,
+     203.353788,
+     254.29633799999993,
+     213.3737880000001
+    ],
+    [
+     110.34,
+     214.873782,
+     226.014888,
+     224.8937820000001
+    ],
+    [
+     110.64,
+     232.02348000000006,
+     295.17909599999996,
+     240.00347999999997
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   1,
+   2
+  ],
+  "questoes": [
+   "P2400-Q001",
+   "P2400-Q002"
+  ],
+  "recortes": [
+   "revisao/T1_p3.jpg"
+  ]
+ },
+ {
+  "id": "P2400-T2",
+  "texto": "**Texto para as questões 17 e 18.**\n\n*Na investigação forense, utiliza-se luminol, uma substância que reage com o ferro presente na hemoglobina do* *sangue, produzindo luz que permite visualizar locais contaminados com pequenas quantidades de sangue, mesmo em* *superfícies lavadas.*\n\n*É proposto que, na reação do luminol (I) em meio alcalino, na presença de peróxido de hidrogênio (II) e de um metal* *de transição (M<sup>n+</sup>), forma-se o composto 3-amino ftalato (III) que sofre uma relaxação dando origem ao produto final* *da reação (IV), com liberação de energia (h*ν*) e de gás nitrogênio (N<sub>2</sub>).*\n\no\n\n{{fonte:1}}\n\n{{img:1}}\n\nDados: pesos moleculares: Luminol = 177  \n3-amino ftalato = 164",
+  "fontes": [
+   "(Adaptado. *Química Nova*, 25, n 6, 2002. pp. 1003-1011.)"
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T2_img1.png",
+    "pagina": 8,
+    "bbox": [
+     134.8,
+     444.1,
+     464.4,
+     521.5
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     39.72,
+     339.73392,
+     189.78753600000002,
+     349.75392
+    ],
+    [
+     39.72,
+     356.95392,
+     532.6468859999999,
+     366.97391999999996
+    ],
+    [
+     39.71999999999997,
+     368.473914,
+     566.5154879999997,
+     378.49391399999996
+    ],
+    [
+     39.71999999999994,
+     379.993908,
+     128.16152999999997,
+     390.01390799999996
+    ],
+    [
+     39.71999999999994,
+     391.453782,
+     556.1147279999997,
+     401.47378199999997
+    ],
+    [
+     39.71999999999997,
+     402.973776,
+     554.1584879999999,
+     412.99392
+    ],
+    [
+     39.719663999999966,
+     415.09392,
+     352.861218,
+     425.19408000000004
+    ],
+    [
+     474.42,
+     427.23048,
+     477.18888000000004,
+     432.21047999999996
+    ],
+    [
+     360.181632,
+     428.88348,
+     566.997294,
+     436.86348000000004
+    ],
+    [
+     134.76,
+     444.07392,
+     464.3778828,
+     521.4597
+    ],
+    [
+     39.720245999999975,
+     523.8142640000001,
+     230.444934,
+     533.8342640000001
+    ],
+    [
+     167.34197999999998,
+     535.274138,
+     261.66023999999976,
+     545.294138
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   17,
+   18
+  ],
+  "questoes": [
+   "P2400-Q017",
+   "P2400-Q018"
+  ],
+  "recortes": [
+   "revisao/T2_p8.jpg"
+  ]
+ },
+ {
+  "id": "P2400-T3",
+  "texto": "**Texto para as questões 20 e 21.**\n\nCândido Portinari (1903-1962), um dos mais importantes artistas brasileiros do século XX, tratou de diferentes aspectos da nossa realidade em seus quadros.\n\n{{img:1}}\n\nSobre a temática dos “Retirantes”, Portinari também escreveu o seguinte poema:\n\n(....)  \nOs retirantes vêm vindo com trouxas e embrulhos  \nVêm das terras secas e escuras; pedregulhos  \nDoloridos como fagulhas de carvão aceso\n\nCorpos disformes, uns panos sujos,  \nRasgados e sem cor, dependurados  \nHomens de enorme ventre bojudo Mulheres com trouxas caídas para o lado\n\nPançudas, carregando ao colo um garoto Choramingando, remelento  \n(....)\n\n{{fonte:1}}",
+  "fontes": [
+   "(Cândido Portinari. *Poemas*. Rio de Janeiro: J. Olympio, 1964.)"
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T3_img1.png",
+    "pagina": 9,
+    "bbox": [
+     61.9,
+     280.8,
+     537.1,
+     410.8
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     39.720305999999994,
+     236.71391399999993,
+     189.787842,
+     246.73391400000003
+    ],
+    [
+     39.720305999999994,
+     259.69378199999994,
+     567.1881359999999,
+     269.71378200000004
+    ],
+    [
+     39.720305999999994,
+     271.15365599999996,
+     249.23249399999995,
+     281.17365600000005
+    ],
+    [
+     61.92,
+     280.8,
+     537.12,
+     410.7987
+    ],
+    [
+     39.72,
+     418.03392,
+     399.37086600000004,
+     428.05392
+    ],
+    [
+     39.72,
+     435.31392,
+     57.49548,
+     445.33392
+    ],
+    [
+     39.72,
+     446.773794,
+     260.37142199999994,
+     456.793794
+    ],
+    [
+     39.72,
+     458.293788,
+     243.13702199999997,
+     468.313788
+    ],
+    [
+     39.72,
+     469.753662,
+     225.90963600000003,
+     479.773662
+    ],
+    [
+     39.72,
+     487.03382,
+     198.66325200000003,
+     497.05382
+    ],
+    [
+     39.72,
+     498.553814,
+     200.96885399999996,
+     508.57381399999997
+    ],
+    [
+     298.32016799999997,
+     435.313586,
+     449.4598439999999,
+     445.33358599999997
+    ],
+    [
+     298.32016799999997,
+     446.77346,
+     481.6951860000001,
+     456.79346
+    ],
+    [
+     298.32016799999997,
+     469.753328,
+     481.7312579999998,
+     479.773328
+    ],
+    [
+     298.32016799999997,
+     481.273322,
+     419.51707799999997,
+     491.293322
+    ],
+    [
+     298.32016799999997,
+     492.793316,
+     316.095648,
+     502.813316
+    ],
+    [
+     124.8,
+     515.7634800000001,
+     348.36209399999996,
+     523.7434800000001
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   20,
+   21
+  ],
+  "questoes": [
+   "P2400-Q020",
+   "P2400-Q021"
+  ],
+  "recortes": [
+   "revisao/T3_p9.jpg"
+  ]
+ },
+ {
+  "id": "P2400-T4",
+  "texto": "**Leia estes poemas.**\n\n**Texto 1 - Auto-retrato**\n\nProvinciano que nunca soube  \nEscolher bem uma gravata;\n\nPernambucano a quem repugna\n\nA faca do pernambucano;\n\nPoeta ruim que na arte da prosa\n\nEnvelheceu na infância da arte,\n\nE até mesmo escrevendo crônicas\n\nFicou cronista de província;  \nArquiteto falhado, músico  \nFalhado (engoliu um dia  \nUm piano, mas o teclado\n\nFicou de fora); sem família,\n\nReligião ou filosofia;  \nMal tendo a inquietação de espírito\n\nQue vem do sobrenatural,  \nE em matéria de profissão  \nUm tísico* profissional.\n\n{{fonte:1}}",
+  "fontes": [
+   "(Manuel Bandeira. *Poesia completa e prosa*. Rio de Janeiro: Aguilar, 1983. p. 395*.*) (*) tísico=tuberculoso"
+  ],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     39.72,
+     41.01869999999997,
+     122.23649999999996,
+     50.01869999999997
+    ],
+    [
+     56.7003,
+     61.7186999999999,
+     148.14749999999995,
+     70.7186999999999
+    ],
+    [
+     74.7,
+     83.71379400000001,
+     206.49706799999998,
+     93.7337940000001
+    ],
+    [
+     74.7,
+     95.233788,
+     197.01814800000002,
+     105.2537880000001
+    ],
+    [
+     74.7,
+     106.753782,
+     218.14732199999992,
+     116.7737820000001
+    ],
+    [
+     74.7,
+     118.21365600000001,
+     189.22358999999997,
+     128.2336560000001
+    ],
+    [
+     74.7,
+     129.73365,
+     218.114256,
+     139.7536500000001
+    ],
+    [
+     74.7,
+     141.253644,
+     214.77659400000007,
+     151.2736440000001
+    ],
+    [
+     74.7,
+     158.4739199999999,
+     228.15429599999993,
+     168.49392
+    ],
+    [
+     74.7,
+     169.9939139999999,
+     196.95702599999996,
+     180.013914
+    ],
+    [
+     74.7,
+     181.45378799999992,
+     187.608366,
+     191.473788
+    ],
+    [
+     74.7,
+     192.97378199999991,
+     181.98514200000005,
+     202.993782
+    ],
+    [
+     74.7,
+     204.4937759999999,
+     185.38593,
+     214.513776
+    ],
+    [
+     74.7,
+     221.71391999999992,
+     195.82276199999995,
+     231.73392
+    ],
+    [
+     74.7,
+     233.2339139999999,
+     164.27278799999996,
+     243.253914
+    ],
+    [
+     74.7,
+     244.69378799999993,
+     230.32763400000005,
+     254.71378800000002
+    ],
+    [
+     74.7,
+     256.2137819999999,
+     190.308756,
+     266.233782
+    ],
+    [
+     74.7,
+     267.7337759999999,
+     191.404944,
+     277.753776
+    ],
+    [
+     74.7,
+     279.19364999999993,
+     176.45911200000006,
+     289.21365000000003
+    ],
+    [
+     97.32,
+     298.5034800000001,
+     255.11891399999996,
+     306.48348
+    ],
+    [
+     120.42050399999997,
+     307.6836720000001,
+     255.13806599999998,
+     315.663672
+    ],
+    [
+     57.72004799999996,
+     327.2440260000001,
+     133.03847999999996,
+     335.22402600000004
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P2400-Q056",
+   "P2400-Q058"
+  ],
+  "recortes": [
+   "revisao/T4_p22.jpg"
+  ]
+ }
+]

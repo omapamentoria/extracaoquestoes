@@ -1,0 +1,702 @@
+[
+{
+"id": 4993,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Muitos modelos atuais de veículos possuem computador de bordo. Os computadores informam em uma tela diversas variações de grandezas associadas ao desempenho do carro, dentre elas o consumo médio de combustível. Um veículo, de um determinado modelo, pode vir munido de um dos dois tipos de computadores de bordo: • Tipo A: informa a quantidade X de litro de combustível gasto para percorrer 100 quilômetros • Tipo B: informa a quantidade de quilômetro que o veículo é capaz de percorrer com um litro de combustível. Um veículo utiliza o computador do Tipo A, e ao final de uma viagem o condutor viu apresentada na tela a informação “X/100”. Caso o seu veículo utilizasse o computador do Tipo B, o valor informado na tela seria obtido pela operação: || A) X . 100 | B) X/100 | C) 100/X | D) 1/X | E) 1.X"
+},
+{
+"id": 5000,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Na central nuclear de Angra dos Reis, os resíduos produzidos em duas décadas de operações somam quase 446 toneladas de combustível usado, que permanecerá radioativo durante milhares de anos. O Ibama condicionou o início da operação de Angra 3, previsto para 2014, à aprovação de um projeto de depósito definitivo. A Comissão Nacional de Energia Nuclear (CNEN) se comprometeu a apresentar, até 2010, um modelo de depósito para armazenar o lixo radioativo por 500 anos, em vez de milhares de anos. Época , 8 set. 2008 (adaptado). Supondo que a taxa de produção de combustível permaneça constante e que seja necessário certo volume V para o armazenamento das 446 toneladas já produzidas, qual é o volume mínimo aproximado que um depósito deve ter para armazenar o lixo radioativo produzido em 500 anos? || A) 25 V | B) 149 V | C) 1 340 V | D) 11 150 V | E) 14 887 V"
+},
+{
+"id": 5007,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Na última eleição para a presidência de um clube, duas chapas se inscreveram (I e II). Há dois tipos de sócio: patrimoniais e contribuintes. Votos de sócios patrimoniais têm peso 0,6 e de sócios contribuintes têm peso 0,4. A chapa I recebeu 850 votos de sócios patrimoniais e 4 300 de sócios contribuintes; a chapa II recebeu 1 300 votos de sócios patrimoniais e 2 120 de sócios contribuintes. Não houve abstenções, votos em branco ou nulos, e a chapa I foi vencedora. Haverá uma nova eleição para a presidência do clube, com o mesmo número e tipos de sócios, e as mesmas chapas da eleição anterior. Uma consulta feita pela chapa II mostrou que os sócios patrimoniais não mudarão seus votos, e que pode contar com os votos dos sócios contribuintes da última eleição. Assim, para que vença, será necessária uma campanha junto aos sócios contribuintes com o objetivo de que mudem seus votos para a chapa II. || A) 449. | B) 753. | C) 866. | D) 941. | E) 1 091."
+},
+{
+"id": 5026,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "No período de fim de ano, o síndico de um condomínio resolveu colocar, em um poste, uma iluminação natalina em formato de cone, lembrando uma árvore de Natal, conforme as figuras 1 e 2. A árvore deverá ser feita colocando-se mangueiras de iluminação, consideradas segmentos de reta de mesmo comprimento, a partir de um ponto situado a 3 m de altura no poste até um ponto de uma circunferência de fixação, no chão, de tal forma que esta fique dividida em 20 arcos iguais. O poste está fixado no ponto C (centro da circunferência) perpendicularmente ao plano do chão. Para economizar, ele utilizará mangueiras de iluminação aproveitadas de anos anteriores, que juntas totalizaram pouco mais de 100 m de comprimento, dos quais ele decide usar exatamente 100 m e deixar o restante como reserva. Para que ele atinja seu objetivo, o raio, em metro, da circunferência deverá ser de || A) 4,00. | B) 4,87. | C) 5,00. | D) 5,83. | E) 6,26."
+},
+{
+"id": 5034,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Nos livros Harry Potter, um anagrama do nome do personagem \"TOM MARVOLO RIDDLE\" gerou a frase \"I AM LORD VOLDEMORT\". Suponha que Harry quisesse formar todos os anagramas da frase \"I AM POTTER\", de tal forma que as vogais e consoantes aparecessem sempre intercaladas, e sem considerar o espaçamento entre as letras. Nessas condições, o número de anagramas formados é dado por || A) 9! | B) 4! 5! | C) 2 × 4! 5! | D) 9!/2 | E) 4! 5!/2"
+},
+{
+"id": 5062,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "O governador de um estado propõe a ampliação de investimentos em segurança no transporte realizado por meio de trens. Um estudo para um projeto de lei prevê que se tenha a presença de três agentes mulheres, distribuídas entre os 6 vagões de uma composição, de forma que duas dessas agentes não estejam em vagões adjacentes, garantindo assim maior segurança aos usuários. Disponível em: www.sisgraph.com.br. Acesso em: 29 jan. 2015 (adaptado). A expressão que representa a quantidade de maneiras distintas das três agentes serem distribuídas nos vagões é || A) C₄³ + 3! | B) C₆³ | C) C₄³ × 3! | D) A₆³ | E) A₄³ × 3!"
+},
+{
+"id": 5081,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "O proprietário de um apartamento decidiu instalar porcelanato no piso da sala. Essa sala tem formato retangular com 3,2 m de largura e 3,6 m de comprimento. As peças do porcelanato têm formato de um quadrado com lado medindo 80 cm. Esse porcelanato é vendido em dois tipos de caixas, com os preços indicados a seguir. • Caixas do tipo A: 4 unidades de piso, R$ 35,00; • Caixas do tipo B: 3 unidades de piso, R$ 27,00. Na instalação do porcelanato, as peças podem ser recortadas e devem ser assentadas sem espaçamento entre elas, aproveitando-se ao máximo os recortes feitos. A compra que atende às necessidades do proprietário, proporciona a menor sobra de pisos e resulta no menor preço é || A) 5 caixas do tipo A. | B) 1 caixa do tipo A e 4 caixas do tipo B. | C) 3 caixas do tipo A e 2 caixa do tipo B. | D) 5 caixas do tipo A e 1 caixa do tipo B. | E) 6 caixas do tipo B."
+},
+{
+"id": 5092,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "O técnico de um time de basquete pretende aumentar a estatura média de sua equipe de 1,93 m para, no mínimo, 1,99 m. Para tanto, dentre os 15 jogadores que fazem parte de sua equipe, irá substituir os quatro mais baixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m. Para isso, o técnico contratou um novo jogador de 2,02 m. Os outros três jogadores que ele ainda precisa contratar devem satisfazer à sua necessidade de aumentar a média das estaturas da equipe. Ele fixará a média das estaturas para os três jogadores que ainda precisa contratar dentro do critério inicialmente estabelecido. Qual deverá ser a média mínima das estaturas, em metro, que ele deverá fixar para o grupo de três novos jogadores que ainda irá contratar? || A) 1,96 | B) 1,98 | C) 2,05 | D) 2,06 | E) 2,08"
+},
+{
+"id": 5096,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "O Índice de Desenvolvimento da Educação Básica (Ideb), criado para medir a qualidade do aprendizado do ensino básico no Brasil, é calculado a cada dois anos. No seu cálculo são combinados dois indicadores: o aprendizado e o fluxo escolar, obtidos a partir do Censo Escolar e das avaliações oficiais promovidas pelo Inep. O Ideb de uma escola numa dada série escolar pode ser calculado pela expressão Ideb = N × P, em que N é a média da proficiência em língua portuguesa e matemática, obtida a partir do Sistema de Avaliação da Educação Básica (Saeb), […] do ensino fundamental, em 2017, um Ideb diferente daquele que havia apresentado nessa mesma série em 2015, pois o tempo médio de permanência dos alunos no 9º ano do ensino fundamental diminuiu 2%, enquanto a média de proficiência em língua portuguesa e matemática, nessa série, aumentou em 2%. Dessa forma, o Ideb do 9º ano do ensino fundamental dessa escola em 2017, em relação ao calculado em 2015, || A) permaneceu inalterado, pois o aumento e a diminuição de 2% nos dois parâmetros anulam-se. | B) aumentou em 4%, pois o aumento de 2% na média da proficiência soma-se à diminuição de 2% no tempo médio de per | C) diminuiu em 4,04%, pois tanto o decrescimento do tempo médio de permanência dos alunos na série em 2% quanto o | D) aumentou em 4,04%, pois tanto o decrescimento do tempo médio de permanência dos alunos na série em 2% quanto o | E) aumentou em 4,08%, pois houve um acréscimo de 2% num parâmetro que é diretamente proporcional e um decréscimo "
+},
+{
+"id": 5121,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Os tempos gastos por três alunos para resolver um mesmo exercício de matemática foram: 3,25 minutos; 3,4 minutos e 191 segundos. O tempo gasto a mais, em segundo, pelo aluno que concluiu por último a resolução do exercício, em relação ao primeiro que o finalizou, foi igual a || A) 13. | B) 14. | C) 15. | D) 21. | E) 29."
+},
+{
+"id": 5126,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Para aumentar a arrecadação de seu restaurante que cobra por quilograma, o proprietário contratou um cantor e passou a cobrar dos clientes um valor fixo de *couvert* artístico, além do valor da comida. Depois, analisando as planilhas do restaurante, verificou-se em um dia que 30 clientes consumiram um total de 10 kg de comida em um período de 1 hora, sendo que dois desses clientes pagaram R$ 50,00 e R$ 34,00 e consumiram 500 g e 300 g, respectivamente. Qual foi a arrecadação obtida pelo restaurante nesse período de 1 hora, em real? || A) 800,00. | B) 810,00. | C) 820,00. | D) 1 100,00. | E) 2 700,00"
+},
+{
+"id": 5131,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Para sua festa de 17 anos, o aniversariante convidará 132 pessoas. Ele convidará 26 mulheres a mais do que o número de homens. A empresa contratada para realizar a festa cobrará R$ 50,00 por convidado do sexo masculino e R$ 45,00 por convidado do sexo feminino. Quanto esse aniversariante terá que pagar, em real, à empresa contratada, pela quantidade de homens convidados para sua festa? || A) 2 385,00 | B) 2 650,00 | C) 3 300,00 | D) 3 950,00 | E) 5 300,00"
+},
+{
+"id": 5144,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Por muitos anos, o Brasil tem figurado no cenário mundial entre os maiores produtores e exportadores de soja. Entre os anos de 2010 e 2014, houve uma forte tendência de aumento da produtividade, porém, um aspecto dificultou esse avanço: o alto custo do imposto ao produtor associado ao baixo preço de venda do produto. Em média, um produtor gastava R$ 1 200,00 por hectare plantado, e vendia por R$ 50,00 cada saca de 60 kg. Ciente desses valores, um produtor pode, em certo ano, determinar uma relação do lucro L que obteve em função das sacas de 60 kg vendidas. Suponha que ele plantou 10 hectares de soja em sua propriedade, na qual colheu x sacas de 60 kg e todas as sacas foram vendidas. Disponível em: www.cnpso.embrapa.br. Acesso em: 27 fev. 2012 (adaptado). Qual é a expressão que determinou o lucro L em função de x obtido por esse produtor nesse ano? || A) L(x) = 50x – 1 200 | B) L(x) = 50x – 12 000 | C) L(x) = 50x + 12 000 | D) L(x) = 500x – 1 200 | E) L(x) = 1 200x – 500"
+},
+{
+"id": 5150,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "[figura] Pretende-se comprar uma mesa capaz de acomodar 6 pessoas, de modo que, assentadas em torno da mesa, cada pessoa disponha de, pelo menos, 60 cm de espaço livre na borda do tampo da mesa, que deverá ter a menor área possível. Na loja visitada há mesas com tampos nas formas e dimensões especificadas: • Mesa I: hexágono regular, com lados medindo 60 cm; • Mesa II: retângulo, com lados medindo 130 cm e 60 cm; • Mesa III: retângulo, com lados medindo 120 cm e 60 cm; • Mesa IV: quadrado, com lados medindo 60 cm; • Mesa V: triângulo equilátero, com lados medindo 120 cm. A mesa que atende aos critérios especificados é a || A) I. | B) II. | C) III. | D) IV. | E) V."
+},
+{
+"id": 5154,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "[figura] Provedores de conteúdos postam anúncios de empresas em seus *websites*. O provedor A cobra R$ 0,10 por clique feito no anúncio, além do pagamento de uma taxa de contratação de R$ 50,00. O provedor B cobra uma taxa de contratação por anúncio mais atrativa, no valor de R$ 20,00, mais um valor por clique feito no anúncio. Para um anúncio que receberá 100 cliques, o provedor B fixará uma proposta com um valor a ser cobrado por clique, de modo que venha a receber, pelo menos, o mesmo total que receberia o provedor A. O gerente do provedor B deve avaliar os valores por clique a serem fixados. O valor mínimo que o gerente do provedor B deverá escolher é || A) R$ 0,11 | B) R$ 0,14 | C) R$ 0,30 | D) R$ 0,40 | E) R$ 0,41"
+},
+{
+"id": 5166,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Se a tartaruga, a lesma e o caramujo apostassem uma corrida, a lesma chegaria em último lugar, o penúltimo colocado seria o caramujo e a primeira seria a tartaruga. Segundo o biólogo americano Branley Allan Branson, a velocidade “recorde” já registrada em pesquisas, por uma lesma, é de 16,5 centímetros por minuto. Disponível em: http://mundoestranho.abril.com.br. Acesso em: 6 jul. 2015. Para uma reportagem, dispondo das velocidades recordes da tartaruga e do caramujo em metro por segundo, se faz necessário saber o fator de conversão da velocidade recorde da lesma para metro por segundo para divulgar uma comparação. Com base nas informações, o fator de conversão da velocidade recorde da lesma para metro por segundo é || A) 10⁻² × 60⁻² | B) 10⁻² × 60⁻¹ | C) 10⁻² × 60 | D) 10⁻³ × 60⁻¹ | E) 10⁻³ × 60"
+},
+{
+"id": 5183,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Suponha que uma equipe de corrida de automóveis disponha de cinco tipos de pneu (I, II, III, IV, V), em que o fator de eficiência climática EC (índice que fornece o comportamento do pneu em uso, dependendo do clima) é apresentado: • EC do pneu I: com chuva 6, sem chuva 3; • EC do pneu II: com chuva 7, sem chuva −4; • EC do pneu III: com chuva −2, sem chuva 10; • EC do pneu IV: com chuva 2, sem chuva 8; • EC do pneu V: com chuva −6, sem chuva 7. O coeficiente de rendimento climático (CRC) de um pneu é calculado como a soma dos produtos dos fatores de EC, com ou sem chuva, pelas correspondentes probabilidades de se ter tais condições climáticas: ele é utilizado para determinar qual pneu deve ser selecionado para uma dada corrida, escolhendo-se o pneu que apresentar o maior CRC naquele dia. No dia de certa corrida, a probabilidade de chover era de 70% e o chefe da equipe calculou o CRC de cada um dos cinco tipos de pneu. O pneu escolhido foi || A) I. | B) II. | C) III. | D) IV. | E) V."
+},
+{
+"id": 5201,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Três pessoas, X, Y e Z, compraram plantas ornamentais de uma mesma espécie que serão cultivadas em vasos de diferentes tamanhos. O vaso escolhido pela pessoa X tem capacidade de 4 dm 3 . O vaso da pessoa Y tem capacidade de 7 000 cm 3 e o de Z tem capacidade igual a 20 L. Após um tempo do plantio das mudas, um botânico que acompanha o desenvolvimento delas realizou algumas medições e registrou que a planta que está no vaso da pessoa X tem 0,6 m de altura. Já as plantas que estão nos vasos de Y e Z têm, respectivamente, alturas medindo 120 cm e 900 mm. O vaso de maior capacidade e a planta de maior altura são, respectivamente, os de || A) Y e X. | B) Y e Z. | C) Z e X. | D) Z e Y. | E) Z e Z."
+},
+{
+"id": 5207,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Um apostador deve escolher uma entre cinco moedas ao acaso e lançá-la sobre uma mesa, tentando acertar qual resultado (cara ou coroa) sairá na face superior da moeda. Suponha que as cinco moedas que ele pode escolher sejam diferentes: • duas delas têm “cara” nas duas faces; • uma delas tem “coroa” nas duas faces; • duas delas são normais (cara em uma face e coroa na outra). Nesse jogo, qual é a probabilidade de o apostador obter uma face \"cara\" no lado superior da moeda lançada por ele? || A) 1/8 | B) 2/5 | C) 3/5 | D) 3/4 | E) 4/5"
+},
+{
+"id": 5208,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "[figura] Um banho propicia ao indivíduo um momento de conforto e reenergização. Porém, o desperdício de água gera prejuízo para todos. Considere que cada uma das cinco pessoas de uma família toma dois banhos por dia, de 15 minutos cada. Sabe-se que a cada hora de banho são gastos aproximadamente 540 litros de água. Considerando que um mês tem 30 dias, podemos perceber que o consumo de água é bem significativo. A quantidade total de litros de água consumida, nos banhos dessa família, durante um mês, é mais próxima de || A) 1 350. | B) 2 700. | C) 20 250. | D) 20 520. | E) 40 500."
+},
+{
+"id": 5214,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Um determinado campeonato de futebol, composto por 20 times, é disputado no sistema de pontos corridos. Nesse sistema, cada time joga contra todos os demais times em dois turnos, isto é, cada time joga duas partidas com cada um dos outros times, sendo que cada jogo pode terminar empatado ou haver um vencedor. Sabendo-se que, nesse campeonato, ocorreram 126 empates, o número de jogos em que houve ganhador é igual a || A) 64. | B) 74. | C) 254. | D) 274. | E) 634."
+},
+{
+"id": 5221,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Um fazendeiro possui uma cisterna com capacidade de 10 000 litros para coletar a água da chuva. Ele resolveu ampliar a área de captação da água da chuva e consultou um engenheiro que lhe deu a seguinte explicação: “Nesta região, o índice pluviométrico anual médio é de 400 milímetros. Como a área de captação da água da chuva de sua casa é um retângulo de 3 m de largura por 7 m de comprimento, sugiro que aumente essa área para que, em um ano, com esse índice pluviométrico, o senhor consiga encher a cisterna, estando ela inicialmente vazia”. Sabe-se que o índice pluviométrico de um milímetro corresponde a um litro de água por metro quadrado. Considere que as previsões pluviométricas são cumpridas e que não há perda, por nenhum meio, no armazenamento da água. Em quantos metros quadrados, no mínimo, o fazendeiro deve aumentar a área de captação para encher a cisterna em um ano? || A) 1,6 | B) 2,0 | C) 4,0 | D) 15,0 | E) 25,0"
+},
+{
+"id": 5222,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "[figura] Um fazendeiro precisava de 1 L de certo produto fabricado por três indústrias distintas. • A indústria I comercializa o produto em embalagens de 250 mL por R$ 23,00 cada. • A indústria II comercializa o produto em embalagens de 8 fl oz (onça fluida) por R$ 18,50 cada. • Aindústria III comercializa o produto em embalagens de 1 L por R$ 93,00 cada. O fazendeiro conseguiu adquirir a quantidade necessária do produto de que precisava, de uma única indústria, gastando o menor valor possível nessa compra. Considere que 1 L seja equivalente a 33,81 fl oz. Nessas condições, a quantidade de embalagens e a respectiva indústria onde a compra foi realizada foram || A) quatro da indústria I. | B) cinco da indústria I. | C) quatro da indústria II. | D) cinco da indústria II. | E) uma da indústria III."
+},
+{
+"id": 5224,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Um hotel de 3 andares está sendo construído. Cada andar terá 100 quartos. Os quartos serão numerados de 100 a 399 e cada um terá seu número afixado à porta. Cada número será composto por peças individuais, cada uma simbolizando um único algarismo. Qual a quantidade mínima de peças, simbolizando o algarismo 2, necessárias para identificar o número de todos os quartos? || A) 160 | B) 157 | C) 130 | D) 120 | E) 60"
+},
+{
+"id": 5225,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Um imposto é dito cumulativo se incide em duas ou mais etapas da circulação de mercadorias, sem que na etapa posterior possa ser abatido o montante pago na etapa anterior. PIS e Cofins são exemplos de impostos cumulativos e correspondem a um percentual total de 3,65%, que incide em cada etapa da comercialização de um produto. Considere um produto com preço inicial C. Suponha que ele é revendido para uma loja pelo preço inicial acrescido dos impostos descritos. Em seguida, o produto é revendido por essa loja ao consumidor pelo valor pago acrescido novamente dos mesmos impostos. Disponível em: www.centraltributaria.com.br. Acesso em: 15 jul. 2015 (adaptado). Qual a expressão algébrica que corresponde ao valor pago em impostos pelo consumidor? || A) C × 0,0365 | B) 2C × 0,0365 | C) C × 1,0365² | D) C × (1 + 2 × 0,0365) | E) 2C × 0,0365 + C × 0,0365²"
+},
+{
+"id": 5228,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Um jogo pedagógico é formado por cartas nas quais está impressa uma fração em uma de suas faces. Cada jogador recebe quatro cartas e vence aquele que primeiro consegue ordenar crescentemente suas cartas pelas respectivas frações impressas. O vencedor foi o aluno que recebeu as cartas com as frações: 3/5, 1/4, 2/3 e 5/9. A ordem que esse aluno apresentou foi || A) 1/4; 5/9; 3/5; 2/3 | B) 1/4; 2/3; 3/5; 5/9 | C) 2/3; 1/4; 3/5; 5/9 | D) 5/9; 1/4; 3/5; 5/9 | E) 2/3; 3/5; 1/4; 5/9"
+},
+{
+"id": 5233,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Um modelo de telefone celular oferece a opção de desbloquear a tela usando um padrão de toques como senha. Os toques podem ser feitos livremente nas 4 regiões numeradas da tela, sendo que o usuário pode escolher entre 3, 4 ou 5 toques ao todo. Qual expressão representa o número total de códigos existentes? || A) 4⁵ − 4⁴ − 4³ | B) 4⁵ + 4⁴ + 4³ | C) 4⁵ × 4⁴ × 4³ | D) (4!)⁵ | E) 4⁵"
+},
+{
+"id": 5235,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Um motorista fez uma viagem de 100 km partindo da cidade A até a cidade B. Nos primeiros 30 km, a velocidade média na qual esse motorista viajou foi de 90 km/h. No segundo trecho, de 40 km, a velocidade média foi de 80 km/h. Suponha que a viagem foi realizada em 1 h 30 min. A velocidade média do motorista, em quilômetro por hora, no último trecho da viagem foi de || A) 45. | B) 67. | C) 77. | D) 85. | E) 113."
+},
+{
+"id": 5237,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Um piscicultor cria uma espécie de peixe em um tanque cilíndrico. Devido às características dessa espécie, o tanque deve ter, exatamente, 2 metros de profundidade e ser dimensionado de forma a comportar 5 peixes para cada metro cúbico de água. Atualmente, o tanque comporta um total de 750 peixes. O piscicultor deseja aumentar a capacidade do tanque para que ele comporte 900 peixes, mas sem alterar a sua profundidade. Considere 3 como aproximação para π. O aumento da medida do raio do tanque, em metro, deve ser de || A) √30 − 5 | B) (√30 − 5)/2 | C) √5 | D) 5/2 | E) 15/2"
+},
+{
+"id": 5242,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Um pé de eucalipto em idade adequada para o corte rende, em média, 20 mil folhas de papel A4. A densidade superficial do papel A4, medida pela razão da massa de uma folha desse papel por sua área, é de 75 gramas por metro quadrado, e a área de uma folha de A4 é 0,062 metro quadrado. Disponível em: http://revistagalileu.globo.com. Acesso em: 28 fev. 2013 (adaptado). Nessas condições, quantos quilogramas de papel rende, em média, um pé de eucalipto? || A) 4 301 | B) 1 500 | C) 930 | D) 267 | E) 93"
+},
+{
+"id": 5246,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Uma associação desportiva contratou uma empresa especializada para construir um campo de futebol, em formato retangular, com 250 metros de perímetro. Foi elaborada uma planta para esse campo na escala 1 : 2 000. Na planta, a medida do perímetro do campo de futebol, em metro, é || A) 0,0005. | B) 0,125. | C) 8. | D) 250. | E) 500 000."
+},
+{
+"id": 5262,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Uma loja de materiais de construção vende dois tipos de caixas-d'água: tipo A e tipo B. Ambas têm formato cilíndrico e possuem o mesmo volume, e a altura da caixa-d'água do tipo B é igual a 25% da altura da caixa-d'água do tipo A. Se R denota o raio da caixa-d'água do tipo A, então o raio da caixa-d'água do tipo B é || A) R/2 | B) 2R | C) 4R | D) 5R | E) 16R"
+},
+{
+"id": 5265,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Uma partida de futebol tem dois tempos de 45 minutos cada. A duração do intervalo entre cada tempo é de 15 minutos. Eventualmente, por ocasião de paralisações ocorridas durante um dos tempos (como comemorações de gols, atendimento a jogadores que necessitem de maca), ocorre acréscimo ao tempo de jogo. No Brasil, o segundo tempo é iniciado zerando-se o cronômetro, mas em campeonatos europeus, começa com o cronômetro posicionado em 45 minutos. Em uma partida de um campeonato europeu, um time marcou um gol aos 17 minutos e 45 segundos. A outra equipe empatou o jogo aos 54 minutos e 32 segundos. O tempo do intervalo foi respeitado e houve um acréscimo de 2 minutos ao primeiro tempo do jogo. O tempo transcorrido entre os dois gols foi de || A) 54 minutos e 47 segundos. | B) 53 minutos e 47 segundos. | C) 51 minutos e 47 segundos. | D) 38 minutos e 47 segundos. | E) 36 minutos e 47 segundos."
+},
+{
+"id": 5274,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Uma torneira está gotejando água em um balde com capacidade de 18 litros. No instante atual, o balde se encontra com ocupação de 50% de sua capacidade. A cada segundo caem 5 gotas de água da torneira, e uma gota é formada, em média, por 5 x 10–2 mL de água. Quanto tempo, em hora, será necessário para encher completamente o balde, partindo do instante atual? || A) 2 x 10¹ | B) 1 x 10¹ | C) 2 x 10⁻² | D) 1 x 10⁻² | E) 1 x 10⁻³"
+},
+{
+"id": 5276,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "Usando um computador construído com peças avulsas, o japonês Shigeru Kondo calculou o valor da constante matemática π com precisão de 5 trilhões de dígitos. Com isso, foi quebrado o recorde anterior, de dois trilhões de dígitos, estabelecido pelo francês Fabrice Bellard. Disponível em: www.estadao.com.br. Acesso em: 14 dez. 2012. A quantidade de zeros que segue o algarismo 5 na representação do número de dígitos de π calculado pelo japonês é || A) 3. | B) 6. | C) 9. | D) 12. | E) 15."
+},
+{
+"id": 5289,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "É comum as cooperativas venderem seus produtos a diversos estabelecimentos. Uma cooperativa láctea destinou 4 m 3 de leite, do total produzido, para análise em um laboratório da região, separados igualmente em 4 000 embalagens de mesma capacidade. Qual o volume de leite, em mililitro, contido em cada embalagem? || A) 0,1 | B) 1,0 | C) 10,0 | D) 100,0 | E) 1 000,0"
+},
+{
+"id": 5294,
+"vest": "ENEM",
+"ano": "2020",
+"area": "exatas",
+"texto": "“1, 2, 3, GOL, 5, 6, 7, GOL, 9, 10, 11, GOL, 13, GOL, 15, GOL, 17, 18, 19, GOL, 21, 22, 23, GOL, 25, ...” Para a Copa do Mundo de Futebol de 2014, um bar onde se reuniam amigos para assistir aos jogos criou uma brincadeira. Um dos presentes era escolhido e tinha que dizer, numa sequência em ordem crescente, os números naturais não nulos, trocando os múltiplos de 4 e os números terminados em 4 pela palavra GOL. A brincadeira acabava quando o participante errava um termo da sequência. Um dos participantes conseguiu falar até o número 103, respeitando as regras da brincadeira. O total de vezes em que esse participante disse a palavra GOL foi || A) 20. | B) 28. | C) 30. | D) 35. | E) 40."
+},
+{
+"id": 5328,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "A massa de um tanque de combustível depende: I. da quantidade de combustível nesse tanque; II. do tipo de combustível que se utiliza no momento; III. da massa do tanque quando está vazio. Sabe-se que um tanque tem massa igual a 33 kg quando está cheio de gasolina, 37 kg quando está cheio de etanol e que a densidade da gasolina é sete oitavos da densidade do etanol. Qual é a massa, em quilograma, do tanque vazio? || A) 1,0 | B) 3,5 | C) 4,0 | D) 5,0 | E) 9,0"
+},
+{
+"id": 5339,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "A relação de Newton-Laplace estabelece que o módulo volumétrico de um fluido é diretamente proporcional ao quadrado da velocidade do som (em metro por segundo) no fluido e à sua densidade (em quilograma por metro cúbico), com uma constante de proporcionalidade adimensional. Nessa relação, a unidade de medida adequada para o módulo volumétrico é || A) kg·m⁻²·s⁻¹ | B) kg·m⁻¹·s⁻² | C) kg·m⁻⁵s² | D) kg⁻¹·m¹·s² | E) kg⁻¹·m⁵·s⁻²"
+},
+{
+"id": 5342,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "A senha de um cofre é uma sequência formada por oito dígitos, que são algarismos escolhidos de 0 a 9. Ao inseri-la, o usuário se esqueceu dos dois últimos dígitos que formam essa senha, lembrando somente que esses dígitos são distintos. Digitando ao acaso os dois dígitos esquecidos, a probabilidade de que o usuário acerte a senha na primeira tentativa é || A) 2/8 | B) 1/90 | C) 2/90 | D) 1/100 | E) 2/100"
+},
+{
+"id": 5360,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Aplicativos que gerenciam serviços de hospedagem têm ganhado espaço no Brasil e no mundo por oferecer opções diferenciadas em termos de localização e valores de hospedagem. Em um desses aplicativos, o preço P a ser pago pela hospedagem é calculado considerando um preço por diária d, acrescido de uma taxa fixa de limpeza L e de uma taxa de serviço. Essa taxa de serviço é um valor percentual s calculado sobre o valor pago pelo total das diárias. Nessa situação, o preço a ser pago ao aplicativo para uma hospedagem de n diárias pode ser obtido pela expressão || A) P = d·n + L + d·n·s | B) P = d·n + L + d·s | C) P = d + L + s | D) P = a·d·n·s + L | E) P = d·n + L + s"
+},
+{
+"id": 5392,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Considere que o modelo matemático utilizado no estudo da velocidade V, de uma partícula de um fluido escoando em um tubo, seja diretamente proporcional à diferença dos quadrados do raio R da secção transversal do tubo e da distância x da partícula ao centro da secção que a contém. Isto é, V(x) = K²(R² – x²), em que K é uma constante positiva. O valor de x, em função de R, para que a velocidade de escoamento de uma partícula seja máxima é de || A) 0. | B) R. | C) 2R. | D) KR. | E) K²R²."
+},
+{
+"id": 5416,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Em uma corrida automobilística, os carros podem fazer paradas nos boxes para efetuar trocas de pneus. Nessas trocas, o trabalho é feito por um grupo de três pessoas em cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham à mesma velocidade e cada grupo trabalha em um único pneu. Com os quatro grupos completos, são necessários 4 segundos para que a troca seja efetuada. O tempo gasto por um grupo para trocar um pneu é inversamente proporcional ao número de pessoas trabalhando nele. Em uma dessas paradas, um dos trabalhadores passou mal, não pôde participar da troca e nem foi substituído, de forma que um dos quatro grupos de troca ficou reduzido. Nessa parada específica, com um dos grupos reduzido, qual foi o tempo gasto, em segundo, para trocar os quatro pneus? || A) 6,0 | B) 5,7 | C) 5,0 | D) 4,5 | E) 4,4"
+},
+{
+"id": 5470,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "No rótulo de uma lata com 350 mL de um refrigerante, é possível descobrir que o valor energético é de 85 kcal (quilocalorias) a cada 200 mL de refrigerante. Por recomendação de um nutricionista, um paciente que consumia em sua dieta 2 800 kcal por dia mudou o hábito de consumir o conteúdo de 2 latas desse refrigerante por dia para consumir 2 latas de suco, cujo rótulo indicava um valor energético de 25 kcal por lata. Em relação à sua dieta original, o consumo energético diário do paciente diminuiu, em porcentagem, o valor mais próximo de || A) 2,1 | B) 4,2 | C) 4,4 | D) 8,8 | E) 10,6"
+},
+{
+"id": 5497,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "O dono de uma loja pretende usar cartões imantados para a divulgação de sua loja. A empresa que fornecerá o serviço lhe informa que o custo de fabricação do cartão é de R$ 0,01 por centímetro quadrado e que disponibiliza modelos tendo como faces úteis para impressão: • um triângulo equilátero de lado 12 cm; • um quadrado de lado 8 cm; • um retângulo de lados 11 cm e 8 cm; • um hexágono regular de lado 6 cm; • um círculo de diâmetro 10 cm; O dono da loja está disposto a pagar, no máximo, R$ 0,80 por cartão. Ele escolherá, dentro desse limite de preço, o modelo que tiver maior área de impressão. Use 3 como aproximação para π e use 1,7 como aproximação para √3. Nessas condições, o modelo que deverá ser escolhido tem como face útil para impressão um || A) triângulo. | B) quadrado. | C) retângulo. | D) hexágono. | E) círculo."
+},
+{
+"id": 5507,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "O organizador de uma competição de lançamento de dardos pretende tornar o campeonato mais competitivo. Pelas regras atuais da competição, numa rodada, o Jogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores têm, em cada lançamento, 1/2 de probabilidade de acertar um dardo no alvo. A fim de tornar o jogo mais atrativo, planeja modificar as regras de modo que a probabilidade de um jogador pontuar em uma rodada seja igual ou superior a 9/10 Para isso, decide aumentar a quantidade de dardos a serem lançados em cada rodada. Com base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é || A) 2. | B) 4. | C) 6. | D) 9. | E) 10."
+},
+{
+"id": 5524,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "O sistema de numeração romano ainda é utilizado na indicação de capítulos e volumes de livros, na designação de séculos e, em ordem cronológica, de papas e reis de mesmo nome. São utilizadas sete letras do alfabeto: Quatro fundamentais: I (vale 1); X (vale 10); C (vale 100) e M (vale 1 000). Três secundárias: V (vale 5); L (vale 50) e D (vale 500). As regras para escrever números romanos são: 1. Não existe símbolo correspondente ao zero; 2. Os símbolos fundamentais podem ser repetidos até três vezes e seus valores são adicionados. Exemplo: XXX = 30; 3. Uma letra posta à esquerda de outra de maior valor indica subtração dos respectivos valores. Exemplo: IX = 10 - 1 = 9; 4. Uma letra posta à direita de outra de maior valor indica adição dos respectivos valores. Exemplo: XI = 10 + 1 = 11. Em uma cidade europeia há uma placa indicando o ano de sua fundação: MCDLXIX. Quantos anos de fundação essa cidade comemorará em 2050? || A) 379 | B) 381 | C) 579 | D) 581 | E) 601"
+},
+{
+"id": 5536,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Os diretores de uma escola precisam construir um laboratório para uso dos alunos. Há duas possibilidades: (i) um laboratório do tipo A, com capacidade para 100 usuários, a um custo de 180 mil reais e gastos de 60 mil reais por ano para manutenção; (ii) um laboratório do tipo B, com capacidade para 80 usuários, a um custo de 120 mil reais e gastos com manutenção de 16 mil reais por ano. Considera-se que, em qualquer caso, o laboratório implantado será utilizado na totalidade de sua capacidade. A economia da escola, na utilização de um laboratório tipo B, em vez de um laboratório tipo A, num período de 4 anos, por usuário, será de || A) 1,31 mil reais. | B) 1,90 mil reais. | C) 2,30 mil reais. | D) 2,36 mil reais. | E) 2,95 mil reais."
+},
+{
+"id": 5599,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Um agricultor utilizava toda a área de uma região plana, em formato retangular, com 50 m de largura e 240 m de comprimento, para o plantio de mudas. Seguindo recomendações técnicas, cada muda é plantada no centro de uma pequena região retangular de 10 cm de Mlargura por 20 cm de comprimento. Esse agricultor decidiu ampliar a área destinada ao plantio de mudas, utilizando agora um terreno, também plano, em formato retangular, com 100 m de comprimento por 200 m de largura. As mudas deverão ser plantadas respeitando-se as mesmas recomendações técnicas. Com o aumento da área destinada ao plantio, a quantidade máxima de mudas que poderão ser plantadas a mais é || A) 100 000. | B) 400 000. | C) 600 000. | D) 1 000 000. | E) 1 600 000."
+},
+{
+"id": 5603,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1 L de combustível a cada 20 km percorridos. O valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro, expresso com uma casa decimal, é || A) 15,9. | B) 16,1. | C) 16,4. | D) 17,4. | E) 18,0."
+},
+{
+"id": 5608,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Um ciclista faz um treino para uma prova, em um circuito oval, cujo percurso é de 800 m. Nesse treino, realiza 20 voltas. Ele divide seu treino em 3 etapas. Na primeira etapa, inicializa seu cronômetro e realiza as cinco primeiras voltas com velocidade média de 4m/s. Na segunda etapa, faz mais cinco voltas, mas com velocidade média 25% maior que a da etapa anterior. Na última etapa, finaliza o treino mantendo a velocidade média da primeira etapa. Ao final do treino, o cronômetro estará marcando, em || A) 2 600. | B) 2 800. | C) 3 000. | D) 3 800. | E) 4 000."
+},
+{
+"id": 5610,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Um diretor esportivo organiza um campeonato no qual haverá disputa de times em turno e returno, isto é, cada time jogará duas vezes com todos os outros, totalizando 380 partidas a serem disputadas. A quantidade de times (x) que faz parte desse campeonato pode ser calculada pela equação || A) x = 380 – x² | B) x² – x = 380 | C) x² = 380 | D) 2x – x = 380 | E) 2x = 380"
+},
+{
+"id": 5620,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Um nutricionista verificou, na dieta diária do seu cliente, a falta de 800 mg do mineral A, de 1 000 mg do mineral B e de 1 200 mg do mineral C. Por isso, recomendou a compra de suplementos alimentares que forneçam os minerais faltantes e informou que não haveria problema se consumisse mais desses minerais do que o recomendado. O cliente encontrou cinco suplementos, vendidos em sachês unitários, cujos preços e as quantidades dos minerais estão apresentados a seguir: • Suplemento I: contém 50 mg do mineral A, 100 mg do mineral B e 200 mg do mine […] C e custa R$ 6,00; • Suplemento V: contém 400 mg do mineral A, 800 mg do mineral B e 1 200 mg do mineral C e custa R$ 8,00. O cliente decidiu comprar sachês de um único suplemento no qual gastasse menos dinheiro e ainda suprisse a falta de minerais indicada pelo nutricionista, mesmo que consumisse alguns deles além de sua necessidade. Nessas condições, o cliente deverá comprar sachês do suplemento || A) I. | B) II. | C) III. | D) IV. | E) V."
+},
+{
+"id": 5622,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Um povoado com 100 habitantes está passando por uma situação de seca prolongada e os responsáveis pela administração pública local decidem contratar a construção de um reservatório. Ele deverá ter a forma de um cilindro circular reto, cuja base tenha 5 metros de diâmetro interno, e atender à demanda de água da população por um período de exatamente sete dias consecutivos. No oitavo dia, o reservatório vazio é completamente reabastecido por carros-pipa. Considere que o consumo médio diário por habitante é de 120 litros de água. Use 3 como aproximação para π. Nas condições apresentadas, o reservatório deverá ser construído com uma altura interna mínima, em metro, igual a || A) 1,12. | B) 3,10. | C) 4,35. | D) 4,48. | E) 5,60."
+},
+{
+"id": 5637,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Uma empresa produz painéis solares de energia elétrica, com a forma de retângulo, que geram 5 MWh (megawatts-hora) por metro quadrado. Cada painel tem 3 m de largura e 6 m de comprimento. O selo verde de eficiência é obtido se cada painel solar gerar, no mínimo, 150 MWh de energia solar. Para obter o selo verde, a empresa decide alterar apenas a largura dos seus painéis solares. O número mínimo, em metro, que a empresa deve aumentar na largura dos seus painéis solares é || A) 2. | B) 4. | C) 5. | D) 10. | E) 12."
+},
+{
+"id": 5639,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Uma fórmula para calcular o Índice de Massa Corporal (IMC) foi publicada pelo Departamento de Nutrição da Universidade de São Paulo. O estudo propõe uma equação capaz de identificar os falsos magros que, apesar de exibirem uma silhueta esguia, apresentam altos níveis de gordura, e os falsos gordos, que têm um IMC alto em decorrência de ganho de massa muscular, e não de gordura. A equação considera a massa do indivíduo, além do peso e da estatura. A fórmula é expressa pela soma do triplo da massa (M), em quilograma, com o quádruplo do percentual de gordura (G), tudo dividido pela altura (H), em centímetro. Disponível em: http://drauziovarella.com.br. Acesso em: 27 nov. 2012 (adaptado). A expressão algébrica que se representa a nova maneira de calcular o IMC é dada por: || A) 3M + 4G/H | B) (3M + 4G) / H | C) ((1/3)·M + (1/4)·G) / H | D) 3·((M + 4G) / H) | E) (4·(3M + G)) / H"
+},
+{
+"id": 5655,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Uma unidade de medida comum usada para expressar áreas de terrenos de grandes dimensões é o hectare, que equivale a 10 000 m². Um fazendeiro decide fazer um loteamento utilizando 3 hectares de sua fazenda, dos quais 0,9 hectare será usado para a construção de ruas e calçadas e o restante será dividido em terrenos com área de 300 m² cada um. Os 20 primeiros terrenos vendidos terão preços promocionais de R$ 20 000,00 cada, e os demais, R$ 30 000,00 cada. Nas condições estabelecidas, o valor total, em real, obtido pelo fazendeiro com a venda de todos os terrenos será igual a || A) 700 000. | B) 1 600 000. | C) 1 900 000. | D) 2 200 000. | E) 2 800 000."
+},
+{
+"id": 5794,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "A *World Series* é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam a essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão. Considere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre \\(\\frac{1}{2}\\) . Qual é a probabilidade de o time campeão ser aquele que venceu a primeira partida da *World Series*? || A) \\(\\frac{35}{64}\\) | B) \\(\\frac{40}{64}\\) | C) \\(\\frac{42}{64}\\) | D) \\(\\frac{44}{64}\\) | E) \\(\\frac{52}{64}\\)"
+},
+{
+"id": 5799,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "[figura] A associação de comerciantes varejistas de uma cidade, a fim de incrementar as vendas para o Natal, decidiu promover um fim de semana de descontos e promoções, no qual produtos e serviços estariam com valores reduzidos. Antes do período promocional, um celular custava R$ 300,00 e teve seu preço reajustado, passando a custar R$ 315,00. Durante o fim de semana de descontos e promoções, o preço desse celular recebeu um desconto de 20%. O desconto dado no preço do celular, em porcentagem, com base no valor dele anteriormente ao aumento sofrido antes da promoção, foi de || A) 15,24% | B) 16,00% | C) 19,04% | D) 21,00% | E) 25,00%"
+},
+{
+"id": 5819,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "A luminosidade *L* de uma estrela está relacionada com o raio *R* e com a temperatura *T* dessa estrela segundo a Lei de Stefan-Boltzmann: *L* = *c* ⋅ *R*<sup>2</sup> ⋅ *T*<sup>4</sup>, em que *c* é uma constante igual para todas as estrelas. Considere duas estrelas *E* e *F*, sendo que a estrela *E* tem metade do raio da estrela *F* e o dobro da temperatura de *F*. Indique por *L<sub>E</sub>* e *L<sub>F</sub>* suas respectivas luminosidades. A relação entre as luminosidades dessas duas estrelas é dada por || A) *L<sub>E</sub>* = \\(\\frac{L_{F}}{2}\\) | B) *L<sub>E</sub>* = \\(\\frac{L_{F}}{4}\\) | C) *L<sub>E</sub>* = *L<sub>F</sub>* | D) *L<sub>E</sub>* = 4*L<sub>F</sub>* | E) *L<sub>E</sub>* = 8*L<sub>F</sub>*"
+},
+{
+"id": 5820,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "[figura] A meta de uma concessionária de automóveis é vender, pelo menos, 104 carros por mês. Sabe-se que, em média, em dias em que não são oferecidos descontos, são vendidos 3 carros por dia; em dias em que há o desconto mínimo, são vendidos 4 carros por dia; e, em dias em que há o desconto máximo, são vendidos 5 carros por dia. No mês atual, até o fim do expediente do sexto dia em que a concessionária abriu, não foram oferecidos descontos, tendo sido vendidos 18 carros, conforme indicava a média. Ela ainda abrirá por mais 20 dias neste mês. A menor quantidade de dias em que será necessário oferecer o desconto máximo, de modo que ainda seja possível a concessionária alcançar sua meta de vendas para o mês, é || A) 6. | B) 10. | C) 11. | D) 13. | E) 18."
+},
+{
+"id": 5847,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo que avalia a quantidade de pessoas infectadas a cada mês, ao longo de um ano. O modelo é dado por *p*(*t*) = -*t* + 10*t* + 24, sendo *t* um número 2 natural, variando de 1 a 12, que representa os meses do ano, e *p*(*t*) a quantidade de pessoas infectadas no mês *t* do ano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal de Saúde decidiu intensificar a propaganda oficial sobre os cuidados com a epidemia. Foram apresentadas cinco propostas (I, II, III, IV e V), com diferentes períodos de intensificação das propagandas: • I: 1 ≤ *t* ≤ 2; • II: 3 ≤ *t* ≤ 4; • III: 5 ≤ *t* ≤ 6; • IV: 7 ≤ *t* ≤ 9; • V: 10 ≤ *t* ≤ 12. A sugestão dos peritos é que seja escolhida a proposta cujo período de intensificação da propaganda englobe o mês em que, segundo o modelo, há a maior quantidade de infectados. A sugestão foi aceita. A proposta escolhida foi a || A) I. | B) II. | C) III. | D) IV. | E) V."
+},
+{
+"id": 5848,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos. O número escrito pelo estudante foi || A) 135 000,00. | B) 1 350 000,00. | C) 13 500 000,00. | D) 135 000 000,00. | E) 1 350 000 000,00."
+},
+{
+"id": 5852,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "As bactérias são microrganismos formados por uma única célula. Elas estão presentes em praticamente todos os meios: no ar, na água, no solo ou no interior de outros seres vivos. A forma de reprodução mais comum das bactérias é a assexuada por bipartição*.* Nesse processo, cada uma delas tem seu DNA duplicado e, posteriormente, se divide em duas células bacterianas. De modo geral, em condições favoráveis, esse processo de bipartição se conclui a cada 20 minutos. Considere que, no instante *t* = 0, há uma quantidade *N*<sub>0</sub> de bactérias em um meio favorável à sua reprodução, de modo que nele só se reproduzem por bipartição. A sequência formada pela quantidade de bactérias nesse meio nos instantes 0, 20, 40, 60, 80 e 100 minutos é || A) *N*<sub>0</sub>, *N*<sub>0</sub><sup>2</sup>, *N*<sub>0</sub><sup>3</sup>, *N*<sub>0</sub><sup>4</sup>, *N*<su | B) *N*<sub>0</sub>, *N*<sub>0</sub><sup>2</sup>, *N*<sub>0</sub><sup>4</sup>, *N*<sub>0</sub><sup>8</sup>, *N*<su | C) *N*<sub>0</sub>, 2*N*<sub>0</sub>, 3*N*<sub>0</sub>, 4*N*<sub>0</sub>, 5*N*<sub>0</sub>, 6*N*<sub>0</sub> | D) *N*<sub>0</sub>, 2*N*<sub>0</sub>, 4*N*<sub>0</sub>, 8*N*<sub>0</sub>, 16*N*<sub>0</sub>, 32*N*<sub>0</sub> | E) *N*<sub>0</sub>, 3*N*<sub>0</sub>, 7*N*<sub>0</sub>, 15*N*<sub>0</sub>, 31*N*<sub>0</sub>, 63*N*<sub>0</sub>"
+},
+{
+"id": 5856,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "As hemácias são células sanguíneas responsáveis pelo transporte de uma substância chamada hemoglobina, a qual tem a função de levar oxigênio dos pulmões para os tecidos. Hemácias normais têm diâmetro médio de 7,8 x 10<sup>-</sup><sup>6</sup> metros. O diâmetro médio dessas hemácias, em metros, é representado pela razão \\(\\frac{78}{d}\\) , em que *d* é igual a || A) 10 000. | B) 100 000. | C) 1 000 000. | D) 10 000 000. | E) 100 000 000."
+},
+{
+"id": 5868,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Cada número que identifica uma agência bancária tem quatro dígitos: N<sub>1</sub>, N<sub>2</sub>, N<sub>3</sub>, N<sub>4</sub> mais um dígito verificador N<sub>5</sub>. [figura] Todos esses dígitos são números naturais pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Para a determinação de N<sub>5</sub>, primeiramente multiplica-se ordenadamente os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2, respectivamente, somam-se os resultados e obtém-se S = 5 N<sub>1</sub> + 4 N<sub>2</sub> + 3 N<sub>3</sub> + 2 N<sub>4</sub>. Posteriormente, encontra-se o resto da divisão de S por 11, denotando por R esse resto. Dessa forma, N<sub>5</sub> é a diferença 11 - R. Considere o número de uma agência bancária cujos quatro primeiros dígitos são 0100. Qual é o dígito verificador N<sub>5</sub> dessa agência bancária? || A) 0 | B) 6 | C) 7 | D) 8 | E) 9"
+},
+{
+"id": 5873,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "[figura] Com o intuito de fazer bombons para vender, uma doceira comprou uma barra de 2 kg de chocolate e 1 L de creme de leite. De acordo com a receita, cada bombom deverá ter exatamente 34 g de chocolate e 12 mL de creme de leite. Respeitando os critérios estabelecidos, quantos bombons a doceira poderá fazer utilizando o máximo que puder os ingredientes comprados? || A) 5 | B) 8 | C) 58 | D) 71 | E) 83"
+},
+{
+"id": 5885,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol. Suponha que exista um planeta Z, em algum sistema solar, onde um dia corresponda a 73 dias terrestres e que 2 de seus anos correspondam a 1 ano terrestre. Considere que 1 ano terrestre tem 365 de seus dias. No planeta Z, seu ano corresponderia a quantos de seus dias? || A) 2,5 | B) 10,0 | C) 730,0 | D) 13 322,5 | E) 53 290,0"
+},
+{
+"id": 5907,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "[figura] Em busca de diversificar a vivência do filho, seus pais registraram a quantidade de horas de uso diário do aparelho celular dele durante a primeira semana de agosto. O resultado desse registro, em hora, foi o seguinte: • segunda-feira: 5; • terça-feira: 2; • quarta-feira: 9; • quinta-feira: 2; • sexta-feira: 8; • sábado: 12; • domingo: 4. Com base nesse registro, os pais planejaram incluir atividades físicas e culturais na vivência do filho no sábado da segunda semana do mesmo mês. Consequentemente, a quantidade de horas de uso do aparelho no sábado deveria ser reduzida, de modo que a média diária de uso na segunda semana fosse, no mínimo, uma hora a menos do que a média diária na primeira semana. Ao longo dos demais dias da segunda semana, a quantidade de horas de uso do aparelho seria a mesma da primeira semana. Qual é a quantidade máxima de horas de uso do aparelho no sábado da segunda semana que atende ao planejamento dos pais? || A) 4 | B) 5 | C) 6 | D) 10 | E) 11"
+},
+{
+"id": 5922,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Em uma universidade, atuam professores que estão enquadrados funcionalmente pela sua maior titulação: mestre ou doutor. Nela há, atualmente, 60 mestres e 40 doutores. Os salários mensais dos professores mestres e dos doutores são, respectivamente, R$ 8 000,00 e R$ 12 000,00. A diretoria da instituição pretende proporcionar um aumento salarial diferenciado para o ano seguinte, de tal forma que o salário médio mensal dos professores dessa instituição não ultrapasse R$ 12 240,00. A universidade já estabeleceu que o aumento salarial será de 25% para os mestres e precisa ainda definir o percentual de reajuste para os doutores. Mantido o número atual de professores com suas atuais titulações, o aumento salarial, em porcentagem, a ser concedido aos doutores deverá ser de, no máximo, || A) 14,4. | B) 20,7. | C) 22,0. | D) 30,0. | E) 37,5."
+},
+{
+"id": 5942,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Foram convidadas 32 equipes para um torneio de futebol, que foram divididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo. A primeira e a segunda colocadas de cada grupo seguem para realizar as 8 partidas da próxima fase do torneio, chamada oitavas de final. Os vencedores das partidas das oitavas de final seguem para jogar as 4 partidas das quartas de final. Os vencedores das quartas de final disputam as 2 partidas das semifinais, e os vencedores avançam para a grande final, que define a campeã do torneio. Pelas regras do torneio, cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, ou seja, se um time disputar uma partida, por exemplo, num domingo, só poderá disputar a partida seguinte a partir da quinta-feira da mesma semana. O número mínimo de dias necessários para a realização desse torneio é || A) 22. | B) 25. | C) 28. | D) 48. | E) 64."
+},
+{
+"id": 5999,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "O gerente de uma loja de roupas resolveu avaliar o desempenho dos seus vendedores, registrando o total de vendas em reais V que cada um deles realizou em um mês. De acordo com o valor de V, o desempenho do vendedor recebeu uma classificação, conforme a seguir: • N1: se V for maior que 20 000; • N2: se V ∈]10 000, 20 000]; • N3: se V ∈]7 000, 10 000]; • N4: se V ∈]4 000, 7 000]; • N5: se V ∈ [0, 4 000]. No último mês, a funcionária Valéria vendeu R$ 10 000,00 em roupas, enquanto Bianca vendeu 35% a menos que sua colega. As classificações que Valéria e Bianca receberam foram, respectivamente, || A) N2 e N3. | B) N2 e N4. | C) N2 e N5. | D) N3 e N4. | E) N3 e N5."
+},
+{
+"id": 6036,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "[figura] Os países anglófonos, como a Inglaterra, o Canadá, a Austrália e outros, são países que utilizam dois sistemas de unidades para a identificação de distâncias: o Sistema Internacional, com o quilômetro (km), e o CGS, com a milha (mi). Nas rodovias canadenses, por exemplo, as placas de sinalização de distâncias apresentam dois valores, um em km e outro em mi, com esta última equivalente a aproximadamente 1 610 metros. Um turista brasileiro, habituado ao Sistema Internacional, em viagem por uma dessas rodovias, verifica em dado momento uma placa indicando a distância até a cidade a que ele se destina, onde está escrito 50 mi e XX km, com o valor da distância em quilômetro ilegível. Qual o valor, desprezando as casas decimais, que deveria estar escrito na placa, para identificar a distância XX, em quilômetro, até a cidade destino? || A) 8 | B) 31 | C) 80 | D) 310 | E) 805"
+},
+{
+"id": 6052,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento. Quantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica? || A) 800 | B) 1 200 | C) 2 400 | D) 4 800 | E) 6 400"
+},
+{
+"id": 6065,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "[figura] Sete países americanos, Argentina, Brasil, Canadá, Chile, Estados Unidos, Paraguai e Uruguai; e sete países europeus, Portugal, Espanha, França, Inglaterra, Itália, Alemanha e Suíça, decidem criar uma comissão com representantes de oito desses países, objetivando criar políticas de incentivo e regulação do turismo entre eles. Na hipótese de criação da comissão, serão escolhidos aleatoriamente quatro representantes de países das Américas e quatro representantes de países europeus, não podendo estar na comissão dois representantes de um mesmo país. Qual é a probabilidade de o Brasil e a França pertencerem a essa comissão? || A) \\(\\frac{1}{182}\\) | B) \\(\\frac{1}{49}\\) | C) \\(\\frac{1}{4}\\) | D) \\(\\frac{1}{13}\\) | E) \\(\\frac{16}{49}\\)"
+},
+{
+"id": 6091,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "[figura] Toda a iluminação de um escritório é feita utilizando-se 40 lâmpadas incandescentes que produzem 600 lúmens (lúmen = unidade de energia luminosa) cada. O gerente planeja reestruturar o sistema de iluminação desse escritório, utilizando somente lâmpadas fluorescentes que produzem 1 600 lúmens, para aumentar a quantidade de energia luminosa em 50%. Para alcançar seu objetivo, a quantidade mínima de lâmpadas fluorescentes que o gerente desse escritório deverá instalar é || A) 10. | B) 14. | C) 15. | D) 16. | E) 23."
+},
+{
+"id": 6094,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Três amigos realizaram uma viagem de carro entre duas cidades, num tempo total de 31 horas. Para não fazer paradas, revezaram na direção, de forma que cada um deles dirigisse um terço da quilometragem total. O primeiro, mais prudente, dirigiu a uma velocidade média de 75 quilômetros por hora; o segundo, a uma velocidade média de 90 quilômetros por hora; e o último, mais apressado, dirigiu a uma velocidade média de 100 quilômetros por hora. A distância percorrida por eles, em quilômetros, foi de || A) 900. | B) 2 700. | C) 2 738. | D) 2 790. | E) 8 215."
+},
+{
+"id": 6099,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos diferentes de treinos: treino T<sub>1</sub>, treino T<sub>2</sub>, treino T<sub>3</sub>, treino T<sub>4</sub> e treino T<sub>5</sub>. A sequência dos treinamentos deve seguir esta ordem: [figura] A letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a partir do treino T<sub>1</sub> e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o início das competições. A sequência de treinamentos que o atleta realizará na 24ª semana de treinos é || A) T<sub>3</sub> R T<sub>4</sub> R R T<sub>5</sub> R. | B) R T<sub>3</sub> R T<sub>4</sub> R R T<sub>5</sub>. | C) R T<sub>4</sub> R R T<sub>5</sub> R T<sub>1</sub>. | D) R R T<sub>5</sub> R T<sub>1</sub> R R. | E) R T<sub>5</sub> R T<sub>1</sub> R R T<sub>2</sub>."
+},
+{
+"id": 6100,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Um borrifador de atuação automática libera, a cada acionamento, uma mesma quantidade de inseticida. O recipiente desse produto, quando cheio, contém 360 mL de inseticida, que duram 60 dias se o borrifador permanecer ligado ininterruptamente e for acionado a cada 48 minutos. A quantidade de inseticida que é liberada a cada acionamento do borrifador, em mililitro, é || A) 0,125. | B) 0,200. | C) 4,800. | D) 6,000. | E) 12,000."
+},
+{
+"id": 6101,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "[figura] Um carcinicultor tem um viveiro de camarão cuja cerca na superfície tem formato de um trapézio isósceles. A base maior e a altura desse trapézio têm medidas, respectivamente, de 45 e 20 metros. Para manter uma produção de qualidade, ele segue o padrão de 10 camarões para cada metro quadrado da área delimitada para o viveiro, com uma produção atual correspondente a 6 000 camarões. Mantendo o mesmo padrão de qualidade, ele pretende aumentar a capacidade produtiva desse viveiro em 2 400 unidades de camarão, com a ampliação da área delimitada para o viveiro, modificando apenas a medida da base menor do trapézio. Em quantos metros ele deverá aumentar a medida da base menor do trapézio para alcançar a capacidade produtiva desejada? || A) 21 | B) 24 | C) 36 | D) 39 | E) 54"
+},
+{
+"id": 6103,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Um casal planeja construir em sua chácara uma piscina com o formato de um paralelepípedo reto retângulo com capacidade para 90 000 L de água. O casal contratou uma empresa de construções que apresentou cinco projetos com diferentes combinações nas dimensões internas de profundidade, largura e comprimento. A piscina a ser construída terá revestimento interno em suas paredes e fundo com uma mesma cerâmica, e o casal irá escolher o projeto que exija a menor área de revestimento. As dimensões internas de profundidade, largura e comprimento, respectivamente, para cada um dos projetos, são: • projeto I: 1,8 m, 2,0 m e 25,0 m; • projeto II: 2,0 m, 5,0 m e 9,0 m; • projeto III: 1,0 m, 6,0 m e 15,0 m; • projeto IV: 1,5 m, 15,0 m e 4,0 m; • projeto V: 2,5 m, 3,0 m e 12,0 m. O projeto que o casal deverá escolher será o || A) I. | B) II. | C) III. | D) IV. | E) V."
+},
+{
+"id": 6104,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Um cliente vai a uma loja de materiais de revestimento cerâmico para adquirir porcelanato para a substituição do piso de uma sala com formato retangular, com área total de 36 m<sup>2</sup>. O vendedor dessa loja lhe oferece dois projetos. • Projeto A: porcelanato quadrado, com 0,60 m de lado, para ser disposto de maneira que a diagonal do quadrado seja paralela ao contorno da sala. Custo da caixa com 10 peças: R$ 60,00. • Projeto B: porcelanato quadrado, com 0,40 m de lado, para ser disposto de maneira que os lados do quadrado sejam paralelos a […] número de peças para eventual necessidade de cortes e para reserva. No caso do projeto A, devem ser adquiridos 25% a mais, e no caso do projeto B, uma quantidade 10% maior do que o valor exato da área de recobrimento. O cliente decide, então, que irá adotar o projeto de menor custo. O custo mínimo que o cliente deverá ter, em conformidade com seu objetivo e com as informações apresentadas, será de || A) R$ 600,00. | B) R$ 660,00. | C) R$ 720,00. | D) R$ 780,00. | E) R$ 840,00."
+},
+{
+"id": 6105,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Um clube está sendo reformado e deve ter algumas paredes e partes do teto repintadas. São, no total, 560 m<sup>2</sup> de parede e 260 m<sup>2</sup> de teto. Segundo orientações técnicas, um entre três tipos diferentes de tinta deve ser usado para pintar as paredes (tipos I, II e III), e um entre outros dois tipos pode ser utilizado na pintura do teto (tipos X e Y). As características dos diferentes produtos são apresentadas a seguir: • tipo I: vendido em embalagem com 10 L, por R$ 180,00 cada. O conteúdo permite pintar uma área de 220 m<sup>2< […] X: vendido em embalagem com 4 L, por R$ 70,00 cada. O conteúdo permite pintar uma área de 80 m<sup>2</sup>; • tipo Y: vendido em embalagem com 5 L, por R$ 85,00 cada. O conteúdo permite pintar uma área de 90 m<sup>2</sup>. Pretende-se gastar a menor quantia possível, em real, com essa pintura. As tintas que devem ser escolhidas para uso nas paredes e teto do clube, respectivamente, são as de tipos || A) I e X. | B) I e Y. | C) II e X. | D) II e Y. | E) III e Y."
+},
+{
+"id": 6114,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Um jovem, no trajeto que usa para ir para a escola, sempre passa por um grande relógio digital que há no centro da sua cidade e compara a hora nele mostrada com a hora que marca o seu relógio de pulso. Ao longo de 30 dias de observação, constata que o seu relógio atrasa 2 minutos, a cada 15 dias, em relação ao do centro da cidade. Após 90 dias, sem nenhum dos dois relógios receberem ajustes e mantida a mesma parcela de atraso diário, ao ler as marcações de horário dos dois relógios, verificou que o do centro da cidade marcava exatamente 7 horas. Qual horário marcava seu relógio de pulso nesse instante? || A) 6 h e 48 min | B) 6 h e 54 min | C) 6 h e 58 min | D) 7 h e 06 min | E) 7 h e 12 min"
+},
+{
+"id": 6117,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Um médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente. Ele observou que a perda média de massa dessas pessoas para cada hora de atividade física era de 1,5 kg. Sabendo que a massa de 1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao final da atividade, uma quantidade total de água correspondente a 40% a mais do que a massa perdida na atividade física, para evitar desidratação. Seguindo a recomendação médica, uma dessas pessoas ingeriu, certo dia, um total de 1,7 L de água após terminar seus exercícios físicos. Para que a recomendação médica tenha efetivamente sido respeitada, a atividade física dessa pessoa, nesse dia, durou || A) 30 minutos ou menos. | B) mais de 35 e menos de 45 minutos. | C) mais de 45 e menos de 55 minutos. | D) mais de 60 e menos de 70 minutos. | E) 70 minutos ou mais."
+},
+{
+"id": 6120,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Um parque tem dois circuitos de tamanhos diferentes para corridas. Um corredor treina nesse parque e, no primeiro dia, inicia seu treino percorrendo 3 voltas em torno do circuito maior e 2 voltas em torno do menor, perfazendo um total de 1 800 m. Em seguida, dando continuidade a seu treino, corre mais 2 voltas em torno do circuito maior e 1 volta em torno do menor, percorrendo mais 1 100 m. No segundo dia, ele pretende percorrer 5 000 m nos circuitos do parque, fazendo um número inteiro de voltas em torno deles e de modo que o número de voltas seja o maior possível. A soma do número de voltas em torno dos dois circuitos, no segundo dia, será || A) 10. | B) 13. | C) 14. | D) 15. | E) 16."
+},
+{
+"id": 6124,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "[figura] Um túnel viário de uma única via possui a entrada na forma de um triângulo equilátero de lado 6 m. O motorista de um caminhão com 3 m de largura deve decidir se passa por esse túnel ou se toma um caminho mais longo. Para decidir, o motorista calcula a altura que esse caminhão deveria ter para tangenciar a entrada do túnel. Considere o caminhão como um paralelepípedo reto. Essa altura, em metro, é || A) 3 | B) 3\\(\\sqrt{2}\\) | C) 3\\(\\sqrt{3}\\) | D) \\(\\frac{3\\sqrt{2}}{2}\\) | E) \\(\\frac{3\\sqrt{3}}{2}\\)"
+},
+{
+"id": 6127,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro. A cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda. Quantas porções da receita-base de massa ela deve preparar para atender esse cliente? || A) 2 | B) 3 | C) 6 | D) 12 | E) 24"
+},
+{
+"id": 6134,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Uma equipe de marketing digital foi contratada para aumentar as vendas de um produto ofertado em um site de comércio eletrônico. Para isso, elaborou um anúncio que, quando o cliente clica sobre ele, é direcionado para a página de vendas do produto. Esse anúncio foi divulgado em duas redes sociais, A e B, e foram obtidos os seguintes resultados: • rede social A: o anúncio foi visualizado por 3 000 pessoas; 10% delas clicaram sobre o anúncio e foram redirecionadas para o site; 3% das que clicaram sobre o anúncio compraram o produto. O investiment […] ervados na primeira divulgação, o responsável pelo produto adotou o seguinte critério: • *Q* ≤ 60%: não satisfatório; • 60% < *Q* ≤ 100%: regular; • 100% < *Q* ≤ 150%: bom; • 150% < *Q* ≤ 190%: muito bom; • 190% < *Q* ≤ 200%: excelente. O aumento na quantidade de compradores, em consequência dessa segunda divulgação, em relação ao que foi registrado com a primeira divulgação, foi classificado como || A) não satisfatório. | B) regular. | C) bom. | D) muito bom. | E) excelente."
+},
+{
+"id": 6135,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Uma escola realizou uma pesquisa entre todos os seus estudantes e constatou que três em cada dez deles estão matriculados em algum curso extracurricular de língua estrangeira. Em relação ao número total de estudantes dessa escola, qual porcentagem representa o número de alunos matriculados em algum curso extracurricular de língua estrangeira? || A) 0,3% | B) 0,33% | C) 3% | D) 30% | E) 33%"
+},
+{
+"id": 6137,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Uma família decidiu comprar um aparelho condicionador de ar usando como critério de escolha seu consumo mensal de energia. Suponha que o valor de 1 kWh da conta de energia elétrica dessa família custe R$ 0,58 (impostos incluídos) e que há bandeira tarifária vermelha correspondendo a R$ 0,045 para cada 1 kWh consumido. O uso desse aparelho deve representar um acréscimo mensal na conta de energia elétrica da família de R$ 150,00. O consumo de energia elétrica mensal mais próximo, em quilowatt-hora, que o aparelho deve ter é igual a || A) 286. | B) 280. | C) 259. | D) 240. | E) 146."
+},
+{
+"id": 6144,
+"vest": "ENEM",
+"ano": "2022",
+"area": "exatas",
+"texto": "Uma loja comercializa cinco modelos de caixas-d’água (I, II, III, IV e V), todos em formato de cilindro reto de base circular. Os modelos II, III, IV e V têm as especificações de suas dimensões dadas em relação às dimensões do modelo I, cuja profundidade é *P* e área da base é *A*<sub>b</sub>, como segue: • modelo II: o dobro da profundidade e a metade da área da base do modelo I; • modelo III: o dobro da profundidade e a metade do raio da base do modelo I; • modelo IV: a metade da profundidade e o dobro da área da base do modelo I; • modelo V: a metade da profundidade e o dobro do raio da base do modelo I. Uma pessoa pretende comprar nessa loja o modelo de caixa-d’água que ofereça a maior capacidade volumétrica. O modelo escolhido deve ser o || A) I. | B) II. | C) III. | D) IV. | E) V."
+},
+{
+"id": 6291,
+"vest": "ENEM",
+"ano": "2023",
+"area": "exatas",
+"texto": "A cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número de alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos matriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos. A diretora só pode gastar R$ 220,00 nessa compra, e sabe que o fornecedor da escola vende as folhas de papel ofício em embalagens de 100 unidades a R$ 4,00 a embalagem. Assim, será preciso convencer o fornecedor a dar um desconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre. O desconto necessário no preço final da compra, em porcentagem, pertence ao intervalo || A) (5,0 ; 5,5). | B) (8,0 ; 8,5). | C) (11,5 ; 12,5). | D) (19,5 ; 20,5). | E) (3,5 ; 4,0)."
+},
+{
+"id": 6299,
+"vest": "ENEM",
+"ano": "2023",
+"area": "exatas",
+"texto": "A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o funcionário opera e o nível *N* de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo *N* = log<sub>10</sub>*I*<sup>10</sup> − log<sub>10</sub>*I*<sub>0</sub><sup>10</sup>, *I* a intensidade do som e *I*<sub>0</sub> = 10<sup>−</sup><sup>12</sup> W/m<sup>2</sup>. Quando o som é considerado baixo, ou seja, *N =* 48 dB ou menos, deve ser utilizada a medida preventiva […] preventiva IV. E se o som é considerado muito alto, com *N* maior que 115 dB, deve-se utilizar a medida preventiva V. Uma nova máquina, com *I* = 8 × 10<sup>−</sup><sup>8</sup> W/m<sup>2</sup>, foi adquirida e será classificada de acordo com o nível de ruído que produz. Considere 0,3 como aproximação para log<sub>10</sub>2. O funcionário que operará a nova máquina deverá adotar a medida preventiva || A) I. | B) II. | C) III. | D) IV. | E) V."
+},
+{
+"id": 6319,
+"vest": "ENEM",
+"ano": "2023",
+"area": "exatas",
+"texto": "A proprietária de uma confecção pretende liquidar as camisas que possui em estoque, por meio de uma promoção na qual fará a venda de lotes com iguais quantidades de camisas. Para a 1ª semana, pretende anunciar a venda de cada lote de camisas por R$ 720,00. Na 2ª semana, para acelerar as vendas, planeja anunciar a venda de lotes com 3 unidades a mais do que os lotes vendidos na primeira semana, ainda por R$ 720,00 cada lote, e de forma que o preço unitário de cada peça seja R$ 20,00 mais baixo do que o valor que teria sido cobrado por peça na 1ª semana de promoção. Quantas camisas deverão conter os lotes que serão colocados à venda na 1ª semana para que seja possível praticar essa promoção? || A) 9 | B) 12 | C) 24 | D) 33 | E) 105"
+},
+{
+"id": 6329,
+"vest": "ENEM",
+"ano": "2023",
+"area": "exatas",
+"texto": "A água utilizada pelos 75 moradores de um vilarejo provém de um reservatório de formato cilíndrico circular reto cujo raio da base mede 5 metros, sempre abastecido no primeiro dia de cada mês por caminhões-pipa. Cada morador desse vilarejo consome, em média, 200 litros de água por dia. No mês de junho de um determinado ano, o vilarejo festejou o dia do seu padroeiro e houve um gasto extra de água nos primeiros 20 dias. Passado esse período, as pessoas verificaram a quantidade de água presente no reservatório e constataram que o nível da coluna de água estava em 1,5 metro. Decidiram, então, fazer um racionamento de água durante os 10 dias seguintes. Considere 3 como aproximação para π. Qual é a quantidade mínima de água, em litro, que cada morador, em média, deverá economizar por dia, de modo que o reservatório não fique sem água nos próximos 10 dias? || A) 50 | B) 60 | C) 80 | D) 140 | E) 150"
+},
+{
+"id": 6332,
+"vest": "ENEM",
+"ano": "2023",
+"area": "exatas",
+"texto": "Alguns estudos comprovam que os carboidratos fornecem energia ao corpo, preservam as proteínas estruturais dos músculos durante a prática de atividade física e ainda dão força para o cérebro coordenar os movimentos, o que de fato tem impacto positivo no desenvolvimento do praticante. O ideal é consumir 1 grama de carboidrato para cada minuto de caminhada. Um casal realizará diariamente 30 minutos de caminhada, ingerindo, antes dessa atividade, a quantidade ideal de carboidratos recomendada. Para ter o consumo ideal apenas por meio do consumo de pão de fôrma integral, o casal planeja garantir o suprimento de pães para um período de 30 dias ininterruptos. Sabe-se que cada pacote desse pão vem com 18 fatias, e que cada uma delas tem 15 gramas de carboidratos. A quantidade mínima de pacotes de pão de fôrma necessários para prover o suprimento a esse casal é || A) 1. | B) 4. | C) 6. | D) 7. | E) 8."
+},
+{
+"id": 6336,
+"vest": "ENEM",
+"ano": "2023",
+"area": "exatas",
+"texto": "Analisando as vendas de uma empresa, o gerente concluiu que o montante diário arrecadado, em milhar de real, poderia ser calculado pela expressão V(x) = x²/4 − 10x + 105, em que os valores de x representam os dias do mês, variando de 1 a 30. Um dos fatores para avaliar o desempenho mensal da empresa é verificar qual é o menor montante diário V₀ arrecadado ao longo do mês e classificar o desempenho conforme as categorias apresentadas a seguir, em que as quantidades estão expressas em milhar de real. • Ótimo: V₀ ≥ 24 • Bom: 20 ≤ V₀ < 24 • Normal: 10 ≤ V₀ < 20 • Ruim: 4 ≤ V₀ < 10 • Péssimo: V₀ < 4 No caso analisado, qual seria a classificação do desempenho da empresa? || A) Ótimo. | B) Bom. | C) Normal. | D) Ruim. | E) Péssimo."
+},
+{
+"id": 6339,
+"vest": "ENEM",
+"ano": "2023",
+"area": "exatas",
+"texto": "Ao realizar o cadastro em um aplicativo de investimentos, foi solicitado ao usuário que criasse uma senha, sendo permitido o uso somente dos seguintes caracteres: • algarismos de 0 a 9; • 26 letras minúsculas do alfabeto; • 26 letras maiúsculas do alfabeto; • 6 caracteres especiais !, @, #, $, *, &. Três tipos de estruturas para senha foram apresentadas ao usuário: • tipo I: formada por quaisquer quatro caracteres distintos, escolhidos dentre os permitidos; • tipo II: formada por cinco caracteres distintos, iniciando por três letras, seguidas p […] formada por seis caracteres distintos, iniciando por duas letras, seguidas por dois algarismos e, ao final, dois caracteres especiais. Considere p₁, p₂ e p₃ as probabilidades de se descobrirem ao acaso, na primeira tentativa, as senhas dos tipos I, II e III, respectivamente. Nessas condições, o tipo de senha que apresenta a menor probabilidade de ser descoberta ao acaso, na primeira tentativa, é o || A) tipo I, pois p₁ < p₂ < p₃. | B) tipo I, pois tem menor quantidade de caracteres. | C) tipo II, pois tem maior quantidade de letras. | D) tipo III, pois p₃ < p₂ < p₁. | E) tipo III, pois tem maior quantidade de caracteres."
+},
+{
+"id": 6341,
+"vest": "ENEM",
+"ano": "2023",
+"area": "exatas",
+"texto": "Após uma reforma, um clube decide comprar duchas para serem instaladas no vestiário. O tipo de ducha escolhida, segundo o fabricante, tem probabilidade igual a \\(\\frac{1}{10}\\) de apresentar funcionamento irregular. O administrador do clube planeja adquirir uma certa quantidade dessas duchas, de forma que a probabilidade de que pelo menos uma das duchas adquiridas apresente funcionamento regular seja igual a, no mínimo, \\(\\frac{99}{100}\\) . A quantidade mínima de duchas que deverá ser adquirida para atender ao planejamento desse administrador é || A) 2. | B) 8. | C) 9. | D) 10. | E) 11."
+}
+]

@@ -1,0 +1,4627 @@
+[
+ {
+  "id": "P4162-Q001",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 1,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A degradação de florestas aumenta o risco de os seres humanos entrarem em contato com animais hospedeiros de agentes infecciosos, que podem causar doenças ainda sem tratamento específico. No entanto, a recuperação de áreas degradadas pode ajudar a diminuir o risco de transmissão de doenças. O estudo dos vírus também pode ajudar a criar estratégias de restauração ambiental, sendo uma delas a de se antecipar ao surgimento dos novos vírus, tentar localizá-los e estudá-los antes que se tornem um problema de saúde pública. A bióloga Paula Prist afirma que “não é a floresta que traz doenças, ao contrário, ela nos protege de novos vírus, tais como o Sars-CoV-2”. Se houvesse a recuperação de 6 milhões de hectares de Mata Atlântica, a redução de populações de roedores que transmitem o hantavírus, agente que causa a hantavirose, seria de até 90%, o que reduziria o risco de até 2,8 milhões de pessoas serem infectadas.\n\n{{fonte:1}}\n\nAlém da hantavirose, que outras doenças virais foram associadas à degradação de áreas de florestas e quebra de barreiras entre espécies de mamíferos que são reservatórios naturais de vírus?",
+  "fontes": [
+   "Disponível em: https://revistapesquisa.fapesp.br/restauracao-da-mata-atlantica-pode-reduzir-risco-de-transmissao-do-hantavirus/https://revistapesquisa.fapesp.br/da-floresta-para-as-cidades. Acesso em: 28 ago. 2020. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Hepatite B, febre amarela e rubéola."
+   },
+   {
+    "letra": "B",
+    "texto": "Toxoplasmose, gripe aviária e SARS."
+   },
+   {
+    "letra": "C",
+    "texto": "Poliomielite, varíola e difteria."
+   },
+   {
+    "letra": "D",
+    "texto": "Zika, dengue e influenza."
+   },
+   {
+    "letra": "E",
+    "texto": "AIDS, raiva e ebola."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.625,
+     83.90700000000004,
+     547.117996,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     547.1520010000002,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     546.744,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     547.3479989999998,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     547.262001,
+     145.49700000000007
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     547.496,
+     158.36
+    ],
+    [
+     42.625,
+     159.92700000000002,
+     547.6279999999999,
+     170.95999999999992
+    ],
+    [
+     42.625,
+     172.52700000000004,
+     547.2620009999999,
+     183.52700000000004
+    ],
+    [
+     42.625,
+     185.12700000000007,
+     547.4669969999999,
+     196.12700000000007
+    ],
+    [
+     42.625,
+     197.92700000000002,
+     362.78799699999996,
+     208.92700000000002
+    ],
+    [
+     76.825,
+     215.91300000000012,
+     547.559,
+     224.91300000000012
+    ],
+    [
+     110.43,
+     226.11300000000006,
+     548.48241449,
+     235.11300000000006
+    ],
+    [
+     42.625,
+     257.74700000000007,
+     546.6560000000001,
+     268.747
+    ],
+    [
+     42.625,
+     270.357,
+     492.4660069999999,
+     281.357
+    ],
+    [
+     42.625,
+     295.557,
+     235.93798800000008,
+     306.557
+    ],
+    [
+     42.625,
+     308.357,
+     241.33898800000006,
+     319.357
+    ],
+    [
+     42.625,
+     320.957,
+     201.53799600000008,
+     331.957
+    ],
+    [
+     42.625,
+     333.557,
+     181.50799700000002,
+     344.557
+    ],
+    [
+     42.625,
+     346.157,
+     156.507989,
+     357.157
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q002",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 2,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Os fungos são organismos, que apresentam grande diversidade e importância ecológica, econômica e médica. Eles são decompositores, produzem substâncias úteis para a indústria farmacêutica, de bebidas e de alimentos, sendo usados no controle biológico de pragas, além de serem parasitas de plantas e animais. Em humanos, desenvolvem micoses comuns, a exemplo da candidíase e frieira. Essas doenças são causadas por um grupo de fungos, que antes eram classificados no grupo deuteromicetos, considerados fungos imperfeitos.\n\n{{img:1}}\n\n{{fonte:1}}\n\nOs fungos causadores das micoses citadas no texto estão representados nas figuras e são classificados atualmente como",
+  "fontes": [
+   "Fonte: imagens Google. Acesso em: 20/10/2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Basidiomicetos, grupo ao qual pertencem os cogumelos, que se reproduzem por meio de basídios, corpos de frutificação que produzem os basidiosporos na fase assexuada."
+   },
+   {
+    "letra": "B",
+    "texto": "Mastigomicetos, grupo ao qual pertencem espécies com esporos flagelados que se unem por plasmogamia na fase de reprodução sexuada."
+   },
+   {
+    "letra": "C",
+    "texto": "Zigomicetos, grupo ao qual pertencem os bolores, tal como os do gênero *Rhizopus*, que se desenvolvem em alimentos ricos em carboidratos, a exemplo de pães, frutas e verduras, por meio de esporulação dos corpos de frutificação chamados esporângios."
+   },
+   {
+    "letra": "D",
+    "texto": "Ascomicetos, grupo ao qual pertencem as leveduras, a exemplo do gênero *Saccharomyces,* que se reproduzem por brotamento."
+   },
+   {
+    "letra": "E",
+    "texto": "Quitridiomicetos, grupo ao qual pertencem as espécies sapróbias ou parasitas que vivem em ambiente terrestre ou de água doce, onde se reproduzem por meio de esporos flagelados."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q002_img1.png",
+    "pagina": 3,
+    "bbox": [
+     102.2,
+     488.9,
+     486.7,
+     623.7
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   3,
+   4
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.625,
+     393.21057,
+     547.0129939999999,
+     404.21057
+    ],
+    [
+     42.625,
+     405.81057,
+     547.070986,
+     416.81057
+    ],
+    [
+     42.625,
+     418.61057,
+     546.9900040000001,
+     429.61057
+    ],
+    [
+     42.625,
+     431.21057,
+     547.206003,
+     442.21057
+    ],
+    [
+     42.625,
+     443.81057,
+     547.1719879999998,
+     454.81057
+    ],
+    [
+     42.625,
+     456.41057,
+     285.06500000000005,
+     467.41057
+    ],
+    [
+     102.24000000000001,
+     488.88,
+     486.72,
+     623.6942
+    ],
+    [
+     323.5,
+     641.2802,
+     519.2520069999999,
+     650.2802
+    ]
+   ],
+   "4": [
+    [
+     42.625,
+     45.89311000000009,
+     547.496,
+     56.89311000000009
+    ],
+    [
+     42.625,
+     58.493110000000115,
+     192.379,
+     69.49311000000012
+    ],
+    [
+     42.62499999999999,
+     79.59311000000014,
+     546.6820049999999,
+     90.59311000000014
+    ],
+    [
+     60.62499999999999,
+     92.19311000000005,
+     422.791002,
+     103.19311000000005
+    ],
+    [
+     42.62499999999999,
+     104.79310999999996,
+     546.9240049999999,
+     115.79310999999996
+    ],
+    [
+     60.62499999999999,
+     117.39311000000009,
+     286.8950000000001,
+     128.3931100000001
+    ],
+    [
+     42.62499999999999,
+     129.98311,
+     547.417,
+     140.98311
+    ],
+    [
+     60.62499999999999,
+     142.79310999999996,
+     547.243001,
+     153.79310999999996
+    ],
+    [
+     60.62499999999999,
+     155.3931100000001,
+     383.959,
+     166.3931100000001
+    ],
+    [
+     42.62499999999999,
+     167.79310999999996,
+     547.485993,
+     178.79310999999996
+    ],
+    [
+     60.62499999999999,
+     180.81311000000017,
+     200.171,
+     191.81311000000017
+    ],
+    [
+     42.62499999999999,
+     193.41311000000007,
+     547.214999,
+     204.41311000000007
+    ],
+    [
+     60.62499999999999,
+     206.01310999999998,
+     501.8769869999999,
+     217.01310999999998
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p3.jpg",
+   "revisao/Q002_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q003",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 3,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise a letra da música a seguir**:**\n\n**DE UMBIGO A UMBIGUINHO**\n\nMuito antes de nascer  \nNa barriga da mamãe já pulsava sem querer  \nO meu pequenino coração,  \nQue é sempre o primeiro a ser formado  \nNesta linda confusão.  \nMuito antes de nascer  \nNa barriga da mamãe já comia pra viver  \nCheese salada, bala ou bacalhau.  \nVinha tudo pronto e mastigado\n\n{{img:1}}\n\nNo cordão umbilical...\n\n{{fonte:1}}\n\nSobre as funções do sistema circulatório integradas aos demais sistemas do corpo, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "(Compositores: Toquinho e Elifas Andreato. Álbum: Canção de todas as crianças, 1987)."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A pulsação do coração se refere à frequência de contração de músculos involuntários que é controlada no nó atrioventricular, região marca-passo que inicia a contração dos átrios e ventrículos."
+   },
+   {
+    "letra": "B",
+    "texto": "Uma maior frequência cardíaca da mãe conduz mais rapidamente o sangue que é impulsionado em direção aos vasos. Isso facilita as trocas gasosas no corpo do bebê, pois favorece a captação do oxigênio, visto que a hemoglobina da mãe tem maior afinidade pelo oxigênio que a hemoglobina do bebê."
+   },
+   {
+    "letra": "C",
+    "texto": "Como produto da digestão do cheese salada e do bacalhau ingeridos pela mãe, o bebê pode receber glicose, aminoácidos e ácidos graxos por causa da ação das enzimas amilase, tripsina e lipase, que são produzidas no intestino delgado da mãe."
+   },
+   {
+    "letra": "D",
+    "texto": "A ureia é resultado do metabolismo das proteínas. Os rins da mãe filtram o sangue e trabalham para retirá-la do seu corpo e o do bebê. Assim, ela é secretada no túbulo distal e no ducto coletor junto com o sódio pela ação da aldosterona, presente nos capilares tubulares."
+   },
+   {
+    "letra": "E",
+    "texto": "O coração da mãe também atua junto com os rins para regular a pressão arterial, equilibrando o volume sanguíneo. Caso o volume aumente, os átrios se expandem e liberam o hormônio peptídeo natriurético atrial, o que aumenta tanto a excreção de sódio quanto o fluxo de urina."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q003_img1.png",
+    "pagina": 4,
+    "bbox": [
+     283.6,
+     277.1,
+     463.0,
+     409.7
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.62499999999999,
+     243.81311000000017,
+     223.543,
+     254.81311000000017
+    ],
+    [
+     42.62499999999999,
+     270.41310999999996,
+     192.03800000000004,
+     281.41310999999996
+    ],
+    [
+     42.62499999999999,
+     296.04311,
+     151.00799999999998,
+     307.04311
+    ],
+    [
+     42.62499999999999,
+     308.84311,
+     260.0950000000001,
+     319.84311
+    ],
+    [
+     42.62499999999999,
+     321.44311,
+     175.35099999999997,
+     332.44311
+    ],
+    [
+     42.62499999999999,
+     334.04311,
+     235.21300000000002,
+     345.04311
+    ],
+    [
+     42.62499999999999,
+     346.64311,
+     148.577,
+     357.64311
+    ],
+    [
+     42.62499999999999,
+     359.44311,
+     151.00799999999998,
+     370.44311
+    ],
+    [
+     42.62499999999999,
+     372.04311,
+     238.31500000000005,
+     383.04311
+    ],
+    [
+     42.62499999999999,
+     384.64311,
+     208.93400000000008,
+     395.64311
+    ],
+    [
+     42.62499999999999,
+     397.26311,
+     192.43400000000003,
+     408.64911
+    ],
+    [
+     283.60001,
+     277.08611,
+     463.0,
+     409.68612
+    ],
+    [
+     42.62499999999999,
+     410.06311,
+     148.16999999999996,
+     421.06311
+    ],
+    [
+     42.62499999999999,
+     432.84911,
+     396.69400080000025,
+     441.84911
+    ],
+    [
+     42.62499999999999,
+     457.46311000000003,
+     547.4100060000002,
+     468.46311000000003
+    ],
+    [
+     42.62499999999999,
+     469.86311,
+     153.708,
+     480.86311
+    ],
+    [
+     42.62499999999999,
+     495.49311,
+     546.7590049999999,
+     506.49311
+    ],
+    [
+     60.62499999999999,
+     508.09311,
+     547.182005,
+     519.09311
+    ],
+    [
+     60.62499999999999,
+     520.6931099999999,
+     117.022,
+     531.6931099999999
+    ],
+    [
+     42.62499999999999,
+     533.49311,
+     546.8150059999998,
+     544.49311
+    ],
+    [
+     60.62499999999999,
+     546.09311,
+     546.905003,
+     557.09311
+    ],
+    [
+     60.62499999999999,
+     558.69311,
+     547.1289959999996,
+     569.69311
+    ],
+    [
+     60.62499999999999,
+     571.2931100000001,
+     103.646,
+     582.2931100000001
+    ],
+    [
+     42.62499999999999,
+     584.09311,
+     547.2509999999997,
+     595.09311
+    ],
+    [
+     60.62499999999999,
+     596.71311,
+     546.7809999999998,
+     607.71311
+    ],
+    [
+     60.62499999999999,
+     609.31311,
+     336.06799200000006,
+     620.31311
+    ],
+    [
+     42.62499999999999,
+     621.91311,
+     547.2820109999999,
+     632.91311
+    ],
+    [
+     60.62499999999999,
+     634.71311,
+     547.5200050000001,
+     645.71311
+    ],
+    [
+     60.62499999999999,
+     647.31311,
+     441.67198500000006,
+     658.31311
+    ],
+    [
+     42.62499999999999,
+     659.9131100000001,
+     547.496,
+     670.9131100000001
+    ],
+    [
+     60.62499999999999,
+     672.51311,
+     547.2250039999998,
+     683.51311
+    ],
+    [
+     60.62499999999999,
+     685.11311,
+     468.53199399999977,
+     696.11311
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q003_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q004",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 4,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Muitas vezes, os termos **ventilador pulmonar** e **respirador** são usados como sinônimos, no entanto o **ventilador pulmonar** e o **respirador** têm funções diferentes, conforme mostra as figuras a seguir. Analise-as!\n\n{{fonte:1}}\n\n{{img:1}}\n\n{{fonte:2}}\n\nIdentifique a alternativa que apresenta a associação **CORRETA** entre a função da máquina de ventilação pulmonar e do equipamento de proteção individual (EPI) e a função que é exercida pelo sistema respiratório de pessoas saudáveis em condições normais.",
+  "fontes": [
+   "Claudius. 08-05-1985. Disponível em: https://acervo.folha.com.br//leitor.do?anchor=4281304&pd=b1c74f8c7a4176a6eb476d59bee91673. Acesso em: 08 ago. 2020.",
+   "Disponível em: http://www.butantan.gov.br/ Acesso em: 27 set. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "No item **02** (Fig. A), o **ventilador pulmonar** substitui a função normal de contração de músculos intercostais e do diafragma, cujos movimentos de contração aumentam o volume da caixa torácica e diminuem a pressão do ar dentro dos pulmões."
+   },
+   {
+    "letra": "B",
+    "texto": "No item **03** (Fig. A), o **ventilador pulmonar** substitui a função normal de contração de músculos intercostais e do diafragma, cujos movimentos de contração diminuem o volume da caixa torácica e aumentam a pressão do ar dentro dos pulmões."
+   },
+   {
+    "letra": "C",
+    "texto": "No item **03** (Fig. A), o **ventilador pulmonar** remove o CO<sub>2</sub> dos pulmões, impedindo o aumento do pH sanguíneo. Isso é possível ao gerar o aumento da pressão intrapulmonar pela contração do diafragma."
+   },
+   {
+    "letra": "D",
+    "texto": "No item **01** (Fig. B), o **respirador** substitui a função do epitélio ciliado, presente no interior das narinas, cujo batimento retira do ar partículas contaminantes e o impulsiona em direção aos brônquios. Nessa região, o ar se mistura com o muco, contendo macrófagos, que fagocitam partículas estranhas."
+   },
+   {
+    "letra": "E",
+    "texto": "No item **02** (Fig. B), o **respirador** protege os profissionais de saúde, impedindo a propagação de doenças por inalação de partículas virais e de bactérias liberadas pelas gotículas de saliva que são transmitidas pelo ar, a exemplo do sarampo, da tuberculose e do tétano."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q004_img1.png",
+    "pagina": 5,
+    "bbox": [
+     54.7,
+     124.6,
+     534.2,
+     669.6
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   5,
+   6
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.625,
+     45.90700000000004,
+     547.237005,
+     56.90700000000004
+    ],
+    [
+     42.625,
+     58.49700000000007,
+     547.496,
+     69.49700000000007
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     132.907995,
+     82.30700000000002
+    ],
+    [
+     59.025000000000006,
+     90.28599999999994,
+     547.0339999999995,
+     98.28599999999994
+    ],
+    [
+     454.314,
+     99.48599999999999,
+     547.369484,
+     107.48599999999999
+    ],
+    [
+     54.72,
+     124.56,
+     534.24,
+     669.6
+    ],
+    [
+     367.9718,
+     680.8699575,
+     522.8606550000001,
+     688.9924575
+    ],
+    [
+     431.1468,
+     690.0754575000001,
+     522.95090139,
+     698.1979575
+    ]
+   ],
+   "6": [
+    [
+     42.625,
+     71.10700000000008,
+     547.272997,
+     82.10700000000008
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     546.7219999999998,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     366.676002,
+     107.70700000000011
+    ],
+    [
+     49.825,
+     121.70700000000011,
+     547.0850030000001,
+     132.7070000000001
+    ],
+    [
+     67.825,
+     134.49700000000007,
+     546.842,
+     145.49700000000007
+    ],
+    [
+     67.825,
+     147.3270000000001,
+     348.4570000000001,
+     158.3270000000001
+    ],
+    [
+     49.825,
+     159.7270000000001,
+     547.2300050000001,
+     170.7270000000001
+    ],
+    [
+     67.825,
+     172.52700000000004,
+     546.7869999999999,
+     183.52700000000004
+    ],
+    [
+     67.825,
+     185.12700000000007,
+     311.28800000000007,
+     196.12700000000007
+    ],
+    [
+     49.825,
+     198.7270000000001,
+     547.429991,
+     209.7270000000001
+    ],
+    [
+     67.825,
+     211.7270000000001,
+     547.420996,
+     222.7270000000001
+    ],
+    [
+     67.825,
+     224.3270000000001,
+     120.10800000000002,
+     235.3270000000001
+    ],
+    [
+     49.825,
+     236.7270000000001,
+     547.015997,
+     247.7270000000001
+    ],
+    [
+     67.825,
+     249.55700000000002,
+     547.353006,
+     260.557
+    ],
+    [
+     67.825,
+     262.3570000000001,
+     547.0939989999998,
+     273.357
+    ],
+    [
+     67.825,
+     274.957,
+     170.108,
+     285.957
+    ],
+    [
+     49.825,
+     287.357,
+     547.264004,
+     298.357
+    ],
+    [
+     67.825,
+     300.157,
+     547.496,
+     311.157
+    ],
+    [
+     67.825,
+     312.957,
+     442.19399499999986,
+     323.957
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q004_p5.jpg",
+   "revisao/Q004_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q005",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 5,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nA Polícia Civil do Distrito Federal investiga o caso de um estudante de veterinária, que foi picado por uma serpente em sua casa e internado na UTI em estado grave. A serpente, do gênero *Naja,* é exótica, e suspeita-se de que foi trazida ao Brasil pelo tráfico de animais e abandonada em uma caixa, pondo em risco a vida de outras pessoas. Segundo o biólogo Carlos Eduardo Nóbrega, o veneno da Naja pode matar um ser humano em apenas 60 minutos após a picada, pois atinge o sistema nervoso central, afetando a respiração e a noção de espaço e tempo, além de causar sonolência. Felizmente, a serpente foi encontrada e levada ao zoológico de Brasília, e o estudante melhorou após conseguir a aplicação do soro adequado em tempo hábil (Adaptado).\n\nDisponível em: https://noticias.uol.com.br/cotidiano/ultimas-noticias/df-jovem-picado-por-naja-sai-do-coma-policia-investiga-\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nConsiderando a velocidade da resposta em relação ao tipo de ação da peçonha e à dentição proteróglifa para a sua inoculação, qual das serpentes encontradas no Brasil pode ser comparada à Naja?",
+  "fontes": [
+   "trafico-de-animais Acesso em: 07 set. 2020.",
+   "Fonte das imagens: Imagens Google (acesso em: 20 out. 2020) https://blogdonurof.files.wordpress.com/2010/09/prot.jpg (acesso em: 07 nov., 2020) https://publicacoeseducativas.butantan.gov.br/ (acesso em: 07 nov. 2020)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:2}}"
+   },
+   {
+    "letra": "B",
+    "texto": "{{img:3}}"
+   },
+   {
+    "letra": "C",
+    "texto": "{{img:4}}"
+   },
+   {
+    "letra": "D",
+    "texto": "{{img:5}}"
+   },
+   {
+    "letra": "E",
+    "texto": "{{img:6}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q005_img1.png",
+    "pagina": 6,
+    "bbox": [
+     356.4,
+     375.1,
+     542.9,
+     480.2
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q005_img2.png",
+    "pagina": 6,
+    "bbox": [
+     56.9,
+     600.5,
+     445.0,
+     712.8
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q005_img3.png",
+    "pagina": 7,
+    "bbox": [
+     53.5,
+     56.3,
+     445.0,
+     135.0
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q005_img4.png",
+    "pagina": 7,
+    "bbox": [
+     52.9,
+     135.0,
+     445.0,
+     233.6
+    ]
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q005_img5.png",
+    "pagina": 7,
+    "bbox": [
+     53.5,
+     233.6,
+     445.0,
+     338.0
+    ]
+   },
+   {
+    "id": 6,
+    "arquivo": "img/Q005_img6.png",
+    "pagina": 7,
+    "bbox": [
+     53.5,
+     338.0,
+     445.0,
+     440.5
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   6,
+   7
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.625,
+     370.377,
+     348.05800700000015,
+     381.377
+    ],
+    [
+     42.625,
+     382.97700000000003,
+     347.81600000000003,
+     393.97700000000003
+    ],
+    [
+     42.625,
+     395.777,
+     348.21599999999995,
+     406.777
+    ],
+    [
+     42.625,
+     408.177,
+     348.21599999999995,
+     419.177
+    ],
+    [
+     42.625,
+     420.97700000000003,
+     347.958006,
+     431.97700000000003
+    ],
+    [
+     42.625,
+     433.577,
+     348.08500800000013,
+     444.577
+    ],
+    [
+     42.625,
+     446.377,
+     347.5890000000001,
+     457.377
+    ],
+    [
+     42.625,
+     459.007,
+     347.787,
+     470.007
+    ],
+    [
+     42.625,
+     471.607,
+     348.064002,
+     482.607
+    ],
+    [
+     356.40000000000003,
+     375.12,
+     542.88,
+     480.24
+    ],
+    [
+     42.625,
+     484.207,
+     547.496,
+     495.207
+    ],
+    [
+     42.625,
+     497.007,
+     547.474999,
+     508.007
+    ],
+    [
+     42.625,
+     509.607,
+     126.43199800000001,
+     520.607
+    ],
+    [
+     48.425,
+     522.88,
+     547.571001,
+     533.88
+    ],
+    [
+     369.33,
+     535.193,
+     547.472,
+     544.193
+    ],
+    [
+     42.625,
+     553.9970000000001,
+     547.460973,
+     564.9970000000001
+    ],
+    [
+     42.625,
+     566.627,
+     547.495993,
+     577.627
+    ],
+    [
+     42.625,
+     579.427,
+     71.51100000000001,
+     590.427
+    ],
+    [
+     42.625,
+     617.427,
+     52.488,
+     628.427
+    ],
+    [
+     56.88,
+     600.48,
+     444.96000000000004,
+     712.8000000000001
+    ]
+   ],
+   "7": [
+    [
+     42.625,
+     47.49700000000007,
+     52.488,
+     58.49700000000007
+    ],
+    [
+     53.488,
+     56.32,
+     444.96000000000004,
+     135.0
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     51.888000000000005,
+     158.3270000000001
+    ],
+    [
+     52.888000000000005,
+     135.0,
+     444.96000000000004,
+     233.64000000000001
+    ],
+    [
+     42.625,
+     245.7270000000001,
+     52.488,
+     256.7270000000001
+    ],
+    [
+     53.488,
+     233.64000000000001,
+     444.96000000000004,
+     338.04
+    ],
+    [
+     42.625,
+     347.957,
+     52.488,
+     358.957
+    ],
+    [
+     53.488,
+     338.04,
+     444.96000000000004,
+     440.48
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q005_p6.jpg",
+   "revisao/Q005_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q006",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 6,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As verminoses são doenças parasitárias frequentes no Brasil. São causadas por vermes platelmintos ou nematelmintos, animais endoparasitas, que geralmente se alojam no intestino delgado, mas podem migrar para outros órgãos. Muitas vezes, a contaminação ocorre por ingestão de alimento ou água. Os sintomas variam, e os portadores sintomáticos geralmente apresentam dores abdominais, náuseas, vômito, diarreia, falta de apetite, perda de peso, anemia e problemas respiratórios. A transmissão para o homem pode depender de um hospedeiro intermediário, de acordo com o parasita.\n\n{{img:1}}\n\n{{fonte:1}}\n\nIdentifique a alternativa que descreve **CORRETAMENTE** as características das verminoses quanto à localização do parasita no corpo humano, o seu ciclo de vida e a presença de hospedeiro intermediário. Considere as informações contidas nas figuras, conforme esquema a seguir:",
+  "fontes": [
+   "Disponível em: https://www.cdc.gov/parasites/images/cysticercosis/home_page_image_cysticercosis.jpg https://www.coladaweb.com/doencas/ teniase Acesso em: 07 nov. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Na cisticercose (A), o (1) pode ser afetado. É adquirida quando a pessoa ingere a carne de porco contaminada e se desenvolve a partir da larva oncosfera, que dá origem aos cisticercos. No porco, os cisticercos formam o escólex, que se fixa no (5), através de estruturas de adesão chamadas de ventosas."
+   },
+   {
+    "letra": "B",
+    "texto": "Na ancilostomíase (B), os vermes apresentam boca com dentes que aderem à mucosa do (5), onde se alimentam do sangue do hospedeiro; nesse órgão, eles atingem a maturidade sexual e se reproduzem. Os ovos são eliminados com as fezes, e a contaminação ocorre por ingestão de alimentos com ovos do parasita, dos quais saem larvas que migram para o (4), o (3) e o (2), causando problemas respiratórios, além da anemia."
+   },
+   {
+    "letra": "C",
+    "texto": "Na esquistossomose (C), os vermes adultos se desenvolvem no (4). Eles têm dimorfismo sexual, o macho apresenta canal ginecóforo, onde a fêmea se aloja. A fêmea põe os ovos, que são eliminados com as fezes. Em contato com a água, a larva miracídio penetra no caramujo, onde se transforma em cercária, larva que penetra no corpo humano através da pele."
+   },
+   {
+    "letra": "D",
+    "texto": "Na ascaridíase (D), os vermes apresentam dimorfismo sexual. Os machos e as fêmeas contêm ganchos para a fixação no (5). A fêmea põe ovos, que são eliminados com as fezes. A contaminação ocorre por ingestão de água contendo ovos do parasita. Em (4), as larvas eclodem do ovo e migram através da corrente sanguínea para o (3) e o (2), onde atingem a fase adulta."
+   },
+   {
+    "letra": "E",
+    "texto": "Na teníase (E), desenvolvem-se os cistos no (1) pela migração das oncosferas de *Tenia solium* e *Tenia saginata.* Essas larvas alcançam o (5), a partir da contaminação por ingestão de ovos do parasita. Estes são liberados pela eliminação das proglótides grávidas, juntamente com as fezes do porco ou do boi."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q006_img1.png",
+    "pagina": 8,
+    "bbox": [
+     46.1,
+     57.2,
+     543.0,
+     570.7
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   7,
+   8,
+   9
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.625,
+     496.007,
+     547.379008,
+     507.007
+    ],
+    [
+     42.625,
+     508.607,
+     547.638,
+     519.607
+    ],
+    [
+     42.625,
+     521.2070000000001,
+     547.264,
+     532.207
+    ],
+    [
+     42.625,
+     533.9970000000001,
+     547.065992,
+     544.9970000000001
+    ],
+    [
+     42.625,
+     546.607,
+     547.053001,
+     557.607
+    ],
+    [
+     42.625,
+     559.2070000000001,
+     544.228,
+     570.207
+    ],
+    [
+     42.625,
+     579.827,
+     547.149,
+     590.827
+    ],
+    [
+     42.625,
+     592.627,
+     547.1189999999999,
+     603.627
+    ],
+    [
+     42.625,
+     605.2270000000001,
+     486.6079900000001,
+     616.227
+    ]
+   ],
+   "8": [
+    [
+     46.08,
+     57.19999999999993,
+     543.02499,
+     570.6500000000001
+    ],
+    [
+     177.25,
+     571.606,
+     546.8259999999999,
+     579.606
+    ],
+    [
+     385.52,
+     580.806,
+     547.204,
+     588.806
+    ],
+    [
+     454.75,
+     590.0060000000001,
+     547.186,
+     598.0060000000001
+    ],
+    [
+     42.625,
+     609.027,
+     547.2180000000001,
+     620.027
+    ],
+    [
+     64.025,
+     621.627,
+     547.558,
+     632.627
+    ],
+    [
+     64.025,
+     634.427,
+     547.1550000000001,
+     645.427
+    ],
+    [
+     64.025,
+     647.027,
+     111.22600000000001,
+     658.027
+    ],
+    [
+     42.625,
+     659.6270000000001,
+     547.438,
+     670.6270000000001
+    ],
+    [
+     64.025,
+     672.2520000000001,
+     547.291,
+     683.2520000000001
+    ],
+    [
+     64.025,
+     685.052,
+     547.23,
+     696.052
+    ],
+    [
+     64.025,
+     697.652,
+     547.638,
+     708.652
+    ],
+    [
+     64.025,
+     710.2520000000001,
+     317.04700000000014,
+     721.2520000000001
+    ]
+   ],
+   "9": [
+    [
+     42.625,
+     46.107000000000085,
+     547.352,
+     57.107000000000085
+    ],
+    [
+     64.025,
+     58.70700000000011,
+     547.444,
+     69.70700000000011
+    ],
+    [
+     64.025,
+     71.30700000000002,
+     547.451,
+     82.30700000000002
+    ],
+    [
+     64.025,
+     83.90700000000004,
+     438.918,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     547.319,
+     107.70700000000011
+    ],
+    [
+     64.025,
+     109.30700000000002,
+     547.228,
+     120.30700000000002
+    ],
+    [
+     64.025,
+     121.90700000000004,
+     547.1890000000001,
+     132.90700000000004
+    ],
+    [
+     64.025,
+     134.49700000000007,
+     525.682,
+     145.49700000000007
+    ],
+    [
+     42.625,
+     147.12700000000007,
+     547.496,
+     158.12700000000007
+    ],
+    [
+     64.025,
+     159.7270000000001,
+     547.3530000000001,
+     170.7270000000001
+    ],
+    [
+     64.025,
+     172.52700000000004,
+     547.31,
+     183.52700000000004
+    ],
+    [
+     64.025,
+     185.12700000000007,
+     158.108,
+     196.12700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q006_p7.jpg",
+   "revisao/Q006_p8.jpg",
+   "revisao/Q006_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q007",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 7,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A gravidez na adolescência é um problema de saúde pública, porque causa riscos à saúde da mãe e do bebê, trazendo um impacto socioeconômico**.** Além de uma gravidez indesejada, observa-se aumento de doenças sexualmente transmissíveis (**DST**) ou infecções sexualmente transmissíveis (**IST**) na adolescência, com a iniciação sexual precoce. Apesar do que muitos pensam, os adolescentes possuem conhecimento sobre a existência de métodos contraceptivos, uma vez que recebem informações na escola, pela televisão e até mesmo pela internet. Entretanto, a maioria não sabe se prevenir de forma adequada**,** não compreendendo o funcionamento de cada método, utilizando-o de maneira errônea ou, simplesmente, abandonando seu uso por questões pessoais. (Adaptado)\n\n{{fonte:1}}\n\nSobre os métodos contraceptivos e seu funcionamento, pode-se afirmar que",
+  "fontes": [
+   "Disponível em: https://brasilescola.uol.com.br/biologia/gravidez-adolescencia.htm Acesso em: 20 set. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "os preservativos masculino e feminino e o DIU impedem ou dificultam a fecundação e a propagação de DST ou IST."
+   },
+   {
+    "letra": "B",
+    "texto": "a vasectomia e a laqueadura tubária impedem, respectivamente, a secreção de testosterona e estrógeno pelas gônadas."
+   },
+   {
+    "letra": "C",
+    "texto": "os anticoncepcionais orais impedem ou dificultam a gametogênese e a secreção de LH e FSH pela adenohipófise."
+   },
+   {
+    "letra": "D",
+    "texto": "a tabelinha determina o período fértil, pela verificação do aumento da temperatura corporal 5 (cinco) dias antes da ovulação, o que ocorre por causa do aumento da secreção de progesterona pelo corpo lúteo."
+   },
+   {
+    "letra": "E",
+    "texto": "o diafragma é um método de barreira que impede ou dificulta a nidação e propagação de DST ou IST. Nesse dispositivo de borracha, podem ser aplicadas substâncias espermicidas na forma de gel."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.625,
+     210.52700000000004,
+     547.248,
+     221.52700000000004
+    ],
+    [
+     42.625,
+     222.92700000000002,
+     547.4839999999999,
+     233.92700000000002
+    ],
+    [
+     42.625,
+     235.52700000000004,
+     547.443,
+     246.52700000000004
+    ],
+    [
+     42.625,
+     248.52700000000004,
+     546.915,
+     259.52700000000004
+    ],
+    [
+     42.625,
+     261.15700000000004,
+     546.6890000000001,
+     272.157
+    ],
+    [
+     42.625,
+     273.757,
+     547.305,
+     284.757
+    ],
+    [
+     42.625,
+     286.157,
+     547.465,
+     297.157
+    ],
+    [
+     42.625,
+     299.157,
+     501.565,
+     310.157
+    ],
+    [
+     221.68,
+     311.672,
+     547.4029999999998,
+     323.672
+    ],
+    [
+     445.75,
+     325.14300000000003,
+     547.472,
+     334.14300000000003
+    ],
+    [
+     42.625,
+     335.957,
+     415.7680009999999,
+     346.957
+    ],
+    [
+     42.625,
+     361.177,
+     546.7269949999999,
+     372.177
+    ],
+    [
+     64.025,
+     373.777,
+     201.103,
+     384.777
+    ],
+    [
+     42.625,
+     386.577,
+     546.836995,
+     397.577
+    ],
+    [
+     64.025,
+     399.177,
+     190.75599999999997,
+     410.177
+    ],
+    [
+     42.625,
+     411.777,
+     546.7490009999998,
+     422.777
+    ],
+    [
+     64.025,
+     424.377,
+     159.39499999999998,
+     435.377
+    ],
+    [
+     42.625,
+     437.177,
+     547.2349969999998,
+     448.177
+    ],
+    [
+     64.025,
+     449.777,
+     547.4100120000002,
+     460.777
+    ],
+    [
+     64.025,
+     462.407,
+     145.414,
+     473.407
+    ],
+    [
+     42.625,
+     475.007,
+     547.496,
+     486.007
+    ],
+    [
+     64.025,
+     487.807,
+     547.058991,
+     498.807
+    ],
+    [
+     64.025,
+     500.407,
+     81.66900000000001,
+     511.407
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q007_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q008",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 8,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um grupo de pesquisadores encontrou uma nova espécie de artrópode no litoral de Pernambuco, praia dos Carneiros, e resolveu batizá-la em homenagem ao cantor e compositor Chico Science. Identificaram que o corpo era dividido em cabeça, tórax e abdome, sendo a cabeça e o tórax a fusão de dois tagmas, o cefalotórax. Esse artrópode mede menos de um centímetro.\n\n{{fonte:1}}\n\n{{img:1}}\n\nObserve a figura ao lado e assinale a forma **CORRETA** do nome científico, segundo a regra de nomenclatura e o grupo a que pertence.",
+  "fontes": [
+   "Fonte: G1 Pernambuco. Acesso em: 29 set. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "*Chicosciencea pernambucensis, Crustacea*"
+   },
+   {
+    "letra": "B",
+    "texto": "***Chicosciencea Pernambucensis****, Hexapoda*"
+   },
+   {
+    "letra": "C",
+    "texto": "Chicosciencea Pernambucensis, *Diplopoda*"
+   },
+   {
+    "letra": "D",
+    "texto": "*chicosciencea pernambucensis, Chilopoda*"
+   },
+   {
+    "letra": "E",
+    "texto": "**chicosciencea pernambucensis**, *Arachinida*"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q008_img1.png",
+    "pagina": 9,
+    "bbox": [
+     442.8,
+     541.4,
+     541.4,
+     690.5
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.625,
+     537.807,
+     433.67299999999994,
+     549.28
+    ],
+    [
+     42.625,
+     550.9970000000001,
+     434.066996,
+     561.9970000000001
+    ],
+    [
+     42.625,
+     563.627,
+     433.7079999999999,
+     574.627
+    ],
+    [
+     42.625,
+     576.2270000000001,
+     433.6089999999999,
+     587.227
+    ],
+    [
+     42.625,
+     589.027,
+     410.38801099999995,
+     600.027
+    ],
+    [
+     233.88,
+     601.213,
+     434.05199700000003,
+     610.213
+    ],
+    [
+     42.625,
+     624.427,
+     433.86899700000004,
+     635.427
+    ],
+    [
+     42.625,
+     637.2270000000001,
+     336.6550000000001,
+     648.227
+    ],
+    [
+     442.8,
+     541.44,
+     541.44,
+     690.48
+    ],
+    [
+     42.625,
+     657.827,
+     270.139,
+     668.827
+    ],
+    [
+     42.625,
+     670.457,
+     282.952,
+     681.457
+    ],
+    [
+     42.625,
+     683.052,
+     270.145,
+     694.052
+    ],
+    [
+     42.625,
+     695.652,
+     267.145,
+     706.652
+    ],
+    [
+     42.625,
+     708.452,
+     282.147,
+     719.452
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q008_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q009",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 9,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nAs queimadas no Cerrado ocorrem preferencialmente, na estação seca, afetando a fauna e a flora. Nos caules de árvores e arbustos, há uma espessa camada de tecido, que envolve troncos e galhos, agindo como isolante térmico e impedindo que as altas temperaturas das labaredas atinjam os tecidos vivos mais internos dos caules.\n\n{{fonte:1}}\n\nÉ **CORRETO** afirmar que esse papel de proteção é realizado pelo tecido",
+  "fontes": [
+   "Disponível em: https://deolhonosruralistas.com.br/2019/09/16/matopiba-concentra-mais-da-metade-das-queimadas-no-cerrado/ Acesso em: 14 out. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Lenho."
+   },
+   {
+    "letra": "B",
+    "texto": "Súber."
+   },
+   {
+    "letra": "C",
+    "texto": "Xilema."
+   },
+   {
+    "letra": "D",
+    "texto": "Cutícula."
+   },
+   {
+    "letra": "E",
+    "texto": "Floema."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q009_img1.png",
+    "pagina": 10,
+    "bbox": [
+     334.1,
+     62.6,
+     543.6,
+     203.8
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.625,
+     58.70700000000011,
+     325.358,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     324.808,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     325.1620020000001,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     325.1050030000001,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     325.1100050000001,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     325.1410030000002,
+     132.90700000000004
+    ],
+    [
+     334.08,
+     62.64,
+     543.6,
+     203.76000000000002
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     77.63800000000002,
+     145.49700000000007
+    ],
+    [
+     251.68,
+     205.51300000000003,
+     539.1670029999999,
+     214.51300000000003
+    ],
+    [
+     317.7,
+     215.91300000000012,
+     538.8840029999999,
+     224.91300000000012
+    ],
+    [
+     436.93374,
+     226.11300000000006,
+     539.082,
+     235.11300000000006
+    ],
+    [
+     42.625,
+     262.15700000000004,
+     396.9339970000001,
+     273.157
+    ],
+    [
+     42.625,
+     287.557,
+     92.249994,
+     298.557
+    ],
+    [
+     140.84998500000003,
+     287.557,
+     189.47598000000005,
+     298.557
+    ],
+    [
+     244.480004,
+     287.557,
+     296.521004,
+     298.557
+    ],
+    [
+     348.3,
+     287.557,
+     407.546994,
+     298.557
+    ],
+    [
+     462.55,
+     287.557,
+     518.556994,
+     298.557
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q009_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q010",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 10,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um jovem naturalista, mergulhando nas águas claras de Tamandaré, litoral sul de Pernambuco, deparou-se com uma vegetação bem diferente, que cobria o fundo do mar, como se fossem algas. Coletou-as e depois verificou que se tratava de uma fanerógama marinha.\n\n{{img:1}}\n\n{{fonte:1}}\n\nAssinale a alternativa **CORRETA,** observando as características quanto ao grupo a que pertence a espécie identificada.",
+  "fontes": [
+   "Disponível em: eFlora Web - https://www.efloraweb.com.br . Acesso em: 14 out. 2020."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Não produzem flores e sementes, e a absorção de nutrientes ocorre por osmose na epiderme das folhas."
+   },
+   {
+    "letra": "B",
+    "texto": "Reproduzem de forma sexuada, através da fusão de dois gametas haploides e absorvem água por simples difusão célula a célula."
+   },
+   {
+    "letra": "C",
+    "texto": "Produzem flores e sementes e possuem um sistema especializado no transporte da seiva, constituído por um vaso cilíndrico."
+   },
+   {
+    "letra": "D",
+    "texto": "Necessitam de água doce para se reproduzirem, e a absorção de nutrientes acontece por simples difusão entre as células."
+   },
+   {
+    "letra": "E",
+    "texto": "Reproduzem-se por esporófitos, e o transporte de seiva é realizado pelos vasos condutores."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q010_img1.png",
+    "pagina": 10,
+    "bbox": [
+     138.2,
+     365.8,
+     409.0,
+     518.4
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.625,
+     325.557,
+     547.414001,
+     336.557
+    ],
+    [
+     42.625,
+     338.157,
+     547.208995,
+     349.157
+    ],
+    [
+     42.625,
+     350.757,
+     404.47999300000004,
+     361.757
+    ],
+    [
+     138.24,
+     365.76,
+     408.96000000000004,
+     518.4
+    ],
+    [
+     120.45,
+     527.5830000000001,
+     466.54058,
+     536.5830000000001
+    ],
+    [
+     42.625,
+     550.807,
+     547.087999,
+     561.807
+    ],
+    [
+     42.625,
+     563.627,
+     142.373,
+     574.627
+    ],
+    [
+     42.625,
+     589.027,
+     546.7049949999999,
+     600.027
+    ],
+    [
+     64.025,
+     601.627,
+     96.45300000000002,
+     612.627
+    ],
+    [
+     42.625,
+     614.2270000000001,
+     547.1429929999998,
+     625.227
+    ],
+    [
+     64.025,
+     626.827,
+     215.35200000000003,
+     637.827
+    ],
+    [
+     42.625,
+     639.427,
+     546.936001,
+     650.427
+    ],
+    [
+     64.025,
+     652.227,
+     230.12500000000003,
+     663.227
+    ],
+    [
+     42.625,
+     664.857,
+     546.9799949999999,
+     675.857
+    ],
+    [
+     64.025,
+     677.452,
+     182.57199999999997,
+     688.452
+    ],
+    [
+     42.625,
+     690.052,
+     514.595995,
+     701.052
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q010_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q011",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 11,
+  "area": "",
+  "texto_base_id": "P4162-T2",
+  "textos_base_ids": [
+   "P4162-T2"
+  ],
+  "enunciado": "As especificações contidas num rótulo de água mineral apresentam, entre outras informações, o teor de alguns íons presentes na solução, indicando os limites superior e inferior para cada espécie química. A seguir, temos uma tabela com o resultado da análise química para uma marca de água mineral.\n\nÁgua Mineral - Análise Química\n\nÍons\n\nBicarbonato\n\nCálcio  \nCloreto  \nSódio  \nSulfato  \nNitrato  \nConcentração\n\n(mg/L)\n\n11,2 ± 0,9  \n0,75 ±0,09  \n9,1 ± 0,3  \n7,0 ± 0,4  \n1,5 ± 0,1  \n1,6 ± 0,1\n\nConsidere que uma analista foi verificar o teor de cloretos na amostra. Para isso, a determinação de cloretos é realizada a partir da titulação de 100 mL da amostra com solução 0,01 M de nitrato de prata (AgNO<sub>3</sub>), segundo a equação apresentada abaixo:\n\n- →\n\n-  \nAgNO + Cl  \nAgCl + NO  \n3  \n3\n\nSabendo que o resultado da análise mostrou que o teor de cloretos é 51% maior que o limite superior indicado no rótulo, assinale a alternativa que apresenta o volume de solução de nitrato de prata utilizado na titulação.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1,8 mL"
+   },
+   {
+    "letra": "B",
+    "texto": "2,0 mL"
+   },
+   {
+    "letra": "C",
+    "texto": "2,6 mL"
+   },
+   {
+    "letra": "D",
+    "texto": "3,5 mL"
+   },
+   {
+    "letra": "E",
+    "texto": "4,0 mL"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.625,
+     96.70700000000011,
+     547.0279979999999,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000013,
+     546.7220000000002,
+     120.30700000000013
+    ],
+    [
+     42.625,
+     121.90700000000015,
+     546.7439999999999,
+     132.90700000000015
+    ],
+    [
+     42.625,
+     134.49700000000018,
+     81.653,
+     145.49700000000018
+    ],
+    [
+     231.68,
+     160.12000000000012,
+     372.19,
+     170.12000000000012
+    ],
+    [
+     239.48,
+     177.92000000000007,
+     258.46,
+     187.92000000000007
+    ],
+    [
+     222.27,
+     203.72000000000003,
+     275.75000000000006,
+     213.72000000000003
+    ],
+    [
+     235.08,
+     215.32000000000005,
+     263.02000000000004,
+     225.32000000000005
+    ],
+    [
+     232.88,
+     226.72000000000003,
+     265.19,
+     236.72000000000003
+    ],
+    [
+     236.08,
+     238.32000000000005,
+     261.81,
+     248.32000000000005
+    ],
+    [
+     233.27,
+     249.72000000000003,
+     264.58000000000004,
+     259.72
+    ],
+    [
+     234.27,
+     261.35,
+     263.79,
+     271.35
+    ],
+    [
+     313.5,
+     172.12000000000012,
+     375.8,
+     182.12000000000012
+    ],
+    [
+     330.3,
+     183.72000000000003,
+     359.0,
+     193.72000000000003
+    ],
+    [
+     322.5,
+     203.72000000000003,
+     367.35,
+     213.72000000000003
+    ],
+    [
+     321.1,
+     215.32000000000005,
+     368.76000000000005,
+     225.32000000000005
+    ],
+    [
+     325.3,
+     226.72000000000003,
+     364.56,
+     236.72000000000003
+    ],
+    [
+     325.3,
+     238.32000000000005,
+     364.56,
+     248.32000000000005
+    ],
+    [
+     325.3,
+     249.72000000000003,
+     364.56,
+     259.72
+    ],
+    [
+     325.3,
+     261.35,
+     364.56,
+     271.35
+    ],
+    [
+     42.625,
+     286.15700000000004,
+     546.766,
+     297.15700000000004
+    ],
+    [
+     42.625,
+     298.75700000000006,
+     546.6889999999999,
+     309.75700000000006
+    ],
+    [
+     42.625,
+     311.3570000000001,
+     289.11500000000007,
+     322.3570000000001
+    ],
+    [
+     255.82190705477,
+     332.20543608885527,
+     312.46107036110004,
+     341.5188274368323
+    ],
+    [
+     427.39963596999996,
+     332.20543608885527,
+     430.6275487665894,
+     341.5188274368323
+    ],
+    [
+     158.71304384506,
+     334.6028876258385,
+     255.6677338558902,
+     348.7043630554495
+    ],
+    [
+     330.3252914379635,
+     334.6028876258385,
+     422.74470431917734,
+     348.7043630554495
+    ],
+    [
+     197.21739460554,
+     342.8749670815753,
+     202.60694269834403,
+     352.1883584295523
+    ],
+    [
+     422.31446685900005,
+     342.8749670815753,
+     427.7040149518041,
+     352.1883584295523
+    ],
+    [
+     42.62499999999997,
+     362.177,
+     546.645,
+     373.177
+    ],
+    [
+     42.62499999999997,
+     374.77700000000004,
+     546.7439999999996,
+     385.77700000000004
+    ],
+    [
+     42.62499999999997,
+     387.57700000000006,
+     145.40899999999993,
+     398.57700000000006
+    ],
+    [
+     42.625,
+     412.777,
+     97.718,
+     423.777
+    ],
+    [
+     144.85,
+     412.777,
+     199.943,
+     423.777
+    ],
+    [
+     247.27,
+     412.777,
+     302.363,
+     423.777
+    ],
+    [
+     349.73,
+     412.777,
+     404.823,
+     423.777
+    ],
+    [
+     451.95,
+     412.777,
+     507.043,
+     423.777
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q011_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q012",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 12,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em função da pandemia do Sars-Cov-2, as escolas precisaram se adaptar ao ensino no modo remoto. Uma professora de ciências propôs um experimento para que os estudantes fizessem em casa, sob a supervisão de um adulto. No experimento proposto, 100 mL de vinagre (solução aquosa 6% m/v de ácido acético, CH<sub>3</sub>CO<sub>2</sub>H) são transferidos para uma garrafa PET de 300 mL. Por outro lado, 100 g de bicarbonato de sódio, NaHCO<sub>3</sub>, são acomodados num balão de festa. Esse balão é fixado na “boca” da garrafa, conforme ilustração, de forma que o bicarbonato seja transferido para a garrafa PET, e a reação equacionada abaixo se processa totalmente. Ao final do experimento, o balão de festa infla por causa do gás liberado.\n\n{{img:1}}\n\n{{fonte:1}}\n\n{{img:2}}\n\nConsiderando que o experimento se processa sob pressão atmosférica de 1,0 atm e temperatura de 27ºC, assinale a alternativa que apresenta o volume ocupado pelo gás e a massa de acetato de sódio produzidos na atividade experimental.\n\nDados: Massa atômica (em u) – H = 1; C = 12; O =16; Na = 23.  \nConstante dos gases ideais: R = 0,082 atm.L.mol<sup>-1</sup>.K<sup>-1</sup>",
+  "fontes": [
+   "Disponível em: www.tempojunto.com"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "2,46 L e 8,20 g"
+   },
+   {
+    "letra": "B",
+    "texto": "5,90 L e 16,4 g"
+   },
+   {
+    "letra": "C",
+    "texto": "11,2 L e 41,0 g"
+   },
+   {
+    "letra": "D",
+    "texto": "15,0 L e 60,0 g"
+   },
+   {
+    "letra": "E",
+    "texto": "29,3 L e 97,6 g"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q012_img1.png",
+    "pagina": 11,
+    "bbox": [
+     398.2,
+     457.9,
+     539.3,
+     625.0
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q012_img2.png",
+    "pagina": 11,
+    "bbox": [
+     53.0,
+     649.6,
+     532.4,
+     688.6
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   11,
+   12
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.625,
+     458.807,
+     386.68900600000006,
+     469.807
+    ],
+    [
+     42.625,
+     471.40700000000004,
+     386.47400000000005,
+     482.40700000000004
+    ],
+    [
+     42.625,
+     484.20700000000005,
+     386.6610000000001,
+     495.20700000000005
+    ],
+    [
+     42.625,
+     496.8070000000001,
+     386.48500000000007,
+     507.8070000000001
+    ],
+    [
+     42.625,
+     509.4070000000001,
+     386.988,
+     520.4070000000002
+    ],
+    [
+     42.625,
+     521.9970000000001,
+     386.5729999999999,
+     532.9970000000001
+    ],
+    [
+     42.625,
+     534.6070000000001,
+     386.85400000000004,
+     545.6070000000001
+    ],
+    [
+     42.625,
+     547.44,
+     386.7270000000001,
+     558.44
+    ],
+    [
+     42.625,
+     560.027,
+     386.562,
+     571.027
+    ],
+    [
+     42.625,
+     572.6270000000002,
+     386.43,
+     583.6270000000001
+    ],
+    [
+     42.625,
+     585.2270000000001,
+     343.45300000000003,
+     596.2270000000001
+    ],
+    [
+     398.16,
+     457.92,
+     539.28,
+     624.96
+    ],
+    [
+     398.13,
+     631.6,
+     537.446,
+     640.6
+    ],
+    [
+     53.0,
+     649.6,
+     532.3999939,
+     688.6
+    ]
+   ],
+   "12": [
+    [
+     42.625,
+     58.70700000000011,
+     546.81,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000013,
+     546.7109999999998,
+     82.30700000000013
+    ],
+    [
+     42.625,
+     83.90700000000015,
+     227.7220000000001,
+     94.90700000000015
+    ],
+    [
+     136.65,
+     110.70700000000011,
+     445.48699999999997,
+     121.74000000000001
+    ],
+    [
+     159.25,
+     123.30700000000002,
+     422.622,
+     134.30700000000002
+    ],
+    [
+     42.62500000000001,
+     159.92700000000025,
+     137.50499500000004,
+     170.92700000000025
+    ],
+    [
+     42.625000000000014,
+     172.52700000000027,
+     137.50499500000004,
+     183.52700000000027
+    ],
+    [
+     42.625000000000014,
+     185.1270000000003,
+     137.50500100000002,
+     196.1270000000003
+    ],
+    [
+     42.625000000000014,
+     197.92700000000025,
+     137.50499500000004,
+     208.92700000000025
+    ],
+    [
+     42.625000000000014,
+     210.52700000000027,
+     137.50499500000004,
+     221.52700000000027
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q012_p11.jpg",
+   "revisao/Q012_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q013",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 13,
+  "area": "",
+  "texto_base_id": "P4162-T3",
+  "textos_base_ids": [
+   "P4162-T3"
+  ],
+  "enunciado": "Lívia, estudante de tecnologia de alimentos, precisou de uma solução-tampão para analisar o controle de pH no processamento de carne de caranguejo. Ela tomou por partida quantidades dessas substâncias, de modo a produzir uma mistura em que as concentrações do ácido e do sal são 0,1 mol/L e 0,5 mol/L, respectivamente. Qual o pH da solução-tampão obtida pela estudante?\n\nDados: K<sub>a</sub> (H<sub>3</sub>CCOOH) = 1,8x10<sup>-5</sup>; log 18 = 1,25; log 10 = 1; log 5 = 0,7.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "4,45"
+   },
+   {
+    "letra": "B",
+    "texto": "4,95"
+   },
+   {
+    "letra": "C",
+    "texto": "5,45"
+   },
+   {
+    "letra": "D",
+    "texto": "5,95"
+   },
+   {
+    "letra": "E",
+    "texto": "6,25"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.62500000000006,
+     562.4270000000004,
+     547.1350060000001,
+     573.4270000000004
+    ],
+    [
+     42.62500000000006,
+     575.2270000000004,
+     546.6890000000001,
+     586.2270000000004
+    ],
+    [
+     42.62500000000006,
+     587.8270000000005,
+     546.7580029999999,
+     598.8270000000005
+    ],
+    [
+     42.62500000000006,
+     600.4270000000004,
+     480.5080059999998,
+     611.4270000000004
+    ],
+    [
+     127.65,
+     630.427,
+     477.498998,
+     641.427
+    ],
+    [
+     42.62500000000006,
+     659.0270000000004,
+     85.52999500000006,
+     670.0270000000004
+    ],
+    [
+     42.62500000000006,
+     671.6520000000004,
+     85.52999500000006,
+     682.6520000000004
+    ],
+    [
+     42.62500000000006,
+     684.4520000000005,
+     85.53000100000007,
+     695.4520000000005
+    ],
+    [
+     42.62500000000006,
+     697.0520000000004,
+     85.52999500000006,
+     708.0520000000004
+    ],
+    [
+     42.62500000000006,
+     709.6520000000004,
+     85.52999500000006,
+     720.6520000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q013_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q014",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 14,
+  "area": "",
+  "texto_base_id": "P4162-T3",
+  "textos_base_ids": [
+   "P4162-T3"
+  ],
+  "enunciado": "Chegando ao laboratório, a orientadora de Lívia encontra duas soluções com o mesmo pH, mas identificadas apenas como solução A e solução B. Ao procurar saber qual foi a solução preparada para a pesquisa com carne de caranguejo, ela acrescenta, em uma separata de cada solução, 5 mL de hidróxido de sódio. O teste realizado permitiu a conclusão de que a amostra A era a solução-tampão preparada pela estudante.\n\nAssinale a alternativa que representa a descrição do procedimento.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A orientadora observou que o pH de ambas as soluções diminuiu, resultando em valores iguais após certo tempo. A solução A é o sistema tamponado, pois atingiu o pH final antes da solução B."
+   },
+   {
+    "letra": "B",
+    "texto": "A orientadora observou que o pH de ambas as soluções aumentou, resultando em valores iguais após certo tempo. A solução A é o sistema tamponado, pois atingiu o pH final antes da solução B."
+   },
+   {
+    "letra": "C",
+    "texto": "A orientadora observou que os dois sistemas resistiram à variação de pH, no entanto não houve modificação na coloração da solução A, o que permitiu concluir que este era o sistema tamponado."
+   },
+   {
+    "letra": "D",
+    "texto": "A orientadora observou que o pH de ambas as soluções aumentou, mas, ao final do processo, o pH da solução A era menor que o da solução B, por isso a solução A é o sistema tamponado."
+   },
+   {
+    "letra": "E",
+    "texto": "A orientadora observou que o pH de ambas as soluções diminuiu, mas, ao final do processo, o pH da solução A era maior que o da solução B, por isso a solução A é o sistema tamponado."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     46.107000000000085,
+     547.455997,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     546.7660000000001,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     546.6999999999998,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     547.466997,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     171.171,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     371.56899999999996,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     546.5619949999997,
+     158.3270000000001
+    ],
+    [
+     64.025,
+     159.92700000000002,
+     542.2159989999994,
+     170.92700000000002
+    ],
+    [
+     42.625,
+     172.52700000000004,
+     546.6609949999998,
+     183.52700000000004
+    ],
+    [
+     64.025,
+     185.12700000000007,
+     542.6160029999995,
+     196.12700000000007
+    ],
+    [
+     42.625,
+     197.92700000000002,
+     546.7270009999999,
+     208.92700000000002
+    ],
+    [
+     64.025,
+     210.52700000000004,
+     546.8039999999999,
+     221.52700000000004
+    ],
+    [
+     64.025,
+     223.12700000000007,
+     122.22600000000001,
+     234.12700000000007
+    ],
+    [
+     42.625,
+     235.7270000000001,
+     547.2279899999999,
+     246.7270000000001
+    ],
+    [
+     64.025,
+     248.52700000000004,
+     520.723,
+     259.52700000000004
+    ],
+    [
+     42.625,
+     261.15700000000004,
+     546.7599949999999,
+     272.157
+    ],
+    [
+     64.025,
+     273.757,
+     500.1480059999999,
+     284.757
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q014_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q015",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 15,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em um recipiente fechado de 24,4 litros, mantido a 25ºC, há apenas 22,4 g de octeno (C<sub>8</sub>H ) líquido e gás oxigênio (O<sub>2</sub>), de forma que a pressão do sistema seja igual a 4,0 atm. Considere que a transformação representada pela equação não balanceada abaixo aconteceu à temperatura e ao volume constantes e desconsidere a pressão de vapor da água e do octeno.\n\nC<sub>8</sub>H<sub>16(l)</sub> + O<sub>2(g)</sub>  \nH<sub>2</sub>O<sub>(l)</sub> + CO<sub>2(g)</sub>\n\nAssinale a alternativa que apresenta o valor da pressão do sistema ao término da reação.\n\nDados: Massa atômica (em u) – H = 1; C = 12; O =16.  \nConstante dos gases ideais: R = 0,082 atm.L.mol<sup>-1</sup>.K<sup>-1</sup>",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "2,0 atm"
+   },
+   {
+    "letra": "B",
+    "texto": "3,2 atm"
+   },
+   {
+    "letra": "C",
+    "texto": "4,0 atm"
+   },
+   {
+    "letra": "D",
+    "texto": "6,0 atm"
+   },
+   {
+    "letra": "E",
+    "texto": "6,4 atm"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     299.157,
+     547.633,
+     310.157
+    ],
+    [
+     42.625,
+     311.757,
+     546.8149999999999,
+     322.757
+    ],
+    [
+     42.625,
+     324.357,
+     546.766,
+     335.357
+    ],
+    [
+     42.625,
+     336.957,
+     415.5469999999999,
+     347.957
+    ],
+    [
+     169.77879942093398,
+     355.6581170463375,
+     264.1388994481867,
+     367.8614108088375
+    ],
+    [
+     321.2144819922412,
+     355.6581170463375,
+     419.61895972766763,
+     367.8614108088375
+    ],
+    [
+     42.625,
+     384.777,
+     480.3259999999999,
+     395.777
+    ],
+    [
+     178.25,
+     406.377,
+     442.108,
+     417.41
+    ],
+    [
+     211.68,
+     419.177,
+     475.442,
+     430.177
+    ],
+    [
+     42.625,
+     447.97700000000003,
+     100.577995,
+     458.97700000000003
+    ],
+    [
+     42.625,
+     460.607,
+     100.58598099999999,
+     471.607
+    ],
+    [
+     42.625,
+     473.407,
+     100.578001,
+     484.407
+    ],
+    [
+     42.625,
+     486.007,
+     100.577995,
+     497.007
+    ],
+    [
+     42.625,
+     498.607,
+     100.577995,
+     509.607
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q016",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 16,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As aminas são bases de Bronsted-Lowry, portanto soluções aquosas desses compostos apresentam *pH* alcalino. Considere que, numa dada condição, o *K<sub>b</sub>* da trietilamina, (CH<sub>3</sub>CH<sub>2</sub>)<sub>3</sub>N, é igual\n\n-4  \na 4,9 x 10 .\n\n+  \n- (CH<sub>3</sub>CH<sub>2</sub>)<sub>3</sub>N<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub>  \n(CH<sub>3</sub>CH<sub>2</sub>)<sub>3</sub>NH\n\n+ OH <sub>(aq)</sub> ⇌  \n(aq)\n\nNessa condição, qual o pH de uma solução 0,1 M de trietilamina?\n\nDado: *log 7 = 0,85*",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "*pH* = 2,15"
+   },
+   {
+    "letra": "B",
+    "texto": "*pH* = 4,85"
+   },
+   {
+    "letra": "C",
+    "texto": "*pH* = 8,15"
+   },
+   {
+    "letra": "D",
+    "texto": "*pH* = 10,15"
+   },
+   {
+    "letra": "E",
+    "texto": "*pH* = 11,85"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     523.9970000000001,
+     547.033003,
+     534.9970000000001
+    ],
+    [
+     42.625,
+     536.407,
+     547.3770000000001,
+     547.407
+    ],
+    [
+     91.025,
+     547.379,
+     97.316999,
+     554.379
+    ],
+    [
+     42.625,
+     549.2070000000001,
+     100.283,
+     560.207
+    ],
+    [
+     401.1983371371,
+     566.0532105281477,
+     406.44903953251367,
+     574.8292867036248
+    ],
+    [
+     474.0767430874,
+     566.0532105281477,
+     477.07072236423693,
+     574.8292867036248
+    ],
+    [
+     97.56423259818,
+     568.312346489416,
+     255.4839445046741,
+     581.6002690015271
+    ],
+    [
+     321.4744345985,
+     568.312346489416,
+     401.56735147050694,
+     581.6002690015271
+    ],
+    [
+     432.16240486053414,
+     568.312346489416,
+     492.0032421866269,
+     581.6002690015271
+    ],
+    [
+     274.02762211870004,
+     576.1071869208678,
+     304.43080529020006,
+     584.8832630963448
+    ],
+    [
+     406.16992683809997,
+     576.1071869208678,
+     421.2027057780269,
+     584.8832630963448
+    ],
+    [
+     42.625,
+     599.427,
+     362.8789999999999,
+     610.427
+    ],
+    [
+     66.825,
+     627.027,
+     156.35500000000002,
+     638.038
+    ],
+    [
+     46.025,
+     662.427,
+     112.135,
+     673.427
+    ],
+    [
+     46.025,
+     675.052,
+     112.134997,
+     686.052
+    ],
+    [
+     46.025,
+     687.652,
+     112.134997,
+     698.652
+    ],
+    [
+     46.025,
+     700.2520000000001,
+     118.328,
+     711.2520000000001
+    ],
+    [
+     46.025,
+     713.052,
+     118.327997,
+     724.052
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q016_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q017",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 17,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A Lidocaína é um anestésico local, que tem meia-vida de 90 min, sendo muito utilizado em procedimentos odontológicos simples. Em geral, após 4,5 h de sua aplicação, o paciente não sente mais os efeitos anestésicos da droga, mas ainda há uma quantidade desta na corrente sanguínea.\n\nAssinale a alternativa que apresenta o percentual remanescente de lidocaína no sistema vivo após esse tempo de administração.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "12,5%"
+   },
+   {
+    "letra": "B",
+    "texto": "25,0%"
+   },
+   {
+    "letra": "C",
+    "texto": "33,3%"
+   },
+   {
+    "letra": "D",
+    "texto": "45,0%"
+   },
+   {
+    "letra": "E",
+    "texto": "50,0%"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     58.70700000000011,
+     546.8079979999999,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     546.8440009999997,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     523.6769999999997,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     103.49700000000007,
+     547.3129969999998,
+     114.49700000000007
+    ],
+    [
+     42.625,
+     116.10700000000008,
+     189.36499999999998,
+     127.10700000000008
+    ],
+    [
+     42.625,
+     141.49700000000007,
+     95.385995,
+     152.49700000000007
+    ],
+    [
+     42.625,
+     154.12700000000007,
+     95.385995,
+     165.12700000000007
+    ],
+    [
+     42.625,
+     166.7270000000001,
+     95.386001,
+     177.7270000000001
+    ],
+    [
+     42.625,
+     179.52700000000004,
+     95.385995,
+     190.52700000000004
+    ],
+    [
+     42.625,
+     192.12700000000007,
+     95.385995,
+     203.12700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q017_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q018",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 18,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "No artigo intitulado *Saberes Populares Fazendo-se Saberes Escolares*, publicado em Química Nova na Escola (2011), estudantes foram estimulados a investigar, entre outros pontos, o efeito da quantidade de fermento e de açúcar no tempo necessário para o crescimento da massa. Os estudantes relataram que **“no verão, o pão cresce bem mais rápido; no inverno, às vezes, demora quase um dia”**. A tabela abaixo apresenta os resultados coletados pelos estudantes durante a atividade que foi realizada em um mesmo dia.\n\nQuantidade de açúcar\n\nQuantidade de levedura Tempo para crescimento  \nEnsaio  \n(colheres de chá)  \n(colheres de chá)  \nda massa* 1\n\n1/2  \n2\n\n1  \n3\n\n1  \n4\n\n1  \n3  \n30 min  \n3  \n15 min  \n6  \n7,5 min  \n9  \n5 min\n\n{{fonte:1}}\n\nAssinale a alternativa **CORRETA** quanto ao experimento descrito.",
+  "fontes": [
+   "*Tempo necessário para alcançar o mesmo volume (Adaptado de QNEsc, 33, 3, 135, 2011)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Diminuir a temperatura do ensaio 4 resultaria na diminuição do tempo de crescimento da massa."
+   },
+   {
+    "letra": "B",
+    "texto": "Os dados apresentados indicam que a velocidade de crescimento da massa independe da temperatura do sistema."
+   },
+   {
+    "letra": "C",
+    "texto": "O aumento das quantidades de açúcar e de levedura diminuiu a velocidade de crescimento da massa uniformemente, indicando que a cinética é de 1ª ordem."
+   },
+   {
+    "letra": "D",
+    "texto": "A cinética da transformação descrita é de 1ª ordem, tanto para a quantidade de açúcar quanto para a quantidade de levedura, resultando numa cinética total de 2ª ordem."
+   },
+   {
+    "letra": "E",
+    "texto": "O experimento descrito tem cinética de 3ª ordem, pois, ao aumentar em três vezes a quantidade de levedura, mantendo constante a quantidade de açúcar, o tempo necessário para o crescimento da massa reduziu em três vezes."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     229.92700000000002,
+     547.328,
+     240.92700000000002
+    ],
+    [
+     42.625,
+     242.7270000000001,
+     546.7659999999996,
+     253.7270000000001
+    ],
+    [
+     42.625,
+     255.35700000000008,
+     546.7440000000001,
+     266.3570000000001
+    ],
+    [
+     42.625,
+     267.757,
+     547.1460000000002,
+     278.79
+    ],
+    [
+     42.625,
+     280.557,
+     546.9749999999998,
+     291.59000000000003
+    ],
+    [
+     42.625,
+     293.357,
+     266.71700000000004,
+     304.357
+    ],
+    [
+     142.65,
+     318.95,
+     241.06000000000003,
+     328.95
+    ],
+    [
+     269.67,
+     318.95,
+     509.33000000000004,
+     328.95
+    ],
+    [
+     84.425,
+     324.75,
+     115.155,
+     334.75
+    ],
+    [
+     153.45,
+     330.35,
+     230.70000000000002,
+     340.35
+    ],
+    [
+     284.5,
+     330.35,
+     361.75,
+     340.35
+    ],
+    [
+     430.75,
+     330.35,
+     477.8,
+     340.35
+    ],
+    [
+     97.025,
+     342.35,
+     102.58500000000001,
+     352.35
+    ],
+    [
+     185.05,
+     342.35,
+     198.98000000000002,
+     352.35
+    ],
+    [
+     97.025,
+     353.97,
+     102.58500000000001,
+     363.97
+    ],
+    [
+     189.25,
+     353.97,
+     194.81,
+     363.97
+    ],
+    [
+     97.025,
+     365.37,
+     102.58500000000001,
+     375.37
+    ],
+    [
+     189.25,
+     365.37,
+     194.81,
+     375.37
+    ],
+    [
+     97.025,
+     376.97,
+     102.58500000000001,
+     386.97
+    ],
+    [
+     189.25,
+     376.97,
+     194.81,
+     386.97
+    ],
+    [
+     320.3,
+     342.35,
+     325.86,
+     352.35
+    ],
+    [
+     439.35,
+     342.35,
+     469.28000000000003,
+     352.35
+    ],
+    [
+     320.3,
+     353.97,
+     325.86,
+     363.97
+    ],
+    [
+     439.35,
+     353.97,
+     469.28000000000003,
+     363.97
+    ],
+    [
+     320.3,
+     365.37,
+     325.86,
+     375.37
+    ],
+    [
+     437.95,
+     365.37,
+     470.68,
+     375.37
+    ],
+    [
+     320.3,
+     376.97,
+     325.86,
+     386.97
+    ],
+    [
+     442.15,
+     376.97,
+     466.49,
+     386.97
+    ],
+    [
+     307.1,
+     388.76300000000003,
+     512.552,
+     397.76300000000003
+    ],
+    [
+     354.52,
+     399.163,
+     512.6769999999999,
+     408.163
+    ],
+    [
+     42.625,
+     422.377,
+     364.812997,
+     433.377
+    ],
+    [
+     42.625,
+     447.777,
+     535.3089949999999,
+     458.777
+    ],
+    [
+     42.625,
+     460.407,
+     546.792995,
+     471.407
+    ],
+    [
+     64.025,
+     473.207,
+     182.78099999999998,
+     484.207
+    ],
+    [
+     42.625,
+     485.807,
+     547.2660009999998,
+     496.807
+    ],
+    [
+     64.025,
+     498.407,
+     372.1609930000001,
+     509.407
+    ],
+    [
+     42.625,
+     510.997,
+     546.7819949999997,
+     521.9970000000001
+    ],
+    [
+     64.025,
+     523.807,
+     431.375995,
+     534.807
+    ],
+    [
+     42.625,
+     536.407,
+     547.1549829999998,
+     547.407
+    ],
+    [
+     64.025,
+     548.9970000000001,
+     546.738,
+     559.9970000000001
+    ],
+    [
+     64.025,
+     561.627,
+     225.671001,
+     572.627
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q018_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q019",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 19,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em 2020, temos observado uma escala no número de casos de queimadas no Cerrado Brasileiro, destruindo a fauna e a flora, como nunca visto, e aumentando a temperatura média do país. Para estimar o impacto das queimadas no Cerrado, um professor realizou uma atividade experimental, usando 300 g de uma madeira conhecida como Jatobá do cerrado (*Hymenaea stigonocarpa*), cujo poder calorífico superior é igual a 4,85 kcal/kg, ou seja: a queima de um quilograma dessa madeira libera 4,85 quilocalorias. O professor usou o calor liberado na queima para aquecer 10,0 g de gelo que, inicialmente, estava a –5º C.\n\nAssinale a alternativa que apresenta a condição **CORRETA** do sistema ao final do processo.\n\nDados:\n\nCapacidade calorífica do gelo = 0,5 cal.g<sup>-1</sup>.°C<sup>-1</sup>  \nCapacidade calorífica da água = 1,0 cal.g<sup>-1</sup>.°C<sup>-1</sup>\n\nEntalpia de fusão da água = 80 cal.g<sup>-1</sup>  \nPonto de fusão da água = 0 ºC",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "10,0 g de gelo, a 0 °C"
+   },
+   {
+    "letra": "B",
+    "texto": "5,0 g de gelo e 5,0 g de água líquida, ambos a 0 °C"
+   },
+   {
+    "letra": "C",
+    "texto": "10,0 g de água líquida, a 14,5 °C"
+   },
+   {
+    "letra": "D",
+    "texto": "10,0 g de água líquida, a 63,0 °C"
+   },
+   {
+    "letra": "E",
+    "texto": "10,0 g de água líquida, a 72,5 °C"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   14,
+   15
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     599.627,
+     546.6120000000001,
+     610.627
+    ],
+    [
+     42.625,
+     612.2270000000001,
+     546.7549999999997,
+     623.227
+    ],
+    [
+     42.625,
+     624.827,
+     547.006999,
+     635.827
+    ],
+    [
+     42.625,
+     637.427,
+     547.474,
+     648.427
+    ],
+    [
+     42.625,
+     650.2270000000001,
+     546.5129999999999,
+     661.227
+    ],
+    [
+     42.625,
+     662.857,
+     547.0819969999998,
+     673.857
+    ],
+    [
+     42.625,
+     675.452,
+     181.883,
+     686.485
+    ]
+   ],
+   "15": [
+    [
+     42.625,
+     45.90700000000004,
+     495.215997,
+     56.90700000000004
+    ],
+    [
+     277.5,
+     72.70700000000011,
+     312.513,
+     83.70700000000011
+    ],
+    [
+     171.05,
+     85.49700000000007,
+     398.02199899999994,
+     96.49700000000007
+    ],
+    [
+     179.65,
+     98.10700000000008,
+     410.4120029999999,
+     109.10700000000008
+    ],
+    [
+     188.65,
+     110.70700000000011,
+     373.81199899999996,
+     121.70700000000011
+    ],
+    [
+     219.68,
+     123.49700000000007,
+     370.27200000000005,
+     134.49700000000007
+    ],
+    [
+     42.625,
+     150.3270000000001,
+     170.591994,
+     161.3270000000001
+    ],
+    [
+     42.625,
+     162.92700000000013,
+     315.6419870000001,
+     173.92700000000013
+    ],
+    [
+     42.625,
+     175.52700000000016,
+     225.02199099999996,
+     186.52700000000016
+    ],
+    [
+     42.625,
+     188.12700000000018,
+     225.02198500000003,
+     199.12700000000018
+    ],
+    [
+     42.625,
+     200.92700000000002,
+     225.02200000000002,
+     211.92700000000013
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019_p14.jpg",
+   "revisao/Q019_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q020",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 20,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:2}}\n\nConsidere cinco recipientes idênticos, graduados e sem tampas, contendo 200 mL de amostras aquosas, como segue:\n\nI) Água pura; II) Solução 0,1 M de Na<sub>3</sub>PO<sub>4</sub>; III)\n\n{{img:1}}\n\nSolução 0,1 M de NaCl; IV) Solução 0,1 M de Sacarose (C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>); e V) Solução mista 0,1 M de NaCl e 0,1 M de Sacarose (C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>).\n\nA figura ao lado apresenta a variação de volume nos frascos após 12 horas mantidos abertos em temperatura de 27ºC. Cada frasco foi identificado com as letras de A a E.\n\nAssinale a alternativa com a identificação do frasco que contém a solução de fosfato de sódio, Na<sub>3</sub>PO<sub>4</sub>.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A"
+   },
+   {
+    "letra": "B",
+    "texto": "B"
+   },
+   {
+    "letra": "C",
+    "texto": "C"
+   },
+   {
+    "letra": "D",
+    "texto": "D"
+   },
+   {
+    "letra": "E",
+    "texto": "E"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q020_img1.png",
+    "pagina": 15,
+    "bbox": [
+     333.4,
+     280.8,
+     516.2,
+     290.9
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q020_img2.png",
+    "pagina": 15,
+    "bbox": [
+     418.3,
+     364.3,
+     481.7,
+     404.6
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.625,
+     247.92700000000013,
+     546.7,
+     258.92700000000013
+    ],
+    [
+     42.625,
+     260.75700000000006,
+     153.38400000000001,
+     271.75700000000006
+    ],
+    [
+     42.625,
+     281.957,
+     292.31800000000004,
+     292.957
+    ],
+    [
+     333.36,
+     280.8,
+     516.24,
+     290.88
+    ],
+    [
+     42.625,
+     294.557,
+     292.303,
+     305.557
+    ],
+    [
+     42.625,
+     307.157,
+     292.403,
+     318.157
+    ],
+    [
+     42.625,
+     319.757,
+     232.738,
+     330.757
+    ],
+    [
+     42.625,
+     340.557,
+     292.0060000000001,
+     351.557
+    ],
+    [
+     42.625,
+     353.177,
+     292.304,
+     364.177
+    ],
+    [
+     42.625,
+     365.777,
+     292.05000000000007,
+     376.777
+    ],
+    [
+     42.625,
+     378.577,
+     156.50799999999998,
+     389.577
+    ],
+    [
+     42.625,
+     396.97700000000003,
+     292.08299999999997,
+     407.97700000000003
+    ],
+    [
+     418.32,
+     364.32,
+     481.68,
+     404.64
+    ],
+    [
+     42.625,
+     409.577,
+     291.98400000000004,
+     420.577
+    ],
+    [
+     42.625,
+     422.177,
+     83.483,
+     433.177
+    ],
+    [
+     42.625,
+     503.207,
+     71.36200000000001,
+     514.207
+    ],
+    [
+     42.625,
+     515.807,
+     71.36200000000001,
+     526.807
+    ],
+    [
+     42.625,
+     528.607,
+     71.96700000000001,
+     539.607
+    ],
+    [
+     42.625,
+     541.2070000000001,
+     71.96700000000001,
+     552.207
+    ],
+    [
+     42.625,
+     553.807,
+     71.36200000000001,
+     564.807
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q020_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q021",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 21,
+  "area": "",
+  "texto_base_id": "P4162-T4",
+  "textos_base_ids": [
+   "P4162-T4"
+  ],
+  "enunciado": "Nas décadas de 1670 e 1680, os africanos, crioulos e descendentes alojados em Palmares eram vistos pelas autoridades metropolitanas como “holandeses de outra cor”, por conta da ameaça que representavam à ordem colonial portuguesa na América. Sua derrota pela força das armas só ocorreu em meados da década seguinte, após um conflito secular com dois dos maiores poderes coloniais europeus do mundo moderno.\n\n{{fonte:1}}\n\nO conflito contra o movimento citado pelo texto teve como principal motivação o/a",
+  "fontes": [
+   "Fonte: MARQUESE, Rafael de Bivar. A dinâmica da escravidão no Brasil. Resistência, tráfico negreiro e alforrias, séculos XVII a XIX. p. 108. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "empreendimento das primeiras ideias republicanas com ênfase militarista."
+   },
+   {
+    "letra": "B",
+    "texto": "investida da Coroa Ibérica em retomar o absolutismo e manter o Antigo Regime."
+   },
+   {
+    "letra": "C",
+    "texto": "tentativa da Coroa Portuguesa em desmobilizar a resistência contra a escravidão."
+   },
+   {
+    "letra": "D",
+    "texto": "formação de milícias para derrubar a coroa portuguesa e proclamar a autonomia."
+   },
+   {
+    "letra": "E",
+    "texto": "esforço das elites cafeicultoras em apoiar o fim da escravidão e ampliar as plantações."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     83.90700000000004,
+     546.517996,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.74000000000001,
+     546.6999999999998,
+     107.74000000000001
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     546.711,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     547.1949999999997,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     190.14600000000004,
+     145.49700000000007
+    ],
+    [
+     61.625,
+     152.51300000000003,
+     546.9770000000003,
+     161.51300000000003
+    ],
+    [
+     426.35,
+     162.91300000000012,
+     547.4540000000001,
+     171.91300000000012
+    ],
+    [
+     42.625,
+     186.3270000000001,
+     441.466,
+     197.3270000000001
+    ],
+    [
+     42.625,
+     211.7270000000001,
+     425.3879970000002,
+     222.7270000000001
+    ],
+    [
+     42.625,
+     224.3270000000001,
+     456.40799699999985,
+     235.3270000000001
+    ],
+    [
+     42.625,
+     236.92700000000002,
+     463.608009,
+     247.92700000000002
+    ],
+    [
+     42.625,
+     249.55700000000002,
+     460.40799300000003,
+     260.557
+    ],
+    [
+     42.625,
+     262.3570000000001,
+     487.09599499999996,
+     273.357
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q022",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 22,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Robert Dahl começa um livro sobre a democracia econômica perguntando se a igualdade é inimiga da liberdade. Ele não inventou a pergunta. O problema é pelo menos tão velho quanto a filosofia liberal, se o ponto inicial do liberalismo for situado em Locke.\n\n{{fonte:1}}\n\nQual a principal característica do pensamento político-filosófico do importante autor do século XVII apontado pelo texto?",
+  "fontes": [
+   "Fonte: KUNTZ, Rolf. Lock, liberdade, igualdade e propriedade. Texto da conferência realizada por Rolf Kuntz no IEA, em 11 de abril de 1997. Disponível em: www.iea.usp.com.br (Adaptado)."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O multilateralismo"
+   },
+   {
+    "letra": "B",
+    "texto": "O direito autoritário"
+   },
+   {
+    "letra": "C",
+    "texto": "A propriedade comunal"
+   },
+   {
+    "letra": "D",
+    "texto": "A noção de governo consentido"
+   },
+   {
+    "letra": "E",
+    "texto": "A constituição de um poder moderador"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     300.157,
+     546.7159959999999,
+     311.157
+    ],
+    [
+     42.625,
+     312.957,
+     546.8099999999998,
+     323.957
+    ],
+    [
+     42.625,
+     325.557,
+     379.39000000000004,
+     336.557
+    ],
+    [
+     65.225,
+     340.14300000000003,
+     547.2640010000003,
+     349.14300000000003
+    ],
+    [
+     272.5,
+     350.343,
+     547.2340000000002,
+     359.343
+    ],
+    [
+     42.625,
+     373.777,
+     547.147986,
+     384.777
+    ],
+    [
+     42.625,
+     386.577,
+     145.27700000000002,
+     397.577
+    ],
+    [
+     42.625,
+     411.777,
+     152.05799499999998,
+     422.777
+    ],
+    [
+     42.625,
+     424.377,
+     157.26099499999998,
+     435.377
+    ],
+    [
+     42.625,
+     437.177,
+     177.75400100000002,
+     448.177
+    ],
+    [
+     42.625,
+     449.777,
+     218.61899500000007,
+     460.777
+    ],
+    [
+     42.625,
+     462.407,
+     253.6249880000001,
+     473.407
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q022_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q023",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 23,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A consolidação e centralização do Império não se realizaram exatamente quando da Independência em 1822, mas em decorrência de processos políticos e militares que reafirmaram a consolidação do Estado entre as décadas de 1840 e 1850.\n\n{{fonte:1}}\n\nO período subsequente ao retratado pelo texto é caracterizado pela",
+  "fontes": [
+   "Fonte: DANTAS, Mariana Albuquerque. Populações indígenas e movimentos rebeldes: Pernambuco na primeira metade do Oitocentos. In: Anais do XXVI Simpósio Nacional de História – ANPUH - São Paulo, julho 2011. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "descentralização política e pelo combate ao sistema escravocrata."
+   },
+   {
+    "letra": "B",
+    "texto": "implementação de uma agenda liberal contra a ordem monárquica."
+   },
+   {
+    "letra": "C",
+    "texto": "institucionalização de eleições universais marcando o fim do voto censitário."
+   },
+   {
+    "letra": "D",
+    "texto": "permutação da capital do império para Salvador retomando a dinâmica colonial."
+   },
+   {
+    "letra": "E",
+    "texto": "organização administrativa após as revoltas ocorridas durante a Primeira Regência."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     500.407,
+     547.342996,
+     511.407
+    ],
+    [
+     42.625,
+     512.9970000000001,
+     546.711,
+     523.9970000000001
+    ],
+    [
+     42.625,
+     525.607,
+     329.428,
+     536.607
+    ],
+    [
+     66.225,
+     542.5830000000001,
+     547.1400000000003,
+     551.5830000000001
+    ],
+    [
+     106.22,
+     552.793,
+     547.2870059999999,
+     561.82
+    ],
+    [
+     42.625,
+     576.2270000000001,
+     372.70499199999995,
+     587.227
+    ],
+    [
+     42.625,
+     601.627,
+     388.1639860000001,
+     612.627
+    ],
+    [
+     42.625,
+     614.2270000000001,
+     391.38799800000015,
+     625.227
+    ],
+    [
+     42.625,
+     626.827,
+     435.80800599999986,
+     637.827
+    ],
+    [
+     42.625,
+     639.427,
+     453.40799999999996,
+     650.427
+    ],
+    [
+     42.625,
+     652.227,
+     472.49599199999994,
+     663.227
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4162-Q024",
+  "prova_id": "P4162",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2021",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 24,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O termo \"antissemitismo\" tem sido usado para designar, de forma genérica, as manifestações de hostilidade contra judeus desde os tempos greco-romanos até os dias de hoje. A longevidade e a persistência desse fenômeno social e a sua designação por meio de um único termo abrangente, \"antissemitismo\", têm encorajado explicações de caráter a-histórico que empobrecem ou essencializam o fenômeno e suas interpretações, dificultando o entendimento de seus diferentes significados e formas de expressão em contextos societários específicos.\n\n{{fonte:1}}\n\nNo decorrer do século XIX, a principal característica do conceito referido no texto foi a",
+  "fontes": [
+   "Fonte: SORJ, Bila. Antissemitismo na Europa hoje. In: Novos estudos. – CEBRAP, n. 79, São Paulo, Nov. 2007. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "negação do progresso, criticando a modernidade."
+   },
+   {
+    "letra": "B",
+    "texto": "utilização da ciência, tornando-se uma questão racial."
+   },
+   {
+    "letra": "C",
+    "texto": "apropriação do imaginário iluminista, constituindo-se como utópico."
+   },
+   {
+    "letra": "D",
+    "texto": "perseguição sistemática aos associais, incluindo ciganos e testemunhas de jeová."
+   },
+   {
+    "letra": "E",
+    "texto": "inclusão de políticas públicas universalistas, com o objetivo de proteger as minorias."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.625,
+     58.70700000000011,
+     546.7049959999998,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     547.1100029999996,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     547.449001,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     547.253003,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     546.7439999999997,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     400.44099700000004,
+     132.90700000000004
+    ],
+    [
+     99.425,
+     139.89300000000003,
+     547.380001,
+     148.91999999999996
+    ],
+    [
+     502.75,
+     150.3130000000001,
+     547.3539999999999,
+     159.3130000000001
+    ],
+    [
+     42.625,
+     171.3270000000001,
+     461.6039999999997,
+     182.3270000000001
+    ],
+    [
+     42.625,
+     192.12700000000007,
+     306.35798700000015,
+     203.12700000000007
+    ],
+    [
+     42.625,
+     204.7270000000001,
+     326.3580000000002,
+     215.7270000000001
+    ],
+    [
+     42.625,
+     217.3270000000001,
+     391.978,
+     228.3270000000001
+    ],
+    [
+     42.625,
+     230.12700000000007,
+     464.80799299999995,
+     241.12700000000007
+    ],
+    [
+     42.625,
+     242.7270000000001,
+     474.75099199999994,
+     253.7270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2021/caderno-de-provas-2FASE-2dia.pdf",
+  "gabarito_origem": [
+   "P4161"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q024_p17.jpg"
+  ]
+ }
+]

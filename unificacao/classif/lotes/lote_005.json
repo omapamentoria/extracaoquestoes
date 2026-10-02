@@ -1,0 +1,702 @@
+[
+{
+"id": 597,
+"vest": "ENEM",
+"ano": "2010",
+"area": "exatas",
+"texto": "Um dos grandes problemas da poluição dos mananciais (rios, córregos e outros) ocorre pelo hábito de jogar óleo utilizado em frituras nos encanamentos que estão interligados com o sistema de esgoto. Se isso ocorrer, cada 10 litros de óleo poderão contaminar 10 milhões (107) de litros de água potável. Manual de etiqueta. Parte integrante das revistas Veja (ed. 2055), Cláudia (ed. 555), National Geographic (ed. 93) e Nova Escola (ed. 208) (adaptado). Suponha que todas as famílias de uma cidade descartem os óleos de frituras através dos encanamentos e consomem 1000 litros de óleo em frituras por semana. Qual seria, em litros, a quantidade de água potável contaminada por semana nessa cidade? || A) 10-2 | B) 103 | C) 104 | D) 106 | E) 109"
+},
+{
+"id": 599,
+"vest": "ENEM",
+"ano": "2010",
+"area": "exatas",
+"texto": "Um fabricante de creme de leite comercializa seu produto em embalagens cilíndricas de diâmetro da base medindo 4 cm e altura 13,5 cm. O rótulo de cada uma custa R$ 0,60. Esse fabricante comercializará o referido produto em embalagens ainda cilíndricas de mesma capacidade, mas com a medida do diâmetro da base igual à da altura. Levando-se em consideração exclusivamente o gasto com o rótulo, o valor que o fabricante deverá pagar por esse rótulo é de || A) R$ 0,20, pois haverá uma redução de 2/3 na superfície da embalagem coberta pelo rótulo. | B) R$ 0,40, pois haverá uma redução de 1/3 na superfície da embalagem coberta pelo rótulo. | C) R$ 0,60, pois não haverá alteração na capacidade da embalagem. | D) R$ 0,80, pois haverá um aumento de 1/3 na superfície da embalagem coberta pelo rótulo. | E) R$ 1,00, pois haverá um aumento de 2/3 na superfície da embalagem coberta pelo rótulo."
+},
+{
+"id": 605,
+"vest": "ENEM",
+"ano": "2010",
+"area": "exatas",
+"texto": "Um laticínio possui dois reservatórios de leite. Cada reservatório é abastecido por uma torneira acoplada a um tanque resfriado. O volume, em litros, desses reservatórios depende da quantidade inicial de leite no reservatório e do tempo t, em horas, em que as duas torneiras ficam abertas. Os volumes dos reservatórios são dados pelas funções V1(t)=250 t3-100 t+3000 e V2(t)=150 t3+69 t+3000. Depois de aberta cada torneira, o volume de leite de um reservatório é igual ao do outro no instante t = 0 e, também, no tempo t igual a || A) 1,3 h. | B) 1,69 h. | C) 10,0 h. | D) 13,0 h. | E) 16,9 h."
+},
+{
+"id": 607,
+"vest": "ENEM",
+"ano": "2010",
+"area": "exatas",
+"texto": "Um porta-lápis de madeira foi construído no formato cúbico, seguindo o modelo ilustrado a seguir. O cubo de dentro é vazio. A aresta do cubo maior mede 12 cm e a do cubo menor, que é interno, mede 8 cm. O volume de madeira utilizado na confecção desse objeto foi de || A) 12 cm3. | B) 64 cm3. | C) 96 cm3. | D) 1216 cm3. | E) 1728 cm3."
+},
+{
+"id": 609,
+"vest": "ENEM",
+"ano": "2010",
+"area": "exatas",
+"texto": "Um satélite de telecomunicações, t minutos após ter atingido sua órbita, está a r quilômetros de distância do centro da Terra. Quando r assume seus valores máximo e mínimo, diz-se que o satélite atingiu o apogeu e o perigeu, respectivamente. Suponha que, para esse satélite, o valor de r em função de t seja dado por r(t)=5865/(1+0,15 × cos (0,06 t)) Um cientista monitora o movimento desse satélite para controlar o seu afastamento do centro da Terra. Para isso, ele precisa calcular a soma dos valores de r, no apogeu e no perigeu, representada por S. O cientista deveria concluir que, periodicamente, S atinge o valor de || A) 12 765 km. | B) 12 000 km. | C) 11 730 km. | D) 10 965 km. | E) 5 865 km."
+},
+{
+"id": 611,
+"vest": "ENEM",
+"ano": "2010",
+"area": "exatas",
+"texto": "Uma empresa de refrigerantes, que funciona sem interrupções, produz um volume constante de 1800000 cm3 de líquido por dia. A máquina de encher garrafas apresentou um defeito durante 24 horas. O inspetor de produção percebeu que o líquido chegou apenas à altura de 12 cm dos 20 cm previstos em cada garrafa. A parte inferior da garrafa em que foi depositado o líquido tem forma cilíndrica com raio da base de 3 cm. Por questões de higiene, o líquido já engarrafado não será reutilizado. Utilizando π≅ 3, no período em que a máquina apresentou defeito, aproximadamente quantas garrafas foram utilizadas? || A) 555 | B) 5555 | C) 1333 | D) 13333 | E) 133333"
+},
+{
+"id": 614,
+"vest": "ENEM",
+"ano": "2010",
+"area": "exatas",
+"texto": "Uma escola recebeu do governo uma verba de R$ 1000,00 para enviar dois tipos de folhetos pelo correio. O diretor da escola pesquisou que tipos de selos deveriam ser utilizados. Concluiu que, para o primeiro tipo de folheto, bastava um selo de R$ 0,65 enquanto para folhetos do segundo tipo seriam necessários três selos, um de R$ 0,65, um de R$ 0,60 e um de R$ 0,20. O diretor solicitou que se comprassem selos de modo que fossem postados exatamente 500 folhetos do segundo tipo e uma quantidade restante de selos que permitisse o envio do máximo possível de folhetos do primeiro tipo. Quantos selos de R$ 0,65 foram comprados? || A) 476 | B) 675 | C) 923 | D) 965 | E) 1 538"
+},
+{
+"id": 616,
+"vest": "ENEM",
+"ano": "2010",
+"area": "exatas",
+"texto": "Uma fábrica produz barras de chocolates no formato de paralelepípedos e de cubos, com o mesmo volume. As arestas da barra de chocolate no formato de paralelepípedo medem 3 cm de largura, 18 cm de comprimento e 4 cm de espessura. Analisando as características das figuras geométricas descritas, a medida das arestas dos chocolates que têm o formato de cubo é igual a || A) 5 cm. | B) 6 cm. | C) 12 cm. | D) 24 cm. | E) 25 cm."
+},
+{
+"id": 626,
+"vest": "ENEM",
+"ano": "2010",
+"area": "exatas",
+"texto": "m dos estádios mais bonitos da Copa do Mundo na África do Sul é o Green Point, situado na Cidade do Cabo, com capacidade para 68 000 pessoas. CENTAURO. Ano 2, edição 8, mar./abr, 2010. Em certa partida, o estádio estava com 95% de sua capacidade, sendo que 487 pessoas não pagaram o ingresso que custava 150 dólares cada. A expressão que representa o valor arrecadado nesse jogo, em dólares, é || A) 0,95 × 68000 × 150-487 | B) 0,95 ×(68000-487) × 150 | C) (0,95 × 68000-487) × 150 | D) 95 ×(68000-487) × 150 | E) (95 × 68000-487) × 150"
+},
+{
+"id": 706,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "A Escala de Magnitude de Momento (abreviada como MMS e denotada como Mw ), introduzida em 1979 por Thomas Haks e Hiroo Kanamori, substituiu a Escala de Richter para medir a magnitude dos terremotos em termos de energia liberada. Menos conhecida pelo público, a MMS é, no entanto, a escala usada para estimar as magnitudes de todos os grandes terremotos da atualidade. Assim como a escala Richter, a MMS é uma escala logarítmica. MW e M0 se relacionam pela fórmula: MW=-10,7+2/3 log 10(M0) Onde M0 é o momento sísmico (usualmente estimado a partir dos […] LOGICAL SURVEY. Historic Earthquakes. Disponível em: http://earthquake.usgs.gov. Acesso em: 1 maio 2010 (adaptado). U.S. GEOLOGICAL SURVEY. USGS Earthquake Magnitude Policy. Disponível em: http://earthquake.usgs.gov. Acesso em: 1 maio 2010 (adaptado). Mostrando que é possível determinar a medida por meio de conhecimentos matemáticos, qual foi o momento sísmico M0 do terremoto de Kobe (em dina∙cm)? || A) 10-5,10 | B) 10-0,73 | C) 1012,00 | D) 1021,65 | E) 1027,00"
+},
+{
+"id": 723,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "A distância atual entre os centros da Terra e de seu satélite natural (Lua) é de 384 405 km. Essa distância aumenta 4 cm por ano. O centro de gravidade do sistema (ou baricentro), formado pelos dois corpos celestes, está a 1 737 km da superfície da Terra, e essa distância diminui gradativamente. Este centro de gravidade se localizará fora da Terra em 3 bilhões de anos e, com isso, a Lua deixará de ser nosso satélite, tornando-se um planeta. [figura] Quantos centímetros por ano, em média, o centro de gravidade do sistema se aproximará da superfície terrestre, até que a Lua se torne um planeta? || A) 0,0579 | B) 0,5790 | C) 5,7900 | D) 12,8135 | E) 17,2711"
+},
+{
+"id": 743,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "A renda de uma família é de R$ 1 750,00. O dinheiro é utilizado da seguinte maneira: Alimentação: R$ 600,00 Saúde: R$ 300,00 Transporte: R$ 150,00 Educação: R$ 350,00 Lazer: R$ 200,00 Gastos eventuais: R$ 100,00 Poupança: R$ 50,00 No mês de julho, o gasto com alimentação diminuiu 4%, o gasto com transporte aumentou 10% e o gasto com educação aumentou 10%. Para continuar utilizando os R$ 1 750,00, o que a família deverá decidir com relação ao valor destinado à poupança, mantendo as demais despesas inalteradas? || A) Aumentá-lo em 4%. | B) Aumentá-lo em 8%. | C) Aumentá-lo em 16%. | D) Diminuí-lo em 26%. | E) Diminuí-lo em 52%."
+},
+{
+"id": 746,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "A taxa de inflação é um índice que aponta, em percentuais, a evolução média dos preços de mercadorias e serviços. Entretanto, cada família percebe a variação dos preços de modo particular, pois o peso de cada item no seu orçamento é diferente. Assim, se o preço dos medicamentos sobe muito, o impacto da inflação para as famílias que têm mais idosos tende a ser maior. Se o preço dos alimentos cai, o impacto da inflação para as famílias mais pobres tende a ser menor, já que boa parte de seu orçamento é gasto em alimentação. Considere que os salários de determinado grupo de pessoas crescem 10,0% ao ano, mas a inflação, para esse grupo, cresce 6,0% ao ano. O aumento percentual do poder de compra, em dois anos, das pessoas que pertencem ao referido grupo, mais aproximado, será de || A) 4,0%. | B) 7,7%. | C) 8,0%. | D) 8,6%. | E) 14,0%."
+},
+{
+"id": 773,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Café no Brasil O consumo atingiu o maior nível da história no ano passado: os brasileiros beberam o equivalente a 331 bilhões de xícaras. Veja. Ed. 2158, 31 mar. 2010. Considere que a xícara citada na notícia seja equivalente a, aproximadamente, 120 mL de café. Suponha que em 2010 os brasileiros bebam ainda mais café, aumentando o consumo em 1/5 do que foi consumido no ano anterior. De acordo com essas informações, qual a previsão mais aproximada para o consumo de café em 2010? || A) 8 bilhões de litros. | B) 16 bilhões de litros. | C) 32 bilhões de litros. | D) 40 bilhões de litros. | E) 48 bilhões de litros."
+},
+{
+"id": 774,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Cerca de 20 milhões de brasileiros vivem na região coberta pela caatinga, em quase 800 mil km2 de área. Quando não chove, o homem do sertão e sua família precisam caminhar quilômetros em busca da água dos açudes. A irregularidade climática é um dos fatores que mais interferem na vida do sertanejo. Disponível em: http://www.wwf.org.br. Acesso em: 23 abr. 2010. Segundo este levantamento, a densidade demográfica da região coberta pela caatinga, em habitantes por km2, é de || A) 250. | B) 25. | C) 2,5. | D) 0,25. | E) 0,025."
+},
+{
+"id": 790,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Célia é uma confeiteira renomada na pequena cidade onde mora. Herdou de sua avó uma receita de brigadeiro que faz o maior sucesso. Os ingredientes da receita enchem sempre uma panela, de forma cilíndrica, com 40 cm de altura e 30 cm de diâmetro. Para inovar e atrair mais clientes, em vez de vender os brigadeiros na forma de “bolinhas”, Célia tem feito brigadeiros em forma de cones. Para isso, utiliza forminhas cônicas de 5 cm de altura e raio da base de 1,5 cm. (Vcilindro =π R2 h e Vcone =(π R2 h)/3) A cada receita produzida, a quantidade de cones de brigadeiro que Célia consegue obter é || A) 600 unidades. | B) 800 unidades. | C) 2400 unidades. | D) 3200 unidades. | E) 9600 unidades."
+},
+{
+"id": 821,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Em 2009, o Estado de São Paulo perdeu 3 205,7 hectares de sua cobertura vegetal, área 30% menor que a desmatada em 2008, segundo balanço do projeto ambiental estratégico “Desmatamento Zero”, divulgado pela Secretaria do Meio Ambiente (SMA). Um hectare é uma unidade de medida de área equivalente a 100 ares. Um are, por sua vez, é equivalente a 100 m². Logo, a área 3 205,7 hectares corresponde a || A) 3 205,7 × 10<sup>-1</sup> m². | B) 3 205,7 × 10 m². | C) 3 205,7 × 10<sup>2</sup> m². | D) 3 205,7 × 10<sup>3</sup> m². | E) 3 205,7 × 10<sup>4</sup> m²."
+},
+{
+"id": 822,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Em 2010, um caos aéreo afetou o continente europeu, devido à quantidade de fumaça expelida por um vulcão na Islândia, o que levou ao cancelamento de inúmeros voos. Cinco dias após o início desse caos, todo o espaço aéreo europeu acima de 6000 metros estava liberado, com exceção do espaço aéreo da Finlândia. Lá, apenas voos internacionais acima de 31 mil pés estavam liberados. Considere que 1 metro equivale a aproximadamente 3,3 pés. Disponível em: http://www1.folha.uol.com.br. Acesso em: 21 abr. 2010 (adaptado). Qual a diferença, em pés, entre as altitudes liberadas na Finlândia e no restante do continente europeu cinco dias após o início do caos? || A) 3390 pés. | B) 9390 pés. | C) 11200 pés. | D) 19800 pés. | E) 50800 pés."
+},
+{
+"id": 828,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Em um jogo disputado em uma mesa de sinuca, há 16 bolas: 1 branca e 15 coloridas, as quais, de acordo com a coloração, valem de 1 a 15 pontos (um valor para cada bola colorida). O jogador acerta o taco na bola branca de forma que esta acerte as outras, com o objetivo de acertar duas das quinze bolas em quaisquer caçapas. Os valores dessas duas bolas são somados e devem resultar em um valor escolhido pelo jogador antes do início da jogada. Arthur, Bernardo e Caio escolhem os números 12, 17 e 22 como sendo resultados de suas respectivas somas. Com essa escolha, quem tem a maior probabilidade de ganhar o jogo é || A) Arthur, pois a soma que escolheu é a menor. | B) Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 4 possibilidades para a escolha  | C) Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha  | D) Caio, pois há 10 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de  | E) Caio, pois a soma que escolheu é a maior."
+},
+{
+"id": 830,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Em uma certa cidade, os moradores de um bairro carente de espaços de lazer reivindicam à prefeitura municipal a construção de uma praça. A prefeitura concorda com a solicitação e afirma que irá construí-la em formato retangular devido às características técnicas do terreno. Restrições de natureza orçamentária impõem que sejam gastos, no máximo, 180 m de tela para cercar a praça. A prefeitura apresenta aos moradores desse bairro as medidas dos terrenos disponíveis para a construção da praça: Terreno 1: 55 m por 45 m Terreno 2: 55 m por 55 m Terreno 3: 60 m por 30 m Terreno 4: 70 m por 20 m Terreno 5: 95 m por 85 m Para optar pelo terreno de maior área, que atenda às restrições impostas pela prefeitura, os moradores deverão escolher o terreno || A) 1. | B) 2. | C) 3. | D) 4. | E) 5."
+},
+{
+"id": 833,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Em uma fábrica de bebidas, a máquina que envasa refrigerantes é capaz de encher 150 garrafas de 2 L a cada minuto e funcionar ininterruptamente durante 8 horas por dia. Para atender uma encomenda de 198 000 garrafas de 2 L, a máquina é colocada para funcionar todos os dias, a partir do dia 10, sempre das 8 h às 16 h. A máquina terminará essa tarefa no dia || A) 11, às 14 h. | B) 12, às 14 h. | C) 13, às 14 h. | D) 12, às 8 h 06 min. | E) 13, às 8 h 06 min."
+},
+{
+"id": 835,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Em uma sala de aula, três alunos resolveram fazer uma brincadeira de medição. Cada um escolheu um objeto próprio para medir o comprimento da lousa. O primeiro foi até a lousa e, usando o comprimento de um livro, verificou que era possível enfileirar 13 deles e ainda sobrava um pequeno espaço igual à metade do comprimento do livro. O segundo pegou seu lápis e começou a medir a lousa. No final, percebeu que esse comprimento era igual a 20 lápis. O terceiro, para economizar tempo, pegou uma régua graduada e mediu o comprimento do livro que o colega havia usado, obtendo 28 cm. Com base nessas informações, qual é a medida mais aproximada do comprimento do lápis? || A) 10 cm | B) 18 cm | C) 19 cm | D) 26 cm | E) 41 cm"
+},
+{
+"id": 848,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Fabiana Murer garante mais uma medalha de ouro na Noruega. Aatleta brasileira saltou 4,60 m na etapa da *Diamond League* e terminou em primeiro lugar na disputa. Ela ainda é detentora da melhor marca do ano. Ao final da prova, a classificação dos quatro melhores resultados foi: 1º lugar: Fabiana Murer (BRA) – 4,60 m 2º lugar: Aleksandra Kiryashiva (RUS) – 4,50 m 3º lugar: Anna Rogowska (POL) – 4,40 m 4º lugar: Monika Pyrek (POL) – 4,30 m A diferença entre as marcas da 1ª e da 4ª colocadas pode ser comparada com a altura de um animal adulto. Que animal é esse? || A) Gato. | B) Leão. | C) Pulga. | D) Elefante. | E) Gafanhoto."
+},
+{
+"id": 883,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Muitas medidas podem ser tomadas em nossas casas visando à utilização racional de energia elétrica. Isso deve ser uma atitude diária de cidadania. Uma delas pode ser a redução do tempo no banho. Um chuveiro com potência de 4800 W consome 4,8 kW por hora. Uma pessoa que toma dois banhos diariamente, de 10 minutos cada, consumirá, em sete dias, quantos kW? || A) 0,8 | B) 1,6 | C) 5,6 | D) 11,2 | E) 33,6"
+},
+{
+"id": 901,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Nos últimos cinco anos, 32 mil mulheres de 20 a 24 anos foram internadas nos hospitais do SUS por causa de AVC. Entre os homens da mesma faixa etária, houve 28 mil internações pelo mesmo motivo. Época. 26 abr. 2010 (adaptado). Suponha que, nos próximos cinco anos, haja um acréscimo de 8 mil internações de mulheres e que o acréscimo de internações de homens por AVC ocorra na mesma proporção. De acordo com as informações dadas, o número de homens que seriam internados por AVC, nos próximos cinco anos, corresponderia a || A) 4 mil. | B) 9 mil. | C) 21 mil. | D) 35 mil. | E) 39 mil."
+},
+{
+"id": 911,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "O Sr. José compra água do vizinho para irrigar sua plantação, situada em um terreno na forma de um quadrado de 30 m de lado. Ele paga R$ 100,00 mensais pela água que consome. A água é levada a seu terreno através de tubos em forma de cilindros de ½ polegada de diâmetro. Visando expandir sua plantação, o Sr. José adquire um terreno com o mesmo formato que o seu, passando a possuir um terreno em forma retangular, com 30 m de comprimento e 60 m de largura. Quanto ele deve pagar a seu vizinho por mês, pela água que passará a consumir? || A) R$ 100,00 | B) R$ 180,00 | C) R$ 200,00 | D) R$ 240,00 | E) R$ 300,00"
+},
+{
+"id": 922,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "O dono de uma oficina mecânica precisa de um pistão das partes de um motor, de 68 mm de diâmetro, para o conserto de um carro. Para conseguir um, esse dono vai até um ferro velho e lá encontra pistões com diâmetros iguais a 68,21 mm ; 68,102 mm ; 68,001 mm; 68,02 mm e 68,012 mm. Para colocar o pistão no motor que está sendo consertado, o dono da oficina terá de adquirir aquele que tenha o diâmetro mais próximo do que precisa. Nessa condição, o dono da oficina deverá comprar o pistão de diâmetro || A) 68,21 mm. | B) 68,102 mm. | C) 68,02 mm. | D) 68,012 mm. | E) 68,001 mm."
+},
+{
+"id": 941,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "O prefeito de uma cidade deseja construir uma rodovia para dar acesso a outro município. Para isso, foi aberta uma licitação na qual concorreram duas empresas. A primeira cobrou R100 000,00 por km construído (n), acrescidos de um valor fixo de R 350 000,00, enquanto a segunda cobrou R120 000,00 por km construído (n), acrescidos de um valor fixo de R 150 000,00. As duas empresas apresentam o mesmo padrão de qualidade dos serviços prestados, mas apenas uma delas poderá ser contratada. Do ponto de vista econômico, qual equação possibilitaria encontrar a extensão da rodovia que tornaria indiferente para a prefeitura escolher qualquer uma das propostas apresentadas? || A) 100 n+350=120 n+150 | B) 100 n+150=120 n+350 | C) 100(n+350)=120(n+150) | D) 100(n+350000)=120(n+150000) | E) 350(n+100000)=150(n+120000)"
+},
+{
+"id": 949,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "O responsável por realizar uma avaliação em uma escola convocou alguns professores para elaborar questões e estipulou uma meta mínima. Cada professor deveria elaborar, em média, 13 questões por dia durante uma semana. Nos seis primeiros dias, as quantidades de questões elaboradas por um professor foram 15, 12, 11, 12, 13, 14. Para cumprir a meta mínima, a quantidade mínima de questões que o professor deverá elaborar no último dia é || A) 11. | B) 12. | C) 13. | D) 14. | E) 15."
+},
+{
+"id": 950,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "O saldo de contratações no mercado formal no setor varejista da região metropolitana de São Paulo registrou alta. Comparando as contratações deste setor no mês de fevereiro com as de janeiro deste ano, houve incremento de 4300 vagas no setor, totalizando 880605 trabalhadores com carteira assinada. Suponha que o incremento de trabalhadores no setor varejista seja sempre o mesmo nos seis primeiros meses do ano. Disponível em: http://www.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado). Considerando-se que y e x representam, respectivamente, as quantidades de trabalhadores no setor varejista e os meses, janeiro sendo o primeiro, fevereiro, o segundo, e assim por diante, a expressão algébrica que relaciona essas quantidades nesses meses é || A) y=4300 x | B) y=884905 x | C) y=872005+4300 x | D) y=876305+4300 x | E) y=880605+4300 x"
+},
+{
+"id": 952,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "O setor de recursos humanos de uma empresa vai realizar uma entrevista com 120 candidatos a uma vaga de contador. Por sorteio, eles pretendem atribuir a cada candidato um número, colocar a lista de números em ordem numérica crescente e usá-la para convocar os interessados. Acontece que, por um defeito do computador, foram gerados números com 5 algarismos distintos e, em nenhum deles, apareceram dígitos pares. Em razão disso, a ordem de chamada do candidato que tiver recebido o número 75 913 é || A) 24. | B) 31. | C) 32. | D) 88. | E) 89."
+},
+{
+"id": 957,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Observe as dicas para calcular a quantidade certa de alimentos e bebidas para as festas de fim de ano: Para o prato principal, estime 250 gramas de carne para cada pessoa.Um copo americano cheio de arroz rende o suficiente para quatro pessoas.Para a farofa, calcule quatro colheres de sopa por convidado.Uma garrafa de vinho serve seis pessoas.Uma garrafa de cerveja serve duas.Uma garrafa de espumante serve três convidados. Quem organiza festas faz esses cálculos em cima do total de convidados, independente do gosto de cada um. Quantidade certa de alimentos e bebidas evita o desperdício da ceia Jornal Hoje. 17 dez. 2010 (adaptado). Um anfitrião decidiu seguir essas dicas ao se preparar para receber 30 convidados para a ceia de Natal. Para seguir essas orientações à risca, o anfitrião deverá dispor de || A) 120 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 15 d | B) 120 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 30 d | C) 75 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 15 de | D) 7,5 kg de carne, 7 copos americanos, 120 colheres de sopa de farofa, 5 garrafas de vinho, 30 de cerveja e 10 d | E) 7,5 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 15 d"
+},
+{
+"id": 967,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Os medicamentos, imediatamente após a ingestão, começam a ser metabolizados pelo organismo, o que faz com que sua concentração no sangue diminua gradualmente, num processo denominado decaimento. Denomina-se meia-vida de uma substância o tempo necessário para que o teor dessa substância no sangue se reduza à metade do valor inicial. Considere a situação em que um médico prescreveu a um paciente uma dosagem de 800 mg de um medicamento cuja meia-vida é 6 horas, com recomendação de tomar um comprimido a cada 12 horas, durante 3 dias. Para esse medicamento, considera-se superdosagem um teor superior a 1 520 mg, o que causa riscos de intoxicação. Apressado em recuperar-se a tempo de ir a uma festa, o paciente sugeriu ao médico que mudasse a prescrição para 6 em 6 horas, imaginando que, assim, reduziria o tempo de tratamento. O médico contra-argumentou, informando ao paciente que, caso antecipasse as doses, correria o risco de estar intoxicado em || A) 12 horas. | B) 24 horas. | C) 36 horas. | D) 48 horas. | E) 72 horas."
+},
+{
+"id": 981,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Para uma atividade realizada no laboratório de Matemática, um aluno precisa construir uma maquete da quadra de esportes da escola que tem 28 m de comprimento por 12 m de largura. A maquete deverá ser construída na escala de 1 : 250. Que medidas de comprimento e largura, em cm, o aluno utilizará na construção da maquete? || A) 4,8 e 11,2 | B) 7,0 e 3,0 | C) 11,2 e 4,8 | D) 28,0 e 12,0 | E) 30,0 e 70,0"
+},
+{
+"id": 984,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Pedro ganhou R$ 360000,00 em uma loteria federal e resolveu dividir integralmente o prêmio entre os seus três filhos, Ana, Renato e Carlos, de forma que cada um receba uma quantia que seja inversamente proporcional às suas idades. Sabendo que Ana tem 4 anos, Renato, 5 anos e Carlos, 20 anos, eles receberão, respectivamente, || A) R$ 54000,00 ; R$ 216000,00 e R$ 90000,00. | B) R$ 90000,00 ; R$ 54000,00 e R$ 216000,00. | C) R$ 216000,00 ; R$ 90000,00 e R$ 54000,00. | D) R$ 180000,00 ; R$ 144000,00 e R$ 36000,00. | E) R$ 180000,00 ; R$ 120000,00 e R$ 60000,00."
+},
+{
+"id": 989,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Por falta de tratamentos simples, mais de 1 bilhão de pessoas pobres no mundo acordam doentes todos os dias. Entre essas doenças está a ancilostomose, que aflige 600 milhões de pessoas e causa anemia severa e desnutrição proteica. Para fornecer tratamento a essas pessoas, estima-se um gasto anual de cinquenta centavos de dólar por paciente. Uma organização está disposta a lançar uma campanha internacional a fim de obter recursos suficientes para cobrir o tratamento das pessoas com ancilostomose por um ano. Segundo seu planejamento, estima-se um valor médio de US$ 3,00 por doador. De acordo com o planejamento dessa organização, para arrecadar o total de recursos necessários para cobrir o tratamento das pessoas com ancilostomose, por um ano, o número mínimo de contribuintes necessários é de || A) 200 milhões. | B) 120 milhões. | C) 36 milhões. | D) 40 milhões. | E) 100 milhões."
+},
+{
+"id": 1020,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Um aventureiro chama a atenção para o impacto do plástico no meio ambiente, atravessando a maior concentração de lixo do mundo em um veleiro feito totalmente de recipientes recicláveis. O barco flutua graças a 12 mil garrafas plásticas. No Brasil, a produção mensal de garrafas plásticas é de 9 bilhões de unidades, sendo que 47% dessas garrafas são reaproveitadas e o restante vai para o lixo. Quantos barcos como esse é possível construir com as garrafas que vão para o lixo no Brasil? || A) 352 500. | B) 397 500. | C) 750 000. | D) 35 250 000. | E) 39 750 000."
+},
+{
+"id": 1021,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Um bairro de uma cidade foi planejado em uma região plana, com ruas paralelas e perpendiculares, delimitando quadras de mesmo tamanho. No plano de coordenadas cartesianas seguinte, esse bairro localiza-se no segundo quadrante, e as distâncias nos eixos são dadas em quilômetros. A reta de equação y=x+4 representa o planejamento do percurso da linha do metrô subterrâneo que atravessará o bairro e outras regiões da cidade. No ponto P=(-5,5), localiza-se um hospital público. A comunidade solicitou ao comitê de planejamento que fosse prevista uma estação do metrô de modo que sua distância ao hospital, medida em linha reta, não fosse maior que 5 km. Atendendo ao pedido da comunidade, o comitê argumentou corretamente que isso seria automaticamente satisfeito, pois já estava prevista a construção de uma estação no ponto || A) (-5,0). | B) (-3,1). | C) (-2,1). | D) (0,4). | E) (2,6)."
+},
+{
+"id": 1024,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "[figura] , onde *n* é o número de disciplinas Um curso preparatório oferece aulas de 8 disciplinas distintas. Um aluno, ao se matricular, escolhe de 3 a 8 disciplinas para cursar. O preço *P*, em reais, da mensalidade é calculado pela fórmula escolhidas pelo aluno. Alex deseja matricular seu filho Júlio e, consultando seu orçamento familiar mensal, avaliou que poderia pagar uma mensalidade de, no máximo, R$ 720,00. O número máximo de disciplinas que Júlio poderá escolher ao se matricular nesse curso, sem estourar o orçamento familiar, é igual a || A) 3. | B) 4. | C) 6. | D) 7. | E) 8."
+},
+{
+"id": 1040,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Uma agência de viagens de São Paulo (SP) está organizando um pacote turístico com destino à cidade de Foz do Iguaçu (PR) e fretou um avião com 120 lugares. Do total de lugares, reservou 2/5 das vagas para as pessoas que residem na capital do estado de São Paulo, 3/8 para as que moram no interior desse estado e o restante para as que residem fora dele. Quantas vagas estão reservadas no avião para as pessoas que moram fora do estado de São Paulo? || A) 27 | B) 40 | C) 45 | D) 74 | E) 81"
+},
+{
+"id": 1042,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Uma cidade possui um reservatório de água C1 na forma de um cilindro circular reto, com 5 metros de altura e capacidade para 100 m3 de água. Foi construído outro reservatório C2, com o mesmo formato do anterior, com a mesma altura, cujo raio da base é o dobro de C1. Nessas condições, a razão entre os volumes de C1 e de C2 é igual a || A) 2 | B) 1 | C) 1/2 | D) 1/4 | E) 1/8"
+},
+{
+"id": 1046,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Uma empresa responsável por produzir arranjos de parafina recebeu uma encomenda de arranjos em formato de cone reto. Porém, teve dificuldades em receber de seu fornecedor o molde a ser utilizado e negociou com a pessoa que fez a encomenda o uso de arranjos na forma de um prisma reto, com base quadrada de dimensões 5 cm × 5 cm. Considerando que o arranjo na forma de cone utilizava um volume de 500 mL, qual deverá ser a altura, em cm, desse prisma para que a empresa gaste a mesma quantidade de parafina utilizada no cone? || A) 8 | B) 14 | C) 20 | D) 60 | E) 200"
+},
+{
+"id": 1050,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Uma escola tem um terreno vazio no formato retangular cujo perímetro é 40 m, onde se pretende realizar uma única construção que aproveite o máximo de área possível. Após a análise realizada por um engenheiro, este concluiu que para atingir o máximo de área do terreno com uma única construção, a obra ideal seria || A) um banheiro com 8 m<sup>2</sup>. | B) uma sala de aula com 16 m<sup>2</sup>. | C) um auditório com 36 m<sup>2</sup>. | D) um pátio com 100 m<sup>2</sup>. | E) uma quadra com 160 m<sup>2</sup>."
+},
+{
+"id": 1053,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Uma indústria fabrica um único tipo de produto e sempre vende tudo o que produz. O custo total para fabricar uma quantidade q de produtos é dado por uma função, simbolizada por *CT* , enquanto o faturamento que a empresa obtém com a venda da quantidade q também é uma função, simbolizada por *FT*. O lucro total (*LT*) obtido pela venda da quantidade q de produtos é dado pela expressão *LT* (q) = *FT* (q) − *CT* (q). Considerando as funções *FT* (q) = 5q e *CT* (q) = 2q + 12 como faturamento e custo, qual a quantidade mínima de produtos que a indústria terá de fabricar para não ter prejuízo? || A) 0 | B) 1 | C) 3 | D) 4 | E) 5"
+},
+{
+"id": 1056,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Uma pessoa aplicou certa quantia em ações. No primeiro mês, ela perdeu 30% do total do investimento e, no segundo mês, recuperou 20% do que havia perdido. Depois desses dois meses, resolveu tirar o montante de R$ 3800,00 gerado pela aplicação. A quantia inicial que essa pessoa aplicou em ações corresponde ao valor de || A) R$ 4222,22. | B) R$ 4523,80. | C) R$ 5000,00. | D) R$ 13300,00. | E) R$ 17100,00."
+},
+{
+"id": 1065,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "Você pode adaptar as atividades do seu dia a dia de uma forma que possa queimar mais calorias do que as gastas normalmente, conforme a relação seguinte: Enquanto você fala ao telefone, faça agachamentos: 100 calorias gastas em 20 minutos.Meia hora de supermercado: 100 calorias.Cuidar do jardim por 30 minutos: 200 calorias.Passear com o cachorro: 200 calorias em 30 minutos.Tirar o pó dos móveis: 150 calorias em 30 minutos.Lavar roupas por 30 minutos: 200 calorias. Uma pessoa deseja executar essas atividades, porém, ajustando o tempo para que, em cada uma, gaste igualmente 200 calorias. Disponível em: http://cyberdiet.terra.com.br. Acesso em: 27 abr. 2010 (adaptado). A partir dos ajustes, quanto tempo a mais será necessário para realizar todas as atividades? || A) 50 minutos. | B) 60 minutos. | C) 80 minutos. | D) 120 minutos. | E) 170 minutos."
+},
+{
+"id": 1069,
+"vest": "ENEM",
+"ano": "2011",
+"area": "exatas",
+"texto": "É possível usar água ou comida para atrair as aves e observá-las. Muitas pessoas costumam usar água com açúcar, por exemplo, para atrair beija-flores. Mas é importante saber que, na hora de fazer a mistura, você deve sempre usar uma parte de açúcar para cinco partes de água. Além disso, em dias quentes, precisa trocar a água de duas a três vezes, pois com o calor ela pode fermentar e, se for ingerida pela ave, pode deixála doente. O excesso de açúcar, ao cristalizar, também pode manter o bico da ave fechado, impedindo-a de se alimentar. Isso pode até matá-la. Ciência Hoje das Crianças. FNDE; Instituto Ciência Hoje, ano 19, n. 166, mar. 1996. Pretende-se encher completamente um copo com a mistura para atrair beija-flores. O copo tem formato cilíndrico, e suas medidas são 10 cm de altura e 4 cm de diâmetro. A quantidade de água que deve ser utilizada na mistura é cerca de (utilize π=3) || A) 20 mL. | B) 24 mL. | C) 100 mL. | D) 120 mL. | E) 600 mL."
+},
+{
+"id": 1116,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "A capacidade mínima, em BTU/h, de um aparelho de ar-condicionado, para ambientes sem exposição ao sol, pode ser determinada da seguinte forma: 600 BTU / h por m2, considerando-se até duas pessoas no ambiente;para cada pessoa adicional nesse ambiente, acrescentar 600 BTU/h;acrescentar mais 600 BTU/h para cada equipamento eletroeletrônico em funcionamento no ambiente. Será instalado um aparelho de ar-condicionado em uma sala, sem exposição ao sol, de dimensões 4 m × 5 m, em que permaneçam quatro pessoas e possua um aparelho de televisão em funcionamento. A capacidade mínima, em BTU/h, desse aparelho de arcondicionado deve ser || A) 12000. | B) 12600. | C) 13200. | D) 13800. | E) 15000."
+},
+{
+"id": 1119,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "A cerâmica possui a propriedade da contração, que consiste na evaporação da água existente em um conjunto ou bloco cerâmico submetido a uma determinada temperatura elevada: em seu lugar aparecendo “espaços vazios” que tendem a se aproximar. No lugar antes ocupado pela água vão ficando lacunas e, consequentemente, o conjunto tende a retrair-se. Considere que no processo de cozimento a cerâmica de argila sofra uma contração, em dimensões lineares, de 20%. Disponível em: www.arq.ufsc.br. Acesso em: 30 mar. 2012 (adaptado). Levando em consideração o processo de cozimento e a contração sofrida, o volume V de uma travessa de argila, de forma cúbica de aresta a, diminui para um valor que é || A) 20 % menor que V, uma vez que o volume do cubo é diretamente proporcional ao comprimento de seu lado. | B) 36 % menor que V, porque a área da base diminui de a2 para ((1-0,2)a)2. | C) 48,8 % menor que V, porque o volume diminui de a3 para (0,8a)3. | D) 51,2 % menor que V, porque cada lado diminui para 80 % do comprimento original. | E) 60 % menor que V, porque cada lado diminui 20 %."
+},
+{
+"id": 1141,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "A noz é uma especiaria muito apreciada nas festas de fim de ano. Uma pesquisa de preços feita em três supermercados obteve os seguintes valores: no supermercado A é possível comprar nozes a granel no valor de R$ 24,00 o quilograma; o supermercado B vende embalagens de nozes hermeticamente fechadas com 250 gramas a R$ 3,00; já o supermercado C vende nozes a granel a R$ 1,50 cada 100 gramas. A sequência dos supermercados, de acordo com a ordem crescente do valor da noz, é || A) A, B, C. | B) B, A, C. | C) B, C, A. | D) C, A, B. | E) C, B, A."
+},
+{
+"id": 1164,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Alguns países têm regulamentos que obrigam a misturar 5%, 10% ou 20% de etanol com a gasolina regular. Esta mistura recebe o nome de *gasool*. *E20*, por exemplo, é o *gasool* que contém a mistura de 20% de etanol com 80% de gasolina. Em agosto de 2011, o governo decidiu reduzir a mistura de etanol na gasolina de 25% para 20%, isto é, nossos postos de gasolina, a partir daquele mês, não puderam mais vender o combustível do tipo *E25*. Uma distribuidora possuía 40 mil litros de combustível do tipo *E25*, disponíveis em um dos tanques de seu estoque antigo. Quantos litros de gasolina precisam ser adicionados de modo a obter uma mistura *E20*? || A) 32 000 | B) 16 000 | C) 10 000 | D) 8 000 | E) 2 000"
+},
+{
+"id": 1178,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Arthur deseja comprar um terreno de Cléber, que lhe oferece as seguintes possibilidades de pagamento: Opção 1: Pagar à vista, por R55 000,00;Opção 2: Pagar a prazo, dando uma entrada de R 30 000,00, e mais uma prestação de R26 000,00 para dali a 6 meses.Opção 3: Pagar a prazo, dando uma entrada de R 20 000,00, mais uma prestação de R20 000,00, para dali a 6 meses e outra de R 18 000,00 para dali a 12 meses da data da compra.Opção 4: Pagar a prazo dando uma entrada de R15 000,00 e o restante em 1 ano da data da compra, pagando R 39 000,00.Opção  […] ar à vista, mas avalia se não seria melhor aplicar o dinheiro do valor à vista (ou até um valor menor) em um investimento, com rentabilidade de 10% ao semestre, resgatando os valores à medida que as prestações da opção escolhida fossem vencendo. Após avaliar a situação do ponto de vista financeiro e das condições apresentadas, Arthur concluiu que era mais vantajoso financeiramente escolher a opção || A) 1. | B) 2. | C) 3. | D) 4. | E) 5."
+},
+{
+"id": 1204,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Cinco times de futebol (A, B, C, D e E) ocuparam as primeiras colocações em um campeonato realizado em seu país. A classificação final desses clubes apresentou as seguintes características: • O time A superou o time C na classificação; • O time C ficou imediatamente à frente do time E; • O time B não ficou entre os 3 últimos colocados; • O time D ficou em uma classificação melhor que a do time A. Assim, os dois times mais bem classificados foram || A) A e B. | B) A e C. | C) B e D. | D) B e E. | E) C e D."
+},
+{
+"id": 1216,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Dentre outros objetos de pesquisa, a Alometria estuda a relação entre medidas de diferentes partes do corpo humano. Por exemplo, segundo a Alometria, a área A da superfície corporal de uma pessoa relaciona-se com a sua massa m pela fórmula A = k · m2/3, em que k é uma constante positiva. Se no período que vai da infância até a maioridade de um indivíduo sua massa é multiplicada por 8, por quanto será multiplicada a área da superfície corporal? || A) raiz cúbica de 16. | B) 4 | C) √(24) | D) 8 | E) 64"
+},
+{
+"id": 1244,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Em 20 de fevereiro de 2011 ocorreu a grande erupção do vulcão Bulusan nas Filipinas. A sua localização geográfica no globo terrestre é dada pelo GPS (sigla em inglês para Sistema de Posicionamento Global) com longitude de 124° 3′ 0′ ′ a leste do Meridiano de Greenwich. Dado: 1° equivale a 60′ e 1′ equivale a 60′ ′. PAVARIN, G. Galileu, fev. 2012 (adaptado). A representação angular da localização do vulcão com relação a sua longitude na forma decimal é || A) 124,02°. | B) 124,05°. | C) 124,20°. | D) 124,30°. | E) 124,50°."
+},
+{
+"id": 1248,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Em exposições de artes plásticas, é usual que estátuas sejam expostas sobre plataformas giratórias. Uma medida de segurança é que a base da escultura esteja integralmente apoiada sobre a plataforma. Para que se providencie o equipamento adequado, no caso de uma base quadrada que será fixada sobre uma plataforma circular, o auxiliar técnico do evento deve estimar a medida R do raio adequado para a plataforma em termos da medida L do lado da base da estátua. Qual relação entre R e L o auxiliar técnico deverá apresentar de modo que a exigência de segurança seja cumprida? || A) R ≥ L / √(2) | B) R ≥ 2 L / π | C) R ≥ L / √(π) | D) R ≥ L / 2 | E) R ≥ L /(2 √(2))"
+},
+{
+"id": 1256,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Em um terreno, deseja-se instalar uma piscina com formato de um bloco retangular de altura 1 m e base de dimensões 20 m x 10 m. Nas faces laterais e no fundo desta piscina será aplicado um líquido para a impermeabilização. Esse líquido deve ser aplicado na razão de 1 L para cada 1 m<sup>2</sup> de área a ser impermeabilizada. O fornecedor A vende cada lata de impermeabilizante de 10 L por R$ 100,00, e o B vende cada lata de 15 L por R$ 145,00. Determine a quantidade de latas de impermeabilizante que deve ser comprada e o fornecedor a ser escolhido, de modo a se obter o menor custo. || A) Fabricante A, 26 latas. | B) Fabricante A, 46 latas. | C) Fabricante B, 17 latas. | D) Fabricante B, 18 latas. | E) Fabricante B, 31 latas."
+},
+{
+"id": 1259,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Em uma floresta, existem 4 espécies de insetos, A, B, C e P, que têm um ciclo de vida semelhante. Essas espécies passam por um período, em anos, de desenvolvimento dentro de seus casulos. Durante uma primavera, elas saem, põem seus ovos para o desenvolvimento da próxima geração e morrem. Sabe-se que as espécies A, B e C se alimentam de vegetais e a espécie P é predadora das outras 3. Além disso, a espécie P passa 4 anos em desenvolvimento dentro dos casulos, já a espécie A passa 8 anos, a espécie B passa 7 anos e a espécie C passa 6 anos. As espécies A, B e C só serão ameaçadas de extinção durante uma primavera pela espécie P, se apenas uma delas surgirem na primavera junto com a espécie P. Nessa primavera atual, todas as 4 espécies saíram dos casulos juntas. Qual será a primeira e a segunda espécies a serem ameaçadas de extinção por surgirem sozinhas com a espécie predadora numa próxima primavera? || A) A primeira a ser ameaçada é a espécie C e a segunda é a espécie B. | B) A primeira a ser ameaçada é a espécie A e a segunda é a espécie B. | C) A primeira a ser ameaçada é a espécie C e a segunda é a espécie A. | D) A primeira a ser ameaçada é a espécie A e a segunda é a espécie C. | E) A primeira a ser ameaçada é a espécie B e a segunda é a espécie C."
+},
+{
+"id": 1280,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "José, Carlos e Paulo devem transportar em suas bicicletas uma certa quantidade de laranjas. Decidiram dividir o trajeto a ser percorrido em duas partes, sendo que ao final da primeira parte eles redistribuiriam a quantidade de laranjas que cada um carregava dependendo do cansaço de cada um. Na primeira parte do trajeto José, Carlos e Paulo dividiram as laranjas na proporção 6 : 5 : 4, respectivamente. Na segunda parte do trajeto José, Carlos e Paulo dividiram as laranjas na proporção 4: 4: 2, respectivamente. Sabendo-se que um deles levou 50 laranjas a mais no segundo trajeto, qual a quantidade de laranjas que José, Carlos e Paulo, nessa ordem, transportaram na segunda parte do trajeto? || A) 600, 550, 350 | B) 300, 300, 150 | C) 300, 250, 200 | D) 200, 200, 100 | E) 100, 100, 50"
+},
+{
+"id": 1281,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "José, Paulo e Antônio estão jogando dados não viciados, nos quais, em cada uma das seis faces, há um número de 1 a 6. Cada um deles jogará dois dados simultaneamente. José acredita que, após jogar seus dados, os números das faces voltadas para cima lhe darão uma soma igual a 7. Já Paulo acredita que sua soma será igual a 4 e Antônio acredita que sua soma será igual a 8. Com essa escolha, quem tem a maior probabilidade de acertar sua respectiva soma é || A) Antônio, já que sua soma é a maior de todas as escolhidas. | B) José e Antônio, já que há 6 possibilidades tanto para a escolha de José quanto para a escolha de Antônio, e há | C) José e Antônio, já que há 3 possibilidades tanto para a escolha de José quanto para a escolha de Antônio, e há | D) José, já que há 6 possibilidades para formar sua soma, 5 possibilidades para formar a soma de Antônio e apenas | E) Paulo, já que sua soma é a menor de todas."
+},
+{
+"id": 1307,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Nas empresas em geral, são utilizados dois tipos de copos plásticos descartáveis, ambos com a forma de troncos de cones circulares retos: • copos pequenos, para a ingestão de café: raios das bases iguais a 2,4 cm e 1,8 cm e altura igual a 3,6 cm; • copos grandes, para a ingestão de água: raios das bases iguais a 3,6 cm e 2,4 cm e altura igual a 8,0 cm. Uma dessas empresas resolve substituir os dois modelos de copos descartáveis, fornecendo para cada um de seus funcionários canecas com a forma de um cilindro circular reto de altura igual a 6 cm  […] ara beber café como para beber água. Sabe-se que o volume de um tronco de cone circular reto, cujos raios das bases são respectivamente iguais a *R* e *r* e a altura é *h*, é dado pela expressão: *V*<sub>tronco</sub> <sub>de</sub> <sub>cone</sub> = \\(\\frac{πh}{3}\\) (*R*<sup>2</sup> + *r*<sup>2</sup> + *Rr*) O raio *y* da base dessas canecas deve ser tal que *y*<sup>2</sup> seja, no mínimo, igual a || A) 2,664 cm. | B) 7,412 cm. | C) 12,160 cm. | D) 14,824 cm. | E) 19,840 cm."
+},
+{
+"id": 1313,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "No mês de setembro de 2011, a Petrobras atingiu a produção diária de 129 mil barris de petróleo na área do pré-sal no Brasil. O volume de um barril de petróleo corresponde a 159 litros. De acordo com essas informações, em setembro de 2011, a produção diária, em m<sup>3</sup>, atingida pela Petrobras na área do pré-sal no Brasil foi de || A) 20,511. | B) 20 511. | C) 205 110. | D) 2 051 100. | E) 20 511 000."
+},
+{
+"id": 1314,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Nos shopping centers costumam existir parques com vários brinquedos e jogos. Os usuários colocam créditos em um cartão, que são descontados por cada período de tempo de uso dos jogos. Dependendo da pontuação da criança no jogo, ela recebe um certo número de tíquetes para trocar por produtos nas lojas dos parques. Suponha que o período de uso de um brinquedo em certo shopping custa R$ 3,00 e que uma bicicleta custa 9200 tíquetes. Para uma criança que recebe 20 tíquetes por período de tempo que joga, o valor, em reais, gasto com créditos para obter a quantidade de tíquetes para trocar pela bicicleta é || A) 153. | B) 460. | C) 1218. | D) 1380. | E) 3066."
+},
+{
+"id": 1332,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "O apresentador de um programa de auditório propôs aos participantes de uma competição a seguinte tarefa: cada participante teria 10 minutos para recolher moedas douradas colocadas aleatoriamente em um terreno destinado à realização da competição. A pontuação dos competidores seria calculada ao final do tempo destinado a cada um dos participantes, no qual as moedas coletadas por eles seriam contadas e a pontuação de cada um seria calculada, subtraindo do número de moedas coletadas uma porcentagem de valor igual ao número de moedas coletadas. Dessa forma, um participante que coletasse 60 moedas teria sua pontuação calculada da seguinte forma: pontuação = 60 – 36 (60% de 60) = 24. O vencedor da prova seria o participante que alcançasse a maior pontuação. Qual será o limite máximo de pontos que um competidor pode alcançar nessa prova? || A) 0 | B) 25 | C) 50 | D) 75 | E) 100"
+},
+{
+"id": 1340,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "O designer português Miguel Neiva criou um sistema de símbolos que permite que pessoas daltônicas identifiquem cores. O sistema consiste na utilização de símbolos que identificam as cores primárias (azul, amarelo e vermelho). Além disso, a justaposição de dois desses símbolos permite identificar cores secundárias (como o verde, que é o amarelo combinado com o azul). O preto e o branco são identificados por pequenos quadrados: o que simboliza o preto é cheio, enquanto o que simboliza o branco é vazio. Os símbolos que representam preto e branco também podem estar associados aos símbolos que identificam cores, significando se estas são claras ou escuras. Folha de São Paulo. Disponível em: www1.folha.uol.com.br. Acesso em: 18 fev. 2012 (adaptado). De acordo com o texto, quantas cores podem ser representadas pelo sistema proposto? || A) 14 | B) 18 | C) 20 | D) 21 | E) 23"
+},
+{
+"id": 1343,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "O esporte de alta competição da atualidade produziu uma questão ainda sem resposta: Qual é o limite do corpo humano? O maratonista original, o grego da lenda, morreu de fadiga por ter corrido 42 quilômetros. O americano Dean Karnazes, cruzando sozinho as planícies da Califórnia, conseguiu correr dez vezes mais em 75 horas. Um professor de Educação Física, ao discutir com a turma o texto sobre a capacidade do maratonista americano, desenhou na lousa uma pista reta de 60 centímetros, que representaria o percurso referido. Disponível em: http://veja.abril.com.br. Acesso em: 25 jun. 2011 (adaptado). Se o percurso de Dean Karnazes fosse também em uma pista reta, qual seria a escala entre a pista feita pelo professor e a percorrida pelo atleta? || A) 1:700 | B) 1:7 000 | C) 1:70 000 | D) 1:700 000 | E) 1:7 000 000"
+},
+{
+"id": 1348,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "O governo de um país criou o Fundo da Soja e do Milho, que tem como expectativa inicial arrecadar, por ano, R$ 36,14 milhões para investimento em pesquisas relacionadas aos principais produtos da agricultura. Com isso, a cada operação de venda, seriam destinados ao Fundo R$ 0,28 por tonelada de soja e R$ 0,22 por tonelada de milho comercializadas. Para este ano, espera-se que as quantidades de toneladas produzidas, de soja e de milho, juntas, seja 150,5 milhões. Foi pedido a cinco funcionários do Fundo, André, Bruno, Caio, Douglas e Eduardo, qu […] up> *<sup>y</sup><sub>x</sub>*<sup>=</sup><sub>+</sub><sup>150</sup><sub>0,22</sub><sup>500</sup>*<sub>y</sub>*<sub>=</sub> <sup>000</sup><sub>36,14</sub> {*<sup>x</sup>*<sub>0,28</sub><sup>+</sup> *<sup>y</sup><sub>x</sub>*<sup>=</sup><sub>+</sub><sup>150,5</sup><sub>0,22</sub>*<sub>y</sub>*<sub>=</sub> <sub>36</sub> <sub>140</sub> <sub>000</sub> Caio O funcionário que fez a modelagem correta foi || A) André. | B) Bruno. | C) Caio. | D) Douglas. | E) Eduardo."
+},
+{
+"id": 1370,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "O sistema de numeração romana, hoje em desuso, já foi o principal sistema de numeração da Europa. Nos dias atuais, a numeração romana é usada no nosso cotidiano essencialmente para designar os séculos, mas já foi necessário fazer contas e descrever números bastante grandes nesse sistema de numeração. Para isto, os romanos colocavam um traço sobre o número para representar que esse número deveria ser multiplicado por 1 000. Por exemplo, o número \\(\\overline{X}\\) representa o número 10 × 1 000, ou seja, 10 000. acordo com essas informações, os números \\(\\overline{MCCV}\\) e \\(\\frac{De}{XLIII}\\) são, respectivamente, iguais aW || A) 1 205 000 e 43 000. | B) 1 205 000 e 63 000. | C) 1 205 000 e 493 000. | D) 1 250 000 e 43 000. | E) 1 250 000 e 63 000."
+},
+{
+"id": 1374,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "O Índice de Desenvolvimento Humano (IDH) mede a qualidade de vida dos países para além dos indicadores econômicos. O IDH do Brasil tem crescido ano a ano e atingiu os seguintes patamares: 0,600 em 1990; 0,665 em 2000; 0,715 em 2010. Quanto mais perto de 1,00, maior é o desenvolvimento do país. Observando o comportamento do IDH nos períodos citados, constata-se que, ao longo do período 1990-2010, o IDH brasileiro || A) diminuiu com variações decenais crescentes. | B) diminuiu em proporção direta com o tempo. | C) aumentou com variações decenais decrescentes. | D) aumentou em proporção direta com o tempo. | E) aumentou em proporção inversa com o tempo."
+},
+{
+"id": 1398,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Parece que foi ontem. Há 4,57 bilhões de anos, uma gigantesca nuvem de partículas entrou em colapso e formou o nosso Sistema Solar. Demoraram míseros 28 milhões de anos — um piscar de olhos em termos geológicos — para que a Terra surgisse. Isso aconteceu há 4,54 bilhões de anos. No começo, a superfície do planeta era mole e muito quente, da ordem de 1 200 °C. Não demorou tanto assim para a crosta ficar mais fria e surgirem os mares e a terra; isso aconteceu há 4,2 bilhões de anos. O nosso Sistema Solar se formou, em anos, há || A) 4 570. | B) 4 570 000. | C) 4 570 000 000. | D) 4 570 000 000 000. | E) 4 570 000 000 000 000."
+},
+{
+"id": 1400,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Pensando em desenvolver atividade física e reduzir gasto com energia elétrica em sua residência, uma pessoa resolveu instalar uma bomba d’água acoplada a uma bicicleta ergométrica. Após alguns dias de atividade física, ela observou que, pedalando durante uma hora, o volume médio de água bombeada para o seu reservatório era de 500 litros. Esta pessoa observou, ainda, que o consumo diário em sua casa é de 550 litros de água. Qual a atitude, em relação ao tempo de exercício diário, essa pessoa deve tomar para suprir exatamente o consumo diário de água da sua casa? || A) Reduzir o seu tempo diário de exercício na bicicleta em 6 minutos. | B) Reduzir o seu tempo diário de exercício na bicicleta em 10 minutos. | C) Aumentar o seu tempo diário de exercício na bicicleta em 5 minutos. | D) Aumentar o seu tempo diário de exercício na bicicleta em 6 minutos. | E) Aumentar o seu tempo diário de exercício na bicicleta em 10 minutos."
+},
+{
+"id": 1447,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Um pequeno caminhão dispõe de dois reservatórios vazios, cada um com capacidade de 2 000 kg, os quais serão utilizados para transportar a produção de milho e soja até um centro consumidor. No centro de abastecimento abre-se o registro de um primeiro silo às 12 horas para alimentar o reservatório 1 com milho, numa taxa de 120 kg por minuto. Passados cinco minutos, abre-se o registro de um segundo silo para alimentar o reservatório 2 com soja, numa taxa de 80 kg por minuto. Considere que a encomenda de milho no centro consumidor seja de 1 800 kg e que, pela lei rodoviária local, a carga máxima a ser transportada por caminhão seja de 3 400 kg. [figura] Nestas condições, em que instantes devem ser fechados os registros dos silos 1 e 2, respectivamente, para que a quantidade de soja transportada seja a máxima possível? || A) 12h15min e 12h20min | B) 12h15min e 12h25min | C) 12h15min e 12h27min30seg | D) 12h15min e 12h30min | E) 12h15min e 12h32min30seg"
+},
+{
+"id": 1449,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Um produtor de café irrigado em Minas Gerais recebeu um relatório de consultoria estatística, constando, entre outras informações, o desvio padrão das produções de uma safra dos talhões de sua propriedade. Os talhões têm a mesma área de 30000 m2 e o valor obtido para o desvio padrão foi de 90 kg/talhão. O produtor deve apresentar as informações sobre a produção e a variância dessas produções em sacas de 60 kg por hectare (10000 m2). A variância das produções dos talhões expressa em (sacas/hectare)2 é || A) 20,25. | B) 4,50. | C) 0,71. | D) 0,50. | E) 0,25."
+},
+{
+"id": 1451,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Um reservatório de uma cidade estava com 30 m<sup>3</sup> de água no momento em que iniciou um vazamento estimado em 30 litros por minuto. Depois de 20 minutos, a partir do início do vazamento, uma equipe técnica chegou ao local e gastou exatamente 2 horas para consertar o sistema e parar o vazamento. O reservatório não foi reabastecido durante todo o período que esteve com o vazamento. Qual foi o volume de água que sobrou no reservatório, em m<sup>3</sup>, no momento em que parou o vazamento? || A) 3,6 | B) 4,2 | C) 25,8 | D) 26,4 | E) 27,6"
+},
+{
+"id": 1453,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Uma churrascaria cobra, no almoço, R$ 12,00 por pessoa. Após às 15 h, esse valor cai para R$ 9,00. Estima- se que o custo total de um almoço seja de R$ 7,00 por pessoa. Em média, por dia, almoçam na churrascaria 1 000 clientes, sendo que \\(\\frac{3}{4}\\) deles comparecem até às 15 h. Qual o lucro médio, por dia, da churrascaria? || A) R$ 9 000,00 | B) R$ 7 000,00 | C) R$ 4 250,00 | D) R$ 3 750,00 | E) R$ 2 250,00"
+},
+{
+"id": 1458,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Uma família deseja realizar um jantar comemorativo de um casamento e dispõe para isso de um salão de festas de um clube, onde a área disponível para acomodação das mesas é de 500 m<sup>2</sup>. As 100 mesas existentes no salão encontram-se normalmente agrupadas duas a duas, comportando 6 cadeiras. A área de cada mesa é de 1 m<sup>2</sup> e o espaço necessário em torno deste agrupamento, para acomodação das cadeiras e para circulação, é de 6 m<sup>2</sup>. As mesas podem ser dispostas de maneira isolada, comportando 4 pessoas cada. Nessa situação, o espaço necessário para acomodação das cadeiras e para circulação é de 4 m<sup>2</sup>. O número de convidados previsto para o evento é de 400 pessoas. Para poder acomodar todos os convidados sentados, com as mesas existentes e dentro da área disponível para acomodação das mesas e cadeiras, como deverão ser organizadas as mesas? || A) Todas deverão ser separadas. | B) Todas mantidas no agrupamento original de duas mesas. | C) Um terço das mesas separadas e dois terços agrupadas duas a duas. | D) Um quarto das mesas separadas e o restante em agrupamento de duas a duas. | E) Sessenta por cento das mesas separadas e quarenta por cento agrupadas duas a duas."
+},
+{
+"id": 1463,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Uma mãe recorreu à bula para verificar a dosagem de um remédio que precisava dar a seu filho. Na bula, recomendava-se a seguinte dosagem: 5 gotas para cada 2 kg de massa corporal a cada 8 horas. Se a mãe ministrou corretamente 30 gotas do remédio a seu filho a cada 8 horas, então a massa corporal dele é de || A) 12 kg. | B) 16 kg. | C) 24 kg. | D) 36 kg. | E) 75 kg."
+},
+{
+"id": 1467,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Uma prefeitura possui modelos de lixeira de forma cilíndrica, sem tampa, com raio medindo 10 cm e altura de 50 cm. Para fazer uma compra adicional, solicita à empresa fabricante um orçamento de novas lixeiras, com a mesma forma e outras dimensões. A prefeitura só irá adquirir as novas lixeiras se a capacidade de cada uma for no mínimo dez vezes maior que o modelo atual e seu custo unitário não ultrapassar R$ 20,00. O custo de cada lixeira é proporcional à sua área total e o preço do material utilizado na sua fabricação é de R$ 0,20 para cada 100 cm<sup>2</sup>. A empresa apresenta um orçamento discriminando o custo unitário e as dimensões, com o raio sendo o triplo do anterior e a altura aumentada em 10 cm. (Aproxime π para 3.) O orçamento dessa empresa é rejeitado pela prefeitura, pois || A) o custo de cada lixeira ficou em R$ 21,60. | B) o custo de cada lixeira ficou em R$ 27,00. | C) o custo de cada lixeira ficou em R$ 32,40. | D) a capacidade de cada lixeira ficou 3 vezes maior. | E) capacidade de cada lixeira ficou 9 vezes maior."
+},
+{
+"id": 1470,
+"vest": "ENEM",
+"ano": "2012",
+"area": "exatas",
+"texto": "Vítor deseja revestir uma sala retangular de dimensões 3 m x 4 m, usando um tipo de peça de cerâmica. Em uma pesquisa inicial, ele selecionou cinco tipos de peças disponíveis, nos seguintes formatos e dimensões: • Tipo I: quadrados, com 0,5 m de lado. • Tipo II: triângulos equiláteros, com 0,5 m de lado. • Tipo III: retângulos, com dimensões 0,5 m x 0,6 m. • Tipo IV: triângulos retângulos isósceles, cujos catetos medem 0,5 m. • Tipo V: quadrados, com 0,6 m de lado. Analisando a pesquisa, o mestre de obras recomendou que Vítor escolhesse um tipo de piso que possibilitasse a utilização do menor número de peças e não acarretasse sobreposições ou cortes nas cerâmicas. Qual o tipo de piso o mestre de obras recomendou que fosse comprado? || A) Tipo I. | B) Tipo II. | C) Tipo III. | D) Tipo IV. | E) Tipo V."
+},
+{
+"id": 1528,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "A cotação de uma moeda em relação a uma segunda moeda é o valor que custa para comprar uma unidade da primeira moeda, utilizando a segunda moeda. Por exemplo, se a cotação do dólar é 1,6 real, isso significa que para comprar 1 dólar é necessário 1,6 real. Suponha que a cotação do dólar, em reais, seja de 1,6 real, a do euro, em reais, seja de 2,4 reais e a cotação da libra, em euros, seja de 1,1 euro. [figura] Qual é a cotação da libra, em dólares? || A) 4,224 dólares | B) 2,64 dólares | C) 1,65 dólar | D) 1,50 dólar | E) 1,36 dólar"
+},
+{
+"id": 1554,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "A temperatura T de um forno (em graus centígrados) é reduzida por um sistema a partir do instante de seu desligamento ( t=0 ) e varia de acordo com a expressão T(t)=-t2/4+400, com t em minutos. Por motivos de segurança, a trava do forno só é liberada para abertura quando o forno atinge a temperatura de 39° C. Qual o tempo mínimo de espera, em minutos, após se desligar o forno, para que a porta possa ser aberta? || A) 19,0 | B) 19,8 | C) 20,0 | D) 38,0 | E) 39,0"
+},
+{
+"id": 1594,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "Certa empresa de telefonia oferece a seus clientes dois pacotes de serviço: • Pacote laranja Oferece 300 minutos mensais de ligação local e o usuário deve pagar R$ 143,00 por mês. Será cobrado o valor de R$ 0,40 por minuto que exceder o valor oferecido. • Pacote azul Oferece 100 minutos mensais de ligação local e o usuário deve pagar mensalmente R$ 80,00. Será cobrado o valor de R$ 0,90 por minuto que exceder o valor oferecido. Para ser mais vantajoso contratar o pacote laranja, comparativamente ao pacote azul, o número mínimo de minutos de ligação que o usuário deverá fazer é || A) 70. | B) 126. | C) 171. | D) 300. | E) 400."
+},
+{
+"id": 1644,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "Em setembro de 1987, Goiânia foi palco do maior acidente radioativo ocorrido no Brasil, quando uma amostra de césio-137, removida de um aparelho de radioterapia abandonado, foi manipulada inadvertidamente por parte da população. A meia-vida de um material radioativo é o tempo necessário para que a massa desse material se reduza à metade. A meia-vida do césio-137 é 30 anos e a quantidade restante de massa de um material radioativo, após t anos, é calculada pela expressão M(t)=A ·(2,7)kt, onde A é a massa inicial e k é uma constante negativa. Considere 0,3 como aproximação para log 10 2. Qual o tempo necessário, em anos, para que uma quantidade de massa do césio-137 se reduza a 10% da quantidade inicial? || A) 27 | B) 36 | C) 50 | D) 54 | E) 100"
+},
+{
+"id": 1648,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "Em um experimento, uma cultura de bactérias tem sua população reduzida pela metade a cada hora, devido à ação de um agente bactericida. Neste experimento, o número de bactérias em função do tempo pode ser modelado por uma função do tipo || A) afim. | B) seno. | C) cosseno. | D) logarítmica crescente. | E) exponencial."
+},
+{
+"id": 1709,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "Muitos processos fisiológicos e bioquímicos, tais como batimentos cardíacos e taxa de respiração, apresentam escalas construídas a partir da relação entre superfície e massa (ou volume) do animal. Uma dessas escalas, por exemplo, considera que “o cubo da área S da superfície de um mamífero é proporcional ao quadrado de sua massa M”. HUGHES-HALLETT, D. et al. Cálculo e aplicações. São Paulo: Edgard Blücher, 1999 (adaptado). Isso é equivalente a dizer que, para uma constante k > 0, a área S pode ser escrita em função de M por meio da expressão: || A) S=k · M | B) S=k · M1/3 | C) S=k1/3 · M1/3 | D) S=k1/3 · M2/3 | E) S=k1/3 · M2"
+},
+{
+"id": 1710,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "Médicos alertam sobre a importância de educar as crianças para terem hábitos alimentares saudáveis. Por exemplo, analisando-se uma bolacha com recheio de chocolate (25 g) e um pé de alface (25 g), observam-se as seguintes quantidades de nutrientes, respectivamente: • carboidratos: 15 g e 0,5 g; • proteínas: 1,9 g e 0,5 g. Considerando as informações apresentadas, qual deve ser o número de pés de alface consumidos para se obter a mesma quantidade de carboidratos de uma bolacha? || A) 50 | B) 30 | C) 14 | D) 8 | E) 7"
+},
+{
+"id": 1713,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "Na aferição de um novo semáforo, os tempos são ajustados de modo que, em cada ciclo completo (verde-amarelo-vermelho), a luz amarela permaneça acesa por 5 segundos, e o tempo em que a luz verde permaneça acesa seja igual a 2/3 do tempo em que a luz vermelha fique acesa. A luz verde fica acesa, em cada ciclo, durante X segundos, e cada ciclo dura Y segundos. Qual é a expressão que representa a relação entre X e Y ? || A) 5X - 3Y + 15 = 0 | B) 5X - 2Y + 10 = 0 | C) 3X - 3Y + 15 = 0 | D) 3X - 2Y + 15 = 0 | E) 3X - 2Y + 10 = 0"
+},
+{
+"id": 1725,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "Nos Estados Unidos a unidade de medida de volume mais utilizada em latas de refrigerante é a onça fluida (fl oz), que equivale a aproximadamente 2,95 centilitros (cL). Sabe-se que o centilitro é a centésima parte do litro e que a lata de refrigerante usualmente comercializada no Brasil tem capacidade de 355 mL. Assim, a medida do volume da lata de refrigerante de 355 mL, em onça fluida (fl oz), é mais próxima de || A) 0,83. | B) 1,20. | C) 12,03. | D) 104,73. | E) 120,34."
+},
+{
+"id": 1732,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "Numa escola com 1200 alunos foi realizada uma pesquisa sobre o conhecimento desses em duas línguas estrangeiras, inglês e espanhol. Nessa pesquisa constatou-se que 600 alunos falam inglês, 500 falam espanhol e 300 não falam qualquer um desses idiomas. Escolhendo-se um aluno dessa escola ao acaso e sabendo-se que ele não fala inglês, qual a probabilidade de que esse aluno fale espanhol? || A) 1/2 | B) 5/8 | C) 1/4 | D) 5/6 | E) 5/14"
+},
+{
+"id": 1734,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "O Conselho Monetário Nacional (CMN) determinou novas regras sobre o pagamento mínimo da fatura do cartão de crédito, a partir do mês de agosto de 2011. A partir de então, o pagamento mensal não poderá ser inferior a 15% do valor total da fatura. Em dezembro daquele ano, outra alteração foi efetuada: daí em diante, o valor mínimo a ser pago seria de 20% da fatura. Um determinado consumidor possuía no dia do vencimento, 01/03/2012, uma dívida de R$ 1 000,00 na fatura de seu cartão de crédito. Se não houver pagamento do valor total da fatura, são cobrados juros de 10% sobre o saldo devedor para a próxima fatura. Para quitar sua dívida, optou por pagar sempre o mínimo da fatura a cada mês e não efetuar mais nenhuma compra. A dívida desse consumidor em 01/05/2012 será de || A) R$ 600,00. | B) R$ 640,00. | C) R$ 722,50. | D) R$ 774,40. | E) R$ 874,22."
+},
+{
+"id": 1744,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "O ciclo de atividade magnética do Sol tem um período de 11 anos. O início do primeiro ciclo registrado se deu no começo de 1755 e se estendeu até o final de 1765. Desde então, todos os ciclos de atividade magnética do Sol têm sido registrados. Disponível em: http://g1.globo.com. Acesso em: 27 fev. 2013. No ano de 2101, o Sol estará no ciclo de atividade magnética de número || A) 32. | B) 34. | C) 33. | D) 35. | E) 31."
+},
+{
+"id": 1746,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "O cometa Halley orbita o Sol numa trajetória elíptica periódica. Ele foi observado da Terra nos anos de 1836 e 1911. Sua última aparição foi em 1986 e sua próxima aparição será em 2061. Qual é o ano da segunda aparição do cometa anterior ao ano de 2012? || A) 1836 | B) 1862 | C) 1911 | D) 1937 | E) 1986"
+},
+{
+"id": 1747,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "O contribuinte que vende mais de R$ 20 mil de ações em Bolsa de Valores em um mês deverá pagar Imposto de Renda. O pagamento para a Receita Federal consistirá em 15% do lucro obtido com a venda das ações. Disponível em: www1.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado). Um contribuinte que vende por R34 mil um lote de ações que custou R 26 mil terá de pagar de Imposto de Renda à Receita Federal o valor de || A) R$ 900,00. | B) R$ 1200,00. | C) R$ 2100,00. | D) R$ 3900,00. | E) R$ 5100,00."
+},
+{
+"id": 1751,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "O dono de uma empresa produtora de água mineral explora uma fonte de onde extrai 20 000 litros diários, os quais são armazenados em um reservatório com volume interno de 30 m<sup>3</sup>, para serem colocados, ao final do dia, em garrafas plásticas. Para aumentar a produção, o empresário decide explorar também uma fonte vizinha, de onde passa a extrair outros 25 000 litros. O reservatório que se encontra em uso possui uma capacidade ociosa que deve ser aproveitada. Avaliando a capacidade do reservatório existente e o novo volume de água extraído, qual o volume interno mínimo de um novo reservatório que o empresário deve adquirir? || A) 15,0 m<sup>3</sup> | B) 25,0 m<sup>3</sup> | C) 37,5 m<sup>3</sup> | D) 45,0 m<sup>3</sup> | E) 57,5 m<sup>3</sup>"
+},
+{
+"id": 1762,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "O matemático americano Eduardo Kasner pediu ao filho que desse um nome a um número muito grande, que consistia do algarismo 1 seguido de 100 zeros. Seu filho batizou o número de gugol. Mais tarde, o mesmo matemático criou um número que apelidou de gugolplex, que consistia em 10 elevado a um gugol. Quantos algarismos tem um gugolplex? || A) 100 | B) 101 | C) 10<sup>100</sup> | D) 10<sup>100</sup> + 1 | E) 10<sup>1</sup> <sup>000</sup> + 1"
+},
+{
+"id": 1799,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "Para se construir um contrapiso, é comum, na constituição do concreto, se utilizar cimento, areia e brita, na seguinte proporção: 1 parte de cimento, 4 partes de areia e 2 partes de brita. Para construir o contrapiso de uma garagem, uma construtora encomendou um caminhão betoneira com 14 m3 de concreto. Qual é o volume de cimento, em m3, na carga de concreto trazido pela betoneira? || A) 1,75 | B) 2,00 | C) 2,33 | D) 4,00 | E) 8,00"
+},
+{
+"id": 1834,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "Todos os anos, a Receita Federal alerta os contribuintes para não deixarem o envio de seus dados para o último dia do prazo de entrega, pois, após esse prazo, terá que pagar uma multa. Em certo ano, a quatro dias do prazo final, contabilizou-se o recebimento de 16,2 milhões de declarações, o equivalente a cerca de 60% do total estimado pela Receita Federal. Nesse mesmo momento, foi observado que a média de entrada era de aproximadamente 90 000 declarações por hora. Considerando o total estimado para entrega e permanecendo nesses últimos dias a mesma média por hora de recebimentos das declarações, qual a quantidade aproximada de pessoas que terão que pagar multa por atraso, sabendo que a Receita Federal recebe declarações 24 horas por dia? || A) 2,16 milhões | B) 4,05 milhões | C) 6,21 milhões | D) 7,65 milhões | E) 8,64 milhões"
+},
+{
+"id": 1842,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "Um dos grandes problemas enfrentados nas rodovias brasileiras é o excesso de carga transportada pelos caminhões. Dimensionado para o tráfego dentro dos limites legais de carga, o piso das estradas se deteriora com o peso excessivo dos caminhões. Além disso, o excesso de carga interfere na capacidade de frenagem e no funcionamento da suspensão do veículo, causas frequentes de acidentes. Ciente dessa responsabilidade e com base na experiência adquirida com pesagens, um caminhoneiro sabe que seu caminhão pode carregar, no máximo, 1500 telhas ou 1200 tijolos. Considerando esse caminhão carregado com 900 telhas, quantos tijolos, no máximo, podem ser acrescentados à carga de modo a não ultrapassar a carga máxima do caminhão? || A) 300 tijolos | B) 360 tijolos | C) 400 tijolos | D) 480 tijolos | E) 600 tijolos"
+},
+{
+"id": 1856,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "Uma dona de casa faz um comparativo de custos para decidir se irá adquirir uma máquina lavadora de louças para substituir a lavagem manual. Decide calcular o custo com a lavagem de louças por um período de 30 dias, com duas lavagens por dia. Ela constatou que não precisa considerar os custos do detergente e do sabão, pois, na máquina lavadora e na lavagem manual, são equivalentes. Verificou que gasta em média 90 litros de água em cada lavagem manual. Cada lavagem na máquina gasta 16 litros de água e 0,9 kWh de energia. Sabe-se que a companhia de distribuição de água cobra R$ 6,25 por metro cúbico (pelo consumo de água e dispersão e tratamento de esgoto) e a companhia elétrica cobra R$ 0,45 por kWh consumido. De acordo com essas informações, num período de 30 dias, a lavagem manual ficará mais cara que a da máquina lavadora em quantos reais? || A) 1,72 | B) 3,45 | C) 4,72 | D) 9,45 | E) 27,75"
+},
+{
+"id": 1863,
+"vest": "ENEM",
+"ano": "2013",
+"area": "exatas",
+"texto": "Uma fábrica de fórmicas produz placas quadradas de lados de medida igual a y centímetros. Essas placas são vendidas em caixas com N unidades e, na caixa, é especificada a área máxima S que pode ser coberta pelas N placas. Devido a uma demanda do mercado por placas maiores, a fábrica triplicou a medida dos lados de suas placas e conseguiu reuni-las em uma nova caixa, de tal forma que a área coberta S não fosse alterada. A quantidade X, de placas do novo modelo, em cada nova caixa será igual a: || A) N/9 | B) N/6 | C) N/3 | D) 3 N | E) 9 N"
+}
+]

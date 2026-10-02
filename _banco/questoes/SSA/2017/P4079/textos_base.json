@@ -1,0 +1,56 @@
+[
+ {
+  "id": "P4079-T1",
+  "texto": "**GEOGRAFIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     258.89,
+     52.04582400000004,
+     326.85615199999995,
+     63.109824
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4079-Q031"
+  ],
+  "recortes": [
+   "revisao/T1_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4079-T2",
+  "texto": "**SOCIOLOGIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     257.57,
+     53.24582399999997,
+     329.862176,
+     64.30982399999994
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4079-Q041"
+  ],
+  "recortes": [
+   "revisao/T2_p26.jpg"
+  ]
+ }
+]

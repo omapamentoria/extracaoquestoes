@@ -1,0 +1,182 @@
+[
+ {
+  "id": "P4207-T1",
+  "texto": "**QUÍMICA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     264.36001,
+     45.50406999999984,
+     315.6031899999999,
+     56.48406999999986
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4207-Q011"
+  ],
+  "recortes": [
+   "revisao/T1_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4207-T2",
+  "texto": "**FÍSICA**\n\n***Nas questões com respostas numéricas, considere o módulo da aceleração da gravidade como*** ***g = 10,0 m/s<sup>2</sup>, o módulo da carga do elétron como e = 1,6 x 10<sup>-19</sup>C, o módulo da velocidade da luz como*** ***c = 3,0 x 10<sup>8</sup> m/s e utilize π = 3.***",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     271.68,
+     43.58407999999997,
+     308.88756,
+     54.56407999999999
+    ],
+    [
+     42.54,
+     72.2466199999999,
+     538.592124,
+     82.26661999999999
+    ],
+    [
+     42.54,
+     83.76661999999999,
+     538.714872,
+     93.78962000000001
+    ],
+    [
+     42.5385,
+     95.28661999999997,
+     188.43591600000002,
+     105.30962
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4207-Q021"
+  ],
+  "recortes": [
+   "revisao/T2_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4207-T3",
+  "texto": "**HISTÓRIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     262.5,
+     45.32407999999998,
+     317.46147600000006,
+     56.30408
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4207-Q031"
+  ],
+  "recortes": [
+   "revisao/T3_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4207-T4",
+  "texto": "**GEOGRAFIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     256.14,
+     43.58407999999997,
+     323.950284,
+     54.56407999999999
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4207-Q041"
+  ],
+  "recortes": [
+   "revisao/T4_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4207-T5",
+  "texto": "Fonte: www.gettyimages.pt",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     442.08,
+     221.27618000000007,
+     538.489572,
+     229.25617999999997
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4207-Q044"
+  ],
+  "recortes": [
+   "revisao/T5_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4207-T6",
+  "texto": "**SOCIOLOGIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     254.88,
+     43.58917999999994,
+     325.14988200000005,
+     54.56917999999996
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4207-Q051"
+  ],
+  "recortes": [
+   "revisao/T6_p26.jpg"
+  ]
+ }
+]

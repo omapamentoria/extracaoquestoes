@@ -1,0 +1,7066 @@
+[
+ {
+  "id": "P4141-Q001",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 1,
+  "area": "",
+  "texto_base_id": "P4141-T1",
+  "textos_base_ids": [
+   "P4141-T1"
+  ],
+  "enunciado": "Com base nos elementos textuais e discursivos do Texto 1, é **CORRETO** afirmar que o seu propósito comunicativo é, fundamentalmente:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "apresentar um resumo da história que compõe o enredo do filme *Tomorrowland*, para que o leitor tome conhecimento do tema abordado."
+   },
+   {
+    "letra": "B",
+    "texto": "divulgar o filme *Tomorrowland*, a fim de atrair aos cinemas um grande contingente de espectadores de um perfil específico."
+   },
+   {
+    "letra": "C",
+    "texto": "emitir, para um público especializado, uma opinião técnica sobre *Tomorrowland*, capaz de influenciar a produção cinematográfica."
+   },
+   {
+    "letra": "D",
+    "texto": "fazer a análise crítica de um objeto cultural (um filme), de modo a destacar suas características narrativas e qualificá-lo técnica e esteticamente."
+   },
+   {
+    "letra": "E",
+    "texto": "trazer informações para o público leitor da revista acerca da história dos parques da Disney e do seu fundador, e também anunciar o lançamento do filme *Tomorrowland*."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.54359999999997,
+     51.618499999999926,
+     538.694664,
+     62.598499999999945
+    ],
+    [
+     42.54359999999997,
+     64.27843999999993,
+     264.479046,
+     75.25843999999995
+    ],
+    [
+     70.91591999999997,
+     89.59831999999994,
+     538.605726,
+     100.57831999999996
+    ],
+    [
+     92.16221999999999,
+     102.25825999999995,
+     319.65354600000006,
+     113.23825999999997
+    ],
+    [
+     70.92689999999999,
+     114.91819999999996,
+     538.5420420000003,
+     125.89819999999997
+    ],
+    [
+     92.16221999999999,
+     127.51225999999997,
+     274.3994760000001,
+     138.49226
+    ],
+    [
+     70.92689999999999,
+     140.17219999999998,
+     538.584864,
+     151.1522
+    ],
+    [
+     92.16221999999999,
+     152.83213999999998,
+     284.1826559999999,
+     163.81214
+    ],
+    [
+     70.92689999999999,
+     165.49208,
+     538.491534,
+     176.47208
+    ],
+    [
+     92.16221999999999,
+     178.15202,
+     400.8122160000005,
+     189.13202
+    ],
+    [
+     70.92689999999999,
+     190.74608,
+     538.5354539999994,
+     201.72608000000002
+    ],
+    [
+     92.16221999999999,
+     203.40602,
+     468.17232,
+     214.38602000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q002",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 2,
+  "area": "",
+  "texto_base_id": "P4141-T1",
+  "textos_base_ids": [
+   "P4141-T1"
+  ],
+  "enunciado": "O Texto 1, como outros gêneros, se estrutura em mais de um tipo textual, um deles, o tipo narrativo. O enredo de *Tomorrowland* é narrado sob o ponto de vista de quem assistiu ao filme (não de um de seus personagens). A voz do narrador aparece relatando a história do filme na sequência:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "“Em uma fazenda americana, nos anos 60, o garoto Frank Walker (Thomas Robinson) persegue o sonho de inventar uma engenhoca capaz de fazê-lo voar. O pai lhe dá uma bronca por perder tempo com tal sandice.” (1º parágrafo)."
+   },
+   {
+    "letra": "B",
+    "texto": "*“Tomorrowland* deriva da ala futurista homônima que se pode visitar em vários parques da Disney – cujo espírito também está na base do Epcot, em Orlando. (2º parágrafo)."
+   },
+   {
+    "letra": "C",
+    "texto": "“Apesar do frenesi de videogame, *Tomorrowland* cheira a um compêndio de design retrô, com seus robôs e naves malucas. Como fica explícito em sua ode à era da corrida espacial, o filme expressa um paradoxo: a nostalgia do futuro.” (2º parágrafo)."
+   },
+   {
+    "letra": "D",
+    "texto": "“Na verdade, o componente nostálgico é um fator de empatia do filme. O deslize está em outro detalhe: a indecisão existencial. *Tomorrowland* fica a meio caminho entre a aventura juvenil e a distopia tecnológica à la *Matrix*.” (3º parágrafo)."
+   },
+   {
+    "letra": "E",
+    "texto": "“Para os jovens, a pirotecnia não compensará o enfado com tanto papo-cabeça – o que talvez explique por que a produção de 180 milhões de dólares decepcionou nas bilheterias americanas.” (3º parágrafo)."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.54,
+     234.50918000000001,
+     538.6482420000004,
+     245.48918000000003
+    ],
+    [
+     42.54,
+     247.16912000000002,
+     538.5944400000003,
+     258.14912000000004
+    ],
+    [
+     42.52902000000003,
+     259.76318000000003,
+     531.0050639999995,
+     270.74318000000005
+    ],
+    [
+     70.91232000000004,
+     285.08306000000005,
+     538.5153839999997,
+     296.06306000000006
+    ],
+    [
+     92.14764000000004,
+     297.74300000000005,
+     538.3748399999997,
+     308.72300000000007
+    ],
+    [
+     92.14764000000004,
+     310.40294000000006,
+     373.02921600000025,
+     321.3829400000001
+    ],
+    [
+     70.91232000000004,
+     322.99700000000007,
+     538.5208740000005,
+     333.9770000000001
+    ],
+    [
+     92.14764000000004,
+     335.6569400000001,
+     492.9582659999999,
+     346.6369400000001
+    ],
+    [
+     70.91232000000004,
+     348.3168800000001,
+     538.580166,
+     359.2968800000001
+    ],
+    [
+     92.14764000000005,
+     360.9768200000001,
+     538.6087140000001,
+     371.9568200000001
+    ],
+    [
+     92.14764000000005,
+     373.6367600000001,
+     472.1632439999999,
+     384.6167600000001
+    ],
+    [
+     70.90134000000006,
+     386.2308200000001,
+     538.6734960000005,
+     397.2108200000001
+    ],
+    [
+     92.13666000000006,
+     398.8907600000001,
+     538.563696,
+     409.87076000000013
+    ],
+    [
+     92.13666000000006,
+     411.5507000000001,
+     375.57767400000006,
+     422.53070000000014
+    ],
+    [
+     70.90134000000006,
+     424.2106400000001,
+     538.4901299999996,
+     435.19064000000014
+    ],
+    [
+     92.13666000000006,
+     436.87058000000013,
+     538.536246,
+     447.85058000000015
+    ],
+    [
+     92.13666000000006,
+     449.53052000000014,
+     229.43387399999997,
+     460.51052000000016
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q003",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 3,
+  "area": "",
+  "texto_base_id": "P4141-T1",
+  "textos_base_ids": [
+   "P4141-T1"
+  ],
+  "enunciado": "Outro elemento essencialmente narrativo é a marcação da passagem do tempo. No Texto 1, a marcação do tempo leva em conta o gênero da narrativa no seguinte trecho:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "“nos anos 60” (1º parágrafo)."
+   },
+   {
+    "letra": "B",
+    "texto": "“Na ocasião” (1º parágrafo)."
+   },
+   {
+    "letra": "C",
+    "texto": "“Corta para o começo dos anos 2000” (1º parágrafo)."
+   },
+   {
+    "letra": "D",
+    "texto": "“décadas antes” (1º parágrafo)."
+   },
+   {
+    "letra": "E",
+    "texto": "“No momento em que” (2º parágrafo)."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.54,
+     480.56917999999996,
+     538.6537320000001,
+     491.54918
+    ],
+    [
+     42.53999999999999,
+     493.22911999999997,
+     415.57232400000026,
+     504.20912
+    ],
+    [
+     70.92,
+     515.06918,
+     233.12204999999994,
+     526.04918
+    ],
+    [
+     70.92,
+     527.72912,
+     228.2041079999999,
+     538.70912
+    ],
+    [
+     70.92,
+     540.38906,
+     351.1306980000002,
+     551.36906
+    ],
+    [
+     70.92,
+     552.98312,
+     244.6806959999999,
+     563.96312
+    ],
+    [
+     70.92,
+     565.64306,
+     275.90452200000004,
+     576.62306
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q003_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q004",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 4,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "No segundo parágrafo, o autor afirma que “o filme expressa um paradoxo: a nostalgia do futuro”. Esse paradoxo (ou contradição) também é assinalado fortemente pelo autor no trecho:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "“*Tomorrowland* deriva da ala futurista homônima”."
+   },
+   {
+    "letra": "B",
+    "texto": "“A ideia de um futuro de arquitetura sinuosa (...) era fixação de Walt Disney”."
+   },
+   {
+    "letra": "C",
+    "texto": "“*Tomorrowland* cheira a um compêndio de design retrô”."
+   },
+   {
+    "letra": "D",
+    "texto": "“O futurismo dos parques da Disney foi assimilado na arquitetura pós-moderna”."
+   },
+   {
+    "letra": "E",
+    "texto": "“no processo, seu futurismo virou item de museu.”."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.536699999999996,
+     603.62288,
+     538.5384360000002,
+     614.60288
+    ],
+    [
+     70.92,
+     616.28282,
+     531.8131859999991,
+     627.26282
+    ],
+    [
+     70.92,
+     641.53682,
+     335.4907859999999,
+     652.51682
+    ],
+    [
+     70.92,
+     654.19676,
+     466.2098820000005,
+     665.1767600000001
+    ],
+    [
+     70.92,
+     666.8567,
+     366.7157099999999,
+     677.8367000000001
+    ],
+    [
+     70.92,
+     679.51664,
+     483.38589599999983,
+     690.4966400000001
+    ],
+    [
+     70.91999999999999,
+     692.1107000000001,
+     339.8026320000003,
+     703.0907000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q004_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q005",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 5,
+  "area": "",
+  "texto_base_id": "P4141-T1",
+  "textos_base_ids": [
+   "P4141-T1"
+  ],
+  "enunciado": "Com respeito aos recursos empregados para obter certos efeitos de sentido no Texto 1, analise as proposições a seguir.\n\nI. Para ressaltar aspectos negativos do filme, o autor, por vezes, lança mão de conceitos reconhecidamente desprestigiados por um certo tipo de público, como em: “O filete de autoajuda contido na frase é uma premonição (...)” (1º parágrafo).\n\nII. Além de tratar de outro texto (o filme), numa relação eminentemente intertextual, o autor utiliza outros tipos de relação textual, como a alusão a livros e a citação de expressões populares reformuladas, como em “conversa para robô dormir” e “(algum filme) ter futuro” (3º parágrafo), com as quais obtém efeitos, respectivamente, de humor e de ironia.\n\nIII. A seleção dos adjetivos busca destacar aspectos positivos dos substantivos que tais\n\nadjetivos acompanham e, consequentemente, ressaltar as qualidades do filme americano, como em: “doloroso anticlímax”, “versões modernosas” e “vias misteriosas”.\n\nIV. Para fazer-se compreender, o autor conta com o conhecimento prévio e a produção de inferências por parte do leitor, por exemplo, ao utilizar a expressão “os cabelos grisalhos de George Clooney” (3º parágrafo).\n\nEstão **CORRETAS**:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e IV, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "I, III e IV, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "II e III, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "II, III e IV, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II, III e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.54359999999997,
+     51.618499999999926,
+     538.679292,
+     62.598499999999945
+    ],
+    [
+     70.91591999999997,
+     64.27843999999993,
+     190.10052599999995,
+     75.25843999999995
+    ],
+    [
+     70.92,
+     86.12918000000002,
+     538.586748,
+     97.10918000000004
+    ],
+    [
+     92.15532,
+     98.78912000000003,
+     538.6273740000001,
+     109.76912000000004
+    ],
+    [
+     92.15532,
+     111.44906000000003,
+     412.8975900000003,
+     122.42906000000005
+    ],
+    [
+     70.92,
+     129.86918000000003,
+     538.5988260000003,
+     140.84918000000005
+    ],
+    [
+     92.1663,
+     142.52912000000003,
+     538.4692620000002,
+     153.50912000000005
+    ],
+    [
+     92.1663,
+     155.12318000000005,
+     538.5560039999998,
+     166.10318000000007
+    ],
+    [
+     92.1663,
+     167.78312000000005,
+     496.72220399999986,
+     178.76312000000007
+    ],
+    [
+     70.92,
+     187.04917999999998,
+     538.5428279999994,
+     198.02918
+    ],
+    [
+     92.15532,
+     199.70911999999998,
+     538.5582000000002,
+     210.68912
+    ],
+    [
+     92.15531999999999,
+     212.36906,
+     462.05614799999995,
+     223.34906
+    ],
+    [
+     70.92,
+     231.62918000000002,
+     538.5219659999999,
+     242.60918000000004
+    ],
+    [
+     92.15532,
+     244.28912000000003,
+     538.5538080000002,
+     255.26912000000004
+    ],
+    [
+     92.15532000000002,
+     256.88318000000004,
+     264.9245220000001,
+     267.86318000000006
+    ],
+    [
+     70.92,
+     281.06917999999996,
+     166.79736,
+     292.04918
+    ],
+    [
+     70.92,
+     305.18917999999996,
+     175.32333,
+     316.16918
+    ],
+    [
+     70.92,
+     317.84911999999997,
+     178.38675,
+     328.82912
+    ],
+    [
+     70.92,
+     330.50906,
+     164.94832799999998,
+     341.48906
+    ],
+    [
+     70.92,
+     343.169,
+     181.45016999999999,
+     354.149
+    ],
+    [
+     70.92,
+     355.82894,
+     148.45966199999998,
+     366.80894
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q005_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q006",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 6,
+  "area": "",
+  "texto_base_id": "P4141-T1",
+  "textos_base_ids": [
+   "P4141-T1"
+  ],
+  "enunciado": "Releia este trecho do primeiro parágrafo do Texto 1.\n\n“Em uma fazenda americana, nos anos 60, o garoto Frank Walker (Thomas Robinson) persegue o sonho de inventar uma engenhoca capaz de fazê-lo voar. O pai <u>lhe</u> dá uma bronca por perder tempo com tal sandice. Seu primeiro teste revela-se um doloroso anticlímax. Nem por isso Frank desanima. ‘Não vou desistir nunca’, diz.”\n\nAcerca dos processos coesivos do trecho lido, analise as afirmativas seguintes.\n\nI. Todos os segmentos destacados no texto retomam ‘o garoto Frank Walker’.\n\nII. O segmento ‘tal sandice’ está substituindo ‘o sonho de inventar uma engenhoca capaz de fazê-lo voar’.\n\nIII. Em: ‘Nem por <u>isso</u> Frank desanima.’, a palavra destacada retoma todo o período anterior, isto é, “Seu primeiro teste revela-se um doloroso anticlímax”.\n\nIV. No trecho: “(...) ‘Não vou desistir nunca’, diz.”, a falta de explicitação do sujeito da forma verbal ‘diz’ sinaliza ao leitor que o “termo ausente” já foi explicitado anteriormente no texto, constituindo, assim, um tipo de coesão.\n\nEstão **CORRETAS**:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e III, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "I e IV, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "II, III e IV, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "II e III, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II, III e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.54,
+     389.12917999999996,
+     325.83058800000026,
+     400.10918
+    ],
+    [
+     70.91232000000001,
+     414.44906,
+     538.6537320000001,
+     425.42906
+    ],
+    [
+     70.91232000000002,
+     427.109,
+     538.584558,
+     438.089
+    ],
+    [
+     70.92,
+     439.76917999999995,
+     538.5614939999996,
+     450.74917999999997
+    ],
+    [
+     70.92,
+     452.36918,
+     341.09717400000034,
+     463.34918
+    ],
+    [
+     70.92,
+     474.26917999999995,
+     459.07398000000023,
+     485.24917999999997
+    ],
+    [
+     64.8,
+     497.24917999999997,
+     447.92623800000024,
+     508.22918
+    ],
+    [
+     61.73658,
+     509.90912,
+     538.6440959999995,
+     520.88912
+    ],
+    [
+     77.99796,
+     522.56906,
+     140.989122,
+     533.54906
+    ],
+    [
+     58.67316000000001,
+     535.16312,
+     538.6693499999992,
+     546.14312
+    ],
+    [
+     78.0,
+     547.82918,
+     354.2941320000003,
+     558.80918
+    ],
+    [
+     57.42348,
+     560.48912,
+     538.6516260000002,
+     571.46912
+    ],
+    [
+     78.0,
+     573.14906,
+     538.7087220000002,
+     584.12906
+    ],
+    [
+     78.0,
+     585.809,
+     270.63641399999995,
+     596.789
+    ],
+    [
+     70.9179,
+     611.0630000000001,
+     166.79525999999998,
+     622.043
+    ],
+    [
+     70.92887999999998,
+     636.3828800000001,
+     174.14307599999995,
+     647.36288
+    ],
+    [
+     70.92887999999998,
+     649.0428200000001,
+     163.15319399999998,
+     660.02282
+    ],
+    [
+     70.92887999999998,
+     661.7027600000001,
+     181.46783399999993,
+     672.68276
+    ],
+    [
+     70.92887999999998,
+     674.29682,
+     164.95171799999997,
+     685.27682
+    ],
+    [
+     70.92887999999998,
+     686.95676,
+     148.46854199999996,
+     697.93676
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q006_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q007",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 7,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Para a compreensão de um texto, concorrem, igualmente, os elementos lexicais, os recursos e os arranjos sintáticos e, obviamente, a capacidade de o leitor conhecer esses elementos e interagir com eles. Considerando esse comentário, analise as afirmativas seguintes.\n\nI. No trecho: “Na produção da Disney em cartaz no país, o personagem sonhador surge, <u>já</u> <u>adulto,</u> na pele de George Clooney” (1º parágrafo), as vírgulas que separam o segmento sublinhado marcam uma ressalva que também acrescenta uma explicação para o leitor.\n\nII. Algumas escolhas vocabulares, como ‘versões modernosas’ (1º parágrafo) e ‘artigo requentadíssimo’ (3º parágrafo), servem de pista para que o leitor compreenda que caminha no terreno da ironia e da crítica.\n\nIII. Nos trechos: “No <u>momento em que</u> seu primeiro parque está para completar (...)” e <u>“Apesar</u> <u>do</u> frenesi de videogame, *Tomorrowland* cheira a um compêndio (...)”, os elementos sublinhados poderiam ser substituídos, respectivamente, por “Quando” e “Mesmo com o”, sem prejuízo dos sentidos originais.\n\nIV. Releia: “Por vias misteriosas, <u>um broche</u> como o de Frank cai em suas mãos. Da mesma forma que ocorrera com o garoto décadas antes, <u>o artefato</u> a transportará para a cidade futurista.” A substituição de ‘um broche’ pelo termo ‘o artefato’ cumpre o objetivo de evitar uma repetição indevida, que prejudicaria a compreensão textual.\n\nEstão **CORRETAS**:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I e II, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "I, II e III, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "II e III, apenas"
+   },
+   {
+    "letra": "D",
+    "texto": "III e IV, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II, III e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.54359999999997,
+     51.618499999999926,
+     538.6485479999993,
+     62.598499999999945
+    ],
+    [
+     42.54359999999997,
+     64.27843999999993,
+     538.378439999999,
+     75.25843999999995
+    ],
+    [
+     42.54359999999997,
+     76.93837999999994,
+     409.8487560000004,
+     87.91837999999996
+    ],
+    [
+     64.80005999999997,
+     102.25825999999995,
+     538.6090199999993,
+     113.23825999999997
+    ],
+    [
+     85.08,
+     114.92917999999997,
+     538.4540819999996,
+     125.90917999999999
+    ],
+    [
+     85.08,
+     127.52918,
+     514.2717299999999,
+     138.50918000000001
+    ],
+    [
+     61.736519999999985,
+     152.84906,
+     538.4112599999993,
+     163.82906000000003
+    ],
+    [
+     85.07999999999998,
+     165.50900000000001,
+     538.4573759999997,
+     176.48900000000003
+    ],
+    [
+     85.07999999999998,
+     178.16894000000002,
+     240.45578400000016,
+     189.14894000000004
+    ],
+    [
+     58.67309999999999,
+     203.42294000000004,
+     538.6154879999996,
+     214.40294000000006
+    ],
+    [
+     85.08,
+     216.08917999999994,
+     538.6034100000003,
+     227.06917999999996
+    ],
+    [
+     85.08,
+     228.74918000000002,
+     538.4354159999999,
+     239.72918000000004
+    ],
+    [
+     85.08,
+     241.40912000000003,
+     260.0001840000001,
+     252.38912000000005
+    ],
+    [
+     57.42138,
+     266.66312000000005,
+     538.4947079999998,
+     277.64312000000007
+    ],
+    [
+     85.08,
+     279.32917999999995,
+     538.6110959999995,
+     290.30917999999997
+    ],
+    [
+     85.08,
+     291.98918,
+     538.5913319999994,
+     302.96918
+    ],
+    [
+     85.08,
+     304.64912,
+     400.6045740000003,
+     315.62912
+    ],
+    [
+     70.9158,
+     329.90312,
+     166.79316,
+     340.88312
+    ],
+    [
+     70.92678,
+     355.223,
+     158.820582,
+     366.20300000000003
+    ],
+    [
+     70.92678,
+     367.88294,
+     174.14097599999997,
+     378.86294000000004
+    ],
+    [
+     70.92678,
+     380.54288,
+     161.88949199999996,
+     391.52288000000004
+    ],
+    [
+     70.92678,
+     393.13694000000004,
+     169.259268,
+     404.11694000000006
+    ],
+    [
+     70.92678,
+     405.79688000000004,
+     148.46644199999997,
+     416.77688000000006
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q007_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q008",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 8,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o trecho: “Casey se conecta <u>ao</u> adulto Frank, <u>ao lado de quem</u> tentará impedir um cataclismo relacionado <u>àquele</u> mundo paralelo”. Considerando as normas da regência verbal e também os sentidos promovidos, identifique a alternativa cujas modificações (destacadas) mantêm a adequação linguística do trecho.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Casey se conecta <u>no</u> adulto Frank, ao lado de quem tentará impedir um cataclismo relacionado <u>naquele</u> mundo paralelo."
+   },
+   {
+    "letra": "B",
+    "texto": "Casey se conecta ao adulto Frank, <u>ao lado de cuja pessoa</u> tentará impedir um cataclismo relacionado àquele mundo paralelo."
+   },
+   {
+    "letra": "C",
+    "texto": "Casey se conecta <u>pelo</u> adulto Frank, ao lado de quem tentará impedir um cataclismo relacionado <u>à este</u> mundo paralelo."
+   },
+   {
+    "letra": "D",
+    "texto": "Casey se conecta <u>com o</u> adulto Frank e, <u>ao seu lado,</u> tentará impedir um cataclismo relacionado àquele mundo paralelo."
+   },
+   {
+    "letra": "E",
+    "texto": "Casey se conecta <u>por meio do</u> adulto Frank, <u>com quem</u> tentará impedir um cataclismo relacionado <u>aquele</u> mundo paralelo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.55445999999999,
+     443.77670000000006,
+     538.5913319999993,
+     454.7567000000001
+    ],
+    [
+     42.54,
+     456.44917999999996,
+     538.5109919999992,
+     467.42918
+    ],
+    [
+     42.54,
+     469.04918,
+     538.6921620000002,
+     480.02918
+    ],
+    [
+     42.54000000000002,
+     481.70912,
+     200.90124599999996,
+     492.68912
+    ],
+    [
+     70.91232000000002,
+     507.029,
+     538.5208740000005,
+     518.009
+    ],
+    [
+     92.16,
+     519.68918,
+     273.13126200000016,
+     530.66918
+    ],
+    [
+     70.92,
+     532.28918,
+     538.4846340000004,
+     543.26918
+    ],
+    [
+     92.16,
+     544.9491800000001,
+     267.0681060000001,
+     555.92918
+    ],
+    [
+     70.92468,
+     557.6091200000001,
+     538.5255479999994,
+     568.58912
+    ],
+    [
+     92.16,
+     570.26918,
+     264.0123720000001,
+     581.24918
+    ],
+    [
+     70.92,
+     582.92918,
+     538.5329460000006,
+     593.90918
+    ],
+    [
+     92.16,
+     595.5891799999999,
+     267.0681060000001,
+     606.56918
+    ],
+    [
+     70.92468,
+     608.1832400000001,
+     538.5354300000005,
+     619.16324
+    ],
+    [
+     92.16,
+     620.84918,
+     267.0681060000001,
+     631.82918
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q008_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q009",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 9,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe as imagens e relacione-as aos romances de José de Alencar, conforme os temas sugeridos pelos elementos verbais e visuais.\n\n{{img:1}}\n\nAnalise as afirmativas a seguir e coloque V nas Verdadeiras e F nas Falsas.\n\n( ) As cinco imagens se relacionam, na sequência, com os seguintes temas desenvolvidos por\n\nJosé de Alencar em seus romances: indianista, histórico, urbano, sertanista e de perfil feminino.\n\n( ) As imagens 4 e 5 apresentam a mesma temática dos romances *Senhora* e *As Minas de*\n\n*Prata*, ao passo que a imagem 1 retrata os primitivos habitantes do Brasil, o que a aproxima dos romances *O Guarani, Iracema e Ubirajara.*\n\n( ) Os temas das imagens 2 e 3 relacionam-se às histórias contidas nos romances urbano e\n\nsertanista ou ruralista do escritor cearense, enquanto a imagem 4 não se associa a qualquer um dos romances de José de Alencar.\n\n( ) Os romances *Lucíola, Senhora e Diva* são denominados romances urbanos de perfis\n\nfemininos. Pode-se afirmar, então, que se relacionam às imagens 2 e 4.\n\n( ) *Cinco Minutos, A Viuvinha e A Pata da Gazela* são textos em que Alencar, no seu projeto de\n\ndesenvolver temas que cobrissem toda realidade cultural nacional, traz à tona aspectos urbanos que se fazem presentes nas imagens 1, 2 e 3.\n\nAssinale a alternativa que contém a sequência **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "V - V - V - F - F b) V - F - F - V - F c) F - V - F - V - F d) V - V - F - F - V e) V - V - V - F - V"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q009_img1.png",
+    "pagina": 7,
+    "bbox": [
+     58.8,
+     84.8,
+     537.6,
+     439.7
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.54359999999997,
+     51.629479999999944,
+     538.5870600000001,
+     62.60947999999996
+    ],
+    [
+     42.54359999999997,
+     64.28941999999995,
+     260.8578420000001,
+     75.26941999999997
+    ],
+    [
+     58.8000031,
+     84.83200079999995,
+     537.6000061,
+     439.6719971
+    ],
+    [
+     42.54,
+     448.22918,
+     414.33268200000043,
+     459.20918
+    ],
+    [
+     42.9,
+     472.40918,
+     532.1178180000003,
+     483.38918
+    ],
+    [
+     77.94,
+     485.06917999999996,
+     532.1452679999999,
+     496.04918
+    ],
+    [
+     77.94,
+     497.72918,
+     122.56491600000001,
+     508.70918
+    ],
+    [
+     42.90282,
+     510.32324,
+     532.1547,
+     521.30918
+    ],
+    [
+     76.32,
+     522.98918,
+     532.1536019999999,
+     533.96918
+    ],
+    [
+     76.32,
+     535.64918,
+     311.12071199999997,
+     546.62918
+    ],
+    [
+     42.896879999999996,
+     548.30912,
+     532.047156,
+     559.28918
+    ],
+    [
+     78.0,
+     560.96918,
+     532.0570379999998,
+     571.94918
+    ],
+    [
+     78.0,
+     573.56918,
+     311.5654620000001,
+     584.54918
+    ],
+    [
+     42.89694,
+     586.22912,
+     532.1656799999998,
+     597.2091800000001
+    ],
+    [
+     77.94,
+     598.88918,
+     428.9255820000004,
+     609.86918
+    ],
+    [
+     42.90282,
+     611.54912,
+     532.0921140000002,
+     622.52918
+    ],
+    [
+     77.94,
+     624.2091800000001,
+     532.0684079999996,
+     635.18918
+    ],
+    [
+     77.94,
+     636.86918,
+     346.3680600000002,
+     647.8491799999999
+    ],
+    [
+     70.92,
+     665.60918,
+     358.85952,
+     676.5891799999999
+    ],
+    [
+     42.6,
+     689.84918,
+     528.3696000000001,
+     700.82918
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [
+   "1 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q009_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q010",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 10,
+  "area": "",
+  "texto_base_id": "P4141-T1",
+  "textos_base_ids": [
+   "P4141-T1",
+   "P4141-T5"
+  ],
+  "enunciado": "Machado de Assis e Aluísio Azevedo, no mesmo ano, 1881, deram início, respectivamente, ao Realismo e Naturalismo no Brasil. O primeiro, com *Memórias Póstumas de Brás Cubas* e o segundo, com *O Mulato,* embora o *Cortiço* é que tenha celebrizado o autor maranhense. Sobre esses movimentos literários, aos quais pertencem os textos, leia o que se segue:\n\n**Texto 1**\n\nAo verme que primeiro roeu\n\nas frias carnes do meu cadáver  \ndedico como saudosa lembrança\n\nestas Memórias Póstumas\n\n**Texto 2**\n\nEram cinco horas da manhã e o cortiço acordava, abrindo, não os olhos, mas a sua\n\ninfinidade de portas e janelas alinhadas.\n\nUm acordar alegre e farto de quem dormiu de uma assentada sete horas de chumbo. Como que se sentiam ainda na indolência de neblina as derradeiras notas da última guitarra da noite antecedente, dissolvendo-se à luz loura e tenra da aurora, que nem um suspiro de saudade perdido em terra alheia.\n\nRoupa lavada, que ficara de véspera nos coradouros, umedecia o ar e punha-lhe um farto acre de sabão ordinário. As pedras do chão, esbranquiçadas no lugar da lavagem e em alguns pontos azuladas pelo anil, mostravam uma palidez grisalha e triste, feita de acumulações de espumas secas. Entretanto, das portas surgiam cabeças congestionadas de sono; ouviam-se amplos bocejos, fortes como o marulhar das ondas; pigarreava-se grosso por toda a parte; começavam as xícaras a tilintar; o cheiro quente do café aquecia, suplantando todos os outros; trocavam-se de janela para janela as primeiras palavras, os bons-dias; reatavam-se conversas interrompidas à noite; a pequenada cá fora traquinava já, e lá dentro das casas vinham choros abafados de crianças que ainda não andam. No confuso rumor que se formava, destacavam-se risos, sons de vozes que altercavam, sem se saber onde, grasnar de marrecos, cantar de galos, cacarejar de galinhas. De alguns quartos saíam mulheres que vinham pendurar cá fora, na parede, a gaiola do papagaio, e os louros, à semelhança dos donos, cumprimentavam-se ruidosamente, espanejando-se à luz nova do dia.\n\nDaí a pouco, em volta das bicas, era um zunzum crescente; uma aglomeração tumultuosa de machos e fêmeas. Uns, após outros, lavavam a cara, incomodamente, debaixo do fio de água que escorria da altura de uns cinco palmos. O chão inundava-se.\n\nAs mulheres precisavam já prender as saias entre as coxas para não as molhar; via-se-lhes a tostada nudez dos braços e do pescoço, que elas despiam, suspendendo o cabelo todo para o alto do casco; os homens, esses não se preocupavam em não molhar o pelo, ao contrário, metiam a cabeça bem debaixo da água e esfregavam com força as ventas e as barbas, fossando e fungando contra as palmas da mão. As portas das latrinas não descansavam, era um abrir e fechar de cada instante, um entrar e sair sem tréguas. Não se demoravam lá dentro e vinham ainda amarrando as calças ou as saias; as crianças não se davam ao trabalho de lá ir, despachavam-se ali mesmo, no capinzal dos fundos, por detrás da estalagem ou no recanto das hortas.\n\nO rumor crescia, condensando-se; o zunzum de todos os dias acentuava-se; já se não destacavam vozes dispersas, mas um só ruído compacto que enchia todo o cortiço. [...]  \nAnalise as afirmativas a seguir:\n\nI. O texto 1 é a dedicatória de Brás Cubas, que inicia suas memórias póstumas. Nessa obra, o autor textual e narrador ironicamente dedica suas memórias aos vermes. Trata-se de um aspecto inerente à estética romântica, uma vez que nela encontra-se subjacente a ideia de morte.\n\nII. No texto 2, o narrador descreve o comportamento da coletividade que forma o Cortiço. Note-se que nele há o privilégio do coletivo sobre o individual, elemento peculiar ao Romantismo, o que não surpreende o leitor, dado que o autor abraçou tanto a estética romântica quanto a realista.\n\nIII. Os dois textos, embora escritos por autores diferentes, apresentam as mesmas tendências estéticas. Ambos são realistas e criticam o comportamento da burguesia que vivia na ociosidade explorando os menos favorecidos.\n\nIV. O texto 1 tem por narrador a personagem principal que conta a sua própria história e o faz com a “tinta da galhofa e a pena da melancolia”, utilizando-se de um gracejo de tom cômico, próximo do humor negro de origem inglesa.\n\nV. No texto 2, o relato é de um narrador observador que apresenta os acontecimentos de um ponto de vista neutro, porque não se envolve nem faz parte da história narrada. Seu discurso volta-se para a análise dos elementos deterministas e das patologias sociais, o que faz de *O Cortiço* um texto naturalista.\n\nEstá **CORRETO** apenas o que se afirma em",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I e II."
+   },
+   {
+    "letra": "B",
+    "texto": "IV e V."
+   },
+   {
+    "letra": "C",
+    "texto": "I, II e III."
+   },
+   {
+    "letra": "D",
+    "texto": "II e III."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   8,
+   9
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.54,
+     51.62918000000002,
+     538.5988319999992,
+     62.60918000000004
+    ],
+    [
+     42.54,
+     64.28917999999999,
+     538.581264,
+     75.26918
+    ],
+    [
+     42.54,
+     76.94917999999996,
+     538.5197759999999,
+     87.92917999999997
+    ],
+    [
+     42.54,
+     89.60917999999992,
+     406.3414380000003,
+     100.58917999999994
+    ],
+    [
+     42.54,
+     125.30917999999997,
+     81.05125199999999,
+     136.28918
+    ],
+    [
+     60.24,
+     146.30917999999997,
+     196.539132,
+     157.28918
+    ],
+    [
+     60.24,
+     158.96911999999998,
+     213.67122600000013,
+     169.94912
+    ],
+    [
+     60.24,
+     171.62905999999998,
+     221.5823159999999,
+     182.60906
+    ],
+    [
+     60.24,
+     184.16822000000002,
+     189.8589,
+     195.14822000000004
+    ],
+    [
+     42.54,
+     229.94917999999996,
+     81.05125199999999,
+     240.92917999999997
+    ],
+    [
+     79.8,
+     248.60917999999992,
+     487.6619820000004,
+     259.58917999999994
+    ],
+    [
+     51.4167,
+     261.26912000000004,
+     247.65675000000016,
+     272.24912
+    ],
+    [
+     79.8,
+     273.92906,
+     528.5031899999996,
+     284.90906
+    ],
+    [
+     51.4167,
+     286.52311999999995,
+     511.10537999999946,
+     297.50311999999997
+    ],
+    [
+     51.4167,
+     299.18305999999995,
+     498.9680880000001,
+     310.16306
+    ],
+    [
+     51.4167,
+     311.84299999999996,
+     167.61474599999994,
+     322.823
+    ],
+    [
+     79.8,
+     324.50293999999997,
+     529.9536479999996,
+     335.48294
+    ],
+    [
+     51.4167,
+     337.16288,
+     529.9272960000003,
+     348.14288
+    ],
+    [
+     51.4167,
+     349.82282,
+     529.8888660000001,
+     360.80282
+    ],
+    [
+     51.4167,
+     362.41688,
+     529.9492465572005,
+     373.39688
+    ],
+    [
+     51.4167,
+     375.07682,
+     529.9536479999994,
+     386.05682
+    ],
+    [
+     51.4167,
+     387.73676,
+     530.0667420000002,
+     398.71676
+    ],
+    [
+     51.4167,
+     400.39669999999995,
+     529.9799999999999,
+     411.37669999999997
+    ],
+    [
+     51.4167,
+     413.05663999999996,
+     529.9382760000002,
+     424.03664
+    ],
+    [
+     51.4167,
+     425.6507,
+     530.0908980000002,
+     436.6307
+    ],
+    [
+     51.4167,
+     438.31064,
+     530.0865060000001,
+     449.29064
+    ],
+    [
+     51.4167,
+     450.97058,
+     529.9909800000001,
+     461.95058
+    ],
+    [
+     51.4167,
+     463.63052,
+     529.9876860000002,
+     474.61052
+    ],
+    [
+     51.4167,
+     476.29046,
+     291.76890000000003,
+     487.27046
+    ],
+    [
+     79.8,
+     488.88451999999995,
+     530.064546,
+     499.86451999999997
+    ],
+    [
+     51.4167,
+     501.54445999999996,
+     529.9196100000003,
+     512.52446
+    ],
+    [
+     51.4167,
+     514.2044,
+     368.6859960000002,
+     525.1844
+    ],
+    [
+     79.8,
+     526.86434,
+     529.9799903376005,
+     537.84434
+    ],
+    [
+     51.4167,
+     539.52428,
+     529.839455999999,
+     550.50428
+    ],
+    [
+     51.4167,
+     552.18422,
+     530.0272100000002,
+     563.16422
+    ],
+    [
+     51.4167,
+     564.77828,
+     529.9821960000002,
+     575.75828
+    ],
+    [
+     51.4167,
+     577.43822,
+     529.939374,
+     588.41822
+    ],
+    [
+     51.4167,
+     590.09816,
+     530.0283119999997,
+     601.07816
+    ],
+    [
+     51.4167,
+     602.7581,
+     529.9953627768006,
+     613.7381
+    ],
+    [
+     51.4167,
+     615.41804,
+     530.0261061180005,
+     626.39804
+    ],
+    [
+     51.4167,
+     628.0121,
+     85.08138000000001,
+     638.9920999999999
+    ],
+    [
+     79.8,
+     640.67204,
+     529.9800000000004,
+     651.6520399999999
+    ],
+    [
+     51.4167,
+     653.33198,
+     478.7791529195404,
+     664.31198
+    ]
+   ],
+   "9": [
+    [
+     63.8448,
+     51.618499999999926,
+     216.12641664012,
+     62.598499999999945
+    ],
+    [
+     64.8,
+     80.42917999999997,
+     538.4508479999995,
+     91.40917999999999
+    ],
+    [
+     85.08,
+     93.02918,
+     538.6703880000005,
+     104.00918000000001
+    ],
+    [
+     85.08,
+     105.68917999999996,
+     538.6220520636004,
+     116.66917999999998
+    ],
+    [
+     85.08,
+     118.34917999999993,
+     116.21928,
+     129.32917999999995
+    ],
+    [
+     61.74,
+     131.00918000000001,
+     538.4817179999997,
+     141.98918000000003
+    ],
+    [
+     85.08,
+     143.66917999999998,
+     538.4815166279998,
+     154.64918
+    ],
+    [
+     85.08,
+     156.26918,
+     538.4507879999996,
+     167.24918000000002
+    ],
+    [
+     85.08,
+     168.92917999999997,
+     123.64395599999999,
+     179.90918
+    ],
+    [
+     58.68,
+     181.58917999999994,
+     538.5828600000001,
+     192.56917999999996
+    ],
+    [
+     85.08,
+     194.24918000000002,
+     538.5803520000001,
+     205.22918000000004
+    ],
+    [
+     85.08,
+     206.90918,
+     308.2089720000001,
+     217.88918
+    ],
+    [
+     57.42,
+     219.56917999999996,
+     538.5493062360002,
+     230.54917999999998
+    ],
+    [
+     85.08,
+     232.16917999999998,
+     538.5660780000003,
+     243.14918
+    ],
+    [
+     85.08,
+     244.82917999999995,
+     338.86293600000016,
+     255.80917999999997
+    ],
+    [
+     60.4848,
+     257.48911999999996,
+     538.6110960000003,
+     268.46912
+    ],
+    [
+     85.09098,
+     270.14905999999996,
+     538.6550160000003,
+     281.12906
+    ],
+    [
+     85.09098,
+     282.80899999999997,
+     538.6934459999999,
+     293.789
+    ],
+    [
+     85.09098,
+     295.40306,
+     266.635398,
+     306.38306
+    ],
+    [
+     70.92678,
+     320.72294,
+     287.3777160000001,
+     331.70294
+    ],
+    [
+     70.92678,
+     346.04281999999995,
+     116.648598,
+     357.02281999999997
+    ],
+    [
+     70.92,
+     358.70918,
+     125.163684,
+     369.68918
+    ],
+    [
+     70.92174,
+     371.30917999999997,
+     131.959206,
+     382.28918
+    ],
+    [
+     70.91832,
+     383.96918,
+     122.770044,
+     394.94918
+    ],
+    [
+     70.91664,
+     396.62917999999996,
+     133.151634,
+     407.60918
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q010_p8.jpg",
+   "revisao/Q010_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q011",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 11,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Enquadram-se os três sonetos em distintos Movimentos Literários. Leia-os e analise-os.\n\n**Poema 1**\n\nJá da morte o palor me cobre o rosto,  \nNos lábios meus o alento desfalece,  \nSurda agonia o coração fenece,  \nE devora meu ser mortal desgosto!\n\nDo leito embalde no macio encosto  \nTento o sono reter!… já esmorece  \nO corpo exausto que o repouso esquece…  \nEis o estado em que a mágoa me tem posto!\n\nO adeus, o teu adeus, minha saudade,  \nFazem que insano do viver me prive  \nE tenha os olhos meus na escuridade.\n\nDá-me a esperança com que o ser mantive!  \nVolve ao amante os olhos por piedade,  \nOlhos por quem viveu quem já não vive!\n\n(Álvares de Azevedo, Lira dos 20 anos)\n\n**Poema 2**\n\n**A Morte**\n\nOh! a jornada negra! A alma se despedaça...  \nTremem as mãos... O olhar, molhado e ansioso, espia,  \nE vê fugir, fugir a ribanceira fria  \nPor onde a procissão dos dias mortos passa.\n\nNo céu gelado expira o derradeiro dia,  \nNa última região que o teu olhar devassa!  \nE só, trevoso e largo, o mar estardalhaça  \nNo indizível horror de uma noite vazia...\n\nPobre! por que, a sofrer, a leste e a oeste, ao norte  \nE ao sul, desperdiçaste a força de tua alma?  \nTinhas tão perto o Bem, tendo tão perto a Morte!\n\nPaz à tua ambição! paz à tua loucura!  \nA conquista melhor é a conquista da Calma:  \n- Conquistaste o país do Sono e da Ventura!\n\n(Olavo Bilac)\n\n**Poema 3**\n\n**A Morte**\n\nOh! que doce tristeza e que ternura  \nNo olhar ansioso, aflito dos que morrem…  \nDe que âncoras profundas se socorrem  \nOs que penetram nessa noite escura!\n\nDa vida aos frios véus da sepultura  \nVagos momentos trêmulos decorrem…  \nE dos olhos as lágrimas escorrem  \nComo faróis da humana Desventura.\n\nDescem então aos golfos congelados  \nOs que na terra vagam suspirando,  \nCom os velhos corações tantalizados.\n\nTudo negro e sinistro vai rolando  \nBáratro a baixo, aos ecos soluçados  \nDo vendaval da Morte ondeando, uivando…\n\n(Cruz e Sousa)\n\nA leitura dos poemas comprova que o tema da morte tanto quanto o tema do amor estão presentes em textos de todos os movimentos literários e em produção de diferentes poetas. Nos três poemas, o tema da morte é ponto fundamental. Sobre isso, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Álvares de Azevedo, em diversos poemas, ao falar da morte, tema pelo qual tem certa obsessão, usa constantemente a palavra *palor,* cujo sentido cromático se refere à palidez mórbida da morte, característica da poesia desse autor."
+   },
+   {
+    "letra": "B",
+    "texto": "Olavo Bilac toma a morte muito poucas vezes como tema, ainda que, ao fazê-lo, cria um eu lírico despojado de tom confessional, próprio do Romantismo, mantendo assim imparcialidade e impessoalidade."
+   },
+   {
+    "letra": "C",
+    "texto": "O poema 3 apresenta elementos cromáticos e sinestésicos, tais como *doce tristeza e noite* *escura.* Contudo, embora seu tema seja a morte, o autor não utiliza esse vocábulo, substituindo-o por metáforas, o que é próprio daqueles que fazem parte do parnaso."
+   },
+   {
+    "letra": "D",
+    "texto": "Há, no poema 2, determinados elementos que revelam, à semelhança do 3, preocupação com os aspectos formais, aproximando-os do Classicismo e do Arcadismo."
+   },
+   {
+    "letra": "E",
+    "texto": "Existe uma ordem sequencial dos poemas que permite ao leitor relacioná-los ao Simbolismo, Romantismo e Parnasianismo. Dessa forma, pode-se afirmar que o poema 1 é simbolista, pois apresenta um discurso de cunho confessional, peculiar a esse Movimento Literário."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   9,
+   10,
+   11
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.54,
+     432.26917999999995,
+     500.7430860000002,
+     443.24917999999997
+    ],
+    [
+     170.16054,
+     457.65493999999995,
+     215.39155200000002,
+     468.63494
+    ],
+    [
+     182.7,
+     477.26917999999995,
+     366.11211599999996,
+     488.24917999999997
+    ],
+    [
+     182.7,
+     489.92911999999995,
+     359.43517800000006,
+     500.90912
+    ],
+    [
+     182.7,
+     502.52317999999997,
+     338.70384000000007,
+     513.5031799999999
+    ],
+    [
+     182.7,
+     515.1831199999999,
+     353.91662999999994,
+     526.1631199999999
+    ],
+    [
+     182.7,
+     540.503,
+     354.4985699999999,
+     551.483
+    ],
+    [
+     182.7,
+     553.1629399999999,
+     349.5795299999999,
+     564.14294
+    ],
+    [
+     182.7,
+     565.8228799999999,
+     392.382864,
+     576.80288
+    ],
+    [
+     182.7,
+     578.4169400000001,
+     401.56543800000003,
+     589.39694
+    ],
+    [
+     182.7,
+     603.73682,
+     372.24115199999994,
+     614.71682
+    ],
+    [
+     182.7,
+     616.39676,
+     359.9830799999999,
+     627.37676
+    ],
+    [
+     182.7,
+     629.0567,
+     369.71355222287997,
+     640.0367
+    ],
+    [
+     182.7,
+     654.3107,
+     396.65518200000014,
+     665.2907
+    ],
+    [
+     182.7,
+     666.97064,
+     373.47090811308004,
+     677.95064
+    ],
+    [
+     182.7,
+     679.63058,
+     378.87197400000014,
+     690.61058
+    ],
+    [
+     265.02163200798003,
+     703.31618,
+     405.05706603192,
+     711.29618
+    ]
+   ],
+   "10": [
+    [
+     141.78,
+     45.98917999999992,
+     187.01101200000002,
+     56.96917999999994
+    ],
+    [
+     164.94,
+     66.98917999999992,
+     205.779012,
+     77.96917999999994
+    ],
+    [
+     164.94,
+     92.24317999999994,
+     383.840574,
+     103.22317999999996
+    ],
+    [
+     164.94,
+     104.90311999999994,
+     432.71914200000026,
+     115.88311999999996
+    ],
+    [
+     164.94,
+     117.56305999999995,
+     317.8013639999999,
+     128.54305999999997
+    ],
+    [
+     164.94,
+     130.22299999999996,
+     385.0099440000002,
+     141.20299999999997
+    ],
+    [
+     164.94,
+     155.47699999999998,
+     352.0326119999999,
+     166.457
+    ],
+    [
+     164.94,
+     168.13693999999998,
+     368.5344539999999,
+     179.11694
+    ],
+    [
+     164.94,
+     180.79688,
+     366.08591399999995,
+     191.77688
+    ],
+    [
+     164.94,
+     193.45682,
+     358.8094680000001,
+     204.43682
+    ],
+    [
+     164.94,
+     218.71082,
+     414.38364,
+     229.69082000000003
+    ],
+    [
+     164.94,
+     231.37076000000002,
+     382.5108913664401,
+     242.35076000000004
+    ],
+    [
+     164.94,
+     244.03070000000002,
+     402.77009400000003,
+     255.01070000000004
+    ],
+    [
+     164.94,
+     269.35058,
+     349.5478341240601,
+     280.33058
+    ],
+    [
+     164.94,
+     281.94464,
+     380.71566599999994,
+     292.92464
+    ],
+    [
+     164.94,
+     294.60458,
+     382.02118799999994,
+     305.58458
+    ],
+    [
+     388.14,
+     319.49618,
+     433.92684599999995,
+     327.47618
+    ],
+    [
+     177.2454,
+     362.15828,
+     222.470922,
+     373.13828
+    ],
+    [
+     188.28,
+     381.44917999999996,
+     229.11901200000003,
+     392.42918
+    ],
+    [
+     188.28,
+     399.74917999999997,
+     361.33797599999986,
+     410.72918
+    ],
+    [
+     188.28,
+     412.40912,
+     394.2571139999999,
+     423.38912
+    ],
+    [
+     188.28,
+     425.06906,
+     381.3687899999999,
+     436.04906
+    ],
+    [
+     188.28,
+     437.729,
+     371.7052919999998,
+     448.709
+    ],
+    [
+     188.28,
+     461.84918,
+     360.10821599999986,
+     472.82918
+    ],
+    [
+     188.28,
+     474.50912,
+     379.582344,
+     485.48912
+    ],
+    [
+     188.28,
+     487.16906,
+     353.84192999999993,
+     498.14906
+    ],
+    [
+     188.28,
+     499.82899999999995,
+     367.97867999999994,
+     510.80899999999997
+    ],
+    [
+     188.28,
+     525.083,
+     371.6932140000001,
+     536.063
+    ],
+    [
+     188.28,
+     537.74294,
+     360.7516439999999,
+     548.72294
+    ],
+    [
+     188.28,
+     550.40288,
+     373.50930599999987,
+     561.38288
+    ],
+    [
+     188.28,
+     575.65688,
+     348.4869839999999,
+     586.63688
+    ],
+    [
+     188.28,
+     588.31682,
+     365.6091960000001,
+     599.29682
+    ],
+    [
+     188.28,
+     600.97676,
+     403.4945879999999,
+     611.95676
+    ],
+    [
+     357.12,
+     625.85618,
+     410.909988,
+     633.83618
+    ]
+   ],
+   "11": [
+    [
+     70.92,
+     50.48917999999992,
+     538.6833719999997,
+     61.46917999999994
+    ],
+    [
+     42.536699999999996,
+     63.149119999999925,
+     538.609806,
+     74.12911999999994
+    ],
+    [
+     42.536699999999996,
+     75.80905999999993,
+     499.13341199999996,
+     86.78905999999995
+    ],
+    [
+     70.9199999999999,
+     101.12893999999994,
+     538.5527100000003,
+     112.10893999999996
+    ],
+    [
+     92.1553199999999,
+     113.72299999999996,
+     538.561494,
+     124.70299999999997
+    ],
+    [
+     92.1553199999999,
+     126.38293999999996,
+     364.24301400000013,
+     137.36293999999998
+    ],
+    [
+     70.9199999999999,
+     139.04287999999997,
+     538.6866660000004,
+     150.02288
+    ],
+    [
+     92.1553199999999,
+     151.70281999999997,
+     538.6504319999998,
+     162.68282
+    ],
+    [
+     92.1553199999999,
+     164.36275999999998,
+     254.78778599999976,
+     175.34276
+    ],
+    [
+     70.9199999999999,
+     176.95682,
+     538.5900419999999,
+     187.93682
+    ],
+    [
+     92.16629999999986,
+     189.61676,
+     538.6800779999995,
+     200.59676000000002
+    ],
+    [
+     92.16629999999986,
+     202.2767,
+     502.93688399999974,
+     213.25670000000002
+    ],
+    [
+     70.93097999999986,
+     214.93664,
+     538.6087080000002,
+     225.91664000000003
+    ],
+    [
+     92.16629999999986,
+     227.59658000000002,
+     458.2812239999999,
+     238.57658000000004
+    ],
+    [
+     70.93097999999992,
+     240.25652000000002,
+     538.51977,
+     251.23652000000004
+    ],
+    [
+     92.16629999999992,
+     252.85058000000004,
+     538.5022020000002,
+     263.83058000000005
+    ],
+    [
+     92.16629999999992,
+     265.51052000000004,
+     538.5087900000001,
+     276.49052000000006
+    ],
+    [
+     92.16629999999992,
+     278.17046000000005,
+     191.84822999999994,
+     289.15046000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q011_p9.jpg",
+   "revisao/Q011_p10.jpg",
+   "revisao/Q011_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q012",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 12,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em relação à produção literária de Gonçalves Dias e Castro Alves, ambos preocupados, em suas temáticas, com a problemática das etnias, que determina o homem brasileiro como ser culturalmente híbrido, analise as afirmativas e coloque V nas Verdadeiras e F nas Falsas.\n\n( ) A poética de Gonçalves Dias trata do homem indígena em sua essência, apresentando-\n\no integrado aos aspectos culturais de seu grupo.\n\n( ) A poética de Castro Alves toma como princípio a defesa dos negros, escravos que eram\n\nvendidos aos colonos no Brasil para serem explorados pelos senhores, principalmente no plantio da cana e no fabrico do açúcar.\n\n( ) Tanto Gonçalves Dias quanto Castro Alves ficaram alheios às questões históricas\n\nbrasileiras, pois produziram poemas de tonalidade épica, embora neles não fossem contempladas as temáticas indígena e abolicionista.\n\n( ) Nos poemas líricos, eles exaltaram o sentimento amoroso de modo diversificado.\n\nEnquanto Gonçalves Dias idealiza a imagem feminina, Castro Alves imprime-lhe um sentido sensual, o que já prenuncia o movimento posterior ao Romantismo.\n\n( ) Na poesia condoreira de Castro Alves, o poeta descreve como os negros são\n\ndesterritorializados, os maus-tratos que sofrem nos navios negreiros e o modo como\n\nperdem a liberdade ao serem vendidos como escravos aos senhores de engenho.\n\nAnalise a alternativa que contém a sequência **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "F - F - V - V - F"
+   },
+   {
+    "letra": "B",
+    "texto": "V - V - V - F - F"
+   },
+   {
+    "letra": "C",
+    "texto": "F - V - F - V - V"
+   },
+   {
+    "letra": "D",
+    "texto": "F - F - F - F - V"
+   },
+   {
+    "letra": "E",
+    "texto": "V - V - F - V - V"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.547679999999914,
+     316.0844000000001,
+     538.7185079999999,
+     327.0644000000001
+    ],
+    [
+     42.547679999999914,
+     328.7443400000001,
+     538.5856500000004,
+     339.7243400000001
+    ],
+    [
+     42.547679999999914,
+     341.4042800000001,
+     479.7515160000002,
+     352.3842800000001
+    ],
+    [
+     64.21121999999991,
+     379.3841000000001,
+     532.1107439999994,
+     390.3641000000001
+    ],
+    [
+     97.63433999999992,
+     391.9781600000001,
+     337.9448160000001,
+     402.95816000000013
+    ],
+    [
+     64.21121999999991,
+     417.2980400000001,
+     528.5554199999995,
+     428.27804000000015
+    ],
+    [
+     97.63433999999992,
+     429.95798000000013,
+     519.9470999999999,
+     440.93798000000015
+    ],
+    [
+     97.63433999999992,
+     442.61792000000014,
+     302.4673380000001,
+     453.59792000000016
+    ],
+    [
+     64.21121999999991,
+     467.87192000000016,
+     532.2051719999995,
+     478.8519200000002
+    ],
+    [
+     97.63433999999992,
+     480.53186000000017,
+     532.1436839999999,
+     491.5118600000002
+    ],
+    [
+     97.63433999999992,
+     493.19180000000017,
+     351.94761000000017,
+     504.1718000000002
+    ],
+    [
+     64.21121999999993,
+     518.4458000000002,
+     532.1744280000004,
+     529.4258000000002
+    ],
+    [
+     97.63433999999992,
+     531.1057400000002,
+     532.1766240000002,
+     542.0857400000002
+    ],
+    [
+     97.63433999999992,
+     543.7656800000002,
+     465.6158640000004,
+     554.7456800000002
+    ],
+    [
+     64.21121999999991,
+     569.0855600000002,
+     532.1107440000004,
+     580.0655600000002
+    ],
+    [
+     97.63433999999992,
+     581.7455000000002,
+     532.1755260000006,
+     592.7255000000002
+    ],
+    [
+     97.63433999999992,
+     594.3395600000002,
+     498.66346800000025,
+     605.3195600000003
+    ],
+    [
+     70.92,
+     618.56918,
+     353.33657999999997,
+     629.54918
+    ],
+    [
+     70.91999999999996,
+     643.82318,
+     160.75835999999993,
+     654.80318
+    ],
+    [
+     70.91999999999996,
+     656.48312,
+     161.36225999999994,
+     667.46312
+    ],
+    [
+     70.91999999999996,
+     669.14306,
+     160.75835999999993,
+     680.12306
+    ],
+    [
+     70.91999999999996,
+     681.803,
+     160.16544000000002,
+     692.783
+    ],
+    [
+     70.91999999999996,
+     694.46294,
+     161.96616000000003,
+     705.44294
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q012_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q013",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 13,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Se um ano luz corresponde à distância percorrida pela luz em um ano, qual é a ordem de grandeza, **em metros**, da distância percorrida pela luz em 2 anos, levando-se em consideração um ano tendo 365 dias e a velocidade da luz igual a 300.000 km/s?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "10<sup>8</sup>"
+   },
+   {
+    "letra": "B",
+    "texto": "10<sup>10</sup>"
+   },
+   {
+    "letra": "C",
+    "texto": "10<sup>13</sup>"
+   },
+   {
+    "letra": "D",
+    "texto": "10<sup>15</sup>"
+   },
+   {
+    "letra": "E",
+    "texto": "10<sup>16</sup>"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.54,
+     79.94917999999996,
+     538.5922439999991,
+     90.92917999999997
+    ],
+    [
+     42.54,
+     92.60911999999996,
+     538.5153840000003,
+     103.58911999999998
+    ],
+    [
+     42.54,
+     105.26905999999997,
+     353.0609814339601,
+     116.24905999999999
+    ],
+    [
+     60.54,
+     143.18917999999996,
+     94.68312,
+     154.16917999999998
+    ],
+    [
+     60.54,
+     155.84917999999993,
+     98.58202800702,
+     166.82917999999995
+    ],
+    [
+     60.54,
+     168.50918000000001,
+     98.58202800702,
+     179.48918000000003
+    ],
+    [
+     60.54,
+     181.16917999999998,
+     98.58202800702,
+     192.14918
+    ],
+    [
+     60.54,
+     193.82917999999995,
+     98.58202800702,
+     204.80917999999997
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q013_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q014",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 14,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Everton criou uma escala E de temperatura, com base na temperatura máxima e mínima de sua cidade durante determinado período. A correspondência entre a escala E e a escala Celsius (C) é a seguinte:\n\n| **<sup>o</sup>E** | **<sup>o</sup>C** |\n|---|---|\n| 0 | 16 |\n| 80 | 41 |\n\nEm que temperatura, aproximadamente, ocorre a solidificação da água na escala E?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "- 16<sup>o</sup> E"
+   },
+   {
+    "letra": "B",
+    "texto": "- 32<sup>o</sup> E"
+   },
+   {
+    "letra": "C",
+    "texto": "- 38<sup>o</sup> E"
+   },
+   {
+    "letra": "D",
+    "texto": "- 51<sup>o</sup> E"
+   },
+   {
+    "letra": "E",
+    "texto": "- 58<sup>o</sup> E"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.53808,
+     332.95676,
+     538.5881279999995,
+     343.93676
+    ],
+    [
+     42.53808,
+     345.55082,
+     538.5156599999995,
+     356.53082
+    ],
+    [
+     42.53808,
+     358.21076,
+     105.506184,
+     369.19076
+    ],
+    [
+     198.0,
+     382.23362000000003,
+     305.28000000000003,
+     421.92
+    ],
+    [
+     56.7591,
+     537.31688,
+     470.02324200000004,
+     548.29688
+    ],
+    [
+     56.7591,
+     562.63676,
+     102.84598199999999,
+     573.62918
+    ],
+    [
+     56.76402,
+     575.24324,
+     102.84598199999999,
+     586.22918
+    ],
+    [
+     56.76402,
+     587.90912,
+     102.245982,
+     598.88918
+    ],
+    [
+     56.75694,
+     600.56912,
+     101.76366,
+     611.54918
+    ],
+    [
+     56.75664,
+     613.22912,
+     102.84598199999999,
+     624.2091800000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [
+   "tabela transcrita automaticamente — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q014_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q015",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 15,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nA figura abaixo representa um tanque de combustível de certa marca de caminhão a diesel. Sabendo que esse veículo faz, em média, 3km/L, e, observando o marcador de combustível no início e no final de uma viagem, quantos quilômetros esse caminhão percorreu?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "243km"
+   },
+   {
+    "letra": "B",
+    "texto": "425km"
+   },
+   {
+    "letra": "C",
+    "texto": "648km"
+   },
+   {
+    "letra": "D",
+    "texto": "729km"
+   },
+   {
+    "letra": "E",
+    "texto": "813km"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q015_img1.png",
+    "pagina": 13,
+    "bbox": [
+     182.0,
+     98.3,
+     532.8,
+     227.3
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.54,
+     51.62324000000001,
+     538.6273799999992,
+     62.60324000000003
+    ],
+    [
+     42.54,
+     66.20467999999994,
+     538.5955303140001,
+     77.18467999999996
+    ],
+    [
+     42.54,
+     80.72023999999999,
+     403.84788000000043,
+     91.70024000000001
+    ],
+    [
+     181.98,
+     98.332,
+     532.8000000000001,
+     227.27200000000005
+    ],
+    [
+     70.9233,
+     154.39603999999997,
+     125.12387399999999,
+     165.37604
+    ],
+    [
+     70.9233,
+     166.99009999999998,
+     125.12387399999999,
+     177.9701
+    ],
+    [
+     70.9233,
+     179.65004,
+     125.12167792314001,
+     190.63004
+    ],
+    [
+     70.9233,
+     192.30998,
+     125.12387399999999,
+     203.28998
+    ],
+    [
+     70.9233,
+     204.96992,
+     125.12387399999999,
+     215.94992000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q016",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 16,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Brincando de construir sequências numéricas, Marta descobriu que em uma determinada progressão aritmética, a soma dos cinquenta primeiros termos é S<sub>50</sub> = 2 550. Se o primeiro termo dessa progressão é a<sub>1</sub> = 2, qual o valor que ela irá encontrar fazendo a soma S<sub>27</sub> + S<sub>12</sub>?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "312"
+   },
+   {
+    "letra": "B",
+    "texto": "356"
+   },
+   {
+    "letra": "C",
+    "texto": "410"
+   },
+   {
+    "letra": "D",
+    "texto": "756"
+   },
+   {
+    "letra": "E",
+    "texto": "912"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.54,
+     333.9044,
+     538.6043160000002,
+     345.9044
+    ],
+    [
+     42.54,
+     347.36918,
+     538.543272,
+     358.34918
+    ],
+    [
+     42.54,
+     360.02918,
+     471.10488,
+     371.00918
+    ],
+    [
+     70.92,
+     385.28918,
+     110.50619400000001,
+     396.26918
+    ],
+    [
+     70.92,
+     397.94917999999996,
+     110.50619400000001,
+     408.92918
+    ],
+    [
+     70.92,
+     410.60918,
+     110.499606,
+     421.58918
+    ],
+    [
+     70.92,
+     423.26917999999995,
+     110.50619400000001,
+     434.24917999999997
+    ],
+    [
+     70.92,
+     435.92918,
+     110.50619400000001,
+     446.90918
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q016_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q017",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 17,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um PA mais dois PE mais um PI vale 15. Quatro PA mais cinco PE mais sete PI vale 63. Seis PA mais oito PE mais nove PI vale 89. Nessas condições, quanto vale um PA mais um PE mais um PI?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "11"
+   },
+   {
+    "letra": "B",
+    "texto": "12"
+   },
+   {
+    "letra": "C",
+    "texto": "15"
+   },
+   {
+    "letra": "D",
+    "texto": "25"
+   },
+   {
+    "letra": "E",
+    "texto": "28"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.5367,
+     537.07694,
+     538.5581999999994,
+     548.0569399999999
+    ],
+    [
+     42.5367,
+     549.73688,
+     538.5219561180002,
+     560.71688
+    ],
+    [
+     42.5367,
+     562.3968199999999,
+     77.335614,
+     573.37682
+    ],
+    [
+     70.92,
+     587.6508200000001,
+     104.385942,
+     598.63082
+    ],
+    [
+     70.92,
+     600.3107600000001,
+     104.385942,
+     611.29076
+    ],
+    [
+     70.92,
+     612.9707,
+     104.380452,
+     623.9507
+    ],
+    [
+     70.92,
+     625.63064,
+     104.385942,
+     636.61064
+    ],
+    [
+     70.92,
+     638.29058,
+     104.385942,
+     649.27058
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q017_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q018",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 18,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O sólido representado a seguir foi obtido acoplando-se um prisma triangular reto de 4 cm altura a um paralelepípedo reto de dimensões 4 cm, 4 cm e 2 cm, conforme a figura. Se M é ponto médio da aresta do paralelepípedo, qual é a área total da superfície do referido sólido?\n\n{{img:1}}\n\n**Adote** \\(\\widehat{√5}\\) = 2,2",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "99,6 cm<sup>2</sup>"
+   },
+   {
+    "letra": "B",
+    "texto": "103,6 cm<sup>2</sup>"
+   },
+   {
+    "letra": "C",
+    "texto": "105,6 cm<sup>2</sup>"
+   },
+   {
+    "letra": "D",
+    "texto": "107,6 cm<sup>2</sup>"
+   },
+   {
+    "letra": "E",
+    "texto": "109,6 cm<sup>2</sup>"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q018_img1.png",
+    "pagina": 14,
+    "bbox": [
+     376.4,
+     106.4,
+     503.3,
+     235.4
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.54,
+     51.62324000000001,
+     538.5878520000002,
+     62.60324000000003
+    ],
+    [
+     42.54,
+     64.28318000000002,
+     538.6076160000002,
+     75.26318000000003
+    ],
+    [
+     42.54,
+     76.94312000000002,
+     433.276478,
+     87.92312000000004
+    ],
+    [
+     78.0,
+     106.64918,
+     154.337982,
+     118.04642000000001
+    ],
+    [
+     376.38,
+     106.43200000000002,
+     503.28000000000003,
+     235.44
+    ],
+    [
+     70.92,
+     144.20917999999995,
+     135.18312,
+     155.18917999999996
+    ],
+    [
+     70.92504,
+     156.86911999999995,
+     141.30312,
+     167.84911999999997
+    ],
+    [
+     70.9182,
+     169.52911999999992,
+     141.30312,
+     180.50911999999994
+    ],
+    [
+     70.9182,
+     182.18912,
+     141.30312,
+     193.16912000000002
+    ],
+    [
+     70.9182,
+     194.84911999999997,
+     141.30312,
+     205.82912
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [
+   "símbolos lidos de glifos-imagem do PDF (fonte Type3: ×, ≈, sinais) — conferir com a página",
+   "texto curto solto junto da imagem (“**Adote** \\(\\widehat{√5}\\) = 2,2”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q018_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q019",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 19,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nSe dois dados idênticos e não viciados são lançados, a probabilidade de a soma dos pontos obtidos ser um múltiplo de 2 ou um múltiplo de 3 é de aproximadamente",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "66,6%"
+   },
+   {
+    "letra": "B",
+    "texto": "60,0%"
+   },
+   {
+    "letra": "C",
+    "texto": "55,2%"
+   },
+   {
+    "letra": "D",
+    "texto": "35,3%"
+   },
+   {
+    "letra": "E",
+    "texto": "33,0%"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q019_img1.png",
+    "pagina": 14,
+    "bbox": [
+     347.6,
+     381.2,
+     513.6,
+     515.3
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.5349,
+     346.57081999999997,
+     538.5981138984004,
+     357.55082
+    ],
+    [
+     42.5349,
+     359.23076,
+     394.5888360000004,
+     370.21076
+    ],
+    [
+     347.58,
+     381.23201,
+     513.6,
+     515.2719999999999
+    ],
+    [
+     77.46,
+     392.06917999999996,
+     129.8807153412,
+     403.04918
+    ],
+    [
+     77.46,
+     404.72911999999997,
+     129.8807153412,
+     415.70912
+    ],
+    [
+     77.46,
+     417.32318,
+     129.885108,
+     428.30318
+    ],
+    [
+     77.46,
+     429.98312,
+     129.8807153412,
+     440.96312
+    ],
+    [
+     77.46,
+     442.64306,
+     129.8807153412,
+     453.62306
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q020",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 20,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um palíndromo ou capicua é um número, que se lê da mesma maneira nos dois sentidos, ou seja, da esquerda para a direita ou ao contrário, como 333, 1661 e 28482.\n\nAssinale a alternativa correspondente à quantidade de palíndromos que são números pares de cinco algarismos do nosso sistema de numeração.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "300"
+   },
+   {
+    "letra": "B",
+    "texto": "400"
+   },
+   {
+    "letra": "C",
+    "texto": "500"
+   },
+   {
+    "letra": "D",
+    "texto": "600"
+   },
+   {
+    "letra": "E",
+    "texto": "800"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.5349,
+     548.93222,
+     538.6771754982,
+     559.9122199999999
+    ],
+    [
+     42.5349,
+     561.59216,
+     404.5290222371401,
+     572.5721599999999
+    ],
+    [
+     70.9182,
+     586.9120399999999,
+     538.555302,
+     597.89204
+    ],
+    [
+     70.9182,
+     599.5719799999999,
+     317.90670701508003,
+     610.55198
+    ],
+    [
+     70.9182,
+     624.8259800000001,
+     110.504394,
+     635.80598
+    ],
+    [
+     70.9182,
+     637.48592,
+     110.504394,
+     648.46592
+    ],
+    [
+     70.9182,
+     650.14586,
+     110.497806,
+     661.12586
+    ],
+    [
+     70.9182,
+     662.8058,
+     110.504394,
+     673.7858
+    ],
+    [
+     70.9182,
+     675.39986,
+     110.504394,
+     686.37986
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q020_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q021",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 21,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Preocupada com o hábito de leitura na escola onde trabalha, uma bibliotecária aplicou uma pesquisa, num grupo de 200 estudantes escolhidos de forma aleatória, sobre a quantidade de livros que cada aluno havia solicitado por empréstimo no primeiro semestre de 2015. Os dados coletados na pesquisa estão apresentados na tabela a seguir:\n\n{{img:1}}\n\nPara esses dados, a média, a moda e a mediana são respectivamente:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1,50; 2,00; 3,00"
+   },
+   {
+    "letra": "B",
+    "texto": "1,50; 3,50; 2,00"
+   },
+   {
+    "letra": "C",
+    "texto": "1,50; 3,00; 3,00"
+   },
+   {
+    "letra": "D",
+    "texto": "2,05; 3,00; 2,00"
+   },
+   {
+    "letra": "E",
+    "texto": "2,05; 3,00; 3,00"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q021_img1.png",
+    "pagina": 15,
+    "bbox": [
+     174.2,
+     108.7,
+     406.8,
+     213.8
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.54,
+     47.06917999999996,
+     538.6076159999992,
+     58.04917999999998
+    ],
+    [
+     42.54,
+     59.729119999999966,
+     538.4978160000003,
+     70.70911999999998
+    ],
+    [
+     42.54,
+     72.32317999999998,
+     538.64934,
+     83.30318
+    ],
+    [
+     42.54,
+     84.98311999999999,
+     295.0898820000003,
+     95.96312
+    ],
+    [
+     174.24,
+     108.72,
+     406.8,
+     213.84
+    ],
+    [
+     70.9233,
+     227.65724,
+     418.15372200000036,
+     238.63724000000002
+    ],
+    [
+     73.07538,
+     252.97712,
+     182.74471799999998,
+     263.95712000000003
+    ],
+    [
+     73.07538,
+     265.63706,
+     182.74471799999998,
+     276.61706000000004
+    ],
+    [
+     73.07538,
+     278.297,
+     182.73154200000002,
+     289.27700000000004
+    ],
+    [
+     73.07538,
+     290.89106000000004,
+     182.74471799999998,
+     301.87106000000006
+    ],
+    [
+     73.07538,
+     303.55100000000004,
+     182.74471799999998,
+     314.53100000000006
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q022",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 22,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise as afirmativas a seguir, relativas à geometria espacial e coloque V nas Verdadeiras e F nas Falsas.\n\n( ) Se uma reta está contida em um plano, então toda reta perpendicular a ela será\n\nperpendicular ao plano.\n\n( ) Se dois planos distintos são paralelos, então toda reta perpendicular a um deles é\n\nparalela ao outro.\n\n( ) Se dois planos distintos são paralelos a uma reta fora deles, então eles são paralelos\n\nentre si.\n\n( ) Se dois planos distintos são paralelos, qualquer reta de um deles é paralela a qualquer\n\nreta do outro.\n\nAssinale a alternativa que apresenta a sequência **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "F – F – V – V"
+   },
+   {
+    "letra": "B",
+    "texto": "F – V – V – F"
+   },
+   {
+    "letra": "C",
+    "texto": "F – F – F – F"
+   },
+   {
+    "letra": "D",
+    "texto": "V – F – F – V"
+   },
+   {
+    "letra": "E",
+    "texto": "V – V – F – F"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.54,
+     380.60918,
+     538.5966359999993,
+     391.58918
+    ],
+    [
+     70.9233,
+     393.26912,
+     146.129712,
+     404.24912
+    ],
+    [
+     70.92,
+     415.10918,
+     532.0964699999995,
+     426.08918
+    ],
+    [
+     99.30330000000001,
+     427.76912,
+     214.283664,
+     438.74912
+    ],
+    [
+     70.92,
+     440.42918,
+     532.0602360000003,
+     451.40918
+    ],
+    [
+     99.30330000000001,
+     453.08912,
+     184.88471400000003,
+     464.06912
+    ],
+    [
+     70.92,
+     465.74906,
+     532.0382760000001,
+     476.72906
+    ],
+    [
+     99.30330000000001,
+     478.34312,
+     138.46896,
+     489.32312
+    ],
+    [
+     70.92,
+     491.00306,
+     532.0437660000003,
+     501.98306
+    ],
+    [
+     99.30330000000001,
+     503.663,
+     164.752884,
+     514.643
+    ],
+    [
+     70.92,
+     525.50918,
+     371.69514,
+     536.48918
+    ],
+    [
+     70.92,
+     548.48918,
+     156.96696599999996,
+     559.46918
+    ],
+    [
+     70.92,
+     561.14912,
+     156.96696599999996,
+     572.1291200000001
+    ],
+    [
+     70.92,
+     573.80906,
+     155.69548199999997,
+     584.7890600000001
+    ],
+    [
+     70.92,
+     586.469,
+     156.96696599999996,
+     597.4490000000001
+    ],
+    [
+     70.92,
+     599.1289400000001,
+     156.96696599999996,
+     610.1089400000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q022_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q023",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 23,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4141-T2",
+  "textos_base_ids": [
+   "P4141-T2"
+  ],
+  "enunciado": "*O Ano Internacional da Luz é uma iniciativa mundial, que vai destacar a importância da luz e* *das tecnologias ópticas na vida dos cidadãos, assim como no futuro e no desenvolvimento* *das sociedades de todo o mundo. Essa é uma oportunidade única para se inspirar, para se* *educar e para se unir em escala mundial.*\n\n{{fonte:1}}\n\nSabendo que 2015 é o Ano Internacional da Luz e, com base nos conhecimentos fundamentais da óptica, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "Disponível em: http://www.unesco.org/new/pt/brasilia/about-this-office/prizes-and-celebrations/2015-international-year-of-light/, acessado em: 13 de julho de 2015."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Fibras ópticas não podem ser utilizadas para sistemas de comunicação, porque a velocidade da luz dentro dela é menor que c = 3 x 10<sup>8</sup> m/s."
+   },
+   {
+    "letra": "B",
+    "texto": "O eclipse total do Sol pode ser visto em toda a Terra, exceto nas regiões em que já é noite."
+   },
+   {
+    "letra": "C",
+    "texto": "Podem-se utilizar espelhos convexos sempre que for necessário formar imagens de menor tamanho."
+   },
+   {
+    "letra": "D",
+    "texto": "As imagens do mundo exterior são formadas na retina humana, em menor tamanho e não são invertidas."
+   },
+   {
+    "letra": "E",
+    "texto": "Em uma cidade litorânea, é mais fácil observar a luz de estrelas distantes, porque a umidade do ar espalha melhor a luz."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.5418,
+     68.60827999999992,
+     57.828156,
+     79.58827999999994
+    ],
+    [
+     69.24,
+     86.18917999999996,
+     529.4008100082006,
+     97.16917999999998
+    ],
+    [
+     69.24,
+     98.78323999999998,
+     529.5215999999997,
+     109.76324
+    ],
+    [
+     69.24,
+     111.44317999999998,
+     529.4590140000003,
+     122.42318
+    ],
+    [
+     69.24,
+     124.10311999999999,
+     271.00408807686017,
+     135.08312
+    ],
+    [
+     101.0397,
+     145.4331800000001,
+     529.6215599999999,
+     153.41318
+    ],
+    [
+     383.69928,
+     154.67402000000004,
+     529.540944,
+     162.65617999999995
+    ],
+    [
+     63.843,
+     169.75603999999998,
+     538.5369384474006,
+     180.73604
+    ],
+    [
+     63.843,
+     182.41598,
+     278.33729999999997,
+     193.39598
+    ],
+    [
+     63.843,
+     207.73586,
+     538.554516,
+     218.71586000000002
+    ],
+    [
+     85.07832,
+     220.3958,
+     371.71977599999997,
+     231.38918
+    ],
+    [
+     63.83838,
+     233.00324,
+     530.7189599999992,
+     243.98324000000002
+    ],
+    [
+     63.83838,
+     245.66318,
+     538.5938160000002,
+     256.64318000000003
+    ],
+    [
+     85.08468,
+     258.32312,
+     130.914102,
+     269.30312000000004
+    ],
+    [
+     63.84936,
+     270.98305999999997,
+     538.543308,
+     281.96306
+    ],
+    [
+     85.08468,
+     283.643,
+     155.99900847378,
+     294.623
+    ],
+    [
+     63.84936,
+     296.30294,
+     538.5630720000005,
+     307.28294
+    ],
+    [
+     85.08468,
+     308.897,
+     263.00679599999984,
+     319.877
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q024",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 24,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Uma barra delgada está em uma temperatura na qual o seu comprimento é igual L<sub>0</sub> = 100 cm.\n\n{{img:1}}\n\nA barra, de coeficiente de dilatação linear 8,0 x 10<sup>-5</sup> °C<sup>-1</sup>, é, então, colocada a uma distância d = 0,8 m do vértice de um espelho curvo. O espelho possui um raio de curvatura de 160 cm. Para se fazer a imagem crescer meio centímetro, pode-se",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "aproximar a barra em 15 cm."
+   },
+   {
+    "letra": "B",
+    "texto": "afastar a barra em 10 cm."
+   },
+   {
+    "letra": "C",
+    "texto": "aquecer a barra em 40 °C."
+   },
+   {
+    "letra": "D",
+    "texto": "esfriar a barra em 10 °C."
+   },
+   {
+    "letra": "E",
+    "texto": "aquecer a barra em 125 °C."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q024_img1.png",
+    "pagina": 16,
+    "bbox": [
+     376.0,
+     403.7,
+     537.8,
+     514.1
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.54,
+     349.16918,
+     538.5519840000001,
+     360.14918
+    ],
+    [
+     78.5361,
+     362.6636,
+     538.6293479999998,
+     373.73702000000003
+    ],
+    [
+     78.5388,
+     375.32912,
+     538.5733499999997,
+     386.30912
+    ],
+    [
+     78.5388,
+     387.92318,
+     362.21368800000016,
+     398.90318
+    ],
+    [
+     375.96001,
+     403.67202000000003,
+     537.84,
+     514.08
+    ],
+    [
+     70.92,
+     421.28918,
+     233.34933561570006,
+     432.26918
+    ],
+    [
+     70.92,
+     433.94912,
+     218.03223599999995,
+     444.92912
+    ],
+    [
+     70.92,
+     447.44354,
+     221.88402,
+     458.51138000000003
+    ],
+    [
+     70.92,
+     460.88306,
+     212.669604,
+     471.95090000000005
+    ],
+    [
+     70.92,
+     474.37748,
+     227.93509799999998,
+     485.44532000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q024_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q025",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 25,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nQuando dez moles de um gás ideal são submetidos a um ciclo termodinâmico em uma máquina térmica, pode-se construir o gráfico de pressão *versus* temperatura, mostrado a seguir. Sabendo que as temperaturas dos pontos A, B, C e D são 800 K, 1200 K, 2600 K e 1400 K, respectivamente, e que o ciclo é completado em 2,0 segundos, calcule a potência da máquina por ciclo. Considere que a constante universal dos gases perfeitos é igual a 8,3 J/(mol K).",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "16,6 kW"
+   },
+   {
+    "letra": "B",
+    "texto": "21,0 kW"
+   },
+   {
+    "letra": "C",
+    "texto": "33,2 kW"
+   },
+   {
+    "letra": "D",
+    "texto": "48,2 kW"
+   },
+   {
+    "letra": "E",
+    "texto": "68,4 kW"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q025_img1.png",
+    "pagina": 16,
+    "bbox": [
+     372.8,
+     600.5,
+     527.6,
+     713.3
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.54,
+     546.80318,
+     538.6570259999999,
+     557.78318
+    ],
+    [
+     42.54,
+     559.46312,
+     538.668006,
+     570.44312
+    ],
+    [
+     42.54,
+     572.12306,
+     538.5944306670008,
+     583.10306
+    ],
+    [
+     42.54,
+     584.783,
+     538.5977340000001,
+     595.763
+    ],
+    [
+     42.54,
+     597.37706,
+     364.3572050826,
+     608.35706
+    ],
+    [
+     42.54,
+     610.037,
+     143.39679000000007,
+     621.017
+    ],
+    [
+     372.78,
+     600.472,
+     527.64,
+     713.272
+    ],
+    [
+     70.9233,
+     648.01682,
+     132.538668,
+     658.99682
+    ],
+    [
+     70.9233,
+     660.61088,
+     132.538668,
+     671.59088
+    ],
+    [
+     70.9233,
+     673.27082,
+     132.53427599999998,
+     684.25082
+    ],
+    [
+     70.9233,
+     685.93076,
+     132.538668,
+     696.91076
+    ],
+    [
+     70.9233,
+     698.5907,
+     132.538668,
+     709.5707
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q026",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 26,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "É muito comum o amplo uso de aparelhos de ar-condicionado durante o verão intenso do Recife. Nessa cidade, uma residência possui uma parede de área 40 m<sup>2</sup> e espessura 20 cm, separando o ambiente interior do exterior. Se a temperatura externa é de 33 °C e deseja-se manter a interna igual a 23 °C, qual será o gasto por hora de aparelho ligado, considerando-se, apenas, essa parede separadora?\n\n*Dados: A condutividade térmica da parede é igual a 1,25 x 10<sup>-3</sup> kW/(mK), e o custo da energia elétrica em*\n\n*kWh é de R$ 0,60.*",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "R$ 0,30"
+   },
+   {
+    "letra": "B",
+    "texto": "R$ 0,90"
+   },
+   {
+    "letra": "C",
+    "texto": "R$ 1,20"
+   },
+   {
+    "letra": "D",
+    "texto": "R$ 1,50"
+   },
+   {
+    "letra": "E",
+    "texto": "R$ 2,50"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.54,
+     62.009180000000015,
+     538.6054199999994,
+     72.98918000000003
+    ],
+    [
+     42.54,
+     74.66912000000002,
+     538.534788,
+     85.64918
+    ],
+    [
+     42.53964,
+     88.16359999999997,
+     538.60616,
+     99.23144000000002
+    ],
+    [
+     42.53964,
+     101.60311999999999,
+     538.6072474356002,
+     112.67096000000004
+    ],
+    [
+     42.53964,
+     114.26306,
+     141.56277000000003,
+     125.24306000000001
+    ],
+    [
+     53.94,
+     148.44661999999994,
+     530.0514535891799,
+     158.46662000000003
+    ],
+    [
+     89.40492,
+     159.90949999999998,
+     172.27031999999994,
+     169.92950000000008
+    ],
+    [
+     70.92,
+     189.02918,
+     130.666572,
+     200.00918000000001
+    ],
+    [
+     70.92,
+     203.54473999999993,
+     130.666572,
+     214.52473999999995
+    ],
+    [
+     70.92,
+     218.06029999999998,
+     130.66218,
+     229.0403
+    ],
+    [
+     70.92,
+     232.64174000000003,
+     130.666572,
+     243.62174000000005
+    ],
+    [
+     70.92,
+     247.15729999999996,
+     130.666572,
+     258.1373
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q026_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q027",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 27,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "*Google irá conectar o Brasil aos EUA com cabo submarino*\n\n*São Paulo – O Google anunciou que irá usar um cabo submarino para ligar o Brasil aos* *Estados Unidos. O cabo sairá de Boca Raton, na Flórida, e irá até as cidades de Fortaleza e* *Santos, esta no litoral de São Paulo.*\n\n*Os cabos submarinos de fibra ótica são os grandes responsáveis pela transmissão de dados* *ao redor do mundo. De acordo com um especialista, Alan Mauldin, da Telegeography, 99%* *das comunicações internacionais são entregues, graças aos cabos submarinos.*\n\n*“É uma crença comum que os satélites são o futuro de como as informações serão enviadas,* *mas esse não tem sido o caso por muito tempo. (...) A principal vantagem dos cabos é que* *eles são muito mais baratos. Um satélite é limitado e muito mais caro”, afirmou Mauldin à* *CNN no início deste ano.*\n\n{{fonte:1}}\n\nAntes da instalação de um cabo desse tipo, é necessário fazer um mapeamento do oceano, buscando perigos que possam comprometer o funcionamento do cabo, interrompendo o fluxo de informações. Entre eles, destacam-se materiais de pesca abandonados, riscos de deslizamento, vulcões e abismos.\n\n{{img:1}}\n\nDetermine qual o maior ângulo θ no qual podemos dobrar uma fibra óptica cilíndrica no mar, como se mostra na figura, de forma que o feixe de luz ainda se mantenha dentro dela. Considere que o índice de refração da água do mar e o da fibra óptica são iguais a 1,5 e 3,0, respectivamente.",
+  "fontes": [
+   "Disponível em: http://exame.abril.com.br/tecnologia/noticias/google-ira-conectar-brasil-aos-eua-com-cabo-submarino, acessado em: 13 de julho de 2015. (Adaptado)."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "30°"
+   },
+   {
+    "letra": "B",
+    "texto": "45°"
+   },
+   {
+    "letra": "C",
+    "texto": "60°"
+   },
+   {
+    "letra": "D",
+    "texto": "75°"
+   },
+   {
+    "letra": "E",
+    "texto": "90°"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q027_img1.png",
+    "pagina": 17,
+    "bbox": [
+     459.6,
+     500.5,
+     534.8,
+     633.3
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.5367,
+     284.35754,
+     57.823056,
+     295.33754
+    ],
+    [
+     73.68,
+     293.24917999999997,
+     360.91240800000014,
+     304.22918
+    ],
+    [
+     73.68,
+     318.56906,
+     529.9165680000001,
+     329.54906
+    ],
+    [
+     73.68,
+     331.229,
+     529.8594719999995,
+     342.209
+    ],
+    [
+     73.68,
+     343.88894,
+     251.56478399999992,
+     354.86894
+    ],
+    [
+     73.68,
+     356.483,
+     529.9121760000003,
+     367.463
+    ],
+    [
+     73.68,
+     369.14293999999995,
+     529.7913959999996,
+     380.12293999999997
+    ],
+    [
+     73.68,
+     381.80287999999996,
+     463.65885608784004,
+     392.78288
+    ],
+    [
+     73.68,
+     394.46281999999997,
+     529.9923267059999,
+     405.44282
+    ],
+    [
+     73.68,
+     407.12275999999997,
+     529.957194,
+     418.10276
+    ],
+    [
+     73.68,
+     419.71682,
+     529.8979020000003,
+     430.69682
+    ],
+    [
+     73.68,
+     432.37676,
+     195.94010399999996,
+     443.35676
+    ],
+    [
+     114.24,
+     457.19617999999997,
+     529.895058,
+     465.17618
+    ],
+    [
+     361.44444,
+     466.37318,
+     529.8487739999999,
+     474.35318
+    ],
+    [
+     66.3,
+     503.54908,
+     441.88956600000034,
+     514.52908
+    ],
+    [
+     44.9988,
+     518.1305199999999,
+     441.7676880000004,
+     529.11052
+    ],
+    [
+     44.9988,
+     532.64608,
+     441.9697200000004,
+     543.62608
+    ],
+    [
+     44.9988,
+     547.16164,
+     441.93897600000037,
+     558.14164
+    ],
+    [
+     44.9988,
+     561.74308,
+     98.21227201098002,
+     572.72308
+    ],
+    [
+     66.3,
+     577.1041,
+     441.94336799999996,
+     588.17194
+    ],
+    [
+     44.9988,
+     591.80632,
+     441.9455464320005,
+     602.7863199999999
+    ],
+    [
+     44.9988,
+     606.32188,
+     441.8511360000002,
+     617.30188
+    ],
+    [
+     44.9988,
+     620.90332,
+     311.4779100000002,
+     631.88332
+    ],
+    [
+     459.60001,
+     500.45201,
+     534.84002,
+     633.29201
+    ],
+    [
+     70.31598,
+     649.7636,
+     108.78441,
+     660.83144
+    ],
+    [
+     70.31598,
+     663.20312,
+     108.78441,
+     674.27096
+    ],
+    [
+     70.31598,
+     676.69754,
+     108.7877,
+     687.76538
+    ],
+    [
+     70.31598,
+     690.13706,
+     108.78441,
+     701.2049
+    ],
+    [
+     70.31598,
+     703.63148,
+     108.78441,
+     714.69932
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q027_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q028",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 28,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em uma tentativa de emular os diversos tipos de leite, uma indústria mistura água com uma certa quantidade de lipídios que é mostrada na tabela seguinte:\n\n{{img:1}}\n\nSabendo que o calor específico da água é maior que o do grupo de lipídios usados, concluímos, utilizando os princípios da calorimetria e apenas as informações da tabela, que, em quantidades iguais,",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o leite de ovelha necessitaria de menos energia para chegar a 100 °C em relação aos demais."
+   },
+   {
+    "letra": "B",
+    "texto": "quando todos forem submetidos a um aquecimento constante, o leite de vaca chegará a 100 °C mais rápido que os demais."
+   },
+   {
+    "letra": "C",
+    "texto": "com os diversos tipos de leite no congelador, sob a mesma temperatura inicial, o leite semidesnatado atingirá o estado sólido primeiro em relação aos outros."
+   },
+   {
+    "letra": "D",
+    "texto": "a proporção água com lipídios não interfere no processo de variação de temperatura."
+   },
+   {
+    "letra": "E",
+    "texto": "todos os tipos de leite chegam a 100 °C no mesmo tempo, quando submetidos a um aquecimento constante, uma vez que essa variação depende, apenas, da fonte de energia térmica."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q028_img1.png",
+    "pagina": 18,
+    "bbox": [
+     124.6,
+     98.6,
+     465.1,
+     204.5
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.5436,
+     51.618499999999926,
+     538.6156079999998,
+     62.598499999999945
+    ],
+    [
+     42.5436,
+     64.27843999999993,
+     352.5935392912201,
+     75.25843999999995
+    ],
+    [
+     124.56,
+     98.64,
+     465.12,
+     204.48000000000002
+    ],
+    [
+     42.54,
+     227.60917999999992,
+     538.4692578984008,
+     238.58917999999994
+    ],
+    [
+     42.54,
+     240.26911999999993,
+     538.4154556788004,
+     251.24911999999995
+    ],
+    [
+     42.54,
+     252.86317999999994,
+     74.39078400000001,
+     263.84317999999996
+    ],
+    [
+     63.8412,
+     279.01754,
+     538.59993,
+     290.08538000000004
+    ],
+    [
+     85.0875,
+     291.67748,
+     123.59436000000001,
+     302.65748
+    ],
+    [
+     63.85218,
+     304.27153999999996,
+     538.5340499999994,
+     315.25154
+    ],
+    [
+     85.0875,
+     317.76595999999995,
+     234.91289399999994,
+     328.8338
+    ],
+    [
+     63.85218,
+     330.42589999999996,
+     538.575774,
+     341.4059
+    ],
+    [
+     85.0875,
+     343.08583999999996,
+     433.6157580000003,
+     354.06584
+    ],
+    [
+     63.85218,
+     355.6799,
+     500.79579000000035,
+     366.6599
+    ],
+    [
+     63.85218,
+     369.17431999999997,
+     538.5922439999998,
+     380.24216
+    ],
+    [
+     85.0875,
+     381.83426,
+     538.592244,
+     392.81426
+    ],
+    [
+     85.0875,
+     394.4942,
+     124.193868,
+     405.4742
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q028_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q029",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 29,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Com base nos conhecimentos acerca da expansão térmica dos sólidos, sabe-se que, ao aquecer uma esfera feita de alumínio, em 100 graus celsius, o maior aumento percentual vai ocorrer na (no)",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "sua área de superfície."
+   },
+   {
+    "letra": "B",
+    "texto": "seu volume."
+   },
+   {
+    "letra": "C",
+    "texto": "seu diâmetro."
+   },
+   {
+    "letra": "D",
+    "texto": "sua densidade."
+   },
+   {
+    "letra": "E",
+    "texto": "sua massa."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.55098,
+     432.40814,
+     538.5724799999999,
+     443.38814
+    ],
+    [
+     42.55098,
+     445.06807999999995,
+     538.5538140000004,
+     456.04807999999997
+    ],
+    [
+     42.55098,
+     457.72801999999996,
+     77.394912,
+     468.70802
+    ],
+    [
+     70.93428,
+     482.98202,
+     204.10960200000008,
+     493.96202
+    ],
+    [
+     70.93428,
+     495.64196,
+     151.44513,
+     506.62196
+    ],
+    [
+     70.93428,
+     508.3019,
+     158.80722000000003,
+     519.2819
+    ],
+    [
+     70.93428,
+     520.9618399999999,
+     166.783092,
+     531.94184
+    ],
+    [
+     70.93428,
+     533.62178,
+     148.43990268239997,
+     544.60178
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q029_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q030",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 30,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "*Por que os lagos congelam só na superfície?*\n\n*Porque a camada de gelo funciona como uma espécie de cobertor, impedindo que a água* *mais profunda congele. \"A capa gelada faz o papel de isolante térmico. Como o gelo é um* *mau condutor, ele evita que o resto da água perca calor para a atmosfera\", afirma o* *glaciologista Jefferson Cardia Simões, da Universidade Federal do Rio Grande do Sul* *(UFRGS).*\n\n{{fonte:1}}\n\n{{img:1}}\n\n{{img:2}}\n\n{{img:3}}\n\nO comportamento diferenciado da densidade da água em baixas temperaturas, quando comparada com outras substâncias, permite que o fundo dos lagos não congele, preservando a vida nesses ecossistemas, nos períodos de inverno. Sobre isso, o gráfico que melhor descreve a variação da densidade da água, d, com a temperatura, T, está indicado na alternativa",
+  "fontes": [
+   "Disponível em: http://mundoestranho.abril.com.br/materia/por-que-os-lagos-congelam-so-na-superficie, acessado em:"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": ""
+   },
+   {
+    "letra": "B",
+    "texto": ""
+   },
+   {
+    "letra": "C",
+    "texto": "e)"
+   },
+   {
+    "letra": "D",
+    "texto": "{{img:4}}\n\n{{img:5}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q030_img1.png",
+    "pagina": 19,
+    "bbox": [
+     446.8,
+     130.9,
+     518.4,
+     216.9
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q030_img2.png",
+    "pagina": 19,
+    "bbox": [
+     270.4,
+     133.3,
+     342.0,
+     220.1
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q030_img3.png",
+    "pagina": 19,
+    "bbox": [
+     104.4,
+     130.9,
+     176.0,
+     216.5
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q030_img4.png",
+    "pagina": 19,
+    "bbox": [
+     363.6,
+     230.9,
+     435.2,
+     314.9
+    ]
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q030_img5.png",
+    "pagina": 19,
+    "bbox": [
+     182.8,
+     232.4,
+     254.4,
+     315.7
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   18,
+   19
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.55098,
+     584.26154,
+     57.837336,
+     595.24154
+    ],
+    [
+     68.58,
+     591.4491800000001,
+     288.74876399999994,
+     602.42918
+    ],
+    [
+     68.58,
+     609.86918,
+     529.9222679999995,
+     620.8491799999999
+    ],
+    [
+     68.58,
+     622.52912,
+     530.0320680000003,
+     633.5091199999999
+    ],
+    [
+     68.58,
+     635.18906,
+     529.9617960000003,
+     646.16906
+    ],
+    [
+     68.58,
+     647.78312,
+     529.8904260000002,
+     658.76312
+    ],
+    [
+     68.58,
+     660.4430600000001,
+     117.41355,
+     671.42306
+    ],
+    [
+     112.56,
+     677.21618,
+     530.0017781646001,
+     685.19618
+    ]
+   ],
+   "19": [
+    [
+     63.84,
+     51.62324000000001,
+     538.5273599999994,
+     62.60324000000003
+    ],
+    [
+     42.5388,
+     64.28318000000002,
+     538.5207719999993,
+     75.26318000000003
+    ],
+    [
+     42.5388,
+     76.94312000000002,
+     538.4922239999994,
+     87.92312000000004
+    ],
+    [
+     42.5388,
+     89.60306000000003,
+     414.80252400000035,
+     100.58306000000005
+    ],
+    [
+     446.75999,
+     130.85201000000006,
+     518.39999,
+     216.89200000000005
+    ],
+    [
+     270.36,
+     133.25199999999995,
+     342.0,
+     220.07200999999998
+    ],
+    [
+     104.39999,
+     130.85199999999998,
+     176.03999,
+     216.47199999999998
+    ],
+    [
+     72.9,
+     140.96917999999994,
+     82.670004,
+     152.48918000000003
+    ],
+    [
+     236.58,
+     141.32917999999995,
+     246.350004,
+     152.48918000000003
+    ],
+    [
+     407.34,
+     141.50918000000001,
+     416.500614,
+     152.48918000000003
+    ],
+    [
+     363.60001,
+     230.87198999999998,
+     435.24001,
+     314.87199
+    ],
+    [
+     324.6,
+     243.56917999999996,
+     334.37000400000005,
+     257.00918
+    ],
+    [
+     155.16,
+     246.02918,
+     164.930004,
+     257.00918
+    ],
+    [
+     182.75999,
+     232.43201,
+     254.39999,
+     315.71201
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [
+   "4 alternativas encontradas (esperado 5)",
+   "alternativa vazia"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q030_p18.jpg",
+   "revisao/Q030_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q031",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 31,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um refrigerador foi construído, utilizando-se uma máquina de Carnot cuja eficiência, na forma de máquina de calor, é igual a 0,1. Se esse refrigerador realiza um trabalho de 10 J, é **CORRETO** afirmar que a quantidade de calor removida do reservatório de menor temperatura foi, em joules, de",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "100"
+   },
+   {
+    "letra": "B",
+    "texto": "99"
+   },
+   {
+    "letra": "C",
+    "texto": "90"
+   },
+   {
+    "letra": "D",
+    "texto": "10"
+   },
+   {
+    "letra": "E",
+    "texto": "1"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.54,
+     338.00899999999996,
+     538.6570260000002,
+     348.989
+    ],
+    [
+     42.54,
+     350.60305999999997,
+     538.629574,
+     361.58306
+    ],
+    [
+     42.54,
+     363.263,
+     529.7368740000005,
+     374.243
+    ],
+    [
+     70.9233,
+     401.24282,
+     110.509494,
+     412.22282
+    ],
+    [
+     70.9233,
+     413.83687999999995,
+     104.39363399999999,
+     424.81687999999997
+    ],
+    [
+     70.9233,
+     426.49681999999996,
+     104.383752,
+     437.47682
+    ],
+    [
+     70.9233,
+     439.15675999999996,
+     104.389242,
+     450.13676
+    ],
+    [
+     70.9233,
+     451.81669999999997,
+     98.27338199999998,
+     462.7967
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q031_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q032",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 32,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nNo dia 29 de maio de 1919, uma equipe de astrônomos ingleses visitou a cidade de Sobral, no Ceará, na tentativa de comprovar a Teoria da Relatividade Geral de Einstein, publicada em 1915. O objetivo da comitiva era verificar se a luz que vinha de uma estrela sofreria algum desvio ao passar nas proximidades do Sol. Nessa teoria, movimentos sob a ação de campos gravitacionais são compreendidos como movimentos em um espaço curvo, conforme mostra a figura a seguir. Nela ilustramos como a massa do Sol muda a nossa percepção da posição de uma estrela. Que tipo de instrumento óptico representa, de forma mais precisa, a função da massa do Sol na alteração do caminho da luz?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Espelho plano"
+   },
+   {
+    "letra": "B",
+    "texto": "Espelho côncavo"
+   },
+   {
+    "letra": "C",
+    "texto": "Espelho convexo"
+   },
+   {
+    "letra": "D",
+    "texto": "Lente convergente"
+   },
+   {
+    "letra": "E",
+    "texto": "Lente divergente"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q032_img1.png",
+    "pagina": 19,
+    "bbox": [
+     363.6,
+     586.1,
+     524.4,
+     715.7
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.54,
+     489.73064,
+     538.6076160000001,
+     500.71064
+    ],
+    [
+     42.54,
+     502.39058,
+     538.5208739999997,
+     513.37058
+    ],
+    [
+     42.54,
+     515.05052,
+     538.6405264638008,
+     526.03052
+    ],
+    [
+     42.54,
+     527.71046,
+     538.6548300000002,
+     538.69046
+    ],
+    [
+     42.54,
+     540.3704,
+     538.6723979999999,
+     551.3504
+    ],
+    [
+     42.54,
+     552.96446,
+     538.6054200000001,
+     563.9444599999999
+    ],
+    [
+     42.54,
+     565.6244,
+     538.5483240000001,
+     576.6043999999999
+    ],
+    [
+     42.54,
+     578.28434,
+     122.68960800000004,
+     589.26434
+    ],
+    [
+     363.60001,
+     586.07199,
+     524.4000100000001,
+     715.672
+    ],
+    [
+     70.9233,
+     616.26416,
+     161.85307035300002,
+     627.24416
+    ],
+    [
+     70.9233,
+     628.8582200000001,
+     175.90088400000002,
+     639.83822
+    ],
+    [
+     70.9233,
+     641.51816,
+     175.81304400000002,
+     652.49816
+    ],
+    [
+     70.9233,
+     654.1781,
+     183.290424,
+     665.1581
+    ],
+    [
+     70.9233,
+     666.83804,
+     174.104556,
+     677.81804
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q032_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q033",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 33,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4141-T7",
+  "textos_base_ids": [
+   "P4141-T7"
+  ],
+  "enunciado": "According to the text, “text neck” is a result of\n\nI. widespread overuse of handheld mobile technology.  \nII. a modern digital age we are living in.  \nIII. a global epidemic caused by texting in an overuse way.  \nIV. looking down at the screens of mobile devices and ‘texting’ for long periods of time.  \nV. the repeated stress injury to the body caused by excessive texting and overuse of all  \nhandheld electronic devices.\n\nIt is **CORRECT**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "only I."
+   },
+   {
+    "letra": "B",
+    "texto": "only I and II."
+   },
+   {
+    "letra": "C",
+    "texto": "only I, II, III, and IV."
+   },
+   {
+    "letra": "D",
+    "texto": "I, II, III, IV, and V."
+   },
+   {
+    "letra": "E",
+    "texto": "only I, II, and III."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.54,
+     256.34906,
+     283.9923960000001,
+     267.32906
+    ],
+    [
+     78.96065999999999,
+     281.60306,
+     352.94350200000025,
+     292.58306000000005
+    ],
+    [
+     75.89724,
+     294.26300000000003,
+     277.73379600000004,
+     305.24300000000005
+    ],
+    [
+     72.83382,
+     306.92294000000004,
+     368.3100120000005,
+     317.90294000000006
+    ],
+    [
+     71.637,
+     319.58288000000005,
+     503.33546400000034,
+     330.56288000000006
+    ],
+    [
+     74.70042,
+     332.24282000000005,
+     510.0936540000005,
+     343.22282000000007
+    ],
+    [
+     99.24072,
+     344.90276000000006,
+     238.042194,
+     355.8827600000001
+    ],
+    [
+     70.9233,
+     370.1567600000001,
+     145.41491399999995,
+     381.1367600000001
+    ],
+    [
+     70.9233,
+     395.4766400000001,
+     121.47412200000002,
+     406.4566400000001
+    ],
+    [
+     70.9233,
+     408.1365800000001,
+     152.07428400000003,
+     419.1165800000001
+    ],
+    [
+     70.9233,
+     420.7306400000001,
+     186.85892400000012,
+     431.7106400000001
+    ],
+    [
+     70.9233,
+     433.3905800000001,
+     177.152604,
+     444.37058000000013
+    ],
+    [
+     70.9233,
+     446.0505200000001,
+     170.45041200000009,
+     457.03052000000014
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q034",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 34,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4141-T8",
+  "textos_base_ids": [
+   "P4141-T8"
+  ],
+  "enunciado": "According to the text, Dr. Dean Fishman\n\nI. is a leading health care provider for technology induced injuries.\n\nII. originated the phrase ***'Text Neck'*** to explain the repeated stress injury to the body caused by excessive texting.\n\nIII. is a Chiropractor in Plantation, Florida.  \nIV. is a pioneer in treating technology related injuries.  \nV. founded the ***Text Neck Institute*** in Plantation, Florida.\n\nIt is **CORRECT**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "only I, II, III, and IV."
+   },
+   {
+    "letra": "B",
+    "texto": "I, II, III, IV, and V."
+   },
+   {
+    "letra": "C",
+    "texto": "only I, II, and III."
+   },
+   {
+    "letra": "D",
+    "texto": "only I and II."
+   },
+   {
+    "letra": "E",
+    "texto": "only I."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.54,
+     486.32917999999995,
+     259.38182400000005,
+     497.30917999999997
+    ],
+    [
+     78.96,
+     507.02918,
+     409.7961840000003,
+     518.00918
+    ],
+    [
+     75.89658,
+     519.68912,
+     535.591848,
+     530.66912
+    ],
+    [
+     99.24005999999997,
+     532.28318,
+     200.715024,
+     543.26318
+    ],
+    [
+     72.84413999999997,
+     544.94312,
+     286.2876539999999,
+     555.92312
+    ],
+    [
+     71.64731999999997,
+     557.60306,
+     341.43690000000004,
+     568.58306
+    ],
+    [
+     74.71073999999996,
+     570.263,
+     364.601406,
+     581.243
+    ],
+    [
+     70.92,
+     601.28918,
+     145.431378,
+     612.26918
+    ],
+    [
+     70.92,
+     623.12918,
+     186.89515200000005,
+     634.1091799999999
+    ],
+    [
+     70.92,
+     635.78912,
+     177.149304,
+     646.7691199999999
+    ],
+    [
+     70.92,
+     648.44906,
+     170.45479800000004,
+     659.4290599999999
+    ],
+    [
+     70.92,
+     661.109,
+     152.07098400000007,
+     672.0889999999999
+    ],
+    [
+     70.92,
+     673.76894,
+     121.47082200000003,
+     684.74894
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q034_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q035",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 35,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4141-T8",
+  "textos_base_ids": [
+   "P4141-T8"
+  ],
+  "enunciado": "What does “text neck” mean in Portuguese?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Dores no pescoço, provocadas pelo uso inadequado de telefones celulares e outros aparelhos tecnológicos modernos, como *tablets* etc."
+   },
+   {
+    "letra": "B",
+    "texto": "Um problema de saúde pública que afeta, inclusive, aquelas pessoas que não têm o hábito de usar as chamadas mídias sociais."
+   },
+   {
+    "letra": "C",
+    "texto": "Trata-se de uma questão de herança genética e que prejudica uma boa parcela da população mundial."
+   },
+   {
+    "letra": "D",
+    "texto": "É um problema que apareceu muito antes do surgimento da tecnologia móvel, nos moldes conhecidos atualmente."
+   },
+   {
+    "letra": "E",
+    "texto": "É uma epidemia que atingiu milhões de pessoas no passado e que assombra o mundo tecnológico e virtual de hoje."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.54,
+     39.02918,
+     285.4867740000001,
+     50.009180000000015
+    ],
+    [
+     70.92,
+     60.86918000000003,
+     538.4901239999997,
+     71.84918000000005
+    ],
+    [
+     92.15532,
+     73.52912000000003,
+     345.954726,
+     84.50912000000005
+    ],
+    [
+     70.90902,
+     86.12318000000005,
+     538.4923199999997,
+     97.10318000000007
+    ],
+    [
+     92.14434,
+     98.78312000000005,
+     272.5841699999999,
+     109.76312000000007
+    ],
+    [
+     70.90902,
+     111.44306000000006,
+     538.4945159999996,
+     122.42306000000008
+    ],
+    [
+     92.14434,
+     124.10300000000007,
+     187.512228,
+     135.08300000000008
+    ],
+    [
+     70.90902,
+     136.76294000000007,
+     538.5516119999995,
+     147.7429400000001
+    ],
+    [
+     92.14434,
+     149.35700000000008,
+     208.27321200000006,
+     160.3370000000001
+    ],
+    [
+     70.90902,
+     162.0169400000001,
+     516.5268299999996,
+     172.9969400000001
+    ],
+    [
+     92.14434,
+     174.6768800000001,
+     231.54202799999993,
+     185.65688000000011
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q035_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q036",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 36,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4141-T8",
+  "textos_base_ids": [
+   "P4141-T8"
+  ],
+  "enunciado": "Em relação ao termo “Northern Star”, no título do texto, conclui-se que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "os países nórdicos, onde se inclui a Escandinávia, estão em destaque graças ao desenvolvimento e uso de energia limpa, como um modelo brilhante de sustentabilidade."
+   },
+   {
+    "letra": "B",
+    "texto": "a Estrela do Norte demarca a região mais ao norte da Europa, chamada também de Escandinávia, de onde é possível se observar esse importante corpo celeste."
+   },
+   {
+    "letra": "C",
+    "texto": "a Estrela do Norte é uma referência a Estocolmo, capital sueca, que se destaca pelas iniciativas de uso inteligente de fontes de energia, entre outras coisas."
+   },
+   {
+    "letra": "D",
+    "texto": "há uma ironia presente na questão, já que a Suécia, país nórdico, compara-se, frequentemente, à Estrela do Norte em razão de suas riquezas."
+   },
+   {
+    "letra": "E",
+    "texto": "esse termo faz referência a um navio de propriedade do governo sueco, de nome idêntico que é um modelo de compensação energética para o mundo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.54,
+     48.20917999999995,
+     413.96924400000023,
+     59.189179999999965
+    ],
+    [
+     70.9233,
+     73.52905999999996,
+     538.6515359999994,
+     84.50905999999998
+    ],
+    [
+     92.15862,
+     86.12311999999997,
+     528.7552620000001,
+     97.10311999999999
+    ],
+    [
+     70.91232000000005,
+     98.78305999999998,
+     538.5340500000005,
+     109.76306
+    ],
+    [
+     92.14764000000005,
+     111.44299999999998,
+     469.4621640000003,
+     122.423
+    ],
+    [
+     70.91232000000005,
+     124.10293999999999,
+     538.5889500000001,
+     135.08294
+    ],
+    [
+     92.14764000000005,
+     136.76288,
+     434.61823200000055,
+     147.74288
+    ],
+    [
+     70.91232000000005,
+     149.35694,
+     538.6504379999996,
+     160.33694000000003
+    ],
+    [
+     92.14764000000005,
+     162.01688000000001,
+     402.1481760000002,
+     172.99688000000003
+    ],
+    [
+     70.91232000000005,
+     174.67682000000002,
+     538.6581240000002,
+     185.65682000000004
+    ],
+    [
+     92.14764000000005,
+     187.33676000000003,
+     392.3364480000003,
+     198.31676000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q036_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q037",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 37,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4141-T8",
+  "textos_base_ids": [
+   "P4141-T8"
+  ],
+  "enunciado": "O principal objetivo do texto é",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "destacar a importância da reciclagem de materiais e redução do consumo em todas as regiões da Europa, a partir dos países escandinavos, tornando-se modelo para o mundo."
+   },
+   {
+    "letra": "B",
+    "texto": "enfocar as iniciativas para desenvolver bioenergia em toda a região da Escandinávia, começando pela Dinamarca."
+   },
+   {
+    "letra": "C",
+    "texto": "discutir as formas de reciclagem propostas pela Suécia para toda a Escandinávia, com enfoque na utilização da água a fim de gerar energia elétrica."
+   },
+   {
+    "letra": "D",
+    "texto": "apresentar as iniciativas sustentáveis advindas da Suécia que poderão transformar a região numa liderança, com a geração de energia solar e eólica, entre outros, para a Escandinávia, a princípio, e para outros países, posteriormente."
+   },
+   {
+    "letra": "E",
+    "texto": "destacar verdadeiras iniciativas verdes, que poderão tornar parte da Europa um modelo a ser seguido em todo o mundo, no qual a capital da Suécia concorrerá como capital verde do planeta."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.52902000000005,
+     225.25070000000005,
+     215.767068,
+     236.23070000000007
+    ],
+    [
+     70.91232000000005,
+     250.57058000000006,
+     538.5636959999996,
+     261.5505800000001
+    ],
+    [
+     92.14764000000005,
+     263.23052000000007,
+     526.868898,
+     274.2105200000001
+    ],
+    [
+     70.91232000000002,
+     275.8904600000001,
+     538.4517000000002,
+     286.8704600000001
+    ],
+    [
+     92.14764000000002,
+     288.4845200000001,
+     232.17777599999997,
+     299.4645200000001
+    ],
+    [
+     70.91232000000002,
+     301.1444600000001,
+     538.5219720000002,
+     312.1244600000001
+    ],
+    [
+     92.14764000000002,
+     313.8044000000001,
+     391.16707800000023,
+     324.7844000000001
+    ],
+    [
+     70.91232000000002,
+     326.4643400000001,
+     538.5164820000002,
+     337.4443400000001
+    ],
+    [
+     92.14764000000002,
+     339.1242800000001,
+     538.4242500000001,
+     350.10428000000013
+    ],
+    [
+     92.14764000000002,
+     351.7842200000001,
+     403.4075820000001,
+     362.76422000000014
+    ],
+    [
+     70.91232000000002,
+     364.37828000000013,
+     538.716318,
+     375.35828000000015
+    ],
+    [
+     92.14764000000002,
+     377.03822000000014,
+     538.5834600000005,
+     388.01822000000016
+    ],
+    [
+     92.14764000000002,
+     389.69816000000014,
+     146.60514600000002,
+     400.67816000000016
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q037_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q038",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 38,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4141-T8",
+  "textos_base_ids": [
+   "P4141-T8"
+  ],
+  "enunciado": "Observe este trecho:\n\n*Today the city's water is so clean* <u>*that fishermen actually stand on bridges in the central*</u> *business district, catching fresh salmon and trout.*\n\nConsiderando a gramática e o contexto, a parte destacada apresenta uma ideia de",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "contraste."
+   },
+   {
+    "letra": "B",
+    "texto": "condição."
+   },
+   {
+    "letra": "C",
+    "texto": "causa."
+   },
+   {
+    "letra": "D",
+    "texto": "tempo."
+   },
+   {
+    "letra": "E",
+    "texto": "consequência."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.529020000000024,
+     427.61210000000017,
+     173.02302600000004,
+     438.5921000000002
+    ],
+    [
+     70.91232000000002,
+     452.9978600000002,
+     538.4703660000001,
+     463.9778600000002
+    ],
+    [
+     70.92,
+     465.68917999999996,
+     311.687244,
+     476.66918
+    ],
+    [
+     70.91988,
+     490.94324,
+     475.10905200000025,
+     501.92324
+    ],
+    [
+     70.91988,
+     516.19724,
+     140.51331599999997,
+     527.17724
+    ],
+    [
+     70.91988,
+     528.8571800000001,
+     139.30222200000003,
+     539.83718
+    ],
+    [
+     70.91988,
+     541.5171200000001,
+     124.58902200000001,
+     552.49712
+    ],
+    [
+     70.91988,
+     554.1770600000001,
+     125.75509800000002,
+     565.15706
+    ],
+    [
+     70.91988,
+     566.7711200000001,
+     163.11125400000003,
+     577.7511200000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q038_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q039",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 39,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4141-T8",
+  "textos_base_ids": [
+   "P4141-T8"
+  ],
+  "enunciado": "O homem é capaz de três formas de saber: o saber de dominação ou de realização, o saber da essência ou cultural e o saber metafísico ou saber de salvação. Nenhuma dessas três espécies de saber existe somente em função de si mesma. Toda espécie serve à reformulação de um ente: ou dos objetos, ou da forma cultural do próprio homem, ou do absoluto.\n\nNa perspectiva do pensamento de Max Scheler, o conhecimento filosófico",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "valoriza o saber metafísico, rejeitando o saber da essência."
+   },
+   {
+    "letra": "B",
+    "texto": "descaracteriza a forma de saber de dominação, priorizando o saber metafísico."
+   },
+   {
+    "letra": "C",
+    "texto": "restringe o saber da essência em prol do saber de realização."
+   },
+   {
+    "letra": "D",
+    "texto": "faz a confluência entre as três formas de saber."
+   },
+   {
+    "letra": "E",
+    "texto": "retrata o saber do homem em função de si mesmo, no enfoque metafísico."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   28
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.54,
+     74.72917999999993,
+     57.826356,
+     85.70917999999995
+    ],
+    [
+     66.72,
+     87.98917999999992,
+     530.0276598912005,
+     98.96917999999994
+    ],
+    [
+     66.72,
+     100.64911999999993,
+     530.089176,
+     111.62911999999994
+    ],
+    [
+     66.72,
+     113.30905999999993,
+     530.030982,
+     124.28905999999995
+    ],
+    [
+     66.72,
+     125.96899999999994,
+     530.0716080000002,
+     136.94899999999996
+    ],
+    [
+     66.72,
+     138.62893999999994,
+     111.399816,
+     149.60893999999996
+    ],
+    [
+     70.92,
+     172.46323999999993,
+     432.21799800000053,
+     183.44323999999995
+    ],
+    [
+     70.92,
+     195.50918000000001,
+     381.90763800000036,
+     206.48918000000003
+    ],
+    [
+     70.92,
+     208.16912000000002,
+     478.5393240000001,
+     219.14912000000004
+    ],
+    [
+     70.92,
+     220.76317999999992,
+     393.5321640000004,
+     231.74317999999994
+    ],
+    [
+     70.92,
+     233.42311999999993,
+     324.5843520000002,
+     244.40311999999994
+    ],
+    [
+     70.92,
+     246.08305999999993,
+     455.9864040000005,
+     257.06305999999995
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q039_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q040",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 40,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Se a filosofia deve ser, ao mesmo tempo, totalização do saber, método, ideia reguladora, arma ofensiva e comunidade de linguagem; se essa ‘visão do mundo’ é também um instrumento que trabalha as sociedades carcomidas; se essa concepção singular de um homem ou de um grupo de homens torna-se a cultura e, por vezes, a natureza de toda uma classe, fica bem claro que as épocas de criação filosófica são raras.\n\n{{fonte:1}}\n\nA ideia filosófica de Sartre, no texto acima, considera como o mais alto grau de conhecimento:",
+  "fontes": [
+   "SARTRE, Jean Paul. Questão de Método. São Paulo: Difel, 1979."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a reflexão crítica do homem na sua existência."
+   },
+   {
+    "letra": "B",
+    "texto": "o valor do conhecimento no âmbito da essência."
+   },
+   {
+    "letra": "C",
+    "texto": "a concepção do homem como criação divina."
+   },
+   {
+    "letra": "D",
+    "texto": "o primado do conhecimento revelado."
+   },
+   {
+    "letra": "E",
+    "texto": "a raridade do conhecimento absoluto."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   28
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.54,
+     286.34918,
+     57.826356,
+     297.32918
+    ],
+    [
+     71.82,
+     291.92918,
+     530.0197919999995,
+     302.90918
+    ],
+    [
+     71.82,
+     304.52324,
+     529.9528140000004,
+     315.50324
+    ],
+    [
+     71.82,
+     317.18318,
+     530.0472420000001,
+     328.16318
+    ],
+    [
+     71.82,
+     329.84312,
+     529.9681860000004,
+     340.82312
+    ],
+    [
+     71.82,
+     342.50305999999995,
+     403.78932000000043,
+     353.48305999999997
+    ],
+    [
+     296.64,
+     354.71618,
+     529.9943519999998,
+     362.69618
+    ],
+    [
+     70.92,
+     387.50917999999996,
+     531.2180699999994,
+     398.48918
+    ],
+    [
+     70.92,
+     413.96918,
+     319.05921600000016,
+     424.94918
+    ],
+    [
+     70.92,
+     426.62912,
+     328.1726160000002,
+     437.60912
+    ],
+    [
+     70.92,
+     439.28905999999995,
+     312.8269680000002,
+     450.26905999999997
+    ],
+    [
+     70.92,
+     451.94899999999996,
+     276.12522,
+     462.929
+    ],
+    [
+     70.92,
+     464.54305999999997,
+     276.1296120000002,
+     475.52306
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q040_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q041",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 41,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Se me disponho a filosofar, é porque busco compreender as coisas e os fatos que me envolvem, a Realidade em que estou imerso. É porque quero saber o que posso saber e como devo ordenar minha visão do Mundo, como situar-me diante do Mundo físico e do Mundo humano e de tudo quanto se oferece à minha experiência. Como entender os discursos dos homens e meu próprio discurso. Como julgar os produtos das artes, das religiões e das ciências.\n\nNo pensamento acima transcrito, o autor problematiza sobre o filosofar e evidencia aspectos\n\npreponderantes da consciência crítica no",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "despertar para a compreensão da realidade na sua inteireza."
+   },
+   {
+    "letra": "B",
+    "texto": "refletir o mundo físico, apartado do mundo humano."
+   },
+   {
+    "letra": "C",
+    "texto": "julgar a realidade, priorizando os produtos das ciências."
+   },
+   {
+    "letra": "D",
+    "texto": "buscar a realidade do discurso e das artes."
+   },
+   {
+    "letra": "E",
+    "texto": "conduzir e ordenar a visão do mundo com o saber das religiões."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   28
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.54,
+     501.38917999999995,
+     57.826356,
+     512.3691799999999
+    ],
+    [
+     73.68,
+     509.18917999999996,
+     530.0538180000001,
+     520.16918
+    ],
+    [
+     73.68,
+     521.84912,
+     529.9846440000005,
+     532.82912
+    ],
+    [
+     73.68,
+     534.50906,
+     530.0724839999992,
+     545.48906
+    ],
+    [
+     73.68,
+     547.169,
+     529.9011959999997,
+     558.149
+    ],
+    [
+     73.68,
+     559.82894,
+     529.9363319999995,
+     570.80894
+    ],
+    [
+     73.68,
+     572.423,
+     190.54233603294,
+     583.403
+    ],
+    [
+     70.92,
+     607.16918,
+     522.7513822497605,
+     618.14918
+    ],
+    [
+     70.92,
+     619.82912,
+     271.50373799999994,
+     630.80912
+    ],
+    [
+     70.92,
+     645.08908,
+     389.83958340102015,
+     656.06908
+    ],
+    [
+     70.92,
+     657.74902,
+     344.74582800000013,
+     668.72902
+    ],
+    [
+     70.92,
+     670.40896,
+     364.3396380000002,
+     681.38896
+    ],
+    [
+     70.92,
+     683.0689,
+     302.5463940000002,
+     694.0489
+    ],
+    [
+     70.92,
+     695.72884,
+     405.2148840000004,
+     706.70884
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q041_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q042",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 42,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Considere o texto a seguir:\n\n**Sobre a Filosofia na História**\n\nA filosofia é o resultado de uma subida lenta, laboriosa conquista da humanidade, que constitui a história da filosofia. Esta, pois, é a exposição objetiva, cronológica, metódica e crítica dos principais sistemas filosóficos, que apareceram ao longo da história da humanidade. Entretanto, a história da filosofia se distingue da filosofia propriamente dita. Com efeito, a primeira abrange todo sistema filosófico, falso ou verdadeiro.\n\n{{fonte:1}}\n\nÉ **CORRETO** afirmar que, na tradição histórica da filosofia,",
+  "fontes": [
+   "PANDOVANI, Umberto e CASTAGNOLA, Luís. História da Filosofia. São Paulo: Melhoramentos, 1993, p. 59."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o período Pré-Socrático enfatiza a revelação divina."
+   },
+   {
+    "letra": "B",
+    "texto": "a exposição existencialista sobre a natureza caracteriza o período Pré-Socrático."
+   },
+   {
+    "letra": "C",
+    "texto": "o período Pré-Socrático dá enfoque ao valor metódico de perseguir a unidade do homem."
+   },
+   {
+    "letra": "D",
+    "texto": "o problema cosmológico é a principal preocupação do período Pré-Socrático."
+   },
+   {
+    "letra": "E",
+    "texto": "o período Pré-Socrático menospreza por completo a tradição científica."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.5436,
+     39.02444000000003,
+     202.40690999999995,
+     50.004440000000045
+    ],
+    [
+     225.06,
+     59.90917999999999,
+     373.58426399999996,
+     70.88918000000001
+    ],
+    [
+     68.58,
+     79.40917999999999,
+     529.9288467768004,
+     90.38918000000001
+    ],
+    [
+     68.58,
+     92.06912,
+     529.8750437886006,
+     103.04912000000002
+    ],
+    [
+     68.58,
+     104.72906,
+     529.9606980000001,
+     115.70906000000002
+    ],
+    [
+     68.58,
+     117.32312000000002,
+     530.0474295690005,
+     128.30312000000004
+    ],
+    [
+     68.58,
+     129.98306000000002,
+     407.9838780000004,
+     140.96306000000004
+    ],
+    [
+     142.26,
+     147.95618000000002,
+     529.9467540000002,
+     155.93617999999992
+    ],
+    [
+     70.92,
+     183.86918000000003,
+     358.2380520000001,
+     194.84918000000005
+    ],
+    [
+     70.90902,
+     209.18905999999993,
+     344.6327340000003,
+     220.16905999999994
+    ],
+    [
+     70.90902,
+     221.84899999999993,
+     487.14983554212,
+     232.82899999999995
+    ],
+    [
+     70.90902,
+     234.50893999999994,
+     529.8104340000004,
+     245.48893999999996
+    ],
+    [
+     70.90902,
+     247.16887999999994,
+     468.83080800000033,
+     258.14887999999996
+    ],
+    [
+     70.90902,
+     259.76293999999996,
+     439.46809200000035,
+     270.74294
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q042_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q043",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 43,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "(...) à procura desta ciência, devemos examinar de que causas e de que princípios a filosofia é a ciência. Se considerarmos as opiniões que existem acerca do filósofo, talvez o problema se nos manifeste com maior clareza. Nós admitimos, antes de mais nada, que o filósofo conhece, na medida do possível, todas as coisas, embora não possua a ciência de cada uma delas por si.\n\n{{fonte:1}}\n\nNo texto da Metafísica, acima, Aristóteles esclarece que",
+  "fontes": [
+   "ARISTÓTELES. Metafísica. Porto Alegre: Editora Globo, 1973."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o saber filosófico é um saber pelo saber, isto é, um saber universal inerente à natureza humana."
+   },
+   {
+    "letra": "B",
+    "texto": "o saber filosófico é uma reflexão acrítica de todas as coisas."
+   },
+   {
+    "letra": "C",
+    "texto": "o saber filosófico é um tipo de sabedoria que não envolve o exercício da razão."
+   },
+   {
+    "letra": "D",
+    "texto": "o saber filosófico é a consciência de um simples sentimento de curiosidade sobre os princípios."
+   },
+   {
+    "letra": "E",
+    "texto": "o saber filosófico é uma ciência sem princípios filosóficos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.52572,
+     297.74276,
+     57.812076,
+     308.72276
+    ],
+    [
+     67.32,
+     303.86918,
+     530.0479480000002,
+     314.84918
+    ],
+    [
+     67.32,
+     316.52912,
+     529.9414226280002,
+     327.50912
+    ],
+    [
+     67.32,
+     329.12318,
+     530.0369640000002,
+     340.10318
+    ],
+    [
+     67.32,
+     341.78312,
+     529.9139880000004,
+     352.76312
+    ],
+    [
+     67.32,
+     354.44306,
+     97.29979200000001,
+     365.42306
+    ],
+    [
+     307.25736,
+     366.65551999999997,
+     529.9456440478798,
+     374.63552
+    ],
+    [
+     70.90902,
+     411.55046,
+     344.87209800000016,
+     422.53046
+    ],
+    [
+     70.90902,
+     436.87034,
+     516.4642440000001,
+     447.85034
+    ],
+    [
+     92.14434,
+     449.53027999999995,
+     134.913636,
+     460.51027999999997
+    ],
+    [
+     70.90902,
+     462.12433999999996,
+     386.3007360000002,
+     473.10434
+    ],
+    [
+     70.90902,
+     474.78427999999997,
+     478.5645780000003,
+     485.76428
+    ],
+    [
+     70.90902,
+     487.44422,
+     504.28741482072036,
+     498.42422
+    ],
+    [
+     92.14434,
+     500.10416,
+     142.3449,
+     511.08416
+    ],
+    [
+     70.90902,
+     512.7641,
+     373.91419800000034,
+     523.7441
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q043_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4141-Q044",
+  "prova_id": "P4141",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2016",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 44,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Sobre a dimensão político-social, atente ao texto a seguir:\n\n{{img:1}}\n\nOs seres humanos, escreveram Marx e Engels, distinguem-se dos animais não porque sejam dotados de consciência – animais racionais-, nem porque sejam naturalmente sociáveis e políticos – animais políticos -, mas porque são capazes de produzir as condições de sua existência material e intelectual.\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nA formulação das ideias de Karl Marx sobre a realidade social e política tem significância na forma de conceber um perspectivismo do homem num(a)",
+  "fontes": [
+   "CHAUÍ, Marilena. Convite à Filosofia. São Paulo: Ática, 1996, p. 412.",
+   "Disponível em: https://www.google.com.br/search"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "projeto individualista, na prática existencial."
+   },
+   {
+    "letra": "B",
+    "texto": "interpretação do ser intelectual do homem."
+   },
+   {
+    "letra": "C",
+    "texto": "análise do ser social do homem, na sua existência histórica."
+   },
+   {
+    "letra": "D",
+    "texto": "problematização histórica do homem apartado da análise social."
+   },
+   {
+    "letra": "E",
+    "texto": "crítica da existência material e intelectual, de forma sensitiva."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q044_img1.png",
+    "pagina": 30,
+    "bbox": [
+     49.2,
+     71.6,
+     289.6,
+     239.7
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   30
+  ],
+  "caixas": {
+   "30": [
+    [
+     42.54,
+     39.02918,
+     354.04699200000033,
+     50.009180000000015
+    ],
+    [
+     49.2,
+     71.63200000000006,
+     289.62,
+     239.692
+    ],
+    [
+     308.88,
+     74.84917999999993,
+     532.554678,
+     85.82917999999995
+    ],
+    [
+     308.88,
+     87.50911999999994,
+     532.623852,
+     98.48911999999996
+    ],
+    [
+     308.88,
+     100.16905999999994,
+     532.5349140000002,
+     111.14905999999996
+    ],
+    [
+     308.88,
+     112.82899999999995,
+     532.4393880000001,
+     123.80899999999997
+    ],
+    [
+     308.88,
+     125.42305999999996,
+     532.5415020000002,
+     136.40305999999998
+    ],
+    [
+     308.88,
+     138.08299999999997,
+     532.6315380000002,
+     149.063
+    ],
+    [
+     308.88,
+     150.74293999999998,
+     532.6348320000002,
+     161.72294
+    ],
+    [
+     308.88,
+     163.40287999999998,
+     412.92648002196,
+     174.38288
+    ],
+    [
+     314.22,
+     188.27618000000007,
+     532.4410800000004,
+     196.25617999999997
+    ],
+    [
+     508.02228,
+     197.4531800000001,
+     532.44028195212,
+     205.43318
+    ],
+    [
+     120.53826,
+     242.09318000000007,
+     298.40607602394005,
+     250.07317999999998
+    ],
+    [
+     42.54,
+     277.04906,
+     537.679806,
+     288.02906
+    ],
+    [
+     42.54,
+     289.709,
+     275.46862200000004,
+     300.689
+    ],
+    [
+     70.9233,
+     314.96299999999997,
+     303.74212200000005,
+     325.943
+    ],
+    [
+     70.9233,
+     327.62293999999997,
+     300.59415599999994,
+     338.60294
+    ],
+    [
+     70.9233,
+     340.28288,
+     385.04133600000023,
+     351.26288
+    ],
+    [
+     70.9233,
+     352.94282,
+     405.8308680000003,
+     363.92282
+    ],
+    [
+     70.9233,
+     365.60276,
+     391.10559000000023,
+     376.58276
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2016/PROVA-SSA2-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4139"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q044_p30.jpg"
+  ]
+ }
+]

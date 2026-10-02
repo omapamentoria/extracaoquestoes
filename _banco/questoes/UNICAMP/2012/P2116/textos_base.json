@@ -1,0 +1,490 @@
+[
+ {
+  "id": "P2116-T1",
+  "texto": "**TEXTO PARA AS QUESTÕES 6 E 7**\n\nUm carpinteiro foi contratado para construir uma cerca formada por ripas de madeira. As figuras abaixo apresentam uma vista parcial da cerca, bem como os detalhes das ligações entre as ripas, nos quais os parafusos são representados por círculos brancos. Note que cada ripa está presa à cerca por dois parafusos em cada extremidade.\n\n{{img:1}}",
+  "fontes": [],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T1_img1.png",
+    "pagina": 6,
+    "bbox": [
+     86.8,
+     160.6,
+     509.0,
+     294.5
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     28.32,
+     91.16999999999996,
+     182.17212,
+     101.13
+    ],
+    [
+     28.32,
+     114.45323999999994,
+     566.8771199999993,
+     124.41323999999997
+    ],
+    [
+     28.32,
+     126.09647999999993,
+     566.7874800000001,
+     136.05647999999997
+    ],
+    [
+     28.32000000000005,
+     137.62019999999995,
+     404.8279200000002,
+     147.5802
+    ],
+    [
+     86.8078766,
+     160.56,
+     509.04,
+     294.48
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   6,
+   7
+  ],
+  "questoes": [
+   "P2116-Q006",
+   "P2116-Q007"
+  ],
+  "recortes": [
+   "revisao/T1_p6.jpg"
+  ]
+ },
+ {
+  "id": "P2116-T2",
+  "texto": "**TEXTO PARA AS QUESTÕES 13, 14 E 15**\n\nEm setembro de 2010, Júpiter atingiu a menor distância da Terra em muitos anos. As figuras abaixo ilustram a situação de maior afastamento e a de maior aproximação dos planetas, considerando que suas órbitas são circulares, que o raio da órbita terrestre (R<sub>T</sub>) mede 1,5×10<sup>11</sup> m e que o raio da órbita de Júpiter (R<sub>J</sub>) equivale a 7,5×10<sup>11</sup> m.\n\n{{img:1}}\n\n{{img:2}}",
+  "fontes": [],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T2_img1.png",
+    "pagina": 8,
+    "bbox": [
+     122.4,
+     157.0,
+     280.1,
+     322.6
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/T2_img2.png",
+    "pagina": 8,
+    "bbox": [
+     316.1,
+     157.0,
+     473.0,
+     322.6
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     28.32,
+     91.16999999999996,
+     210.02028,
+     101.13
+    ],
+    [
+     28.32,
+     113.84999999999991,
+     566.87712,
+     123.80999999999995
+    ],
+    [
+     28.319999999999936,
+     125.4932399999999,
+     566.7874799999993,
+     135.45323999999994
+    ],
+    [
+     28.31999999999995,
+     137.7911999999999,
+     411.00564,
+     148.05263999999988
+    ],
+    [
+     122.4,
+     156.96,
+     280.08,
+     322.56
+    ],
+    [
+     316.08,
+     156.96,
+     473.04,
+     322.56
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   13,
+   15
+  ],
+  "questoes": [
+   "P2116-Q013",
+   "P2116-Q014",
+   "P2116-Q015"
+  ],
+  "recortes": [
+   "revisao/T2_p8.jpg"
+  ]
+ },
+ {
+  "id": "P2116-T3",
+  "texto": "**TEXTO PARA AS QUESTÕES 17 E 18**\n\nHemácias de um animal foram colocadas em meio de cultura em vários frascos com diferentes concentrações das substâncias A e B, marcadas com isótopo de hidrogênio. Dessa forma os pesquisadores puderam acompanhar a entrada dessas substâncias nas hemácias, como mostra o gráfico apresentado a seguir.\n\n{{img:1}}",
+  "fontes": [],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T3_img1.png",
+    "pagina": 9,
+    "bbox": [
+     322.9,
+     78.6,
+     559.9,
+     287.9
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     28.32,
+     542.1299999999999,
+     193.34724,
+     552.0899999999999
+    ],
+    [
+     28.32,
+     575.7299999999999,
+     279.71040000000005,
+     585.6899999999999
+    ],
+    [
+     28.32,
+     587.3732399999999,
+     279.8100000000001,
+     597.3332399999999
+    ],
+    [
+     28.32,
+     599.0164799999999,
+     279.8199600000002,
+     608.9764799999999
+    ],
+    [
+     28.32,
+     610.6597199999999,
+     279.9394800000001,
+     620.6197199999999
+    ],
+    [
+     28.32,
+     622.1834399999999,
+     279.80004000000014,
+     632.1434399999999
+    ],
+    [
+     28.32,
+     633.8266799999999,
+     219.34284000000005,
+     643.7866799999999
+    ],
+    [
+     322.8530121,
+     78.64753899999994,
+     559.8529358000001,
+     287.897478
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   17,
+   18
+  ],
+  "questoes": [
+   "P2116-Q017",
+   "P2116-Q018"
+  ],
+  "recortes": [
+   "revisao/T3_p9.jpg"
+  ]
+ },
+ {
+  "id": "P2116-T4",
+  "texto": "**TEXTO PARA AS QUESTÕES 26 E 27**\n\nAtualmente há um número cada vez maior de equipamentos elétricos portáteis e isto tem levado a grandes esforços no desenvolvimento de baterias com maior capacidade de carga, menor volume, menor peso, maior quantidade de ciclos e menor tempo de recarga, entre outras qualidades.",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     28.32,
+     80.24999999999989,
+     193.32732,
+     90.20999999999992
+    ],
+    [
+     28.32,
+     102.80999999999995,
+     279.84984,
+     112.76999999999998
+    ],
+    [
+     28.31004,
+     114.45323999999994,
+     279.9892800000001,
+     124.41323999999997
+    ],
+    [
+     28.310039999999987,
+     126.09647999999993,
+     279.77015999999986,
+     136.05647999999997
+    ],
+    [
+     28.310039999999987,
+     137.62019999999995,
+     279.84984000000003,
+     147.5802
+    ],
+    [
+     28.310039999999987,
+     149.26343999999995,
+     279.94944000000004,
+     159.22343999999998
+    ],
+    [
+     28.310039999999987,
+     160.90667999999994,
+     131.03748,
+     170.86667999999997
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   26,
+   27
+  ],
+  "questoes": [
+   "P2116-Q026",
+   "P2116-Q027"
+  ],
+  "recortes": [
+   "revisao/T4_p12.jpg"
+  ]
+ },
+ {
+  "id": "P2116-T5",
+  "texto": "**TEXTOS PARA QUESTÕES 28 E 29**\n\nApesar de todos os esforços para se encontrar fontes alternativas de energia, estima-se que em 2030 os combustíveis fósseis representarão cerca de 80% de toda a energia utilizada. Alguns combustíveis fósseis são: carvão, metano e petróleo, do qual a gasolina é um derivado.",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     315.36,
+     80.24999999999989,
+     470.28779999999995,
+     90.20999999999992
+    ],
+    [
+     315.36,
+     102.80999999999995,
+     567.0193200000001,
+     112.76999999999998
+    ],
+    [
+     315.36,
+     114.45323999999994,
+     566.8798800000001,
+     124.41323999999997
+    ],
+    [
+     315.36,
+     126.09647999999993,
+     566.9197200000001,
+     136.05647999999997
+    ],
+    [
+     315.36996000000005,
+     137.62019999999995,
+     567.01932,
+     147.5802
+    ],
+    [
+     315.36996000000005,
+     149.26343999999995,
+     566.8201200000002,
+     159.22343999999998
+    ],
+    [
+     315.36996000000005,
+     160.90667999999994,
+     354.7318800000001,
+     170.86667999999997
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   28,
+   29
+  ],
+  "questoes": [
+   "P2116-Q028",
+   "P2116-Q029"
+  ],
+  "recortes": [
+   "revisao/T5_p12.jpg"
+  ]
+ },
+ {
+  "id": "P2116-T6",
+  "texto": "**TEXTO PARA AS QUESTÕES 34 E 35**\n\n“O homem nasce livre, e por toda a parte encontra-se a ferros. O que se crê senhor dos demais não deixa de ser mais escravo do que eles. (...) A ordem social, porém, é um direito sagrado que serve de base a todos os outros. (...) Haverá sempre uma grande diferença entre subjugar uma multidão e reger uma sociedade. Sejam homens isolados, quantos possam ser submetidos sucessivamente a um só, e não verei nisso senão um senhor e escravos, de modo algum considerando-os um povo e seu chefe. Trata-se, caso se queira, de uma agregação, mas não de uma associação; nela não existe bem público, nem corpo político.”\n\n(Jean-Jacques Rousseau, *Do Contrato Social*. [1762]. São Paulo: Ed. Abril,\n\n{{fonte:1}}",
+  "fontes": [
+   "1973, p. 28,36.)"
+  ],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     28.32,
+     80.24999999999989,
+     193.34724,
+     90.20999999999992
+    ],
+    [
+     28.32,
+     103.41323999999997,
+     279.88968000000006,
+     113.37324000000001
+    ],
+    [
+     28.310040000000015,
+     115.05647999999997,
+     280.0092000000001,
+     125.01648
+    ],
+    [
+     28.310040000000015,
+     126.69971999999996,
+     279.87972,
+     136.65972
+    ],
+    [
+     28.310040000000015,
+     138.22343999999998,
+     279.8199600000002,
+     148.18344000000002
+    ],
+    [
+     28.310040000000015,
+     149.86667999999997,
+     279.86976000000027,
+     159.82668
+    ],
+    [
+     28.310040000000015,
+     161.50991999999997,
+     279.9096,
+     171.46992
+    ],
+    [
+     28.310040000000015,
+     173.15315999999996,
+     279.8697600000001,
+     183.11316
+    ],
+    [
+     28.310040000000015,
+     184.67687999999998,
+     279.8100000000001,
+     194.63688000000002
+    ],
+    [
+     28.310040000000015,
+     196.32011999999997,
+     279.90960000000007,
+     206.28012
+    ],
+    [
+     28.310040000000015,
+     207.96335999999997,
+     279.86976000000016,
+     217.92336
+    ],
+    [
+     28.310040000000015,
+     219.60659999999996,
+     279.8299200000002,
+     229.5666
+    ],
+    [
+     28.310040000000015,
+     231.13031999999998,
+     67.68192000000003,
+     241.09032000000002
+    ],
+    [
+     28.310040000000015,
+     254.41679999999997,
+     280.0386,
+     264.3768
+    ],
+    [
+     28.322280000000006,
+     265.65095999999994,
+     83.95908,
+     273.6909599999999
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   34,
+   35
+  ],
+  "questoes": [
+   "P2116-Q034",
+   "P2116-Q035"
+  ],
+  "recortes": [
+   "revisao/T6_p14.jpg"
+  ]
+ }
+]

@@ -1,0 +1,33 @@
+{
+ "_sobre": "Trechos que o código não consegue copiar do PDF (fórmulas em glifos-imagem, caracteres sem tradução, alternativas desenhadas). Transcrito pelo Claude lendo a imagem da página. Conferir.",
+ "Q108": {
+  "enunciado": "Tribologia é o estudo da interação entre duas superfícies em contato, como desgaste e atrito, sendo de extrema importância na avaliação de diferentes produtos e de bens de consumo em geral. Para testar a conformidade de uma muleta, realiza-se um ensaio tribológico, pressionando-a verticalmente contra o piso com uma força \\(\\vec{F}\\), conforme ilustra a imagem, em que **CM** representa o centro de massa da muleta.\n\n{{img:1}}\n\nMantendo-se a força \\(\\vec{F}\\) paralela à muleta, varia-se lentamente o ângulo entre a muleta e a vertical, até o máximo ângulo imediatamente anterior ao de escorregamento, denominado ângulo crítico. Esse ângulo também pode ser calculado a partir da identificação dos pontos de aplicação, da direção e do sentido das forças peso \\(\\left(\\vec{P}\\right)\\), normal \\(\\left(\\vec{N}\\right)\\) e de atrito estático \\(\\left(\\vec{f}_{e}\\right)\\).\n\nO esquema que representa corretamente todas as forças que atuam sobre a muleta quando ela atinge o ângulo crítico é:",
+  "nota": "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir; alternativas A–E são os esquemas recortados (conferidos)"
+ },
+ "Q111": {
+  "enunciado": "O manual de uma ducha elétrica informa que seus três níveis de aquecimento (morno, quente e superquente) apresentam as seguintes variações de temperatura da água em função de sua vazão:\n\n{{img:1}}\n\nUtiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas elétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pela corrente nominal igual ao múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia é dissipada através da resistência do chuveiro e convertida em energia térmica transferida para a água, que apresenta calor específico de 4,2 \\(\\frac{J}{g\\,°C}\\) e densidade de 1 000 \\(\\frac{g}{L}\\).\n\nO disjuntor adequado para a proteção dessa ducha é especificado por:",
+  "nota": "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir"
+ },
+ "Q150": {
+  "alternativas": {
+   "A": "\\(9 \\times \\frac{6!}{(6-2)!}\\)",
+   "B": "\\(9 \\times \\frac{6!}{(6-2)! \\times 2!}\\)",
+   "C": "\\(9 \\times \\frac{4!}{(4-2)! \\times 2!}\\)",
+   "D": "\\(9 \\times \\frac{2!}{(2-2)! \\times 2!}\\)",
+   "E": "\\(9 \\times \\left(\\frac{8!}{(8-2)! \\times 2!} - 1\\right)\\)"
+  },
+  "nota": "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir",
+  "enunciado": "Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos os seus apartamentos à venda. Os apartamentos são identificados por números formados por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento, e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar. Quanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes características, em função de seus números de identificação:\n\n• naqueles que finalizam em 1 ou 2, ambos os quartos recebem sol apenas na parte da manhã;\n\n• naqueles que finalizam em 3, 4, 5 ou 6, apenas um dos quartos recebe sol na parte da manhã;\n\n• naqueles que finalizam em 7 ou 8, ambos os quartos recebem sol apenas na parte da tarde.\n\nUma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas quer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã.\n\nDe quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos para compra nas condições desejadas?"
+ },
+ "Q175": {
+  "enunciado": "O funcionário de uma loja tem seu salário mensal formado por uma parcela fixa de 675 reais mais uma comissão que depende da quantidade de peças vendidas por ele no mês. O cálculo do valor dessa comissão é feito de acordo com estes critérios:\n\n• até a quinquagésima peça vendida, paga-se 5 reais por peça;  \n• a partir da quinquagésima primeira peça vendida, o valor pago é de 7 reais por peça.\n\nRepresente por *q* a quantidade de peças vendidas no mês por esse funcionário, e por *S*(*q*) o seu salário mensal, em real, nesse mês.\n\nA expressão algébrica que descreve *S*(*q*) em função de *q* é",
+  "alternativas": {
+   "A": "*S*(*q*) = 675 + 12*q*",
+   "B": "*S*(*q*) = 325 + 12*q*",
+   "C": "*S*(*q*) = 675 + 7*q*",
+   "D": "\\(S(q) = \\begin{cases} 625 + 5q, \\text{ se } q \\leq 50 \\\\ 925 + 7q, \\text{ se } q > 50 \\end{cases}\\)",
+   "E": "\\(S(q) = \\begin{cases} 625 + 5q, \\text{ se } q \\leq 50 \\\\ 575 + 7q, \\text{ se } q > 50 \\end{cases}\\)"
+  },
+  "nota": "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir"
+ }
+}
