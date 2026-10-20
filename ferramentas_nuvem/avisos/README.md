@@ -14,6 +14,10 @@ Todos recebem a pasta de trabalho `<av>` com `partes/` (cópia de `final/partes`
 | `gab_fix.py` | provas que usaram o gabarito da prova vizinha (FATEC 2º sem., USS, UNESP 2022) |
 | `note_adote.py`, `note_aplica.py` | separa o "Note e adote" das alternativas (FUVEST) |
 | `realinha.py` | realinha alternativas deslocadas pelo início de cada alternativa no PDF |
+| `localiza.py` | localizador por conteúdo: acha o bloco do gabarito/resolução oficial de qualquer prova da mesma marca (mesmo número + texto igual) |
+| `lingua.py` | questões 1–5 de inglês/espanhol: escolhe o bloco certo entre os dois de mesmo número |
+| `colunas_gab.py` | gabarito comentado que repete a questão inteira, lido por coluna |
+| `sas_v.py` | SAS: aceita o bloco quando a explicação "(V)" casa com o texto da alternativa (validado 333/333) |
 | `aplica.py` | aplica tudo nas partes e separa a quarentena |
 | `manual.py` | correções conferidas à mão e comentários a refazer |
 

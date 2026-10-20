@@ -37,6 +37,8 @@ def _casa(p):
     return tot and ok/tot>=0.5
 POLI={p:v for p,v in POLI.items() if _casa(p)}
 print("provas com gabarito comentado conferido:",sorted(POLI))
+RESOLV={int(k):v for k,v in (json.load(open(f"{S}/quar_resolvidas.json")).items() if os.path.exists(f"{S}/quar_resolvidas.json") else [])}
+GAB_MOT=("gabarito","simulado SAS")   # so motivo de gabarito pode ser resolvido pelo localizador
 log=[]; quar=[]; cont=collections.Counter(); por_id={}
 def novo_gab(q,g,origem):
     if g==q["gabarito"]: return
@@ -59,6 +61,9 @@ for f in sorted(glob.glob(S+"/partes/banco_parte_*.json")):
             wq=W(q["statement"]+" ".join(a["texto"] for a in q["alternativas"]))
             if bl and g and len(wq&W(bl))/max(1,len(wq))>=0.6: novo_gab(q,g,"gabarito comentado da prova")
             elif q["gabarito"]!=g: mot="gabarito não confirmado no gabarito comentado"
+        if mot and mot.startswith(GAB_MOT) and i in RESOLV and i not in QUAR_IDS:
+            novo_gab(q,RESOLV[i],"gabarito oficial localizado pelo conteúdo"); mot=None
+            if q["gabarito"]==RESOLV[i]: cont["confirmada pelo gabarito oficial"]+=1
         if mot:
             quar.append({**q,"_motivo_quarentena":mot}); cont["quarentena"]+=1; log.append((i,"quarentena",mot)); continue
         if str(i) in TROC["fix"]:
