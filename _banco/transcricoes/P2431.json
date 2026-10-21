@@ -1,0 +1,14 @@
+{
+ "_sobre": "Trechos que o código não consegue copiar do PDF (fórmulas em glifos-imagem, caracteres sem tradução, alternativas desenhadas). Transcrito pelo Claude lendo a imagem da página em 28/09/2026. Conferir.",
+ "Q104": {
+  "enunciado": "{{img:1}}\n\n{{fonte:1}}\n\nEm variados momentos de nossa vida, precisamos interpretar as diferentes linguagens dos sistemas de comunicação. O gráfico é um desses sistemas, que, no caso apresentado, indica que as habilidades associadas à inteligência humana variam de acordo com a idade. Considerando essa informação, constata-se que",
+  "alternativas": {
+   "A": "as habilidades verbal e de resolução de problemas destacam-se entre 40 e 60 anos.",
+   "B": "a habilidade numérica diminui consideravelmente entre 20 e 40 anos.",
+   "C": "a habilidade de resolução de problemas piora consideravelmente a partir dos 30 anos.",
+   "D": "as habilidades humanas, em geral, declinam consideravelmente a partir dos 40 anos.",
+   "E": "a habilidade numérica melhora muito na faixa etária entre 60 e 80 anos."
+  },
+  "nota": "texto conferido com a imagem da página. Removida a seta “←” solta: faz parte do gráfico (rótulo “← IDADE →”). Conferir se o recorte img:1 inclui o topo do gráfico com a seta e o rótulo IDADE."
+ }
+}

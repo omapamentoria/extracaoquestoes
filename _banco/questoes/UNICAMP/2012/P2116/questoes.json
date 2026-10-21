@@ -1,0 +1,8284 @@
+[
+ {
+  "id": "P2116-Q001",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 1,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em uma determinada região do planeta, a temperatura média anual subiu de 13,35 ºC em 1995 para 13,8 ºC em 2010. Seguindo a tendência de aumento linear observada entre 1995 e 2010, a temperatura média em 2012 deverá ser de",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "13,83 ºC."
+   },
+   {
+    "letra": "B",
+    "texto": "13,86 ºC."
+   },
+   {
+    "letra": "C",
+    "texto": "13,92 ºC."
+   },
+   {
+    "letra": "D",
+    "texto": "13,89 ºC."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     28.32,
+     80.24999999999989,
+     83.28924000000002,
+     90.20999999999992
+    ],
+    [
+     28.32,
+     102.80999999999995,
+     279.82992000000024,
+     112.76999999999998
+    ],
+    [
+     28.32,
+     114.45323999999994,
+     279.88968000000017,
+     124.41323999999997
+    ],
+    [
+     28.32,
+     126.09647999999993,
+     279.81996000000015,
+     136.05647999999997
+    ],
+    [
+     28.32,
+     137.62019999999995,
+     279.8000400000001,
+     147.5802
+    ],
+    [
+     28.32,
+     149.26343999999995,
+     53.807640000000006,
+     159.22343999999998
+    ],
+    [
+     28.319999999999997,
+     172.54991999999993,
+     87.11388000000001,
+     182.50991999999997
+    ],
+    [
+     28.310039999999994,
+     195.71687999999995,
+     87.11388,
+     205.67687999999998
+    ],
+    [
+     28.300079999999987,
+     219.00335999999993,
+     87.09396,
+     228.96335999999997
+    ],
+    [
+     28.30007999999998,
+     242.17031999999995,
+     87.09395999999998,
+     252.13031999999998
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p5.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q002",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 2,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nUm queijo tem o formato de paralelepípedo, com dimensões 20 cm x 8 cm x 5 cm. Sem descascar o queijo, uma pessoa o divide em cubos com 1 cm de aresta, de modo que alguns cubos ficam totalmente sem casca, outros permanecem com casca em apenas uma face, alguns com casca em duas faces e os restantes com casca em três faces. Nesse caso, o número de cubos que possuem casca em apenas uma face é igual a",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "360."
+   },
+   {
+    "letra": "B",
+    "texto": "344."
+   },
+   {
+    "letra": "C",
+    "texto": "324."
+   },
+   {
+    "letra": "D",
+    "texto": "368."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q002_img1.png",
+    "pagina": 5,
+    "bbox": [
+     66.2,
+     391.0,
+     242.6,
+     455.8
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     28.32,
+     265.04999999999995,
+     83.28924000000002,
+     275.01
+    ],
+    [
+     28.32,
+     288.21371999999997,
+     279.84984,
+     298.17372
+    ],
+    [
+     28.310039999999987,
+     299.85695999999996,
+     279.7402800000002,
+     309.81696
+    ],
+    [
+     28.310039999999987,
+     311.50019999999995,
+     279.8697600000001,
+     321.4602
+    ],
+    [
+     28.310039999999987,
+     323.14343999999994,
+     279.92951999999997,
+     333.10344
+    ],
+    [
+     28.310039999999987,
+     334.66715999999997,
+     279.95940000000024,
+     344.62716
+    ],
+    [
+     28.310039999999987,
+     346.31039999999996,
+     279.8000400000001,
+     356.2704
+    ],
+    [
+     28.310039999999987,
+     357.95363999999995,
+     279.8498400000001,
+     367.91364
+    ],
+    [
+     28.310039999999987,
+     369.59687999999994,
+     221.54400000000015,
+     379.55688
+    ],
+    [
+     66.24000000000001,
+     390.96000000000004,
+     242.64000000000001,
+     455.76
+    ],
+    [
+     28.31831999999997,
+     479.86031999999994,
+     65.63843999999997,
+     489.82032
+    ],
+    [
+     28.31831999999998,
+     503.02727999999996,
+     65.63843999999997,
+     512.98728
+    ],
+    [
+     28.31831999999998,
+     526.31376,
+     65.63843999999997,
+     536.27376
+    ],
+    [
+     28.31831999999998,
+     549.48072,
+     65.63843999999997,
+     559.44072
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p5.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q003",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 3,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O grêmio estudantil do Colégio Alvorada é composto por 6 alunos e 8 alunas. Na última reunião do grêmio, decidiu-se formar uma comissão de 3 rapazes e 5 moças para a organização das olimpíadas do colégio. De quantos modos diferentes pode-se formar essa comissão?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "6720."
+   },
+   {
+    "letra": "B",
+    "texto": "100800."
+   },
+   {
+    "letra": "C",
+    "texto": "806400."
+   },
+   {
+    "letra": "D",
+    "texto": "1120."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     28.32,
+     572.3699999999999,
+     83.29920000000001,
+     582.3299999999999
+    ],
+    [
+     28.32,
+     595.05,
+     279.88968,
+     605.01
+    ],
+    [
+     28.319999999999993,
+     606.69324,
+     279.7502400000002,
+     616.65324
+    ],
+    [
+     28.319999999999993,
+     618.21696,
+     279.88968000000006,
+     628.17696
+    ],
+    [
+     28.319999999999993,
+     629.8602,
+     279.8299200000002,
+     639.8201999999999
+    ],
+    [
+     28.319999999999993,
+     641.50344,
+     205.94664000000006,
+     651.46344
+    ],
+    [
+     28.319999999999993,
+     664.6704,
+     71.27748,
+     674.6303999999999
+    ],
+    [
+     28.32,
+     687.95688,
+     82.31316000000001,
+     697.9168799999999
+    ],
+    [
+     28.320000000000007,
+     711.1238399999999,
+     82.33308000000001,
+     721.0838399999999
+    ],
+    [
+     28.320000000000007,
+     734.41032,
+     71.27748,
+     744.3703199999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q003_p5.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q004",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 4,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nA área do triângulo OAB esboçado na figura abaixo é",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "21/4."
+   },
+   {
+    "letra": "B",
+    "texto": "23/4."
+   },
+   {
+    "letra": "C",
+    "texto": "25/4."
+   },
+   {
+    "letra": "D",
+    "texto": "27/4."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q004_img1.png",
+    "pagina": 5,
+    "bbox": [
+     350.6,
+     127.1,
+     532.1,
+     277.2
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     315.36,
+     80.24999999999989,
+     370.3392,
+     90.20999999999992
+    ],
+    [
+     315.36,
+     103.41323999999997,
+     543.0157200000001,
+     113.37324000000001
+    ],
+    [
+     350.64,
+     127.06996339999989,
+     532.08,
+     277.2
+    ],
+    [
+     315.36,
+     288.92999999999995,
+     355.45896000000005,
+     298.89
+    ],
+    [
+     315.36000000000007,
+     312.09695999999997,
+     355.4589600000001,
+     322.05696
+    ],
+    [
+     315.3600000000001,
+     335.38343999999995,
+     355.43904000000015,
+     345.34344
+    ],
+    [
+     315.3600000000002,
+     358.55039999999997,
+     355.4490000000002,
+     368.5104
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q004_p5.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q005",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 5,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nUm jogador de futebol chuta uma bola a 30 m do gol adversário. A bola descreve uma trajetória parabólica, passa por cima da trave e cai a uma distância de 40 m de sua posição original. Se, ao cruzar a linha do gol, a bola estava a 3 m do chão, a altura máxima por ela alcançada esteve entre",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "4,1 e 4,4 m."
+   },
+   {
+    "letra": "B",
+    "texto": "3,8 e 4,1 m."
+   },
+   {
+    "letra": "C",
+    "texto": "3,2 e 3,5 m."
+   },
+   {
+    "letra": "D",
+    "texto": "3,5 e 3,8 m."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q005_img1.png",
+    "pagina": 5,
+    "bbox": [
+     315.4,
+     494.6,
+     567.4,
+     627.8
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     315.36,
+     392.48999999999995,
+     370.3392,
+     402.45
+    ],
+    [
+     315.36,
+     415.16999999999996,
+     566.8798800000002,
+     425.13
+    ],
+    [
+     315.36,
+     426.69372,
+     566.9894400000003,
+     436.65372
+    ],
+    [
+     315.36,
+     438.33696,
+     566.7902400000003,
+     448.29696
+    ],
+    [
+     315.36,
+     449.98019999999997,
+     566.9296800000003,
+     459.9402
+    ],
+    [
+     315.36,
+     461.62343999999996,
+     566.8599600000002,
+     471.58344
+    ],
+    [
+     315.36,
+     473.14716,
+     367.13208000000003,
+     483.10716
+    ],
+    [
+     315.36,
+     494.64000000000004,
+     567.36,
+     627.84
+    ],
+    [
+     315.35015999999996,
+     651.8208,
+     385.41876,
+     661.7808
+    ],
+    [
+     315.35015999999996,
+     675.10728,
+     385.41876,
+     685.06728
+    ],
+    [
+     315.35015999999996,
+     698.27424,
+     385.41876,
+     708.2342399999999
+    ],
+    [
+     315.35015999999996,
+     721.56072,
+     385.41876,
+     731.5207199999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q005_p5.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q006",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 6,
+  "area": "",
+  "texto_base_id": "P2116-T1",
+  "textos_base_ids": [
+   "P2116-T1"
+  ],
+  "enunciado": "Para construir uma cerca com 300 m de comprimento, são necessários",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1201,5 m de ripas."
+   },
+   {
+    "letra": "B",
+    "texto": "1425,0 m de ripas."
+   },
+   {
+    "letra": "C",
+    "texto": "2403,0 m de ripas."
+   },
+   {
+    "letra": "D",
+    "texto": "712,5 m de ripas."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     28.32,
+     309.0899999999999,
+     83.29920000000001,
+     319.04999999999995
+    ],
+    [
+     28.32,
+     331.6499999999999,
+     279.7701600000001,
+     341.60999999999996
+    ],
+    [
+     28.32,
+     343.2932399999999,
+     75.97860000000001,
+     353.25323999999995
+    ],
+    [
+     28.320000000000007,
+     366.5797199999999,
+     126.82440000000008,
+     376.53971999999993
+    ],
+    [
+     28.310040000000015,
+     389.7466799999999,
+     126.81444000000008,
+     399.70667999999995
+    ],
+    [
+     28.30008000000001,
+     413.0331599999999,
+     126.80448000000007,
+     422.99315999999993
+    ],
+    [
+     28.29012,
+     436.2001199999999,
+     121.14720000000003,
+     446.16011999999995
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q006_p6.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q007",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 7,
+  "area": "",
+  "texto_base_id": "P2116-T1",
+  "textos_base_ids": [
+   "P2116-T1"
+  ],
+  "enunciado": "Os parafusos usados na cerca são vendidos em caixas com 60 unidades. O número mínimo de caixas necessárias para construir uma cerca com 100 m de comprimento é",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "13."
+   },
+   {
+    "letra": "B",
+    "texto": "12."
+   },
+   {
+    "letra": "C",
+    "texto": "15."
+   },
+   {
+    "letra": "D",
+    "texto": "14."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     28.32,
+     459.68999999999994,
+     83.29920000000001,
+     469.65
+    ],
+    [
+     28.32,
+     482.24999999999994,
+     279.8996399999999,
+     492.21
+    ],
+    [
+     28.32,
+     493.89323999999993,
+     279.9394800000002,
+     503.85323999999997
+    ],
+    [
+     28.32,
+     505.5364799999999,
+     244.8006,
+     515.49648
+    ],
+    [
+     28.319999999999993,
+     528.70344,
+     60.12228,
+     538.66344
+    ],
+    [
+     28.319999999999993,
+     551.98992,
+     60.12227999999999,
+     561.94992
+    ],
+    [
+     28.31999999999998,
+     575.15688,
+     60.12227999999998,
+     585.11688
+    ],
+    [
+     28.31999999999998,
+     598.44336,
+     60.122279999999975,
+     608.40336
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q007_p6.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q008",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 8,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As companhias aéreas costumam estabelecer um limite de peso para a bagagem de cada passageiro, cobrando uma taxa por quilograma de excesso de peso. Quando dois passageiros compartilham a bagagem, seus limites são considerados em conjunto.\n\nEm um determinado voo, tanto um casal como um senhor que viajava sozinho transportaram 60 kg de bagagem e foram obrigados a pagar pelo excesso de peso. O valor que o senhor pagou correspondeu a 3,5 vezes o valor pago pelo casal.\n\nPara determinar o peso excedente das bagagens do casal (x) e do senhor que viajava sozinho (y), bem como o limite de peso que um passageiro pode transportar sem pagar qualquer taxa (z), pode-se resolver o seguinte sistema linear:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "\\(\\begin{cases} x + 2z = 60 \\\\ y + z = 60 \\\\ 3{,}5x - y = 0 \\end{cases}\\)"
+   },
+   {
+    "letra": "B",
+    "texto": "\\(\\begin{cases} x + z = 60 \\\\ y + 2z = 60 \\\\ 3{,}5x - y = 0 \\end{cases}\\)"
+   },
+   {
+    "letra": "C",
+    "texto": "\\(\\begin{cases} x + 2z = 60 \\\\ y + z = 60 \\\\ 3{,}5x + y = 0 \\end{cases}\\)"
+   },
+   {
+    "letra": "D",
+    "texto": "\\(\\begin{cases} x + z = 60 \\\\ y + 2z = 60 \\\\ 3{,}5x + y = 0 \\end{cases}\\)"
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     28.32,
+     621.81,
+     83.28924000000002,
+     631.77
+    ],
+    [
+     28.32,
+     645.0932399999999,
+     279.8398800000002,
+     655.05324
+    ],
+    [
+     28.32,
+     656.7364799999999,
+     279.84984,
+     666.69648
+    ],
+    [
+     28.320000000000007,
+     668.2601999999999,
+     279.8199600000001,
+     678.2202
+    ],
+    [
+     28.320000000000007,
+     679.9034399999999,
+     279.90960000000007,
+     689.86344
+    ],
+    [
+     28.320000000000007,
+     691.5466799999999,
+     143.25839999999997,
+     701.50668
+    ],
+    [
+     28.32000000000002,
+     703.1899199999999,
+     279.71040000000016,
+     713.14992
+    ],
+    [
+     28.32000000000002,
+     714.7136399999999,
+     279.75024,
+     724.6736399999999
+    ],
+    [
+     28.32000000000002,
+     726.3568799999999,
+     279.8598000000002,
+     736.3168799999999
+    ],
+    [
+     28.32000000000002,
+     738.0001199999999,
+     279.8697600000002,
+     747.96012
+    ],
+    [
+     28.32000000000002,
+     749.6433599999999,
+     97.08384000000004,
+     759.60336
+    ],
+    [
+     28.32000000000002,
+     761.1670799999999,
+     279.8199600000002,
+     771.12708
+    ],
+    [
+     28.32000000000002,
+     772.8103199999999,
+     279.8797200000001,
+     782.77032
+    ],
+    [
+     28.32000000000002,
+     784.4535599999999,
+     279.8797200000001,
+     794.41356
+    ],
+    [
+     315.35724000000005,
+     308.8934399999998,
+     566.8671600000001,
+     318.85343999999986
+    ],
+    [
+     315.34728,
+     320.41715999999985,
+     341.39268000000004,
+     330.3771599999999
+    ],
+    [
+     388.73855700000007,
+     345.3622388,
+     441.3222090000001,
+     356.093602
+    ],
+    [
+     335.2545,
+     345.6625568,
+     356.7241570000001,
+     356.093602
+    ],
+    [
+     335.2545,
+     354.59201199999995,
+     340.196723,
+     364.60261199999997
+    ],
+    [
+     374.5121580000001,
+     360.3781388,
+     441.3222090000001,
+     372.11056199999996
+    ],
+    [
+     315.34728,
+     360.74519999999984,
+     340.196723,
+     372.11056199999996
+    ],
+    [
+     335.2545,
+     371.61003199999993,
+     340.196723,
+     381.62063199999994
+    ],
+    [
+     335.2545,
+     375.3940388,
+     378.9541560000001,
+     388.12752199999994
+    ],
+    [
+     415.66066650000005,
+     375.3940388,
+     441.3822360000001,
+     388.12752199999994
+    ],
+    [
+     393.740807,
+     403.35869999999994,
+     441.282191,
+     414.07869999999997
+    ],
+    [
+     335.2545,
+     403.65869999999995,
+     356.71415250000007,
+     414.07869999999997
+    ],
+    [
+     335.2545,
+     412.57869999999997,
+     340.196723,
+     422.57869999999997
+    ],
+    [
+     374.5021535,
+     418.35869999999994,
+     441.282191,
+     430.07869999999997
+    ],
+    [
+     315.36,
+     418.6499999999999,
+     340.196723,
+     430.07869999999997
+    ],
+    [
+     335.2545,
+     429.57869999999997,
+     340.196723,
+     439.57869999999997
+    ],
+    [
+     335.2545,
+     433.35869999999994,
+     378.95415600000007,
+     446.07869999999997
+    ],
+    [
+     415.630653,
+     433.35869999999994,
+     441.35222250000004,
+     446.07869999999997
+    ],
+    [
+     388.3184786000001,
+     461.41213880000004,
+     440.34725319999995,
+     472.143502
+    ],
+    [
+     335.2529,
+     461.71344999999997,
+     356.6657643999999,
+     472.143502
+    ],
+    [
+     335.2529,
+     470.641912,
+     340.1906276,
+     480.652512
+    ],
+    [
+     374.0977419999999,
+     476.4280388,
+     440.34725319999995,
+     488.160462
+    ],
+    [
+     315.36,
+     476.7299999999999,
+     340.1906276,
+     488.160462
+    ],
+    [
+     335.2529,
+     487.65993199999997,
+     340.1906276,
+     497.670532
+    ],
+    [
+     335.2529,
+     491.4439388,
+     378.5429774000001,
+     504.177422
+    ],
+    [
+     414.71633,
+     491.4439388,
+     440.4145034000001,
+     504.177422
+    ],
+    [
+     393.87086550000004,
+     519.3621388,
+     441.41224950000003,
+     530.093502
+    ],
+    [
+     335.2545,
+     519.6624568,
+     356.7241570000001,
+     530.093502
+    ],
+    [
+     335.2545,
+     528.591912,
+     340.196723,
+     538.6025119999999
+    ],
+    [
+     374.63221200000004,
+     534.3780388,
+     441.41224950000003,
+     546.110462
+    ],
+    [
+     315.36,
+     534.6899999999999,
+     340.196723,
+     546.110462
+    ],
+    [
+     335.2545,
+     545.609932,
+     340.196723,
+     555.6205319999999
+    ],
+    [
+     335.2545,
+     549.3939388,
+     379.0842145000001,
+     562.127422
+    ],
+    [
+     415.7607115,
+     549.3939388,
+     441.48228100000006,
+     562.127422
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [
+   "texto transcrito lendo a imagem da página (caracteres que o PDF não traduz) — conferir. Sistemas (chaves) digitados a partir da imagem. Removido {{img:1}}: o recorte (treliça da cerca, 1,5 m × 2 m) pertence às questões 6 e 7, não à questão 8."
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q008_p6.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q009",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 9,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um vulcão que entrou em erupção gerou uma nuvem de cinzas que atingiu rapidamente a cidade de Rio Grande, a\n\n40 km de distância. Os voos com destino a cidades situadas em uma região circular com centro no vulcão e com raio 25% maior que a distância entre o vulcão e Rio Grande foram cancelados. Nesse caso, a área da região que deixou de receber voos é",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "maior que 10000 km<sup>2</sup>."
+   },
+   {
+    "letra": "B",
+    "texto": "menor que 8000 km<sup>2</sup>."
+   },
+   {
+    "letra": "C",
+    "texto": "maior que 8000 km<sup>2</sup> e menor que 9000 km<sup>2</sup>."
+   },
+   {
+    "letra": "D",
+    "texto": "maior que 9000 km<sup>2</sup> e menor que 10000 km<sup>2</sup>."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     315.36,
+     587.01,
+     370.3392,
+     596.97
+    ],
+    [
+     315.36,
+     609.6899999999999,
+     566.8599600000001,
+     619.65
+    ],
+    [
+     315.36,
+     621.3332399999999,
+     566.8599600000001,
+     631.29324
+    ],
+    [
+     332.99916,
+     632.85696,
+     566.8998000000003,
+     642.81696
+    ],
+    [
+     315.36,
+     644.5002,
+     566.9197200000002,
+     654.4602
+    ],
+    [
+     315.36,
+     656.1434399999999,
+     566.8002000000002,
+     666.10344
+    ],
+    [
+     315.36,
+     667.7866799999999,
+     566.9994000000003,
+     677.74668
+    ],
+    [
+     315.36,
+     679.3104,
+     440.31816000000003,
+     689.2703999999999
+    ],
+    [
+     315.36,
+     702.5699999999999,
+     429.36888000000005,
+     712.5568799999999
+    ],
+    [
+     315.35676,
+     725.73,
+     427.20888,
+     735.69696
+    ],
+    [
+     315.35808,
+     749.01,
+     525.48888,
+     758.9764799999999
+    ],
+    [
+     315.36276,
+     772.17,
+     531.12888,
+     782.1369599999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q009_p6.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q010",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 10,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Para construir uma curva “floco de neve”, divide-se um segmento de reta (Figura 1) em três partes iguais. Em seguida, o segmento central sofre uma rotação de 60º, e acrescenta-se um novo segmento de mesmo comprimento dos demais, como o que aparece tracejado na Figura 2. Nas etapas seguintes, o mesmo procedimento é aplicado a cada segmento da linha poligonal, como está ilustrado nas Figuras 3 e 4.\n\n{{img:1}}\n\nSe o segmento inicial mede 1 cm, o comprimento da curva obtida na sexta figura é igual a",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "\\(\\left(\\frac{6!}{4!\\,3!}\\right)\\) cm."
+   },
+   {
+    "letra": "B",
+    "texto": "\\(\\left(\\frac{5!}{4!\\,3!}\\right)\\) cm."
+   },
+   {
+    "letra": "C",
+    "texto": "\\(\\left(\\frac{4}{3}\\right)^{5}\\) cm."
+   },
+   {
+    "letra": "D",
+    "texto": "\\(\\left(\\frac{4}{3}\\right)^{6}\\) cm."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q010_img1.png",
+    "pagina": 7,
+    "bbox": [
+     59.0,
+     210.2,
+     249.1,
+     404.6
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     28.32,
+     80.24999999999989,
+     88.81704000000002,
+     90.20999999999992
+    ],
+    [
+     28.32,
+     102.80999999999995,
+     279.96936,
+     112.76999999999998
+    ],
+    [
+     28.319999999999965,
+     114.45323999999994,
+     279.77016,
+     124.41323999999997
+    ],
+    [
+     28.319999999999965,
+     126.09647999999993,
+     279.91956,
+     136.05647999999997
+    ],
+    [
+     28.319999999999965,
+     137.62019999999995,
+     279.78011999999995,
+     147.5802
+    ],
+    [
+     28.319999999999972,
+     149.26343999999995,
+     279.8199600000002,
+     159.22343999999998
+    ],
+    [
+     28.319999999999972,
+     160.90667999999994,
+     279.86976,
+     170.86667999999997
+    ],
+    [
+     28.319999999999965,
+     172.54991999999993,
+     279.91956,
+     182.50991999999997
+    ],
+    [
+     28.319999999999965,
+     184.07363999999995,
+     85.44059999999999,
+     194.03364
+    ],
+    [
+     59.04,
+     210.24,
+     249.12,
+     404.64
+    ],
+    [
+     28.32,
+     426.56999999999994,
+     279.82992000000013,
+     436.53
+    ],
+    [
+     28.32,
+     438.2132399999999,
+     159.8617199999999,
+     448.17323999999996
+    ],
+    [
+     47.886336400000005,
+     473.33619999999985,
+     75.8726096,
+     483.3361999999999
+    ],
+    [
+     28.32,
+     479.7461999999999,
+     93.59544,
+     490.65
+    ],
+    [
+     47.886336400000005,
+     484.6161999999999,
+     75.8726096,
+     494.61619999999994
+    ],
+    [
+     47.886336400000005,
+     491.02619999999985,
+     75.8726096,
+     501.0261999999999
+    ],
+    [
+     47.890076799999996,
+     517.3861999999999,
+     75.9662096,
+     527.3861999999999
+    ],
+    [
+     28.32,
+     523.7961999999999,
+     93.59544,
+     534.6899999999999
+    ],
+    [
+     47.890076799999996,
+     528.6661999999999,
+     75.9662096,
+     538.6661999999999
+    ],
+    [
+     47.890076799999996,
+     535.0761999999999,
+     75.9662096,
+     545.0762
+    ],
+    [
+     47.8875,
+     563.914369,
+     69.6582,
+     573.883069
+    ],
+    [
+     28.32,
+     569.25245187616,
+     86.7678,
+     580.2730056999999
+    ],
+    [
+     47.8875,
+     578.5583893,
+     65.25750000000001,
+     588.5270893
+    ],
+    [
+     47.8875,
+     606.8545002999999,
+     69.752,
+     616.8232002999999
+    ],
+    [
+     28.32,
+     612.21097105792,
+     86.7678,
+     623.213137
+    ],
+    [
+     47.8875,
+     621.4985205999999,
+     65.25750000000001,
+     631.4672206
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [
+   "texto transcrito lendo a imagem da página (caracteres que o PDF não traduz) — conferir. Parênteses grandes e expoentes 5 e 6 das alternativas lidos da imagem."
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q010_p7.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q011",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 11,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O transporte fluvial de cargas é pouco explorado no Brasil, considerando-se nosso vasto conjunto de rios navegáveis. Uma embarcação navega a uma velocidade de 26 nós, medida em relação à água do rio (use 1 nó = 0,5 m/s). A correnteza do rio, por sua vez, tem velocidade aproximadamente constante de 5,0 m/s em relação às margens. Qual é o tempo aproximado de viagem entre duas cidades separadas por uma extensão de 40 km de rio, se o barco navega rio acima, ou seja, contra a correnteza?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "2 horas e 13 minutos."
+   },
+   {
+    "letra": "B",
+    "texto": "1 hora e 23 minutos."
+   },
+   {
+    "letra": "C",
+    "texto": "51 minutos."
+   },
+   {
+    "letra": "D",
+    "texto": "37 minutos."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     315.36,
+     80.24999999999989,
+     375.867,
+     90.20999999999992
+    ],
+    [
+     315.36,
+     102.80999999999995,
+     566.8002000000001,
+     112.76999999999998
+    ],
+    [
+     315.36,
+     114.45323999999994,
+     566.8898399999999,
+     124.41323999999997
+    ],
+    [
+     315.36996,
+     126.09647999999993,
+     566.8599600000001,
+     136.05647999999997
+    ],
+    [
+     315.36996,
+     137.62019999999995,
+     566.9097599999999,
+     147.5802
+    ],
+    [
+     315.35003999999986,
+     149.26343999999995,
+     566.87988,
+     159.22343999999998
+    ],
+    [
+     315.35003999999986,
+     160.90667999999994,
+     566.8400399999999,
+     170.86667999999997
+    ],
+    [
+     315.35003999999986,
+     172.54991999999993,
+     566.87988,
+     182.50991999999997
+    ],
+    [
+     315.35003999999986,
+     184.07363999999995,
+     566.8699199999999,
+     194.03364
+    ],
+    [
+     315.35003999999986,
+     195.71687999999995,
+     566.82012,
+     205.67687999999998
+    ],
+    [
+     315.35003999999986,
+     207.36011999999994,
+     365.43887999999987,
+     217.32011999999997
+    ],
+    [
+     315.35003999999986,
+     242.17031999999995,
+     422.7387599999999,
+     252.13031999999998
+    ],
+    [
+     315.3500399999998,
+     265.44683999999995,
+     418.8742799999999,
+     275.40684
+    ],
+    [
+     315.34007999999983,
+     288.60384,
+     380.48843999999985,
+     298.56384
+    ],
+    [
+     315.3500399999998,
+     311.88036,
+     380.50835999999987,
+     321.84036000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q011_p7.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q012",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 12,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As eclusas permitem que as embarcações façam a transposição dos desníveis causados pelas barragens. Além de ser uma monumental obra de engenharia hidráulica, a eclusa tem um funcionamento simples e econômico. Ela nada mais é do que um elevador de águas que serve para subir e descer as embarcações. A eclusa de Barra Bonita, no rio Tietê, tem um desnível de aproximadamente 25 m. Qual é o aumento da energia potencial gravitacional\n\nquando uma embarcação de massa *m* = 1*,*2×10<sup>4</sup> kg é\n\nelevada na eclusa?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "4,8 x 10<sup>2</sup> J."
+   },
+   {
+    "letra": "B",
+    "texto": "1,2 x 10<sup>5</sup> J."
+   },
+   {
+    "letra": "C",
+    "texto": "3,0 x 10<sup>5</sup> J."
+   },
+   {
+    "letra": "D",
+    "texto": "3,0 x 10<sup>6</sup> J."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     315.36,
+     346.2899999999999,
+     375.867,
+     356.24999999999994
+    ],
+    [
+     315.36,
+     371.9699999999999,
+     566.88984,
+     381.92999999999995
+    ],
+    [
+     315.36,
+     383.49371999999994,
+     566.9595600000001,
+     393.45372
+    ],
+    [
+     315.36,
+     395.13695999999993,
+     566.7802800000002,
+     405.09695999999997
+    ],
+    [
+     315.36,
+     406.7801999999999,
+     566.8998000000001,
+     416.74019999999996
+    ],
+    [
+     315.36,
+     418.4234399999999,
+     566.9695200000001,
+     428.38343999999995
+    ],
+    [
+     315.36,
+     429.94715999999994,
+     567.0093600000002,
+     439.90716
+    ],
+    [
+     315.36,
+     441.59039999999993,
+     566.85996,
+     451.55039999999997
+    ],
+    [
+     315.36,
+     453.2336399999999,
+     566.9097600000002,
+     463.19363999999996
+    ],
+    [
+     315.36,
+     466.55999999999995,
+     566.94348,
+     477.42999999999995
+    ],
+    [
+     315.36384,
+     480.81359999999995,
+     394.73508000000004,
+     490.7736
+    ],
+    [
+     315.36384,
+     515.6099999999999,
+     376.68432,
+     525.5838
+    ],
+    [
+     315.35064,
+     538.88652,
+     376.68432,
+     548.8499999999999
+    ],
+    [
+     315.35064,
+     562.0469999999999,
+     376.68432,
+     572.01
+    ],
+    [
+     315.35064,
+     585.32652,
+     376.68432,
+     595.29
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q012_p7.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q013",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 13,
+  "area": "",
+  "texto_base_id": "P2116-T2",
+  "textos_base_ids": [
+   "P2116-T2"
+  ],
+  "enunciado": "A força gravitacional entre dois corpos de massas *m*<sub>1</sub> e *m*<sub>2</sub>\n\ntem módulo *F* = *G* \\(\\frac{m_{1}m_{2}}{r^{2}}\\) , em que *r* é a distância entre eles\n\ne *G* = 6*,*7×10<sup>−</sup><sup>11</sup> \\(\\frac{Nm^{2}}{kg^{2}}\\)*.* Sabendo que a massa de Júpiter é\n\n*m<sub>J</sub>* = 2*,*0×10<sup>27</sup> kg e que a massa da Terra é\n\n*m<sub>T</sub>* = 6*,*0×10<sup>24</sup> kg , o módulo da força gravitacional entre Júpiter e a Terra no momento de maior proximidade é",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1,4×10<sup>18</sup> N ."
+   },
+   {
+    "letra": "B",
+    "texto": "2*,*2×10<sup>18</sup> N ."
+   },
+   {
+    "letra": "C",
+    "texto": "3*,*5×10<sup>19</sup> N ."
+   },
+   {
+    "letra": "D",
+    "texto": "1*,*3×10<sup>30</sup> N ."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     28.32,
+     329.49,
+     88.81704000000002,
+     339.45
+    ],
+    [
+     28.32,
+     353.36567999999994,
+     277.79155000000003,
+     363.62999999999994
+    ],
+    [
+     28.32287999999997,
+     374.559465625,
+     279.92676,
+     385.72989999999993
+    ],
+    [
+     28.31808000000001,
+     402.55999999999995,
+     279.90683999999993,
+     413.62499999999994
+    ],
+    [
+     30.205,
+     426.850014,
+     279.88248000000004,
+     437.6859909
+    ],
+    [
+     30.205,
+     442.800014,
+     279.9204,
+     453.63599089999997
+    ],
+    [
+     28.321200000000005,
+     456.92639999999994,
+     247.43244000000016,
+     466.40639999999996
+    ],
+    [
+     28.32,
+     481.45989999999995,
+     101.40888,
+     492.32989999999995
+    ],
+    [
+     28.32,
+     505.70989999999995,
+     103.44888,
+     516.5799
+    ],
+    [
+     28.32,
+     530.0599,
+     102.36887999999999,
+     540.9299
+    ],
+    [
+     28.32,
+     550.8099,
+     101.40888,
+     561.6799
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q013_p8.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q014",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 14,
+  "area": "",
+  "texto_base_id": "P2116-T2",
+  "textos_base_ids": [
+   "P2116-T2"
+  ],
+  "enunciado": "De acordo com a terceira lei de Kepler, o período de revolução e o raio da órbita desses planetas em torno do Sol obedecem à relação \\(\\left(\\frac{T_J}{T_T}\\right)^{2} = \\left(\\frac{R_J}{R_T}\\right)^{3}\\), em que \\(T_J\\) e \\(T_T\\) são os períodos de Júpiter e da Terra, respectivamente. Considerando as órbitas circulares representadas na figura, o valor de \\(T_J\\) em anos terrestres é mais próximo de",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "0,1."
+   },
+   {
+    "letra": "B",
+    "texto": "5."
+   },
+   {
+    "letra": "C",
+    "texto": "12."
+   },
+   {
+    "letra": "D",
+    "texto": "125."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     28.32,
+     575.3699999999999,
+     88.81704000000002,
+     585.3299999999999
+    ],
+    [
+     28.32,
+     597.9341999999999,
+     279.9097200000003,
+     607.4141999999999
+    ],
+    [
+     28.32,
+     608.9784,
+     279.90972,
+     618.4584
+    ],
+    [
+     117.03750000000001,
+     624.7237,
+     182.5875206,
+     634.7237
+    ],
+    [
+     28.319999999999993,
+     631.5599,
+     279.82631999999995,
+     643.7286999999999
+    ],
+    [
+     117.0412,
+     642.2286999999999,
+     179.5612,
+     652.2286999999999
+    ],
+    [
+     28.31244000000001,
+     654.9323999999999,
+     279.96852,
+     664.4123999999999
+    ],
+    [
+     28.31244000000001,
+     665.9766,
+     279.81684,
+     675.4566
+    ],
+    [
+     28.31243999999998,
+     678.4499999999999,
+     229.24584000000002,
+     688.7298999999999
+    ],
+    [
+     28.32,
+     703.17,
+     59.046600000000005,
+     713.13
+    ],
+    [
+     28.32,
+     725.8499999999999,
+     50.75988000000001,
+     735.81
+    ],
+    [
+     28.32,
+     748.41,
+     56.28768,
+     758.3699999999999
+    ],
+    [
+     28.32996,
+     771.69648,
+     61.80552000000001,
+     781.65648
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [
+   "texto transcrito lendo a imagem da página (caracteres que o PDF não traduz) — conferir. Relação de Kepler (parênteses e expoentes 2 e 3) lida da imagem. Atenção: o enunciado cita “desses planetas” e “a figura” — o texto-base/figura comum (órbitas de Júpiter e Terra, com medidas dos raios?) não aparece no recorte desta questão; a figura visível na página está na questão 15 e não traz valores numéricos dos raios — conferir se há texto introdutório compartilhado antes da questão 14."
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q014_p8.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q015",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 15,
+  "area": "",
+  "texto_base_id": "P2116-T2",
+  "textos_base_ids": [
+   "P2116-T2"
+  ],
+  "enunciado": "{{img:1}}\n\nQuando o segmento de reta que liga Júpiter ao Sol faz um ângulo de 120º com o segmento de reta que liga a Terra ao Sol, a distância entre os dois planetas é de",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "\\(\\sqrt{R_J^{2} + R_T^{2} - R_J R_T \\sqrt{3}}\\)."
+   },
+   {
+    "letra": "B",
+    "texto": "\\(\\sqrt{R_J^{2} + R_T^{2} + R_J R_T \\sqrt{3}}\\)."
+   },
+   {
+    "letra": "C",
+    "texto": "\\(\\sqrt{R_J^{2} + R_T^{2} - R_J R_T}\\)."
+   },
+   {
+    "letra": "D",
+    "texto": "\\(\\sqrt{R_J^{2} + R_T^{2} + R_J R_T}\\)."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q015_img1.png",
+    "pagina": 8,
+    "bbox": [
+     315.4,
+     395.3,
+     519.8,
+     683.3
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     315.36,
+     329.49,
+     375.85704,
+     339.45
+    ],
+    [
+     315.36,
+     352.04999999999995,
+     566.8101600000001,
+     362.01
+    ],
+    [
+     315.36,
+     363.69323999999995,
+     566.9496000000001,
+     373.65324
+    ],
+    [
+     315.36,
+     375.33647999999994,
+     508.50432000000006,
+     385.29648
+    ],
+    [
+     362.88,
+     395.28000000000003,
+     519.84,
+     547.9200000000001
+    ],
+    [
+     315.36,
+     570.24,
+     420.95544,
+     587.52
+    ],
+    [
+     315.36,
+     602.64,
+     420.95544,
+     619.2
+    ],
+    [
+     315.36,
+     635.0400000000001,
+     407.03544,
+     651.6
+    ],
+    [
+     315.36,
+     666.72,
+     407.99544000000003,
+     683.28
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [
+   "texto transcrito lendo a imagem da página (caracteres que o PDF não traduz) — conferir. Alternativas eram imagens (img:2–5) e foram digitadas; figura movida para depois do texto, conforme a página. O recorte img:1 inclui no rodapé o início do radical da alternativa a — recortar novamente só a figura."
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q015_p8.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q016",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 16,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A figura abaixo mostra um espelho retrovisor plano na lateral esquerda de um carro. O espelho está disposto verticalmente e a altura do seu centro coincide com a altura dos olhos do motorista. Os pontos da figura pertencem a um plano horizontal que passa pelo centro do espelho. Nesse caso, os pontos que podem ser vistos pelo motorista são:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1, 4, 5 e 9."
+   },
+   {
+    "letra": "B",
+    "texto": "4, 7, 8 e 9."
+   },
+   {
+    "letra": "C",
+    "texto": "1, 2, 5 e 9."
+   },
+   {
+    "letra": "D",
+    "texto": "2, 5, 6 e 9.\n\n{{img:1}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q016_img1.png",
+    "pagina": 9,
+    "bbox": [
+     30.9,
+     289.2,
+     284.3,
+     505.6
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     28.32,
+     80.24999999999989,
+     88.81704000000002,
+     90.20999999999992
+    ],
+    [
+     28.32,
+     105.68999999999994,
+     279.73032,
+     115.64999999999998
+    ],
+    [
+     28.320000000000007,
+     117.33323999999993,
+     279.8100000000001,
+     127.29323999999997
+    ],
+    [
+     28.320000000000007,
+     128.97647999999992,
+     279.83988,
+     138.93647999999996
+    ],
+    [
+     28.320000000000007,
+     140.61971999999992,
+     279.82992000000013,
+     150.57971999999995
+    ],
+    [
+     28.320000000000007,
+     152.14343999999994,
+     279.96936,
+     162.10343999999998
+    ],
+    [
+     28.319999999999993,
+     163.78667999999993,
+     279.98928,
+     173.74667999999997
+    ],
+    [
+     28.319999999999986,
+     175.42991999999992,
+     109.91232000000002,
+     185.38991999999996
+    ],
+    [
+     28.319999999999993,
+     198.59687999999994,
+     89.03616000000001,
+     208.55687999999998
+    ],
+    [
+     28.329959999999993,
+     221.88335999999993,
+     89.03616,
+     231.84335999999996
+    ],
+    [
+     28.32,
+     245.05031999999994,
+     89.03616000000001,
+     255.01031999999998
+    ],
+    [
+     28.32,
+     268.16999999999996,
+     86.72627999999999,
+     277.65
+    ],
+    [
+     30.8980103,
+     289.2430591,
+     284.2979279,
+     505.6430225
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q016_p9.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q017",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 17,
+  "area": "",
+  "texto_base_id": "P2116-T3",
+  "textos_base_ids": [
+   "P2116-T3"
+  ],
+  "enunciado": "Assinale a alternativa correta.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A substância **A** difunde-se livremente através da membrana; já a substância **B** entra na célula por um transportador que, ao se saturar, mantém constante a velocidade de transporte através da membrana."
+   },
+   {
+    "letra": "B",
+    "texto": "As substâncias **A** e **B** atravessam a membrana da mesma forma, porém a substância **B** deixa de entrar na célula a partir da concentração de 2mg/mL."
+   },
+   {
+    "letra": "C",
+    "texto": "A quantidade da substância **A** que entra na célula é diretamente proporcional a sua concentração no meio extracelular, e a de **B**, inversamente proporcional."
+   },
+   {
+    "letra": "D",
+    "texto": "As duas substâncias penetram na célula livremente, por um mecanismo de difusão facilitada, porém a entrada da substância **A** ocorre por transporte ativo, como indica sua representação linear no gráfico."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     315.36,
+     303.44999999999993,
+     375.867,
+     313.40999999999997
+    ],
+    [
+     315.36,
+     326.01419999999996,
+     434.04012000000006,
+     335.4941999999999
+    ],
+    [
+     315.36,
+     348.3299999999999,
+     566.8998000000001,
+     358.28999999999996
+    ],
+    [
+     329.51316,
+     360.2122799999999,
+     566.8798800000002,
+     370.17227999999994
+    ],
+    [
+     329.5131600000001,
+     371.8555199999999,
+     566.7006000000001,
+     381.81551999999994
+    ],
+    [
+     329.5131600000001,
+     383.4987599999999,
+     532.1493600000002,
+     393.4587599999999
+    ],
+    [
+     315.36000000000007,
+     406.9047599999999,
+     566.8101600000002,
+     416.86475999999993
+    ],
+    [
+     329.52312000000006,
+     418.7870399999999,
+     566.8002000000001,
+     428.7470399999999
+    ],
+    [
+     329.52312000000006,
+     430.43027999999987,
+     514.4106,
+     440.3902799999999
+    ],
+    [
+     315.36,
+     453.8362799999999,
+     566.9496,
+     463.7962799999999
+    ],
+    [
+     329.53308,
+     465.47951999999987,
+     566.8002,
+     475.4395199999999
+    ],
+    [
+     329.54304,
+     477.36179999999985,
+     540.48588,
+     487.3217999999999
+    ],
+    [
+     315.38988000000006,
+     500.52875999999986,
+     566.8500000000001,
+     510.4887599999999
+    ],
+    [
+     329.53308000000015,
+     512.1719999999998,
+     566.8300800000003,
+     522.1319999999998
+    ],
+    [
+     329.5330800000002,
+     524.0542799999998,
+     566.8998000000003,
+     534.0142799999999
+    ],
+    [
+     329.53308000000015,
+     535.5779999999999,
+     509.39076000000017,
+     545.5379999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q017_p9.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q018",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 18,
+  "area": "",
+  "texto_base_id": "P2116-T3",
+  "textos_base_ids": [
+   "P2116-T3"
+  ],
+  "enunciado": "Seja x a concentração de substância B no meio extracelular e y a velocidade de transporte. Observando-se o formato da curva B e os valores de x e y em determinados pontos, podemos concluir que a função que melhor relaciona essas duas grandezas é",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "y = \\(\\frac{4\\,+\\,log_{2}\\,(x)}{2}\\) ."
+   },
+   {
+    "letra": "B",
+    "texto": "y = 1− log<sub>2</sub>(x +1) ."
+   },
+   {
+    "letra": "C",
+    "texto": "y = \\(\\frac{8}{3}\\) (1− 2<sup>−</sup><sup>2x</sup>)."
+   },
+   {
+    "letra": "D",
+    "texto": "y = 3<sup>x</sup> − 1."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     315.36,
+     558.4499999999999,
+     375.867,
+     568.41
+    ],
+    [
+     315.36,
+     581.1299999999999,
+     566.7902400000002,
+     591.0899999999999
+    ],
+    [
+     315.36,
+     592.77324,
+     566.9994,
+     602.73324
+    ],
+    [
+     315.36,
+     604.2969599999999,
+     566.8201200000001,
+     614.2569599999999
+    ],
+    [
+     315.36,
+     615.9402,
+     566.8599600000002,
+     625.9001999999999
+    ],
+    [
+     315.36,
+     627.5834399999999,
+     413.5656000000001,
+     637.5434399999999
+    ],
+    [
+     315.36,
+     658.2595375,
+     404.04888,
+     668.7648999999999
+    ],
+    [
+     315.36,
+     687.8099,
+     409.08888,
+     698.1098999999999
+    ],
+    [
+     315.36,
+     717.85965,
+     403.08888,
+     728.3598999999999
+    ],
+    [
+     315.36,
+     750.322268,
+     380.16888,
+     760.65255
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q018_p9.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q019",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 19,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A pressão parcial do gás O<sub>2</sub> (pO<sub>2</sub>) e a do gás CO<sub>2</sub> (pCO<sub>2</sub>) foram medidas em duas amostras (I e II) de sangue colhidas simultaneamente de um homem normal. A amostra I teve pO<sub>2</sub> = 104 mm Hg e pCO<sub>2</sub> = 40 mm Hg, enquanto a amostra II teve pO<sub>2</sub> = 40 mm Hg e pCO<sub>2</sub> = 45 mm Hg. Em relação ao caso em análise, é correto afirmar que:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A amostra I corresponde a sangue arterial, que pode ter sido obtido de artéria pulmonar, que cede O<sub>2</sub> para as células corporais com baixa concentração desse gás."
+   },
+   {
+    "letra": "B",
+    "texto": "A amostra II corresponde a sangue venoso, que pode ter sido obtido de veias pulmonares, que levam sangue do pulmão ao coração."
+   },
+   {
+    "letra": "C",
+    "texto": "A amostra II pode ter sido obtida de uma artéria pulmonar, que leva sangue do coração ao pulmão, onde a pO<sub>2</sub> do ar é menor que a do sangue que chega a esse órgão."
+   },
+   {
+    "letra": "D",
+    "texto": "A amostra I pode ter sido obtida de veias pulmonares, que chegam ao coração trazendo sangue oxigenado, que será usado para irrigar o próprio coração e outros órgãos."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     28.32,
+     80.24999999999989,
+     88.81704000000002,
+     90.20999999999992
+    ],
+    [
+     28.32,
+     102.80999999999995,
+     279.84888,
+     112.76999999999998
+    ],
+    [
+     28.319039999999973,
+     114.45323999999994,
+     279.88872000000015,
+     124.41323999999997
+    ],
+    [
+     28.319039999999973,
+     126.09647999999993,
+     279.82896000000005,
+     136.05647999999997
+    ],
+    [
+     28.319039999999973,
+     137.6099999999999,
+     279.84324000000004,
+     147.5802
+    ],
+    [
+     28.32335999999998,
+     149.2499999999999,
+     279.96756,
+     159.21323999999993
+    ],
+    [
+     28.31819999999999,
+     160.89323999999988,
+     279.88788,
+     170.85323999999991
+    ],
+    [
+     28.31819999999999,
+     172.53647999999987,
+     47.162519999999994,
+     182.4964799999999
+    ],
+    [
+     28.318199999999994,
+     195.7034399999999,
+     279.73848000000004,
+     205.66343999999992
+    ],
+    [
+     46.31592,
+     207.32999999999993,
+     279.77112000000005,
+     217.30667999999991
+    ],
+    [
+     46.31867999999997,
+     218.97323999999992,
+     279.84084,
+     228.93323999999996
+    ],
+    [
+     46.31867999999997,
+     230.49695999999994,
+     63.47975999999998,
+     240.45695999999998
+    ],
+    [
+     28.32095999999997,
+     253.78343999999993,
+     279.69144000000017,
+     263.74343999999996
+    ],
+    [
+     46.318679999999965,
+     265.4266799999999,
+     279.8408399999999,
+     275.38667999999996
+    ],
+    [
+     46.318679999999965,
+     276.95039999999995,
+     177.93011999999993,
+     286.9104
+    ],
+    [
+     28.32095999999997,
+     300.2368799999999,
+     279.92051999999995,
+     310.19687999999996
+    ],
+    [
+     46.31867999999997,
+     311.8801199999999,
+     279.7910400000001,
+     321.84011999999996
+    ],
+    [
+     46.31867999999997,
+     323.37,
+     279.7250399999999,
+     333.36384
+    ],
+    [
+     46.3224,
+     335.01323999999994,
+     102.29760000000002,
+     344.97324
+    ],
+    [
+     28.32468,
+     358.2997199999999,
+     279.9342,
+     368.25971999999996
+    ],
+    [
+     46.3224,
+     369.82343999999995,
+     279.8146800000001,
+     379.78344
+    ],
+    [
+     46.3224,
+     381.46667999999994,
+     279.7848,
+     391.42668
+    ],
+    [
+     46.3224,
+     393.10991999999993,
+     77.88564000000001,
+     403.06991999999997
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019_p10.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q020",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 20,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A osteoporose, principal causa de quedas entre idosos, é resultado da perda gradual da densidade da matriz óssea, que é remodelada por osteoblastos e osteoclastos. Segundo os especialistas, a prevenção contra a osteoporose deve começar na infância, com alimentação rica em cálcio e em vitamina D, exposição diária ao sol e exercícios físicos. Sobre os vários fatores envolvidos na formação do osso, é correto afirmar que:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A fixação do cálcio no tecido ósseo depende da presença de vitamina D, cuja síntese é diminuída em indivíduos que têm o hábito de tomar sol."
+   },
+   {
+    "letra": "B",
+    "texto": "O excesso de vitamina C pode levar à diminuição da densidade óssea, pois essa vitamina causa degradação das moléculas de colágeno."
+   },
+   {
+    "letra": "C",
+    "texto": "Os osteoblastos e os osteoclastos são células responsáveis, respectivamente, pela captura de cálcio e pela absorção de vitamina D."
+   },
+   {
+    "letra": "D",
+    "texto": "Os osteoblastos e os osteoclastos são células responsáveis, respectivamente, pela produção e pela degradação de componentes da matriz óssea"
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     28.32,
+     428.12999999999994,
+     88.81704000000002,
+     438.09
+    ],
+    [
+     28.32,
+     450.80999999999995,
+     279.79008000000005,
+     460.77
+    ],
+    [
+     28.32996,
+     462.45323999999994,
+     279.97932000000003,
+     472.41324
+    ],
+    [
+     28.32995999999997,
+     473.97695999999996,
+     279.8598,
+     483.93696
+    ],
+    [
+     28.32995999999997,
+     485.62019999999995,
+     279.89964000000003,
+     495.5802
+    ],
+    [
+     28.32995999999997,
+     497.26343999999995,
+     279.9594000000001,
+     507.22344
+    ],
+    [
+     28.32995999999997,
+     508.90667999999994,
+     279.91956000000005,
+     518.86668
+    ],
+    [
+     28.339920000000006,
+     520.4304,
+     279.87972,
+     530.3904
+    ],
+    [
+     28.34988,
+     532.07364,
+     203.31719999999999,
+     542.03364
+    ],
+    [
+     28.349879999999985,
+     553.7964,
+     279.81,
+     563.7564
+    ],
+    [
+     46.3476,
+     565.32012,
+     279.8797200000001,
+     575.28012
+    ],
+    [
+     46.34760000000006,
+     576.96336,
+     224.63160000000002,
+     586.92336
+    ],
+    [
+     28.339920000000063,
+     598.5666,
+     279.8100000000002,
+     608.5266
+    ],
+    [
+     46.33764000000006,
+     610.20984,
+     279.93948000000023,
+     620.16984
+    ],
+    [
+     46.33764000000006,
+     621.73356,
+     163.45728000000005,
+     631.6935599999999
+    ],
+    [
+     28.32,
+     643.41,
+     279.83988000000005,
+     653.37
+    ],
+    [
+     46.32,
+     654.93,
+     279.9816,
+     664.89
+    ],
+    [
+     46.32,
+     666.5699999999999,
+     177.35376000000008,
+     676.53
+    ],
+    [
+     28.32,
+     688.29,
+     279.83988000000005,
+     698.25
+    ],
+    [
+     46.32,
+     699.81,
+     279.72264000000035,
+     709.77
+    ],
+    [
+     46.32,
+     711.3299999999999,
+     238.93643999999998,
+     721.29
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q020_p10.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q021",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 21,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As cecílias, também chamadas de cobras-cegas, são facilmente confundidas com serpentes por observadores menos atentos, por também apresentarem corpo cilíndrico e desprovido de patas. Entretanto, uma análise mais cuidadosa pode diferenciar facilmente esses animais, pois as cecílias são anfíbios ápodos. Duas características apresentadas exclusivamente pelas cecílias, que as diferenciam das serpentes, são:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "corpo revestido por pele úmida e ovos com casca calcária."
+   },
+   {
+    "letra": "B",
+    "texto": "corpo revestido por escamas e respiração exclusivamente cutânea."
+   },
+   {
+    "letra": "C",
+    "texto": "pele rica em glândulas secretoras de muco e respiração cutânea."
+   },
+   {
+    "letra": "D",
+    "texto": "pele úmida e corpo revestido por escamas queratinizadas."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     315.36,
+     80.24999999999989,
+     375.84708,
+     90.20999999999992
+    ],
+    [
+     315.36,
+     103.41323999999997,
+     567.0093600000001,
+     113.37324000000001
+    ],
+    [
+     315.3600000000001,
+     115.05647999999997,
+     566.9595600000004,
+     125.01648
+    ],
+    [
+     315.3600000000001,
+     126.69971999999996,
+     566.8400400000004,
+     136.65972
+    ],
+    [
+     315.3600000000001,
+     138.22343999999998,
+     566.8798800000002,
+     148.18344000000002
+    ],
+    [
+     315.3600000000001,
+     149.86667999999997,
+     566.8898400000004,
+     159.82668
+    ],
+    [
+     315.3600000000001,
+     161.50991999999997,
+     566.8998000000001,
+     171.46992
+    ],
+    [
+     315.3600000000001,
+     173.15315999999996,
+     567.0093600000002,
+     183.11316
+    ],
+    [
+     315.3600000000001,
+     184.67687999999998,
+     448.68456000000015,
+     194.63688000000002
+    ],
+    [
+     315.35004000000015,
+     207.96335999999997,
+     566.7404400000001,
+     217.92336
+    ],
+    [
+     333.34776000000016,
+     219.72611999999992,
+     367.79940000000016,
+     229.68611999999996
+    ],
+    [
+     315.3500400000002,
+     241.20983999999987,
+     566.9695200000002,
+     251.1698399999999
+    ],
+    [
+     333.3477600000002,
+     252.85307999999986,
+     437.26044000000024,
+     262.8130799999999
+    ],
+    [
+     315.3500400000002,
+     274.3367999999998,
+     566.7902400000003,
+     284.29679999999985
+    ],
+    [
+     333.3477600000002,
+     286.09955999999977,
+     416.07552000000027,
+     296.0595599999998
+    ],
+    [
+     315.35004000000026,
+     307.5832799999997,
+     566.7504000000004,
+     317.54327999999975
+    ],
+    [
+     333.3477600000003,
+     319.3460399999997,
+     397.6794000000003,
+     329.3060399999997
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p10.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q022",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 22,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em um experimento, um segmento de DNA que contém a região codificadora de uma proteína humana foi introduzido em um plasmídeo e passou a ser expresso em uma bactéria. Considere que o 50º códon do RNA mensageiro produzido na bactéria a partir desse segmento seja um códon de parada da tradução. Nesse caso, é correto afirmar que:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A proteína resultante da tradução desse RNA mensageiro possui 50 aminoácidos."
+   },
+   {
+    "letra": "B",
+    "texto": "A proteína resultante da tradução desse RNA mensageiro possui 49 aminoácidos."
+   },
+   {
+    "letra": "C",
+    "texto": "A proteína resultante da tradução desse RNA mensageiro possui 150 aminoácidos."
+   },
+   {
+    "letra": "D",
+    "texto": "Nenhuma proteína é formada, pois esse RNA mensageiro apresenta um códon de parada."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     315.36,
+     341.00999999999993,
+     375.85704,
+     350.96999999999997
+    ],
+    [
+     315.36,
+     363.68999999999994,
+     566.9296800000001,
+     373.65
+    ],
+    [
+     315.35004000000004,
+     375.33323999999993,
+     566.8599600000001,
+     385.29323999999997
+    ],
+    [
+     315.35004000000004,
+     386.85695999999996,
+     566.9197200000002,
+     396.81696
+    ],
+    [
+     315.35004000000004,
+     398.50019999999995,
+     566.8699200000002,
+     408.4602
+    ],
+    [
+     315.35004000000004,
+     410.14343999999994,
+     566.9296800000001,
+     420.10344
+    ],
+    [
+     315.35004000000004,
+     421.78667999999993,
+     566.8500000000001,
+     431.74667999999997
+    ],
+    [
+     315.35004000000004,
+     433.31039999999996,
+     400.88652,
+     443.2704
+    ],
+    [
+     315.35004000000004,
+     456.59687999999994,
+     566.8699200000002,
+     466.55688
+    ],
+    [
+     333.34776000000005,
+     468.35963999999996,
+     487.74768,
+     478.31964
+    ],
+    [
+     315.35004000000004,
+     489.84335999999996,
+     566.8699200000002,
+     499.80336
+    ],
+    [
+     333.34776000000005,
+     501.48659999999995,
+     484.8792,
+     511.4466
+    ],
+    [
+     315.35004000000004,
+     522.9703199999999,
+     566.8998000000001,
+     532.9303199999999
+    ],
+    [
+     333.34776000000005,
+     534.73308,
+     490.5066,
+     544.69308
+    ],
+    [
+     315.35004000000004,
+     556.2167999999999,
+     566.8699200000002,
+     566.1768
+    ],
+    [
+     333.34776000000005,
+     567.97956,
+     521.6913599999999,
+     577.93956
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q022_p10.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q023",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 23,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O mapa abaixo mostra a distribuição global do fluxo de carbono. As regiões indicadas pelos números I, II e III são, respectivamente, regiões de alta, média e baixa absorção de carbono.\n\n.\n\n{{img:1}}\n\nConsiderando-se as referidas regiões, pode-se afirmar que os respectivos tipos de vegetação predominante são:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I-FlorestaTropical; II-Savana; III-Tundra e Taiga."
+   },
+   {
+    "letra": "B",
+    "texto": "I-Floresta Amazônica; II-Plantações; III-Floresta Temperada."
+   },
+   {
+    "letra": "C",
+    "texto": "I-Floresta Tropical; II-Deserto; III-Floresta Temperada."
+   },
+   {
+    "letra": "D",
+    "texto": "I-Floresta Temperada; II-Savana; III-Tundra e Taiga."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q023_img1.png",
+    "pagina": 11,
+    "bbox": [
+     94.4,
+     124.0,
+     567.0,
+     392.1
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     28.32,
+     80.24999999999989,
+     88.82700000000001,
+     90.20999999999992
+    ],
+    [
+     28.32,
+     97.52999999999997,
+     566.7460800000001,
+     107.00999999999999
+    ],
+    [
+     28.319999999999993,
+     108.57420000000002,
+     238.80444000000003,
+     118.05420000000004
+    ],
+    [
+     28.32,
+     373.28999999999996,
+     30.95544,
+     382.77
+    ],
+    [
+     94.4199829,
+     123.96998780000001,
+     566.95488,
+     392.12999999999994
+    ],
+    [
+     28.32,
+     399.44999999999993,
+     479.53007999999994,
+     408.92999999999995
+    ],
+    [
+     28.32,
+     421.6499999999999,
+     242.68908000000002,
+     431.60999999999996
+    ],
+    [
+     28.319999999999993,
+     439.1696399999999,
+     241.23491999999996,
+     449.12963999999994
+    ],
+    [
+     46.307759999999945,
+     450.8128799999999,
+     96.88463999999993,
+     460.77287999999993
+    ],
+    [
+     315.34727999999996,
+     421.64999999999986,
+     555.3932399999999,
+     431.6099999999999
+    ],
+    [
+     315.34727999999996,
+     439.16963999999984,
+     546.987,
+     449.1296399999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p11.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q024",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 24,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O corpo humano é composto majoritariamente por água, cuja porcentagem, em massa, pode variar entre 80%, quando se nasce, e 50%, quando se morre, ou seja, perde-se água enquanto se envelhece. Considere que, aos 3 anos de idade, 75% do corpo humano é água, e que todo o oxigênio do corpo humano seja o da água aí presente. Nesse caso, pode-se afirmar que a proporção em massa de oxigênio no corpo é de aproximadamente",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "3/4."
+   },
+   {
+    "letra": "B",
+    "texto": "2/3."
+   },
+   {
+    "letra": "C",
+    "texto": "1/2."
+   },
+   {
+    "letra": "D",
+    "texto": "3/5."
+   }
+  ],
+  "apos_alternativas": "Massas molares em g mol<sup>-1</sup>: H =1 e O = 16",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     28.32,
+     476.8499999999999,
+     88.80708000000001,
+     486.80999999999995
+    ],
+    [
+     28.32,
+     500.13323999999994,
+     279.86976000000004,
+     510.09324
+    ],
+    [
+     28.32,
+     511.77647999999994,
+     279.9295200000001,
+     521.73648
+    ],
+    [
+     28.310040000000015,
+     523.3001999999999,
+     279.88967999999994,
+     533.2601999999999
+    ],
+    [
+     28.300079999999994,
+     534.94344,
+     279.84984,
+     544.90344
+    ],
+    [
+     28.30007999999998,
+     546.5866799999999,
+     279.7502400000001,
+     556.5466799999999
+    ],
+    [
+     28.29012,
+     558.22992,
+     280.00920000000013,
+     568.18992
+    ],
+    [
+     28.29012,
+     569.7536399999999,
+     279.89964,
+     579.7136399999999
+    ],
+    [
+     28.29012,
+     581.39688,
+     248.72484,
+     591.35688
+    ],
+    [
+     28.29012,
+     604.68336,
+     62.871240000000014,
+     614.64336
+    ],
+    [
+     28.29012,
+     627.85032,
+     62.85132,
+     637.8103199999999
+    ],
+    [
+     28.290119999999995,
+     651.1368,
+     62.87124,
+     661.0967999999999
+    ],
+    [
+     28.290119999999987,
+     674.3037599999999,
+     62.871239999999986,
+     684.2637599999999
+    ],
+    [
+     28.29011999999998,
+     709.05,
+     210.60108,
+     719.0739599999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [
+   "há texto depois das alternativas (“Massas molares em g mol<sup>-1</sup>: H =1 e O = 1”): conferir se é desta questão"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q024_p11.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q025",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 25,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "*Glow sticks* ou *light sticks* são pequenos tubos plásticos utilizados em festas por causa da luz que eles emitem. Ao serem pressionados, ocorre uma mistura de peróxido de hidrogênio com um éster orgânico e um corante. Com o tempo, o peróxido e o éster vão reagindo, liberando energia que excita o corante, que está em excesso. O corante excitado, ao voltar para a condição não excitada, emite luz. Quanto maior a quantidade de moléculas excitadas, mais intensa é a luz emitida. Esse processo é contínuo, enquanto o dispositivo funciona. Com base no conhecimento químico, é possível afirmar que o funcionamento do dispositivo, numa temperatura mais baixa, mostrará uma luz",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "mais intensa e de menor duração que numa temperatura mais alta."
+   },
+   {
+    "letra": "B",
+    "texto": "mais intensa e de maior duração que numa temperatura mais alta."
+   },
+   {
+    "letra": "C",
+    "texto": "menos intensa e de maior duração que numa temperatura mais alta."
+   },
+   {
+    "letra": "D",
+    "texto": "menos intensa e de menor duração que numa temperatura mais alta."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     315.36,
+     476.8499999999999,
+     375.867,
+     486.80999999999995
+    ],
+    [
+     315.36,
+     499.6499999999999,
+     566.88984,
+     509.60999999999996
+    ],
+    [
+     315.36,
+     511.17371999999995,
+     566.8699200000001,
+     521.13372
+    ],
+    [
+     315.36,
+     522.8169599999999,
+     566.8699200000002,
+     532.7769599999999
+    ],
+    [
+     315.36,
+     534.4602,
+     566.9894400000002,
+     544.4202
+    ],
+    [
+     315.36,
+     546.1034399999999,
+     566.9994000000002,
+     556.0634399999999
+    ],
+    [
+     315.36,
+     557.62716,
+     566.81016,
+     567.58716
+    ],
+    [
+     315.36,
+     569.2703999999999,
+     566.9794800000001,
+     579.2303999999999
+    ],
+    [
+     315.36,
+     580.91364,
+     566.8798800000001,
+     590.87364
+    ],
+    [
+     315.36,
+     592.55688,
+     566.9994000000002,
+     602.5168799999999
+    ],
+    [
+     315.36,
+     604.0806,
+     566.90976,
+     614.0405999999999
+    ],
+    [
+     315.36996,
+     615.7238399999999,
+     566.85,
+     625.6838399999999
+    ],
+    [
+     315.36996,
+     627.36708,
+     566.85996,
+     637.3270799999999
+    ],
+    [
+     315.36996,
+     639.0103199999999,
+     417.44004,
+     648.9703199999999
+    ],
+    [
+     315.36996,
+     662.1772799999999,
+     566.9296800000002,
+     672.1372799999999
+    ],
+    [
+     333.36768,
+     673.8205199999999,
+     429.4119600000001,
+     683.7805199999999
+    ],
+    [
+     315.36,
+     694.65,
+     566.9296800000001,
+     704.6099999999999
+    ],
+    [
+     333.35772000000003,
+     706.29324,
+     429.4617600000001,
+     716.2532399999999
+    ],
+    [
+     315.36,
+     727.17,
+     566.7304800000002,
+     737.13
+    ],
+    [
+     333.35772000000003,
+     738.81324,
+     429.4617600000001,
+     748.77324
+    ],
+    [
+     315.36,
+     759.6899999999999,
+     566.7404400000001,
+     769.65
+    ],
+    [
+     333.35772000000003,
+     771.21372,
+     429.4617600000001,
+     781.17372
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p11.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q026",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 26,
+  "area": "",
+  "texto_base_id": "P2116-T4",
+  "textos_base_ids": [
+   "P2116-T4"
+  ],
+  "enunciado": "Desenvolveu-se, recentemente, uma bateria com uma grande capacidade de carga e número de ciclos, além de rapidez de recarga. Simplificadamente, no funcionamento dessa bateria ocorre uma deposição de lítio metálico num eletrodo de estanho e carbono (Sn/C), enquanto num eletrodo de carbono e sulfeto de lítio (Li<sub>2</sub>S/C) liberam-se o íon lítio e o enxofre elementar. Considerando essas informações, pode-se afirmar que no funcionamento da bateria ocorre",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "uma reação de redução no eletrodo de Sn/C e uma reação de oxidação no eletrodo Li<sub>2</sub>S/C, e essas reações não se invertem no seu processo de recarga."
+   },
+   {
+    "letra": "B",
+    "texto": "uma reação de oxidação no eletrodo de Sn/C e uma reação de redução no eletrodo Li<sub>2</sub>S/C, e essas reações se invertem no seu processo de recarga."
+   },
+   {
+    "letra": "C",
+    "texto": "uma reação de oxidação no eletrodo de Sn/C e uma reação de redução no eletrodo Li<sub>2</sub>S/C, e essas reações não se invertem no seu processo de recarga."
+   },
+   {
+    "letra": "D",
+    "texto": "uma reação de redução no eletrodo de Sn/C e uma reação de oxidação no eletrodo Li<sub>2</sub>S/C, e essas reações se invertem no seu processo de recarga."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     28.32,
+     195.92999999999995,
+     88.81704000000002,
+     205.89
+    ],
+    [
+     28.32,
+     219.21323999999993,
+     279.8598000000002,
+     229.17323999999996
+    ],
+    [
+     28.320000000000007,
+     230.73695999999995,
+     279.8797200000001,
+     240.69696
+    ],
+    [
+     28.319999999999993,
+     242.38019999999995,
+     279.89964000000015,
+     252.34019999999998
+    ],
+    [
+     28.319999999999993,
+     254.02343999999994,
+     279.7801200000002,
+     263.98344
+    ],
+    [
+     28.319999999999993,
+     265.66667999999993,
+     279.7701600000001,
+     275.62667999999996
+    ],
+    [
+     28.319999999999993,
+     277.16999999999996,
+     279.84455999999994,
+     287.1504
+    ],
+    [
+     28.314719999999966,
+     288.81323999999995,
+     279.9441600000001,
+     298.77324
+    ],
+    [
+     28.314719999999966,
+     300.45647999999994,
+     279.8445599999999,
+     310.41648
+    ],
+    [
+     28.314719999999966,
+     312.09971999999993,
+     87.75599999999996,
+     322.05971999999997
+    ],
+    [
+     28.32,
+     335.24999999999994,
+     279.75023999999996,
+     345.21
+    ],
+    [
+     45.36,
+     346.88999999999993,
+     279.98628,
+     356.84999999999997
+    ],
+    [
+     45.36,
+     358.5299999999999,
+     234.80915999999993,
+     368.48999999999995
+    ],
+    [
+     28.32,
+     381.68999999999994,
+     279.7701600000001,
+     391.65
+    ],
+    [
+     45.36,
+     393.3299999999999,
+     280.10052,
+     403.28999999999996
+    ],
+    [
+     45.36,
+     404.9699999999999,
+     215.96483999999995,
+     414.92999999999995
+    ],
+    [
+     28.32,
+     428.12999999999994,
+     279.78012000000007,
+     438.09
+    ],
+    [
+     45.36,
+     439.7699999999999,
+     280.10052,
+     449.72999999999996
+    ],
+    [
+     45.36,
+     451.4099999999999,
+     234.80915999999993,
+     461.36999999999995
+    ],
+    [
+     28.32,
+     474.56999999999994,
+     279.75024,
+     484.53
+    ],
+    [
+     45.36,
+     486.2099999999999,
+     279.98628,
+     496.16999999999996
+    ],
+    [
+     45.36,
+     497.8499999999999,
+     215.96483999999995,
+     507.80999999999995
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q026_p12.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q027",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 27,
+  "area": "",
+  "texto_base_id": "P2116-T4",
+  "textos_base_ids": [
+   "P2116-T4"
+  ],
+  "enunciado": "Outro exemplo de desenvolvimento, com vistas a recargas rápidas, é o protótipo de uma bateria de íon-lítio, com estrutura tridimensional. Considere que uma bateria, inicialmente descarregada, é carregada com uma corrente média *i<sub>m</sub>* = 3, 2 A até atingir sua carga máxima de\n\n*Q* = 0*,*8 Ah . O tempo gasto para carregar a bateria é de",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "240 minutos."
+   },
+   {
+    "letra": "B",
+    "texto": "90 minutos."
+   },
+   {
+    "letra": "C",
+    "texto": "15 minutos."
+   },
+   {
+    "letra": "D",
+    "texto": "4 minutos."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     28.32,
+     532.8899999999999,
+     88.81704000000002,
+     542.8499999999999
+    ],
+    [
+     28.32,
+     555.5699999999999,
+     279.97932,
+     565.53
+    ],
+    [
+     28.310039999999958,
+     567.09372,
+     279.83987999999994,
+     577.05372
+    ],
+    [
+     28.310039999999958,
+     578.73696,
+     279.88967999999994,
+     588.69696
+    ],
+    [
+     28.310039999999958,
+     590.3802,
+     279.81996000000015,
+     600.3402
+    ],
+    [
+     28.310039999999958,
+     602.7597999999999,
+     279.97079999999994,
+     613.6297999999999
+    ],
+    [
+     29.89,
+     617.7599,
+     267.35664000000014,
+     628.6298999999999
+    ],
+    [
+     28.32660000000004,
+     643.5373199999999,
+     99.00276000000007,
+     653.49732
+    ],
+    [
+     28.33656000000005,
+     666.8237999999999,
+     93.47496000000007,
+     676.7837999999999
+    ],
+    [
+     28.336560000000034,
+     689.9907599999999,
+     93.48492000000005,
+     699.95076
+    ],
+    [
+     28.346520000000027,
+     713.2772399999999,
+     87.96708000000004,
+     723.2372399999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q027_p12.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q028",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 28,
+  "area": "",
+  "texto_base_id": "P2116-T5",
+  "textos_base_ids": [
+   "P2116-T5"
+  ],
+  "enunciado": "O hidrocarboneto n-octano é um exemplo de substância presente na gasolina. A reação de combustão completa do n-octano pode ser representada pela seguinte equação não balanceada: C<sub>8</sub>H<sub>18</sub>(g) + O<sub>2</sub>(g) → CO<sub>2</sub>(g) + H<sub>2</sub>O(g).\n\nApós balancear a equação, pode-se afirmar que a quantidade de",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "gás carbônico produzido, em massa, é maior que a de gasolina queimada."
+   },
+   {
+    "letra": "B",
+    "texto": "produtos, em mol, é menor que a quantidade de reagentes."
+   },
+   {
+    "letra": "C",
+    "texto": "produtos, em massa, é maior que a quantidade de reagentes."
+   },
+   {
+    "letra": "D",
+    "texto": "água produzida, em massa, é maior que a de gás carbônico."
+   }
+  ],
+  "apos_alternativas": "Dados de massas molares em g mol<sup>-1</sup>: C<sub>8</sub>H<sub>18</sub>=114; O<sub>2</sub>=32; CO<sub>2</sub>=44; H<sub>2</sub>O=18.",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     315.36,
+     194.8499999999999,
+     375.867,
+     204.80999999999995
+    ],
+    [
+     315.36,
+     217.40999999999997,
+     566.92968,
+     227.37
+    ],
+    [
+     315.36996,
+     229.05323999999996,
+     566.8400400000002,
+     239.01324
+    ],
+    [
+     315.36996,
+     240.69647999999995,
+     567.0093599999999,
+     250.65648
+    ],
+    [
+     315.35999999999984,
+     252.44999999999993,
+     541.20516,
+     263.1569999999999
+    ],
+    [
+     315.3521999999999,
+     287.3797199999999,
+     567.01152,
+     297.33971999999994
+    ],
+    [
+     315.34223999999995,
+     299.0229599999999,
+     376.84524,
+     308.98295999999993
+    ],
+    [
+     315.36,
+     321.0899999999999,
+     566.8699200000001,
+     331.04999999999995
+    ],
+    [
+     333.35772000000003,
+     332.61371999999994,
+     416.03568000000007,
+     342.57372
+    ],
+    [
+     315.36,
+     355.9001999999999,
+     566.8201200000001,
+     365.86019999999996
+    ],
+    [
+     333.3577200000001,
+     367.5434399999999,
+     377.86896000000013,
+     377.50343999999996
+    ],
+    [
+     315.36000000000007,
+     390.71039999999994,
+     566.8101600000001,
+     400.6704
+    ],
+    [
+     333.3477600000001,
+     402.3536399999999,
+     377.85900000000015,
+     412.31363999999996
+    ],
+    [
+     315.3500400000001,
+     425.52059999999994,
+     566.8400400000003,
+     435.4806
+    ],
+    [
+     333.3477600000001,
+     437.16383999999994,
+     377.6398800000001,
+     447.12384
+    ],
+    [
+     315.36,
+     470.8499999999999,
+     566.88,
+     480.80999999999995
+    ],
+    [
+     315.36012000000005,
+     482.36999999999995,
+     392.28108000000003,
+     492.33371999999997
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q028_p12.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q029",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 29,
+  "area": "",
+  "texto_base_id": "P2116-T5",
+  "textos_base_ids": [
+   "P2116-T5"
+  ],
+  "enunciado": "No funcionamento de um motor, a energia envolvida na combustão do n-octano promove a expansão dos gases e também o aquecimento do motor. Assim, conclui-se que a soma das energias envolvidas na formação de todas as ligações químicas é",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "maior que a soma das energias envolvidas no rompimento de todas as ligações químicas, o que faz o processo ser endotérmico."
+   },
+   {
+    "letra": "B",
+    "texto": "menor que a soma das energias envolvidas no rompimento de todas as ligações químicas, o que faz o processo ser exotérmico."
+   },
+   {
+    "letra": "C",
+    "texto": "maior que a soma das energias envolvidas no rompimento de todas as ligações químicas, o que faz o processo ser exotérmico."
+   },
+   {
+    "letra": "D",
+    "texto": "menor que a soma das energias envolvidas no rompimento de todas as ligações químicas, o que faz o processo ser endotérmico."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     315.36,
+     516.3299999999999,
+     375.867,
+     526.29
+    ],
+    [
+     315.36,
+     539.01,
+     566.9296800000001,
+     548.97
+    ],
+    [
+     315.36,
+     550.5337199999999,
+     566.86992,
+     560.4937199999999
+    ],
+    [
+     315.36,
+     562.17696,
+     567.0392400000001,
+     572.13696
+    ],
+    [
+     315.35004000000004,
+     573.8201999999999,
+     566.9994000000002,
+     583.7801999999999
+    ],
+    [
+     315.35004000000004,
+     585.46344,
+     396.8826000000001,
+     595.42344
+    ],
+    [
+     315.35004000000004,
+     608.6304,
+     566.8201200000002,
+     618.5903999999999
+    ],
+    [
+     333.34776000000005,
+     620.2736399999999,
+     566.9496,
+     630.2336399999999
+    ],
+    [
+     333.35772000000003,
+     631.91688,
+     453.21636000000007,
+     641.8768799999999
+    ],
+    [
+     315.36,
+     655.0838399999999,
+     566.8500000000001,
+     665.0438399999999
+    ],
+    [
+     333.35772000000003,
+     666.7270799999999,
+     566.96952,
+     676.6870799999999
+    ],
+    [
+     333.36768,
+     678.3703199999999,
+     446.63280000000003,
+     688.3303199999999
+    ],
+    [
+     315.36996,
+     701.5372799999999,
+     566.8998000000001,
+     711.4972799999999
+    ],
+    [
+     333.36768,
+     713.1805199999999,
+     566.97948,
+     723.1405199999999
+    ],
+    [
+     333.37764,
+     724.8237599999999,
+     446.64276,
+     734.7837599999999
+    ],
+    [
+     315.37991999999997,
+     747.9907199999999,
+     566.8699200000001,
+     757.9507199999999
+    ],
+    [
+     333.37764,
+     759.6339599999999,
+     566.97948,
+     769.5939599999999
+    ],
+    [
+     333.37764,
+     771.2771999999999,
+     453.23628,
+     781.2371999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q029_p12.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q030",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 30,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em algumas extrações de ouro, sedimentos de fundo de rio e água são colocados em uma bateia, recipiente cônico que se assemelha a um funil sem o buraco. Movimentos circulares da bateia permitem que o ouro metálico se <u>deposite sob o material sólido</u> ali presente. Esse depósito, que contém principalmente ouro, é posto em contato com mercúrio metálico; o amálgama formado é separado e aquecido com um maçarico, separando-se o ouro líquido <u>do mercúrio gasoso.</u> Numa região próxima dali, o <u>mercúrio</u> <u>gasoso se transforma em líquido</u> e acaba indo para o leito dos rios. Os três segmentos acima grifados se referem, respectivamente, às seguintes propriedades:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "peso, temperatura de gaseificação e temperatura de liquefação."
+   },
+   {
+    "letra": "B",
+    "texto": "densidade, temperatura de sublimação e temperatura de fusão."
+   },
+   {
+    "letra": "C",
+    "texto": "peso, temperatura de ebulição e temperatura de fusão."
+   },
+   {
+    "letra": "D",
+    "texto": "densidade, temperatura de ebulição e temperatura de liquefação."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     28.32,
+     80.24999999999989,
+     88.81704000000002,
+     90.20999999999992
+    ],
+    [
+     28.32,
+     103.40999999999997,
+     279.88968000000006,
+     113.37
+    ],
+    [
+     28.319999999999993,
+     115.05323999999996,
+     279.84984000000003,
+     125.01324
+    ],
+    [
+     28.319999999999993,
+     126.69647999999995,
+     279.96936000000017,
+     136.65648
+    ],
+    [
+     28.319999999999993,
+     138.22019999999998,
+     279.88968000000006,
+     148.1802
+    ],
+    [
+     28.319999999999993,
+     149.86343999999997,
+     279.8100000000001,
+     159.82344
+    ],
+    [
+     28.32,
+     161.4899999999999,
+     279.80003999999997,
+     171.44999999999993
+    ],
+    [
+     28.32,
+     173.1332399999999,
+     279.82992,
+     183.09323999999992
+    ],
+    [
+     28.32,
+     184.6569599999999,
+     279.8498400000001,
+     194.61695999999995
+    ],
+    [
+     28.32,
+     196.28999999999996,
+     279.8498400000001,
+     206.25
+    ],
+    [
+     28.32,
+     207.92999999999995,
+     279.94944000000004,
+     217.89
+    ],
+    [
+     28.32,
+     219.56999999999994,
+     279.84984000000003,
+     229.52999999999997
+    ],
+    [
+     28.319999999999993,
+     231.09371999999996,
+     215.98632,
+     241.05372
+    ],
+    [
+     28.32,
+     254.3699999999999,
+     280.02144000000004,
+     264.3299999999999
+    ],
+    [
+     46.31999999999999,
+     266.0132399999999,
+     93.00251999999999,
+     275.9732399999999
+    ],
+    [
+     28.32,
+     289.16999999999996,
+     279.9218399999999,
+     299.13
+    ],
+    [
+     46.32,
+     300.81323999999995,
+     85.67196000000001,
+     310.77324
+    ],
+    [
+     28.32,
+     323.9699999999999,
+     279.85212,
+     333.92999999999995
+    ],
+    [
+     46.32,
+     335.6132399999999,
+     72.35544,
+     345.57323999999994
+    ],
+    [
+     28.32,
+     358.88999999999993,
+     279.81228000000027,
+     368.84999999999997
+    ],
+    [
+     46.32,
+     370.41371999999996,
+     93.00252,
+     380.37372
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q030_p13.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q031",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 31,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A longa presença de povos árabes no norte da África, mesmo antes de Maomé, possibilitou uma interação cultural, um conhecimento das línguas e costumes, o que facilitou posteriormente a expansão do islamismo. Por outro lado, deve-se considerar a superioridade bélica de alguns povos africanos, como os sudaneses, que efetivaram a conversão e a conquista de vários grupos na região da Núbia, promovendo uma expansão do Islã que não se apoia na presença árabe.\n\n{{fonte:1}}\n\nSobre a presença islâmica na África é correto afirmar que:",
+  "fontes": [
+   "(Adaptado de Luiz Arnaut e Ana Mônica Lopes, *História da África*: uma introdução. Belo Horizonte: Crisálida, 2005, p. 29-30.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O princípio religioso do esforço de conversão, a *jihad*, foi marcado pela violência no norte da África e pela aceitação do islamismo em todo o continente africano."
+   },
+   {
+    "letra": "B",
+    "texto": "Os processos de interação cultural entre árabes e africanos, como os propiciados pelas relações comerciais, são anteriores ao surgimento do islamismo."
+   },
+   {
+    "letra": "C",
+    "texto": "A expansão do islamismo na África ocorreu pela ação dos árabes, suprimindo as crenças religiosas tradicionais do continente."
+   },
+   {
+    "letra": "D",
+    "texto": "O islamismo é a principal religião dos povos africanos e sua expansão ocorreu durante a corrida imperialista do século XIX."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     28.32,
+     404.36999999999995,
+     88.81704000000002,
+     414.33
+    ],
+    [
+     28.32,
+     427.04999999999995,
+     279.9394800000002,
+     437.01
+    ],
+    [
+     28.32,
+     438.57372,
+     279.90960000000007,
+     448.53372
+    ],
+    [
+     28.32,
+     450.21696,
+     279.70044000000007,
+     460.17696
+    ],
+    [
+     28.32,
+     461.86019999999996,
+     279.85980000000006,
+     471.8202
+    ],
+    [
+     28.32,
+     473.50343999999996,
+     279.98927999999995,
+     483.46344
+    ],
+    [
+     28.319999999999993,
+     485.02716,
+     279.7402800000001,
+     494.98716
+    ],
+    [
+     28.319999999999993,
+     496.6704,
+     279.8000400000002,
+     506.6304
+    ],
+    [
+     28.319999999999993,
+     508.31363999999996,
+     279.8797200000002,
+     518.27364
+    ],
+    [
+     28.319999999999993,
+     519.95688,
+     165.5688000000001,
+     529.91688
+    ],
+    [
+     28.32,
+     540.44856,
+     280.02023999999994,
+     548.48856
+    ],
+    [
+     28.319999999999993,
+     549.8071199999999,
+     213.79475999999997,
+     557.8471199999999
+    ],
+    [
+     28.32,
+     571.05324,
+     274.38180000000017,
+     581.01324
+    ],
+    [
+     28.32000000000002,
+     594.3397199999999,
+     279.8498400000001,
+     604.29972
+    ],
+    [
+     42.48312000000004,
+     605.86344,
+     279.7602000000001,
+     615.8234399999999
+    ],
+    [
+     42.48312000000004,
+     617.50668,
+     276.31404000000015,
+     627.46668
+    ],
+    [
+     24.48540000000004,
+     640.79316,
+     279.99924000000016,
+     650.75316
+    ],
+    [
+     42.483120000000035,
+     652.3168799999999,
+     279.85980000000006,
+     662.2768799999999
+    ],
+    [
+     42.483120000000035,
+     663.96012,
+     277.30008000000015,
+     673.9201199999999
+    ],
+    [
+     24.48540000000004,
+     687.2466,
+     279.84984000000003,
+     697.2065999999999
+    ],
+    [
+     42.48312000000004,
+     698.7703199999999,
+     279.81996000000015,
+     708.7303199999999
+    ],
+    [
+     42.48312000000004,
+     710.4135599999998,
+     155.73828000000006,
+     720.3735599999999
+    ],
+    [
+     24.475440000000063,
+     733.70004,
+     279.7004400000002,
+     743.6600399999999
+    ],
+    [
+     42.47316000000006,
+     745.2237599999999,
+     279.7701600000001,
+     755.1837599999999
+    ],
+    [
+     42.47316000000006,
+     756.867,
+     89.02620000000007,
+     766.8269999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q031_p13.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q032",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 32,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "De uma forma inteiramente inédita, os humanistas, entre os séculos XV e XVI, criaram uma nova forma de entender a realidade. Magia e ciência, poesia e filosofia misturavam-se e auxiliavam-se, numa sociedade atravessada por inquietações religiosas e por exigências práticas de todo gênero.\n\n{{fonte:1}}\n\nSobre o tema, é correto afirmar que:",
+  "fontes": [
+   "(Adaptado de Eugenio Garin, *Ciência e vida civil no Renascimento* *italiano*. São Paulo: Ed. Unesp, 1994, p. 11.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O pensamento humanista implicava a total recusa da existência de Deus nas artes e na ciência, o que libertava o homem para conhecer a natureza e a sociedade."
+   },
+   {
+    "letra": "B",
+    "texto": "A mistura de conhecimentos das mais diferentes origens - como a magia e a ciência - levou a uma instabilidade imprevisível, que lançou a Europa numa onda de obscurantismo que apenas o Iluminismo pôde reverter."
+   },
+   {
+    "letra": "C",
+    "texto": "As transformações artísticas e políticas do Renascimento incluíram a inspiração nos ideais da Antiguidade Clássica na pintura, na arquitetura e na escultura."
+   },
+   {
+    "letra": "D",
+    "texto": "As inquietações religiosas vividas principalmente ao longo do século XVI culminaram nas Reformas Calvinista, Luterana, Anglicana e finalmente no movimento da Contrarreforma, que defendeu a fé protestante contra seus inimigos."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     315.36,
+     80.24999999999989,
+     375.85704,
+     90.20999999999992
+    ],
+    [
+     315.36,
+     103.41323999999997,
+     566.9994,
+     113.37324000000001
+    ],
+    [
+     315.36,
+     115.05647999999997,
+     566.9296800000001,
+     125.01648
+    ],
+    [
+     315.36,
+     126.69971999999996,
+     566.9595600000001,
+     136.65972
+    ],
+    [
+     315.36000000000007,
+     138.22343999999998,
+     566.9197200000002,
+     148.18344000000002
+    ],
+    [
+     315.36000000000007,
+     149.86667999999997,
+     566.8599600000003,
+     159.82668
+    ],
+    [
+     315.36000000000007,
+     161.50991999999997,
+     348.1184400000001,
+     171.46992
+    ],
+    [
+     315.36,
+     182.00796000000003,
+     566.90748,
+     190.04796
+    ],
+    [
+     315.36,
+     191.36652000000004,
+     465.6678,
+     199.40652
+    ],
+    [
+     315.36,
+     210.32999999999993,
+     471.43319999999994,
+     220.28999999999996
+    ],
+    [
+     315.36,
+     231.20999999999992,
+     566.79024,
+     241.16999999999996
+    ],
+    [
+     329.52312,
+     242.85323999999991,
+     566.8300800000002,
+     252.81323999999995
+    ],
+    [
+     329.52312,
+     254.4964799999999,
+     566.9296800000002,
+     264.45647999999994
+    ],
+    [
+     329.52312,
+     266.02019999999993,
+     374.40288000000004,
+     275.98019999999997
+    ],
+    [
+     315.36,
+     286.89,
+     566.9894400000001,
+     296.85
+    ],
+    [
+     329.51315999999997,
+     298.53324,
+     566.9197200000001,
+     308.49324
+    ],
+    [
+     329.51316,
+     310.17647999999997,
+     566.79024,
+     320.13648
+    ],
+    [
+     329.51315999999997,
+     321.81971999999996,
+     566.74044,
+     331.77972
+    ],
+    [
+     329.51315999999997,
+     333.34344,
+     365.15004,
+     343.30344
+    ],
+    [
+     315.36,
+     354.3299999999999,
+     566.8599600000001,
+     364.28999999999996
+    ],
+    [
+     329.52312,
+     365.85371999999995,
+     566.7802800000001,
+     375.81372
+    ],
+    [
+     329.52312,
+     377.49695999999994,
+     566.8998,
+     387.45696
+    ],
+    [
+     329.52312,
+     389.14019999999994,
+     370.56828,
+     399.1002
+    ],
+    [
+     315.36,
+     410.00999999999993,
+     566.8898400000002,
+     419.96999999999997
+    ],
+    [
+     329.51316,
+     421.6532399999999,
+     566.8599600000001,
+     431.61323999999996
+    ],
+    [
+     329.51316,
+     433.2964799999999,
+     566.8599600000003,
+     443.25647999999995
+    ],
+    [
+     329.51316,
+     444.82019999999994,
+     566.7802800000001,
+     454.7802
+    ],
+    [
+     329.51316,
+     456.46343999999993,
+     470.47704,
+     466.42343999999997
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [
+   "palavra dividida no fim da linha com hífen incerto — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q032_p13.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q033",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 33,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O movimento pelas Diretas Já provocou uma das maiores mobilizações populares na história recente do Brasil, tendo contado com a cobertura nos principais jornais do país.\n\nAssinale a alternativa correta.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O movimento pelas Diretas Já, baseado na emenda constitucional proposta pelo deputado Dante de Oliveira, exigia a antecipação das eleições gerais para deputados, senadores, governadores e prefeitos."
+   },
+   {
+    "letra": "B",
+    "texto": "O fato de que os protestos populares pelas Diretas Já pudessem ser veiculados nas páginas dos jornais indica que o governo vigente, ao evitar censurar a imprensa, mostrava-se favorável às eleições diretas para presidente."
+   },
+   {
+    "letra": "C",
+    "texto": "O movimento pelas Diretas Já exigia que as eleições presidenciais de 1985 ocorressem não de forma indireta, via Colégio Eleitoral, mas de forma direta por meio do voto popular."
+   },
+   {
+    "letra": "D",
+    "texto": "As manifestações populares pelas Diretas Já consistiram nas primeiras marchas e protestos civis no espaço público desde a instituição do AI-5, em dezembro de 1968."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     315.36,
+     479.9699999999999,
+     375.867,
+     489.92999999999995
+    ],
+    [
+     315.36,
+     503.13323999999994,
+     566.97948,
+     513.0932399999999
+    ],
+    [
+     315.36,
+     514.77648,
+     566.8300800000001,
+     524.73648
+    ],
+    [
+     315.36,
+     526.4197199999999,
+     550.33632,
+     536.3797199999999
+    ],
+    [
+     315.35999999999996,
+     549.5866799999999,
+     440.27832000000006,
+     559.5466799999999
+    ],
+    [
+     315.36,
+     570.4499999999999,
+     566.7504,
+     580.41
+    ],
+    [
+     329.52312,
+     582.0932399999999,
+     566.79024,
+     592.05324
+    ],
+    [
+     329.52312,
+     593.7364799999999,
+     566.9396400000003,
+     603.69648
+    ],
+    [
+     329.52312,
+     605.2601999999999,
+     536.69112,
+     615.2202
+    ],
+    [
+     315.36,
+     626.25,
+     566.9695200000001,
+     636.21
+    ],
+    [
+     329.51316,
+     637.7737199999999,
+     566.7304800000002,
+     647.73372
+    ],
+    [
+     329.51316,
+     649.41696,
+     566.8001999999999,
+     659.3769599999999
+    ],
+    [
+     329.51316,
+     661.0601999999999,
+     566.9097600000001,
+     671.0201999999999
+    ],
+    [
+     329.51316,
+     672.70344,
+     376.6638000000001,
+     682.6634399999999
+    ],
+    [
+     315.36,
+     693.5699999999999,
+     566.9097600000001,
+     703.53
+    ],
+    [
+     329.5231199999999,
+     705.2132399999999,
+     566.8699199999999,
+     715.17324
+    ],
+    [
+     329.5231199999999,
+     716.73696,
+     566.7603599999999,
+     726.69696
+    ],
+    [
+     329.5231199999999,
+     728.3802,
+     424.4219999999999,
+     738.3402
+    ],
+    [
+     315.36,
+     749.25,
+     566.8699200000001,
+     759.2099999999999
+    ],
+    [
+     329.5032,
+     760.89324,
+     566.8599600000001,
+     770.8532399999999
+    ],
+    [
+     329.5032,
+     772.53648,
+     566.7802800000001,
+     782.49648
+    ],
+    [
+     329.49324,
+     784.0602,
+     354.45300000000003,
+     794.0201999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p13.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q034",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 34,
+  "area": "",
+  "texto_base_id": "P2116-T6",
+  "textos_base_ids": [
+   "P2116-T6"
+  ],
+  "enunciado": "No trecho apresentado, o autor",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "argumenta que um corpo político existe quando os homens encontram-se associados em estado de igualdade política."
+   },
+   {
+    "letra": "B",
+    "texto": "reconhece os direitos sagrados como base para os direitos políticos e sociais."
+   },
+   {
+    "letra": "C",
+    "texto": "defende a necessidade de os homens se unirem em agregações, em busca de seus direitos políticos."
+   },
+   {
+    "letra": "D",
+    "texto": "denuncia a prática da escravidão nas Américas, que obrigava multidões de homens a se submeterem a um único senhor."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     28.32,
+     298.65,
+     88.82700000000001,
+     308.61
+    ],
+    [
+     28.32,
+     321.93323999999996,
+     162.78,
+     331.89324
+    ],
+    [
+     28.319999999999993,
+     345.1002,
+     279.8100000000001,
+     355.0602
+    ],
+    [
+     42.48312,
+     356.74343999999996,
+     279.78012,
+     366.70344
+    ],
+    [
+     42.48312,
+     368.38667999999996,
+     120.12132000000005,
+     378.34668
+    ],
+    [
+     28.32,
+     389.24999999999994,
+     279.8000399999999,
+     399.21
+    ],
+    [
+     42.47316000000001,
+     400.89323999999993,
+     151.78415999999999,
+     410.85323999999997
+    ],
+    [
+     28.32,
+     421.7699999999999,
+     279.8199599999999,
+     431.72999999999996
+    ],
+    [
+     42.48312,
+     433.4132399999999,
+     245.73684000000011,
+     443.37323999999995
+    ],
+    [
+     28.32,
+     454.2899999999999,
+     279.7303200000001,
+     464.24999999999994
+    ],
+    [
+     42.47316000000001,
+     465.9332399999999,
+     279.8797200000001,
+     475.89323999999993
+    ],
+    [
+     42.47316000000001,
+     477.4569599999999,
+     100.19136000000003,
+     487.41695999999996
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q034_p14.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q035",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 35,
+  "area": "",
+  "texto_base_id": "P2116-T6",
+  "textos_base_ids": [
+   "P2116-T6"
+  ],
+  "enunciado": "Sobre *Do Contrato Social*, publicado em 1762, e seu autor, é correto afirmar que:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Rousseau, um dos grandes autores do Iluminismo, defende a necessidade de o Estado francês substituir os impostos por contratos comerciais com os cidadãos."
+   },
+   {
+    "letra": "B",
+    "texto": "A obra inspirou os ideais da Revolução Francesa, ao explicar o nascimento da sociedade pelo contrato social e pregar a soberania do povo."
+   },
+   {
+    "letra": "C",
+    "texto": "Rousseau defendia a necessidade de o homem voltar a seu estado natural, para assim garantir a sobrevivência da sociedade."
+   },
+   {
+    "letra": "D",
+    "texto": "O livro, inspirado pelos acontecimentos da Independência Americana, chegou a ser proibido e queimado em solo francês."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     28.32,
+     512.6099999999999,
+     88.81704000000002,
+     522.5699999999999
+    ],
+    [
+     28.32,
+     533.6099999999999,
+     279.99924000000004,
+     543.5699999999999
+    ],
+    [
+     28.339920000000006,
+     545.13372,
+     149.99135999999996,
+     555.0937200000001
+    ],
+    [
+     28.32,
+     566.01,
+     279.81996000000015,
+     575.97
+    ],
+    [
+     42.48312,
+     577.6532399999999,
+     279.81000000000006,
+     587.6132399999999
+    ],
+    [
+     42.48312,
+     589.29648,
+     264.08316000000013,
+     599.25648
+    ],
+    [
+     28.32,
+     610.17,
+     279.8299200000001,
+     620.13
+    ],
+    [
+     42.47316000000001,
+     621.81324,
+     279.7104,
+     631.77324
+    ],
+    [
+     42.473160000000014,
+     633.33696,
+     170.25,
+     643.2969599999999
+    ],
+    [
+     28.32,
+     654.3299999999999,
+     279.83988,
+     664.29
+    ],
+    [
+     42.48312,
+     665.85372,
+     279.70044000000024,
+     675.81372
+    ],
+    [
+     42.48312,
+     677.49696,
+     100.68936000000002,
+     687.45696
+    ],
+    [
+     28.32,
+     698.3699999999999,
+     279.76020000000005,
+     708.3299999999999
+    ],
+    [
+     42.47316000000001,
+     710.01324,
+     279.71039999999994,
+     719.9732399999999
+    ],
+    [
+     42.473160000000014,
+     721.65648,
+     157.41155999999998,
+     731.6164799999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q035_p14.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q036",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 36,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A política do Império do Brasil em relação ao Paraguai buscou alcançar três objetivos. O primeiro deles foi o de obter a livre navegação do rio Paraguai, de modo a garantir a comunicação marítimo-fluvial da província de Mato Grosso com o restante do Brasil. O segundo objetivo foi o de buscar estabelecer um tratado delimitando as fronteiras com o país guarani. Por último, um objetivo permanente do Império, até o seu fim em 1889, foi o de procurar conter a influência argentina sobre o Paraguai, convencido de que Buenos Aires ambicionava ser o centro de um Estado que abrangesse o antigo vice-reino do Rio da Prata, incorporando o Paraguai.\n\n{{fonte:1}}\n\nSobre o contexto histórico a que o texto se refere é correto afirmar que:",
+  "fontes": [
+   "(Adaptado de Francisco Doratioto, *Maldita Guerra*: nova história da Guerra do Paraguai. São Paulo: Companhia das Letras, 2002, p. 471.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A Guerra do Paraguai foi um instrumento de consolidação de fronteiras e uma demonstração da política externa do Império em relação aos vizinhos, embora tenha gerado desgastes para Pedro II."
+   },
+   {
+    "letra": "B",
+    "texto": "As motivações econômicas eram suficientes para empreender a guerra contra o Paraguai, que pretendia anexar territórios do Brasil, da Bolívia e do Chile, em busca de uma saída para o mar."
+   },
+   {
+    "letra": "C",
+    "texto": "A Argentina pretendia anexar o Paraguai e o Uruguai, mas foi contida pela interferência do Brasil e pela pressão dos EUA, parceiros estratégicos que se opunham à recriação do vice-reino do Rio da Prata."
+   },
+   {
+    "letra": "D",
+    "texto": "O mais longo conflito bélico da América do Sul matou milhares de paraguaios e produziu uma aliança entre indígenas e negros que atuavam contra os brancos descendentes de espanhóis e portugueses."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     315.36,
+     80.24999999999989,
+     375.867,
+     90.20999999999992
+    ],
+    [
+     315.36,
+     103.41323999999997,
+     567.0093600000004,
+     113.37324000000001
+    ],
+    [
+     315.36,
+     115.05647999999997,
+     566.8101600000002,
+     125.01648
+    ],
+    [
+     315.36,
+     126.69971999999996,
+     566.9296800000003,
+     136.65972
+    ],
+    [
+     315.36,
+     138.22343999999998,
+     566.9197200000001,
+     148.18344000000002
+    ],
+    [
+     315.35004,
+     149.86667999999997,
+     566.9396400000002,
+     159.82668
+    ],
+    [
+     315.35004,
+     161.50991999999997,
+     566.9396400000002,
+     171.46992
+    ],
+    [
+     315.35004,
+     173.15315999999996,
+     566.9296800000001,
+     183.11316
+    ],
+    [
+     315.35004,
+     184.67687999999998,
+     566.84004,
+     194.63688000000002
+    ],
+    [
+     315.35004,
+     196.32011999999997,
+     566.83008,
+     206.28012
+    ],
+    [
+     315.35004,
+     207.96335999999997,
+     566.9595600000001,
+     217.92336
+    ],
+    [
+     315.35004,
+     219.60659999999996,
+     566.8798800000001,
+     229.5666
+    ],
+    [
+     315.3500399999999,
+     231.24983999999995,
+     463.63451999999984,
+     241.20983999999999
+    ],
+    [
+     315.36,
+     252.33000000000004,
+     567.04416,
+     260.37
+    ],
+    [
+     315.36,
+     263.12772000000007,
+     552.8455199999997,
+     271.16772000000003
+    ],
+    [
+     315.36,
+     284.1299999999999,
+     566.83008,
+     294.0899999999999
+    ],
+    [
+     315.36,
+     297.44651999999985,
+     400.89648,
+     307.4065199999999
+    ],
+    [
+     315.36,
+     320.8425599999998,
+     566.79024,
+     330.80255999999986
+    ],
+    [
+     329.52312,
+     332.4857999999998,
+     566.7703200000001,
+     342.44579999999985
+    ],
+    [
+     329.52312,
+     344.1290399999998,
+     566.8599600000001,
+     354.08903999999984
+    ],
+    [
+     329.52312,
+     355.65275999999983,
+     524.94828,
+     365.61275999999987
+    ],
+    [
+     315.36996,
+     379.28783999999985,
+     566.7703200000001,
+     389.2478399999999
+    ],
+    [
+     329.52312,
+     390.93107999999984,
+     566.8500000000001,
+     400.8910799999999
+    ],
+    [
+     329.52312,
+     402.57431999999983,
+     566.8798800000001,
+     412.53431999999987
+    ],
+    [
+     329.52312,
+     414.09803999999986,
+     465.7062,
+     424.0580399999999
+    ],
+    [
+     315.36996,
+     437.7331199999999,
+     566.8400400000003,
+     447.6931199999999
+    ],
+    [
+     329.53308,
+     449.37635999999986,
+     566.76036,
+     459.3363599999999
+    ],
+    [
+     329.53308,
+     461.01959999999985,
+     566.83008,
+     470.9795999999999
+    ],
+    [
+     329.53308,
+     472.5433199999999,
+     547.90608,
+     482.5033199999999
+    ],
+    [
+     315.3699599999999,
+     496.1783999999999,
+     566.8599599999999,
+     506.13839999999993
+    ],
+    [
+     329.52311999999995,
+     507.8216399999999,
+     566.8002000000001,
+     517.7816399999999
+    ],
+    [
+     329.52311999999995,
+     519.4648799999999,
+     566.8300800000001,
+     529.4248799999999
+    ],
+    [
+     329.52311999999995,
+     530.9885999999999,
+     511.0540799999999,
+     540.9485999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q036_p14.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q037",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 37,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Emboaba: nome indígena que significa “o estrangeiro”, atribuído aos forasteiros pelos paulistas, primeiros povoadores da região das minas. Com a descoberta do ouro em fins do século XVII, milhares de pessoas da colônia e da metrópole vieram para as minas, causando grandes tumultos. Formaram-se duas facções, paulistas e emboabas, que disputavam o governo do território, tentando impor suas próprias leis.\n\n{{fonte:1}}\n\nSobre o período em questão é correto afirmar que:",
+  "fontes": [
+   "(Adaptado de Maria Beatriz Nizza da Silva (coord*.), Dicionário da História* *da Colonização Portuguesa no Brasil*. Lisboa: Verbo, 1994, p. 285.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "As disputas pelo território emboaba colocaram em confronto paulistas e mineiros, que lutaram pela posse e exploração das minas."
+   },
+   {
+    "letra": "B",
+    "texto": "A região das minas foi politicamente convulsionada desde sua formação, em fins do século XVII, o que explica a resistência local aos inconfidentes mineiros."
+   },
+   {
+    "letra": "C",
+    "texto": "A luta dos emboabas ilustra o processo de conquista de fronteiras do império português nas Américas, enquanto na África os portugueses se retiravam definitivamente no século XVIII."
+   },
+   {
+    "letra": "D",
+    "texto": "A monarquia portuguesa administrava territórios distintos e vários sujeitos sociais, muitos deles em disputa entre si, como paulistas e emboabas, ambos súditos da Coroa."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     28.32,
+     80.24999999999989,
+     88.82700000000001,
+     90.20999999999992
+    ],
+    [
+     28.32,
+     105.20604000000003,
+     279.81000000000023,
+     115.16604000000007
+    ],
+    [
+     28.319999999999993,
+     116.72976000000006,
+     279.91956000000005,
+     126.68976000000009
+    ],
+    [
+     28.31999999999999,
+     128.37300000000005,
+     279.82992,
+     138.33300000000008
+    ],
+    [
+     28.31999999999999,
+     140.01624000000004,
+     279.81996,
+     149.97624000000008
+    ],
+    [
+     28.31999999999999,
+     151.65948000000003,
+     279.81996000000004,
+     161.61948000000007
+    ],
+    [
+     28.31999999999999,
+     163.18320000000006,
+     279.78012000000007,
+     173.1432000000001
+    ],
+    [
+     28.32996,
+     174.82644000000005,
+     279.7900800000001,
+     184.78644000000008
+    ],
+    [
+     28.32996,
+     186.46968000000004,
+     172.1722799999999,
+     196.42968000000008
+    ],
+    [
+     28.32,
+     206.96796000000006,
+     279.87551999999994,
+     215.00796000000003
+    ],
+    [
+     28.319999999999993,
+     216.32652000000007,
+     256.02888,
+     224.36652000000004
+    ],
+    [
+     28.32,
+     237.57371999999998,
+     245.60735999999994,
+     247.53372000000002
+    ],
+    [
+     28.32000000000002,
+     260.86019999999996,
+     279.90960000000007,
+     270.8202
+    ],
+    [
+     46.31772000000003,
+     272.50343999999996,
+     279.70044000000007,
+     282.46344
+    ],
+    [
+     46.31772000000003,
+     284.02716,
+     147.83004000000005,
+     293.98716
+    ],
+    [
+     28.320000000000014,
+     308.98691999999994,
+     279.74028000000015,
+     318.94692
+    ],
+    [
+     46.317720000000016,
+     320.63015999999993,
+     279.7701600000001,
+     330.59015999999997
+    ],
+    [
+     46.31772000000004,
+     332.2733999999999,
+     270.59700000000004,
+     342.23339999999996
+    ],
+    [
+     28.32000000000002,
+     355.44035999999994,
+     279.7502400000001,
+     365.40036
+    ],
+    [
+     46.31772000000002,
+     367.08359999999993,
+     279.80004000000014,
+     377.04359999999997
+    ],
+    [
+     46.31772000000002,
+     378.7268399999999,
+     279.90959999999995,
+     388.68683999999996
+    ],
+    [
+     46.31772000000002,
+     390.3700799999999,
+     180.1004399999999,
+     400.33007999999995
+    ],
+    [
+     28.319999999999993,
+     413.53703999999993,
+     279.82991999999985,
+     423.49703999999997
+    ],
+    [
+     46.317719999999994,
+     425.1802799999999,
+     279.78012,
+     435.14027999999996
+    ],
+    [
+     46.317719999999994,
+     436.8235199999999,
+     279.83988000000005,
+     446.78351999999995
+    ],
+    [
+     46.317719999999994,
+     448.34723999999994,
+     121.20696,
+     458.30724
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q037_p15.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q038",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 38,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "“Ninguém é mais do que eu partidário de uma política exterior baseada na amizade íntima com os Estados Unidos. A Doutrina Monroe impõe aos Estados Unidos uma política externa que se começa a desenhar. (…) Em tais condições a nossa diplomacia deve ser principalmente feita em Washington (...). Para mim a Doutrina Monroe (...) significa que politicamente nós nos desprendemos da Europa tão completamente e definitivamente como a lua da terra.”\n\n{{fonte:1}}\n\nSobre o contexto ao qual o político e diplomata brasileiro Joaquim Nabuco se refere, é possível afirmar que:",
+  "fontes": [
+   "(Adaptado de Joaquim Nabuco, citado por José Maria de Oliveira Silva, “Manoel Bonfim e a ideologia do imperialismo na América Latina”, em *Revista de História*, n. 138. São Paulo, jul. 1988, p.88.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A Doutrina Monroe a que Nabuco se refere, estabelecida em 1823, tinha por base a ideia de “a América para os americanos”."
+   },
+   {
+    "letra": "B",
+    "texto": "Joaquim Nabuco, em sua atuação como embaixador, antecipou a política imperialista americana de tornar o Brasil o “quintal” dos Estados Unidos."
+   },
+   {
+    "letra": "C",
+    "texto": "Ao declarar que a América estava tão distante da Europa “como a lua da terra”, Nabuco reforçava a necessidade imediata de o Brasil romper suas relações diplomáticas com Portugal."
+   },
+   {
+    "letra": "D",
+    "texto": "O pensamento americano considerava legítimas as intenções norte-americanas na América Central, bem como o apoio às ditaduras na América do Sul, desde o século XIX."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     28.32,
+     483.44999999999993,
+     88.82700000000001,
+     493.40999999999997
+    ],
+    [
+     28.32,
+     506.6132399999999,
+     279.84984000000014,
+     516.5732399999999
+    ],
+    [
+     28.32,
+     518.2564799999999,
+     279.8598,
+     528.2164799999999
+    ],
+    [
+     28.319999999999993,
+     529.8997199999999,
+     279.8000400000001,
+     539.8597199999999
+    ],
+    [
+     28.319999999999993,
+     541.4234399999999,
+     279.83988000000016,
+     551.38344
+    ],
+    [
+     28.319999999999993,
+     553.0666799999999,
+     279.82992000000024,
+     563.0266799999999
+    ],
+    [
+     28.319999999999993,
+     564.7099199999999,
+     279.8498400000001,
+     574.6699199999999
+    ],
+    [
+     28.319999999999993,
+     576.3531599999999,
+     279.8697599999999,
+     586.3131599999999
+    ],
+    [
+     28.32996,
+     587.8768799999999,
+     279.76020000000005,
+     597.83688
+    ],
+    [
+     28.32996,
+     599.5201199999999,
+     70.10220000000001,
+     609.4801199999999
+    ],
+    [
+     28.32,
+     620.0079599999999,
+     279.88356000000005,
+     628.0479599999999
+    ],
+    [
+     28.319999999999993,
+     629.3665199999999,
+     280.0524,
+     637.40652
+    ],
+    [
+     28.32000000000002,
+     638.60448,
+     214.26912,
+     646.6444799999999
+    ],
+    [
+     28.32,
+     659.9732399999999,
+     279.76020000000017,
+     669.93324
+    ],
+    [
+     28.32,
+     671.49696,
+     239.83055999999988,
+     681.45696
+    ],
+    [
+     28.319999999999993,
+     694.7834399999999,
+     280.06896,
+     704.74344
+    ],
+    [
+     46.31772,
+     706.4266799999999,
+     279.89964,
+     716.38668
+    ],
+    [
+     46.31771999999992,
+     717.9504,
+     174.5925599999999,
+     727.9103999999999
+    ],
+    [
+     28.310039999999912,
+     741.2368799999999,
+     279.81,
+     751.19688
+    ],
+    [
+     46.30775999999991,
+     752.8801199999999,
+     279.7801199999999,
+     762.84012
+    ],
+    [
+     46.30775999999991,
+     764.40384,
+     207.91871999999978,
+     774.36384
+    ],
+    [
+     315.34727999999996,
+     80.05223999999987,
+     566.7476400000002,
+     90.0122399999999
+    ],
+    [
+     333.34499999999997,
+     91.5759599999999,
+     567.0464400000001,
+     101.53595999999993
+    ],
+    [
+     333.345,
+     103.21919999999989,
+     566.8273200000002,
+     113.17919999999992
+    ],
+    [
+     333.345,
+     114.86243999999988,
+     448.77144000000004,
+     124.82243999999992
+    ],
+    [
+     315.36,
+     135.68999999999994,
+     566.8998000000001,
+     145.64999999999998
+    ],
+    [
+     333.35772000000003,
+     147.33323999999993,
+     566.8798800000002,
+     157.29323999999997
+    ],
+    [
+     333.35772000000003,
+     158.85695999999996,
+     566.8300800000002,
+     168.81696
+    ],
+    [
+     333.35772000000003,
+     170.50019999999995,
+     379.91076000000004,
+     180.4602
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q038_p15.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q039",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 39,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em discurso proferido em 20 de maio de 2011, o presidente dos EUA, Barack Obama, pronunciou-se sobre as negociações relativas ao conflito entre palestinos e israelenses, propondo o retorno à configuração territorial anterior à Guerra dos Seis Dias, ocorrida em 1967.\n\nSobre o contexto relacionado ao conflito mencionado é correto afirmar que:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A criação do Estado de Israel, em 1948, marcou o início de um período de instabilidade no Oriente Médio, pois significou o confisco dos territórios do Estado da Palestina que existia até então e desagradou o mundo árabe."
+   },
+   {
+    "letra": "B",
+    "texto": "A Guerra dos Seis Dias insere-se no contexto de outras disputas entre árabes e israelenses, por causa das reservas de petróleo localizadas naquela região do Oriente Médio."
+   },
+   {
+    "letra": "C",
+    "texto": "A Guerra dos Seis Dias significou a ampliação territorial de Israel, com a anexação de territórios, justificada pelos israelenses como medida preventiva para garantir sua segurança contra ações árabes."
+   },
+   {
+    "letra": "D",
+    "texto": "O discurso de Obama representa a postura tradicional da diplomacia norte-americana, que defende a existência dos Estados de Israel e da Palestina, e diverge da diplomacia europeia, que condena a existência dos dois Estados."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     315.36,
+     205.52999999999997,
+     375.867,
+     215.49
+    ],
+    [
+     315.36,
+     228.81323999999995,
+     566.8400400000002,
+     238.77324
+    ],
+    [
+     315.36,
+     240.45647999999994,
+     566.9296800000001,
+     250.41647999999998
+    ],
+    [
+     315.36,
+     251.98019999999997,
+     566.7503999999999,
+     261.9402
+    ],
+    [
+     315.36,
+     263.62343999999996,
+     566.9794800000002,
+     273.58344
+    ],
+    [
+     315.36,
+     275.26667999999995,
+     530.25696,
+     285.22668
+    ],
+    [
+     315.36000000000007,
+     298.43363999999997,
+     566.8898400000003,
+     308.39364
+    ],
+    [
+     315.36000000000007,
+     310.07687999999996,
+     400.89648000000005,
+     320.03688
+    ],
+    [
+     315.36000000000007,
+     333.36335999999994,
+     566.8500000000003,
+     343.32336
+    ],
+    [
+     329.52312000000006,
+     344.88707999999997,
+     566.8300800000002,
+     354.84708
+    ],
+    [
+     329.52312000000006,
+     356.53031999999996,
+     566.81016,
+     366.49032
+    ],
+    [
+     329.51315999999997,
+     368.17355999999995,
+     566.8101600000003,
+     378.13356
+    ],
+    [
+     329.51315999999997,
+     379.81679999999994,
+     356.27568,
+     389.7768
+    ],
+    [
+     315.36,
+     402.98375999999996,
+     566.85996,
+     412.94376
+    ],
+    [
+     329.51315999999997,
+     414.62699999999995,
+     566.8699200000001,
+     424.587
+    ],
+    [
+     329.51315999999997,
+     426.27023999999994,
+     566.8798800000003,
+     436.23024
+    ],
+    [
+     329.51315999999997,
+     437.79395999999997,
+     393.83484000000004,
+     447.75396
+    ],
+    [
+     315.35004,
+     461.08043999999995,
+     566.87988,
+     471.04044
+    ],
+    [
+     329.51315999999997,
+     472.72367999999994,
+     566.7504000000002,
+     482.68368
+    ],
+    [
+     329.51315999999997,
+     484.24739999999997,
+     566.8300800000001,
+     494.2074
+    ],
+    [
+     329.51315999999997,
+     495.89063999999996,
+     480.0884400000001,
+     505.85064
+    ],
+    [
+     315.3599999999999,
+     519.17712,
+     566.8699200000001,
+     529.13712
+    ],
+    [
+     329.5131599999999,
+     530.70084,
+     566.7802799999998,
+     540.66084
+    ],
+    [
+     329.50319999999994,
+     542.34408,
+     566.7504000000001,
+     552.30408
+    ],
+    [
+     329.50319999999994,
+     553.98732,
+     566.85,
+     563.94732
+    ],
+    [
+     329.50319999999994,
+     565.63056,
+     384.45252,
+     575.59056
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q039_p15.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q040",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 40,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nObserve o esquema abaixo, que indica a circulação atmosférica sobre a superfície terrestre, e indique a alternativa correta.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Os ventos alísios dirigem-se das áreas tropicais para as equatoriais, em sentido horário no hemisfério norte e anti-horário no hemisfério sul, graças à ação da Força de Coriolis, associada à movimentação da Terra."
+   },
+   {
+    "letra": "B",
+    "texto": "Os ventos alísios dirigem-se das áreas de alta pressão, características dos trópicos, em direção às áreas de baixa pressão, próximas ao equador, movimentando-se em sentido anti-horário no hemisfério norte e em sentido horário no hemisfério sul."
+   },
+   {
+    "letra": "C",
+    "texto": "Os ventos contra-alísios dirigem-se dos trópicos em direção ao equador, movimentando-se em sentido horário no hemisfério norte e anti-horário no hemisfério sul, graças à ação da Força de Coriolis."
+   },
+   {
+    "letra": "D",
+    "texto": "Os ventos contra-alísios dirigem-se da área tropical em direção aos polos, provocando quedas bruscas de temperatura e eventualmente queda de neve, movimentando-se em sentido anti-horário no hemisfério sul e em sentido horário no hemisfério norte."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q040_img1.png",
+    "pagina": 16,
+    "bbox": [
+     74.4,
+     148.9,
+     242.8,
+     321.0
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     28.32,
+     80.24999999999989,
+     88.81704000000002,
+     90.20999999999992
+    ],
+    [
+     28.32,
+     104.4899999999999,
+     279.97932000000003,
+     114.44999999999993
+    ],
+    [
+     28.319999999999993,
+     116.13323999999989,
+     279.8498400000002,
+     126.09323999999992
+    ],
+    [
+     28.319999999999986,
+     127.65695999999991,
+     108.34860000000003,
+     137.61695999999995
+    ],
+    [
+     74.4421692,
+     148.94218619999992,
+     242.7921448,
+     321.04213129999994
+    ],
+    [
+     28.32,
+     344.48999999999995,
+     279.8299200000001,
+     354.45
+    ],
+    [
+     42.483120000000014,
+     356.13323999999994,
+     279.8498400000001,
+     366.09324
+    ],
+    [
+     42.483120000000014,
+     367.65695999999997,
+     279.87972,
+     377.61696
+    ],
+    [
+     42.47316000000002,
+     379.30019999999996,
+     247.64916000000014,
+     389.2602
+    ],
+    [
+     28.310040000000015,
+     402.58667999999994,
+     279.92952000000014,
+     412.54668
+    ],
+    [
+     42.45324000000004,
+     414.11039999999997,
+     279.8199600000002,
+     424.0704
+    ],
+    [
+     42.45324000000004,
+     425.75363999999996,
+     279.7502400000001,
+     435.71364
+    ],
+    [
+     42.453239999999994,
+     437.39687999999995,
+     279.94944,
+     447.35688
+    ],
+    [
+     42.453239999999965,
+     449.04011999999994,
+     185.09039999999987,
+     459.00012
+    ],
+    [
+     28.290119999999973,
+     472.20707999999996,
+     279.65063999999995,
+     482.16708
+    ],
+    [
+     42.44327999999993,
+     483.85031999999995,
+     279.80999999999995,
+     493.81032
+    ],
+    [
+     42.45323999999994,
+     495.49355999999995,
+     279.80999999999995,
+     505.45356
+    ],
+    [
+     42.45323999999991,
+     507.01727999999997,
+     254.10324000000017,
+     516.9772800000001
+    ],
+    [
+     28.290119999999888,
+     530.30376,
+     279.7701599999999,
+     540.26376
+    ],
+    [
+     42.433319999999895,
+     541.9469999999999,
+     279.67055999999997,
+     551.9069999999999
+    ],
+    [
+     42.433319999999895,
+     553.47072,
+     279.84984000000014,
+     563.4307200000001
+    ],
+    [
+     42.433319999999895,
+     565.1139599999999,
+     279.7900799999999,
+     575.0739599999999
+    ],
+    [
+     42.42335999999986,
+     576.7572,
+     279.76019999999977,
+     586.7172
+    ],
+    [
+     42.42335999999986,
+     588.40044,
+     67.98071999999986,
+     598.3604399999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q040_p16.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q041",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 41,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "“...as caatingas são um aliado incorruptível do sertanejo em revolta. Entram também de certo modo na luta. Armam-se para o combate; agridem. Trançam-se, impenetráveis, ante o forasteiro, mas abrem-se em trilhas multivias, para o matuto que ali nasceu e cresceu...”\n\n{{fonte:1}}\n\nNo texto, as caatingas são apresentadas como aliadas do sertanejo. Essa vegetação está associada a",
+  "fontes": [
+   "(Euclides da Cunha, *Os Sertões.* Rio de Janeiro: FBN, p. 102.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "locais onde a evapotranspiração potencial é maior que a evapotranspiração real durante praticamente todo o ano, gerando grande déficit hídrico, o que resulta em uma vegetação espinhenta e sem folhas na maior parte do ano."
+   },
+   {
+    "letra": "B",
+    "texto": "locais onde raramente chove, o que determina uma vegetação que em nenhuma época do ano apresenta folhas verdes, e que nasce em solos pouco desenvolvidos e férteis."
+   },
+   {
+    "letra": "C",
+    "texto": "locais secos durante seis meses por ano, o que permite a presença da vegetação com folhas durante a maior parte do ano, embora todas as folhas caiam no período de seca."
+   },
+   {
+    "letra": "D",
+    "texto": "locais com precipitação maior que a evapotranspiração potencial, o que determina um ambiente quase que permanentemente seco ao longo do ano, com poucos dias em que a vegetação apresenta folhas verdes."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     28.32,
+     623.3699999999999,
+     88.80708000000001,
+     633.3299999999999
+    ],
+    [
+     28.32,
+     648.3332399999999,
+     279.81,
+     658.29324
+    ],
+    [
+     28.320000000000007,
+     659.9764799999999,
+     279.9295200000002,
+     669.93648
+    ],
+    [
+     28.320000000000007,
+     671.6197199999999,
+     279.8398800000001,
+     681.57972
+    ],
+    [
+     28.32000000000005,
+     683.1434399999999,
+     279.83988000000005,
+     693.10344
+    ],
+    [
+     28.310040000000015,
+     694.7866799999999,
+     251.48376000000007,
+     704.74668
+    ],
+    [
+     28.32,
+     715.28796,
+     234.79523999999998,
+     723.32796
+    ],
+    [
+     28.32,
+     734.37,
+     279.8598000000002,
+     744.3299999999999
+    ],
+    [
+     28.32,
+     745.8937199999999,
+     207.6298800000001,
+     755.85372
+    ],
+    [
+     315.36,
+     80.00999999999988,
+     566.7504000000001,
+     89.96999999999991
+    ],
+    [
+     333.35772000000003,
+     91.5337199999999,
+     566.9894400000001,
+     101.49371999999994
+    ],
+    [
+     333.35772000000003,
+     103.1769599999999,
+     566.8101600000001,
+     113.13695999999993
+    ],
+    [
+     333.35772000000003,
+     114.82019999999989,
+     566.7603600000001,
+     124.78019999999992
+    ],
+    [
+     333.35772000000003,
+     126.46343999999988,
+     391.0659600000001,
+     136.4234399999999
+    ],
+    [
+     315.36,
+     149.6303999999999,
+     566.7703200000001,
+     159.59039999999993
+    ],
+    [
+     333.35772000000003,
+     161.2736399999999,
+     566.97948,
+     171.23363999999992
+    ],
+    [
+     333.35772000000003,
+     172.91687999999988,
+     566.7603600000001,
+     182.87687999999991
+    ],
+    [
+     333.35772,
+     184.4405999999999,
+     431.61312000000004,
+     194.40059999999994
+    ],
+    [
+     315.36,
+     207.7270799999999,
+     566.88984,
+     217.68707999999992
+    ],
+    [
+     333.35772000000003,
+     219.37031999999988,
+     566.91972,
+     229.33031999999992
+    ],
+    [
+     333.35772000000003,
+     230.8940399999999,
+     566.8500000000001,
+     240.85403999999994
+    ],
+    [
+     333.35772000000003,
+     242.5372799999999,
+     403.30680000000007,
+     252.49727999999993
+    ],
+    [
+     315.36,
+     265.8237599999999,
+     567.0193200000001,
+     275.7837599999999
+    ],
+    [
+     333.3577200000001,
+     277.3474799999999,
+     566.7802800000002,
+     287.30747999999994
+    ],
+    [
+     333.3577200000001,
+     288.9907199999999,
+     566.8400400000003,
+     298.95071999999993
+    ],
+    [
+     333.3577200000001,
+     300.6339599999999,
+     544.4101200000002,
+     310.5939599999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q041_p16.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q042",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 42,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\n{{fonte:1}}\n\nConsiderando a geopolítica do petróleo e os dados da figura abaixo, em que se observam os grandes fluxos de importação e exportação desse recurso energético de origem mineral, pode-se afirmar que:",
+  "fontes": [
+   "(Adaptado de Yves Lacoste, *Geopolítica:* la larga história del presente. Madrid: Editorial Sintesis, 2008.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A porção do globo que mais importa petróleo é o Oriente Médio, região carente deste recurso."
+   },
+   {
+    "letra": "B",
+    "texto": "O Japão consome petróleo principalmente da Rússia, em função da proximidade geográfica."
+   },
+   {
+    "letra": "C",
+    "texto": "A Europa é importante exportadora de petróleo em função da grande quantidade de países produtores."
+   },
+   {
+    "letra": "D",
+    "texto": "A Venezuela é um importante exportador de petróleo para os EUA."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q042_img1.png",
+    "pagina": 16,
+    "bbox": [
+     315.4,
+     417.7,
+     566.6,
+     572.1
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     315.36,
+     335.60999999999996,
+     375.867,
+     345.57
+    ],
+    [
+     315.36,
+     360.0899999999999,
+     566.8798800000001,
+     370.04999999999995
+    ],
+    [
+     315.36,
+     371.61371999999994,
+     566.8101600000002,
+     381.57372
+    ],
+    [
+     315.36,
+     383.25695999999994,
+     566.9097600000001,
+     393.21696
+    ],
+    [
+     315.36,
+     394.9001999999999,
+     474.22200000000004,
+     404.86019999999996
+    ],
+    [
+     315.4088745,
+     417.65886109999997,
+     566.5587311,
+     572.1088123
+    ],
+    [
+     315.36,
+     574.89,
+     567.07632,
+     582.93
+    ],
+    [
+     315.36,
+     585.6877199999999,
+     425.72508000000005,
+     593.72772
+    ],
+    [
+     315.36,
+     618.0899999999999,
+     566.9496,
+     628.05
+    ],
+    [
+     329.52312,
+     629.7332399999999,
+     520.0380000000001,
+     639.69324
+    ],
+    [
+     315.36,
+     652.9001999999999,
+     566.84004,
+     662.8602
+    ],
+    [
+     329.51316,
+     664.5434399999999,
+     494.48063999999994,
+     674.50344
+    ],
+    [
+     315.35004000000004,
+     687.7103999999999,
+     566.93964,
+     697.6704
+    ],
+    [
+     329.51316,
+     699.3536399999999,
+     549.90804,
+     709.3136399999999
+    ],
+    [
+     315.36,
+     722.6401199999999,
+     566.8599600000001,
+     732.60012
+    ],
+    [
+     329.51316,
+     734.1638399999999,
+     384.48240000000004,
+     744.1238399999999
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q042_p16.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q043",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 43,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "No período das grandes navegações, os marinheiros enfrentavam sérios problemas quando as caravelas entravam em zonas de calmaria. Em relação ao tema, pode-se afirmar que:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "As caravelas possuíam estoque alimentar suficiente para permanecer vários meses estacionadas, para o caso de entrarem inadvertidamente em áreas de calmaria, que correspondem a porções de baixa pressão atmosférica."
+   },
+   {
+    "letra": "B",
+    "texto": "As áreas de calmaria correspondiam a porções de alta pressão atmosférica, típicas das latitudes próximas aos trópicos e, consequentemente, as caravelas permaneciam estacionadas, agravando as condições de vida dos marinheiros."
+   },
+   {
+    "letra": "C",
+    "texto": "O oceano era conhecido como Mar Tenebroso, em razão da crença na existência de monstros marinhos, mesmo sabendo-se que o mar era seguro nas áreas de calmaria das porções equatoriais."
+   },
+   {
+    "letra": "D",
+    "texto": "A viagem atrasava meses quando se atingia uma área de calmaria, pois as células de alta pressão não se deslocam ao longo do ano, o que causava problemas de desabastecimento e doenças temidas pelos navegadores, como o escorbuto."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     28.32,
+     80.24999999999989,
+     88.80708000000001,
+     90.20999999999992
+    ],
+    [
+     28.32,
+     104.6099999999999,
+     279.82992000000013,
+     114.56999999999994
+    ],
+    [
+     28.32,
+     116.25323999999989,
+     279.8199600000002,
+     126.21323999999993
+    ],
+    [
+     28.32,
+     127.89647999999988,
+     279.8498400000002,
+     137.85647999999992
+    ],
+    [
+     28.32,
+     139.4201999999999,
+     117.10344000000002,
+     149.38019999999995
+    ],
+    [
+     28.329960000000007,
+     162.7066799999999,
+     279.76020000000005,
+     172.66667999999993
+    ],
+    [
+     42.493080000000006,
+     174.34991999999988,
+     279.9195600000001,
+     184.30991999999992
+    ],
+    [
+     42.493080000000006,
+     185.8736399999999,
+     279.7402800000001,
+     195.83363999999995
+    ],
+    [
+     42.493080000000006,
+     197.5168799999999,
+     279.7303200000001,
+     207.47687999999994
+    ],
+    [
+     42.493080000000006,
+     209.27963999999986,
+     129.62316,
+     219.2396399999999
+    ],
+    [
+     28.32996000000003,
+     230.7633599999998,
+     279.74028000000027,
+     240.72335999999984
+    ],
+    [
+     42.48312000000003,
+     242.4065999999998,
+     279.81000000000006,
+     252.36659999999983
+    ],
+    [
+     42.48312000000003,
+     253.93031999999982,
+     279.9394800000001,
+     263.89031999999986
+    ],
+    [
+     42.48312000000003,
+     265.5735599999998,
+     279.74028000000015,
+     275.53355999999985
+    ],
+    [
+     42.48312000000003,
+     277.3363199999998,
+     132.94980000000007,
+     287.2963199999998
+    ],
+    [
+     28.32000000000002,
+     298.8200399999997,
+     279.81996,
+     308.78003999999976
+    ],
+    [
+     42.48312000000002,
+     310.4632799999997,
+     279.8498400000001,
+     320.42327999999975
+    ],
+    [
+     42.48312000000004,
+     321.98699999999974,
+     279.8299200000002,
+     331.9469999999998
+    ],
+    [
+     42.48312000000004,
+     333.74975999999975,
+     183.45696000000012,
+     343.7097599999998
+    ],
+    [
+     28.32996000000003,
+     355.23347999999976,
+     279.8797200000003,
+     365.1934799999998
+    ],
+    [
+     42.48312000000003,
+     366.87671999999975,
+     279.78012000000007,
+     376.8367199999998
+    ],
+    [
+     42.48312000000004,
+     378.51995999999974,
+     279.8598000000001,
+     388.4799599999998
+    ],
+    [
+     42.48312000000004,
+     390.16319999999973,
+     279.82992000000013,
+     400.12319999999977
+    ],
+    [
+     42.48312000000004,
+     401.8064399999997,
+     181.89324000000002,
+     411.76643999999976
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q043_p17.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q044",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 44,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O Brasil experimentou, na segunda metade do século 20, uma das mais rápidas transições urbanas da história mundial. Ela transformou rapidamente um país rural e agrícola em um país urbano e metropolitano, no qual grande parte da população passou a morar em cidades grandes. Hoje, quase dois quintos da população total residem em uma cidade de pelo menos um milhão de habitantes.\n\n{{fonte:1}}\n\nConsiderando o trecho acima, assinale a alternativa correta.",
+  "fontes": [
+   "(Adaptado de George Martine e Gordon McGranahan, “A transição urbana brasileira: trajetória, dificuldades e lições aprendidas”, em Rosana Baeninger (org.), *População e cidades*: subsídios para o planejamento e para as políticas sociais. Campinas: Nepo / Brasília: UNFPA, 2010, p. 11.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A partir de 1930, a ocupação das fronteiras agrícolas (na Amazônia, no Centro-Oeste, no Paraná) foi o fator gerador de deslocamentos de população no Brasil."
+   },
+   {
+    "letra": "B",
+    "texto": "Uma das características mais marcantes da urbanização no período 1930-1980 foi a distribuição da população urbana em cidades de diferentes tamanhos, em especial nas cidades médias."
+   },
+   {
+    "letra": "C",
+    "texto": "Os últimos censos têm mostrado que as grandes cidades (mais de 500 mil habitantes) têm tido crescimento relativo mais acelerado em comparação com as médias e as pequenas."
+   },
+   {
+    "letra": "D",
+    "texto": "Com a crise de 1929, o Brasil voltou-se para o desenvolvimento do mercado interno através de uma industrialização por substituição de importações, o que demandou mão de obra urbana numerosa."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     28.32,
+     423.44999999999993,
+     88.80708000000001,
+     433.40999999999997
+    ],
+    [
+     28.32,
+     447.92999999999995,
+     279.76020000000005,
+     457.89
+    ],
+    [
+     28.32,
+     459.57323999999994,
+     279.73032000000006,
+     469.53324
+    ],
+    [
+     28.32,
+     471.09695999999997,
+     279.8199599999999,
+     481.05696
+    ],
+    [
+     28.319999999999993,
+     482.74019999999996,
+     279.80004000000014,
+     492.7002
+    ],
+    [
+     28.319999999999993,
+     494.38343999999995,
+     279.93948,
+     504.34344
+    ],
+    [
+     28.319999999999993,
+     506.02667999999994,
+     279.9594,
+     515.98668
+    ],
+    [
+     28.319999999999993,
+     517.5504,
+     279.8398800000001,
+     527.5104
+    ],
+    [
+     28.319999999999993,
+     529.19364,
+     75.49055999999999,
+     539.15364
+    ],
+    [
+     28.32,
+     551.49,
+     280.10064,
+     559.53
+    ],
+    [
+     28.319999999999993,
+     560.7279599999999,
+     279.8916,
+     568.7679599999999
+    ],
+    [
+     28.32000000000002,
+     570.0865200000001,
+     279.86748,
+     578.12652
+    ],
+    [
+     28.32000000000002,
+     579.32448,
+     274.76208,
+     587.36448
+    ],
+    [
+     28.32,
+     599.9741999999999,
+     269.8704,
+     609.4541999999999
+    ],
+    [
+     28.32,
+     634.2969599999999,
+     279.8498400000001,
+     644.2569599999999
+    ],
+    [
+     42.48312,
+     645.9402,
+     279.86976000000004,
+     655.9001999999999
+    ],
+    [
+     42.483119999999985,
+     657.5834399999999,
+     257.46972000000005,
+     667.5434399999999
+    ],
+    [
+     28.319999999999993,
+     680.7503999999999,
+     279.9295200000002,
+     690.7103999999999
+    ],
+    [
+     42.47315999999999,
+     692.3936399999999,
+     279.8000399999999,
+     702.3536399999999
+    ],
+    [
+     42.48,
+     704.01,
+     279.65748,
+     713.9699999999999
+    ],
+    [
+     42.48,
+     715.5337199999999,
+     162.97608000000005,
+     725.4937199999999
+    ],
+    [
+     28.316879999999998,
+     738.8202,
+     279.72720000000004,
+     748.7801999999999
+    ],
+    [
+     42.48,
+     750.46344,
+     279.83675999999997,
+     760.42344
+    ],
+    [
+     42.47999999999999,
+     761.98716,
+     280.0359600000001,
+     771.9471599999999
+    ],
+    [
+     42.47999999999999,
+     773.6304,
+     171.34247999999997,
+     783.5903999999999
+    ],
+    [
+     315.36408,
+     80.03591999999992,
+     566.8839600000001,
+     89.99591999999996
+    ],
+    [
+     329.51724,
+     91.55963999999994,
+     566.89392,
+     101.51963999999998
+    ],
+    [
+     329.51724,
+     103.20287999999994,
+     566.7445200000001,
+     113.16287999999997
+    ],
+    [
+     329.51724,
+     114.84611999999993,
+     513.3091199999999,
+     124.80611999999996
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q044_p17.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q045",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 45,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Importantes transformações produtivas e na forma de organização do trabalho têm ocorrido nas últimas décadas em todo o mundo e também no Brasil. Assinale a alternativa correta.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Em todo o mundo vêm sendo observadas mudanças em relação ao assalariamento e ao desemprego, como a precarização das relações de trabalho para desoneração da produção, e o crescimento da informalidade."
+   },
+   {
+    "letra": "B",
+    "texto": "Acordos e tratados internacionais, dos quais o Brasil é signatário, tratam da questão do trabalho escravo e proíbem a escravidão por dívida, razão pela qual esse tipo de trabalho forçado não é registrado no país desde 1888."
+   },
+   {
+    "letra": "C",
+    "texto": "Considerando a oferta de trabalho no Brasil, observa-se uma mudança de tendência, com a diminuição de oferta de emprego no setor primário e terciário, e efetivo aumento da oferta de emprego no setor secundário da economia."
+   },
+   {
+    "letra": "D",
+    "texto": "Uma característica marcante das relações de trabalho na etapa atual do modo de produção é a maior organização sindical."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     315.36,
+     148.64999999999998,
+     375.84708,
+     158.61
+    ],
+    [
+     315.36,
+     173.12999999999988,
+     566.8699200000001,
+     183.08999999999992
+    ],
+    [
+     315.36,
+     184.77323999999987,
+     566.8400400000002,
+     194.7332399999999
+    ],
+    [
+     315.36,
+     196.2969599999999,
+     566.8898400000003,
+     206.25695999999994
+    ],
+    [
+     315.36,
+     207.9401999999999,
+     395.38860000000005,
+     217.90019999999993
+    ],
+    [
+     315.36000000000007,
+     231.22667999999987,
+     566.8998000000001,
+     241.1866799999999
+    ],
+    [
+     329.52312000000006,
+     242.7503999999999,
+     566.7006000000002,
+     252.71039999999994
+    ],
+    [
+     329.52312000000006,
+     254.3936399999999,
+     566.9994000000003,
+     264.3536399999999
+    ],
+    [
+     329.52312000000006,
+     266.0368799999999,
+     566.8101600000001,
+     275.9968799999999
+    ],
+    [
+     329.52312000000006,
+     277.6801199999999,
+     391.0759200000001,
+     287.6401199999999
+    ],
+    [
+     315.36000000000007,
+     302.63987999999995,
+     566.7504000000001,
+     312.59988
+    ],
+    [
+     329.5131600000001,
+     314.1636,
+     566.9097600000001,
+     324.1236
+    ],
+    [
+     329.5131600000001,
+     325.80683999999997,
+     566.8002000000002,
+     335.76684
+    ],
+    [
+     329.5131600000001,
+     337.45007999999996,
+     566.7404400000003,
+     347.41008
+    ],
+    [
+     329.5131600000001,
+     349.09331999999995,
+     354.4729200000001,
+     359.05332
+    ],
+    [
+     315.35004000000004,
+     374.05307999999997,
+     566.9197200000002,
+     384.01308
+    ],
+    [
+     329.5032000000001,
+     385.5768,
+     566.7304800000002,
+     395.5368
+    ],
+    [
+     329.5032000000001,
+     397.22004,
+     566.7304800000001,
+     407.18004
+    ],
+    [
+     329.5032000000001,
+     408.86328,
+     566.7504000000002,
+     418.82328
+    ],
+    [
+     329.5032000000001,
+     420.50651999999997,
+     436.0453200000001,
+     430.46652
+    ],
+    [
+     315.3400800000001,
+     445.46628,
+     566.8599600000003,
+     455.42628
+    ],
+    [
+     329.4932400000001,
+     456.99,
+     566.9097600000002,
+     466.95000000000005
+    ],
+    [
+     329.4932400000001,
+     468.63324,
+     417.6990000000002,
+     478.59324000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q045_p17.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q046",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 46,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Ao considerar a influência da infiltração da água no solo e o escoamento superficial em topos e encostas, é correto afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a maior infiltração e o menor escoamento superficial retardam o processo de intemperismo físico e aceleram a erosão."
+   },
+   {
+    "letra": "B",
+    "texto": "a menor infiltração e o menor escoamento superficial inibem a erosão e favorecem o intemperismo químico."
+   },
+   {
+    "letra": "C",
+    "texto": "a menor infiltração e o maior escoamento superficial aceleram o intemperismo físico e químico e retardam o processo de erosão."
+   },
+   {
+    "letra": "D",
+    "texto": "a infiltração e o escoamento superficial aceleram, respectivamente, os processos de intemperismo químico e de erosão."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     315.36,
+     513.6899999999999,
+     375.84708,
+     523.65
+    ],
+    [
+     315.36,
+     538.05,
+     566.8699200000002,
+     548.01
+    ],
+    [
+     315.36,
+     549.69324,
+     566.9695200000001,
+     559.65324
+    ],
+    [
+     315.36,
+     561.3364799999999,
+     364.72176,
+     571.29648
+    ],
+    [
+     315.36,
+     586.29624,
+     566.9197200000001,
+     596.2562399999999
+    ],
+    [
+     329.52311999999995,
+     597.81996,
+     566.8201200000001,
+     607.77996
+    ],
+    [
+     329.52311999999995,
+     609.4631999999999,
+     368.40695999999997,
+     619.4232
+    ],
+    [
+     315.36,
+     631.77,
+     566.9296800000001,
+     641.73
+    ],
+    [
+     329.52312000000006,
+     643.41324,
+     561.0732000000002,
+     653.3732399999999
+    ],
+    [
+     315.36,
+     665.73,
+     566.9296800000001,
+     675.6899999999999
+    ],
+    [
+     329.53308000000004,
+     677.2537199999999,
+     566.8400400000002,
+     687.21372
+    ],
+    [
+     329.53308000000004,
+     688.8969599999999,
+     413.8843200000001,
+     698.85696
+    ],
+    [
+     315.3799200000001,
+     712.1834399999999,
+     566.8101600000003,
+     722.1434399999999
+    ],
+    [
+     329.5330800000001,
+     723.7071599999999,
+     566.8500000000001,
+     733.66716
+    ],
+    [
+     329.5330800000001,
+     735.3503999999999,
+     418.3264800000001,
+     745.3104
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q046_p17.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q047",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 47,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Abaixo é reproduzido um mapa-múndi na projeção de Mercator.\n\n{{img:1}}\n\n{{fonte:1}}\n\nÉ possível afirmar que, nesta projeção,",
+  "fontes": [
+   "(Adaptado de http://www.geog.ubc.ca/courses/geob370/notes/georeferencing/Rect_CoordsLect.html.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "os meridianos e paralelos não se cruzam formando ângulos de 90°, o que promove um aumento das massas continentais em latitudes elevadas."
+   },
+   {
+    "letra": "B",
+    "texto": "os meridianos e paralelos se cruzam formando ângulos de 90°, o que distorce mais as porções terrestres próximas aos polos e menos as porções próximas ao equador."
+   },
+   {
+    "letra": "C",
+    "texto": "não há distorções nas massas continentais e oceanos em nenhuma latitude, possibilitando o uso deste mapa para a navegação marítima até os dias atuais."
+   },
+   {
+    "letra": "D",
+    "texto": "os meridianos e paralelos se cruzam formando ângulos perfeitos de 90°, o que possibilita a representação da Terra sem deformações."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q047_img1.png",
+    "pagina": 18,
+    "bbox": [
+     48.7,
+     137.7,
+     272.9,
+     264.5
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     28.32,
+     80.24999999999989,
+     88.80708000000001,
+     90.20999999999992
+    ],
+    [
+     28.32,
+     104.6099999999999,
+     279.8598,
+     114.56999999999994
+    ],
+    [
+     28.310039999999987,
+     116.25323999999989,
+     70.07231999999999,
+     126.21323999999993
+    ],
+    [
+     48.724823,
+     137.67512699999997,
+     272.8747864,
+     264.47509949999994
+    ],
+    [
+     46.08,
+     265.28999999999996,
+     262.23539999999997,
+     273.3299999999999
+    ],
+    [
+     87.71915999999999,
+     274.52796,
+     220.58820000000009,
+     282.56795999999997
+    ],
+    [
+     28.32,
+     295.8932399999999,
+     191.52456,
+     305.8532399999999
+    ],
+    [
+     28.32,
+     319.05323999999996,
+     279.79008,
+     329.01324
+    ],
+    [
+     42.48312,
+     330.69647999999995,
+     279.8000400000001,
+     340.65648
+    ],
+    [
+     42.48312,
+     342.33971999999994,
+     223.40652000000014,
+     352.29972
+    ],
+    [
+     28.32996000000003,
+     365.50667999999996,
+     279.8100000000001,
+     375.46668
+    ],
+    [
+     42.48312000000003,
+     377.14991999999995,
+     279.97932000000003,
+     387.10992
+    ],
+    [
+     42.48312000000003,
+     388.79315999999994,
+     279.80004000000014,
+     398.75316
+    ],
+    [
+     42.48312000000003,
+     400.31687999999997,
+     80.75940000000003,
+     410.27688
+    ],
+    [
+     28.32000000000003,
+     423.60335999999995,
+     279.89964000000015,
+     433.56336
+    ],
+    [
+     42.48312000000003,
+     435.24659999999994,
+     279.73032,
+     445.2066
+    ],
+    [
+     42.483120000000035,
+     446.77031999999997,
+     236.2549200000002,
+     456.73032
+    ],
+    [
+     28.32000000000002,
+     470.05679999999995,
+     279.8000400000001,
+     480.0168
+    ],
+    [
+     42.47316000000002,
+     481.70003999999994,
+     279.85980000000006,
+     491.66004
+    ],
+    [
+     42.47316000000002,
+     493.22375999999997,
+     144.72252000000003,
+     503.18376
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q047_p18.jpg"
+  ]
+ },
+ {
+  "id": "P2116-Q048",
+  "prova_id": "P2116",
+  "idioma": null,
+  "vestibular": "UNICAMP",
+  "ano": "2012",
+  "edicao": "regular",
+  "fase_etapa": "1ª fase",
+  "dia": "",
+  "caderno": "",
+  "numero": 48,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "“A produção de grãos no Brasil na safra 2009/2010 será recorde (147,10 milhões de toneladas), superando em 8,8% o volume produzido na safra 2008/2009 (....). A área plantada na safra 2009/2010 é de 47,33 milhões de hectares, 0,7% menor que a cultivada na safra 2008/2009.” (*Jornal Brasil Econômico*, 06/08/2010, p. 17.)\n\nO aumento de produção de grãos em área menor indica um aumento da produtividade, em função dos seguintes fatores:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "uso de sementes geneticamente modificadas, baixa utilização de insumos agrícolas e de maquinário, mão de obra predominantemente assalariada e uso intensivo do solo."
+   },
+   {
+    "letra": "B",
+    "texto": "uso de sementes de melhor qualidade, maior utilização de insumos agrícolas e de maquinário, mão de obra predominantemente assalariada e uso intensivo do solo."
+   },
+   {
+    "letra": "C",
+    "texto": "uso de sementes de melhor qualidade, maior utilização de insumos agrícolas e de maquinário, mão de obra predominantemente familiar e uso extensivo do solo."
+   },
+   {
+    "letra": "D",
+    "texto": "uso de sementes geneticamente modificadas, maior utilização de insumos agrícolas e de maquinário, mão de obra predominantemente familiar e uso intensivo do solo."
+   }
+  ],
+  "apos_alternativas": "",
+  "formato": "objetiva",
+  "itens": [],
+  "gabarito_discursivo": null,
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     315.36,
+     80.24999999999989,
+     375.84708,
+     90.20999999999992
+    ],
+    [
+     315.36,
+     104.6099999999999,
+     567.0292800000001,
+     114.56999999999994
+    ],
+    [
+     315.36,
+     116.25323999999989,
+     566.8699200000001,
+     126.21323999999993
+    ],
+    [
+     315.36,
+     127.89647999999988,
+     566.8599600000001,
+     137.85647999999992
+    ],
+    [
+     315.36,
+     139.4201999999999,
+     566.8101600000001,
+     149.38019999999995
+    ],
+    [
+     315.36,
+     151.0634399999999,
+     566.9994000000002,
+     161.02343999999994
+    ],
+    [
+     315.36,
+     162.82619999999986,
+     564.81816,
+     172.7861999999999
+    ],
+    [
+     315.36996,
+     185.99315999999988,
+     566.9296800000001,
+     195.9531599999999
+    ],
+    [
+     315.36996,
+     197.63639999999987,
+     567.0292800000001,
+     207.5963999999999
+    ],
+    [
+     315.36996,
+     209.1601199999999,
+     347.65032,
+     219.12011999999993
+    ],
+    [
+     315.36996,
+     247.5559199999999,
+     566.82012,
+     257.51591999999994
+    ],
+    [
+     329.53308,
+     259.0796399999999,
+     566.7703200000001,
+     269.03963999999996
+    ],
+    [
+     329.53308,
+     270.7228799999999,
+     566.8400400000002,
+     280.68287999999995
+    ],
+    [
+     329.53308,
+     282.3661199999999,
+     403.93428000000006,
+     292.32611999999995
+    ],
+    [
+     315.36996000000005,
+     307.32587999999987,
+     566.8300800000001,
+     317.2858799999999
+    ],
+    [
+     329.52312000000006,
+     318.96911999999986,
+     566.7802800000001,
+     328.9291199999999
+    ],
+    [
+     329.52312000000006,
+     330.4928399999999,
+     566.8699200000003,
+     340.4528399999999
+    ],
+    [
+     329.52312000000006,
+     342.1360799999999,
+     349.4431200000001,
+     352.0960799999999
+    ],
+    [
+     315.36000000000007,
+     365.42255999999986,
+     566.8300800000001,
+     375.3825599999999
+    ],
+    [
+     329.52312000000006,
+     376.9462799999999,
+     566.7802800000001,
+     386.9062799999999
+    ],
+    [
+     329.52312000000006,
+     388.5895199999999,
+     555.5553600000001,
+     398.5495199999999
+    ],
+    [
+     315.36000000000007,
+     413.5492799999999,
+     566.7404400000003,
+     423.50927999999993
+    ],
+    [
+     329.5131600000001,
+     425.1925199999999,
+     566.7603600000003,
+     435.1525199999999
+    ],
+    [
+     329.5131600000001,
+     436.8357599999999,
+     566.7006000000002,
+     446.7957599999999
+    ],
+    [
+     329.5131600000001,
+     448.3594799999999,
+     349.4331600000001,
+     458.31947999999994
+    ]
+   ]
+  },
+  "arquivo_origem": "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED/Materiais UNICAMP/Provas Unicamp 2011 - 2025/UNICAMP 2012/primeira fase/Prova Q e Z.pdf",
+  "gabarito_origem": [
+   "P2115"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q048_p18.jpg"
+  ]
+ }
+]

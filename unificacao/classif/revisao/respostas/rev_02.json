@@ -1,0 +1,602 @@
+[
+{
+"id": 116758,
+"sub": "A069-02",
+"conf": "media",
+"motivo": "Condição humana e cultura como produção humana (antropologia filosófica)"
+},
+{
+"id": 117091,
+"sub": "A071-02",
+"conf": "media",
+"motivo": "Filosofia medieval centrada na revelação divina (fé e razão)"
+},
+{
+"id": 117706,
+"sub": "A069-02",
+"conf": "baixa",
+"motivo": "Raciocínio lógico baseado em axiomas (lógica como campo da filosofia)"
+},
+{
+"id": 118547,
+"sub": "A073-01",
+"conf": "baixa",
+"motivo": "Dialética hegeliana e suas etapas"
+},
+{
+"id": 118618,
+"sub": "A073-02",
+"conf": "media",
+"motivo": "Nietzsche: super-homem e transvaloração dos valores"
+},
+{
+"id": 118892,
+"sub": "A073-02",
+"conf": "media",
+"motivo": "Nietzsche: conceito de transvaloração dos valores"
+},
+{
+"id": 118942,
+"sub": "A073-02",
+"conf": "media",
+"motivo": "Nietzsche: moral dos nobres e moral do escravo"
+},
+{
+"id": 119100,
+"sub": "A073-02",
+"conf": "media",
+"motivo": "Nietzsche: crítica à fundamentação metafísica da moral"
+},
+{
+"id": 119257,
+"sub": "A073-02",
+"conf": "media",
+"motivo": "Nietzsche: genealogia da moral, ressentimento e moral nobre"
+},
+{
+"id": 119544,
+"sub": "A069-02",
+"conf": "baixa",
+"motivo": "Concepção filosófica do homem como ser social antes de indivíduo"
+},
+{
+"id": 119698,
+"sub": "A072-01",
+"conf": "media",
+"motivo": "Pascal: pensamento moderno de ótica teológica"
+},
+{
+"id": 119772,
+"sub": "A076-01",
+"conf": "media",
+"motivo": "Debate ciência e fé: interpretações distintas do evolucionismo"
+},
+{
+"id": 121496,
+"sub": "A074-01",
+"conf": "baixa",
+"motivo": "Interpretação de aforismo de Nietzsche sobre amor a si e isolamento"
+},
+{
+"id": 3038,
+"sub": "A019-03",
+"conf": "media",
+"motivo": "Cálculo do período de um movimento periódico (passadas)"
+},
+{
+"id": 6294,
+"sub": "A021-03",
+"conf": "baixa",
+"motivo": "Perdas de energia por efeito Joule na transmissão a longa distância"
+},
+{
+"id": 6895,
+"sub": "A021-02",
+"conf": "media",
+"motivo": "Geração de diferença de potencial pela interação de elétrons e cátions"
+},
+{
+"id": 7156,
+"sub": "A021-01",
+"conf": "baixa",
+"motivo": "Piezoeletricidade: conversão de pressão mecânica em sinal elétrico (microfone)"
+},
+{
+"id": 8038,
+"sub": "A015-02",
+"conf": "media",
+"motivo": "Tração em cabo com polias e blocos acelerados (2ª lei de Newton)"
+},
+{
+"id": 8799,
+"sub": "A015-04",
+"conf": "media",
+"motivo": "Forças conservativas: trabalho independente da trajetória"
+},
+{
+"id": 9652,
+"sub": "A015-05",
+"conf": "alta",
+"motivo": "Choque parcialmente elástico com transferência de energia e momento"
+},
+{
+"id": 100228,
+"sub": "A018-03",
+"conf": "baixa",
+"motivo": "Capacidade de refrigeração (calor) e corrente elétrica para dimensionar aparelhos"
+},
+{
+"id": 100230,
+"sub": "A021-03",
+"conf": "baixa",
+"motivo": "Interpretação de texto sobre iontoforese por corrente elétrica"
+},
+{
+"id": 100233,
+"sub": "A023-02",
+"conf": "media",
+"motivo": "Absorção de raios X pelos átomos de cálcio na formação da imagem"
+},
+{
+"id": 100368,
+"sub": "A021-04",
+"conf": "media",
+"motivo": "Símbolo de aterramento em instalação elétrica (fio terra)"
+},
+{
+"id": 100370,
+"sub": "A019-01",
+"conf": "media",
+"motivo": "Relação entre frequência/energia da luz e absorção pelo tecido"
+},
+{
+"id": 101116,
+"sub": "A021-03",
+"conf": "media",
+"motivo": "Equipamentos isolantes para evitar passagem de corrente pelo corpo"
+},
+{
+"id": 101122,
+"sub": "A025-01",
+"conf": "baixa",
+"motivo": "Classes de incêndio e propriedades da água no combate ao fogo"
+},
+{
+"id": 101244,
+"sub": "A015-02",
+"conf": "media",
+"motivo": "Velocidade limite de queda com resistência do ar e densidade"
+},
+{
+"id": 101254,
+"sub": "A015-02",
+"conf": "media",
+"motivo": "Resistência do ar e defletor aerodinâmico"
+},
+{
+"id": 101343,
+"sub": "A023-02",
+"conf": "baixa",
+"motivo": "Interpretação de texto sobre uso medicinal do laser"
+},
+{
+"id": 101658,
+"sub": "A019-01",
+"conf": "media",
+"motivo": "Leitura de gráfico de absorção por comprimento de onda"
+},
+{
+"id": 102008,
+"sub": "A015-04",
+"conf": "alta",
+"motivo": "Princípio da conservação da energia mecânica na tirinha"
+},
+{
+"id": 102833,
+"sub": "A019-01",
+"conf": "media",
+"motivo": "Conversão de energia de ondas eletromagnéticas em elétrica"
+},
+{
+"id": 103631,
+"sub": "A016-02",
+"conf": "baixa",
+"motivo": "Leitura de gráfico sobre sinal de satélite geoestacionário"
+},
+{
+"id": 103977,
+"sub": "A023-02",
+"conf": "media",
+"motivo": "Fosforescência: emissão de luz retardada após absorção"
+},
+{
+"id": 104299,
+"sub": "A014-01",
+"conf": "media",
+"motivo": "Velocidade média mínima e leitura de gráfico de consumo"
+},
+{
+"id": 104310,
+"sub": "A018-03",
+"conf": "media",
+"motivo": "Perda de calor pela evaporação do suor (calor latente)"
+},
+{
+"id": 104448,
+"sub": "A015-02",
+"conf": "media",
+"motivo": "Deformação de materiais sob carga (força elástica) em gráfico"
+},
+{
+"id": 105136,
+"sub": "A014-03",
+"conf": "media",
+"motivo": "Tempo de queda depende da altura de lançamento (deriva)"
+},
+{
+"id": 105291,
+"sub": "A021-01",
+"conf": "media",
+"motivo": "Água deionizada como isolante elétrico"
+},
+{
+"id": 105294,
+"sub": "A021-02",
+"conf": "alta",
+"motivo": "Ativação por campo elétrico: aplicação de diferença de potencial"
+},
+{
+"id": 105450,
+"sub": "A013-01",
+"conf": "baixa",
+"motivo": "Cálculo proporcional de energia de um relâmpago"
+},
+{
+"id": 105471,
+"sub": "A018-02",
+"conf": "alta",
+"motivo": "Dilatação térmica dos materiais com a variação de temperatura"
+},
+{
+"id": 105695,
+"sub": "A018-03",
+"conf": "alta",
+"motivo": "Capacidade térmica do ar e variação de temperatura"
+},
+{
+"id": 106249,
+"sub": "A014-04",
+"conf": "media",
+"motivo": "Período e frequência: efeito estroboscópico"
+},
+{
+"id": 106594,
+"sub": "A013-01",
+"conf": "alta",
+"motivo": "Conversão de unidades de energia (GWh e MWh)"
+},
+{
+"id": 106617,
+"sub": "A022-02",
+"conf": "media",
+"motivo": "Corrente alternada e variação do fluxo magnético"
+},
+{
+"id": 106769,
+"sub": "A015-06",
+"conf": "media",
+"motivo": "Centro de massa do corpo durante o salto"
+},
+{
+"id": 107185,
+"sub": "A018-01",
+"conf": "media",
+"motivo": "Variação de temperatura por distância no interior do Sol"
+},
+{
+"id": 107413,
+"sub": "A021-02",
+"conf": "media",
+"motivo": "Leitura de gráfico de intensidade do campo elétrico pela distância"
+},
+{
+"id": 107685,
+"sub": "A024-02",
+"conf": "media",
+"motivo": "Paralaxe geocêntrica e distância Terra-Lua"
+},
+{
+"id": 107748,
+"sub": "A019-01",
+"conf": "media",
+"motivo": "Energia da radiação: intensidade x área x tempo"
+},
+{
+"id": 107762,
+"sub": "A021-03",
+"conf": "media",
+"motivo": "Corrente alternada: alternância do movimento das cargas"
+},
+{
+"id": 108336,
+"sub": "A020-01",
+"conf": "baixa",
+"motivo": "Transmissão e absorção luminosa em vidros (porcentagens)"
+},
+{
+"id": 108867,
+"sub": "A021-01",
+"conf": "media",
+"motivo": "Conservação da carga elétrica na aniquilação de pares"
+},
+{
+"id": 110326,
+"sub": "A015-01",
+"conf": "alta",
+"motivo": "Segunda lei de Newton: maior massa exige maior força"
+},
+{
+"id": 110589,
+"sub": "A018-01",
+"conf": "baixa",
+"motivo": "Amplitude térmica a partir de gráfico de temperaturas"
+},
+{
+"id": 110726,
+"sub": "A018-01",
+"conf": "media",
+"motivo": "Temperatura e energia térmica das partículas (frio como ausência de calor)"
+},
+{
+"id": 111174,
+"sub": "A015-02",
+"conf": "media",
+"motivo": "Tração em cordas e polias para reduzir esforço"
+},
+{
+"id": 111545,
+"sub": "A021-03",
+"conf": "media",
+"motivo": "Potência dissipada na linha e custo da energia elétrica"
+},
+{
+"id": 111827,
+"sub": "A023-02",
+"conf": "media",
+"motivo": "Material absorve luz azul e emite outra cor (luminescência)"
+},
+{
+"id": 111872,
+"sub": "A015-06",
+"conf": "media",
+"motivo": "Correção da posição do centro de massa"
+},
+{
+"id": 111931,
+"sub": "A013-01",
+"conf": "media",
+"motivo": "Ordem de grandeza da população atendida"
+},
+{
+"id": 112122,
+"sub": "A015-01",
+"conf": "baixa",
+"motivo": "Interpretação de texto sobre sistema de frenagem"
+},
+{
+"id": 112280,
+"sub": "A015-03",
+"conf": "media",
+"motivo": "Potência a partir de energia diária lida em gráfico"
+},
+{
+"id": 112808,
+"sub": "A020-03",
+"conf": "media",
+"motivo": "Luz branca como composição de todas as cores (dispersão no prisma)"
+},
+{
+"id": 112961,
+"sub": "A021-03",
+"conf": "media",
+"motivo": "Proporcionalidade entre força, carga e tensão no sensor piezoelétrico"
+},
+{
+"id": 112975,
+"sub": "A018-03",
+"conf": "media",
+"motivo": "Mesma quantidade de calor com menor temperatura e maior tempo"
+},
+{
+"id": 113171,
+"sub": "A018-06",
+"conf": "media",
+"motivo": "Circulação de calor em usina termonuclear"
+},
+{
+"id": 113224,
+"sub": "A019-01",
+"conf": "media",
+"motivo": "Relação frequência e comprimento de onda em espectro de emissão"
+},
+{
+"id": 113230,
+"sub": "A021-03",
+"conf": "media",
+"motivo": "Sensibilidade do resistor: inclinação de R x T"
+},
+{
+"id": 113387,
+"sub": "A014-01",
+"conf": "baixa",
+"motivo": "Distância de frenagem de pneus (enunciado incompleto)"
+},
+{
+"id": 113615,
+"sub": "A015-02",
+"conf": "media",
+"motivo": "Peso é força, não pode ser expresso em quilogramas"
+},
+{
+"id": 115039,
+"sub": "A021-03",
+"conf": "media",
+"motivo": "Diodo/LED conduz corrente em um só sentido"
+},
+{
+"id": 115104,
+"sub": "A015-03",
+"conf": "media",
+"motivo": "Energia = potência x tempo (bateria da Voyager)"
+},
+{
+"id": 115132,
+"sub": "A017-02",
+"conf": "media",
+"motivo": "Empuxo igual ao peso do navio em equilíbrio"
+},
+{
+"id": 115243,
+"sub": "A022-01",
+"conf": "baixa",
+"motivo": "Transmissão de dados por correntes e ondas eletromagnéticas"
+},
+{
+"id": 115324,
+"sub": "A021-03",
+"conf": "baixa",
+"motivo": "Potência e consumo de energia (W, kWh) em texto"
+},
+{
+"id": 115430,
+"sub": "A013-01",
+"conf": "alta",
+"motivo": "Conversão de unidades de energia (MWh, kWh)"
+},
+{
+"id": 115579,
+"sub": "A088-02",
+"conf": "baixa",
+"motivo": "Coesão textual por catáfora; demais itens de física/química falsos"
+},
+{
+"id": 115760,
+"sub": "A015-03",
+"conf": "media",
+"motivo": "Potência média a partir da energia anual e gráfico do aerogerador"
+},
+{
+"id": 115991,
+"sub": "A019-02",
+"conf": "media",
+"motivo": "Difração e limite de resolução angular"
+},
+{
+"id": 116332,
+"sub": "A018-04",
+"conf": "media",
+"motivo": "Resfriamento de Newton: leitura de gráfico de temperatura"
+},
+{
+"id": 117928,
+"sub": "A018-03",
+"conf": "media",
+"motivo": "Resfriamento por evaporação e umidade do ar"
+},
+{
+"id": 118179,
+"sub": "A021-01",
+"conf": "media",
+"motivo": "Distribuição de cargas na superfície externa do condutor (blindagem)"
+},
+{
+"id": 118329,
+"sub": "A017-01",
+"conf": "media",
+"motivo": "Massa de água por vazão e densidade"
+},
+{
+"id": 119339,
+"sub": "A015-04",
+"conf": "media",
+"motivo": "Energia cinética convertida em calor pelo atrito com o ar"
+},
+{
+"id": 119440,
+"sub": "A049-04",
+"conf": "baixa",
+"motivo": "Netuno é deus da mitologia romana, não grega"
+},
+{
+"id": 119454,
+"sub": "A016-01",
+"conf": "media",
+"motivo": "Imponderabilidade: gravidade não é nula em órbita"
+},
+{
+"id": 120484,
+"sub": "A021-04",
+"conf": "media",
+"motivo": "Amplitude e frequência de tensão alternada em resistores em série"
+},
+{
+"id": 120609,
+"sub": "A017-01",
+"conf": "baixa",
+"motivo": "Equação da continuidade (vazão) em seringa e microcanal"
+},
+{
+"id": 120650,
+"sub": "A019-03",
+"conf": "media",
+"motivo": "Período do pêndulo simples independente da massa"
+},
+{
+"id": 365,
+"sub": "A056-02",
+"conf": "baixa",
+"motivo": "Interpretação de fonte histórica sobre queimadas na agricultura colonial"
+},
+{
+"id": 945,
+"sub": "A063-01",
+"conf": "media",
+"motivo": "Poluição urbana e redução da expectativa de vida"
+},
+{
+"id": 964,
+"sub": "A065-01",
+"conf": "media",
+"motivo": "Desvantagem da biotecnologia agrícola para a sociedade"
+},
+{
+"id": 1121,
+"sub": "A062-01",
+"conf": "baixa",
+"motivo": "Visão moderna de ciência como dominação da natureza e degradação"
+},
+{
+"id": 1139,
+"sub": "A068-01",
+"conf": "baixa",
+"motivo": "Ocupação histórica da Amazônia ao longo dos rios"
+},
+{
+"id": 1213,
+"sub": "A062-03",
+"conf": "media",
+"motivo": "Consumo de água pela agricultura e reutilização como medida"
+},
+{
+"id": 1409,
+"sub": "A067-04",
+"conf": "media",
+"motivo": "Terminologia de regionalização: países em desenvolvimento"
+},
+{
+"id": 106049,
+"sub": "A019-02",
+"conf": "media",
+"motivo": "distinguir interferência em película fina (iridescência) de fluorescência e fosforescência (revisão feita pelo Claude)"
+}
+]

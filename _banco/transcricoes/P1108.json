@@ -1,0 +1,151 @@
+{
+ "_sobre": "Trechos que o código não consegue copiar do PDF (fórmulas em glifos-imagem, caracteres sem tradução, alternativas desenhadas). Transcrito pelo Claude lendo a imagem da página em 28/09/2026. Conferir.",
+ "Q049": {
+  "enunciado": "Nos heredogramas apresentados nas alternativas, ocorrem pessoas que têm alterações na formação do esmalte dos dentes (■ e ●).\n\nOs heredogramas em que as alterações do esmalte dos dentes têm herança ligada ao cromossomo X, dominante e recessiva, estão representados, respectivamente, em",
+  "nota": "enunciado transcrito lendo a imagem da página (símbolos ■ e ● digitados) — conferir"
+ },
+ "Q051": {
+  "enunciado": "As moléculas de glicídios produzidas a partir da fotossíntese são utilizadas no local da produção ou transportadas, pelo floema, para utilização em outras partes da planta; são, ainda, convertidas em substância de reserva, que é armazenada.\n\nAponte a alternativa que, corretamente, descreve o processo de transporte e o local de armazenamento dessas substâncias na planta.",
+  "alternativas": {
+   "A": "Transporte — entrada no floema: transporte ativo; fluxo no floema: unidirecional ↓. Armazenamento: apenas nos órgãos subterrâneos.",
+   "B": "Transporte — entrada no floema: transporte ativo; fluxo no floema: unidirecional ↓. Armazenamento: em todos os órgãos.",
+   "C": "Transporte — entrada no floema: transporte ativo; fluxo no floema: bidirecional ↑↓. Armazenamento: em todos os órgãos.",
+   "D": "Transporte — entrada no floema: transporte passivo; fluxo no floema: bidirecional ↑↓. Armazenamento: em todos os órgãos.",
+   "E": "Transporte — entrada no floema: transporte passivo; fluxo no floema: unidirecional ↓. Armazenamento: apenas nos órgãos subterrâneos."
+  },
+  "nota": "texto transcrito lendo a imagem da página — conferir. No original as alternativas são linhas de uma tabela com colunas TRANSPORTE (Entrada no floema | Fluxo no floema) e ARMAZENAMENTO; os rótulos das colunas foram repetidos em cada alternativa para manter o sentido."
+ },
+ "Q058": {
+  "enunciado": "A figura foi obtida em uma câmara de nuvens, equipamento que registra trajetórias deixadas por partículas eletricamente carregadas. Na figura, são mostradas as trajetórias dos produtos do decaimento de um isótopo do hélio \\(({}_{2}^{6}He)\\) em repouso: um elétron \\((e^{-})\\) e um isótopo de lítio \\(({}_{3}^{6}Li)\\), bem como suas respectivas quantidades de movimento linear, no instante do decaimento, representadas, em escala, pelas setas. Uma terceira partícula, denominada antineutrino (\\(\\bar{\\nu}\\), carga zero), é também produzida nesse processo.\n\n{{img:1}}\n\nO vetor que melhor representa a direção e o sentido da quantidade de movimento do antineutrino é",
+  "alternativas": {
+   "A": "{{img:3}}",
+   "B": "{{img:4}}",
+   "C": "{{img:5}}",
+   "D": "{{img:6}}",
+   "E": "{{img:7}}"
+  },
+  "nota": "texto transcrito lendo a imagem da página — conferir (notação nuclear em glifos-imagem no PDF). {{img:2}} removido do enunciado: era a faixa com as 5 setas das alternativas, já representadas por {{img:3}}–{{img:7}}. Alternativas são setas (a: diagonal para cima-direita; b: para a direita; c: para a esquerda; d: para cima levemente à esquerda; e: para baixo levemente à direita) — conferir recortes individuais."
+ },
+ "Q059": {
+  "enunciado": "Objetos em queda sofrem os efeitos da resistência do ar, a qual exerce uma força que se opõe ao movimento desses objetos, de tal modo que, após um certo tempo, eles passam a se mover com velocidade constante. Para uma partícula de poeira no ar, caindo verticalmente, essa força pode ser aproximada por \\(\\vec{F}_{a} = -b\\vec{v}\\), sendo \\(\\vec{v}\\) a velocidade da partícula de poeira e *b* uma constante positiva. O gráfico mostra o comportamento do módulo da força resultante sobre a partícula, \\(F_{R}\\), como função de \\(v\\), o módulo de \\(\\vec{v}\\).\n\n{{img:1}}\n\nO valor da constante *b*, em unidades de N·s/m, é",
+  "alternativas": {
+   "A": "\\(1{,}0 \\times 10^{-14}\\)",
+   "B": "\\(1{,}5 \\times 10^{-14}\\)",
+   "C": "\\(3{,}0 \\times 10^{-14}\\)",
+   "D": "\\(1{,}0 \\times 10^{-10}\\)",
+   "E": "\\(3{,}0 \\times 10^{-10}\\)"
+  },
+  "nota": "texto transcrito lendo a imagem da página — conferir (vetores em glifos-imagem no PDF). Após as alternativas há um quadro \"Note e adote: O ar está em repouso.\" (mantido fora deste JSON, já presente em APOS_ALTERNATIVAS)."
+ },
+ "Q080": {
+  "enunciado": "Sejam *a* e *b* dois números inteiros positivos. Diz-se que *a* e *b* são equivalentes se a soma dos divisores positivos de *a* coincide com a soma dos divisores positivos de *b*. Constituem dois inteiros positivos equivalentes:",
+  "alternativas": {
+   "A": "8 e 9.",
+   "B": "9 e 11.",
+   "C": "10 e 12.",
+   "D": "15 e 20.",
+   "E": "16 e 25."
+  },
+  "nota": "texto transcrito lendo a imagem da página — conferir (letras em glifos-imagem no PDF). Sem dúvidas de leitura."
+ },
+ "Q081": {
+  "enunciado": "O paralelepípedo reto-retângulo *ABCDEFGH*, representado na figura, tem medida dos lados \\(AB = 4\\), \\(BC = 2\\) e \\(BF = 2\\).\n\n{{img:1}}\n\nO seno do ângulo \\(H\\hat{A}F\\) é igual a",
+  "alternativas": {
+   "A": "\\(\\frac{1}{2\\sqrt{5}}\\)",
+   "B": "\\(\\frac{1}{\\sqrt{5}}\\)",
+   "C": "\\(\\frac{2}{\\sqrt{10}}\\)",
+   "D": "\\(\\frac{2}{\\sqrt{5}}\\)",
+   "E": "\\(\\frac{3}{\\sqrt{10}}\\)"
+  },
+  "nota": "texto transcrito lendo a imagem da página — conferir (fórmulas em glifos-imagem no PDF). O \"1\" solto no fim do enunciado da extração era o numerador da alternativa A. Sem dúvidas de leitura."
+ },
+ "Q082": {
+  "enunciado": "João tem *R*$ 150,00 para comprar canetas em 3 lojas. Na loja *A*, as canetas são vendidas em dúzias, cada dúzia custa *R*$ 40,00 e há apenas 2 dúzias em estoque. Na loja *B*, as canetas são vendidas em pares, cada par custa *R*$ 7,60 e há 10 pares em estoque. Na loja *C*, as canetas são vendidas avulsas, cada caneta custa *R*$ 3,20 e há 25 canetas em estoque. O maior número de canetas que João pode comprar nas lojas *A*, *B* e *C* utilizando no máximo *R*$ 150,00 é igual a",
+  "alternativas": {
+   "A": "46",
+   "B": "45",
+   "C": "44",
+   "D": "43",
+   "E": "42"
+  },
+  "nota": "texto transcrito lendo a imagem da página (fórmulas em glifos-imagem no PDF) — conferir; removido o negrito espúrio nas vírgulas dos valores."
+ },
+ "Q084": {
+  "enunciado": "O retângulo *ABCD*, representado na figura, tem lados de comprimento \\(AB = 3\\) e \\(BC = 4\\). O ponto *P* pertence ao lado \\(\\overline{BC}\\) e \\(BP = 1\\). Os pontos *R*, *S* e *T* pertencem aos lados \\(\\overline{AB}\\), \\(\\overline{CD}\\) e \\(\\overline{AD}\\), respectivamente. O segmento \\(\\overline{RS}\\) é paralelo a \\(\\overline{AD}\\) e intercepta \\(\\overline{DP}\\) no ponto *Q*. O segmento \\(\\overline{TQ}\\) é paralelo a \\(\\overline{AB}\\).\n\n{{img:1}}\n\nSendo *x* o comprimento de \\(\\overline{AR}\\), o maior valor da soma das áreas do retângulo *ARQT*, do triângulo *CQP* e do triângulo *DQS*, para *x* variando no intervalo aberto \\(]0{,}3[\\), é",
+  "alternativas": {
+   "A": "\\(\\frac{61}{8}\\)",
+   "B": "\\(\\frac{33}{4}\\)",
+   "C": "\\(\\frac{17}{2}\\)",
+   "D": "\\(\\frac{35}{4}\\)",
+   "E": "\\(\\frac{73}{8}\\)"
+  },
+  "nota": "texto transcrito lendo a imagem da página (fórmulas em glifos-imagem no PDF) — conferir; intervalo impresso como ]0,3[."
+ },
+ "Q085": {
+  "enunciado": "Na figura, o retângulo *ABCD* tem lados de comprimento \\(AB = 4\\) e \\(BC = 2\\). Sejam *M* o ponto médio do lado \\(\\overline{BC}\\) e *N* o ponto médio do lado \\(\\overline{CD}\\). Os segmentos \\(\\overline{AM}\\) e \\(\\overline{AC}\\) interceptam o segmento \\(\\overline{BN}\\) nos pontos *E* e *F*, respectivamente.\n\n{{img:1}}\n\nA área do triângulo *AEF* é igual a",
+  "alternativas": {
+   "A": "\\(\\frac{24}{25}\\)",
+   "B": "\\(\\frac{29}{30}\\)",
+   "C": "\\(\\frac{61}{60}\\)",
+   "D": "\\(\\frac{16}{15}\\)",
+   "E": "\\(\\frac{23}{20}\\)"
+  },
+  "nota": "texto transcrito lendo a imagem da página (fórmulas em glifos-imagem no PDF) — conferir"
+ },
+ "Q086": {
+  "enunciado": "Considere as funções \\(f(x) = x^{2} + 4\\) e \\(g(x) = 1 + \\log_{\\frac{1}{2}} x\\), em que o domínio de *f* é o conjunto dos números reais e o domínio de *g* é o conjunto dos números reais maiores do que 0. Seja\n\n\\(h(x) = 3f(g(x)) + 2g(f(x)),\\)\n\nem que \\(x > 0\\). Então, \\(h(2)\\) é igual a",
+  "alternativas": {
+   "A": "4",
+   "B": "8",
+   "C": "12",
+   "D": "16",
+   "E": "20"
+  },
+  "nota": "texto transcrito lendo a imagem da página (fórmulas em glifos-imagem no PDF) — conferir; alternativa B (8) estava vazia na extração."
+ },
+ "Q087": {
+  "enunciado": "O polinômio \\(P(x) = x^{3} - 3x^{2} + 7x - 5\\) possui uma raiz complexa \\(\\xi\\) cuja parte imaginária é positiva. A parte real de \\(\\xi^{3}\\) é igual a",
+  "alternativas": {
+   "A": "\\(-11\\)",
+   "B": "\\(-7\\)",
+   "C": "9",
+   "D": "10",
+   "E": "12"
+  },
+  "nota": "texto transcrito lendo a imagem da página (fórmulas em glifos-imagem no PDF) — conferir; enunciado era {{img:1}} e a alternativa B era {{img:2}} — ambos são texto e foram digitados; sinais negativos em A e B faltavam na extração."
+ },
+ "Q088": {
+  "enunciado": "Um reservatório de água tem o formato de um cone circular reto. O diâmetro de sua base (que está apoiada sobre o chão horizontal) é igual a 8 m. Sua altura é igual a 12 m. A partir de um instante em que o reservatório está completamente vazio, inicia-se seu enchimento com água a uma vazão constante de 500 litros por minuto. O tempo gasto para que o nível de água atinja metade da altura do reservatório é de, aproximadamente,",
+  "alternativas": {
+   "A": "4 horas e 50 minutos.",
+   "B": "5 horas e 20 minutos.",
+   "C": "5 horas e 50 minutos.",
+   "D": "6 horas e 20 minutos.",
+   "E": "6 horas e 50 minutos."
+  },
+  "nota": "texto transcrito lendo a imagem da página (fórmulas em glifos-imagem no PDF) — conferir",
+  "apos_alternativas": "Dados:  \n\\(\\pi\\) é aproximadamente 3,14.  \nO volume *V* do cone circular reto de altura *h* e raio da base *r* é  \n\\(V = \\frac{1}{3}\\pi r^{2} h.\\)"
+ },
+ "Q089": {
+  "enunciado": "Duas circunferências com raios 1 e 2 têm centros no primeiro quadrante do plano cartesiano e ambas tangenciam os dois eixos coordenados. Essas circunferências se interceptam em dois pontos distintos de coordenadas \\((x_{1}, y_{1})\\) e \\((x_{2}, y_{2})\\).\n\nO valor de \\((x_{1} + y_{1})^{2} + (x_{2} + y_{2})^{2}\\) é igual a",
+  "alternativas": {
+   "A": "\\(\\frac{5}{2}\\)",
+   "B": "\\(\\frac{7}{2}\\)",
+   "C": "\\(\\frac{9}{2}\\)",
+   "D": "\\(\\frac{11}{2}\\)",
+   "E": "\\(\\frac{13}{2}\\)"
+  },
+  "nota": "texto transcrito lendo a imagem da página (fórmulas em glifos-imagem no PDF) — conferir; {{img:1}} era o texto das coordenadas (não é ilustração) e foi digitado; alternativa B corrigida para 7/2."
+ },
+ "Q090": {
+  "enunciado": "Uma quantidade fixa de um gás ideal é mantida a temperatura constante, e seu volume varia com o tempo de acordo com a seguinte fórmula:\n\n\\(V(t) = \\log_{2}(5 + 2\\,\\text{sen}(\\pi t)),\\ \\ 0 \\leq t \\leq 2,\\)\n\nem que *t* é medido em horas e \\(V(t)\\) é medido em m³. A pressão máxima do gás no intervalo de tempo \\([0, 2]\\) ocorre no instante",
+  "alternativas": {
+   "A": "\\(t = 0{,}4\\)",
+   "B": "\\(t = 0{,}5\\)",
+   "C": "\\(t = 1\\)",
+   "D": "\\(t = 1{,}5\\)",
+   "E": "\\(t = 2\\)"
+  },
+  "nota": "texto transcrito lendo a imagem da página (fórmulas em glifos-imagem no PDF) — conferir; {{img:1}} e {{img:2}} eram a própria fórmula (texto) e foram digitados; removido o cabeçalho 'FUVEST 2017 1ª Fase − Conhecimentos Gerais (27/11/2016)' da pág. 28 que vazou para a alternativa E (não faz parte da questão)."
+ }
+}

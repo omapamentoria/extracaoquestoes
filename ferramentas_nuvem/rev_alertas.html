@@ -1,0 +1,252 @@
+<title>Revisão de Alertas MAPA</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+/* layout: barra de provas + lista de questões à esquerda; cada questão = recorte do PDF | texto extraído + marcação */
+:root{
+  --bg:#f3f4f6; --panel:#ffffff; --ink:#1b2230; --muted:#5d6678; --line:#dde1e8;
+  --accent:#1f4e9c; --accent-soft:#e6edf8; --ok:#1f7a4d; --ok-soft:#e3f3ea;
+  --warn:#9a5b00; --warn-soft:#fbf0dc; --bad:#a3262b; --bad-soft:#f8e3e3; --paper:#fdfdfb; --onacc:#ffffff;
+  --shadow:0 1px 2px rgba(20,30,50,.06);
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  color-scheme:dark;--bg:#12151b;--panel:#1a1f28;--ink:#e6e9ef;--muted:#9aa3b4;--line:#2c3340;
+  --accent:#7fa7ea;--accent-soft:#1f2b40;--ok:#6fcf9c;--ok-soft:#173226;--warn:#f0b35a;--warn-soft:#3a2c14;
+  --bad:#f08a8f;--bad-soft:#3a1c1e;--paper:#20252f;--onacc:#0d1320;--shadow:none}}
+:root[data-theme="dark"]{
+  color-scheme:dark;--bg:#12151b;--panel:#1a1f28;--ink:#e6e9ef;--muted:#9aa3b4;--line:#2c3340;
+  --accent:#7fa7ea;--accent-soft:#1f2b40;--ok:#6fcf9c;--ok-soft:#173226;--warn:#f0b35a;--warn-soft:#3a2c14;
+  --bad:#f08a8f;--bad-soft:#3a1c1e;--paper:#20252f;--onacc:#0d1320;--shadow:none}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:14px;line-height:1.5;padding-inline:16px;padding-block:0 40px}
+.wrap{max-width:1500px;margin:0 auto}
+header.top{display:flex;flex-wrap:wrap;gap:12px 24px;align-items:end;justify-content:space-between;padding-block:20px 14px;border-bottom:1px solid var(--line)}
+h1{font-size:20px;font-weight:600;margin:0;text-wrap:balance}
+.sub{color:var(--muted);margin:2px 0 0;max-width:80ch}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+select,textarea{font:inherit;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:6px 8px;max-width:100%}
+select{min-width:0;width:min(420px,100%)}
+.filtro{display:flex;gap:4px;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:3px}
+.filtro button{border:0;background:transparent;color:var(--ink);font:inherit;padding:5px 10px;border-radius:6px;cursor:pointer}
+.filtro button[aria-pressed="true"]{background:var(--accent);color:var(--onacc)}
+.stats{display:flex;flex-wrap:wrap;gap:6px 18px;color:var(--muted);font-size:13px;padding:10px 0;font-variant-numeric:tabular-nums}
+.stats b{color:var(--ink)}
+.barra{height:6px;border-radius:3px;background:var(--line);overflow:hidden;display:flex;width:min(360px,100%);align-self:center}
+.barra i{display:block;height:100%}
+.layout{display:grid;grid-template-columns:170px minmax(0,1fr);gap:16px;align-items:start}
+nav.lista{position:sticky;top:env(safe-area-inset-top,0px);max-height:calc(100vh - 20px);overflow:auto;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:6px}
+nav.lista button{display:flex;width:100%;justify-content:space-between;align-items:center;gap:8px;border:0;background:transparent;color:var(--ink);text-align:left;padding:4px 8px;border-radius:5px;cursor:pointer;font-family:var(--mono);font-size:12.5px}
+nav.lista button:hover{background:var(--accent-soft)}
+.dot{width:9px;height:9px;border-radius:50%;flex:none;background:var(--warn)}
+.dot.ok{background:var(--ok)} .dot.erro{background:var(--bad)}
+.q{background:var(--panel);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);margin-bottom:16px;overflow:hidden}
+.q.st-ok{border-color:var(--ok)} .q.st-erro{border-color:var(--bad)}
+.qhead{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;padding:10px 14px;border-bottom:1px solid var(--line)}
+.qhead .num{font-family:var(--mono);font-weight:500}
+.chip{font-size:12px;padding:2px 8px;border-radius:999px;background:var(--accent-soft);color:var(--accent);white-space:nowrap}
+.alertas{margin:0;padding:8px 14px 8px 32px;background:var(--warn-soft);color:var(--warn);font-size:13px}
+.cols{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+.col{padding:14px;min-width:0}
+.col+.col{border-left:1px solid var(--line)}
+.col h3{margin:0 0 10px;font-size:11.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.orig img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:4px;background:#fff;margin-bottom:8px}
+.ext{font-family:var(--serif);font-size:15.5px;line-height:1.55;background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:14px 16px}
+.ext p{margin:0 0 .75em}
+.ext .fig{display:block;margin:.4em 0 .9em;max-width:100%;background:#fff;border:1px dashed var(--line);border-radius:4px}
+.ext .base{border-left:3px solid var(--line);padding-left:12px;margin-bottom:14px}
+.ext .baselabel{font-family:var(--sans);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:6px}
+.ext .fonte{font-family:var(--sans);font-size:12px;color:var(--muted)}
+.ext ol.alts{list-style:none;margin:10px 0 0;padding:0;display:grid;gap:6px}
+.ext ol.alts li{display:grid;grid-template-columns:28px minmax(0,1fr);gap:8px;align-items:start;padding:4px 6px;border-radius:5px}
+.ext ol.alts li.certa{background:var(--ok-soft)}
+.ext .letra{font-family:var(--sans);font-weight:600;width:24px;height:24px;border-radius:50%;display:grid;place-items:center;border:1.5px solid var(--ink);font-size:12.5px}
+.ext li.certa .letra{background:var(--ok);border-color:var(--ok);color:var(--onacc)}
+.ext .vazio{color:var(--warn);font-family:var(--sans);font-size:13px}
+.tblw{overflow-x:auto;margin:.3em 0 .9em}
+.ext table{border-collapse:collapse;font-size:14px;font-variant-numeric:tabular-nums}
+.ext th,.ext td{border:1px solid var(--line);padding:4px 8px;text-align:left}
+.ext th{background:var(--accent-soft)}
+.gab{font-family:var(--sans);font-size:13px;color:var(--muted);margin-top:10px}
+.gab b{color:var(--ok)}
+.marca{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:10px 14px;border-top:1px solid var(--line);background:var(--bg)}
+.marca button{font:inherit;border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:6px;padding:6px 12px;cursor:pointer}
+.marca button.b-ok[aria-pressed="true"]{background:var(--ok);border-color:var(--ok);color:var(--onacc)}
+.marca button.b-erro[aria-pressed="true"]{background:var(--bad);border-color:var(--bad);color:var(--onacc)}
+.marca textarea{flex:1 1 260px;min-height:36px;resize:vertical}
+.marca .salvo{font-size:12px;color:var(--muted)}
+.aviso{background:var(--warn-soft);color:var(--warn);border-radius:8px;padding:8px 12px;margin:10px 0;font-size:13px}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+@media (max-width:900px){.layout{grid-template-columns:1fr}nav.lista{position:static;max-height:200px}.cols{grid-template-columns:1fr}.col+.col{border-left:0;border-top:1px solid var(--line)}}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>Revisão das questões com alerta — Banco MAPA</h1>
+      <p class="sub">Só aparecem as questões que o código marcou para conferir. À esquerda, o recorte do PDF; à direita, o que foi extraído. Marque <b>Está certa</b> ou <b>Tem erro</b> e, se tiver erro, escreva o que está errado. As marcações ficam salvas e o Claude lê daqui.</p>
+    </div>
+    <div class="controls">
+      <label for="prova" class="sub">Prova</label>
+      <select id="prova"></select>
+      <div class="filtro" id="filtro" role="group" aria-label="Filtro">
+        <button data-f="todas" aria-pressed="false">Todas</button>
+        <button data-f="pend" aria-pressed="true">Para revisar</button>
+        <button data-f="erro" aria-pressed="false">Com erro</button>
+        <button data-f="ok" aria-pressed="false">Certas</button>
+      </div>
+    </div>
+  </header>
+  <div id="avisoDb" class="aviso" hidden>Não foi possível salvar as marcações neste acesso (é preciso entrar na conta com permissão de edição). A página continua visível para leitura.</div>
+  <div class="stats" id="stats"></div>
+  <div class="layout">
+    <nav class="lista" aria-label="Questões"><div id="listaitens"></div></nav>
+    <main id="main"><p class="sub">Carregando a lista de provas…</p></main>
+  </div>
+</div>
+
+<script>
+window.MathJax = { tex: { inlineMath: [["\\(", "\\)"]], displayMath: [] }, svg: { fontCache: "global" }, startup: { typeset: false } };
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-svg-full.js" async></script>
+<script>
+const $ = s => document.querySelector(s);
+let INDICE = [], P = null, FILTRO = "pend", MARCAS = {}, db = null, unsub = null;
+function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
+function inline(s){
+  const guard = [];
+  s = String(s).replace(/\\\(([\s\S]+?)\\\)/g, m => { guard.push(esc(m)); return "\u0000" + (guard.length-1) + "\u0000"; });
+  s = s.replace(/\\\*/g, "\u0001"); s = esc(s);
+  s = s.replace(/&lt;(\/?)(sup|sub|u)&gt;/g,"<$1$2>").replace(/&lt;br\s*\/?&gt;/g,"<br>");
+  s = s.replace(/\*\*\*(.+?)\*\*\*/g,"<b><i>$1</i></b>").replace(/\*\*(.+?)\*\*/g,"<b>$1</b>").replace(/(^|[^*])\*(?!\s)(.+?)\*(?!\*)/g,"$1<i>$2</i>");
+  s = s.replace(/\u0001/g, "*").replace(/\u0000(\d+)\u0000/g, (m, k) => guard[+k]);
+  return s.replace(/ {2}\n/g,"<br>").replace(/\n/g,"<br>");
+}
+function fig(im, k){ return im && im.web ? `<img class="fig" src="${im.web}" alt="Figura ${k}" loading="lazy">` : `<span class="vazio">[figura ${k}]</span>`; }
+function md(txt, imgs, fontes){
+  if(!txt) return "";
+  const porId = {}; (imgs||[]).forEach(i => porId[i.id] = i);
+  return txt.split(/\n\n+/).map(b => {
+    const mf = b.trim().match(/^\{\{fonte:(\d+)\}\}$/);
+    if(mf){ const f = (fontes||[])[+mf[1]-1]; return f ? `<p class="fonte">${inline(f)}</p>` : ""; }
+    const m = b.trim().match(/^\{\{img:(\d+)\}\}$/);
+    if(m) return fig(porId[m[1]], m[1]);
+    if(b.trim().startsWith("|") && /\|\s*$/m.test(b)){
+      const rows = b.trim().split("\n").filter(r => !/^\|(\s*-+\s*\|)+\s*$/.test(r));
+      const cells = r => r.trim().replace(/^\|/,"").replace(/\|$/,"").split("|").map(c => inline(c.trim()));
+      return `<div class="tblw"><table><thead><tr>${cells(rows[0]).map(c=>`<th>${c}</th>`).join("")}</tr></thead><tbody>${rows.slice(1).map(r=>`<tr>${cells(r).map(c=>`<td>${c}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
+    }
+    return "<p>" + b.split(/(\{\{img:\d+\}\})/).map(p => { const mm = p.match(/\{\{img:(\d+)\}\}/); return mm ? fig(porId[mm[1]], mm[1]) : inline(p); }).join("") + "</p>";
+  }).join("");
+}
+function soltas(txt, fontes){ return (fontes||[]).map((f,i)=>[f,i+1]).filter(([f,k]) => !(txt||"").includes(`{{fonte:${k}}}`)).map(([f]) => `<p class="fonte">${inline(f)}</p>`).join(""); }
+function st(id){ return (MARCAS[id] && MARCAS[id].status) || "pend"; }
+function rotulo(q){ return q.id.replace(P.id + "-", "").replace(/^Q0*/, "").replace("-ING"," (inglês)").replace("-ESP"," (espanhol)"); }
+function questaoHTML(q){
+  const ids = (q.textos_base_ids && q.textos_base_ids.length) ? q.textos_base_ids : (q.texto_base_id ? [q.texto_base_id] : []);
+  const bases = ids.map(id => P.textos_base.find(t => t.id === id)).filter(Boolean);
+  const recortes = [...bases.flatMap(b => b.recortes_web||[]), ...(q.recortes_web||[])].filter(Boolean);
+  const alts = q.alternativas.length ? `<ol class="alts">${q.alternativas.map(a => `<li class="${a.letra===q.gabarito?'certa':''}"><span class="letra">${a.letra}</span><div>${md(a.texto, q.imagens) || '<span class="vazio">(alternativa vazia)</span>'}</div></li>`).join("")}</ol>`
+    : (q.formato === "discursiva" ? "" : `<p class="vazio">Nenhuma alternativa separada.</p>`);
+  const m = MARCAS[q.id] || {}, s = st(q.id);
+  return `<article class="q st-${s}" id="${q.id}">
+    <div class="qhead"><span class="num">Questão ${esc(rotulo(q))}</span>
+      ${q.formato === "discursiva" ? '<span class="chip">discursiva</span>' : ""}
+      ${q.area ? `<span class="chip">${esc(q.area.toLowerCase())}</span>` : ""}
+      <span class="chip">pág. ${q.paginas.join(", ")}</span></div>
+    <ul class="alertas">${q.alertas.map(a=>`<li>${esc(a)}</li>`).join("")}</ul>
+    <div class="cols">
+      <div class="col orig"><h3>PDF original</h3>${recortes.map(r=>`<img src="${r}" alt="Recorte do PDF" loading="lazy">`).join("") || '<p class="sub">Sem recorte.</p>'}</div>
+      <div class="col"><h3>Extraído</h3><div class="ext">
+        ${bases.map(b => `<div class="base"><div class="baselabel">Texto de apoio</div>${md(b.texto, b.imagens, b.fontes)}${soltas(b.texto, b.fontes)}</div>`).join("")}
+        ${soltas(q.enunciado, q.fontes)}${md(q.enunciado, q.imagens, q.fontes)}
+        ${(q.itens||[]).length && !/\ba\)/.test(q.enunciado) ? q.itens.map(it => `<p><b>${esc(it.item||"")})</b> ${inline(it.texto||"")}</p>`).join("") : ""}
+        ${alts}
+        ${q.apos_alternativas ? `<div>${md(q.apos_alternativas, q.imagens, q.fontes)}</div>` : ""}
+        <p class="gab">Gabarito: ${q.anulada ? "<b>anulada</b>" : q.gabarito ? `<b>${esc(q.gabarito)}</b>` : (q.gabarito_discursivo ? "resposta esperada encontrada" : "não encontrado")}</p>
+      </div></div>
+    </div>
+    <div class="marca" data-id="${q.id}">
+      <button class="b-ok" aria-pressed="${s==='ok'}" data-s="ok">Está certa</button>
+      <button class="b-erro" aria-pressed="${s==='erro'}" data-s="erro">Tem erro</button>
+      <textarea id="nota-${q.id}" placeholder="O que está errado? (ex.: alternativa C cortada, figura faltando)" aria-label="Nota da questão ${esc(rotulo(q))}">${esc(m.nota||"")}</textarea>
+      <span class="salvo" aria-live="polite"></span>
+    </div></article>`;
+}
+function stats(){
+  if(!P) return;
+  const n = P.questoes.length, ok = P.questoes.filter(q=>st(q.id)==="ok").length, er = P.questoes.filter(q=>st(q.id)==="erro").length;
+  $("#stats").innerHTML = `<span><b>${P.total}</b> questões na prova</span><span><b>${n}</b> com alerta</span><span><b>${ok}</b> certas</span><span><b>${er}</b> com erro</span><span><b>${n-ok-er}</b> para revisar</span>
+    <span class="barra" aria-hidden="true"><i style="width:${100*ok/n}%;background:var(--ok)"></i><i style="width:${100*er/n}%;background:var(--bad)"></i></span>
+    ${P.ocr ? '<span>Texto lido por OCR: confira palavra por palavra.</span>' : ''}<span>Arquivo: ${esc(P.arquivo)}</span>`;
+}
+function render(){
+  if(!P) return;
+  const qs = P.questoes.filter(q => FILTRO === "todas" || st(q.id) === FILTRO);
+  $("#listaitens").innerHTML = qs.map(q => `<button data-id="${q.id}"><span>${esc(rotulo(q))}</span><i class="dot ${st(q.id)}"></i></button>`).join("");
+  $("#main").innerHTML = qs.map(questaoHTML).join("") || `<p class="sub">Nenhuma questão neste filtro.</p>`;
+  stats();
+  if(window.MathJax && MathJax.typesetPromise) MathJax.typesetPromise([$("#main")]).catch(()=>{});
+}
+async function salvar(id, dados, aviso){
+  MARCAS[id] = Object.assign({}, MARCAS[id], dados);
+  if(!db){ aviso.textContent = "não salvo (sem acesso)"; return; }
+  try { await db.collection("revisao").doc(id).set(Object.assign({prova: P.id}, MARCAS[id], {em: new Date().toISOString()})); aviso.textContent = "salvo"; }
+  catch(e){ aviso.textContent = "não salvo"; $("#avisoDb").hidden = false; }
+}
+$("#main").addEventListener("click", e => {
+  const b = e.target.closest(".marca button"); if(!b) return;
+  const box = b.closest(".marca"), id = box.dataset.id, novo = st(id) === b.dataset.s ? "pend" : b.dataset.s;
+  box.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x.dataset.s === novo));
+  box.closest(".q").className = "q st-" + novo;
+  salvar(id, {status: novo, nota: box.querySelector("textarea").value}, box.querySelector(".salvo"));
+  document.querySelector(`#listaitens button[data-id="${id}"] .dot`)?.setAttribute("class", "dot " + novo);
+  stats();
+});
+$("#main").addEventListener("change", e => {
+  const t = e.target.closest(".marca textarea"); if(!t) return;
+  const box = t.closest(".marca"), id = box.dataset.id;
+  let s = st(id); if(t.value.trim() && s === "pend"){ s = "erro"; box.querySelector(".b-erro").setAttribute("aria-pressed","true"); box.closest(".q").className = "q st-erro"; }
+  salvar(id, {status: s, nota: t.value}, box.querySelector(".salvo")); stats();
+});
+$("#listaitens").addEventListener("click", e => { const b = e.target.closest("button"); if(!b) return;
+  document.getElementById(b.dataset.id)?.scrollIntoView({behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start"}); });
+$("#filtro").addEventListener("click", e => { const b = e.target.closest("button"); if(!b) return; FILTRO = b.dataset.f;
+  document.querySelectorAll("#filtro button").forEach(x => x.setAttribute("aria-pressed", x === b)); render(); });
+function assinar(){
+  if(unsub){ unsub(); unsub = null; }
+  if(!db || !P) return;
+  try {
+    unsub = db.collection("revisao").where("prova", "==", P.id).onSnapshot(snap => {
+      snap.docs.forEach(d => { const v = d.data(); if(v) MARCAS[d.id] = v; });
+      document.querySelectorAll("#main .q").forEach(el => { const s = st(el.id); el.className = "q st-" + s;
+        el.querySelectorAll(".marca button").forEach(x => x.setAttribute("aria-pressed", x.dataset.s === s));
+        const ta = el.querySelector("textarea"); if(ta && document.activeElement !== ta) ta.value = (MARCAS[el.id]||{}).nota || "";
+        document.querySelector(`#listaitens button[data-id="${el.id}"] .dot`)?.setAttribute("class", "dot " + s); });
+      stats();
+    }, () => { $("#avisoDb").hidden = false; });
+  } catch(e){ $("#avisoDb").hidden = false; }
+}
+async function abre(pid){
+  $("#main").innerHTML = '<p class="sub">Carregando a prova…</p>';
+  try { P = await (await fetch("dados/" + pid + ".json")).json(); }
+  catch(e){ $("#main").innerHTML = '<p class="sub">Não consegui carregar esta prova. Recarregue a página.</p>'; return; }
+  try { localStorage.setItem("rev_prova", pid); } catch(e){}
+  window.scrollTo(0, 0); render(); assinar();
+}
+$("#prova").addEventListener("change", e => abre(e.target.value));
+fetch("dados/indice.json").then(r => r.json()).then(ind => {
+  INDICE = ind;
+  const grupos = {}; ind.forEach(p => (grupos[p.grupo || "outros"] = grupos[p.grupo || "outros"] || []).push(p));
+  $("#prova").innerHTML = Object.keys(grupos).sort().map(g => `<optgroup label="${esc(g)}">${grupos[g].map(p => `<option value="${p.id}">${esc(p.titulo)} · ${p.id} · ${p.com_alerta} de ${p.total}${p.ocr ? " · OCR" : ""}</option>`).join("")}</optgroup>`).join("");
+  let ini = ind[0] && ind[0].id; try { const s = localStorage.getItem("rev_prova"); if(s && ind.some(p => p.id === s)) ini = s; } catch(e){}
+  $("#prova").value = ini; abre(ini);
+}).catch(() => { $("#main").innerHTML = '<p class="sub">Não consegui carregar a lista de provas.</p>'; });
+(async () => {
+  try { db = window.claude && claude.use ? await claude.use("db") : null; } catch(e){ db = null; }
+  if(!db){ $("#avisoDb").hidden = false; return; }
+  assinar();
+})();
+</script>

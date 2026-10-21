@@ -1,0 +1,59 @@
+[
+ {
+  "id": "P4014-T1",
+  "texto": "***Nas questões com respostas numéricas, considere o módulo da aceleração da gravidade como*** ***igual a g = 10,0 m/s<sup>2</sup>, 1 kcal = 4,2 kJ, calor específico da água igual a 1 cal/g°C, calor específico*** ***do alumínio igual a 0,91 J/g°C, calor latente de fusão da água LF = 80 cal/g, calor latente de*** ***vaporização da água L<sub>v</sub> = 540 cal/g, índice de refração do ar n<sub>ar</sub> = 1,0, o número π = 3, e a***\n\n***−1 −1***  \n***constante universal dos gases ideais R = 8,3 JK mol .***",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.6,
+     112.80700000000002,
+     545.5969999999999,
+     123.80700000000002
+    ],
+    [
+     42.6,
+     125.40700000000004,
+     545.861995,
+     136.40700000000004
+    ],
+    [
+     42.6,
+     138.10700000000008,
+     545.8040040000001,
+     149.10700000000008
+    ],
+    [
+     42.6,
+     150.7070000000001,
+     545.751,
+     161.74
+    ],
+    [
+     293.05,
+     161.57899999999995,
+     328.642,
+     168.57899999999995
+    ],
+    [
+     42.6,
+     163.40700000000004,
+     331.70799999999997,
+     174.40700000000004
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4014-Q023"
+  ],
+  "recortes": [
+   "revisao/T1_p14.jpg"
+  ]
+ }
+]

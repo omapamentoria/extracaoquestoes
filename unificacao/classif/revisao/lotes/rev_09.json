@@ -1,0 +1,1590 @@
+[
+{
+"id": 114342,
+"vest": "FAMERP",
+"ano": "2019",
+"area_impressa": "",
+"enunciado": "A figura, feita em escala, indica um painel formado por sete retângulos amarelos idênticos e dois retângulos azuis idênticos. Cada retângulo azul tem dimensões x e y, ambas em metros. [figura] Na situação descrita, x – y é igual a",
+"alternativas": [
+"A) 2,5 m.",
+"B) 2 m.",
+"C) 3 m.",
+"D) 4 m.",
+"E) 3,5 m."
+],
+"gabarito": "D",
+"primeira_tentativa": "A006-09 — Geometria plana > Áreas e perímetros"
+},
+{
+"id": 114644,
+"vest": "FATEC",
+"ano": "2011",
+"area_impressa": "",
+"enunciado": "Aristóteles (384 – 322 a.C.), filósofo grego, é considerado pioneiro na investigação sistemática da lógica. Em seus estudos, estabeleceu regras para relacionar proposições dadas (premissas) a uma conclusão. Um exemplo é o argumento válido, a seguir, atribuído a Aristóteles: *Todos os homens são mortais.* *Sócrates é homem.* *Logo, Sócrates é mortal.* A validade de um argumento depende exclusivamente da relação existente entre as premissas e a conclusão. Portanto, a validade de um argumento resulta apenas de sua estrutura lógica (forma) e não do conteúdo do enunciado. Considerando verdadeiras as premissas: Todo M é P. Algum S é M. Pode-se concluir que",
+"alternativas": [
+"A) Todo S é P.",
+"B) Algum S é P.",
+"C) Nenhum S é P.",
+"D) Algum M é não P.",
+"E) Todo não M é não P."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 114697,
+"vest": "FATEC",
+"ano": "2012",
+"area_impressa": "",
+"enunciado": "Considere quatro moças tais que • Beth é mais alta que Leila; • Paula é menos alta que Ana e • Ana é menos alta que Leila. Logo, pode-se afirmar corretamente que",
+"alternativas": [
+"A) Paula é mais alta que Leila.",
+"B) Beth é mais alta que Paula.",
+"C) Ana é menos alta que Paula.",
+"D) Beth é menos alta que Ana.",
+"E) Leila é menos alta que Ana."
+],
+"gabarito": "E",
+"primeira_tentativa": "A003-04 — Álgebra > Inequações"
+},
+{
+"id": 114735,
+"vest": "FATEC",
+"ano": "2013",
+"area_impressa": "",
+"enunciado": "Observe que, em cada linha do quadro, a sequência de algarismos da coluna (II) foi formada a partir da sequência de algarismos da coluna (I), aplicando-se critérios diferentes para os algarismos ímpares e para os algarismos pares. [figura] Combasenosmesmoscritérios,asequênciadealgarismos que substitui, corretamente, o ponto de interrogação da quarta linha e segunda coluna do quadro é",
+"alternativas": [
+"A) 143092",
+"B) 183496",
+"C) 321496",
+"D) 941032",
+"E) 983416"
+],
+"gabarito": "A",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 114769,
+"vest": "FATEC",
+"ano": "2013",
+"area_impressa": "",
+"enunciado": "Fábio, Mário e Tiago são três amigos que estudam em uma Fatec. Cada um deles faz um único curso: um dos rapazes faz o curso de Alimentos, outro faz o curso de Logística e outro faz o curso de Soldagem, não necessariamente nessa ordem. Sabe-se que todas as afirmações a seguir são verdadeiras: • ou é Fábio que estuda Logística, ou é Mário que estuda Logística; • ou é Tiago que estuda Soldagem, ou é Mário que estuda Soldagem; • ou é Mário que estuda Alimentos, ou é Tiago que estuda Alimentos; • ou é Fábio que estuda Soldagem, ou é Tiago que estuda Alimentos. Assim sendo, pode-se concluir corretamente que os cursos de Fábio, Mário e Tiago são, respectivamente,",
+"alternativas": [
+"A) Alimentos, Logística e Soldagem.",
+"B) Alimentos, Soldagem e Logística.",
+"C) Logística, Alimentos e Soldagem.",
+"D) Logística, Soldagem e Alimentos.",
+"E) Soldagem, Alimentos e Logística."
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 114827,
+"vest": "FATEC",
+"ano": "2014",
+"area_impressa": "",
+"enunciado": "Algumas das células da figura apresentada foram preenchidas com números, de acordo com um determinado critério. [figura] Obedecendo a esse critério, o valor de x é",
+"alternativas": [
+"A) 7.",
+"B) 9.",
+"C) 11.",
+"D) 13.",
+"E) 15. **LÓGICO**"
+],
+"gabarito": "A",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 114828,
+"vest": "FATEC",
+"ano": "2014",
+"area_impressa": "",
+"enunciado": "Considere verdadeira a seguinte afirmação. [figura] **Todos os irmãos de Pedro estudam na Fatec.** Assim sendo, pode-se concluir corretamente que",
+"alternativas": [
+"A) se Marcelo estuda na Fatec, então ele é irmão de Pedro.",
+"B) se Társio é irmão de Pedro, então ele não estuda na Fatec.",
+"C) se Júlio não estuda na Fatec, então ele é irmão de Pedro.",
+"D) se Sérgio não é irmão de Pedro, então ele não estuda na Fatec.",
+"E) se Roberto não estuda na Fatec, então ele não é irmão de Pedro."
+],
+"gabarito": "C",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 114925,
+"vest": "FATEC",
+"ano": "2016",
+"area_impressa": "",
+"enunciado": "Proposição é uma frase declarativa que exprime um pensamento de sentido completo. Toda proposição possui um único valor lógico: Falso (F) ou Verdadeiro (V). Assinale a alternativa que apresenta uma proposição.",
+"alternativas": [
+"A) Vamos estudar?",
+"B) Parabéns!",
+"C) x + y > 3",
+"D) \\(\\frac{1}{3}\\) + \\(\\frac{1}{2}\\) = \\(\\frac{2}{5}\\)",
+"E) x2 + 5x + 6"
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 114926,
+"vest": "FATEC",
+"ano": "2016",
+"area_impressa": "",
+"enunciado": "Em uma sequência de números naturais, o primeiro termo é 91 e, a partir do segundo termo, cada termo corresponde: à soma dos quadrados dos algarismos do termo anterior (caso esse termo seja um número com mais de um algarismo) ou ao quadrado do termo anterior (caso esse termo seja um número de apenas um algarismo). Assim, o segundo termo dessa sequência é 9<sup>2</sup> + 1<sup>2</sup> = 82. Nessas condições, o algarismo das unidades do número que ocupa a 10<sup>a</sup> posição nessa sequência é",
+"alternativas": [
+"A) 0.",
+"B) 1.",
+"C) 2.",
+"D) 5.",
+"E) 8. **HISTÓRIA**"
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 114939,
+"vest": "FATEC",
+"ano": "2016",
+"area_impressa": "MATEMÁTICA",
+"enunciado": "Pode-se afirmar, em relação à distribuição do número de carros por",
+"alternativas": [
+"A) a região Centro-oeste possuía a metade da frota de carros da",
+"B) a região Norte possuía mais do que 5% do total da frota de carros",
+"C) a região Nordeste possuía 40% do total da frota de carros da região atossegundos, é igual a",
+"D) a região Sul possuía menos do que o triplo do total de carros da (A) 2 000. região Centro-oeste. (B) 20 000.",
+"E) a região Sudeste possuía menos do que a metade do total da frota (C) 200 000. de carros do Brasil. (D) 2 000 000. (E) 20 000 000."
+],
+"gabarito": "D",
+"primeira_tentativa": "A012-04 — Estatística > Leitura e interpretação de tabelas"
+},
+{
+"id": 114961,
+"vest": "FATEC",
+"ano": "2016",
+"area_impressa": "",
+"enunciado": "Considerando que x = 9, y = 12 e z = 15, assinale a alternativa que apresenta uma expressão cujo valor lógico é verdadeiro.",
+"alternativas": [
+"A) (4y + 2z < 8x) **ou** (3z – 2y = 3x + 5)",
+"B) (2z = x + y) **ou** (x + y – z < 5)",
+"C) (3x – y = z) **e** (x – y + z ≠ y)",
+"D) (x + z ≥ y) **e** (y – z = 3)",
+"E) (x + y > z) **e** (xy < xz)"
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 114962,
+"vest": "FATEC",
+"ano": "2016",
+"area_impressa": "",
+"enunciado": "[figura] Em um painel de forma pentagonal foi colocado em cada vértice uma única lâmpada. As lâmpadas foram numeradas consecutivamente de 1 a 5, exatamente conforme a figura. O circuito elétrico do painel foi instalado sobre uma mesa e testado de modo que, ao ser ligado, as lâmpadas acendem e apagam, sequencialmente, uma de cada vez, obedecendo ao seguinte critério: • se a lâmpada que é apagada tem um número par, a lâmpada que se acenderá a seguir é a mais próxima no sentido horário; • se a lâmpada que é apagada tem um número ímpar, a lâmpada que se acenderá a seguir é a segunda mais próxima no sentido horário. Considere que o painel é ligado. Se a primeira lâmpada a ser acesa é a de número 4, então a décima lâmpada que se acenderá é a de número",
+"alternativas": [
+"A) 1.",
+"B) 2.",
+"C) 3.",
+"D) 4.",
+"E) 5."
+],
+"gabarito": "C",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115035,
+"vest": "FATEC",
+"ano": "2017",
+"area_impressa": "MATEMÁTICA",
+"enunciado": "Com os dados apresentados, podemos afirmar corretamente que o número de habitantes da Terra em 2015, em bilhões, era aproximadamente igual a",
+"alternativas": [
+"A) 7,14.",
+"B) 7,20.",
+"C) 7,26.",
+"D) 7,32.",
+"E) 7,38."
+],
+"gabarito": "D",
+"primeira_tentativa": "A002-03 — Razão, proporção e porcentagem > Porcentagem, aumentos e descontos"
+},
+{
+"id": 115060,
+"vest": "FATEC",
+"ano": "2018",
+"area_impressa": "",
+"enunciado": "Todos os vinte e três livros de uma coleção serão distribuídos entre seis alunos da Fatec–Itatiba, de modo que cada aluno receba, pelo menos, dois livros. Nessas condições, conclui-se necessariamente que",
+"alternativas": [
+"A) nenhum aluno receberá quatro livros.",
+"B) algum aluno receberá, pelo menos, quatro livros.",
+"C) todos os alunos receberão, pelo menos, três livros.",
+"D) cinco alunos receberão quatro livros, e um aluno receberá três.",
+"E) dois alunos não poderão receber a mesma quantidade de livros. **HISTÓRIA**"
+],
+"gabarito": "B",
+"primeira_tentativa": "A010-01 — Análise combinatória > Princípio fundamental da contagem"
+},
+{
+"id": 115098,
+"vest": "FATEC",
+"ano": "2018",
+"area_impressa": "MATEMÁTICA",
+"enunciado": "",
+"alternativas": [
+"A) 0,38.",
+"B) 0,42.",
+"C) 0,56.",
+"D) 0,74.",
+"E) 0,92."
+],
+"gabarito": "D",
+"primeira_tentativa": "A011-01 — Probabilidade > Probabilidade - conceitos e espaço amostral"
+},
+{
+"id": 115120,
+"vest": "FATEC",
+"ano": "2019",
+"area_impressa": "",
+"enunciado": "São proposições equivalentes para a negação da proposição “todo homem ama lógica”: • “pelo menos um homem não ama lógica”; • “algum homem não ama lógica”; • “existe um homem que não ama lógica”. Assim, a forma correta de negar a proposição “todas as vagas deste vestibular são de ensino superior” é",
+"alternativas": [
+"A) “algumas vagas deste vestibular são de ensino superior”.",
+"B) “existem vagas deste vestibular que não são de ensino superior”.",
+"C) “nenhuma das vagas deste vestibular é de ensino superior”.",
+"D) “pelo menos uma vaga deste vestibular é de ensino superior”.",
+"E) “todas as vagas deste vestibular não são de ensino superior”. **LÓGICO**"
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115148,
+"vest": "FATEC",
+"ano": "2019",
+"area_impressa": "",
+"enunciado": "Em Lógica Clássica, uma determinada frase é uma proposição quando é uma oração declarativa que pode ser classificada como ou verdadeira ou falsa, mas não as duas. Neste sentido, as proposições transmitem pensamentos ao afirmarem fatos ou revelarem juízos que se formam a respeito de determinados acontecimentos, pessoas e objetos. Dentre as frases apresentadas, assinale aquela que pode ser classificada como uma proposição lógica.",
+"alternativas": [
+"A) Que bela prova de raciocínio lógico!",
+"B) Uma primorosa prova de raciocínio lógico.",
+"C) Toda prova de raciocínio lógico é fabulosa.",
+"D) Quem não gosta de uma prova de raciocínio lógico?",
+"E) Leia atenciosamente as questões da prova de raciocínio lógico."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115150,
+"vest": "FATEC",
+"ano": "2019",
+"area_impressa": "",
+"enunciado": "Uma fábrica deve produzir diariamente 523 canetas. Contudo, o encarregado da linha de produção, após analisar os resultados de 5 dias consecutivos, notou as seguintes quantidades produzidas por dia, apresentadas no quadro. [figura] A partir da análise desses dados, o encarregado concluiu que as máquinas apresentam problemas técnicos. Se nenhuma providência for tomada, mantendo-se o mesmo padrão da sequência e supondo que as máquinas produzam todos os dias, inclusive aos finais de semana, o menor número de canetas que a fábrica irá conseguir produzir, antes das máquinas paralisarem suas atividades, será",
+"alternativas": [
+"A) 0.",
+"B) 1.",
+"C) 2.",
+"D) 3.",
+"E) 4."
+],
+"gabarito": "E",
+"primeira_tentativa": "A005-01 — Sequências e progressões > Progressão aritmética (PA)"
+},
+{
+"id": 115151,
+"vest": "FATEC",
+"ano": "2019",
+"area_impressa": "",
+"enunciado": "Ariel, estudante do Ensino Médio, achava que o seu relógio estava 3 minutos atrasado, mas, devido à sua rotina de estudos para a prova de vestibular da Fatec, não viu que, na realidade, seu relógio estava 12 minutos adiantado. No dia do vestibular, Ariel achou que tinha perdido a prova, pois julgava que estava 8 minutos atrasada, mas, ao chegar no local do vestibular, o portão ainda estava aberto. Isso se deve ao fato de que Ariel estava adiantada",
+"alternativas": [
+"A) 1 minutos.",
+"B) 3 minutos.",
+"C) 5 minutos.",
+"D) 7 minutos.",
+"E) 9 minutos."
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115217,
+"vest": "FATEC",
+"ano": "2022",
+"area_impressa": "",
+"enunciado": "SIDA está para AIDS assim como 1246 está para",
+"alternativas": [
+"A) 1462.",
+"B) 6421.",
+"C) 6241.",
+"D) 2461.",
+"E) 4612."
+],
+"gabarito": "C",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115229,
+"vest": "FATEC",
+"ano": "2022",
+"area_impressa": "",
+"enunciado": "Uma das metas estabelecidas pelos ODS é acabar com o tráfico de espécies da fauna e da flora. Suponha que, em uma determinada agência governamental, • todas as investigações sobre tráfico de espécies ou são apenas casos que envolvem espécies da fauna ou são apenas casos que envolvem espécies da flora; e • as investigações sobre casos que envolvem espécies da fauna não serão arquivadas. É correto concluir que",
+"alternativas": [
+"A) toda investigação de casos que envolvem espécies da flora será arquivada.",
+"B) toda investigação que será arquivada é um caso que envolve espécies da flora.",
+"C) um caso de uma investigação que não é arquivada com certeza envolve espécies da fauna.",
+"D) algumas investigações que serão arquivadas envolvem espécies da fauna.",
+"E) nenhuma investigação que envolve espécies da flora será arquivada."
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115254,
+"vest": "FATEC",
+"ano": "2023",
+"area_impressa": "",
+"enunciado": "Em uma feira livre, um cliente percebeu que os feirantes organizaram suas barracas numerando-as. Na primeira barraca, era comercializada banana; na segunda, vendia-se coco; a terceira ainda estava sendo montada; na quarta, negociavam-se especiarias; e, na quinta, revendiam-se flores. Considere que as barracas, nessa feira, distribuíram os produtos comercializados seguindo uma sequência lógica e que nenhuma barraca vende o mesmo produto que a outra. É correto afirmar que, dentre as opções relacionadas nas alternativas e obedecendo a sequência lógica mencionada, os produtos que poderiam ser comercializados pela terceira barraca são",
+"alternativas": [
+"A) abacaxis.",
+"B) doces.",
+"C) hortaliças.",
+"D) legumes.",
+"E) tubérculos."
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115265,
+"vest": "FATEC",
+"ano": "2023",
+"area_impressa": "",
+"enunciado": "Em 2023, a Organização das Nações Unidas promove o Ano Internacional do Milho Painço (IYM 2023). Ele é fonte de alimentação para milhões de pessoas no mundo. Espera-se que o IYM 2023 seja uma oportunidade para **promover a produção do milho painço e destacar seu potencial para criar um mercado sustentável**. Assinale a alternativa que contém a negação lógica da frase destacada em negrito no texto.",
+"alternativas": [
+"A) não promover a produção do milho painço ou não destacar seu potencial para criar um mercado sustentável.",
+"B) não promover a produção do milho painço e não destacar seu potencial para criar um mercado sustentável.",
+"C) não promover a produção do milho painço ou destacar seu potencial para criar um mercado sustentável.",
+"D) não promover a produção do milho painço e destacar seu potencial para criar um mercado sustentável.",
+"E) promover a produção do milho painço ou não destacar seu potencial para criar um mercado sustentável."
+],
+"gabarito": "A",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115320,
+"vest": "FATEC",
+"ano": "2024",
+"area_impressa": "",
+"enunciado": "As brincadeiras passam de uma geração a outra, resgatando traços da cultura e da história de um povo. No Brasil, um exemplo seriam as brincadeiras de roda. Se, em uma brincadeira de roda, Letícia é a sexta à esquerda de Gustavo e a sétima à direita de Gustavo, assinale a alternativa que apresenta exatamente o número total de crianças nessa brincadeira de roda.",
+"alternativas": [
+"A) 11",
+"B) 12",
+"C) 13",
+"D) 14",
+"E) 15"
+],
+"gabarito": "C",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115326,
+"vest": "FATEC",
+"ano": "2024",
+"area_impressa": "",
+"enunciado": "O futebol pode ser visto como uma arte que une a racionalidade com a emoção: um ponto de encontro para as multidões de praticantes e espectadores. Suponha que um técnico de time de futebol tenha fixado em um quadro a escalação das jogadoras para três jogos amistosos programados. Desse quadro, reproduz-se um trecho, no qual é possível ver que, em cada um dos amistosos, 4 jogadoras são escaladas, sendo 2 delas zagueiras e 2 atacantes. [figura] Sabendo que Francisca é atacante, é necessariamente correto afirmar que",
+"alternativas": [
+"A) Alice é zagueira.",
+"B) Carol é zagueira.",
+"C) Maria é zagueira.",
+"D) Lúcia é atacante.",
+"E) Sônia é atacante."
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115361,
+"vest": "FATEC",
+"ano": "2024",
+"area_impressa": "",
+"enunciado": "Três conhecidos, Ceci, Peri e Iracema, estão decidindo se vão visitar Cuba. Contudo, devido a questões pessoais, sabe-se que: I. Ceci só vai visitar Cuba, se Iracema for; II. se Peri for visitar Cuba, Ceci também irá. Assinale a alternativa que apresenta uma conclusão lógica verdadeira.",
+"alternativas": [
+"A) Ceci e Peri não irão visitar Cuba.",
+"B) Se Ceci decidir visitar Cuba, Peri não irá.",
+"C) Se Peri decidir visitar Cuba, Iracema não irá.",
+"D) Se Iracema não for visitar Cuba, Ceci também não irá.",
+"E) Peri e Iracema irão juntos visitar Cuba."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115379,
+"vest": "FATEC",
+"ano": "2025",
+"area_impressa": "MATEMÁTICA",
+"enunciado": "**RACIOCÍNIO LÓGICO** Considere a afirmação: “É falso que toda criança gosta de sorvete e brinca no parque”. Determine, dentre as alternativas, a única afirmação equivalente a esta.",
+"alternativas": [
+"A) Alguma criança não gosta de sorvete e não brinca no parque.",
+"B) Alguma criança não gosta de sorvete ou não brinca no parque.",
+"C) Toda criança gosta de sorvete ou brinca no parque.",
+"D) Toda criança gosta de sorvete e brinca no parque.",
+"E) Toda criança não gosta de sorvete e não brinca no parque."
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115435,
+"vest": "FATEC",
+"ano": "2025",
+"area_impressa": "",
+"enunciado": "[figura] De acordo com o Diagrama de Euler-Venn apresentado, pode-se afirmar corretamente que a economia",
+"alternativas": [
+"A) circular, por não ter intersecção com a bioeconomia, não participa da economia verde.",
+"B) de base biológica contém a bioeconomia, que, por sua vez, está contida na economia sustentável.",
+"C) de baixa emissão de carbono resulta da intersecção da economia circular, da bioeconomia e da economia verde.",
+"D) circular e a de baixa emissão de carbono contêm a economia sustentável, que não está contida na bioeconomia.",
+"E) sustentável resulta da intersecção de elementos contidos na bioeconomia, na economia de baixa emissão de carbono e na circular."
+],
+"gabarito": "E",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115442,
+"vest": "FATEC",
+"ano": "2025",
+"area_impressa": "",
+"enunciado": "**Leia o texto para responder às questões de 28 a 30.** A canção *Sementes*, composta por Drik Barbosa, Emicida, Nave e Thiago Jamelão, propõe sensibilizar, conscientizar e mudar o cenário do trabalho infantil por meio da poesia. Acompanhe um trecho. 01. **Se** tem muita pressão Não desenvolve a semente É a mesma coisa com a gente **Que** é pra ser gentil 05. **Como** flor é pra florir Mas sem água, sol e tempo Que botão vai **se** abrir? É muito triste, muito cedo É muito covarde 10. Cortar infâncias pela metade **Pra** ser um adulto sem tumulto Não existe atalho, em resumo Crianças não têm trabalho, não, não, não Utilizando os 3 primeiros versos da canção, é possível criar as sequências de letras: • S, T, M, M, T. • N, D, S, N, V. • M, S, M, C, S. Essas sequências possuem uma determinada lógica de formação. Caso a mesma lógica fosse aplicada ao quarto verso da canção, a sequência correspondente seria",
+"alternativas": [
+"A) Q, P, R, S, R.",
+"B) Q, U, R, S, R.",
+"C) P, Q, R, S, R.",
+"D) Q, U, R, R, R.",
+"E) P, Q, R, R, R."
+],
+"gabarito": "A",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115443,
+"vest": "FATEC",
+"ano": "2025",
+"area_impressa": "",
+"enunciado": "**Leia o texto para responder às questões de 28 a 30.** A canção *Sementes*, composta por Drik Barbosa, Emicida, Nave e Thiago Jamelão, propõe sensibilizar, conscientizar e mudar o cenário do trabalho infantil por meio da poesia. Acompanhe um trecho. 01. **Se** tem muita pressão Não desenvolve a semente É a mesma coisa com a gente **Que** é pra ser gentil 05. **Como** flor é pra florir Mas sem água, sol e tempo Que botão vai **se** abrir? É muito triste, muito cedo É muito covarde 10. Cortar infâncias pela metade **Pra** ser um adulto sem tumulto Não existe atalho, em resumo Crianças não têm trabalho, não, não, não Estudantes do curso de Ciências de Dados, durante uma aula, criaram um código para ocultar e proteger informações. Ao aplicá-lo à palavra SEMENTES, obtém-se a sequência: [figura] [figura] Utilizando o mesmo código, assinale a alternativa18 – 04 – 12na– qual04 – 13se–apresenta19 – 04 – 18o número do verso em que se encontra a palavra representada pela sequência:",
+"alternativas": [
+"A) 02",
+"B) 06",
+"C) 10",
+"D) 11",
+"E) 12"
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115455,
+"vest": "FATEC",
+"ano": "2025",
+"area_impressa": "",
+"enunciado": "**Leia o texto para responder às questões 44 e 45.** O Green Game Jam é um evento que desafia estúdios de jogos a incorporarem temas ambientais em seus títulos. Em 2024, os organizadores propuseram reunir os jogadores para agir no mundo real. Suponha que, como parte dessas ações que reuniram os jogadores, houve um campeonato. O quadro a seguir reúne os resultados de algumas partidas disputadas entre 5 competidores que se enfrentaram uma única vez. Cada letra no interior do quadro indica um resultado possível: [figura] As informações descritas no quadro permitem concluir corretamente que",
+"alternativas": [
+"A) Alice conseguiu mais empates do que qualquer outro participante no campeonato, contudo ela perdeu mais jogos do que venceu.",
+"B) Bruno foi o único jogador que venceu todas as partidas contra jogadores que tiveram pelo menos um empate ao longo do campeonato.",
+"C) Carla não enfrentou nenhum jogador que terminou o campeonato sem empates, apesar de ter conseguido algumas vitórias.",
+"D) Diego conseguiu vencer exatamente dois jogos contra adversários que terminaram o campeonato com mais vitórias do que derrotas.",
+"E) Elias foi o único jogador a terminar o campeonato com mais empates do que vitórias, sem conseguir derrotar nenhum adversário."
+],
+"gabarito": "E",
+"primeira_tentativa": "A012-04 — Estatística > Leitura e interpretação de tabelas"
+},
+{
+"id": 115463,
+"vest": "FATEC",
+"ano": "2025",
+"area_impressa": "",
+"enunciado": "[figura]",
+"alternativas": [
+"A) 0",
+"B) 3",
+"C) 16",
+"D) 27",
+"E) 48"
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115509,
+"vest": "FATEC",
+"ano": "2026",
+"area_impressa": "",
+"enunciado": "Quatro hospitais A, B, C e D têm em sua farmácia, respectivamente, 850, 530, 490 e 450 doses de um determinado antibiótico. Durante um surto de infecções resistentes, o hospital A precisará transferir doses aos outros três hospitais de modo que, ao final, todos tenham a mesma quantidade de doses. Considere que somente o hospital A realiza a transferência, que nenhum hospital receberá esse medicamento de fontes externas e que não há perdas durante esse processo. Após as transferências, é correto afirmar que existe um hospital que",
+"alternativas": [
+"A) ganhou 90 doses.",
+"B) perdeu 130 doses.",
+"C) ganhou 270 doses.",
+"D) perdeu 280 doses.",
+"E) ganhou 580 doses."
+],
+"gabarito": "A",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115510,
+"vest": "FATEC",
+"ano": "2026",
+"area_impressa": "",
+"enunciado": "Considere as seguintes afirmações • Todas as filhas de Rose são pesquisadoras; e • Todas as filhas de Alfredo não são pesquisadoras. Com base nessas premissas, assinale a dedução lógica correta.",
+"alternativas": [
+"A) Nenhuma das filhas de Rose é pesquisadora.",
+"B) Existe uma pesquisadora que é filha de Alfredo.",
+"C) Nenhuma pesquisadora é filha de Rose.",
+"D) Existe uma filha de Rose que é filha de Alfredo.",
+"E) Nenhuma das filhas de Alfredo é filha de Rose."
+],
+"gabarito": "E",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 115875,
+"vest": "FUVEST",
+"ano": "2019",
+"area_impressa": "",
+"enunciado": "O consumo calórico de um animal de sangue quente é proporcional à área superficial de seu corpo. Um animal com massa 3,5 kg consome 250 kcal diárias. O gráfico relaciona a área superficial desse animal com sua massa. [figura] Considerando o gráfico, conclui‐se que, se a massa deste animal dobrar, o seu novo consumo diário de energia, em kcal, será, aproximadamente,",
+"alternativas": [
+"A) 130",
+"B) 250",
+"C) 310",
+"D) 390",
+"E) 500"
+],
+"gabarito": "D",
+"primeira_tentativa": "A012-03 — Estatística > Leitura e interpretação de gráficos"
+},
+{
+"id": 116022,
+"vest": "FUVEST",
+"ano": "2023",
+"area_impressa": "",
+"enunciado": "André e Bianca possuem automóveis que podem ser abastecidos com etanol, gasolina ou uma mistura dos dois combustíveis. Em um mesmo posto de combustível, André abasteceu seu carro com 18 litros da bomba de etanol e 32 litros da bomba de gasolina; já Bianca abasteceu seu carro com 30 litros da bomba de etanol e 20 litros da bomba de gasolina. Sabendo que o valor total pago por André foi 10% maior do que o pago por Bianca, a razão entre os preços, por litro, de etanol e de gasolina é:",
+"alternativas": [
+"A) 5/8",
+"B) 2⁄3",
+"C) 7⁄10",
+"D) 3⁄4",
+"E) 4⁄5"
+],
+"gabarito": "B",
+"primeira_tentativa": "A002-03 — Razão, proporção e porcentagem > Porcentagem, aumentos e descontos"
+},
+{
+"id": 116088,
+"vest": "FUVEST",
+"ano": "2023",
+"area_impressa": "",
+"enunciado": "Observe a imagem a seguir: [figura] Neste tipo de imagem, palavras são substituídas por símbolos e/ou expressões matemáticas cuja escrita ou sonoridade sejam semelhantes. Das alternativas a seguir, aquela em que há coerência entre o argumento utilizado e esse tipo de semelhança aparece em:",
+"alternativas": [
+"A) O símbolo √–1 (a unidade imaginária) indica que algo é delicioso somente na nossa imaginação.",
+"B) O uso do símbolo ∑ (a letra grega ‘sigma’) indica que algo está muito (‘infinitamente’) delicioso.",
+"C) Na língua inglesa, o símbolo π também é utilizado como um sinônimo da palavra “food”.",
+"D) O símbolo 2<sup>3</sup> representa, em inglês, um verbo conjugado no passado perfeito (past perfect).",
+"E) O uso do símbolo ∑ se deu por seu significado matemático e não por sua letra representada."
+],
+"gabarito": "E",
+"primeira_tentativa": "A003-01 — Álgebra > Expressões algébricas"
+},
+{
+"id": 117989,
+"vest": "UERJ",
+"ano": "2024",
+"area_impressa": "",
+"enunciado": "A sequência (a<sub>n</sub>) = (0, 0, 5, 5, 0, ...), em que n ∈ IN, é definida por: QUESTÃO a<sub>1</sub> = a<sub>2</sub> = 0 { a<sub>3</sub> = 5 a<sub>n</sub> = x, sendo x o algarismo da unidade simples da soma a<sub>n</sub><sub>-</sub><sub>1</sub> + a<sub>n</sub><sub>-</sub><sub>2</sub> + a<sub>n</sub><sub>-</sub><sub>3</sub> A soma dos 100 primeiros elementos da sequência (a<sub>n</sub>) é igual a:",
+"alternativas": [
+"A) 125",
+"B) 175",
+"C) 200",
+"D) 250"
+],
+"gabarito": "D",
+"primeira_tentativa": "A005-01 — Sequências e progressões > Progressão aritmética (PA)"
+},
+{
+"id": 118069,
+"vest": "UERJ",
+"ano": "2026",
+"area_impressa": "",
+"enunciado": "[figura] O gráfico que expressa uma consequência do evento ironizado na tirinha é:",
+"alternativas": [
+"A) [figura]",
+"B) [figura]",
+"C) [figura]",
+"D) [figura]"
+],
+"gabarito": "A",
+"primeira_tentativa": "A012-03 — Estatística > Leitura e interpretação de gráficos"
+},
+{
+"id": 118381,
+"vest": "UFMS",
+"ano": "2019",
+"area_impressa": "Matemática e suas Tecnologias",
+"enunciado": "Observe a figura a seguir: [figura] A área da região aproximadamente:",
+"alternativas": [
+"A) 28%.",
+"B) 36%.",
+"C) 41%.",
+"D) 56%.",
+"E) 60%."
+],
+"gabarito": "A",
+"primeira_tentativa": "A006-09 — Geometria plana > Áreas e perímetros"
+},
+{
+"id": 118418,
+"vest": "UFMS",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA E SUAS TECNOLOGIAS",
+"enunciado": "Na fazenda Boa Esperança, o plantio de sorgo será feito pela região que satisfaz às [figura] A região que representa adequadamente o plantio de sorgo, na figura, é designada pelo número:",
+"alternativas": [
+"A) 1.",
+"B) 2.",
+"C) 3.",
+"D) 4.",
+"E) 5."
+],
+"gabarito": "D",
+"primeira_tentativa": "A003-04 — Álgebra > Inequações"
+},
+{
+"id": 118994,
+"vest": "UFU",
+"ano": "2020",
+"area_impressa": "MATEMÁTICA",
+"enunciado": "Sejam *z<sub>1</sub>* e *z<sub>2</sub>* duas raízes cúbicas de um número complexo *w.* Considerando-se as representações geométricas dessas raízes, sabe-se que *z<sub>1</sub>* está situada no primeiro quadrante e que *z<sub>2</sub>* é da forma *b.i,* onde *b* é um número real negativo e *i* é a unidade imaginária. Portanto, o coeficiente angular da reta que passa por *z<sub>1</sub>* e *z<sub>2</sub>* é igual a",
+"alternativas": [
+"A) \\(\\widehat{√3}\\).",
+"B) 1.",
+"C) ↔<sup>√3</sup><sub>3</sub> .",
+"D) ↔<sup>√3</sup><sub>2</sub> ."
+],
+"gabarito": "A",
+"primeira_tentativa": "A003-07 — Álgebra > Polinômios"
+},
+{
+"id": 119223,
+"vest": "UFU",
+"ano": "2022",
+"area_impressa": "MATEMÁTICA",
+"enunciado": "Sejam **n** e **m** números naturais com 1 ≤ n ≤ 50 e 80 ≤ m ≤ 100. Se **i** é a unidade imaginária dos números complexos, i<sup>2</sup> = –1, então a quantidade de distintos pares n m ordenados (n, m) tais que i + i = –2i é igual a",
+"alternativas": [
+"A) 25",
+"B) 78",
+"C) 17",
+"D) 60"
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 119462,
+"vest": "UNEMAT",
+"ano": "2015",
+"area_impressa": "CIÊNCIAS DA NATUREZA E SUAS",
+"enunciado": "João tem 358 blocos iguais de 20 cm de largura por 40 centímetros de comprimento e 2,1 cm de espessura. Resolveu empilhá-los, formando uma coluna de 40 cm de largura por 60 cm de comprimento. Aproximadamente em metros, qual é a altura máxima dessa coluna?",
+"alternativas": [
+"A) 2,0 m.",
+"B) 2,5 m.",
+"C) 3,0 m.",
+"D) 3,5 m.",
+"E) 4,0m."
+],
+"gabarito": "B",
+"primeira_tentativa": "A007-04 — Geometria espacial > Volume e área total"
+},
+{
+"id": 119542,
+"vest": "UNEMAT",
+"ano": "2018",
+"area_impressa": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
+"enunciado": "Considere uma elipse, cuja equação é dada por \\(\\frac{𝑥2}{9}\\) + \\(\\frac{𝑦2}{2}\\) = 1, e uma reta com equação 𝑦 = −𝑥, ambas no mesmo plano cartesiano. Assinale a alternativa que apresenta um dos pontos em que as curvas da elipse e da reta se interceptam, respectivamente.",
+"alternativas": [
+"A) (\\(\\frac{3√22}{11}\\) ; − \\(\\frac{3√22}{11}\\))",
+"B) (− \\(\\widehat{\\frac{3√22}{11}}\\) ; − \\(\\widehat{\\frac{3√22}{11})}\\)",
+"C) (\\(\\frac{3√22}{11}\\) ; \\(\\frac{3√22}{11}\\))",
+"D) (\\(\\frac{3√2}{11}\\) ; − \\(\\frac{3√2}{11}\\))",
+"E) (− \\(\\frac{3√2}{11}\\) ; \\(\\frac{3√2}{11}\\))"
+],
+"gabarito": "A",
+"primeira_tentativa": "A009-01 — Geometria analítica > Ponto, reta e distâncias"
+},
+{
+"id": 119784,
+"vest": "UNESP",
+"ano": "2019",
+"area_impressa": "",
+"enunciado": "Leia o texto para responder às questões **72** e **73**. [figura] Tomando como base um Boeing 737-800, seus tanques de combustível podem comportar até 21 t (21 toneladas) de querosene de aviação (QAV). O consumo do QAV tem como principal variável o peso total da aeronave. Além disso, altitude, velocidade e temperatura também influenciam na conta. Quanto mais longo o percurso, mais eficiente a aeronave será, pois o consumo do QAV em altitude é muito menor, devido à atmosfera mais rarefeita, que causa menos resistência ao avanço e, ao mesmo tempo em que ocorre o consumo, reduz-se o peso da aeronave. Em voo de cruzeiro (quando o avião alcança a velocidade e altitude ideais) o consumo de QAV é de aproximadamente 2 200 kg/h. A fase do voo com maior consumo de combustível é a subida, pois a aeronave precisa de muita força para decolar e ganhar altitude. O consumo de QAV chega a ser o dobro, se comparado ao voo de cruzeiro. Já na descida, o consumo é menor, chegando a ser 1/3 em comparação ao voo de cruzeiro. O gráfico mostra o tempo decorrido desde que um Boeing 737-800 iniciou a decolagem no aeroporto de origem, atingiu sua altitude de cruzeiro e finalmente pousou no aeroporto de destino. Os aeroportos podem ser considerados ao nível do mar. [figura] Considerando as informações sobre consumo de QAV dadas no texto, pode-se estimar que o consumo total de combustível no voo representado pelo gráfico foi próximo de",
+"alternativas": [
+"A) 7 000 kg.",
+"B) 11 000 kg.",
+"C) 9 000 kg.",
+"D) 3 000 kg.",
+"E) 5 000 kg."
+],
+"gabarito": "A",
+"primeira_tentativa": "A012-03 — Estatística > Leitura e interpretação de gráficos"
+},
+{
+"id": 119794,
+"vest": "UNESP",
+"ano": "2019",
+"area_impressa": "",
+"enunciado": "[figura] Um banco estabelece os preços dos seguros de vida de seus clientes com base no índice de risco do evento assegurado. A tabela mostra o cálculo do índice de risco de cinco eventos diferentes. [figura] Sabe-se que, nesse banco, o índice de risco de morte pela prática do evento *BASE jumping* é igual a 8. Praticante de *BASE jumping* (https://pt.wikipedia.org) O risco de morte para praticantes desse esporte, segundo a avaliação do banco, é de",
+"alternativas": [
+"A) 2,5%.",
+"B) 2%.",
+"C) 1%.",
+"D) 1,5%.",
+"E) 0,5%."
+],
+"gabarito": "C",
+"primeira_tentativa": "A002-01 — Razão, proporção e porcentagem > Razão e proporção"
+},
+{
+"id": 120421,
+"vest": "UNICAMP",
+"ano": "2015",
+"area_impressa": "",
+"enunciado": "Sejam 𝑥 e 𝑦 números reais tais que 𝑥 + 𝑦𝑖 = \\(\\widehat{√3\\,+\\,4𝑖,}\\) onde 𝑖 é a unidade imaginária. O valor de 𝑥𝑦 é igual a",
+"alternativas": [
+"A) −2.",
+"B) −1.",
+"C) 1.",
+"D) 2."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 120521,
+"vest": "UNICAMP",
+"ano": "2016",
+"area_impressa": "",
+"enunciado": "Considere o número complexo *z* = \\(\\frac{1+\\,ai}{a\\,−\\,i}\\) , onde *a* é um número real e *i* é a unidade imaginária, isto é, *i*<sup>2</sup> = −1. O valor de *z*<sup>2016</sup> é igual a",
+"alternativas": [
+"A) *a*<sup>2016</sup>",
+"B) 1.",
+"C) 1+ 2016*i* .",
+"D) *i*."
+],
+"gabarito": "B",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 120572,
+"vest": "UNICAMP",
+"ano": "2017",
+"area_impressa": "",
+"enunciado": "Seja 𝑖 a unidade imaginária, isto é, 𝑖<sup>2</sup> = −1. O lugar geométrico dos pontos do plano cartesiano com coordenadas reais (𝑥, 𝑦) tais que (2𝑥 + 𝑦𝑖)(𝑦 + 2𝑥𝑖) = 𝑖 é uma",
+"alternativas": [
+"A) elipse.",
+"B) hipérbole.",
+"C) parábola.",
+"D) reta."
+],
+"gabarito": "A",
+"primeira_tentativa": "A009-01 — Geometria analítica > Ponto, reta e distâncias"
+},
+{
+"id": 120655,
+"vest": "UNICAMP",
+"ano": "2019",
+"area_impressa": "",
+"enunciado": "Em um estudo científico, uma fina camada de um novo filtro protetor solar foi exposta previamente à radiação UVA e UVB durante diferentes intervalos de tempo, testando-se em seguida a sua eficiência em barrar essa mesma radiação. A figura a seguir mostra apenas dois dos resultados obtidos no experimento, sendo uma das curvas referente a uma exposição por 10 minutos e, a outra, a uma exposição de 30 minutos. [figura] De acordo com essa figura, na faixa de 300 a 320 nm, ao triplicar o tempo de exposição prévia, o protetor apresentou uma eficiência",
+"alternativas": [
+"A) menor, e a curva A diz respeito aos 30 minutos de exposição prévia.",
+"B) menor, e a curva A diz respeito aos 10 minutos de exposição prévia.",
+"C) menor, e a curva B diz respeito aos 10 minutos de exposição prévia.",
+"D) maior, e a curva B diz respeito aos 30 minutos de exposição prévia."
+],
+"gabarito": "B",
+"primeira_tentativa": "A012-03 — Estatística > Leitura e interpretação de gráficos"
+},
+{
+"id": 120853,
+"vest": "UNICAMP",
+"ano": "2021",
+"area_impressa": "",
+"enunciado": "No início da pandemia da Covid-19, houve escassez de máscaras de proteção. Muitas pessoas passaram a fabricar suas próprias máscaras com tecidos comuns. Seriam essas máscaras caseiras tão eficientes quanto a máscara recomendada, a N95? Um estudo avaliou a eficiência de alguns tecidos na filtração de partículas de 10 nm a 10 µm, faixa de tamanho importante para a transmissão de vírus baseada em aerossóis, e que compreende a faixa do novo coronavírus (20-250 nm). Algumas informações obtidas pelos pesquisadores encontram-se nos gráficos a seguir. [figura] Com base nessas informações, é correto afirmar que a eficiência na filtração de uma máscara caseira é sempre",
+"alternativas": [
+"A) maior para partículas abaixo de 300 nm quando uma única camada de qualquer tecido é usada.",
+"B) menor para partículas abaixo de 300 nm quando uma única camada de qualquer tecido é usada.",
+"C) maior que a da N95 para a faixa do novo coronavírus, desde que se use uma camada dupla de diferentes tecidos.",
+"D) menor que a da N95 para a faixa do novo coronavírus, mesmo que se use uma camada dupla de diferentes tecidos."
+],
+"gabarito": "A",
+"primeira_tentativa": "A012-03 — Estatística > Leitura e interpretação de gráficos"
+},
+{
+"id": 120965,
+"vest": "UNICAMP",
+"ano": "2024",
+"area_impressa": "",
+"enunciado": "Todo final de semana, as amigas Ana, Bruna e Carol se encontram em um parque para andar de bicicleta ou de patins. Nesta brincadeira, a escolha entre patins e bicicleta é feita usando a seguinte regra: Se Ana anda de patins, então Carol também anda de patins. Bruna anda de patins apenas quando Carol anda de bicicleta. Sabendo que neste final de semana Carol andou de patins, então é necessariamente verdade que",
+"alternativas": [
+"A) Ana andou de patins.",
+"B) Ana não andou de patins.",
+"C) Bruna andou de patins.",
+"D) Bruna não andou de patins."
+],
+"gabarito": "D",
+"primeira_tentativa": "A001-01 — Matemática básica > Conjuntos numéricos e operações"
+},
+{
+"id": 121017,
+"vest": "UNICAMP",
+"ano": "2025",
+"area_impressa": "",
+"enunciado": "O percentual da energia metabólica de um macronutriente em um alimento pode ser obtido levando em conta tanto o percentual em massa desse macronutriente quanto a sua respectiva energia metabólica por massa. Dos macronutrientes que nos interessam, os principais são proteínas, carboidratos e gorduras; as fibras só entram nesses cálculos quando são digeríveis. As gorduras apresentam um valor de energia metabólica por massa cerca de 2,25 vezes o valor da energia metabólica associada a carboidratos ou a proteínas. Considere uma barra de chocolate cujos percentuais de energia sejam os apresentados conforme a tabela a seguir. [figura] A partir dessas informações, pode-se afirmar que, em comparação com os respectivos percentuais em energia, os percentuais em massa de",
+"alternativas": [
+"A) proteínas e carboidratos serão maiores e o percentual de gordura será menor.",
+"B) proteínas, carboidratos e gorduras serão maiores.",
+"C) proteínas e carboidratos serão menores e o percentual de gordura será maior.",
+"D) proteínas, carboidratos e gorduras serão menores."
+],
+"gabarito": "A",
+"primeira_tentativa": "A002-03 — Razão, proporção e porcentagem > Porcentagem, aumentos e descontos"
+},
+{
+"id": 121021,
+"vest": "UNICAMP",
+"ano": "2025",
+"area_impressa": "",
+"enunciado": "Os repelentes tópicos para a pele foram projetados para proteger – por contato ou à pequena distância – contra picadas de insetos. Além desses, há os repelentes ditos “espaciais”, compostos cuja ação repelente é garantida para distâncias um pouco maiores. Um repelente espacial cria uma zona livre de mosquitos causadores de arboviroses. Óleo de cravo, icaridina e transflutrina foram então testados para a prevenção contra fêmeas do mosquito Aedes aegypti, que são as responsáveis pela transmissão dessas doenças. Os resultados desses testes são mostrados na figura a seguir. [figura] Concentração (mg de princípio ativo/80 L) Com base nos resultados experimentais, é correto afirmar que, na faixa considerada,",
+"alternativas": [
+"A) a transflutrina, a icaridina e o óleo de cravo têm ação repelente, mas não ação inseticida.",
+"B) apenas a transflutrina e a icaridina têm ação repelente, mas não ação inseticida.",
+"C) a transflutrina, a icaridina e o óleo de cravo têm ação repelente, mas somente um deles tem ação inseticida.",
+"D) apenas a transflutrina e a icaridina têm ação repelente, mas somente uma delas tem ação inseticida."
+],
+"gabarito": "C",
+"primeira_tentativa": "A012-03 — Estatística > Leitura e interpretação de gráficos"
+},
+{
+"id": 169,
+"vest": "ENEM",
+"ano": "2009",
+"area_impressa": "",
+"enunciado": "**Para o Mano Caetano** 1 O que fazer do ouro de tolo Quando um doce bardo brada a toda brida, Em velas pandas, suas esquisitas rimas? 4 Geografia de verdades, Guanabaras postiças Saudades banguelas, tropicais preguiças? A boca cheia de dentes 7 De um implacável sorriso Morre a cada instante Que devora a voz do morto, e com isso, 10 Ressuscita vampira, sem o menor aviso [...] E eu *soy* lobo-bolo? lobo-bolo Tipo pra rimar com ouro de tolo? 13 Oh, Narciso Peixe Ornamental! 1 *Tease me, tease me* outra vez Ou em banto baiano 16 Ou em português de Portugal Se quiser, até mesmo em americano De Natal [...] 1 *Tease me* (caçoe de mim, importune-me). Na letra da canção apresentada, o compositor Lobão explora vários recursos da língua portuguesa, a fim de conseguir efeitos estéticos ou de sentido. Nessa letra, o autor explora o extrato sonoro do idioma e o uso de termos coloquiais na seguinte passagem:",
+"alternativas": [
+"A) “Quando um doce bardo brada a toda brida” (v. 2)",
+"B) “Em velas pandas, suas esquisitas rimas?” (v. 3)",
+"C) “Que devora a voz do morto” (v. 9)",
+"D) “lobo-bolo//Tipo pra rimar com ouro de tolo? (v. 11-12)",
+"E) “*Tease me, tease me* outra vez” (v. 14)"
+],
+"gabarito": "D",
+"primeira_tentativa": "A087-03 — Linguagem e comunicação > Figuras de linguagem"
+},
+{
+"id": 555,
+"vest": "ENEM",
+"ano": "2010",
+"area_impressa": "",
+"enunciado": "Resta saber o que ficou das línguas indígenas no português do Brasil. Serafim da Silva Neto afirma: “No português brasileiro não há, positivamente, influência das línguas africanas ou ameríndias”. Todavia, é difícil de aceitar que um longo período de bilinguismo de dois séculos não deixasse marcas no português do Brasil. ELIA, S. Fundamentos Histórico-Linguísticos do Português do Brasil. Rio de Janeiro: Lucerna, 2003 (adaptado). No final do século XVIII, no norte do Egito, foi descoberta a Pedra de Roseta, que continha um texto escrito em egípcio antigo, uma versão desse texto chamada \"demótico\", e o mesmo texto escrito em grego. Até então, a antiga escrita egípcia não estava decifrada. O inglês Thomas Young estudou o objeto e fez algumas descobertas como, por exemplo, a direção em que a leitura deveria ser feita. Mais tarde, o francês Jean-François Champollion voltou a estudá-la e conseguiu decifrar a antiga escrita egípcia a partir do grego, provando que, na verdade, o grego era a língua original do texto e que o egípcio era uma tradução. Com base na leitura dos textos conclui-se, sobre as línguas, que",
+"alternativas": [
+"A) cada língua é única e intraduzível.",
+"B) elementos de uma língua são preservados, ainda que não haja mais falantes dessa língua.",
+"C) a língua escrita de determinado grupo desaparece quando a sociedade que a produzia é extinta.",
+"D) o egípcio antigo e o grego apresentam a mesma estrutura gramatical, assim como as línguas indígenas brasileiras e o português do Brasil.",
+"E) o egípcio e o grego apresentavam letras e palavras similares, o que possibilitou a comparação linguística, o mesmo que aconteceu com as línguas indígenas brasileiras e o português do Brasil."
+],
+"gabarito": "B",
+"primeira_tentativa": "A087-02 — Linguagem e comunicação > Variação linguística e preconceito linguístico"
+},
+{
+"id": 558,
+"vest": "ENEM",
+"ano": "2010",
+"area_impressa": "",
+"enunciado": "Riqueza ameaçada Boa parte dos 180 idiomas sobreviventes está ameaçada de extinção – mais da metade (110) é falada por menos de 500 pessoas. No passado, era comum pessoas serem amarradas em árvores quando se expressavam em suas línguas, lembra o cacique Felisberto Kokama, um analfabeto para os nossos padrões e um guardião da pureza de seu idioma (caracterizado por uma diferença marcante entre a fala masculina e a feminina), lá no Amazonas, no Alto Solimões. Outro Kokama, o professor Leonel, da região de Santo Antônio do Içá (AM), mostra o problema atual: \"Nosso povo se rendeu às pessoas brancas pelas dificuldades de sobrevivência. O contato com a língua portuguesa foi exterminando e dificultando a prática da nossa língua. Há poucos falantes, e com vergonha de falar. A língua é muito preconceituada entre nós mesmos\". Revista Língua Portuguesa. São Paulo: Segmento, n. 26, 2007. O desaparecimento gradual ou abrupto de partes importantes do patrimônio linguístico e cultural do país possui causas variadas. Segundo o professor Leonel, da região de Santo Antônio do Içá (AM), os idiomas indígenas sobreviventes estão ameaçados de extinção devido ao",
+"alternativas": [
+"A) medo que as pessoas tinham de serem castigadas por falarem a sua língua.",
+"B) número reduzido de índios que continuam falando entre si nas suas reservas.",
+"C) contato com falantes de outras línguas e a imposição de um outro idioma.",
+"D) desaparecimento das reservas indígenas em decorrência da influência do branco.",
+"E) descaso dos governantes em preservar esse patrimônio cultural brasileiro."
+],
+"gabarito": "C",
+"primeira_tentativa": "A087-02 — Linguagem e comunicação > Variação linguística e preconceito linguístico"
+},
+{
+"id": 1120,
+"vest": "ENEM",
+"ano": "2012",
+"area_impressa": "",
+"enunciado": "Acolocação pronominal é a posição que os pronomes pessoais oblíquos átonos ocupam na frase em relação ao verbo a que se referem. São pronomes oblíquos átonos: me, te, se, o, os, a, as, lhe, lhes, nos e vos. Esses pronomes podem assumir três posições na oração em relação ao verbo. Próclise, quando o pronome é colocado antes do verbo, devido a partículas atrativas, como o pronome relativo. Ênclise, quando o pronome é colocado depois do verbo, o que acontece quando este estiver no imperativo afirmativo ou no infinitivo impessoal regido da preposição “a” ou quando o verbo estiver no gerúndio. Mesóclise, usada quando o verbo estiver flexionado no futuro do presente ou no futuro do pretérito. A mesóclise é um tipo de colocação pronominal raro no uso coloquial da língua portuguesa. No entanto, ainda é encontrada em contextos mais formais, como se observa em:",
+"alternativas": [
+"A) Não lhe negou que era um improviso.",
+"B) Faz muito tempo que lhe falei essas coisas.",
+"C) Nunca um homem se achou em mais apertado lance.",
+"D) Referia-se à D. Evarista ou tê-la-ia encontrado em algum outro autor?",
+"E) Acabou de chegar dizendo-lhe que precisava retornar ao serviço imediatamente."
+],
+"gabarito": "D",
+"primeira_tentativa": "A089-01 — Gramática - morfologia > Classes de palavras"
+},
+{
+"id": 1172,
+"vest": "ENEM",
+"ano": "2012",
+"area_impressa": "",
+"enunciado": "Apesar de todo o esforço em prol de um língua internacional artificial, até o momento a sensação é de relativo fracasso. Praticamente nenhum país adotou o ensino obrigatório de uma língua artificial, a comunidade científica continua a se comunicar em inglês, e as línguas mais difundidas internacionalmente continuam a ser as de países política ou economicamente dominantes, como inglês, francês, espanhol, russo e chinês. Nem mesmo organismos supranacionais como a ONU e a União Europeia, onde reina uma babel de línguas, se mostraram até agora inclinados a adotar uma língua artificial. O esperanto, inventado no século XIX, é a língua artificial mais difundida atualmente. Entretanto, como o texto sugere, o desequilíbrio atual de poder entre os países impõe a",
+"alternativas": [
+"A) busca de nova língua global.",
+"B) recuperação das línguas mortas.",
+"C) adoção de uma língua unificada.",
+"D) valorização das línguas nacionais.",
+"E) supremacia de algumas línguas naturais."
+],
+"gabarito": "E",
+"primeira_tentativa": "A087-02 — Linguagem e comunicação > Variação linguística e preconceito linguístico"
+},
+{
+"id": 1814,
+"vest": "ENEM",
+"ano": "2013",
+"area_impressa": "",
+"enunciado": "Querô DELEGADO — Então desce ele. Vê o que arrancam desse sacana. SARARÁ — Só que tem um porém. Ele é menor. DELEGADO — Então vai com jeito. Depois a gente entrega pro juiz. (Luz apaga no delegado e acende no repórter, que se dirige ao público.) REPÓRTER — E o Querô foi espremido, empilhado, esmagado de corpo e alma num cubículo imundo, com outros meninos. Meninos todos espremidos, empilhados, esmagados de corpo e alma, alucinados pelos seus desesperos, cegados por muitas aflições. Muitos meninos, com seus desesperos e seus ódios, empilhados, espremidos, esmagados de corpo e alma no imundo cubículo do reformatório. E foi lá que o Querô cresceu. MARCOS, P. Melhor teatro. São Paulo: Global, 2003 (fragmento). No discurso do repórter, a repetição causa um efeito de sentido de intensificação, construindo a ideia de",
+"alternativas": [
+"A) opressão física e moral, que gera rancor nos meninos.",
+"B) repressão policial e social, que gera apatia nos meninos.",
+"C) polêmica judicial e midiática, que gera confusão entre os meninos.",
+"D) concepção educacional e carcerária, que gera comoção nos meninos.",
+"E) informação crítica e jornalística, que gera indignação entre os meninos."
+],
+"gabarito": "A",
+"primeira_tentativa": "A087-03 — Linguagem e comunicação > Figuras de linguagem"
+},
+{
+"id": 2018,
+"vest": "ENEM",
+"ano": "2014",
+"area_impressa": "",
+"enunciado": "Abrimos o Brasil a todo o mundo: mas queremos que o Brasil seja Brasil! Queremos conservar a nossa raça, a nossa história, e, principalmente, a nossa língua, que é toda a nossa vida, o nosso sangue, a nossa alma, a nossa religião. Nesse trecho, Olavo Bilac manifesta seu engajamento na constituição da identidade nacional e linguística, ressaltando a",
+"alternativas": [
+"A) transformação da cultura brasileira.",
+"B) religiosidade do povo brasileiro.",
+"C) abertura do Brasil para a democracia.",
+"D) importância comercial do Brasil.",
+"E) autorreferência do povo como brasileiro."
+],
+"gabarito": "E",
+"primeira_tentativa": "A085-01 — Leitura e interpretação > Interpretação de texto"
+},
+{
+"id": 2113,
+"vest": "ENEM",
+"ano": "2014",
+"area_impressa": "",
+"enunciado": "E se a água potável acabar? O que aconteceria se a água potável do mundo acabasse? As teorias mais pessimistas dizem que a água potável deve acabar logo, em 2050. Nesse ano, ninguém mais tomará banho todo dia. Chuveiro com água só duas vezes por semana. Se alguém exceder 55 litros de consumo (metade do que a ONU recomenda), seu abastecimento será interrompido. Nos mercados, não haveria carne, pois, se não há água para você, imagine para o gado. Gastam-se 43 mil litros de água para produzir 1 kg de carne. Mas, não é só ela que faltará. A Região Centro-Oeste do Brasil, maior produtor de grãos da América Latina em 2012, não conseguiria manter a produção. Afinal, no país, a agricultura e a agropecuária são, hoje, as maiores consumidoras de água, com mais de 70 % do uso. Faltariam arroz, feijão, soja, milho e outros grãos. A língua portuguesa dispõe de vários recursos para indicar a atitude do falante em relação ao conteúdo de seu enunciado. No início do texto, o verbo “dever” contribui para expressar",
+"alternativas": [
+"A) uma constatação sobre como as pessoas administram os recursos hídricos.",
+"B) a habilidade das comunidades em lidar com problemas ambientais contemporâneos.",
+"C) a capacidade humana de substituir recursos naturais renováveis.",
+"D) uma previsão trágica a respeito das fontes de água potável.",
+"E) uma situação ficcional com base na realidade ambiental brasileira."
+],
+"gabarito": "D",
+"primeira_tentativa": "A089-01 — Gramática - morfologia > Classes de palavras"
+},
+{
+"id": 2696,
+"vest": "ENEM",
+"ano": "2015",
+"area_impressa": "",
+"enunciado": "No ano de 1985 aconteceu um acidente muito grave em Angra dos Reis, no Rio de Janeiro, perto da aldeia guarani de Sapukai. Choveu muito e as águas pluviais provocaram deslizamentos de terras das encostas da Serra do Mar, destruindo o Laboratório de Radioecologia da Central Nuclear Almirante Álvaro Alberto, construída em 1970 num lugar que os índios tupinambás, há mais de 500 anos, chamavam de Itaorna. O prejuízo foi calculado na época em 8 bilhões de cruzeiros. Os engenheiros responsáveis pela construção da usina nuclear não sabiam que o nome dado pelos índios continha informação sobre a estrutura do solo, minado pelas águas da chuva. Só descobriram que Itaorna, em língua tupinambá, quer dizer ‘pedra podre’, depois do acidente. FREIRE, J. R. B. Disponível em: www.taquiprati.com.br. Acesso em: 1 ago. 2012 (adaptado). Considerando-se a história da ocupação na região de Angra dos Reis mencionada no texto, os fenômenos naturais que a atingiram poderiam ter sido previstos e suas consequências minimizadas se",
+"alternativas": [
+"A) o acervo linguístico indígena fosse conhecido e valorizado.",
+"B) as línguas indígenas brasileiras tivessem sido substituídas pela língua geral.",
+"C) o conhecimento acadêmico tivesse sido priorizado pelos engenheiros.",
+"D) a língua tupinambá tivesse palavras adequadas para descrever o solo.",
+"E) o laboratório tivesse sido construído de acordo com as leis ambientais vigentes na época."
+],
+"gabarito": "A",
+"primeira_tentativa": "A085-01 — Leitura e interpretação > Interpretação de texto"
+},
+{
+"id": 3204,
+"vest": "ENEM",
+"ano": "2016",
+"area_impressa": "",
+"enunciado": "**Do amor à pátria** São doces os caminhos que levam de volta à pátria. Não à pátria amada de verdes mares bravios, a mirar em berço esplêndido o esplendor do Cruzeiro do Sul; mas a uma outra mais íntima, pacífica e habitual — uma cuja terra se comeu em criança, uma onde se foi menino ansioso por crescer, uma onde se cresceu em sofrimentos e esperanças plantando canções, amores e filhos ao sabor das estações. O nacionalismo constitui tema recorrente na literatura romântica e na modernista. No trecho, a representação da pátria ganha contornos peculiares porque",
+"alternativas": [
+"A) o amor àquilo que a pátria oferece é grandioso e eloquente.",
+"B) os elementos valorizados são intimistas e de dimensão subjetiva.",
+"C) o olhar sobre a pátria é ingênuo e comprometido pela inércia.",
+"D) o patriotismo literário tradicional é subvertido e motivo de ironia.",
+"E) a natureza é determinante na percepção do valor da pátria."
+],
+"gabarito": "B",
+"primeira_tentativa": "A085-01 — Leitura e interpretação > Interpretação de texto"
+},
+{
+"id": 3749,
+"vest": "ENEM",
+"ano": "2017",
+"area_impressa": "",
+"enunciado": "E aqui, antes de continuar este espetáculo, é necessário que façamos uma advertência a todos e a cada um. Neste momento, achamos fundamental que cada um tome uma posição definida. Sem que cada um tome uma posição definida, não é possível continuarmos. É fundamental que cada um tome uma posição, seja para a esquerda, seja para a direita. Admitimos mesmo que alguns tomem uma posição neutra, fiquem de braços cruzados. Mas é preciso que cada um, uma vez tomada sua posição, fique nela! Porque senão, companheiros, as cadeiras do teatro rangem muito e ninguém ouve nada. A peça *Liberdade, liberdade*, encenada em 1964, apresenta o impasse vivido pela sociedade brasileira em face do regime vigente. Esse impasse é representado no fragmento pelo(a)",
+"alternativas": [
+"A) barulho excessivo produzido pelo ranger das cadeiras do teatro.",
+"B) indicação da neutralidade como a melhor opção ideológica naquele momento.",
+"C) constatação da censura em função do engajamento social do texto dramático.",
+"D) correlação entre o alinhamento político e a posição corporal dos espectadores.",
+"E) interrupção do espetáculo em virtude do comportamento inadequado do público."
+],
+"gabarito": "D",
+"primeira_tentativa": "A085-01 — Leitura e interpretação > Interpretação de texto"
+},
+{
+"id": 7849,
+"vest": "FPS",
+"ano": "2014",
+"area_impressa": "",
+"enunciado": "04. No desenvolvimento do tema, o autor do Texto 1 curriculares dos cursos de medicina no Brasil – representa afirma que: “países como o Brasil (...) podem já estar uma importante conquista. Além da diversificação dos ficando para trás”; “os cientistas brasileiros já estão de cenários de aprendizagem, a consolidação definitiva desse mãos amarradas pela nova lei”. Os efeitos de sentido novo olhar para a saúde exige também o incentivo cada vez pretendidos nessas afirmações: maior de projetos na área de medicina preventiva. científica em que o texto circula. (5) Importa salientar ainda a necessidade de maiores literais implicados nas palavras ‘pé’ e ‘mão’. saúde. A exigibilidade do direito à saúde requer que a mais formal e mais hermético. diretrizes do SUS. Os espaços compartilhados de controle apropriado a um texto expositivo. cultura de corresponsabilidade, pautada na concepção da exclusiva dos textos literários. incluindo governo e sociedade. (...) JUSTIFICATIVA (6) As iniciativas voluntárias – pautadas em valores de RESPOSTA CORRETA: E humanização e solidariedade – promovem espaços compartilhados de atuação e englobam outros setores do A expressão ‘estar ficando para trás’ constitui uma metáfora, o que governo comprometidos com a produção de saúde (ex. as comprova que esse tipo de figura de linguagem não é restrita ao texto literário. universidades federais). Tais iniciativas constituem exemplos de práticas de articulação intersetorial, fundamentais para a efetiva inclusão social da população brasileira. (Israel de L. M. Ferreira; Tiago P. Tabosa e Silva. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104- 42302007000300013. Acesso em 01/10/2013. Adaptado).",
+"alternativas": [
+"A) deixam mais vago o contexto da divulgação",
+"B) aproximam o texto do tema, pelos significados investimentos em políticas de gestão participativa em",
+"C) conferem ao texto um caráter mais pomposo, população se aproprie de informações sobre os princípios e",
+"D) distanciam o texto de seus leitores, o que é bem social deverão assumir o desafio de formação de uma",
+"E) corroboram o princípio de que a ‘metáfora’ não é saúde como bem público, direito social, e dever do Estado,"
+],
+"gabarito": "E",
+"primeira_tentativa": "A088-01 — Semântica e coesão > Semântica, ambiguidade e implícitos"
+},
+{
+"id": 7860,
+"vest": "FPS",
+"ano": "2015",
+"area_impressa": "",
+"enunciado": "04. Observe o seguinte trecho: “Na verdade, sem TEXTO 2 determinado contexto, sem determinada ‘cara’ e ‘gesto’, sem determinado tom de voz, situação e Você já sabe de cor e salteado quais são os personagens, o que dizemos não terá todo o sentido maiores inimigos do coração – tabagismo, hipertensão, – o sentido que pretendemos”. Nesse trecho, colesterol alto, diabetes. Mas há uma novidade nesse sobretudo nos segmentos sublinhados, é evidente: campo: dá para calcular na ponta do lápis qual é aos avanços das pesquisas em cardiologia, a área da medicina que mais evoluiu nos últimos vinte anos.",
+"alternativas": [
+"A) a forma sintática própria de um discurso direto. exatamente a probabilidade de uma pessoa ter um",
+"B) a colocação das palavras numa ordem indireta. problema cardíaco num prazo de dez anos, a partir da",
+"C) a opção por um vocabulário formal e erudito. exposição a esses fatores de risco.",
+"D) o propósito do autor de ser reiterativo, enfático. Até pouco tempo atrás, essa contabilidade era",
+"E) a aproximação com os padrões da oralidade. impossível de ser feita. Ela só se tornou possível graças"
+],
+"gabarito": "D",
+"primeira_tentativa": "A087-02 — Linguagem e comunicação > Variação linguística e preconceito linguístico"
+},
+{
+"id": 7900,
+"vest": "FPS",
+"ano": "2016",
+"area_impressa": "",
+"enunciado": "05. Analisemos o seguinte trecho: “Dessa forma, a saúde empresarial especializado em desenvolvimento de é mantida e melhorada, não só através da promoção e softwares. aplicação da ciência da saúde, mas também através dos esforços e opções de vida inteligentes do indivíduo (3) As afirmações de Araújo são corroboradas por quem e da sociedade.” O segmento em itálico: atua dentro dos hospitais: “Um dos recursos que utilizamos é a automatização dos resultados. Com isso, os exames 1) contém um duplo argumento a favor da afirmação ficam disponíveis diretamente no prontuário eletrônico do anteriormente feita. paciente e permitem ao médico analisar resultados recentes 2) é marcado pelo correlação entre os termos ‘não e antigos, fazendo comparações no histórico de exames do só’ / ‘mas também’. paciente”, diz o gerente de Tecnologia da Informação de um 3) expressa um sentido de oposição, para o que o dos hospitais do Recife. conectivo ‘mas’ recobre toda relevância. 4) teve a sua coesão prejudicada pela falta de (4) De fato, destaca o gerente, o desenvolvimento de paralelismo entre seus termos constituintes. softwares e aplicativos voltados para clínicas e hospitais Estão corretas: tem forçado as empresas de saúde a melhorarem seus serviços, sob pena de perderem pacientes para a concorrência. Ou seja, conta-se com o uso da tecnologia no controle e na agilidade do atendimento ao paciente e na locomoção dentro do hospital, além dos serviços solicitados pela enfermagem, que agora são todos controlados e acompanhados, gerando maior agilidade e contribuindo",
+"alternativas": [
+"A) 1 e 2 apenas",
+"B) 1, 2 e 3 apenas",
+"C) 1, 3 e 4 apenas",
+"D) 2, 3 e 4 apenas.",
+"E) 1, 2, 3 e 4"
+],
+"gabarito": "A",
+"primeira_tentativa": "A088-04 — Semântica e coesão > Argumentação"
+},
+{
+"id": 7901,
+"vest": "FPS",
+"ano": "2016",
+"area_impressa": "",
+"enunciado": "05. Analisemos o seguinte trecho: “Dessa forma, a saúde empresarial especializado em desenvolvimento de é mantida e melhorada, não só através da promoção e softwares. aplicação da ciência da saúde, mas também através dos esforços e opções de vida inteligentes do indivíduo (3) As afirmações de Araújo são corroboradas por quem e da sociedade.” O segmento em itálico: atua dentro dos hospitais: “Um dos recursos que utilizamos é a automatização dos resultados. Com isso, os exames 1) contém um duplo argumento a favor da afirmação ficam disponíveis diretamente no prontuário eletrônico do anteriormente feita. paciente e permitem ao médico analisar resultados recentes 2) é marcado pelo correlação entre os termos ‘não e antigos, fazendo comparações no histórico de exames do só’ / ‘mas também’. paciente”, diz o gerente de Tecnologia da Informação de um 3) expressa um sentido de oposição, para o que o dos hospitais do Recife. conectivo ‘mas’ recobre toda relevância. 4) teve a sua coesão prejudicada pela falta de (4) De fato, destaca o gerente, o desenvolvimento de paralelismo entre seus termos constituintes. softwares e aplicativos voltados para clínicas e hospitais tem forçado as empresas de saúde a melhorarem seus Estão corretas: serviços, sob pena de perderem pacientes para a concorrência. Ou seja, conta-se com o uso da tecnologia no controle e na agilidade do atendimento ao paciente e na locomoção dentro do hospital, além dos serviços solicitados pela enfermagem, que agora são todos controlados e acompanhados, gerando maior agilidade e contribuindo",
+"alternativas": [
+"A) 1 e 2 apenas",
+"B) 1, 2 e 3 apenas",
+"C) 1, 3 e 4 apenas",
+"D) 2, 3 e 4 apenas.",
+"E) 1, 2, 3 e 4"
+],
+"gabarito": "A",
+"primeira_tentativa": "A088-04 — Semântica e coesão > Argumentação"
+},
+{
+"id": 7931,
+"vest": "FPS",
+"ano": "2019",
+"area_impressa": "",
+"enunciado": "01. A leitura é uma atividade complexa, pois mobiliza LÍNGUA diferentes fontes de conhecimento. Por exemplo, para a compreensão do Texto 1, é indispensável que, além das noções gramaticais, tenhamos conhecimento: PORTUGUESA/ 1) dos efeitos de sentido das expressões que LITERATURA constituem o léxico da língua. 2) das especificidades dos tipos e gêneros de texto em circulação. 3) das normas que determinam os padrões da TEXTO 1 nomenclatura gramatical da língua portuguesa. 4) do contexto de sua produção, incluindo autor e seu O açúcar no alvo propósito comunicativo. Doze milhões de toneladas. Esse foi o total de açúcar 5) das relações históricas que determinaram os consumido pelos brasileiros entre 2013 e 2014. Pra ter ideia padrões da ortografia vigente. do tamanho da gulodice, basta dizer que daria para encher, até a arquibancada superior, 32 estádios do Morumbi, em Estão corretas, apenas: São Paulo. Em um ranking elaborado pela Sucden, multinacional do ramo açucareiro, nosso país ocupa, hoje, o quarto lugar entre os maiores fãs da sacarose, o nome técnico do açúcar. O abuso, como a ciência não cansa de mostrar, eleva o risco E) 2 e 5. de obesidade e doenças crônicas como diabetes, hipertensão e câncer. Apenas Índia (26 milhões), União 02. O Texto 1 aceita a ingerência de outros setores sociais Européia (18 milhões) e China (16 milhões) são mais alheios à área específica da saúde, como certos órgãos sedentos por doçura que o Brasil. de pesquisa. Essa aceitação é decorrente: Não é proibido consumir açúcar. Pelo contrário. A OMS A) do consenso popular que admite serem recomenda a ingestão diária. Afinal, ele é uma fonte de preferíveis alimentos naturais ou pouco energia. O problema está no excesso. De fato, a OMS libera processados. um consumo diário, por pessoa, de 25 gr […]  os ritmos sobretudo os inumeráveis Estou farto do lirismo namorador Político Raquítico Sifilítico De todo lirismo que capitula ao que quer que seja fora de si mesmo. De resto não é lirismo Será contabilidade tabela de co-senos secretário do amante exemplar com cem [modelos de cartas e as diferentes maneiras de agradar às mulheres, etc. Quero antes o lirismo dos loucos O lirismo dos bêbedos O lirismo difícil e pungente dos bêbedos O lirismo dos clowns de Shakespeare – Não quero mais saber do lirismo que não é libertação. Manuel Bandeira. Libertinagem. In. ____.Estrela da vida inteira. 20. ed. Rio de Janeiro: Nova Fronteira, 1993. p. 129. 16. O célebre poema de Manoel Bandeira tem como contexto a Primeira Fase do Modernismo brasileiro e traz desse movimento as seguintes referências: 1) o tom combativo dos manifestos próprios dessa fase do movimento. 2) a pretensão grandiloquente dos poemas feitos para serem lidos oralmente. 3) a defesa explícita da liberdade da criação artística. 4) a negação de valores estéticos do passado: métrica, rima e rebuscamento da linguagem. Estão corretas: 5",
+"alternativas": [
+"A) 2, 3 e 4. 1, 2, 3, 4 e 5. da psicoterapia e dos medicamentos). Qual dos determinantes da saúde incluem o Experimentos recentes mostram que suar a camisa também A OMS, cônscia de suas responsabilidades no 1, 2, 3, 4 e 5. C) se saiba classificar, sintaticamente, o sujeito da condicionalidade: Caso os ",
+"B) 3 e 5. 1, 2 e 4, apenas. As amplas definições da saúde humana funciona Quando os resultados de pesquisas proporem B) o aumento de pessoas em busca por 1, 2, 3 e 5, apenas. construção de que ele faz parte. temporalidade: Sempre que os impactos... 2, 3, 4 e 5, apenas. 14. Considerando o contexto de pr",
+"C) 1, 3 e 5. da conveniência e aplicabilidade de se fazer um exatidão na divulgação e análise dos resultados 1, 3 e 4, apenas. Nenhum dos contextos sociais de nossas regiões As escolas mantinham os alunos em silêncio; a memória e o humor”. 1, 2 e 4, apenas. D) quanto a seu valor semântico, se saiba ide",
+"D) 1, 2 e 4. de uma visão unilateral da saúde humana que, menos restrição ao consumo de açúcar, já que há 2, 4 e 5, apenas. Quando a definição da OMS foi divulgada, haviam Se o país poder prever as consequências de suas E) a validade de ajustes na aplicação de 2 e 3 e 5, apenas. um termo sinônimo. caus",
+"E) 1, 3 e 5, apenas. Os contextos sociais em que cada indivíduo vive é Quando a Escola rever os seus planos 1, 2 e 4, apenas. E) considerando sua configuração formal, se finalidade: Para que os impactos... 1 e 4, apenas. a valorização do verso livre e a busca por uma 1, 2, 3 e 4. 1, 2, 3 e 4."
+],
+"gabarito": "D",
+"primeira_tentativa": "A085-03 — Leitura e interpretação > Estratégias de leitura"
+},
+{
+"id": 7933,
+"vest": "FPS",
+"ano": "2019",
+"area_impressa": "",
+"enunciado": "01. A leitura é uma atividade complexa, pois mobiliza LÍNGUA diferentes fontes de conhecimento. Por exemplo, para a compreensão do Texto 1, é indispensável que, além das noções gramaticais, tenhamos conhecimento: PORTUGUESA/ 1) dos efeitos de sentido das expressões que LITERATURA constituem o léxico da língua. 2) das especificidades dos tipos e gêneros de texto em circulação. 3) das normas que determinam os padrões da nomenclatura gramatical da língua portuguesa. TEXTO 1 4) do contexto de sua produção, incluindo autor e seu propósito comunicativo. O açúcar no alvo 5) das relações históricas que determinaram os Doze milhões de toneladas. Esse foi o total de açúcar padrões da ortografia vigente. consumido pelos brasileiros entre 2013 e 2014. Pra ter ideia do tamanho da gulodice, basta dizer que daria para encher, Estão corretas, apenas: até a arquibancada superior, 32 estádios do Morumbi, em A) 2, 3 e 4. São Paulo. Em um ranking elaborado pela Sucden, B) 1, 2 e 4. multinacional do ramo açucareiro, nosso país ocupa, hoje, o C) 3 e 5. quarto lugar entre os maiores fãs da sacarose, o nome D) 1, 3 e 5. técnico do açúcar. E) 2 e 5. O abuso, como a ciência não cansa de mostrar, eleva o risco de obesidade e doenças crônicas como diabetes, 02. O Texto 1 aceita a ingerência de outros setores sociais hipertensão e câncer. Apenas Índia (26 milhões), União alheios à área específica da saúde, como certos Européia (18 milhões) e China (16 milhões) são mais órgãos de pesquisa. Essa aceitação é decorrente: sedentos por doçura que o Brasil. Não é proibido consumir açúcar. Pelo contrário. A OMS preferíveis alimentos naturais ou pouco recomenda a ingestão diária. Afinal, ele é uma fonte de processados. energia. O problema está no excesso. De fato, a OMS B) da conveniência e aplicabilidade d […] mos sobretudo os inumeráveis Estou farto do lirismo namorador Político Raquítico Sifilítico De todo lirismo que capitula ao que quer que seja fora de si mesmo. De resto não é lirismo Será contabilidade tabela de co-senos secretário do amante exemplar com cem [modelos de cartas e as diferentes maneiras de agradar às mulheres, etc. Quero antes o lirismo dos loucos O lirismo dos bêbedos O lirismo difícil e pungente dos bêbedos O lirismo dos clowns de Shakespeare – Não quero mais saber do lirismo que não é libertação. Manuel Bandeira. Libertinagem. In. ____.Estrela da vida inteira. 20. ed. Rio de Janeiro: Nova Fronteira, 1993. p. 129. 16. O célebre poema de Manoel Bandeira tem como contexto a Primeira Fase do Modernismo brasileiro e traz desse movimento as seguintes referências: 1) o tom combativo dos manifestos próprios dessa fase do movimento. 2) a pretensão grandiloquente dos poemas feitos para serem lidos oralmente. 3) a defesa explícita da liberdade da criação artística. 4) a negação de valores estéticos do passado: métrica, rima e rebuscamento da linguagem. Estão corretas: 5 TIPO B",
+"alternativas": [
+"A) do consenso popular que admite serem 1, 2, 3, 4 e 5. lado da psicoterapia e dos medicamentos). Nenhum dos contextos sociais de nossas regiões A OMS, cônscia de suas responsabilidades no “A ciência confirma... o aumento de pessoas em busca por 1, 2, 3, 4 e 5. condicionalidade: Caso os impactos... 1, ",
+"B) 1, 3 e 4, apenas. Qual dos determinantes da saúde incluem o As escolas mantinham os alunos em silêncio; o hipocampo como a região do cérebro que 2, 3 e 5, apenas. temporalidade: Sempre que os impactos... 1 e 4, apenas. a poesia de temática político-social e a criação de 1 e 4, apenas. 3 e 4, apenas.",
+"C) 2, 4 e 5, apenas. Embora os impactos do esforço físico na esfera mental As amplas definições da saúde humana funciona portanto, da sensação imediata de prazer e de dever o efeito do estímulo aos neurônios para obter a Quando os resultados de pesquisas proporem se saiba classificar, sintaticamente, o",
+"D) do cuidado vigilante que devem ter as pessoas menos restrição ao consumo de açúcar, já que há 1, 2 e 4, apenas. sejam um campo de pesquisa novo, multiplicam-se Quando a definição da OMS foi divulgada, a validade de ajustes na aplicação de Se o país poder prever as consequências de quanto a seu valor",
+"E) 1, 3 e 5, apenas. evidências de que caminhar, pedalar e malhar melhoram a Os contextos sociais em que cada indivíduo vive o poder da atividade física para o bem-estar Quando a Escola rever os seus planos 1, 2 e 4, apenas. considerando sua configuração formal, se finalidade: Para que os impactos... 2"
+],
+"gabarito": "B",
+"primeira_tentativa": "A085-03 — Leitura e interpretação > Estratégias de leitura"
+},
+{
+"id": 9738,
+"vest": "SSA",
+"ano": "2022",
+"area_impressa": "",
+"enunciado": "12. Acerca de alguns aspectos linguísticos do Texto 16 (Meu povo, meu poema), assinale a alternativa CORRETA. longo do texto, um sentido de contraste entre ―povo‖ e ―poema‖. forma verbal ―vai nascendo‖ marca o sentido de ―repentinamente‖, ―de súbito‖, desse nascimento. ―Meu povo em meu poema/ se reflete‖. Em todas as ocorrências, a preposição ―em‖ (destacada) denota identidade, unidade, entre os elementos ―povo‖ e ―poema‖. elipse que, explicitada, permite a seguinte leitura: ―No povo meu poema está maduro/ como o sol se põe/ na garganta do futuro‖. necessariamente, maior experiência de leitura e compreensão de texto. 14 SSA – 3ª FASE 1º DIA",
+"alternativas": [
+"A) A conjunção ―como‖ aparece nas quatro primeiras estrofes do poema para estabelecer, ao",
+"B) No trecho ―No povo meu poema vai nascendo/ como no canavial/ nasce verde o açúcar‖, a",
+"C) Releia os versos: ―No povo meu poema vai nascendo‖; ―No povo meu poema está maduro‖;",
+"D) Nos versos: ―No povo meu poema está maduro/ como o sol/ na garganta do futuro‖, há uma",
+"E) A falta de sinais de pontuação ao longo de todas as estrofes do poema exige do leitor,"
+],
+"gabarito": "C",
+"primeira_tentativa": "A088-01 — Semântica e coesão > Semântica, ambiguidade e implícitos"
+},
+{
+"id": 100002,
+"vest": "ENEM",
+"ano": "2005",
+"area_impressa": "",
+"enunciado": "**As questões 1 e 2 referem-se ao poema.** *A DANÇA E A ALMA* *A DANÇA? Não é movimento,* *súbito gesto musical.* *É concentração, num momento,* *da humana graça natural.* *No solo não, no éter pairamos,* *nele amaríamos ficar.* *A dança – não vento nos ramos:* *seiva, força, perene estar.* (Carlos Drummond de Andrade. *Obra completa*. Rio O poema “A Dança e a Alma” é construído com base em contrastes, como “movimento” e “concentração”. Em uma das estrofes, o termo que estabelece contraste com <u>solo</u> é:",
+"alternativas": [
+"A) éter.",
+"B) seiva.",
+"C) chão.",
+"D) paixão.",
+"E) ser."
+],
+"gabarito": "A",
+"primeira_tentativa": "A088-01 — Semântica e coesão > Semântica, ambiguidade e implícitos"
+},
+{
+"id": 100022,
+"vest": "ENEM",
+"ano": "2005",
+"area_impressa": "",
+"enunciado": "[figura] [figura] As tiras ironizam uma célebre fábula e a conduta dos governantes. Tendo como referência o estado atual dos países periféricos, pode-se afirmar que nessas histórias está contida a seguinte <u>idéia:</u>",
+"alternativas": [
+"A) Crítica à precária situação dos trabalhadores ativos e aposentados.",
+"B) Necessidade de atualização crítica de clássicos da literatura.",
+"C) Menosprezo governamental com relação a questões ecologicamente corretas.",
+"D) Exigência da inserção adequada da mulher no mercado de trabalho.",
+"E) Aprofundamento do problema social do desemprego e do subemprego."
+],
+"gabarito": "A",
+"primeira_tentativa": "A085-01 — Leitura e interpretação > Interpretação de texto"
+},
+{
+"id": 101695,
+"vest": "ENEM",
+"ano": "2017",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS",
+"enunciado": "[figura] Não sou idêntica a mim mesmo sou e não sou ao mesmo tempo, no mesmo lugar e sob [o mesmo ponto de vista Não sou divina, não tenho causa Não tenho razão de ser nem finalidade própria: Sou a própria lógica circundante O eu lírico do poema reflete sobre a condição do ser e de suas características. Quando afirma ser “a própria lógica circundante”, confirma as questões abordadas no poema porque o texto",
+"alternativas": [
+"A) usa a metalinguística para refletir sobre a própria escrita.",
+"B) reflete sobre as questões étnicas que fazem parte do humano.",
+"C) exemplifica as características da poesia concretista brasileira.",
+"D) trabalha questões ciclicamente para chegar a uma resolução.",
+"E) apresenta objetividade no silogismo que resulta nesta conclusão."
+],
+"gabarito": "C",
+"primeira_tentativa": "A087-01 — Linguagem e comunicação > Funções da linguagem"
+},
+{
+"id": 101918,
+"vest": "ENEM",
+"ano": "2017",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS",
+"enunciado": "[figura] Em geral, as campanhas têm como objetivo conscientizar a sociedade com relação a um problema. Nessa campanha, o intuito é chamar a atenção para o(a)",
+"alternativas": [
+"A) sexismo, que faz com que muitos homens falem mal das mulheres, caluniando-as.",
+"B) feminismo, que precisa ser compreendido pela sociedade e discutido pelos homens.",
+"C) machismo, que precisa ser discutido pelos homens, embora afete apenas as mulheres.",
+"D) desigualdade de gêneros, que afeta a todos e precisa ser debatida também por homens.",
+"E) violência contra a mulher, que só será erradicada por meio de conscientização e debate."
+],
+"gabarito": "C",
+"primeira_tentativa": "A085-01 — Leitura e interpretação > Interpretação de texto"
+},
+{
+"id": 102567,
+"vest": "ENEM",
+"ano": "2018",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS",
+"enunciado": "[figura] Fonte: Ministério da Justiça A comparação entre os dois gráficos permite inferir que as concessões de refúgio no Brasil apresentam taxas",
+"alternativas": [
+"A) equivalentes com relação ao número de refugiados.",
+"B) maiores nos anos em que há menor fluxo de refugiados.",
+"C) constantemente decrescentes no intervalo de tempo registrado.",
+"D) crescentes, acompanhando o crescimento do número de refugiados.",
+"E) inversas ao crescimento do número de refugiados nos dois últimos anos."
+],
+"gabarito": "C",
+"primeira_tentativa": "A085-01 — Leitura e interpretação > Interpretação de texto"
+},
+{
+"id": 102596,
+"vest": "ENEM",
+"ano": "2018",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS",
+"enunciado": "[...] um texto é feito de escritas múltiplas, saídas de várias culturas e que entram umas com as outras em diálogo, em paródia, em contestação; mas há um lugar em que essa multiplicidade se reúne e esse lugar não é o autor, como se tem dito até aqui, é o leitor: o leitor é o espaço exato em que se inscrevem, sem que nenhuma se perca, todas as citações de que uma escrita é feita; a unidade de um texto não está na sua origem, mas no seu destino, mas este destino já não pode ser pessoal: o leitor é um homem sem história, sem biografia, sem psicologia; é apenas esse alguém que tem reunidos num mesmo campo todos os traços que constituem o escrito. É por isso que é irrisório ouvir condenar a nova escrita em nome de um humanismo que se faz hipocritamente passar por campeio dos direitos do leitor. O leitor, a crítica clássica nunca dele se ocupou; para ela, não há na literatura qualquer outro homem para além daquele que escreve. Ao estabelecer o leitor como espaço onde se inscreve a multiplicidade de escritas que compõem um texto literário, o fragmento",
+"alternativas": [
+"A) questiona a crítica literária tradicional e a importância dada à figura do autor para um texto literário.",
+"B) ressalta as idiossincrasias do leitor como elementos determinantes na interpretação do texto literário.",
+"C) apoia a visão da crítica literária de que o autor é um elemento importante na análise de uma obra literária.",
+"D) considera que a interpretação de um texto literário deve partir do conhecimento da história de vida de seu autor.",
+"E) atribui o significado do texto literário à harmonia entre a interpretação do leitor, a intenção do autor e a análise da crítica literária."
+],
+"gabarito": "C",
+"primeira_tentativa": "A085-01 — Leitura e interpretação > Interpretação de texto"
+},
+{
+"id": 103582,
+"vest": "ENEM",
+"ano": "2019",
+"area_impressa": "LINGUAGENS, CÓDIGOS",
+"enunciado": "**Sabemos** que os gêneros textuais são incontáveis e adaptáveis às diversas realidades e situações comunicacionais. **Sabemos** também que eles podem ser definidos graças a um conjunto de elementos fixos, embora sejam mais flexíveis do que os tipos textuais. A verdade é que a comunicação na internet acabou criando novos gêneros e alterando outros, comprovando que eles estão a serviço dos falantes e às necessidades de seu tempo. Se antes **enviávamos** cartas, hoje **enviamos** *e-mail*, que nada mais é do que uma adaptação virtual que dispensa o papel e a caneta. Se, em um passado não muito distante, **enviávamos** mensagens de celular, hoje **utilizamos** as redes sociais para deixar um recado para nossos amigos. Contudo, é importante observar que, embora os meios tenham sido modernizados, a estrutura da comunicação e a forma com a qual nos **expressamos** continuam seguindo parâmetros que estabelecem uma relação dialógica com formas textuais preexistentes. Disponível em: <www.portugues.com.br/redacao/ generos-digitais.html>. Acesso em: 27 jul. 2019. Ao discorrer sobre as novas tecnologias de comunicação, o autor do texto utiliza recursos linguísticos que consideram a recepção do texto pelo seu público leitor. Dessa maneira, as formas verbais em destaque desempenham a função de",
+"alternativas": [
+"A) **A** expressar circunstâncias possivelmente desconhecidas pelo leitor, acerca do tema tratado.",
+"B) **B** fazer o leitor refletir sobre a veracidade dos argumentos apresentados, exercitando o senso crítico.",
+"C) **C** fazer com que o leitor \\(\\overrightarrow{se}\\) sinta incluído nos fatos e argumentos apresentados pelo autor.",
+"D) **D** restringir o tema tratado e os argumentos a um grupo realmente afetado pelas novas tecnologias.",
+"E) **E** relativizar a relevância do tema tratado em relação a diferentes segmentos \\(\\overrightarrow{da}\\) sociedade."
+],
+"gabarito": "C",
+"primeira_tentativa": "A088-04 — Semântica e coesão > Argumentação"
+},
+{
+"id": 104368,
+"vest": "ENEM",
+"ano": "2019",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "**O texto sob um viés discursivo** A Análise de Discurso de Linha Francesa (AD) é uma corrente de estudos da linguagem que tem como objeto de estudo o discurso, isto é, os “efeitos de sentido” materializados em textos diversos. Desse modo, o analista do discurso se debruça sobre os textos para perceber o modo como eles se inserem dentro da atividade discursiva, para compreendê-los, e não apenas interpretá-los. Na AD, o texto é visto como a materialização do discurso e como um elemento que se apresenta tal qual uma peça dentro do conjunto de enunciados que constituem a atividade discursiva. É uma peça que permite o jogo da interpretação, o deslizamento dos sentidos; portanto, sob o viés da Análise de Discurso, não há sentidos fixos que devem ser extraídos dos textos no momento da leitura. Se o discurso é efeito de sentidos, esses últimos são construídos a partir da atividade do sujeito leitor, que é sempre histórico e marcado pela ideologia. O texto apresentado aborda uma vertente dos Estudos Linguísticos, a chamada Análise do Discurso, de linha francesa. Segundo o texto, essa vertente objetiva o(a)",
+"alternativas": [
+"A) interpretação de efeitos de sentido, considerando a posição do leitor.",
+"B) interação entre texto, autor e leitor, em busca de uma unidade de sentido.",
+"C) fragmentação das ideias nucleares para melhor compreensão das ideias.",
+"D) domínio das normas-padrões referentes às línguas em geral.",
+"E) construção de sentidos que extrapolam a intencionalidade do autor."
+],
+"gabarito": "A",
+"primeira_tentativa": "A085-01 — Leitura e interpretação > Interpretação de texto"
+},
+{
+"id": 105365,
+"vest": "ENEM",
+"ano": "2020",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "[figura] O cartum estabelece uma associação entre previsão do tempo e situações relacionadas ao trabalho, entre elas,",
+"alternativas": [
+"A) oportunidades raras de distração.",
+"B) ocasiões de poucas críticas.",
+"C) dificuldades de deslocamento.",
+"D) sessões de debates acalorados.",
+"E) momentos de frustrações variadas."
+],
+"gabarito": "E",
+"primeira_tentativa": "A085-01 — Leitura e interpretação > Interpretação de texto"
+},
+{
+"id": 106177,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "[figura] [...] Cada vez mais comum na comunidade brasileira no Japão: jovens filhos de migrantes que cresceram lá e não sabem falar fluentemente português. Em muitos casos, a comunicação é difícil porque os pais também não sabem falar o japonês. [...] A primeira leva migratória [...] era formada basicamente por jovens que trabalhavam em linhas de montagem e queriam ganhar dinheiro para voltar ao Brasil. Eles não precisavam, portanto, aprender o idioma nem se preocupavam com uma integração à sociedade. Com o tempo, entretanto, muitos acabaram se estabelecendo no país e tiveram filhos. E saber japonês tornou-se essencial para as crianças se ambientarem socialmente e conseguirem acesso à universidade e a oportunidades de emprego qualificadas. “Assim, hoje vemos muitos filhos de brasileiros que não falam português, só japonês” [...] o problema é ainda mais grave entre adolescentes, que precisam discutir com os pais a decisão sobre a carreira que escolheram e a faculdade. [...] Muitas vezes, os pais tentam abraçar os filhos, mas eles não querem porque isso não é costume no Japão. [...] O problema, para ele, é que parte desses jovens acaba sem uma identidade definida – eles cortam a relação com o Brasil, mas não são completamente assimilados pelo Japão. O fragmento lido propõe uma reflexão acerca dos problemas linguísticos e de interação enfrentados por famílias imigrantes. Atentando para esse gênero textual, o texto busca",
+"alternativas": [
+"A) mostrar que a integração a uma sociedade não ocorre apenas pela apropriação da língua local.",
+"B) explicar de que forma a pluralidade linguística existente no território contribui para uma maior diversidade.",
+"C) demonstrar de que forma a apropriação da língua local é o fator mais importante para a construção da identidade.",
+"D) ponderar sobre a diferença geracional entre pais e filhos como principal responsável pelas situações de incomunicabilidade.",
+"E) advertir sobre o preconceito de que a apropriação da língua e cultura locais implicam a rejeição de alguns costumes brasileiros."
+],
+"gabarito": "A",
+"primeira_tentativa": "A086-01 — Gêneros e tipologias > Gêneros textuais"
+},
+{
+"id": 106187,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "**Mocidade independente** Pela primeira vez infringi a regra de ouro e voei pra cima sem medir as consequências. Por que recusamos ser proféticas? E que dialeto é esse para a pequena audiência de serão? Voei pra cima: é agora, coração, no carro em fogo pelos ares, sem uma graça atravessando o estado de São Paulo, de madrugada, por você, e furiosa: é agora, nesta contramão. Como procedimento de construção do texto literário, é explorada a utilização de um advérbio de tempo, o qual",
+"alternativas": [
+"A) estabelece um diálogo com um interlocutor.",
+"B) reforça opinião contrária à do senso comum.",
+"C) indica a autonomia das jovens da atualidade.",
+"D) expõe a singularidade de um momento presente.",
+"E) condiz com os princípios e morais expressos socialmente."
+],
+"gabarito": "D",
+"primeira_tentativa": "A089-01 — Gramática - morfologia > Classes de palavras"
+},
+{
+"id": 106683,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS",
+"enunciado": "_20_ENEM_POR_CR_L4_Q32 Muito proveito para a comunidade científica esperamos da redação deste verbete, a fim de expiar lacunas no rol dos seres imaginários. A apresentação da mula sem cabeça – nome popular local. Singular por demais, é um híbrido: uma mula, um cruzamento entre cavalos e burros, que não sendo iguais, também não absolutamente distintos, posto que um vivendo é gerado desta conjunção, embora não se perpetue. Mulas há muitas por aí, todas com aquele senso sobranceiro de sua existência periclitante. E, talvez, oriunda desta radicalização extraespécies, deste sentimento difuso de urgência se consubstancia a mula sem cabeça, pois é uma flama a queimar e extinguir. Como vê ou ouve ou cheira permanece mistério anatômico. Também se desconhece como relincha sem possuir aparato vocal. Surge simplesmente para cavalgar as sete freguesias, até que alguém retire seu cabresto de ferro em brasa, de preferência um padre. Dizem que, quando isto acontece, súbito a mula se transforma em uma mulher deslumbrante e fatal, capaz de mexer a cabeça até do bom padre. Considerando os recursos linguísticos utilizados e os efeitos obtidos por meio deles no texto, o(a)",
+"alternativas": [
+"A) clímax da descrição do animal imaginário por meio de registro popular e literário esvazia o registro científico das linhas iniciais.",
+"B) predomínio da linguagem científica tem por objetivo esvaziar o registro literário e popular, de modo a desmentir a existência do animal imaginário.",
+"C) homogeneidade do registro literário e filosófico do texto, no plano formal, é correspondente à volubilidade típica do animal imaginário ali descrito.",
+"D) hibridismo característico do animal imaginário descrito se inscreve no plano formal do texto por meio da combinação do registro científico e do literário.",
+"E) unidade formal do texto é garantida pelo predomínio de sentenças ambíguas, às quais o leitor eventualmente pode atribuir os sentidos que mais lhe convierem."
+],
+"gabarito": "D",
+"primeira_tentativa": "A087-02 — Linguagem e comunicação > Variação linguística e preconceito linguístico"
+},
+{
+"id": 106703,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS",
+"enunciado": "No início dos anos 1980, as trilhas para novelas representavam o filão de ouro do mercado fonográfico no Brasil. O formato fora criado dez anos antes, quando André Midani dirigia a gravadora Philips, após sua experiência no mercado de discos do México, a terra dos dramalhões televisivos. Midani se entusiasmou com a possibilidade de criar trilhas sonoras inéditas para as novelas da Globo, que até então eram sonorizadas com temas instrumentais surrupiados de produções hollywoodianas. *Véu de Noiva*, estrelada por Regina Duarte e Cláudio Marzo em 1969-70, foi a primeira novela a ganhar uma trilha original. Produzido por Nelson Motta, o disco trazia apenas canções inéditas, feitas de encomenda por bambas como Marcos Valle, Ângela Maria e Gilberto Gil. Graças à exposição maciça na TV, o disco chegou rapidamente às 100 mil cópias vendidas. Após um ano (e sucessos como *Verão Vermelho* e *Pigmaleão 70*), a Globo resolveu assumir a produção dos seus discos, criando uma gravadora – a Som Livre Discos. Com o tempo, a companhia montou elenco próprio, contando com Rita Lee, Mutantes, Jorge Ben e Azymuth, entre outros. As novelas passaram a ser a menina dos olhos da emissora. O caráter informativo e referencial do texto se combina a um vocabulário de fácil apreensão por meio de",
+"alternativas": [
+"A) linguagem técnica e objetiva, voltada especificamente ao público especializado em música, empregando gírias (como “filão de ouro” e “disco”).",
+"B) construções frasais sintéticas e polissêmicas, cuja singeleza de expressões (como “trilhas sonoras” e “bambas”) reflete os primórdios do mercado fonográfico brasileiro.",
+"C) prosa poética jornalística, em que a profusão de metáforas e alegorias (como “filão de ouro”) se amalgama a vocabulário específico do mercado musical (como “bambas”).",
+"D) vocábulos relacionados à indústria fonográfica e televisiva (como “sonorizadas” e “dramalhões”) associados a termos mais próximos da informalidade (como “surrupiados”).",
+"E) períodos compostos extensos e rebuscados (como o iniciado por “No início dos anos 1980”) e de termos da cultura jovem, mais próximos das gírias (como “menina dos olhos”)."
+],
+"gabarito": "D",
+"primeira_tentativa": "A086-02 — Gêneros e tipologias > Tipologias textuais"
+},
+{
+"id": 106852,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS",
+"enunciado": "Branca, lisa, inóspita. Não convidava a subir, nem a descer. Nem sugeria misteriosos desvãos ou incitava à busca de aposentos novos, descobertas, ou estranhas aventuras. Murada em ambos os lados por paredes também lisas e brancas, de altura indevassável, sem uma nódoa, sem um risco sequer, de uma brancura monótona e enjoativa, mantinha-se a escada como um local ou objeto inanimado, que nada sugere, nada tem a pedir ou a ofertar. De que maneira chegara até ali, não o poderia, não o saberia dizer. A escada não surgira de repente, não fora alcançada após longa e exaustiva caminhada: era como se tivesse sempre existido. Não lhe seria possível precisar o momento exato em que dela havia tomado conhecimento. Sabia, isso sim – e com exatidão, com que lúcida e desesperada exatidão – que havia longo, longo tempo inutilmente tentava chegar ao topo daquela interminável escadaria ou atingir o seu degrau inferior, aquele que seria o primeiro dos inúmeros, dos incontáveis degraus pelos quais passara e repassara, e continuava sempre pisando. No conjunto do parágrafo, o efeito de expectativa é obtido, primordialmente, por meio de",
+"alternativas": [
+"A) diálogo entre duas personagens, sem utilização de sinais tradicionais de pontuação.",
+"B) períodos curtos e ausência de conectivos, acelerando a leitura e ocultando minúcias narrativas.",
+"C) repetições de palavras e conceitos, de modo a desviar o olhar do leitor para detalhes desimportantes.",
+"D) utilização de vocabulário de uma área específica do conhecimento, que só se revela ao final.",
+"E) descrição de objeto e pessoa, adiando referir-se diretamente à palavra que os nomeia."
+],
+"gabarito": "E",
+"primeira_tentativa": "A086-02 — Gêneros e tipologias > Tipologias textuais"
+},
+{
+"id": 107259,
+"vest": "ENEM",
+"ano": "2021",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "**O escrivão Coimbra** Chegou o Natal de 1898. Desde a primeira semana de dezembro foram postos à venda os bilhetes da grande loteria de quinhentos contos, chamada por alguns cambistas, nos anúncios, loteria-monstro. Coimbra comprou um. [...] – Desta vez, sim, disse ele no dia seguinte ao escrevente Amaral, desta vez cesso de tentar fortuna; se não tirar nada, deixo de jogar na loteria. Amaral ia aprovar a resolução, mas uma ideia contrária suspendeu a palavra antes que ela lhe caísse da boca, e ele trocou a afirmação por uma consulta. Por que deixar para sempre? Loteria é mulher, pode acabar cedendo um dia. – Já não estou em idade de esperar, retrucou o escrivão. Em textos narrativos, há mais de uma forma de se apresentar as falas das personagens. No conto anterior, ao relatar o diálogo, foram usadas formas distintas de discurso, que",
+"alternativas": [
+"A) minimizam o sentimento pessimista de Coimbra.",
+"B) apontam a diferença etária dos envolvidos.",
+"C) diferenciam as falas das personagens.",
+"D) menosprezam a resposta de Amaral.",
+"E) valorizam a decisão do protagonista."
+],
+"gabarito": "C",
+"primeira_tentativa": "A088-01 — Semântica e coesão > Semântica, ambiguidade e implícitos"
+},
+{
+"id": 108502,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "Proponho-me falar de encontros, ocorridos no contexto de um movimento complexo que designamos de Fronteiras Urbanas, iniciado em 2010 como um projeto de investigação etnográfica em educação comunitária, envolvendo uma comunidade acadêmica e duas comunidades locais da Costa da Caparica. Recorto alguns episódios, inscritos em breves narrativas, poemas e textos de gênero inclassificável, onde a reflexão e a descrição se mesclam e dialogam. Os episódios são organizados em torno de conceitos, agrupados pela sua letra inicial, convergindo numa rede de significações que renova o seu potencial compreensivo e para a qual são convocadas vozes que falam da experiência e outras que a teorizam. A poesia surge como um instrumento de multi, inter e transculturalidade, de inclusão e de identidade, mas também de insatisfação, conscientização política e despertar da sensibilidade aos outros e ao mundo. O texto é o resumo de um artigo acadêmico sobre os encontros e as mediações em um projeto de educação comunitária. No fragmento, para introduzir a temática do texto, a autora",
+"alternativas": [
+"A) enfatiza a importância da função poética em sua leitura.",
+"B) relaciona ciência e poesia a partir da ideia de oposição.",
+"C) constrói uma relação com episódios do cotidiano do leitor.",
+"D) monta um panorama das ideias a serem desenvolvidas.",
+"E) contrapõe teoria e prática no processo de investigação."
+],
+"gabarito": "D",
+"primeira_tentativa": "A088-04 — Semântica e coesão > Argumentação"
+},
+{
+"id": 108627,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "**As ciências humanas são importantes** **dentro da tecnologia** Nós interagimos, várias vezes ao dia, com um dispositivo computacional. Ele pode ser o celular, o [computador] *desktop* ou o *tablet*. Dois pontos são importantes: esse dispositivo físico é um *hardware* capaz de processar as instruções dos programas que são utilizados e fazer essa interação entre você e o dispositivo. O segundo é que esses dispositivos são operados por *software*, programas que executam as instruções definidas pelos algoritmos. Os algoritmos são um conjunto de regras que indicam ao computador o que fazer para chegar a determinado resultado. A área da computação está ligada a esses dois fatores. As ciências humanas, sociais, todas são importantes dentro da tecnologia. Isso porque esses avanços podem ser extremamente positivos, ajudando a tornar a economia mais competitiva ou no ataque às mudanças climáticas. Mas também podem trazer problemas, como o reconhecimento facial que pode reproduzir preconceitos e ter mais acerto com rostos brancos do que com rostos negros. Essas questões devem ser olhadas pela sociedade, porque são questões muito mais amplas e seu impacto na sociedade é grande. Nesse fragmento, para se aprofundar na abordagem e contribuir na construção de sentido, o autor",
+"alternativas": [
+"A) apresenta explicações e noções relacionadas ao tema.",
+"B) repete termos técnicos no desenvolvimento textual.",
+"C) enumera os elementos principais da computação.",
+"D) expõe conceitos básicos das ciências humanas.",
+"E) utiliza vocabulário simples, coloquial e claro."
+],
+"gabarito": "A",
+"primeira_tentativa": "A088-04 — Semântica e coesão > Argumentação"
+},
+{
+"id": 108634,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "[figura] Essa campanha divulga uma ação que combate um problema de saúde da sociedade. Para isso, utiliza como recurso",
+"alternativas": [
+"A) personagens e referências que apontam o público-alvo da ação.",
+"B) brinquedos e animais infantis que comunicam com as crianças.",
+"C) logotipos de instituições de confiança do público em geral.",
+"D) linhas e formas neutras que atraem a população carente.",
+"E) informações concisas com uma linguagem popular."
+],
+"gabarito": "A",
+"primeira_tentativa": "A086-01 — Gêneros e tipologias > Gêneros textuais"
+},
+{
+"id": 108643,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "**Tristeza** A minha tristeza não é a do lavrador sem terra. A minha tristeza é a do astrônomo cego. No poema, a expressão do eu lírico é direcionada por um olhar que",
+"alternativas": [
+"A) relaciona contextos de ausência a seus sentimentos.",
+"B) substitui a falta de emoções por bens materiais.",
+"C) sintetiza perdas pela depreciação da ausência.",
+"D) equipara a nostalgia às dúvidas existenciais.",
+"E) menospreza a carência financeira do campo."
+],
+"gabarito": "A",
+"primeira_tentativa": "A087-03 — Linguagem e comunicação > Figuras de linguagem"
+},
+{
+"id": 108804,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "Todos aqueles seus filhos e netos e bisnetos que não passavam de carne de seu joelho, pensou de repente como se cuspisse. Rodrigo, o neto de sete anos, era o único a ser a carne de seu coração, Rodrigo, com aquela carinha dura, viril e despenteada. Cadê Rodrigo? Rodrigo com olhar sonolento e entumescido naquela cabecinha ardente, confusa. Aquele seria um homem. Mas, piscando, ela olhava os outros, a aniversariante. Oh o desprezo pela vida que falhava. Como?! como tendo sido tão forte pudera dar à luz aqueles seres opacos, com braços moles e rostos ansiosos? Ela, a forte, que casara em hora e tempo devidos com um bom homem a quem, obediente e independente, ela respeitara; a quem respeitara e que lhe fizera filhos e lhe pagara os partos e lhe honrara os resguardos. O tronco fora bom. Mas dera aqueles azedos e infelizes frutos, sem capacidade sequer para uma boa alegria. No conto “Feliz aniversário”, de Clarice Lispector, o uso do discurso indireto livre colabora para a percepção da",
+"alternativas": [
+"A) amargura pelo envelhecimento solitário.",
+"B) inexistência do respeito entre familiares.",
+"C) frustração da avó com sua vida presente.",
+"D) desimportância da idosa para sua família.",
+"E) saudade que a senhora sentia do esposo."
+],
+"gabarito": "C",
+"primeira_tentativa": "A085-01 — Leitura e interpretação > Interpretação de texto"
+},
+{
+"id": 108957,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "**O coração delator** Sorri – pois o que tinha a temer? Dei as boas-vindas aos senhores. O grito, disse, fora meu, num sonho. O velho, mencionei, estava fora, no campo. Acompanhei minhas visitas por toda a casa. Incentivei-os a procurar – procurar bem. Levei-os, por fim, ao quarto dele. Mostrei-lhes seus tesouros, seguro, imperturbável. No entusiasmo de minha confiança, levei cadeiras para o quarto e convidei-os para ali descansarem de seus afazeres, enquanto eu mesmo, na louca audácia de um triunfo perfeito, instalei minha própria cadeira exatamente no ponto sob o qual repousava o cadáver da vítima. Em uma narrativa, o narrador incorpora no ato de narrar as vozes que compõem a história contada, encenando diálogos, reflexões e remissões a outros personagens. Para tanto, utiliza-se de procedimentos de representação que podem ser sintetizados em três: discurso direto, indireto ou indireto livre. No fragmento do conto de Edgar Allan Poe, nota-se o uso de discurso",
+"alternativas": [
+"A) direto, uma vez que se utilizam travessões e falas explícitas das personagens que são interrogadas pelo narrador.",
+"B) indireto livre, pois ocorre a fusão tanto do discurso direto quanto do indireto, respectivamente comprovados pelo uso de travessões e elocução.",
+"C) indireto, já que não ocorre diálogo explícito e as cenas e atitudes das personagens são descritas pelo próprio narrador.",
+"D) indireto livre, pois se apresenta um fluxo de consciência do narrador, o qual se confunde com as falas de outras personagens.",
+"E) direto, porque, além do uso de travessões, o narrador expressa explicitamente seus sentimentos e atitudes com adjetivos e verbos de ação."
+],
+"gabarito": "C",
+"primeira_tentativa": "A085-01 — Leitura e interpretação > Interpretação de texto"
+},
+{
+"id": 108965,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "[figura] Tendo em vista a temática e o respeito do texto à norma- -padrão da Língua Portuguesa, os verbos da sentença do primeiro balão indicam que a personagem",
+"alternativas": [
+"A) realizou ações efetivas.",
+"B) ansiava por algo diferente.",
+"C) deseja situações inacabadas.",
+"D) busca por eventos idealizados.",
+"E) relembra uma época passada."
+],
+"gabarito": "B",
+"primeira_tentativa": "A089-01 — Gramática - morfologia > Classes de palavras"
+},
+{
+"id": 109118,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "Na atualidade, o uso de agrotóxicos vem sendo amplamente discutido pelo fato de que eles também são prejudiciais a outros seres vivos e não somente às espécies nocivas à plantação. A maioria dos casos de intoxicação por agrotóxicos são causados, principalmente, pelo uso negligente dessas substâncias. A Organização Mundial da Saúde (OMS) classifica os agrotóxicos em classe I (extremamente perigosos) até classe IV (muito pouco perigosos), sendo que a maioria das substâncias consideradas extremamente perigosas tem sua comercialização proibida ou estritamente controlada. O controle de pragas e doenças na lavoura é uma das principais vantagens do uso de agrotóxicos, pois o resultado de uma plantação saudável garante a produtividade dos produtos cultivados. Além disso, o preço dos alimentos cultivados com agrotóxicos costuma ser menor quando comparado ao dos produtos orgânicos. Por outro lado, o uso dessas substâncias em excesso pode trazer risco à saúde e acarretar diversos problemas ao meio ambiente e ao ecossistema, como contaminação do solo, dos recursos hídricos e também da fauna e da flora. Apesar das vantagens para o agronegócio, os defensivos agrícolas são extremamente nocivos ao meio ambiente. Os rios e mares são frequentemente contaminados por agrotóxicos e, nos casos mais graves, essas substâncias pode ocasionar a mortandade de peixes e espécies marinhas, afetando, assim, toda a comunidade aquática. Assim, o uso intenso de agrotóxicos leva à degradação dos recursos naturais, à degradação do solo, à contaminação de lençóis freáticos e à intoxicação da fauna e da flora, podendo acarretar o desequilíbrio biológico e ecológico do ecossistema. No texto, o autor apresenta os benefícios do uso de agrotóxicos, com o objetivo comunicativo de",
+"alternativas": [
+"A) promover a classificação da OMS para agrotóxicos.",
+"B) desconsiderar a importância do controle das pragas.",
+"C) abordar a contaminação das águas pelo agronegócio.",
+"D) estabelecer a superioridade da ecologia às inovações.",
+"E) enfatizar os malefícios desses produtos pela comparação."
+],
+"gabarito": "E",
+"primeira_tentativa": "A085-01 — Leitura e interpretação > Interpretação de texto"
+},
+{
+"id": 109248,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "**Do nada, me jogaram aos leões** Do nada, me jogaram aos leões Tive que rugir em alto e bom tom Feito quem prefere rir daquelas jubas: “mas que prazer Em rever vocês, Meus amigos Amestrados! Já pensaram em ver Esses dentes cariados?” No texto poético anterior, uma cena metafórica expõe a subjetividade do eu lírico. No contexto em que é empregado, a conjugação do verbo “jogaram” indica que",
+"alternativas": [
+"A) o eu lírico está fazendo mal a si mesmo.",
+"B) os leões cercaram o eu lírico para atacá-lo.",
+"C) os amigos do eu lírico o estão prejudicando.",
+"D) a pessoa que joga o eu lírico é desconhecida.",
+"E) a armadilha dos leões teve o efeito esperado."
+],
+"gabarito": "D",
+"primeira_tentativa": "A089-01 — Gramática - morfologia > Classes de palavras"
+},
+{
+"id": 109260,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "**Cientistas obtêm células-tronco de embrião humano clonado** A reescrita do título da notícia em que foi mantido o foco no fato e em que se preservou a ideia básica do texto original é:",
+"alternativas": [
+"A) Clonou-se embrião de células-tronco.",
+"B) Células-tronco de embrião humano são clonadas por cientistas.",
+"C) Obtêm-se células-tronco de embrião humano clonado.",
+"D) De embrião humano clonado, cientistas obtêm células-tronco.",
+"E) Obtêm células-tronco de embrião humano clonado por cientistas."
+],
+"gabarito": "C",
+"primeira_tentativa": "A090-01 — Gramática - sintaxe > Termos da oração"
+},
+{
+"id": 109265,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "Um Dado Puro é o registro sem conexões ou interpretações. Uma informação gravada em seu estado natural, sem necessariamente contexto. Dados podem ser números, palavras, imagens, entre outros registros. O mais importante é entender que se trata de um Dado Bruto, ou *Raw Data*, como é chamado na área de informática, que é aquele dado / valor recolhido e estocado exatamente da forma que foi adquirido, sem qualquer tipo de tratamento ou interpretação. O dado é a representação física de um evento no tempo e espaço que não agrega fundamento para quem o sente ou recebe, não podendo ser possível entender o que ele representa ou para que existe. O Dado Puro, quando ganha contexto, vira Informação; direcionado ou não, ele vira Informação. O valor da informação se dá à qualidade com a qual é disponibilizada, reduzindo ou aumentando a probabilidade de interpretação ambígua pelo emitente. Quanto mais precisa a Informação, mais valiosa ela se torna. Quando alguém passa uma informação, este tem a intenção de ser compreendido pelo que realmente está dizendo e não que quem esteja recebendo essa comunicação faça sua própria “distorção” sobre o tema. O autor do artigo dissertativo-argumentativo, ao apresentar dois conceitos distintos, demonstra que seu texto é dirigido a",
+"alternativas": [
+"A) pessoas leigas, pois traduz o significado de *Raw Data*.",
+"B) leitores proficientes, pois ensina a identificação de temas distorcidos.",
+"C) jornalistas profissionais, pois enfoca a produção da informação valiosa.",
+"D) trabalhadores especializados, pois utiliza o jargão do meio informático.",
+"E) público amplo, pois defende a identificação de uma informação qualificada."
+],
+"gabarito": "E",
+"primeira_tentativa": "A085-01 — Leitura e interpretação > Interpretação de texto"
+},
+{
+"id": 109394,
+"vest": "ENEM",
+"ano": "2022",
+"area_impressa": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS",
+"enunciado": "A bondade que nunca repreende não é bondade: é passividade. Apaciência que nunca se esgota não é paciência: é subserviência. A tolerância que nunca replica não é tolerância: é imbecilidade. A frase que propõe a mesma lógica observada na sequência de enunciados anterior é:",
+"alternativas": [
+"A) A generosidade que nunca cobra não é generosidade: é benevolência.",
+"B) A liberdade que nunca se limita não é liberdade: é independência.",
+"C) A gentileza que nunca se endurece não é gentileza: é amabilidade.",
+"D) A sabedoria que nunca se desestabiliza não é sabedoria: é onisciência.",
+"E) A serenidade que nunca se desmancha não é serenidade: é apatia."
+],
+"gabarito": "E",
+"primeira_tentativa": "A085-01 — Leitura e interpretação > Interpretação de texto"
+}
+]

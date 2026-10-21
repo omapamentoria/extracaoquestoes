@@ -1,0 +1,110 @@
+[
+ {
+  "id": "P4077-T1",
+  "texto": "**QUÍMICA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     264.84,
+     48.444079999999985,
+     316.0814646588,
+     59.424080000000004
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4077-Q011"
+  ],
+  "recortes": [
+   "revisao/T1_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4077-T2",
+  "texto": "**HISTÓRIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     261.96,
+     45.26407999999992,
+     316.922586,
+     56.24407999999994
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4077-Q021"
+  ],
+  "recortes": [
+   "revisao/T2_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4077-T3",
+  "texto": "**GEOGRAFIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     257.76,
+     44.7840799999999,
+     325.568088,
+     55.76407999999992
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4077-Q031"
+  ],
+  "recortes": [
+   "revisao/T3_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4077-T4",
+  "texto": "**SOCIOLOGIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     254.4,
+     45.204079999999976,
+     326.45405400000004,
+     56.184079999999994
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4077-Q041"
+  ],
+  "recortes": [
+   "revisao/T4_p26.jpg"
+  ]
+ }
+]

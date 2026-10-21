@@ -1,0 +1,7224 @@
+[
+ {
+  "id": "P4213-Q001",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 1,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o texto e a figura a seguir:\n\nPara a formação dos músculos esqueléticos, é necessária a ativação, proliferação e diferenciação de linhagens de células miogênicas. Esses três processos dependem da expressão e atividade de genes, conhecidos como fatores de regulação miogênica (MRFs), responsáveis por transformar células não musculares em musculares. Os MRFs (MyoD, Miogenina, Myf5 e o MRF4) são produzidos por genes reguladores, que funcionam como fatores de transcrição e que inibem ou ativam os demais genes da via de diferenciação. A miostatina, proteína codificada pelo gene *MSTN*, é a principal responsável pela inibição da hiperplasia muscular nos animais adultos. Quando a miostatina não é expressa (ver figura), Pax3 e MyoD continuam atuando e promovem a miogênese, cujo resultado, principalmente em bovinos, é um fenótipo denominado “dupla musculatura”. A ausência de expressão dessa proteína ocorre, especialmente, quando há uma mutação em seu gene.\n\n{{img:1}}\n\n{{fonte:1}}\n\nSobre esse contexto, é **CORRETO** afirmar que",
+  "fontes": [
+   "Baseada em Rios *et al.*, 2002. Texto e figura adaptados de Genética na escola. v.11, n.1, p. 90-97, 2016. Disponível em: < http://media.wix.com/ugd/b703be_fc37f98b8d814f508663469cdd512937.pdf > Acesso em: jun de 2016."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a combinação de dois alelos com mutação confere ao indivíduo o fenótipo característico de dupla musculatura, oferecendo maiores vantagens econômicas para os criadores de gado de corte."
+   },
+   {
+    "letra": "B",
+    "texto": "a miogênese é a via responsável pelo crescimento hipertrófico do tecido muscular do gado, sendo necessária a atuação de proteínas que trabalham de forma isolada, mas codificadas pelo mesmo RNAm."
+   },
+   {
+    "letra": "C",
+    "texto": "o genótipo heterozigoto deve receber uma atenção maior por parte de produtores de carne, pelo fato de apresentar maiores vantagens econômicas que o genótipo homozigoto."
+   },
+   {
+    "letra": "D",
+    "texto": "os organismos, nos quais o gene *MSTN* é superexpresso, apresentam aumento da massa muscular; assim a miostatina atua potencializando a fase de ativação e, consequentemente, de proliferação e diferenciação dos miócitos e mioblastos, respectivamente."
+   },
+   {
+    "letra": "E",
+    "texto": "um aumento discreto na musculatura também está presente em indivíduos com apenas uma cópia do alelo mutado. Dessa forma, esse tipo de herança é caracterizado como dominância completa ou ligada ao Y."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q001_img1.png",
+    "pagina": 3,
+    "bbox": [
+     49.6,
+     276.9,
+     544.5,
+     478.0
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.6,
+     87.50527999999997,
+     228.56448,
+     98.54527999999993
+    ],
+    [
+     55.08,
+     126.62527999999998,
+     538.4081599999997,
+     137.66528000000005
+    ],
+    [
+     55.08,
+     139.22528,
+     538.6209599999996,
+     150.26527999999996
+    ],
+    [
+     55.08,
+     151.9452799999999,
+     538.84528,
+     162.98528
+    ],
+    [
+     55.08,
+     164.54527999999993,
+     538.5988799999999,
+     175.5852799999999
+    ],
+    [
+     55.08,
+     177.14527999999996,
+     538.4443199999996,
+     188.18528000000003
+    ],
+    [
+     55.08,
+     189.86527999999998,
+     538.73728,
+     200.90528000000006
+    ],
+    [
+     55.08,
+     202.46528,
+     538.5811199999997,
+     213.50527999999997
+    ],
+    [
+     55.08,
+     215.21528,
+     538.89136,
+     226.25527999999997
+    ],
+    [
+     55.08,
+     227.81527999999992,
+     538.71304,
+     238.88839999999993
+    ],
+    [
+     55.08,
+     240.41527999999994,
+     538.8808,
+     251.48839999999996
+    ],
+    [
+     55.08,
+     253.13527999999997,
+     167.08079999999995,
+     264.17528000000004
+    ],
+    [
+     49.65,
+     276.92999999999995,
+     544.48,
+     478.03
+    ],
+    [
+     431.62,
+     479.09427999999997,
+     538.84552,
+     487.13428
+    ],
+    [
+     212.93,
+     488.21428,
+     538.86976,
+     496.25428
+    ],
+    [
+     169.22,
+     497.48428,
+     538.7101600000001,
+     505.52428000000003
+    ],
+    [
+     42.6,
+     531.58528,
+     271.90952,
+     542.62528
+    ],
+    [
+     42.6,
+     556.30528,
+     538.4683199999997,
+     567.34528
+    ],
+    [
+     60.624,
+     568.90528,
+     516.0460799999996,
+     579.94528
+    ],
+    [
+     42.6,
+     581.50528,
+     538.5124799999998,
+     592.54528
+    ],
+    [
+     60.624,
+     594.22528,
+     538.90384,
+     605.26528
+    ],
+    [
+     60.624,
+     606.82528,
+     135.18816,
+     617.86528
+    ],
+    [
+     42.6,
+     619.54528,
+     538.5897599999997,
+     630.58528
+    ],
+    [
+     60.624,
+     632.1652799999999,
+     446.47199999999975,
+     643.20528
+    ],
+    [
+     42.6,
+     644.76528,
+     538.86232,
+     655.80528
+    ],
+    [
+     60.624,
+     657.48528,
+     538.6559999999996,
+     668.52528
+    ],
+    [
+     60.624,
+     670.08528,
+     414.5222399999997,
+     681.12528
+    ],
+    [
+     42.6,
+     682.80528,
+     538.88272,
+     693.84528
+    ],
+    [
+     60.624,
+     695.40528,
+     538.5345599999997,
+     706.44528
+    ],
+    [
+     60.624,
+     708.12528,
+     181.72176,
+     719.1652799999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q002",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 2,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nUm pesquisador está buscando descobrir se pares de genes alelos, que atuam em duas características para cor (colorido - ***B*** e incolor - ***b***) e aspecto (liso - ***R*** e rugoso - ***r***) do grão do milho, se situam em pares de cromossomos homólogos ou no mesmo cromossomo (*Linkage*). Ele efetuou o cruzamento de um duplo-heterozigoto com um duplo-recessivo, ou seja,\n\n{{img:2}}\n\n{{fonte:1}}\n\nAssinale a alternativa que resulta na **CORRETA** F<sub>1</sub>.",
+  "fontes": [
+   "Fonte: http://www.nacozinhabrasil.com/wordpress/wp-content/uploads/2011/08/800px-Peruvian_corn.jpg"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Distribuição independente, de acordo com a 1ª Lei de Mendel, apresentando 4 genótipos e 2 fenótipos: coloridos/rugosos e incolores/lisos."
+   },
+   {
+    "letra": "B",
+    "texto": "Distribuição independente, de acordo com a 2ª Lei de Mendel, apresentando as proporções 280 coloridos/lisos, 290 incolores/rugosos, 17 coloridos/rugosos e 13 incolores/lisos."
+   },
+   {
+    "letra": "C",
+    "texto": "*Linkage* com *crossing-over* apresentando 4 genótipos e 2 fenótipos coloridos/lisos e incolores/rugosos."
+   },
+   {
+    "letra": "D",
+    "texto": "*Linkage* sem *crossing-over* apresentando as proporções 75% AaBb : 25% aabb."
+   },
+   {
+    "letra": "E",
+    "texto": "*Linkage* com 4 genótipos e 4 fenótipos com dois tipos parentais em alta frequência, sem *crossing* e dois tipos recombinantes em baixa frequência com *crossing-over*."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q002_img1.png",
+    "pagina": 4,
+    "bbox": [
+     327.6,
+     59.8,
+     538.6,
+     197.3
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q002_img2.png",
+    "pagina": 4,
+    "bbox": [
+     139.0,
+     172.8,
+     253.4,
+     211.7
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.6,
+     61.08528000000001,
+     311.93136000000004,
+     72.12528000000009
+    ],
+    [
+     63.984,
+     73.70528000000002,
+     311.9092799999999,
+     84.74527999999998
+    ],
+    [
+     63.984,
+     86.30527999999993,
+     312.02632,
+     97.34527999999989
+    ],
+    [
+     63.984,
+     99.02527999999995,
+     311.93431999999996,
+     110.06527999999992
+    ],
+    [
+     63.984,
+     111.62527999999998,
+     311.8871999999999,
+     122.66528000000005
+    ],
+    [
+     63.984,
+     124.34528,
+     311.9924,
+     135.38528000000008
+    ],
+    [
+     63.984,
+     136.9452799999999,
+     311.94872,
+     147.98528
+    ],
+    [
+     327.6,
+     59.760000000000005,
+     538.5600000000001,
+     197.28
+    ],
+    [
+     63.984,
+     149.66527999999994,
+     185.69711999999998,
+     160.70528000000002
+    ],
+    [
+     138.96,
+     172.8,
+     253.44,
+     211.68
+    ],
+    [
+     348.79,
+     198.60428000000002,
+     540.39732,
+     206.64427999999998
+    ],
+    [
+     361.63,
+     207.75428,
+     540.46924,
+     215.79427999999996
+    ],
+    [
+     42.6,
+     239.21528,
+     294.11912,
+     250.25527999999997
+    ],
+    [
+     42.6,
+     259.97528,
+     538.6046399999996,
+     271.01527999999996
+    ],
+    [
+     63.984,
+     272.69527999999997,
+     285.3912,
+     283.73528
+    ],
+    [
+     42.6,
+     285.29528,
+     538.6156799999998,
+     296.33528
+    ],
+    [
+     63.984,
+     298.01527999999996,
+     454.09687999999994,
+     309.05528
+    ],
+    [
+     42.6,
+     310.61528,
+     538.8812800000001,
+     321.65528
+    ],
+    [
+     63.984,
+     323.21527999999995,
+     153.32912,
+     334.25527999999997
+    ],
+    [
+     42.6,
+     335.93528,
+     455.34103999999996,
+     346.97528
+    ],
+    [
+     42.6,
+     348.55528,
+     538.9038400000001,
+     359.59528
+    ],
+    [
+     63.984,
+     361.27527999999995,
+     393.13912,
+     372.31528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q003",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 3,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\nAtualmente, o gene considerado como o mais confiável para discriminar se um atleta tem mais força ou resistência é o *ACTN3*, apelidado gene da velocidade. Localizado no cromossomo 11, o *ACTN3* é responsável pela produção da proteína alfa actinina 3, ativada exclusivamente em fibras musculares de contração rápida. Uma alteração em uma única base nitrogenada faz que esse gene possa apresentar duas formas na população humana: a versão “normal”, funcional, denominada R, que produz alfa actinina 3; e a variante alterada, chamada X, em que a tal proteína não é sintetizada. O gene *ACTN3* assim como a eritropoietina (EPO), hormônio do crescimento humano (hGH), inibidor de genes da miostatina, endorfina, encefalina, leptina, dentre outros, são possíveis alvos primários do *doping* genético em humanos, por meio de terapia gênica *in vivo*, na qual o processo de transgenia ocorre dentro do indivíduo, ou *ex vivo*, no qual parte do engenheiramento genético ocorre fora do corpo, e parte, dentro.\n\n{{fonte:1}}\n\nSobre ele, é **CORRETO** afirmar que",
+  "fontes": [
+   "Fontes: disponível em: <http://revistapesquisa.fapesp.br/wp-content/uploads/2016/06/014-019_CAPA_esportes_244-1.pdf?c01c25> e BAIRROS, A. V.; PREVEDELLO, A. A.; MORAES, L. L. S. *Doping* genético e possíveis metodologias de detecção. *Rev. Bras. Ciênc.* *Esporte*, Florianópolis, v.33, n.4, p.1055-1069, out./dez. 2011. Disponível em:< http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-32892011000400017>"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "corredores de longa distância tendem a possuir, ao menos, uma cópia da variante R, a forma funcional, do gene *ACTN3*. A menor quantidade da proteína melhoraria o desempenho dos atletas em tarefas que dependem da ação das fibras rápidas."
+   },
+   {
+    "letra": "B",
+    "texto": "corredores velocistas precisam ser resistentes ao cansaço e tendem a ser XX quanto ao gene *ACTN3*. A ausência parcial da proteína levaria o organismo a se adaptar melhor a exercícios de longa duração que retiram energia do consumo de oxigênio."
+   },
+   {
+    "letra": "C",
+    "texto": "o *doping* genético é considerado o uso terapêutico de células, genes e elementos gênicos que venham a aumentar o desempenho físico do atleta por meio de substâncias químicas e fármacos."
+   },
+   {
+    "letra": "D",
+    "texto": "o *doping* genético *ex vivo* envolve a transferência de genes para células em meio de cultura e reintrodução para o tecido-alvo do atleta, o que aumentaria a expressão de hormônios e outras substâncias bioquímicas, trazendo melhoria ao seu desempenho físico."
+   },
+   {
+    "letra": "E",
+    "texto": "o princípio da terapia gênica *in vivo* consiste na transferência de proteínas e lipídeos para células-alvo por meio de pílulas, com o objetivo de suprir os produtos de um gene estruturalmente anormal no genoma do atleta."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   4,
+   5
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.6,
+     393.43528,
+     166.11503999999996,
+     404.47528
+    ],
+    [
+     42.6,
+     418.75527999999997,
+     538.4947199999995,
+     429.79528
+    ],
+    [
+     42.6,
+     431.35528,
+     538.91824,
+     442.39528
+    ],
+    [
+     42.6,
+     444.07527999999996,
+     538.7816799999999,
+     455.11528
+    ],
+    [
+     42.6,
+     456.67528,
+     538.5167999999995,
+     467.71528
+    ],
+    [
+     42.6,
+     469.30839999999995,
+     538.6492799999996,
+     480.34839999999997
+    ],
+    [
+     42.6,
+     481.99528,
+     538.7288799999999,
+     493.03528
+    ],
+    [
+     42.6,
+     494.62528,
+     538.4263999999997,
+     505.66528
+    ],
+    [
+     42.6,
+     507.34527999999995,
+     538.4174399999993,
+     518.38528
+    ],
+    [
+     42.6,
+     519.9452799999999,
+     538.70344,
+     530.98528
+    ],
+    [
+     42.6,
+     532.54528,
+     538.7059999999999,
+     543.58528
+    ],
+    [
+     42.6,
+     545.26528,
+     188.08063999999996,
+     556.30528
+    ],
+    [
+     64.464,
+     566.60428,
+     538.80484,
+     574.64428
+    ],
+    [
+     67.704,
+     575.84428,
+     538.7054800000001,
+     583.88428
+    ],
+    [
+     259.49,
+     584.9642799999999,
+     538.7953600000001,
+     593.00428
+    ],
+    [
+     239.57,
+     594.2042799999999,
+     538.6753600000001,
+     602.24428
+    ],
+    [
+     42.6,
+     616.4252799999999,
+     218.86303999999998,
+     627.46528
+    ],
+    [
+     42.6,
+     641.1652799999999,
+     538.6963999999999,
+     652.20528
+    ],
+    [
+     63.984,
+     655.6852799999999,
+     538.79032,
+     666.72528
+    ],
+    [
+     63.984,
+     670.20528,
+     363.19448,
+     681.24528
+    ],
+    [
+     42.6,
+     684.72528,
+     538.5715199999999,
+     695.76528
+    ],
+    [
+     63.984,
+     697.44528,
+     538.71736,
+     708.48528
+    ],
+    [
+     63.984,
+     710.04528,
+     357.47135999999983,
+     721.08528
+    ]
+   ],
+   "5": [
+    [
+     42.6,
+     62.18527999999992,
+     538.6625599999999,
+     73.22528
+    ],
+    [
+     63.984,
+     74.90527999999995,
+     538.90816,
+     85.94528000000003
+    ],
+    [
+     63.984,
+     87.50527999999997,
+     112.27296,
+     98.54527999999993
+    ],
+    [
+     42.6,
+     100.10528,
+     538.6387999999998,
+     111.14528000000007
+    ],
+    [
+     63.984,
+     112.82528000000002,
+     538.6810399999999,
+     123.8652800000001
+    ],
+    [
+     63.984,
+     125.42527999999993,
+     412.57192,
+     136.46528
+    ],
+    [
+     42.6,
+     138.14527999999996,
+     538.73912,
+     149.18528000000003
+    ],
+    [
+     63.984,
+     150.74527999999998,
+     538.6092799999998,
+     161.78527999999994
+    ],
+    [
+     63.984,
+     163.34528,
+     289.57536,
+     174.38528000000008
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q003_p4.jpg",
+   "revisao/Q003_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q004",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 4,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a charge a seguir:\n\nO objetivo principal do Projeto Genoma Humano (PGH) é compreender como os genes funcionam nos estados de normalidade e doença.\n\nSobre isso, leia com atenção as afirmativas a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nI. A constituição genética humana é a expressão de um programa genético escrito na química do DNA, pois o genótipo é dinâmico e surge da interação do fenótipo com o infinitamente complexo ambiente.\n\nII. Muitas mutações deletérias podem não ser determinantes por si sós de uma patologia. Outros fatores, como interação gênica, epigenética e ambiental, podem modular a expressão dos genes. III. O mapeamento que mostra as predisposições genéticas de um indivíduo adquirir doenças não deve se tornar de domínio público, para evitar que a discriminação feita com base no genoma chegue ao mercado de trabalho.\n\nIV. O mapeamento genético para a detecção de doenças é suficiente para prever as consequências sociais, pois diagnóstico e técnicas terapêuticas estão sempre ajustados.\n\nV. Os seres humanos de qualquer região do planeta são idênticos geneticamente, no entanto a adaptação de longo prazo aos mais diversos ambientes criou perfis variados de resistência ou suscetibilidade a doenças.\n\nEstão **CORRETAS** apenas",
+  "fontes": [
+   "Fonte: disponível em http://www1.folha.uol.com.br/folha/galeria/charge/i_charge200006.shtml"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e III."
+   },
+   {
+    "letra": "B",
+    "texto": "II e III."
+   },
+   {
+    "letra": "C",
+    "texto": "II, III, IV e V."
+   },
+   {
+    "letra": "D",
+    "texto": "III, IV e V."
+   },
+   {
+    "letra": "E",
+    "texto": "IV e V."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q004_img1.png",
+    "pagina": 5,
+    "bbox": [
+     47.0,
+     224.3,
+     248.6,
+     437.2
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.6,
+     201.38527999999997,
+     190.61936,
+     212.42528000000004
+    ],
+    [
+     255.53,
+     251.93527999999992,
+     475.00903999999997,
+     262.97528
+    ],
+    [
+     255.53,
+     264.65527999999995,
+     475.0383199999999,
+     275.69527999999997
+    ],
+    [
+     255.53,
+     277.25527999999997,
+     474.96103999999997,
+     288.29528
+    ],
+    [
+     255.53,
+     289.97527999999994,
+     367.55287999999996,
+     301.01527999999996
+    ],
+    [
+     255.53,
+     302.57527999999996,
+     474.8947999999999,
+     313.61528
+    ],
+    [
+     255.53,
+     315.17528,
+     297.8132,
+     326.21528
+    ],
+    [
+     46.95,
+     224.30000000000007,
+     248.55,
+     437.25
+    ],
+    [
+     63.984,
+     449.69428,
+     394.8612799999997,
+     457.73428
+    ],
+    [
+     39.6,
+     486.07527999999996,
+     538.4903999999996,
+     497.11528
+    ],
+    [
+     56.76,
+     498.70527999999996,
+     538.5094399999999,
+     509.74528
+    ],
+    [
+     56.76,
+     511.30528,
+     105.20352,
+     522.34528
+    ],
+    [
+     38.04,
+     524.02528,
+     538.5609599999995,
+     535.06528
+    ],
+    [
+     56.76,
+     536.62528,
+     531.95656,
+     547.6652799999999
+    ],
+    [
+     36.48,
+     549.34528,
+     538.4241599999997,
+     560.38528
+    ],
+    [
+     56.76,
+     561.94528,
+     538.5455999999998,
+     572.98528
+    ],
+    [
+     56.76,
+     574.54528,
+     215.09568,
+     585.58528
+    ],
+    [
+     35.88,
+     587.26528,
+     538.5864799999998,
+     598.30528
+    ],
+    [
+     56.76,
+     599.86528,
+     414.01912,
+     610.90528
+    ],
+    [
+     37.44,
+     612.58528,
+     538.5566399999996,
+     623.62528
+    ],
+    [
+     56.76,
+     625.18528,
+     538.6286399999996,
+     636.22528
+    ],
+    [
+     56.76,
+     637.80528,
+     185.84,
+     648.84528
+    ],
+    [
+     42.6,
+     671.04528,
+     174.75536,
+     682.08528
+    ],
+    [
+     42.6,
+     695.40528,
+     96.51504,
+     706.44528
+    ],
+    [
+     141.74,
+     695.40528,
+     186.54704,
+     706.44528
+    ],
+    [
+     233.93,
+     695.40528,
+     308.60024,
+     706.44528
+    ],
+    [
+     363.67,
+     695.40528,
+     430.0804,
+     706.44528
+    ],
+    [
+     477.1,
+     695.40528,
+     528.15376,
+     706.44528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q004_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q005",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 5,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o texto e a figura ao lado:\n\nImagine que você precisou entreter algumas crianças com a visualização de um vídeo sobre dinossauros. O trecho a seguir despertou perguntas.\n\n*...Dinossauro*  \n*Veio muito antes do meu ta ta taravô...* *...Não é fácil de achar um fóssil*  \n*Ainda mais haver um ovo intacto* *Imagina ver um desses vivo*  \n*Eu corria logo pro meu quarto...*\n\nhttp://www.mundobita.com.br/\n\nAs crianças querem saber:\n\n{{img:1}}\n\n− Por que não é fácil achar um fóssil?  \n− Por que dinossauros deixaram de existir?  \n− Por que é importante conhecê-los?\n\nAssinale a alternativa que responde, de forma **CORRETA**, a uma das curiosidades das crianças.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Preservar restos de animais é difícil por causa da decomposição por bactérias e fungos; em geral, partes moles são mais fáceis de conservar. Os dinossauros foram extintos, há milhões de anos, pela erupção de um vulcão."
+   },
+   {
+    "letra": "B",
+    "texto": "Partes duras e moles dos seres apresentam igual probabilidade de se fossilizarem, como é possível ver nos museus. Os dinossauros foram extensivamente caçados pelos Neandertais, o que os levou à extinção."
+   },
+   {
+    "letra": "C",
+    "texto": "Fósseis de dinossauros são provas concretas da existência de vida na Terra, sendo uma importante ferramenta de estudo da evolução, que ocorreu nos seres vivos e no próprio planeta."
+   },
+   {
+    "letra": "D",
+    "texto": "Se os fósseis dos dinossauros não fossem estudados, nunca saberíamos que essas aves gigantescas viveram no planeta, na mesma época da espécie humana."
+   },
+   {
+    "letra": "E",
+    "texto": "A Terra passou por vários períodos de extinção dos seres vivos. No Cretáceo, 90% das espécies vivas do planeta desapareceram, e, durante o Permiano, os dinossauros foram extintos juntamente com os mamutes."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q005_img1.png",
+    "pagina": 6,
+    "bbox": [
+     254.9,
+     63.4,
+     528.5,
+     273.6
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.6,
+     62.18527999999992,
+     225.594431092,
+     73.22528
+    ],
+    [
+     44.28,
+     87.50527999999997,
+     246.35615999999996,
+     98.54527999999993
+    ],
+    [
+     44.28,
+     100.10528,
+     246.28992,
+     111.14528000000007
+    ],
+    [
+     44.28,
+     112.82528000000002,
+     246.48415999999997,
+     123.8652800000001
+    ],
+    [
+     44.28,
+     125.42527999999993,
+     181.28831999999997,
+     136.46528
+    ],
+    [
+     44.28,
+     162.62527999999998,
+     109.19519999999997,
+     173.66528000000005
+    ],
+    [
+     44.28,
+     175.34528,
+     233.25168,
+     186.38528000000008
+    ],
+    [
+     44.28,
+     187.9452799999999,
+     197.74704000000003,
+     198.98528
+    ],
+    [
+     44.28,
+     200.54527999999993,
+     204.02384,
+     211.5852799999999
+    ],
+    [
+     44.28,
+     213.29527999999993,
+     180.56879999999995,
+     224.3352799999999
+    ],
+    [
+     44.28,
+     225.89527999999996,
+     198.97248,
+     236.93528000000003
+    ],
+    [
+     42.6,
+     246.15427999999997,
+     148.42247999999998,
+     254.19427999999994
+    ],
+    [
+     42.6,
+     271.97527999999994,
+     173.39087999999995,
+     283.01527999999996
+    ],
+    [
+     254.88,
+     63.36,
+     528.48,
+     273.6
+    ],
+    [
+     49.68,
+     291.05528,
+     238.74720000000002,
+     302.19464
+    ],
+    [
+     49.68,
+     304.37528,
+     266.48623999999995,
+     315.51464
+    ],
+    [
+     49.68,
+     317.81528,
+     235.28216,
+     328.95464
+    ],
+    [
+     42.6,
+     341.81528,
+     514.78168,
+     352.85528
+    ],
+    [
+     42.6,
+     367.27527999999995,
+     538.5383999999998,
+     378.31528
+    ],
+    [
+     63.984,
+     379.99528,
+     538.7208799999999,
+     391.03528
+    ],
+    [
+     63.984,
+     392.59527999999995,
+     229.13136,
+     403.63527999999997
+    ],
+    [
+     42.6,
+     405.31528,
+     538.88608,
+     416.35528
+    ],
+    [
+     63.984,
+     417.91527999999994,
+     538.90864,
+     428.95527999999996
+    ],
+    [
+     63.984,
+     430.51527999999996,
+     182.71919999999997,
+     441.55528
+    ],
+    [
+     42.6,
+     443.23528,
+     538.6012799999996,
+     454.27528
+    ],
+    [
+     63.984,
+     455.83527999999995,
+     533.5685599999999,
+     466.87528
+    ],
+    [
+     42.6,
+     468.55528,
+     538.7103199999999,
+     479.59528
+    ],
+    [
+     63.984,
+     481.15527999999995,
+     411.47368,
+     492.19527999999997
+    ],
+    [
+     42.6,
+     493.78527999999994,
+     538.6487999999995,
+     504.82527999999996
+    ],
+    [
+     63.984,
+     506.50527999999997,
+     538.74856,
+     517.54528
+    ],
+    [
+     63.984,
+     519.10528,
+     208.30991999999998,
+     530.14528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q005_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q006",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 6,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Hoje a biodiversidade é fruto de um processo evolutivo, que se iniciou há 3,7 bilhões de anos, com seres primordiais unicelulares, passando por alguns eventos de extinção em massa. A maioria dos cientistas consideram cinco eventos, que culminaram no afunilamento e surgimento de novas espécies. Durante esse período, o planeta experimentou períodos de aquecimento e glaciação, com variação do nível dos oceanos.\n\nExtraído de: http://www.ib.usp.br/evosite/evo101/VIIB1dMassExtinctions.shtml\n\n{{img:1}}\n\nCom base nas teorias de extinção em massa, analise as afirmativas a seguir:\n\nI. O primeiro evento ocorreu há 450 milhões de anos, com o desaparecimento de 60% dos gêneros marinhos.\n\nII. O segundo evento ocorreu há 360 milhões de anos, eliminando 97% dos vertebrados marinhos. A ictiofauna foi reduzida drasticamente.\n\nIII. A mais devastadora extinção em massa ocorreu há 225 milhões de anos. Cerca de 90% das espécies viventes naquele tempo foram extintas, incluindo a maioria dos répteis terrestres e marinhos dominantes da época.\n\nIV. Há 230 milhões de anos, mais uma vez, as espécies marinhas são afetadas. Acredita-se que cerca de 96% tenham sido extintas.\n\nV. A extinção que ocorreu há 65 milhões de anos pôs fim aos dinossauros, juntamente com dois terços de todas as espécies na Terra. Pequenos mamíferos, tartarugas, crocodilos e aves sobreviveram.\n\nEstão **CORRETAS** apenas",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "II e III."
+   },
+   {
+    "letra": "B",
+    "texto": "III, IV e V."
+   },
+   {
+    "letra": "C",
+    "texto": "I, IV e V."
+   },
+   {
+    "letra": "D",
+    "texto": "II, IV e V."
+   },
+   {
+    "letra": "E",
+    "texto": "I e III."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q006_img1.png",
+    "pagina": 6,
+    "bbox": [
+     316.8,
+     553.0,
+     539.3,
+     714.2
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   6,
+   7
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.6,
+     557.02528,
+     308.54207999999994,
+     568.06528
+    ],
+    [
+     42.6,
+     569.74528,
+     308.4984,
+     580.7852800000001
+    ],
+    [
+     42.6,
+     582.34528,
+     308.54256,
+     593.38528
+    ],
+    [
+     42.6,
+     595.06528,
+     308.55944,
+     606.10528
+    ],
+    [
+     42.6,
+     607.6652799999999,
+     308.46528,
+     618.70528
+    ],
+    [
+     42.6,
+     620.26528,
+     308.47632,
+     631.30528
+    ],
+    [
+     42.6,
+     633.00528,
+     308.55359999999996,
+     644.04528
+    ],
+    [
+     42.6,
+     645.60528,
+     308.60880000000003,
+     656.64528
+    ],
+    [
+     42.6,
+     658.32528,
+     149.72111999999996,
+     669.36528
+    ],
+    [
+     265.49,
+     674.98428,
+     308.504,
+     683.02428
+    ],
+    [
+     76.944,
+     684.22428,
+     308.5012399999999,
+     692.26428
+    ],
+    [
+     316.8,
+     552.96,
+     539.28,
+     714.24
+    ]
+   ],
+   "7": [
+    [
+     42.60000000000002,
+     49.56528000000003,
+     419.62703999999974,
+     60.60528000000011
+    ],
+    [
+     60.864,
+     72.50527999999997,
+     538.6569599999997,
+     83.54527999999993
+    ],
+    [
+     78.024,
+     85.22528,
+     172.25039999999996,
+     96.26527999999996
+    ],
+    [
+     59.28,
+     97.82528000000002,
+     538.6459199999996,
+     108.8652800000001
+    ],
+    [
+     78.024,
+     110.54527999999993,
+     321.90864,
+     121.5852799999999
+    ],
+    [
+     57.72,
+     123.14527999999996,
+     538.4582399999998,
+     134.18528000000003
+    ],
+    [
+     78.024,
+     135.86527999999998,
+     538.71848,
+     146.90528000000006
+    ],
+    [
+     78.024,
+     148.46528,
+     234.67055999999997,
+     159.50527999999997
+    ],
+    [
+     57.12,
+     161.06527999999992,
+     538.91536,
+     172.10527999999988
+    ],
+    [
+     78.024,
+     173.78527999999994,
+     252.27936,
+     184.8252799999999
+    ],
+    [
+     58.68,
+     186.38527999999997,
+     538.6765599999999,
+     197.42528000000004
+    ],
+    [
+     78.024,
+     199.10528,
+     538.2705599999994,
+     210.14528000000007
+    ],
+    [
+     78.024,
+     211.73528,
+     147.06816,
+     222.77527999999995
+    ],
+    [
+     42.59999999999999,
+     240.41527999999994,
+     174.75968,
+     251.45528000000002
+    ],
+    [
+     40.8,
+     265.73528,
+     85.60704,
+     276.77528
+    ],
+    [
+     148.94,
+     265.73528,
+     211.5104,
+     276.77528
+    ],
+    [
+     257.93,
+     265.73528,
+     314.50424,
+     276.77528
+    ],
+    [
+     369.91,
+     265.73528,
+     429.34504,
+     276.77528
+    ],
+    [
+     477.1,
+     265.73528,
+     522.6227200000001,
+     276.77528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [
+   "texto curto solto junto da imagem (“Extraído de: http://www.ib.usp.br/evosit”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q006_p6.jpg",
+   "revisao/Q006_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q007",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 7,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Inúmeros pesticidas foram desenvolvidos no século passado (incluindo herbicidas, fungicidas, inseticidas e raticidas), com o intuito de controlar organismos indesejados. Esses pesticidas contêm venenos, produtos químicos tóxicos, que se concentram no solo, até que são lavados pela chuva ou pela irrigação. Não raramente, por meio de enxurradas, tais substâncias chegam aos rios costeiros ou oceanos. Organismos que vivem nos manguezais, como os anfípodes, se alimentam de matéria orgânica e facilmente absorvem os poluentes concentrados na água. Uma vez ingeridos por organismos maiores, como peixes, as toxinas passam à etapa seguinte da cadeia trófica, representada na figura por uma águia pescadora. Essa contaminação também afeta os humanos, que se alimentam de peixes e de outros seres marinhos.\n\n{{fonte:1}}\n\n{{img:1}}\n\nConsiderando que um anfípoda ingere um pedaço de detrito contendo 10 unidades de uma determinada toxina, que dez anfípodas servem de alimento para um peixe e, ainda, que dez peixes são comidos por uma águia, é **CORRETO** afirmar que",
+  "fontes": [
+   "Adaptado de “Guia Didático Maravilhosos Manguezais do Brasil, Instituto BiomaBrasil, 245 p”."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o anfípoda reterá 10 unidades de toxina, os peixes reterão 100 unidades, e a águia pescadora reterá 1000 unidades."
+   },
+   {
+    "letra": "B",
+    "texto": "todos os representantes dessa cadeia reterão a mesma quantidade de toxina."
+   },
+   {
+    "letra": "C",
+    "texto": "o anfípoda reterá 1 unidade de toxina, os peixes reterão 10 unidades, e a águia pescadora reterá 10 unidades."
+   },
+   {
+    "letra": "D",
+    "texto": "o anfípoda reterá 10 unidades de toxina, os peixes reterão 20 unidades de toxina, e a águia pescadora reterá 30 unidades de toxina."
+   },
+   {
+    "letra": "E",
+    "texto": "apenas os anfípodas e peixes reterão 10 unidades de toxinas, sendo residual a quantidade de toxina retida na águia pescadora."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q007_img1.png",
+    "pagina": 7,
+    "bbox": [
+     40.5,
+     449.3,
+     252.0,
+     714.5
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.6,
+     303.77528,
+     538.4294399999995,
+     314.81528000000003
+    ],
+    [
+     42.6,
+     316.37528000000003,
+     538.5609599999996,
+     327.41528000000005
+    ],
+    [
+     42.6,
+     328.97528000000005,
+     538.8148799999997,
+     340.0152800000001
+    ],
+    [
+     42.6,
+     341.6952800000001,
+     538.5167999999993,
+     352.7352800000001
+    ],
+    [
+     42.6,
+     354.3152800000001,
+     538.5609599999996,
+     365.3552800000001
+    ],
+    [
+     42.6,
+     367.0352800000001,
+     538.6603199999997,
+     378.07528000000013
+    ],
+    [
+     42.6,
+     379.63528000000014,
+     538.4836799999995,
+     390.67528000000016
+    ],
+    [
+     42.6,
+     392.23528000000016,
+     538.4726399999996,
+     403.2752800000002
+    ],
+    [
+     42.6,
+     404.9552800000002,
+     319.01408,
+     415.9952800000002
+    ],
+    [
+     198.53,
+     429.7742800000002,
+     531.77512,
+     437.8142800000002
+    ],
+    [
+     40.5052032,
+     449.3079992,
+     251.9521026,
+     714.4720007
+    ],
+    [
+     256.01,
+     466.15527999999995,
+     535.6642399999998,
+     477.19527999999997
+    ],
+    [
+     256.01,
+     480.656248,
+     535.7300480000001,
+     491.720248
+    ],
+    [
+     256.01,
+     495.22527999999994,
+     535.762,
+     506.26527999999996
+    ],
+    [
+     256.01,
+     509.74528,
+     535.81048,
+     520.7852800000001
+    ],
+    [
+     256.01,
+     524.26528,
+     412.01800000000003,
+     535.30528
+    ],
+    [
+     256.01,
+     548.86528,
+     535.6952799999999,
+     559.90528
+    ],
+    [
+     277.37,
+     561.58528,
+     535.76728,
+     572.62528
+    ],
+    [
+     277.37,
+     574.18528,
+     352.68488,
+     585.22528
+    ],
+    [
+     256.01,
+     586.7852800000001,
+     535.71016,
+     597.82528
+    ],
+    [
+     277.37,
+     599.50528,
+     421.51928,
+     610.54528
+    ],
+    [
+     256.01,
+     612.10528,
+     535.61768,
+     623.14528
+    ],
+    [
+     277.37,
+     624.84528,
+     535.79828,
+     635.88528
+    ],
+    [
+     277.37,
+     637.44528,
+     325.08488,
+     648.48528
+    ],
+    [
+     256.01,
+     650.04528,
+     535.7010399999999,
+     661.08528
+    ],
+    [
+     277.37,
+     662.76528,
+     535.89472,
+     673.80528
+    ],
+    [
+     277.37,
+     675.36528,
+     419.76392,
+     686.40528
+    ],
+    [
+     256.01,
+     688.08528,
+     535.7501599999999,
+     699.12528
+    ],
+    [
+     277.37,
+     700.6852799999999,
+     535.61768,
+     711.72528
+    ],
+    [
+     277.37,
+     713.28528,
+     407.61992,
+     724.32528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q007_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q008",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 8,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O número estimado de espécies no Brasil gira em torno de 170 a 210 mil espécies, no entanto apenas 11% da biodiversidade brasileira foi catalogada. A cada dia, novas espécies são descritas, aprofundando o conhecimento da biodiversidade do país. Como lista de referência, o SIBBr (Sistema de Informação sobre a Biodiversidade Brasileira) utiliza o Catálogo Taxonômico da Fauna do Brasil e a Lista de Espécies da Flora do Brasil. Ambos os catálogos abrangem boa parte da biodiversidade conhecida.\n\nModificado de http://www.sibbr.gov.br/areas/?area=biodiversidade\n\nEm relação à biodiversidade de vertebrados, assinale a alternativa **CORRETA** quanto à ordem de grandeza, partindo da classe com maior número de espécies para a classe com menor número de espécies.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Mamíferos, répteis, peixes, aves e anfíbios."
+   },
+   {
+    "letra": "B",
+    "texto": "Peixes, aves, anfíbios, répteis e mamíferos."
+   },
+   {
+    "letra": "C",
+    "texto": "Aves, peixes, anfíbios, mamíferos e répteis."
+   },
+   {
+    "letra": "D",
+    "texto": "Répteis, mamíferos, aves, anfíbios e peixes."
+   },
+   {
+    "letra": "E",
+    "texto": "Anfíbios, répteis, mamíferos, peixes e aves."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.6,
+     62.18527999999992,
+     538.91008,
+     73.22528
+    ],
+    [
+     42.6,
+     74.90527999999995,
+     538.79896,
+     85.94528000000003
+    ],
+    [
+     42.6,
+     87.50527999999997,
+     538.7360799999999,
+     98.54527999999993
+    ],
+    [
+     42.6,
+     100.10528,
+     538.3953599999998,
+     111.14528000000007
+    ],
+    [
+     42.6,
+     112.82528000000002,
+     538.6584799999999,
+     123.8652800000001
+    ],
+    [
+     42.6,
+     125.42527999999993,
+     95.83488,
+     136.46528
+    ],
+    [
+     304.15,
+     137.64427999999998,
+     538.7615199999999,
+     145.68427999999994
+    ],
+    [
+     42.6,
+     165.62527999999998,
+     538.9168,
+     176.66528000000005
+    ],
+    [
+     42.6,
+     178.34528,
+     538.59464,
+     189.38528000000008
+    ],
+    [
+     42.6,
+     190.9452799999999,
+     89.1336,
+     201.98528
+    ],
+    [
+     42.6,
+     211.73528,
+     276.12728,
+     222.77527999999995
+    ],
+    [
+     42.6,
+     224.33528,
+     277.33199999999994,
+     235.3752800000001
+    ],
+    [
+     42.6,
+     237.05527999999993,
+     277.42664,
+     248.0952799999999
+    ],
+    [
+     42.6,
+     249.65527999999995,
+     280.45631999999995,
+     260.69528
+    ],
+    [
+     42.6,
+     262.37528,
+     277.31424000000004,
+     273.41528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q008_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q009",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 9,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nO conhecimento sobre fragmentação de florestas tropicais úmidas passa pela compreensão da dinâmica populacional das espécies vegetal e animal, do funcionamento dos ecossistemas, dos impactos presentes, da capacidade de regeneração natural, dentre outros. Os cientistas levam em consideração o tamanho (A) e o formato (B) dos fragmentos.\n\nCom base no conhecimento sobre fragmentação de florestas tropicais úmidas, analise os itens abaixo em relação à zona de contato entre um habitat natural e outro antropizado, conhecido como borda:\n\nI. Fragmentos mais próximos ao formato circular têm a razão borda-área maximizada, e o centro da área está mais distante das bordas, consequentemente, mais protegido dos fatores externos.\n\nII. Vários pequenos fragmentos de florestas próximos têm o mesmo papel ecológico e a mesma capacidade de conservação das espécies que uma grande área, com o mesmo tamanho.\n\nIII. O aumento na proporção de borda em relação à área torna os fragmentos menos susceptíveis às perturbações antrópicas, como fogo, caça, animais domésticos, exploração madeireira, espécies invasoras, etc.\n\nIV. Fragmentos especialmente muito finos e compridos ou com formas muito irregulares, apresentando muitas reentrâncias, podem permitir que as perturbações antrópicas penetrem em grande parte da área ou mesmo em toda a área do fragmento, afetando negativamente a floresta.\n\nEstá **CORRETO,** apenas, o que se afirma em",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "III e IV."
+   },
+   {
+    "letra": "B",
+    "texto": "I, II e III."
+   },
+   {
+    "letra": "C",
+    "texto": "II e III."
+   },
+   {
+    "letra": "D",
+    "texto": "I e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "II."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q009_img1.png",
+    "pagina": 8,
+    "bbox": [
+     336.6,
+     410.6,
+     539.6,
+     628.9
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.6,
+     298.01527999999996,
+     538.4462399999998,
+     309.05528
+    ],
+    [
+     42.6,
+     310.61528,
+     538.5388799999997,
+     321.65528
+    ],
+    [
+     42.6,
+     323.21527999999995,
+     538.6116799999998,
+     334.25527999999997
+    ],
+    [
+     42.6,
+     335.93528,
+     339.15647999999993,
+     346.97528
+    ],
+    [
+     42.6,
+     361.27527999999995,
+     538.4947199999996,
+     372.31528
+    ],
+    [
+     42.6,
+     373.87528,
+     538.6834399999998,
+     384.91528
+    ],
+    [
+     42.6,
+     386.59527999999995,
+     73.86528,
+     397.63527999999997
+    ],
+    [
+     53.76,
+     411.79528,
+     327.61296000000004,
+     422.83528
+    ],
+    [
+     70.944,
+     424.51527999999996,
+     327.92824,
+     435.55528
+    ],
+    [
+     70.944,
+     437.11528,
+     327.89384,
+     448.15528
+    ],
+    [
+     70.944,
+     449.83527999999995,
+     248.86568,
+     460.87528
+    ],
+    [
+     52.2,
+     462.43528,
+     327.85584,
+     473.47528
+    ],
+    [
+     70.944,
+     475.03527999999994,
+     327.7564799999999,
+     486.07527999999996
+    ],
+    [
+     70.944,
+     487.78527999999994,
+     327.92208,
+     498.82527999999996
+    ],
+    [
+     70.944,
+     500.38527999999997,
+     254.44495999999998,
+     511.42528
+    ],
+    [
+     50.64,
+     513.10528,
+     327.7564799999999,
+     524.14528
+    ],
+    [
+     70.944,
+     525.70528,
+     327.88231999999994,
+     536.74528
+    ],
+    [
+     70.944,
+     538.30528,
+     327.63503999999995,
+     549.34528
+    ],
+    [
+     70.944,
+     551.02528,
+     327.66815999999994,
+     562.06528
+    ],
+    [
+     70.944,
+     563.62528,
+     141.90911999999997,
+     574.6652799999999
+    ],
+    [
+     50.04,
+     576.34528,
+     318.97968,
+     587.38528
+    ],
+    [
+     70.944,
+     588.94528,
+     319.01984000000004,
+     599.98528
+    ],
+    [
+     70.944,
+     601.54528,
+     319.03487999999993,
+     612.58528
+    ],
+    [
+     70.944,
+     614.26528,
+     318.91344,
+     625.30528
+    ],
+    [
+     70.944,
+     626.86528,
+     318.8582399999999,
+     637.90528
+    ],
+    [
+     336.6,
+     410.6,
+     539.6,
+     628.92
+    ],
+    [
+     70.944,
+     639.60528,
+     311.10816,
+     650.64528
+    ],
+    [
+     42.6,
+     664.6852799999999,
+     265.3004,
+     675.72528
+    ],
+    [
+     42.6,
+     690.12528,
+     98.8152,
+     701.1652799999999
+    ],
+    [
+     154.34,
+     690.12528,
+     215.45504,
+     701.1652799999999
+    ],
+    [
+     260.69,
+     690.12528,
+     312.69704,
+     701.1652799999999
+    ],
+    [
+     366.91,
+     690.12528,
+     416.98503999999997,
+     701.1652799999999
+    ],
+    [
+     466.3,
+     690.12528,
+     496.84528,
+     701.1652799999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q009_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q010",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 10,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\nUm estudo realizado por pesquisadores do Projeto Conservação Recifal, de Pernambuco, revelou que os habitats artificiais estuarinos, como ancoradouros e pontes, abrigam diferentes populações de peixes em comparação com habitats naturais, como raízes de mangues, localizadas no mesmo estuário. Além disso, a estrutura trófica das comunidades de peixes nos habitats artificiais estuarinos se assemelha aos recifes de coral adjacentes, em mar aberto. Raízes de mangue eram habitadas principalmente por carnívoros juvenis, enquanto o habitat artificial era, em sua maioria, habitada por comedores de invertebrados sésseis e herbívoros errantes.\n\nSobre ele, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Habitats artificiais e recifes de coral são abrigos para espécies juvenis de consumidores primários e secundários."
+   },
+   {
+    "letra": "B",
+    "texto": "Habitats artificiais reproduzem condições para abrigar peixes de níveis tróficos superiores."
+   },
+   {
+    "letra": "C",
+    "texto": "Habitats artificiais representam componentes estruturais heterotróficos."
+   },
+   {
+    "letra": "D",
+    "texto": "Recifes de coral possuem espécies de peixes predominantemente de níveis tróficos primários e secundários."
+   },
+   {
+    "letra": "E",
+    "texto": "Os manguezais possuem espécies de peixes de todos os níveis tróficos, e os juvenis carnívoros se abrigam nas raízes."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.6,
+     49.565279999999916,
+     166.11503999999996,
+     60.60527999999988
+    ],
+    [
+     42.6,
+     74.90527999999995,
+     538.85128,
+     85.94528000000003
+    ],
+    [
+     42.6,
+     87.50527999999997,
+     538.4726399999996,
+     98.54527999999993
+    ],
+    [
+     42.6,
+     100.10528,
+     538.87456,
+     111.14528000000007
+    ],
+    [
+     42.6,
+     112.82528000000002,
+     538.69112,
+     123.8652800000001
+    ],
+    [
+     42.6,
+     125.42527999999993,
+     538.75888,
+     136.46528
+    ],
+    [
+     42.6,
+     138.14527999999996,
+     538.87456,
+     149.18528000000003
+    ],
+    [
+     42.6,
+     150.74527999999998,
+     332.3779199999999,
+     161.78527999999994
+    ],
+    [
+     42.6,
+     170.18527999999992,
+     259.43912,
+     181.22528
+    ],
+    [
+     42.6,
+     195.62527999999998,
+     538.5455999999996,
+     206.66528000000005
+    ],
+    [
+     56.76,
+     208.25527999999997,
+     128.34336,
+     219.29527999999993
+    ],
+    [
+     42.6,
+     220.97528,
+     497.61655999999994,
+     232.01527999999996
+    ],
+    [
+     42.6,
+     233.57528000000002,
+     404.0673599999996,
+     244.6152800000001
+    ],
+    [
+     42.6,
+     246.17527999999993,
+     538.5566399999994,
+     257.21528
+    ],
+    [
+     56.76,
+     258.89527999999996,
+     119.23535999999999,
+     269.93528
+    ],
+    [
+     42.6,
+     271.49528,
+     538.4926399999997,
+     282.53528
+    ],
+    [
+     56.76,
+     284.21527999999995,
+     167.91071999999997,
+     295.25527999999997
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q010_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q011",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 11,
+  "area": "",
+  "texto_base_id": "P4213-T1",
+  "textos_base_ids": [
+   "P4213-T1"
+  ],
+  "enunciado": "Uma cientista da Universidade de Ohio nos Estados Unidos desenvolveu um sistema para transformar urina em combustível. A premissa parece simples e se baseia na decomposição da amônia e da ureia. A imersão de um eletrodo no líquido e a aplicação de uma corrente suave no sistema produzem uma substância que pode ser usada para alimentar uma célula de combustível.\n\n{{fonte:1}}\n\nA seguir, são feitas algumas afirmações sobre possíveis vantagens do sistema.\n\nI. O gás nitrogênio produzido nessa eletrólise é um combustível menos poluente que o hidrogênio. II. A ureia é decomposta em amônia que é vaporizada no sistema, antes de seguir para alimentar uma célula onde o gás é utilizado como combustível.\n\nIII. A energia fornecida para a produção do combustível pode ser menor que a utilizada na eletrólise da água, pois as ligações entre os átomos de hidrogênio e nitrogênio são mais fracas que as ligações entre os átomos da água.\n\nEstá **CORRETO** o que se afirma, apenas, em",
+  "fontes": [
+   "Adaptado de: http://noticias.uol.com.br/ciencia/ultimas-noticias/bbc/2016/06/12/ (Acesso em: 20/06/2016)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I."
+   },
+   {
+    "letra": "B",
+    "texto": "II."
+   },
+   {
+    "letra": "C",
+    "texto": "III."
+   },
+   {
+    "letra": "D",
+    "texto": "I e II."
+   },
+   {
+    "letra": "E",
+    "texto": "II e III."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.6,
+     377.35528,
+     538.6943999999997,
+     388.39528
+    ],
+    [
+     42.6,
+     389.95527999999996,
+     538.4505599999995,
+     400.99528
+    ],
+    [
+     42.6,
+     402.67528,
+     538.78336,
+     413.71528
+    ],
+    [
+     42.6,
+     415.27527999999995,
+     522.4094399999996,
+     426.31528
+    ],
+    [
+     166.58,
+     436.61428,
+     538.6118799999998,
+     444.65428
+    ],
+    [
+     42.6,
+     454.39527999999996,
+     430.2716,
+     465.43528
+    ],
+    [
+     50.64,
+     475.03527999999994,
+     534.1775999999996,
+     486.07527999999996
+    ],
+    [
+     47.64,
+     487.78527999999994,
+     538.5273599999996,
+     498.82527999999996
+    ],
+    [
+     63.984,
+     500.38527999999997,
+     321.92888,
+     511.42528
+    ],
+    [
+     44.52,
+     513.10528,
+     538.81144,
+     524.14528
+    ],
+    [
+     63.984,
+     525.70528,
+     538.5273599999995,
+     536.74528
+    ],
+    [
+     63.984,
+     538.30528,
+     232.06799999999998,
+     549.34528
+    ],
+    [
+     42.6,
+     566.98528,
+     265.20656,
+     578.02528
+    ],
+    [
+     42.6,
+     588.94528,
+     64.632,
+     599.98528
+    ],
+    [
+     135.02,
+     588.94528,
+     160.04528000000002,
+     599.98528
+    ],
+    [
+     215.21,
+     588.94528,
+     242.63815999999997,
+     599.98528
+    ],
+    [
+     303.91,
+     588.94528,
+     344.17048,
+     599.98528
+    ],
+    [
+     408.31,
+     588.94528,
+     454.82704,
+     599.98528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q011_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q012",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 12,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Até agora, já foram detectadas mais de 180 moléculas no espaço. Porém, em 2016, a revista Science publicou a descoberta da primeira molécula quiral detectada no espaço. A descoberta foi feita, analisando-se as ondas-rádio, provenientes de uma parte fria de uma nuvem de poeira e gás do centro da nossa galáxia, conhecida por Sagitário B2. Esse feito aumenta o interesse por novas pesquisas para se compreender a quiralidade nos fenômenos naturais. A descoberta também cria novas expectativas de se encontrarem, no espaço, algumas das substâncias responsáveis pelos processos vitais de organismos vivos da Terra.\n\n{{fonte:1}}\n\nQual substância foi encontrada no espaço?",
+  "fontes": [
+   "Adaptado de: http://publico.uol.com.br/ciencia/noticia/um-aperto-de-maos-no-espaco-sao-moleculas-quirais-1735097 (Acesso em: 10/07/2016)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:5}}"
+   },
+   {
+    "letra": "B",
+    "texto": "{{img:3}}"
+   },
+   {
+    "letra": "C",
+    "texto": "{{img:2}}"
+   },
+   {
+    "letra": "D",
+    "texto": "{{img:4}}"
+   },
+   {
+    "letra": "E",
+    "texto": "{{img:1}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q012_img1.png",
+    "pagina": 10,
+    "bbox": [
+     485.9,
+     87.3,
+     532.4,
+     115.2
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q012_img2.png",
+    "pagina": 10,
+    "bbox": [
+     272.8,
+     87.2,
+     350.8,
+     120.8
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q012_img3.png",
+    "pagina": 10,
+    "bbox": [
+     158.4,
+     87.4,
+     243.8,
+     142.5
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q012_img4.png",
+    "pagina": 10,
+    "bbox": [
+     379.2,
+     84.8,
+     441.0,
+     141.6
+    ]
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q012_img5.png",
+    "pagina": 10,
+    "bbox": [
+     40.4,
+     96.8,
+     141.1,
+     133.0
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   9,
+   10
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.6,
+     617.74528,
+     538.4467199999996,
+     628.7852800000001
+    ],
+    [
+     42.6,
+     630.36528,
+     538.6051199999994,
+     641.40528
+    ],
+    [
+     42.6,
+     642.96528,
+     538.7883999999999,
+     654.00528
+    ],
+    [
+     42.6,
+     655.6852799999999,
+     538.4284799999997,
+     666.72528
+    ],
+    [
+     42.6,
+     668.2852800000001,
+     538.4505599999995,
+     679.32528
+    ],
+    [
+     42.6,
+     681.00528,
+     538.78424,
+     692.04528
+    ],
+    [
+     42.6,
+     693.60528,
+     271.86768,
+     704.64528
+    ],
+    [
+     77.784,
+     712.66428,
+     538.73512,
+     720.7042799999999
+    ],
+    [
+     496.06,
+     721.90428,
+     538.7926,
+     729.9442799999999
+    ]
+   ],
+   "10": [
+    [
+     42.60000000000008,
+     62.185280000000034,
+     254.30304000000007,
+     73.22528
+    ],
+    [
+     42.6,
+     87.50527999999997,
+     52.396359999999994,
+     98.54527999999993
+    ],
+    [
+     145.94,
+     87.50527999999997,
+     155.73636,
+     98.54527999999993
+    ],
+    [
+     260.69,
+     87.50527999999997,
+     269.88631999999996,
+     98.54527999999993
+    ],
+    [
+     370.03,
+     87.50527999999997,
+     379.82635999999997,
+     98.54527999999993
+    ],
+    [
+     467.86,
+     87.50527999999997,
+     477.65636,
+     98.54527999999993
+    ],
+    [
+     485.89999,
+     87.34999000000005,
+     532.44999,
+     115.2
+    ],
+    [
+     272.75,
+     87.20000000000005,
+     350.77327,
+     120.75
+    ],
+    [
+     158.45,
+     87.35001,
+     243.76752,
+     142.5
+    ],
+    [
+     379.2,
+     84.84001999999998,
+     441.02139999999997,
+     141.60001
+    ],
+    [
+     40.39999,
+     96.75,
+     141.08113,
+     133.04999999999995
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q012_p9.jpg",
+   "revisao/Q012_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q013",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 13,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A criação de tilápia-do-nilo (*Oreochromis niloticus*) está entre as mais importantes atividades da piscicultura mundial. No manejo desses peixes, é necessário o uso de anestésicos para a redução do estresse e o aumento da segurança no trabalho. Obtida da destilação do óleo essencial extraído das folhas, do caule e das flores de determinada planta, com cerca de 70 a 90% de rendimento, uma substância tem-se mostrado eficaz e segura para essa finalidade, além de apresentar baixo custo. A utilização dessa substância em peixes acontece na forma de banho por imersão. Porém, em razão da sua natureza hidrofóbica, deve-se fazer uma solução-estoque em etanol e, após isso, o anestésico pode ser diluído em água.\n\n{{fonte:1}}\n\nEsse anestésico natural é o",
+  "fontes": [
+   "Adaptado de: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-204X2008000800017 (Acesso em:10/07/2016)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:4}}"
+   },
+   {
+    "letra": "B",
+    "texto": "{{img:3}}"
+   },
+   {
+    "letra": "C",
+    "texto": "{{img:2}}"
+   },
+   {
+    "letra": "D",
+    "texto": ""
+   },
+   {
+    "letra": "E",
+    "texto": "{{img:1}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q013_img1.png",
+    "pagina": 10,
+    "bbox": [
+     476.4,
+     325.6,
+     537.9,
+     375.4
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q013_img2.png",
+    "pagina": 10,
+    "bbox": [
+     250.3,
+     331.0,
+     445.8,
+     374.7
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q013_img3.png",
+    "pagina": 10,
+    "bbox": [
+     154.2,
+     330.4,
+     224.2,
+     375.3
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q013_img4.png",
+    "pagina": 10,
+    "bbox": [
+     67.3,
+     330.7,
+     123.8,
+     379.1
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.6,
+     165.26527999999996,
+     538.7356,
+     176.30527999999993
+    ],
+    [
+     62.424,
+     177.86527999999998,
+     538.5129599999997,
+     188.90528000000006
+    ],
+    [
+     62.424,
+     190.58528,
+     538.6895999999997,
+     201.6252800000001
+    ],
+    [
+     62.424,
+     203.18527999999992,
+     538.5681599999998,
+     214.22528
+    ],
+    [
+     62.424,
+     215.93527999999992,
+     538.8035199999999,
+     226.97528
+    ],
+    [
+     62.424,
+     228.53527999999994,
+     538.6012799999999,
+     239.5752799999999
+    ],
+    [
+     62.424,
+     241.13527999999997,
+     538.9168,
+     252.17528000000004
+    ],
+    [
+     62.424,
+     253.85528,
+     370.67416000000003,
+     264.89528000000007
+    ],
+    [
+     104.17999999999995,
+     275.19428000000005,
+     538.9188800000001,
+     283.23428000000007
+    ],
+    [
+     42.59999999999995,
+     310.1352800000001,
+     177.8179199999999,
+     321.1752800000001
+    ],
+    [
+     42.6,
+     335.45527999999996,
+     52.396359999999994,
+     346.49528
+    ],
+    [
+     138.74,
+     335.45527999999996,
+     148.53636,
+     346.49528
+    ],
+    [
+     239.45,
+     335.45527999999996,
+     248.64632,
+     346.49528
+    ],
+    [
+     327.43,
+     335.45527999999996,
+     337.22636,
+     346.49528
+    ],
+    [
+     460.66,
+     335.45527999999996,
+     470.45636,
+     346.49528
+    ],
+    [
+     476.4,
+     325.63,
+     537.872,
+     375.38
+    ],
+    [
+     250.3,
+     331.03,
+     322.95000000000005,
+     374.72999999999996
+    ],
+    [
+     342.45,
+     331.18,
+     445.75,
+     370.63
+    ],
+    [
+     154.25,
+     330.38,
+     224.2,
+     375.28
+    ],
+    [
+     67.3,
+     330.73,
+     123.8,
+     379.13
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [
+   "alternativa vazia"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q013_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q014",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 14,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O esquema de funcionamento de um material luminescente, um bastão de luz, é mostrado no quadro a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nPara que a situação indicada na imagem aconteça, I e II devem ser respectivamente:",
+  "fontes": [
+   "Modificado de: http://humantouchofchemistry.com/how-do-light-sticks-work.htm (Acesso em: 10/07/2016)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I - solução de acetona e um corante fluorescente e II - benzeno."
+   },
+   {
+    "letra": "B",
+    "texto": "I - solução hIdroetanólica e II - solução contendo um corante fluorescente."
+   },
+   {
+    "letra": "C",
+    "texto": "I - solução contendo peróxido de hidrogênio e um corante fluorescente e II - benzeno."
+   },
+   {
+    "letra": "D",
+    "texto": "I - solução de peróxido de hidrogênio e II - solução contendo éster de fenil oxalato e um corante fluorescente."
+   },
+   {
+    "letra": "E",
+    "texto": "I - solução etanólica de acetato de etila e II - solução de peróxido de hidrogênio e um corante fluorescente."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q014_img1.png",
+    "pagina": 10,
+    "bbox": [
+     39.6,
+     479.0,
+     230.4,
+     686.6
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.6,
+     413.23528,
+     538.6294399999997,
+     424.27528
+    ],
+    [
+     62.424000000000014,
+     425.95528,
+     141.98928,
+     436.99528000000004
+    ],
+    [
+     42.60000000000002,
+     455.83528000000007,
+     458.28911999999957,
+     466.8752800000001
+    ],
+    [
+     39.6,
+     478.95001279999997,
+     230.4,
+     686.6000067
+    ],
+    [
+     251.57,
+     490.42528,
+     535.97432,
+     501.46528
+    ],
+    [
+     265.73,
+     503.14527999999996,
+     326.90264,
+     514.1852799999999
+    ],
+    [
+     251.57,
+     515.74528,
+     536.10832,
+     526.7852800000001
+    ],
+    [
+     265.73,
+     528.34528,
+     368.46824,
+     539.38528
+    ],
+    [
+     251.57,
+     541.06528,
+     535.96616,
+     552.10528
+    ],
+    [
+     265.73,
+     553.6652799999999,
+     438.88136,
+     564.70528
+    ],
+    [
+     251.57,
+     566.38528,
+     536.04448,
+     577.4252799999999
+    ],
+    [
+     265.73,
+     578.98528,
+     536.152,
+     590.02528
+    ],
+    [
+     265.73,
+     591.58528,
+     328.77944,
+     602.62528
+    ],
+    [
+     251.57,
+     604.30528,
+     536.16448,
+     615.34528
+    ],
+    [
+     265.73,
+     616.886248,
+     526.1986880000003,
+     627.950248
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q014_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q015",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 15,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Para a produção de fios elétricos, o cobre deve possuir 99,9% de pureza. Para tanto, o cobre metalúrgico (impuro) passa por um processo, que gera o cobre eletrolítico, conforme está ilustrado na figura ao lado.\n\nSobre esse processo, são feitas as afirmações a seguir:\n\nI. No catodo (–), que é o cobre puro, ocorre depósito de mais cobre em virtude da redução do Cu<sup>2+</sup>.\n\n{{img:1}}\n\nII. A corrosão faz a solução aumentar a concentração de Cu<sup>2+</sup>, que é  \natraído para o catodo, formando cobre metálico livre das  \nimpurezas.  \nIII. Uma solução aquosa de NiSO<sub>4</sub> aumentaria a deposição de cobre  \npuro no catodo.  \nIV. No anodo (+), existe a oxidação do cobre metálico.\n\n{{fonte:1}}\n\nEstá **CORRETO**, apenas**,** o que se afirma em",
+  "fontes": [
+   "Adaptado de: http://www.acervodigital.unesp.br/bitstream/123456789/46363/4/2ed_qui_m4d7.pdf"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e III."
+   },
+   {
+    "letra": "B",
+    "texto": "I, II e IV."
+   },
+   {
+    "letra": "C",
+    "texto": "II, III e IV."
+   },
+   {
+    "letra": "D",
+    "texto": "I e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "III."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q015_img1.png",
+    "pagina": 11,
+    "bbox": [
+     363.7,
+     66.4,
+     544.2,
+     261.6
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.6,
+     62.18527999999992,
+     387.0859199999998,
+     73.22528
+    ],
+    [
+     42.6,
+     74.90527999999995,
+     386.9817599999999,
+     85.94528000000003
+    ],
+    [
+     42.6,
+     87.50527999999997,
+     387.32848,
+     98.54527999999993
+    ],
+    [
+     42.6,
+     100.10528,
+     112.36175999999998,
+     111.14528000000007
+    ],
+    [
+     42.6,
+     118.58528000000001,
+     316.02775999999994,
+     129.6252800000001
+    ],
+    [
+     46.68,
+     143.90527999999995,
+     387.09583999999995,
+     154.97839999999997
+    ],
+    [
+     63.984,
+     156.50527999999997,
+     216.95911999999998,
+     167.54527999999993
+    ],
+    [
+     363.72,
+     66.39999999999998,
+     544.2,
+     261.6
+    ],
+    [
+     45.12,
+     169.10528,
+     387.31719999999996,
+     180.14528000000007
+    ],
+    [
+     63.984,
+     181.82528000000002,
+     387.08063999999985,
+     192.8652800000001
+    ],
+    [
+     63.984,
+     194.42527999999993,
+     117.804,
+     205.46528
+    ],
+    [
+     43.56,
+     207.17527999999993,
+     387.25687999999997,
+     218.21528
+    ],
+    [
+     63.984,
+     219.77527999999995,
+     140.48015999999998,
+     230.81527999999992
+    ],
+    [
+     42.96,
+     232.37527999999998,
+     312.52880000000005,
+     243.41528000000005
+    ],
+    [
+     489.46,
+     233.31427999999994,
+     537.1452400000001,
+     241.3542799999999
+    ],
+    [
+     381.79,
+     242.43427999999994,
+     537.01828,
+     250.4742799999999
+    ],
+    [
+     397.39,
+     251.67427999999995,
+     537.0934000000001,
+     259.7142799999999
+    ],
+    [
+     42.6,
+     266.81528000000003,
+     265.28312,
+     277.85528
+    ],
+    [
+     42.6,
+     292.25527999999997,
+     95.19503999999999,
+     303.29528
+    ],
+    [
+     150.38,
+     292.25527999999997,
+     207.18944,
+     303.29528
+    ],
+    [
+     259.25,
+     292.25527999999997,
+     321.61096,
+     303.29528
+    ],
+    [
+     379.75,
+     292.25527999999997,
+     424.36912,
+     303.29528
+    ],
+    [
+     473.26,
+     292.25527999999997,
+     498.28912,
+     303.29528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q016",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 16,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "9,5 mL *terc*-butanol foi adicionado em um funil de separação de 250 mL, para o qual foram transferidos 28 mL de ácido clorídrico concentrado. O funil permaneceu aberto, e houve liberação de vapores. Após a saída dos vapores, o funil foi tampado, e a mistura agitada cuidadosamente, por 20 minutos. De tempos em tempos, a torneira era aberta para liberar os vapores formados e diminuir a pressão dentro do funil. A mistura adquiriu duas fases, uma ácida, transparente, e outra orgânica, levemente turva. Após a separação das fases, a fase inferior (ácida) foi descartada, e a outra foi lavada com solução de bicarbonato de sódio 5% e, em seguida, com água destilada. O produto foi seco com cloreto de cálcio anidro, fazendo a solução ficar transparente. O agente secante foi eliminado por filtração, e o líquido, recolhido para uma vidraria volumétrica.\n\nQual é o produto formado nessa reação?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Butanal."
+   },
+   {
+    "letra": "B",
+    "texto": "2-metilcetona."
+   },
+   {
+    "letra": "C",
+    "texto": "Ácido butanoico."
+   },
+   {
+    "letra": "D",
+    "texto": "Ácido *terc*-butanoico."
+   },
+   {
+    "letra": "E",
+    "texto": "Cloreto de *terc*-butila."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.6,
+     325.61528,
+     538.768,
+     336.65528
+    ],
+    [
+     42.6,
+     338.21527999999995,
+     538.5388799999994,
+     349.25527999999997
+    ],
+    [
+     42.6,
+     350.83527999999995,
+     538.3953599999995,
+     361.87528
+    ],
+    [
+     42.6,
+     363.55528,
+     538.5979999999997,
+     374.59528
+    ],
+    [
+     42.6,
+     376.15527999999995,
+     538.4726399999994,
+     387.19527999999997
+    ],
+    [
+     42.6,
+     388.87528,
+     538.96912,
+     399.91528
+    ],
+    [
+     42.6,
+     401.47527999999994,
+     538.76392,
+     412.51527999999996
+    ],
+    [
+     42.6,
+     414.07527999999996,
+     538.6161599999996,
+     425.11528
+    ],
+    [
+     42.6,
+     426.79528,
+     408.96903999999995,
+     437.83528
+    ],
+    [
+     42.6,
+     446.35528,
+     243.30719999999997,
+     457.39528
+    ],
+    [
+     42.6,
+     466.99528,
+     104.36880000000001,
+     478.03528
+    ],
+    [
+     42.6,
+     479.71527999999995,
+     133.164,
+     490.75527999999997
+    ],
+    [
+     42.6,
+     492.34527999999995,
+     145.42304000000001,
+     503.38527999999997
+    ],
+    [
+     42.6,
+     505.06528,
+     167.35952,
+     516.10528
+    ],
+    [
+     42.6,
+     517.6652799999999,
+     169.17391999999998,
+     528.70528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q016_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q017",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 17,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A água de coco se torna imprópria para o consumo poucos dias após ser retirada do fruto. Sua exposição ao ar atmosférico permite a ação de microrganismos e, principalmente, de espécies químicas, que desencadeiam uma série de reações, como o escurecimento, alterações no valor nutritivo, na aparência e no sabor. Por isso, para se evitar esse tipo de ação, essas espécies são removidas da solução, por métodos térmicos ou outra técnica, seguida por microfiltrações.\n\nQue espécies químicas causam esse problema na água de coco?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Os íons Na<sup>+</sup> e Mg<sup>++</sup>"
+   },
+   {
+    "letra": "B",
+    "texto": "Os carboidratos frutose e glicose"
+   },
+   {
+    "letra": "C",
+    "texto": "Os carotenoides licopeno e β-caroteno"
+   },
+   {
+    "letra": "D",
+    "texto": "As enzimas peroxidase e polifenoloxidase"
+   },
+   {
+    "letra": "E",
+    "texto": "Os ácidos graxos de cadeias poli-insaturadas"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.6,
+     555.58528,
+     538.82704,
+     566.62528
+    ],
+    [
+     42.6,
+     568.30528,
+     538.5278399999994,
+     579.34528
+    ],
+    [
+     42.6,
+     580.90528,
+     538.5167999999995,
+     591.94528
+    ],
+    [
+     42.6,
+     593.50528,
+     538.766,
+     604.54528
+    ],
+    [
+     42.6,
+     606.22528,
+     483.20639999999935,
+     617.26528
+    ],
+    [
+     42.6,
+     628.06528,
+     364.2393599999999,
+     639.10528
+    ],
+    [
+     42.6,
+     649.9252799999999,
+     158.88468,
+     660.96528
+    ],
+    [
+     42.6,
+     662.52528,
+     224.75952,
+     673.56528
+    ],
+    [
+     42.6,
+     676.08528,
+     253.13624,
+     687.22464
+    ],
+    [
+     42.6,
+     688.6852799999999,
+     268.78704,
+     699.72528
+    ],
+    [
+     42.6,
+     701.2852800000001,
+     286.1516,
+     712.32528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q017_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q018",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 18,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um fio de cobre foi retorcido em formato de uma “árvore de natal” e colocado dentro de um béquer. Em seguida, transferiu-se um volume de uma solução salina para a vidraria, o suficiente para cobrir o objeto metálico. Após determinado período, a solução ficou azulada, e pequenos cristais cobriram toda a superfície da árvore de natal.\n\n{{img:1}}\n\nDados: Na<sup>+</sup> + 1e → Na<sup>0</sup> E<sup>0</sup> = - 2,71 V\n\nred  \nMg<sup>++</sup> + 2e → Mg<sup>0</sup> E<sup>0</sup> = - 2,36 V red  \nAg<sup>+</sup> + 1e → Ag<sup>0</sup> E<sup>0</sup> = + 0,80 V red  \nCu<sup>++</sup> + 2e → Cu<sup>0</sup> E<sup>0</sup> = + 0,34 V red  \nNi<sup>++</sup> + 2e → Ni<sup>0</sup> E<sup>0</sup> = - 0,25 V red\n\nQual é o sal presente na solução adicionada ao béquer?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "NaCl"
+   },
+   {
+    "letra": "B",
+    "texto": "MgCl<sub>2</sub>"
+   },
+   {
+    "letra": "C",
+    "texto": "AgNO<sub>3</sub> Fonte: https://www.youtube.com/watch?v=9dYp97XcvtM"
+   },
+   {
+    "letra": "D",
+    "texto": "Cu(NO<sub>3</sub>)<sub>2</sub>"
+   },
+   {
+    "letra": "E",
+    "texto": "Ni(NO<sub>3</sub>)<sub>2</sub>"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q018_img1.png",
+    "pagina": 12,
+    "bbox": [
+     38.2,
+     116.9,
+     279.1,
+     259.3
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.6,
+     62.18527999999992,
+     538.4611199999996,
+     73.25839999999994
+    ],
+    [
+     42.6,
+     74.90527999999995,
+     538.7375999999992,
+     85.94528000000003
+    ],
+    [
+     42.6,
+     87.50527999999997,
+     538.4836799999996,
+     98.54527999999993
+    ],
+    [
+     42.6,
+     100.10528,
+     264.53712,
+     111.14528000000007
+    ],
+    [
+     38.16,
+     116.88,
+     279.12,
+     259.31427999999994
+    ],
+    [
+     294.05,
+     119.30527999999993,
+     531.36832,
+     130.44463999999994
+    ],
+    [
+     470.14,
+     124.10072000000002,
+     480.12179999999995,
+     131.06072000000006
+    ],
+    [
+     330.91,
+     132.86527999999998,
+     530.5331200000002,
+     144.00464
+    ],
+    [
+     469.30000000000007,
+     137.66071999999997,
+     479.28180000000003,
+     144.62072
+    ],
+    [
+     330.9100000000001,
+     146.30528000000004,
+     531.6208,
+     157.44464000000005
+    ],
+    [
+     467.62000000000006,
+     151.10072000000002,
+     477.6018,
+     158.06072000000006
+    ],
+    [
+     330.9100000000001,
+     159.7452800000001,
+     530.8854400000001,
+     170.8846400000001
+    ],
+    [
+     466.9000000000001,
+     164.54072000000008,
+     476.88180000000006,
+     171.50072000000011
+    ],
+    [
+     330.91000000000014,
+     173.30528000000004,
+     529.9283200000002,
+     184.44464000000005
+    ],
+    [
+     468.7000000000001,
+     178.10072000000002,
+     478.68180000000007,
+     185.06072000000006
+    ],
+    [
+     294.05,
+     195.12624800000003,
+     541.6119280000001,
+     206.190248
+    ],
+    [
+     294.05,
+     207.77527999999995,
+     334.48951999999997,
+     218.81527999999992
+    ],
+    [
+     294.05,
+     227.3352799999999,
+     339.83943999999997,
+     238.37527999999986
+    ],
+    [
+     294.05,
+     239.93527999999992,
+     344.85976,
+     250.97528
+    ],
+    [
+     294.05,
+     252.65527999999995,
+     349.41976,
+     263.69528
+    ],
+    [
+     58.584,
+     260.31427999999994,
+     258.80411999999995,
+     268.35427999999996
+    ],
+    [
+     294.05000000000007,
+     265.25527999999997,
+     361.17976000000004,
+     276.29528
+    ],
+    [
+     294.05000000000007,
+     277.97528,
+     357.4597600000001,
+     289.01528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q018_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q019",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 19,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Cerca de mil rolos de filmes foram queimados no incêndio que atingiu a Cinemateca Brasileira em São Paulo. O incêndio atingiu um dos quatro depósitos de armazenamento de filmes em suporte de polímero natural modificado, característico da produção cinematográfica anterior à década de 1950. As películas eram compostas por um material que, pela sua composição físico-química, pode entrar em combustão espontânea, dependendo da temperatura no ambiente.\n\n{{fonte:1}}\n\nEsse polímero é representado por",
+  "fontes": [
+   "Adaptado de: http://agenciabrasil.ebc.com.br/cultura/noticia/2016-02/cerca-de-mil-rolos-de-filmes-sao-queimados-em-incendio-na- cinemateca (Acesso em: 10/07/2016)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:2}}"
+   },
+   {
+    "letra": "B",
+    "texto": "{{img:1}}"
+   },
+   {
+    "letra": "C",
+    "texto": "{{img:3}}"
+   },
+   {
+    "letra": "D",
+    "texto": "{{img:4}}"
+   },
+   {
+    "letra": "E",
+    "texto": "{{img:5}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q019_img1.png",
+    "pagina": 12,
+    "bbox": [
+     293.4,
+     453.3,
+     387.8,
+     554.0
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q019_img2.png",
+    "pagina": 12,
+    "bbox": [
+     68.6,
+     453.3,
+     236.1,
+     511.9
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q019_img3.png",
+    "pagina": 12,
+    "bbox": [
+     459.6,
+     456.6,
+     529.3,
+     511.8
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q019_img4.png",
+    "pagina": 12,
+    "bbox": [
+     68.4,
+     567.9,
+     251.2,
+     676.3
+    ]
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q019_img5.png",
+    "pagina": 12,
+    "bbox": [
+     293.4,
+     583.8,
+     488.6,
+     690.8
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.6,
+     315.17528,
+     538.5871999999998,
+     326.21528
+    ],
+    [
+     42.6,
+     327.89527999999996,
+     538.7667999999999,
+     338.93528
+    ],
+    [
+     42.60000000000002,
+     340.49528,
+     538.5940799999996,
+     351.53528
+    ],
+    [
+     42.60000000000002,
+     353.23528,
+     538.87696,
+     364.27528
+    ],
+    [
+     42.60000000000008,
+     365.83528,
+     418.5782399999997,
+     376.87528000000003
+    ],
+    [
+     77.54400000000008,
+     383.69428,
+     538.8476,
+     391.73428
+    ],
+    [
+     406.2700000000001,
+     392.93428,
+     538.8261200000001,
+     400.97428
+    ],
+    [
+     42.60000000000008,
+     416.47528,
+     208.95072000000005,
+     427.51528
+    ],
+    [
+     56.52,
+     454.39527999999996,
+     66.31636,
+     465.43528
+    ],
+    [
+     276.53,
+     454.39527999999996,
+     286.32635999999997,
+     465.43528
+    ],
+    [
+     441.7,
+     454.39527999999996,
+     450.89631999999995,
+     465.43528
+    ],
+    [
+     293.45,
+     453.26399999999995,
+     387.84,
+     554.04
+    ],
+    [
+     68.6,
+     453.26,
+     236.10999999999999,
+     511.86
+    ],
+    [
+     459.6,
+     456.61,
+     529.335,
+     511.76
+    ],
+    [
+     56.52,
+     581.86528,
+     66.31636,
+     592.90528
+    ],
+    [
+     276.53,
+     581.86528,
+     286.32635999999997,
+     592.90528
+    ],
+    [
+     68.4,
+     567.9299933,
+     251.16000000000003,
+     676.3199999999999
+    ],
+    [
+     293.4,
+     583.842,
+     488.64,
+     690.792
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q020",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 20,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Todos os isótopos conhecidos do tecnécio são radioativos e incluem oito pares de isômeros nucleares, entre eles <sup>99m</sup>Tc-<sup>99</sup>Tc, que são nuclídeos diferenciáveis apenas pelo seu conteúdo energético. O nuclídeo no estado mais energético (metaestável) libera energia eletromagnética na transição para um estado isomérico de energia mais baixa. O Tc-99m apresenta meia-vida de 6 horas, sendo um produto do decaimento do molibdênio-99, que possui uma meia-vida de 66 horas.\n\n{{img:1}}\n\nOs geradores de Tc-99m consistem em recipientes com pequenas esferas de alumina sobre as quais o Mo-99, produzido em um reator nuclear, liga-se firmemente. O Tc-99m é utilizado na composição de radiofármacos para diagnóstico, para a obtenção de mapeamentos (cintilografia) de diversos órgãos. O paciente recebe uma dose de um radiofármaco, sendo, posteriormente, examinado por um equipamento capaz de detectar a radiação oriunda do paciente e convertê-la em uma imagem que representa o órgão ou o sistema avaliado.\n\n{{fonte:1}}\n\nNesse processo, é **CORRETO** afirmar que",
+  "fontes": [
+   "Adaptado de: http://qnesc.sbq.org.br/online/cadernos/06/a08.pdf. Acesso em: 10/07/2016."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o molibdênio, o tecnécio e o rutênio são isótopos radioativos."
+   },
+   {
+    "letra": "B",
+    "texto": "as imagens são produzidas pela conversão da energia gerada por um radioisótopo emissor de radiação gama."
+   },
+   {
+    "letra": "C",
+    "texto": "a alta meia-vida do molibdênio-99 é uma das vantagens para a sua utilização como radiofármaco para diagnósticos."
+   },
+   {
+    "letra": "D",
+    "texto": "o Tc-99m emite um tipo de onda eletromagnética que apresenta grande penetrabilidade nos tecidos e alto poder de ionização, quando comparada às radiações de partículas alfa (α) ou de négatrons (β<sup>–</sup>)."
+   },
+   {
+    "letra": "E",
+    "texto": "o tecnécio-99m apresenta excelentes características para a utilização em Medicina Nuclear Diagnóstica, pois possui tempo de meia-vida físico relativamente curto (6,02 h) e emite radiação do tipo particulada."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q020_img1.png",
+    "pagina": 13,
+    "bbox": [
+     173.6,
+     124.0,
+     407.4,
+     170.5
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.6,
+     62.18527999999992,
+     538.6708799999997,
+     73.22528
+    ],
+    [
+     42.6,
+     74.90527999999995,
+     538.80248,
+     85.94528000000003
+    ],
+    [
+     42.6,
+     87.50527999999997,
+     538.5388799999995,
+     98.54527999999993
+    ],
+    [
+     42.6,
+     100.10528,
+     538.91776,
+     111.14528000000007
+    ],
+    [
+     42.6,
+     112.82528000000002,
+     535.57936,
+     123.8652800000001
+    ],
+    [
+     173.6,
+     123.99000000000001,
+     407.40999999999997,
+     170.49
+    ],
+    [
+     42.6,
+     171.98528,
+     538.5593599999997,
+     183.02527999999995
+    ],
+    [
+     42.6,
+     184.58528,
+     538.87,
+     195.6252800000001
+    ],
+    [
+     42.6,
+     197.30527999999993,
+     538.7984799999999,
+     208.3452799999999
+    ],
+    [
+     42.6,
+     209.93527999999992,
+     538.5609599999995,
+     220.97528
+    ],
+    [
+     42.6,
+     222.53527999999994,
+     538.8174399999999,
+     233.5752799999999
+    ],
+    [
+     42.6,
+     235.25527999999997,
+     248.03915999999998,
+     246.29527999999993
+    ],
+    [
+     219.89,
+     256.59428,
+     538.85512,
+     264.63428
+    ],
+    [
+     42.6,
+     275.33527999999995,
+     250.59512,
+     286.37528
+    ],
+    [
+     42.6,
+     298.49528,
+     354.4867199999998,
+     309.53528
+    ],
+    [
+     42.6,
+     311.09527999999995,
+     538.7288799999999,
+     322.13527999999997
+    ],
+    [
+     56.76,
+     323.81528,
+     132.64896,
+     334.85528
+    ],
+    [
+     42.6,
+     336.41527999999994,
+     538.81096,
+     347.45527999999996
+    ],
+    [
+     56.76,
+     349.03527999999994,
+     146.0736,
+     360.07527999999996
+    ],
+    [
+     42.6,
+     361.75527999999997,
+     538.5667199999996,
+     372.79528
+    ],
+    [
+     56.76,
+     374.35528,
+     538.8904,
+     385.4284
+    ],
+    [
+     56.76,
+     387.07527999999996,
+     129.44914,
+     398.1484
+    ],
+    [
+     42.6,
+     399.67528,
+     538.75144,
+     410.71528
+    ],
+    [
+     56.76,
+     412.39527999999996,
+     538.80664,
+     423.43528
+    ],
+    [
+     56.76,
+     424.99528,
+     149.81615999999997,
+     436.03528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q020_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q021",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 21,
+  "area": "",
+  "texto_base_id": "P4213-T3",
+  "textos_base_ids": [
+   "P4213-T3"
+  ],
+  "enunciado": "A partir da adaptação para um sistema intensivo de criação em tanques escavados e do uso de* *aeração artificial diária, é possível se triplicar a produção de peixe de piscicultura no Amazonas,* *mantendo as mesmas áreas de tanques existentes.*\n\n{{fonte:1}}\n\nAnalisando-se um sistema de aeração, percebe-se que uma bolha de ar que ascende desde o fundo de um tanque de piscicultura, com temperatura constante, dobra seu volume desde sua formação até atingir a superfície da água. Considerando-se que o ar da bolha é um gás ideal e que a pressão atmosférica local é igual a 1 atm, a profundidade do tanque é, aproximadamente, igual a",
+  "fontes": [
+   "Fonte: https://www.embrapa.br/busca-de-noticias/-/noticia/1472703/piscicultores-buscam-adotar-tecnologia--que-pode-triplicar-producao-de-peixe-no-am, acessado em: 14 de julho de 2016. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1 m."
+   },
+   {
+    "letra": "B",
+    "texto": "5 m."
+   },
+   {
+    "letra": "C",
+    "texto": "10 m."
+   },
+   {
+    "letra": "D",
+    "texto": "16 m."
+   },
+   {
+    "letra": "E",
+    "texto": "20 m."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.6,
+     560.74528,
+     538.79828,
+     571.7852800000001
+    ],
+    [
+     42.6,
+     573.34528,
+     538.7050399999999,
+     584.38528
+    ],
+    [
+     42.6,
+     585.94528,
+     294.54128,
+     596.98528
+    ],
+    [
+     53.16,
+     610.76428,
+     538.81732,
+     618.80428
+    ],
+    [
+     311.83,
+     620.00428,
+     538.7924800000001,
+     628.04428
+    ],
+    [
+     42.6,
+     636.60528,
+     538.59944,
+     647.64528
+    ],
+    [
+     42.6,
+     649.32528,
+     538.6271999999996,
+     660.36528
+    ],
+    [
+     42.6,
+     661.9252799999999,
+     538.58312,
+     672.96528
+    ],
+    [
+     42.6,
+     674.52528,
+     473.68991999999963,
+     685.56528
+    ],
+    [
+     42.6,
+     698.76528,
+     76.84608,
+     709.80528
+    ],
+    [
+     143.18,
+     698.76528,
+     177.42608,
+     709.80528
+    ],
+    [
+     243.77,
+     698.76528,
+     283.53608,
+     709.80528
+    ],
+    [
+     344.47,
+     698.76528,
+     384.84328000000005,
+     709.80528
+    ],
+    [
+     445.06,
+     698.76528,
+     485.43327999999997,
+     709.80528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q022",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 22,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Tendo em vista a Lei Federal 13290/2016, que \"Torna obrigatório o uso, nas rodovias, de farol baixo aceso durante o dia e dá outras providências...\", um estudante de ensino médio está propondo um circuito para um carro elétrico. Nesse veículo, o motorista liga lâmpadas resistivas e motor simultaneamente, evitando, assim, uma infração de trânsito de gravidade média na qual ele estaria sujeito, ainda, ao pagamento de multa no valor de R$ 85,13. Das seguintes alternativas, qual permite ligar simultaneamente o motor e as lâmpadas na condição de máxima potência de funcionamento do sistema?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:2}}"
+   },
+   {
+    "letra": "B",
+    "texto": "d) e)\n\n{{img:1}}\n\n{{img:3}}\n\n{{img:4}}\n\n{{img:5}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q022_img1.png",
+    "pagina": 14,
+    "bbox": [
+     239.1,
+     143.9,
+     530.9,
+     235.9
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q022_img2.png",
+    "pagina": 14,
+    "bbox": [
+     76.5,
+     192.0,
+     161.5,
+     233.6
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q022_img3.png",
+    "pagina": 14,
+    "bbox": [
+     414.5,
+     194.5,
+     505.2,
+     251.0
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q022_img4.png",
+    "pagina": 14,
+    "bbox": [
+     76.5,
+     254.7,
+     158.7,
+     308.6
+    ]
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q022_img5.png",
+    "pagina": 14,
+    "bbox": [
+     239.3,
+     254.2,
+     358.4,
+     302.2
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.6,
+     62.18527999999992,
+     538.7490399999999,
+     73.22528
+    ],
+    [
+     42.6,
+     74.90527999999995,
+     538.70056,
+     85.94528000000003
+    ],
+    [
+     42.6,
+     87.50527999999997,
+     538.83136,
+     98.54527999999993
+    ],
+    [
+     42.6,
+     100.10528,
+     538.91056,
+     111.14528000000007
+    ],
+    [
+     42.6,
+     112.82528000000002,
+     538.77496,
+     123.8652800000001
+    ],
+    [
+     42.6,
+     125.42527999999993,
+     538.85992,
+     136.46528
+    ],
+    [
+     42.6,
+     138.14527999999996,
+     86.75999999999999,
+     149.18528000000003
+    ],
+    [
+     60.624,
+     193.34528,
+     70.42036,
+     204.38528000000008
+    ],
+    [
+     228.29,
+     193.34528,
+     238.08635999999998,
+     204.38528000000008
+    ],
+    [
+     239.08635999999998,
+     143.85000000000002,
+     386.28000000000003,
+     235.93999999999994
+    ],
+    [
+     406.26631999999995,
+     143.85000000000002,
+     530.85,
+     235.93999999999994
+    ],
+    [
+     76.5,
+     191.99,
+     161.5,
+     233.64
+    ],
+    [
+     414.5,
+     194.53999999999996,
+     505.2,
+     250.99
+    ],
+    [
+     60.624,
+     256.61528,
+     70.42036,
+     267.65528
+    ],
+    [
+     228.29,
+     256.61528,
+     238.08635999999998,
+     267.65528
+    ],
+    [
+     76.45,
+     254.73000000000002,
+     158.65,
+     308.63
+    ],
+    [
+     239.3,
+     254.19000000000005,
+     358.35,
+     302.24
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [
+   "2 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q022_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q023",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 23,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em 1859 aconteceu uma erupção solar, e, na Terra, os fios soltaram faíscas, que deram choques* *nos operadores de telégrafo, botando fogo no papel. Foi a maior tempestade geomagnética de que* *há registros históricos. O Sol arremessou bilhões de toneladas de elétrons e prótons para a Terra, e,* *quando essas partículas bateram no campo magnético do planeta, criaram auroras espetaculares* *nas cores vermelho, verde e roxo no céu noturno – além de correntes poderosas de eletricidade, que* *saltaram do chão para os fios, sobrecarregando os circuitos. Se uma tempestade dessas* *acontecesse no século XXI, muito mais que fios e papel estaria em risco. Alguns satélites de* *telecomunicação muito acima da Terra seriam desligados. Os sinais do GPS ficariam misturados. E o* *surto de eletricidade, vindo do chão, ameaçaria as redes elétricas, quem sabe deixando um* *continente ou dois nas trevas. (...) O exemplo mais estudado e inequívoco de a capacidade solar* *prejudicar redes elétricas aconteceu em 13 de março de 1989, na província canadense do Quebec.* *Nas primeiras horas da manhã, uma tempestade solar gerou correntes nos fios de transmissão,* *desligando disjuntores. Em questão de minutos, um apagão tomou conta da província, fechando* *empresas, escolas, aeroportos e metrôs até a energia ser religada no fim daquele dia. (...)*\n\n{{fonte:1}}\n\nConsiderando-se o trecho acima e os conhecimentos básicos acerca do eletromagnetismo, é **CORRETO** afirmar que",
+  "fontes": [
+   "Fonte: http://ultimosegundo.ig.com.br/ciencia/2013-03-30/cientistas-avaliam-consequencias-das-tempestades-solares.html, acessado em: 14 de julho de 2016. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o campo elétrico terrestre é o principal responsável por repelir os elétrons arremessados pelo Sol, criando os efeitos de luz denominados de auroras boreais."
+   },
+   {
+    "letra": "B",
+    "texto": "a baixa função trabalho, característica do material utilizado nos fios metálicos de transmissão, ocasionou o desligamento dos disjuntores em Quebec."
+   },
+   {
+    "letra": "C",
+    "texto": "o tempo entre a observação de uma atividade anormal na superfície do Sol e a chegada da tempestade solar à Terra é nulo, uma vez que as partículas arremessadas pelo astro viajam na velocidade da luz."
+   },
+   {
+    "letra": "D",
+    "texto": "uma possível explicação é que as correntes nos fios de transmissão, que desligaram os disjuntores em Quebec, foram criadas por indução magnética, por causa dos efeitos da tempestade solar sobre o campo magnético terrestre."
+   },
+   {
+    "letra": "E",
+    "texto": "as auroras espetaculares relatadas podem ser explicadas pelo efeito fotoelétrico."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.6,
+     327.89527999999996,
+     538.8879999999999,
+     338.93528
+    ],
+    [
+     42.6,
+     340.49528,
+     538.6382399999995,
+     351.53528
+    ],
+    [
+     42.6,
+     353.23528,
+     538.84384,
+     364.27528
+    ],
+    [
+     42.6,
+     365.83527999999995,
+     538.7496799999999,
+     376.87528
+    ],
+    [
+     42.6,
+     378.43528,
+     538.79832,
+     389.48632
+    ],
+    [
+     42.6,
+     391.15527999999995,
+     538.5940799999995,
+     402.19527999999997
+    ],
+    [
+     42.6,
+     403.75527999999997,
+     538.5609599999996,
+     414.79528
+    ],
+    [
+     42.6,
+     416.47527999999994,
+     538.8500799999999,
+     427.51527999999996
+    ],
+    [
+     42.6,
+     429.07527999999996,
+     538.7083999999999,
+     440.11528
+    ],
+    [
+     42.6,
+     441.67528,
+     538.74928,
+     452.71528
+    ],
+    [
+     42.6,
+     454.39527999999996,
+     538.72232,
+     465.43528
+    ],
+    [
+     42.6,
+     466.99528,
+     538.4726399999994,
+     478.03528
+    ],
+    [
+     42.6,
+     479.71527999999995,
+     538.4726399999996,
+     490.75527999999997
+    ],
+    [
+     42.6,
+     492.34527999999995,
+     482.45439999999996,
+     503.38527999999997
+    ],
+    [
+     50.28,
+     512.60428,
+     538.73512,
+     520.64428
+    ],
+    [
+     424.42,
+     521.72428,
+     538.7924800000001,
+     529.76428
+    ],
+    [
+     42.6,
+     539.50528,
+     538.6316800000001,
+     550.54528
+    ],
+    [
+     42.6,
+     551.98528,
+     156.31951999999998,
+     563.02528
+    ],
+    [
+     42.6,
+     577.4252799999999,
+     538.78072,
+     588.46528
+    ],
+    [
+     63.984,
+     590.14528,
+     371.37071999999984,
+     601.1852799999999
+    ],
+    [
+     42.6,
+     602.74528,
+     538.5220799999995,
+     613.7852800000001
+    ],
+    [
+     63.984,
+     615.34528,
+     331.83648,
+     626.38528
+    ],
+    [
+     42.6,
+     628.06528,
+     538.5935999999997,
+     639.10528
+    ],
+    [
+     63.984,
+     640.68528,
+     538.6303999999998,
+     651.72528
+    ],
+    [
+     63.984,
+     653.40528,
+     151.88448,
+     664.44528
+    ],
+    [
+     42.6,
+     666.00528,
+     538.6277599999999,
+     677.04528
+    ],
+    [
+     63.984,
+     678.60528,
+     538.92928,
+     689.64528
+    ],
+    [
+     63.984,
+     691.32528,
+     324.9254399999999,
+     702.36528
+    ],
+    [
+     42.6,
+     703.9252799999999,
+     459.5399999999997,
+     714.96528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q024",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 24,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A sonda caçadora de exoplanetas Kepler encontrou aquele que talvez seja o corpo celeste mais* *parecido com a Terra. A Nasa anunciou, nesta quinta-feira (23), a descoberta de Kepler-452b, um* *exoplaneta encontrado dentro de uma zona habitável de seu sistema solar, ou seja, uma região onde* *é possível que exista água no estado líquido. A semelhança com nosso planeta é tão grande que os* *pesquisadores chamaram o Kepler-452b de Terra 2.0. O Kepler-452b é cerca de 60% maior que a* *Terra e precisa de 385 dias para completar uma órbita ao redor de sua estrela, a Kepler 452. E essa* *estrela hospedeira é muito parecida com nosso Sol: tem quase o mesmo tamanho, temperatura e* *emite apenas 20% mais luz. Localizado na constelação Cygnus, o sistema solar da Terra 2.0 está a 1* *400 anos-luz distante do nosso.*\n\n{{fonte:1}}\n\nSupondo-se que, a fim de investigar mais de perto o Kepler-452b, uma sonda tenha sido enviada da Terra por uma equipe da Nasa, com uma velocidade igual a (3)<sup>1/2</sup>c/2. Quando o relógio instalado na sonda marcar 28 anos de viagem, quanto tempo terá se passado para a equipe na Terra?",
+  "fontes": [
+   "Fonte: http://exame.abril.com.br/tecnologia/noticias/terra-2-0-nasa-anuncia-descoberta-historica-de-planeta-quase-identico-ao-nosso, acessado em: 14 de julho de 2016."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "7 anos"
+   },
+   {
+    "letra": "B",
+    "texto": "14 anos"
+   },
+   {
+    "letra": "C",
+    "texto": "21 anos"
+   },
+   {
+    "letra": "D",
+    "texto": "42 anos"
+   },
+   {
+    "letra": "E",
+    "texto": "56 anos"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.6,
+     62.18527999999992,
+     538.5230399999997,
+     73.22528
+    ],
+    [
+     42.6,
+     74.90527999999995,
+     538.84768,
+     85.94528000000003
+    ],
+    [
+     42.6,
+     87.50527999999997,
+     538.4395199999996,
+     98.54527999999993
+    ],
+    [
+     42.6,
+     100.10528,
+     538.87456,
+     111.14528000000007
+    ],
+    [
+     42.6,
+     112.82528000000002,
+     538.71208,
+     123.8652800000001
+    ],
+    [
+     42.6,
+     125.42527999999993,
+     538.4174399999996,
+     136.46528
+    ],
+    [
+     42.6,
+     138.14527999999996,
+     538.6075999999999,
+     149.18528000000003
+    ],
+    [
+     42.6,
+     150.74527999999998,
+     538.7338399999998,
+     161.78527999999994
+    ],
+    [
+     42.6,
+     163.34528,
+     198.07439999999997,
+     174.38528000000008
+    ],
+    [
+     66.504,
+     183.60428000000002,
+     538.84132,
+     191.64427999999998
+    ],
+    [
+     414.19,
+     192.84428000000003,
+     538.6915600000001,
+     200.88428
+    ],
+    [
+     42.6,
+     211.73528,
+     538.79828,
+     222.77527999999995
+    ],
+    [
+     42.6,
+     224.33528,
+     538.81048,
+     235.3752800000001
+    ],
+    [
+     42.6,
+     237.05527999999993,
+     481.6718399999996,
+     248.0952799999999
+    ],
+    [
+     42.6,
+     262.37528,
+     88.55952,
+     273.41528
+    ],
+    [
+     143.18,
+     262.37528,
+     195.26672000000002,
+     273.41528
+    ],
+    [
+     243.77,
+     262.37528,
+     295.24951999999996,
+     273.41528
+    ],
+    [
+     344.47,
+     262.37528,
+     396.55672000000004,
+     273.41528
+    ],
+    [
+     445.06,
+     262.37528,
+     497.14671999999996,
+     273.41528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q024_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q025",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 25,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A medida da condutividade térmica de um fluido pode ser realizada com a técnica do fio quente. Nessa técnica, um fio de platina é esticado e imerso num reservatório com fluido. As extremidades do fio são conectadas a uma fonte de tensão autoajustável, para manter uma corrente constante circulando no circuito, e a um voltímetro em paralelo, conforme ilustra a figura a seguir. Quando a corrente passa pelo fio, a temperatura do fluido aumenta em razão do efeito joule. Sabendo-se que a resistência do fio aumenta linearmente com a temperatura, qual é a equação que descreve o comportamento da tensão, V, em função do tempo, t, medido quando o sistema está em equilíbrio térmico com o ambiente?\n\n{{img:1}}\n\nConsidere que as dimensões do reservatório são muito maiores que as dimensões do fio.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "V = δ + βt, com com δ e β constantes."
+   },
+   {
+    "letra": "B",
+    "texto": "V = δ + βt<sup>2</sup>, com δ e β constantes."
+   },
+   {
+    "letra": "C",
+    "texto": "V = δ, com δ constante."
+   },
+   {
+    "letra": "D",
+    "texto": "V = δ + βtg(t), com β constante."
+   },
+   {
+    "letra": "E",
+    "texto": "V = δ + βsen(t), com δ e β constantes."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q025_img1.png",
+    "pagina": 15,
+    "bbox": [
+     358.8,
+     441.2,
+     482.8,
+     549.5
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.6,
+     312.89527999999996,
+     538.4347199999996,
+     323.93528
+    ],
+    [
+     42.6,
+     325.61528,
+     538.5599999999995,
+     336.65528
+    ],
+    [
+     42.6,
+     338.21527999999995,
+     538.7461599999999,
+     349.25527999999997
+    ],
+    [
+     42.6,
+     350.83527999999995,
+     538.76704,
+     361.87528
+    ],
+    [
+     42.6,
+     363.55528,
+     538.79248,
+     374.59528
+    ],
+    [
+     42.6,
+     376.15527999999995,
+     538.5197599999998,
+     387.19527999999997
+    ],
+    [
+     42.6,
+     388.87528,
+     538.4284799999995,
+     399.91528
+    ],
+    [
+     42.6,
+     401.47527999999994,
+     166.11824,
+     412.51527999999996
+    ],
+    [
+     42.6,
+     423.31528,
+     480.04912,
+     434.35528
+    ],
+    [
+     358.75,
+     441.2,
+     482.8,
+     549.5
+    ],
+    [
+     42.6,
+     461.23528,
+     249.82568,
+     472.3084
+    ],
+    [
+     42.6,
+     473.95527999999996,
+     229.74463999999998,
+     485.0284
+    ],
+    [
+     42.6,
+     486.55528,
+     179.97776,
+     497.6284
+    ],
+    [
+     42.6,
+     499.30528,
+     218.47568,
+     510.3784
+    ],
+    [
+     42.6,
+     511.90527999999995,
+     251.02568,
+     522.9784
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q026",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 26,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As fibras ópticas são feitas de vidro óptico extremamente puro. Costumamos achar que uma* *janela de vidro é transparente. Entretanto, quanto mais espesso for o vidro, menos transparente ele* *será em razão das impurezas nele contidas. O vidro de uma fibra óptica possui, porém, menos* *impurezas que o vidro usado em janelas. Segue a descrição da qualidade do vidro produzido por* *uma companhia: se você estivesse sobre um oceano feito de quilômetros de núcleo sólido de fibra de* *vidro, poderia ver claramente o fundo. Fazer fibras ópticas requer as seguintes etapas: elaborar um* *cilindro de vidro pré-formado; estirar as fibras a partir da pré-forma; e testar as fibras.*\n\n{{fonte:1}}\n\n{{img:1}}\n\nDurante a fase de estiramento das fibras, é necessário haver um controle da espessura dos fios de fibra óptica fabricados. Para isso, suponha que uma montagem experimental é configurada, utilizando-se um laser com comprimento de onda de 650nm que incide sobre o fio de fibra óptica, com um revestimento opaco, conforme ilustra a Figura 1. Após passar pelo fio, o feixe de laser forma um padrão de difração em um anteparo instalado a 2,0m de distância do fio. A representação esquemática desse padrão está mostrada na Figura 2. Sabendo-se que a separação entre os máximos de intensidade luminosa, Δx, é 1,0 cm, qual é o valor do diâmetro do fio?",
+  "fontes": [
+   "Fonte: http://tecnologia.hsw.uol.com.br/fibras-opticas5.htm, acessado em:14 de julho de 2016."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "65 μm"
+   },
+   {
+    "letra": "B",
+    "texto": "130 μm"
+   },
+   {
+    "letra": "C",
+    "texto": "260 μm"
+   },
+   {
+    "letra": "D",
+    "texto": "390 μm"
+   },
+   {
+    "letra": "E",
+    "texto": "520 μm"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q026_img1.png",
+    "pagina": 16,
+    "bbox": [
+     171.2,
+     165.2,
+     527.1,
+     281.9
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   15,
+   16
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.6,
+     587.74528,
+     538.6891999999998,
+     598.7852800000001
+    ],
+    [
+     42.6,
+     600.46528,
+     538.5057599999993,
+     611.50528
+    ],
+    [
+     42.6,
+     613.06528,
+     538.9096,
+     624.10528
+    ],
+    [
+     42.6,
+     625.7852800000001,
+     538.85824,
+     636.82528
+    ],
+    [
+     42.6,
+     638.40528,
+     538.5609599999995,
+     649.44528
+    ],
+    [
+     42.6,
+     651.00528,
+     538.87456,
+     662.04528
+    ],
+    [
+     42.6,
+     663.72528,
+     457.84911999999997,
+     674.76528
+    ],
+    [
+     204.77,
+     687.34428,
+     538.8121600000001,
+     695.38428
+    ]
+   ],
+   "16": [
+    [
+     42.6,
+     62.18527999999992,
+     538.5831199999998,
+     73.22528
+    ],
+    [
+     42.6,
+     74.90527999999995,
+     538.4947199999997,
+     85.94528000000003
+    ],
+    [
+     42.6,
+     87.50527999999997,
+     538.84912,
+     98.54527999999993
+    ],
+    [
+     42.6,
+     100.10528,
+     538.5576799999999,
+     111.14528000000007
+    ],
+    [
+     42.6,
+     112.82528000000002,
+     538.8908799999999,
+     123.8652800000001
+    ],
+    [
+     42.6,
+     125.42527999999993,
+     538.83328,
+     136.46528
+    ],
+    [
+     42.6,
+     138.14527999999996,
+     445.19584000000003,
+     149.21839999999997
+    ],
+    [
+     171.25,
+     165.19999999999993,
+     527.0500000000001,
+     281.9
+    ],
+    [
+     42.6,
+     185.33839999999998,
+     86.34048,
+     196.37839999999994
+    ],
+    [
+     42.6,
+     197.9384,
+     92.45664000000001,
+     208.97839999999997
+    ],
+    [
+     42.6,
+     210.5684,
+     91.728,
+     221.60839999999996
+    ],
+    [
+     42.6,
+     223.28840000000002,
+     92.45664000000001,
+     234.3284
+    ],
+    [
+     42.6,
+     235.88840000000005,
+     92.45664000000001,
+     246.9284
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q026_p15.jpg",
+   "revisao/Q026_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q027",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 27,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O BMX, também conhecido como bicicross, é o caçula do ciclismo. A origem da modalidade data* *das décadas de 1960 e 1970, época em que as vertentes mais tradicionais do esporte — estrada e* *pista — já faziam parte dos Jogos Olímpicos. O BMX surgiu graças à admiração de jovens norte-* *americanos pelo MotoCross. A vontade de imitar as manobras dos ídolos, aliada à falta de* *equipamento, fez bicicletas serem utilizadas em pistas de terra. Nasceu, então, o Bicycle Moto Cross,* *ou simplesmente BMX. O BMX fez sua primeira aparição olímpica nos Jogos Olímpicos de Pequim-* *2008, com disputas tanto no masculino quanto no feminino. No Rio de Janeiro-2016, foi a terceira* *vez em que o BMX distribuiu medalhas em uma edição dos Jogos.*\n\n{{fonte:1}}\n\n{{img:1}}\n\nNa montagem de uma estrutura de uma pista de BMX, uma barra de comprimento 2R e peso P está em equilíbrio, dentro de uma superfície semiesférica de raio R, conforme mostra a figura a seguir. Considerando-se que não há atrito no ponto de apoio A, ponto mais baixo da pista, qual é o valor do coeficiente de atrito estático no ponto de apoio B, na condição de deslizamento iminente?",
+  "fontes": [
+   "Fonte: http://tecnologia.hsw.uol.com.br/fibras-opticas5.htm, acessado em: 14 de julho de 2016. (Adaptado)."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1,7"
+   },
+   {
+    "letra": "B",
+    "texto": "1,4"
+   },
+   {
+    "letra": "C",
+    "texto": "1,0"
+   },
+   {
+    "letra": "D",
+    "texto": "0,7"
+   },
+   {
+    "letra": "E",
+    "texto": "0,5"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q027_img1.png",
+    "pagina": 16,
+    "bbox": [
+     317.1,
+     488.1,
+     460.0,
+     589.6
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.6,
+     299.09527999999995,
+     538.6863199999999,
+     310.13527999999997
+    ],
+    [
+     42.6,
+     311.81528,
+     538.88464,
+     322.86632
+    ],
+    [
+     42.6,
+     324.41527999999994,
+     538.85632,
+     335.46631999999994
+    ],
+    [
+     42.6,
+     337.01527999999996,
+     538.8894399999999,
+     348.05528
+    ],
+    [
+     42.6,
+     349.75527999999997,
+     538.6071199999998,
+     360.79528
+    ],
+    [
+     42.6,
+     362.35528,
+     538.97632,
+     373.39528
+    ],
+    [
+     42.6,
+     375.07527999999996,
+     538.88752,
+     386.11528
+    ],
+    [
+     42.6,
+     387.67528,
+     367.98104,
+     398.71528
+    ],
+    [
+     156.38,
+     405.53427999999997,
+     538.80016,
+     413.57428
+    ],
+    [
+     42.6,
+     436.03527999999994,
+     538.726,
+     447.07527999999996
+    ],
+    [
+     42.6,
+     448.63527999999997,
+     538.84912,
+     459.67528
+    ],
+    [
+     42.6,
+     461.23528,
+     538.74736,
+     472.27528
+    ],
+    [
+     42.6,
+     473.95527999999996,
+     479.94247999999993,
+     484.99528
+    ],
+    [
+     317.1,
+     488.05,
+     460.0,
+     589.6
+    ],
+    [
+     42.6,
+     499.30528,
+     70.80624,
+     510.34528
+    ],
+    [
+     42.6,
+     511.90527999999995,
+     70.80624,
+     522.9452799999999
+    ],
+    [
+     42.6,
+     524.50528,
+     70.20624,
+     535.54528
+    ],
+    [
+     42.6,
+     537.22528,
+     70.80624,
+     548.26528
+    ],
+    [
+     42.6,
+     549.82528,
+     70.84223999999999,
+     560.86528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q027_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q028",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 28,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Supondo-se que uma equação de onda de ultrassom, utilizada em um exame pré-natal, tem o deslocamento ao longo da direção y dado pela relação y(x, t) = 50sen[(60 × 10<sup>6</sup>)t + (4 × 10<sup>3</sup>)x], onde x e y estão medidos em micrômetros e o tempo t, em segundos. Essa equação representa uma onda",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "que viaja com uma velocidade de 15 mm/s no sentido negativo do eixo x."
+   },
+   {
+    "letra": "B",
+    "texto": "de amplitude 25 µm que viaja ao longo do sentido negativo do eixo x. -1"
+   },
+   {
+    "letra": "C",
+    "texto": "que possui número de onda igual a 40 m ."
+   },
+   {
+    "letra": "D",
+    "texto": "de comprimento de onda 60 µm."
+   },
+   {
+    "letra": "E",
+    "texto": "de frequência 10<sup>6</sup> MHz."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.6,
+     610.7852800000001,
+     538.8582399999999,
+     621.82528
+    ],
+    [
+     42.6,
+     623.50528,
+     538.8784,
+     634.54528
+    ],
+    [
+     42.6,
+     636.12528,
+     527.7136,
+     647.1652799999999
+    ],
+    [
+     42.6,
+     657.96528,
+     412.45624000000004,
+     669.00528
+    ],
+    [
+     42.6,
+     670.56528,
+     392.72255999999976,
+     681.60528
+    ],
+    [
+     254.33,
+     681.48072,
+     260.47976,
+     688.4407199999999
+    ],
+    [
+     42.6,
+     683.2852800000001,
+     263.51912,
+     694.32528
+    ],
+    [
+     42.6,
+     695.88528,
+     213.93055999999999,
+     706.9252799999999
+    ],
+    [
+     42.6,
+     708.60528,
+     169.88096,
+     719.64528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q028_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q029",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 29,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nUm pêndulo simples de massa m e comprimento L está imerso em um fluido viscoso, num local onde a aceleração da gravidade tem módulo g que aponta verticalmente para baixo. Considerando-se que a força de arrasto, que atua sobre o pêndulo, devido ao fluido, seja proporcional à sua velocidade e que ela não possua efeitos significativos sobre o fio, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A energia mecânica é conservada."
+   },
+   {
+    "letra": "B",
+    "texto": "A amplitude de oscilação é constante."
+   },
+   {
+    "letra": "C",
+    "texto": "O pêndulo tenderá ao repouso mais rapidamente, se a sua massa aumentar."
+   },
+   {
+    "letra": "D",
+    "texto": "A força de tração na corda aumenta, se a massa do pêndulo aumentar."
+   },
+   {
+    "letra": "E",
+    "texto": "A força de tração na corda diminui , se o comprimento do pêndulo diminuir."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q029_img1.png",
+    "pagina": 17,
+    "bbox": [
+     421.2,
+     132.0,
+     541.0,
+     218.8
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     62.18527999999992,
+     538.74928,
+     73.22528
+    ],
+    [
+     42.6,
+     74.90527999999995,
+     538.4174399999995,
+     85.94528000000003
+    ],
+    [
+     42.6,
+     87.50527999999997,
+     538.6052,
+     98.54527999999993
+    ],
+    [
+     42.6,
+     100.10528,
+     538.6095199999999,
+     111.14528000000007
+    ],
+    [
+     42.6,
+     112.70528000000002,
+     153.68912,
+     123.74527999999998
+    ],
+    [
+     42.6,
+     138.14527999999996,
+     224.80415999999997,
+     149.18528000000003
+    ],
+    [
+     42.6,
+     150.74527999999998,
+     240.74591999999996,
+     161.78527999999994
+    ],
+    [
+     421.2,
+     131.95000000000005,
+     540.95,
+     218.75
+    ],
+    [
+     42.6,
+     163.34528,
+     410.18039,
+     174.38528000000008
+    ],
+    [
+     55.54763,
+     176.06527999999992,
+     105.20075,
+     187.10527999999988
+    ],
+    [
+     42.6,
+     188.66527999999994,
+     403.57912,
+     199.70528000000002
+    ],
+    [
+     42.6,
+     201.38527999999997,
+     409.07284,
+     212.42528000000004
+    ],
+    [
+     55.54763,
+     214.01527999999996,
+     97.11322999999999,
+     225.05527999999993
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q029_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q030",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 30,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um corpo negro tem um pico de emissão em uma temperatura cujo comprimento de onda de sua radiação vale 9000 Å. Nessa temperatura, a radiação que emerge desse corpo não produz efeito fotoelétrico em uma placa metálica. Aumentando a temperatura do corpo negro, sua radiação emitida aumenta 81 vezes, causando efeito fotoelétrico na placa para o comprimento de onda de pico dessa nova temperatura. A energia necessária para frear esses fotoelétrons emitidos é equivalente à diferença de energia dos níveis n = 2 e n = 3 do átomo de hidrogênio de Bohr. Sabendo-se que a *Lei* *de Wien* relaciona o comprimento de onda de pico de emissão com a temperatura do corpo negro na forma λT = constante, é **CORRETO** afirmar que a função trabalho do metal vale aproximadamente\n\nDados: energia do átomo de hidrogênio de Bohr no estado fundamental = -13,6 eV, constante de Planck = 4,14 x 10<sup>-15</sup> eVs, 1 eV = 1,6 x 10<sup>-19</sup> J.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1,15 eV."
+   },
+   {
+    "letra": "B",
+    "texto": "2,25 eV."
+   },
+   {
+    "letra": "C",
+    "texto": "4,50 eV."
+   },
+   {
+    "letra": "D",
+    "texto": "7,25 eV."
+   },
+   {
+    "letra": "E",
+    "texto": "10,75 eV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     245.09528,
+     538.4985599999997,
+     256.1352800000001
+    ],
+    [
+     42.6,
+     257.6952799999999,
+     538.5719999999995,
+     268.73527999999993
+    ],
+    [
+     42.6,
+     270.41527999999994,
+     538.74184,
+     281.45527999999996
+    ],
+    [
+     42.6,
+     283.01527999999996,
+     538.4615999999996,
+     294.05528
+    ],
+    [
+     42.6,
+     295.61528,
+     538.4174399999996,
+     306.65528
+    ],
+    [
+     42.6,
+     308.33527999999995,
+     538.84912,
+     319.37528
+    ],
+    [
+     42.6,
+     320.93528,
+     538.5436799999999,
+     331.97528
+    ],
+    [
+     42.6,
+     333.53527999999994,
+     522.7642400000001,
+     344.60839999999996
+    ],
+    [
+     42.6,
+     358.89171999999996,
+     536.15452,
+     368.85171999999994
+    ],
+    [
+     42.6,
+     370.29172,
+     183.98888,
+     380.25172
+    ],
+    [
+     42.6,
+     394.63527999999997,
+     96.45312,
+     405.67528
+    ],
+    [
+     154.34,
+     394.63527999999997,
+     208.14896000000002,
+     405.67528
+    ],
+    [
+     253.61,
+     394.63527999999997,
+     306.81176,
+     405.67528
+    ],
+    [
+     352.87,
+     394.63527999999997,
+     406.67896,
+     405.67528
+    ],
+    [
+     459.1,
+     394.63527999999997,
+     519.03616,
+     405.67528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q030_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q031",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 31,
+  "area": "",
+  "texto_base_id": "P4213-T4",
+  "textos_base_ids": [
+   "P4213-T4"
+  ],
+  "enunciado": "Quando pensamos na relação entre o Estado e o movimento operário no Brasil da Primeira República, logo temos em mente o velho jargão: a “questão social” deveria ser tratada como “questão de polícia”. Há muito, fora desconstruída a atribuição dessa frase a Washington Luís, que, aliás, antes de ser presidente da República, havia sido Secretário de Segurança Pública e Governador de São Paulo, além de prefeito daquela capital durante o período das grandes greves entre 1917 e 1919.\n\n{{fonte:1}}\n\nA equivocada manutenção da responsabilidade da autoria dessa frase ao presidente deposto em 1930 teve como principal consequência para o imaginário social a ideia de que a",
+  "fontes": [
+   "OLIVEIRA, Tiago Bernadon de. **Pela reforma, contra a revolução: Notas sobre o reformismo e colaboracionismo na história do**  \n**movimento operário brasileiro na Primeira República**. Paraíba: Revista Crítica Histórica, Ano III, n 5, julho, 2012, p. 33. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "repressão às classes populares não passou de retórica da oligarquia."
+   },
+   {
+    "letra": "B",
+    "texto": "ascensão do novo grupo garantiria o efetivo exercício da democracia."
+   },
+   {
+    "letra": "C",
+    "texto": "coerção contra as classes populares foi monopólio da República Velha."
+   },
+   {
+    "letra": "D",
+    "texto": "implantação de sindicatos seria a única forma de garantir proteção social."
+   },
+   {
+    "letra": "E",
+    "texto": "regulamentação da relação capital/trabalho só seria possível no Sudeste industrial."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     487.03527999999994,
+     538.6435999999998,
+     498.07527999999996
+    ],
+    [
+     42.6,
+     499.78527999999994,
+     538.7668,
+     510.85839999999996
+    ],
+    [
+     42.6,
+     512.38528,
+     538.84384,
+     523.4584
+    ],
+    [
+     42.6,
+     525.10528,
+     538.6161599999996,
+     536.14528
+    ],
+    [
+     42.6,
+     537.70528,
+     538.4174399999995,
+     548.74528
+    ],
+    [
+     42.6,
+     550.30528,
+     135.03791999999999,
+     561.34528
+    ],
+    [
+     57.12,
+     568.16428,
+     531.6485599999997,
+     576.2042799999999
+    ],
+    [
+     57.96,
+     577.28428,
+     531.5153599999996,
+     585.32428
+    ],
+    [
+     42.6,
+     612.46528,
+     538.77496,
+     623.50528
+    ],
+    [
+     42.6,
+     625.06528,
+     436.46303999999975,
+     636.10528
+    ],
+    [
+     42.6,
+     650.40528,
+     402.86096000000003,
+     661.44528
+    ],
+    [
+     42.6,
+     663.12528,
+     403.28735999999986,
+     674.1652799999999
+    ],
+    [
+     42.6,
+     675.72528,
+     412.60511999999983,
+     686.76528
+    ],
+    [
+     42.6,
+     688.32528,
+     422.8612799999996,
+     699.36528
+    ],
+    [
+     42.6,
+     701.04528,
+     468.8962399999999,
+     712.08528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q031_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q032",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 32,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O esporte mais popular do Brasil e da Alemanha foi trazido por estrangeiros e para a diversão de uma elite branca, de classe média alta e urbana. Ao contrário do atletismo, da natação, da ginástica coletiva, das corridas de cavalo ou do remo (esportes de sucesso na época), o futebol era apenas um entretenimento dos finais de semana ou campeonatos restritos para alegrar e exercitar amadores.\n\n{{fonte:1}}\n\nEm ambos os países, a prática desse esporte popular nos anos 1920 teve como principal característica social a",
+  "fontes": [
+   "SILVA, Francisco Carlos Teixeira da. **As origens do futebol na Alemanha**. In: http://diariodonordeste.verdesmares.com.br/cadernos/jogada/as-origens-do-futebol-na-alemanha-i-1.185334"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "ligação direta com o nascente comunismo em escala mundial."
+   },
+   {
+    "letra": "B",
+    "texto": "aceitação ampla de diversos grupos aristocráticos, promovendo a diversidade étnica."
+   },
+   {
+    "letra": "C",
+    "texto": "restrição por parte do Estado que identificava, nesse esporte, um caráter subversivo."
+   },
+   {
+    "letra": "D",
+    "texto": "rejeição por parte da população, tendo em vista ser um esporte militarizado."
+   },
+   {
+    "letra": "E",
+    "texto": "mobilização civil, sendo esse amplamente praticado em escolas, ruas e campos improvisados."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.6,
+     62.18527999999992,
+     538.4169599999997,
+     73.22528
+    ],
+    [
+     42.6,
+     74.90527999999995,
+     538.9168000000001,
+     85.94528000000003
+    ],
+    [
+     42.6,
+     87.50527999999997,
+     538.4947199999996,
+     98.54527999999993
+    ],
+    [
+     42.6,
+     100.10528,
+     538.5388799999993,
+     111.14528000000007
+    ],
+    [
+     42.6,
+     112.82528000000002,
+     94.63152,
+     123.8652800000001
+    ],
+    [
+     250.61,
+     124.80427999999995,
+     531.6485200000001,
+     132.8442799999999
+    ],
+    [
+     147.86,
+     134.16427999999996,
+     531.71404,
+     142.20427999999993
+    ],
+    [
+     42.6,
+     159.98528,
+     478.6334399999995,
+     171.02527999999995
+    ],
+    [
+     42.6,
+     172.58528,
+     148.47824,
+     183.6252800000001
+    ],
+    [
+     42.6,
+     192.14527999999996,
+     367.3079999999999,
+     203.18528000000003
+    ],
+    [
+     42.6,
+     204.77527999999995,
+     479.28904,
+     215.81527999999992
+    ],
+    [
+     42.6,
+     217.49527999999998,
+     477.86199999999997,
+     228.53527999999994
+    ],
+    [
+     42.6,
+     230.09528,
+     434.5244,
+     241.13528000000008
+    ],
+    [
+     42.6,
+     242.81527999999992,
+     525.5778399999999,
+     253.85527999999988
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q032_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q033",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 33,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Com o advento da Revolução Russa, os líderes revolucionários perceberam a necessidade de se criar uma identidade visual que representasse a Revolução e seus ideais. Dos signos adotados, a foice e o martelo foram os mais importantes e se tornaram símbolos universais do socialismo.\n\n{{fonte:1}}\n\n{{img:1}}\n\nEsses dois símbolos representam, respectivamente, a",
+  "fontes": [
+   "SANTOS, Leonardo. Construtivismo Russo. **A arte e o design gráfico dos cartazes soviéticos**. Lajeado: Monografia de final de curso. Univates, 2014."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "dissolução do Estado para a implementação do socialismo real."
+   },
+   {
+    "letra": "B",
+    "texto": "luta da URSS na primeira Guerra Mundial contra a Tríplice Entente."
+   },
+   {
+    "letra": "C",
+    "texto": "união da classe operária com a camponesa em prol de melhores condições sociais."
+   },
+   {
+    "letra": "D",
+    "texto": "dissolução dos sovietes na regulamentação da produção de material para indústria e campo."
+   },
+   {
+    "letra": "E",
+    "texto": "sociedade comunista composta pelos operários, camponeses, militares, intelectuais e pela juventude."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q033_img1.png",
+    "pagina": 18,
+    "bbox": [
+     62.6,
+     355.7,
+     236.9,
+     448.6
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.6,
+     280.73528,
+     538.91824,
+     291.77528
+    ],
+    [
+     42.6,
+     293.33527999999995,
+     538.91824,
+     304.37528
+    ],
+    [
+     42.6,
+     306.05528,
+     500.03175999999996,
+     317.09528
+    ],
+    [
+     54.84,
+     322.59427999999997,
+     538.6244800000001,
+     330.63428
+    ],
+    [
+     483.22,
+     331.95428,
+     538.8166000000001,
+     339.99428
+    ],
+    [
+     62.64,
+     355.68,
+     236.88,
+     448.56
+    ],
+    [
+     248.57,
+     351.07527999999996,
+     512.87824,
+     362.11528
+    ],
+    [
+     255.65,
+     377.11528,
+     537.25864,
+     388.15528
+    ],
+    [
+     269.93,
+     389.83527999999995,
+     345.81896,
+     400.87528
+    ],
+    [
+     255.65,
+     402.43528,
+     537.4408,
+     413.47528
+    ],
+    [
+     269.93,
+     415.03527999999994,
+     350.14664,
+     426.07527999999996
+    ],
+    [
+     255.65,
+     427.75527999999997,
+     537.48064,
+     438.79528
+    ],
+    [
+     269.93,
+     440.35528,
+     422.73464,
+     451.39528
+    ],
+    [
+     255.65,
+     453.07527999999996,
+     537.2701599999999,
+     464.11528
+    ],
+    [
+     269.93,
+     465.67528,
+     494.34008,
+     476.71528
+    ],
+    [
+     255.65,
+     478.25624799999997,
+     537.2915600000002,
+     489.320248
+    ],
+    [
+     269.93,
+     491.02527999999995,
+     530.56624,
+     502.06528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q034",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 34,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "as aulas de francês e de espanhol\n\n{{img:1}}\n\nDe inglês, de italiano, de alemão  \nA gente aprende sempre a lição: *Good-morning*, *good-morning my dear*  \n*Buon giorno*, *bonjour mon amour*  \nMas o que é melhor dos três é o português: Bom dia, meu amor, amor  \n*I love you, I love you, je t’aime*  \n*Te quiero, te quiero amor*  \nMas o que é melhor dos três é o português: Eu te amo, meu amor.  \n*Bom dia, meu amor!*.  \nCARVALHO, Joubert; MARIANO, Olegário.\n\nEsse samba foi imortalizado na voz de Carmem Miranda, gravado em 1933, e representa uma das mais importantes características sociopolíticas daquele período, denominada de",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "regionalismo. b) nacionalismo. c) antipatriotismo. d) estrangeirismo. e)republicanismo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q034_img1.png",
+    "pagina": 18,
+    "bbox": [
+     64.8,
+     521.3,
+     71.3,
+     529.2
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.6,
+     521.14528,
+     239.6856,
+     532.2184
+    ],
+    [
+     64.8,
+     521.28,
+     71.28,
+     529.2
+    ],
+    [
+     63.984,
+     533.7784,
+     223.69615999999996,
+     544.8184
+    ],
+    [
+     63.984,
+     546.34528,
+     413.14984,
+     557.4184
+    ],
+    [
+     63.984,
+     559.06528,
+     224.83039999999997,
+     570.10528
+    ],
+    [
+     63.984,
+     571.6984,
+     406.9526399999998,
+     582.7384
+    ],
+    [
+     63.984,
+     584.39632,
+     211.29071999999996,
+     595.43632
+    ],
+    [
+     63.984,
+     596.98528,
+     187.53656,
+     608.02528
+    ],
+    [
+     63.984,
+     609.70528,
+     388.73335999999995,
+     620.7783999999999
+    ],
+    [
+     63.984,
+     622.30528,
+     166.16912,
+     633.34528
+    ],
+    [
+     367.87,
+     634.42428,
+     521.6028399999999,
+     642.4642799999999
+    ],
+    [
+     42.6,
+     657.96528,
+     538.5278399999995,
+     669.00528
+    ],
+    [
+     42.6,
+     670.56528,
+     434.0535199999999,
+     681.60528
+    ],
+    [
+     42.6,
+     691.32528,
+     539.68912,
+     702.36528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [
+   "imagem 1 é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição",
+   "1 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q034_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q035",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 35,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "No período imediatamente posterior à Segunda Guerra Mundial, registraram-se numerosas tentativas de apagar seus vestígios. Perto de Cingapura, onde sete prisioneiros de guerra americanos haviam sido executados onze dias antes da rendição do Japão, assim que um dos oficiais responsáveis pelas execuções fora informado da rendição, ele e os outros algozes dirigiram-se imediatamente ao aeroporto, desenterraram os cadáveres das vítimas, levaram-nos para o campo, queimaram-nos numa grande fogueira e lançaram as cinzas no mar.\n\n{{fonte:1}}\n\nFenômenos como esse foram comuns no imediato Pós-Guerra. Uma consequência política desses eventos na Europa foi a",
+  "fontes": [
+   "(GILBERT, Martin. **A Segunda Guerra Mundial**. Rio de Janeiro: Casa da Palavra, 2014, p. 883.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "obrigação de esquecer os crimes cometidos pelos Estados envolvidos."
+   },
+   {
+    "letra": "B",
+    "texto": "responsabilização única da Alemanha por ter violado as leis da guerra."
+   },
+   {
+    "letra": "C",
+    "texto": "instituição de tribunais para julgamento de crimes contra a humanidade."
+   },
+   {
+    "letra": "D",
+    "texto": "relativização dos crimes cometidos no Ocidente e Oriente, durante a guerra."
+   },
+   {
+    "letra": "E",
+    "texto": "homologação de anistia para todos os que lutaram nos *fronts,* durante a guerra."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.6,
+     62.18527999999992,
+     538.87264,
+     73.22528
+    ],
+    [
+     42.6,
+     74.90527999999995,
+     538.5719999999994,
+     85.94528000000003
+    ],
+    [
+     42.6,
+     87.50527999999997,
+     538.86016,
+     98.54527999999993
+    ],
+    [
+     42.6,
+     100.10528,
+     538.85632,
+     111.14528000000007
+    ],
+    [
+     42.6,
+     112.82528000000002,
+     538.64656,
+     123.8652800000001
+    ],
+    [
+     42.6,
+     125.42527999999993,
+     415.64919999999995,
+     136.46528
+    ],
+    [
+     194.69,
+     144.36428,
+     538.7963199999998,
+     152.40427999999997
+    ],
+    [
+     42.6,
+     166.82528000000002,
+     525.9510399999999,
+     177.8652800000001
+    ],
+    [
+     42.6,
+     179.54527999999993,
+     158.91824,
+     190.5852799999999
+    ],
+    [
+     42.6,
+     199.10528,
+     409.29272,
+     210.14528000000007
+    ],
+    [
+     42.6,
+     211.73528,
+     409.56911999999977,
+     222.77527999999995
+    ],
+    [
+     42.6,
+     224.33528,
+     414.9235199999999,
+     235.3752800000001
+    ],
+    [
+     42.6,
+     237.05527999999993,
+     435.82936,
+     248.0952799999999
+    ],
+    [
+     42.6,
+     249.65527999999995,
+     452.98936,
+     260.69528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [
+   "palavra dividida no fim da linha com hífen incerto — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q035_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q036",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 36,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nUganda passou por um processo complexo de negociaç es de independência e teve uma história independente bastante turbulenta até 1962. Vivenciou um sistema parlamentarista e outro presidencialista, ambos sob a liderança de Milton bote, deposto em um golpe liderado por Idi Amin. Uma invasão tanzaniana derrubou esse regime e instaurou um governo de transição, cuja função principal foi a realização de eleiç es gerais.\n\n{{fonte:1}}\n\nUm dos períodos mais conturbados na história de Uganda foi a segunda metade do século XX, especialmente o governo Idi Amin. As principais características sociopolíticas desse governo foram",
+  "fontes": [
+   "KANTER, Marcelo de Mello. **Política Externa e Integração na África Oriental: um estudo sobre Uganda, Tanzânia e Quênia**. Dissertação de Mestrado em Relações Internacionais: Universidade Federal do Rio Grande do Sul, 2015. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a nacionalização de empresas e terras e o uso excessivo da violência."
+   },
+   {
+    "letra": "B",
+    "texto": "a abertura política e a implementação da democracia liberal no país."
+   },
+   {
+    "letra": "C",
+    "texto": "o rechaço à ideia de africanização e a privatização das empresas nacionais."
+   },
+   {
+    "letra": "D",
+    "texto": "os acordos bilaterais com a América do Sul e os tratados militares com a China."
+   },
+   {
+    "letra": "E",
+    "texto": "o apoio militar nos Estados Unidos e o combate às milícias da oposição."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q036_img1.png",
+    "pagina": 19,
+    "bbox": [
+     288.0,
+     312.5,
+     295.9,
+     321.8
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.6,
+     287.57527999999996,
+     538.8832,
+     298.6484
+    ],
+    [
+     42.6,
+     300.3284,
+     538.6310399999995,
+     311.3684
+    ],
+    [
+     288.0,
+     312.48,
+     295.92,
+     321.84000000000003
+    ],
+    [
+     42.6,
+     312.89527999999996,
+     538.4830399999997,
+     323.9684
+    ],
+    [
+     42.6,
+     325.61528,
+     538.80376,
+     336.6884
+    ],
+    [
+     42.6,
+     338.24839999999995,
+     255.37392,
+     349.28839999999997
+    ],
+    [
+     80.304,
+     357.17428,
+     538.85512,
+     365.21428000000003
+    ],
+    [
+     126.02,
+     366.53427999999997,
+     538.6910799999997,
+     374.57428
+    ],
+    [
+     42.6,
+     393.43528,
+     538.4836799999998,
+     404.47528
+    ],
+    [
+     42.6,
+     406.03527999999994,
+     526.33888,
+     417.07527999999996
+    ],
+    [
+     42.6,
+     424.51527999999996,
+     407.3937599999998,
+     435.55528
+    ],
+    [
+     42.6,
+     437.11528,
+     397.89464,
+     448.15528
+    ],
+    [
+     42.6,
+     449.83527999999995,
+     435.67447999999996,
+     460.87528
+    ],
+    [
+     42.6,
+     462.43528,
+     454.25536,
+     473.47528
+    ],
+    [
+     42.6,
+     475.03527999999994,
+     416.71199999999976,
+     486.07527999999996
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [
+   "PENDENTE: há um trecho desenhado (sem texto no PDF) entre “negociaç” e “es” na linha “36. Uganda passou por um processo complexo de negociaç es de independê” — transcrever lendo a imagem",
+   "imagem 1 é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição",
+   "PENDENTE: há um trecho desenhado (sem texto no PDF) entre “eleiç” e “es” na linha “principal foi a realização de eleiç es gerais.” — transcrever lendo a imagem",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q036_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q037",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 37,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em 1971, Tonico e Tinoco elogiaram os militares, cantando os versos “um governo varonil/vamos pra frente Brasil”. Zezé di Camargo acusava os sertanejos universitários de “mentira marqueteira”, mas depois afirmou que não há diferença entre seu estilo e o deles. Nelson Pereira dos Santos, pai do Cinema Novo, dirigiu um filme sobre Milionário & José Rico. O sertanejo Dalvan teve papel importante na primeira eleição de Lula como deputado federal. Leandro, Leonardo e Sula Miranda apoiaram Collor quando a sociedade brasileira pedia seu impeachment.\n\n{{fonte:1}}\n\nO final do texto se remete a um período da história recente do Brasil em que a música sertaneja ficou marcada pela",
+  "fontes": [
+   "ALONSO, Gustavo. **Cowboys do asfalto. Música sertaneja e modernização brasileira**. Rio de Janeiro: Record, 2015."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "crítica ao regime civil-militar que acabara de ser destituído."
+   },
+   {
+    "letra": "B",
+    "texto": "rejeição ao mundo rural, defendendo os benefícios da urbanização."
+   },
+   {
+    "letra": "C",
+    "texto": "defesa da modernização do Brasil, dando ênfase às novas tecnologias."
+   },
+   {
+    "letra": "D",
+    "texto": "associação com os grandes industriais paulistas na promoção do gênero."
+   },
+   {
+    "letra": "E",
+    "texto": "aliança com a política, apoiando um presidente que viria a ser impedido pelo congresso."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.6,
+     513.10528,
+     538.77064,
+     524.1784
+    ],
+    [
+     42.6,
+     525.70528,
+     538.4207999999993,
+     536.7783999999999
+    ],
+    [
+     42.6,
+     538.30528,
+     538.4284799999996,
+     549.34528
+    ],
+    [
+     42.6,
+     551.02528,
+     538.69288,
+     562.06528
+    ],
+    [
+     42.6,
+     563.62528,
+     538.6492799999997,
+     574.6652799999999
+    ],
+    [
+     42.6,
+     576.34528,
+     392.99855999999994,
+     587.38528
+    ],
+    [
+     111.02,
+     595.28428,
+     538.7704,
+     603.32428
+    ],
+    [
+     42.6,
+     617.74528,
+     538.6051199999996,
+     628.7852800000001
+    ],
+    [
+     42.6,
+     630.36528,
+     109.31472,
+     641.40528
+    ],
+    [
+     42.6,
+     652.20528,
+     351.12416,
+     663.24528
+    ],
+    [
+     42.6,
+     664.80528,
+     392.93071999999995,
+     675.84528
+    ],
+    [
+     42.6,
+     677.52528,
+     411.9427199999997,
+     688.56528
+    ],
+    [
+     42.6,
+     690.12528,
+     422.4086399999999,
+     701.1652799999999
+    ],
+    [
+     42.6,
+     702.84528,
+     494.53479999999996,
+     713.88528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q037_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4213-Q038",
+  "prova_id": "P4213",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 38,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Desde 1974, quando Marcos Freire pôs em cheque o poder político das oligarquias do Estado de Pernambuco, derrotando-as em eleições majoritárias para o Senado Federal, esse Estado tem passado pela adoção de dois modelos básicos de desenvolvimento. Um deles, adotado pelos representantes das oligarquias tradicionais, e predominou nos governos de Marco Maciel, Roberto Magalhães e Joaquim Francisco. Esse é denominado de modelo conservador. O segundo modelo ocorreu nos dois mandatos do govenador Miguel Arraes.\n\n{{fonte:1}}\n\nO segundo modelo de desenvolvimento, implementado no Estado de Pernambuco, no governo citado pelo texto, foi o",
+  "fontes": [
+   "BARROS, Alexandre Rands. **Perspectivas do desenvolvimento de Pernambuco. (Adaptado)** In:ftp://ftp.repec.org/opt/ReDIF/RePEc/dtm/wpaper/BARROSAlexandrePerspectivasdoDesenvolvimentode PernambucoREN14.pdf"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "popular, com foco na elevação do PIB."
+   },
+   {
+    "letra": "B",
+    "texto": "comunista, priorizando a reforma agrária."
+   },
+   {
+    "letra": "C",
+    "texto": "corporativo, ampliando o poder do operariado."
+   },
+   {
+    "letra": "D",
+    "texto": "anarquista, diminuindo a participação do Estado."
+   },
+   {
+    "letra": "E",
+    "texto": "sindical, dando ênfase aos movimentos trabalhistas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.6,
+     62.18527999999992,
+     538.4721599999998,
+     73.22528
+    ],
+    [
+     42.6,
+     74.90527999999995,
+     538.5843199999997,
+     85.94528000000003
+    ],
+    [
+     42.6,
+     87.50527999999997,
+     538.9072,
+     98.54527999999993
+    ],
+    [
+     42.6,
+     100.10528,
+     538.79032,
+     111.14528000000007
+    ],
+    [
+     42.6,
+     112.82528000000002,
+     538.4947199999995,
+     123.8652800000001
+    ],
+    [
+     42.6,
+     125.42527999999993,
+     319.60712,
+     136.46528
+    ],
+    [
+     196.85,
+     146.64427999999998,
+     538.68436,
+     154.68427999999994
+    ],
+    [
+     162.5,
+     156.00428,
+     538.4697199999999,
+     164.04427999999996
+    ],
+    [
+     454.3,
+     165.24428,
+     538.79236,
+     173.28427999999997
+    ],
+    [
+     42.6,
+     187.58528,
+     538.6816,
+     198.6252800000001
+    ],
+    [
+     42.6,
+     200.18527999999992,
+     117.34079999999997,
+     211.22528
+    ],
+    [
+     42.6,
+     219.77527999999995,
+     253.06472,
+     230.81527999999992
+    ],
+    [
+     42.6,
+     232.37527999999998,
+     265.21007999999995,
+     243.41528000000005
+    ],
+    [
+     42.6,
+     245.09528,
+     289.71887999999996,
+     256.1352800000001
+    ],
+    [
+     42.6,
+     257.6952799999999,
+     301.96223999999995,
+     268.73527999999993
+    ],
+    [
+     42.6,
+     270.41527999999994,
+     319.008,
+     281.45527999999996
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_2_DIA.pdf",
+  "gabarito_origem": [
+   "P4215"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q038_p20.jpg"
+  ]
+ }
+]

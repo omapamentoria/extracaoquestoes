@@ -1,0 +1,140 @@
+<title>Pares em Dúvida MAPA</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+/* layout: um par por cartão; antiga | nova lado a lado; escolha embaixo */
+:root{
+  --bg:#f3f4f6; --panel:#ffffff; --ink:#1b2230; --muted:#5d6678; --line:#dde1e8;
+  --accent:#1f4e9c; --accent-soft:#e6edf8; --ok:#1f7a4d; --ok-soft:#e3f3ea; --warn:#9a5b00; --warn-soft:#fbf0dc;
+  --paper:#fdfdfb; --onacc:#ffffff;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#12151b;--panel:#1a1f28;--ink:#e6e9ef;--muted:#9aa3b4;--line:#2c3340;--accent:#7fa7ea;--accent-soft:#1f2b40;--ok:#6fcf9c;--ok-soft:#173226;--warn:#f0b35a;--warn-soft:#3a2c14;--paper:#20252f;--onacc:#0d1320}}
+:root[data-theme="dark"]{color-scheme:dark;--bg:#12151b;--panel:#1a1f28;--ink:#e6e9ef;--muted:#9aa3b4;--line:#2c3340;--accent:#7fa7ea;--accent-soft:#1f2b40;--ok:#6fcf9c;--ok-soft:#173226;--warn:#f0b35a;--warn-soft:#3a2c14;--paper:#20252f;--onacc:#0d1320}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:14px;line-height:1.5;padding-inline:16px;padding-block:0 40px}
+.wrap{max-width:1400px;margin:0 auto}
+header{padding-block:20px 12px;border-bottom:1px solid var(--line);margin-bottom:14px}
+h1{font-size:20px;margin:0;text-wrap:balance}
+.sub{color:var(--muted);margin:4px 0 0;max-width:85ch}
+.stats{display:flex;flex-wrap:wrap;gap:6px 18px;color:var(--muted);font-size:13px;margin-top:8px;font-variant-numeric:tabular-nums}
+.stats b{color:var(--ink)}
+.par{background:var(--panel);border:1px solid var(--line);border-radius:10px;margin-bottom:16px;overflow:hidden}
+.par.feito{border-color:var(--ok)}
+.phead{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;padding:10px 14px;border-bottom:1px solid var(--line);background:var(--warn-soft);color:var(--warn)}
+.phead b{color:var(--ink);font-family:var(--mono);font-weight:500}
+.cols{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+.col{padding:14px;min-width:0}
+.col+.col{border-left:1px solid var(--line)}
+.col h3{margin:0 0 4px;font-size:11.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.orig{font-size:12.5px;color:var(--muted);margin-bottom:8px}
+.ext{font-family:var(--serif);font-size:15px;line-height:1.55;background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:12px 14px}
+.ext p{margin:0 0 .7em}
+.ext img{display:block;max-width:100%;margin:.4em 0 .8em;background:#fff;border:1px dashed var(--line);border-radius:4px}
+.fonte{font-family:var(--sans);font-size:12px;color:var(--muted)}
+ol.alts{list-style:none;margin:8px 0 0;padding:0;display:grid;gap:4px}
+ol.alts li{display:grid;grid-template-columns:26px minmax(0,1fr);gap:8px;padding:3px 6px;border-radius:5px}
+ol.alts li.certa{background:var(--ok-soft)}
+.letra{font-family:var(--sans);font-weight:600;width:22px;height:22px;border-radius:50%;display:grid;place-items:center;border:1.5px solid var(--ink);font-size:12px}
+li.certa .letra{background:var(--ok);border-color:var(--ok);color:var(--onacc)}
+.gab{font-family:var(--sans);font-size:13px;margin-top:8px}
+.coment{font-family:var(--sans);font-size:12.5px;color:var(--muted);margin-top:8px;border-top:1px solid var(--line);padding-top:8px}
+.tblw{overflow-x:auto}
+table{border-collapse:collapse;font-size:13px}
+td,th{border:1px solid var(--line);padding:3px 6px}
+.escolha{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:10px 14px;border-top:1px solid var(--line);background:var(--bg)}
+.escolha button{font:inherit;border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:6px;padding:6px 12px;cursor:pointer}
+.escolha button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--onacc)}
+.escolha input{font:inherit;flex:1 1 220px;min-width:0;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--ink)}
+.salvo{font-size:12px;color:var(--muted)}
+.aviso{background:var(--warn-soft);color:var(--warn);border-radius:8px;padding:8px 12px;margin:10px 0;font-size:13px}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+@media (max-width:900px){.cols{grid-template-columns:1fr}.col+.col{border-left:0;border-top:1px solid var(--line)}}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Pares em dúvida — junção do banco antigo com o novo</h1>
+    <p class="sub">Cada cartão é a mesma questão nas duas extrações. O código não decidiu sozinho porque os gabaritos são diferentes ou porque só a antiga tem figura. Escolha qual extração fica. O comentário da antiga continua de qualquer jeito. Se o gabarito certo não for o da versão escolhida, escreva no campo de nota.</p>
+    <div class="stats" id="stats"></div>
+  </header>
+  <div id="avisoDb" class="aviso" hidden>Não foi possível salvar as escolhas neste acesso. Entre na conta com permissão de edição.</div>
+  <main id="main"></main>
+</div>
+
+<script>
+window.MathJax = { tex: { inlineMath: [["\\(", "\\)"]] }, startup: { typeset: false } };
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-svg-full.js" async></script>
+<script>
+const DADOS = /*DADOS*/[];
+const $ = s => document.querySelector(s);
+let ESC = {}, db = null;
+function esc(s){return String(s ?? "").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
+function inline(s){
+  const g=[]; s=String(s).replace(/\\\(([\s\S]+?)\\\)/g,m=>{g.push(esc(m));return "\u0000"+(g.length-1)+"\u0000";});
+  s=esc(s).replace(/&lt;(\/?)(sup|sub|u)&gt;/g,"<$1$2>").replace(/&lt;br\s*\/?&gt;/g,"<br>");
+  s=s.replace(/\*\*(.+?)\*\*/g,"<b>$1</b>").replace(/(^|[^*])\*(?!\s)(.+?)\*(?!\*)/g,"$1<i>$2</i>");
+  return s.replace(/\u0000(\d+)\u0000/g,(m,k)=>g[+k]).replace(/\n/g,"<br>");
+}
+function md(txt, imgs, fontes){
+  const porId={}; (imgs||[]).forEach(i=>porId[i.id]=i);
+  return String(txt||"").split(/\n\n+/).map(b=>{
+    const mf=b.trim().match(/^\{\{fonte:(\d+)\}\}$/); if(mf){const f=(fontes||[])[+mf[1]-1]; return f?`<p class="fonte">${inline(f)}</p>`:"";}
+    if(b.trim().startsWith("|")){const rows=b.trim().split("\n").filter(r=>!/^\|(\s*-+\s*\|)+\s*$/.test(r));
+      return `<div class="tblw"><table>${rows.map(r=>"<tr>"+r.trim().replace(/^\||\|$/g,"").split("|").map(c=>`<td>${inline(c.trim())}</td>`).join("")+"</tr>").join("")}</table></div>`;}
+    return "<p>"+b.split(/(\{\{img:\d+\}\})/).map(p=>{const m=p.match(/\{\{img:(\d+)\}\}/); if(m){const im=porId[m[1]]; return im&&im.web?`<img src="${im.web}" alt="Figura">`:"";} return inline(p);}).join("")+"</p>";
+  }).join("");
+}
+function alts(list, gab, imgs){ return `<ol class="alts">${list.map(a=>`<li class="${a.letra===gab?'certa':''}"><span class="letra">${esc(a.letra)}</span><div>${md(a.texto, imgs)}</div></li>`).join("")}</ol>`; }
+function cartao(d, i){
+  const a=d.antiga, n=d.nova, e=ESC[String(a.id)]||{};
+  return `<article class="par ${e.escolha?'feito':''}" id="p${a.id}">
+    <div class="phead"><b>Par ${i+1}</b><span>${esc(d.motivo)}</span></div>
+    <div class="cols">
+      <div class="col"><h3>Antiga (fica o comentário)</h3><div class="orig">${esc(a.exam)} ${esc(a.ano)} · ${esc(a.prova)} · ${esc(a.numero)} · id ${a.id}</div>
+        <div class="ext">${esc(a.enunciado).split(/\n\n+/).map(p=>`<p>${p}</p>`).join("")}${(a.imagens||[]).filter(Boolean).map(s=>`<img src="${s}" alt="Imagem da antiga">`).join("")}
+        ${alts(a.alternativas, a.gabarito)}<p class="gab">Gabarito: <b>${esc(a.gabarito)}</b></p>
+        ${a.comentario?`<div class="coment">Comentário: ${esc(a.comentario).slice(0,500)}${a.comentario.length>500?"…":""}</div>`:""}</div></div>
+      <div class="col"><h3>Nova (cópia do PDF)</h3><div class="orig">${esc(n.vestibular)} ${esc(n.ano)} · questão ${esc(n.numero)} · ${esc(n.id)}</div>
+        <div class="ext">${md(n.enunciado, n.imagens, n.fontes)}${alts(n.alternativas, n.gabarito, n.imagens)}
+        ${n.apos_alternativas?md(n.apos_alternativas, n.imagens, n.fontes):""}<p class="gab">Gabarito: <b>${esc(n.gabarito)}</b></p></div></div>
+    </div>
+    <div class="escolha" data-id="${a.id}">
+      <button data-e="antiga" aria-pressed="${e.escolha==='antiga'}">Fica a antiga</button>
+      <button data-e="nova" aria-pressed="${e.escolha==='nova'}">Fica a nova</button>
+      <button data-e="nenhuma" aria-pressed="${e.escolha==='nenhuma'}">São questões diferentes</button>
+      <input id="nota-${a.id}" placeholder="Nota (ex.: gabarito certo é C)" value="${esc(e.nota||'')}" aria-label="Nota do par ${i+1}">
+      <span class="salvo" aria-live="polite"></span>
+    </div></article>`;
+}
+function stats(){ const f=DADOS.filter(d=>(ESC[String(d.antiga.id)]||{}).escolha).length;
+  $("#stats").innerHTML=`<span><b>${DADOS.length}</b> pares</span><span><b>${f}</b> decididos</span><span><b>${DADOS.length-f}</b> faltam</span>`; }
+function render(){ $("#main").innerHTML=DADOS.map(cartao).join(""); stats(); if(window.MathJax&&MathJax.typesetPromise) MathJax.typesetPromise([$("#main")]).catch(()=>{}); }
+async function salvar(id, dados, aviso){
+  ESC[id]=Object.assign({}, ESC[id], dados);
+  if(!db){ aviso.textContent="não salvo (sem acesso)"; return; }
+  try{ await db.collection("pares").doc(id).set(Object.assign({}, ESC[id], {em:new Date().toISOString()})); aviso.textContent="salvo"; }
+  catch(e){ aviso.textContent="não salvo"; $("#avisoDb").hidden=false; }
+}
+$("#main").addEventListener("click", e=>{ const b=e.target.closest(".escolha button"); if(!b) return;
+  const box=b.closest(".escolha"), id=box.dataset.id;
+  box.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed", x===b));
+  box.closest(".par").classList.add("feito");
+  salvar(id, {escolha:b.dataset.e, nota:box.querySelector("input").value}, box.querySelector(".salvo")); stats(); });
+$("#main").addEventListener("change", e=>{ const t=e.target.closest(".escolha input"); if(!t) return;
+  const box=t.closest(".escolha"); salvar(box.dataset.id, {nota:t.value}, box.querySelector(".salvo")); });
+render();
+(async()=>{
+  try{ db = window.claude && claude.use ? await claude.use("db") : null; }catch(e){ db=null; }
+  if(!db){ $("#avisoDb").hidden=false; return; }
+  try{ db.collection("pares").onSnapshot(snap=>{ snap.docs.forEach(d=>{const v=d.data(); if(v) ESC[d.id]=v;});
+      document.querySelectorAll(".escolha").forEach(box=>{ const v=ESC[box.dataset.id]; if(!v) return;
+        box.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed", x.dataset.e===v.escolha));
+        if(v.escolha) box.closest(".par").classList.add("feito");
+        const inp=box.querySelector("input"); if(document.activeElement!==inp) inp.value=v.nota||""; });
+      stats(); }, ()=>{ $("#avisoDb").hidden=false; }); }catch(e){ $("#avisoDb").hidden=false; }
+})();
+</script>

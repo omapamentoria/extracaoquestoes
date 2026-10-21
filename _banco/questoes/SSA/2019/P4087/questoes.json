@@ -1,0 +1,7225 @@
+[
+ {
+  "id": "P4087-Q001",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 1,
+  "area": "",
+  "texto_base_id": "P4087-T1",
+  "textos_base_ids": [
+   "P4087-T1"
+  ],
+  "enunciado": "O Texto 1 cumpre, dentre outras, uma importante função social – informar os leitores acerca de um assunto de interesse geral. A respeito desse texto, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O gênero em que se apresenta o texto requer uma rígida organização das informações em blocos paragráficos de tamanho equivalente, que se constroem de acordo com o padrão de apresentação tradicional."
+   },
+   {
+    "letra": "B",
+    "texto": "A linguagem empregada no texto, com vocabulário especializado, está adequada a seu público-alvo: pessoas maduras (“do passado”) e familiarizadas com doenças como poliomielite, sarampo e rubéola."
+   },
+   {
+    "letra": "C",
+    "texto": "Sendo da esfera jornalística, o Texto 1 apresenta argumentos convincentes, uns a favor, outros contrários à vacinação, por meio dos quais o autor almeja defender seu ponto de vista e convencer o leitor."
+   },
+   {
+    "letra": "D",
+    "texto": "O autor se vale de várias informações fictícias para construir seu texto, como a de que “[há] doenças comuns no passado e que as novas gerações só ouvem falar em histórias”."
+   },
+   {
+    "letra": "E",
+    "texto": "Embora as três partes que organizam o texto sejam distintas, sua forte inter-relação se verifica especialmente porque todas as informações orbitam em torno de um eixo temático central: a relevância da vacinação."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.6,
+     511.95700000000005,
+     552.9290010000001,
+     522.99
+    ],
+    [
+     63.900000000000034,
+     524.657,
+     477.728,
+     535.657
+    ],
+    [
+     42.60000000000002,
+     546.4570000000001,
+     552.5530049999999,
+     557.4570000000001
+    ],
+    [
+     63.90000000000002,
+     559.157,
+     552.6719979999998,
+     570.157
+    ],
+    [
+     63.90000000000002,
+     571.7470000000001,
+     116.93100000000003,
+     582.7470000000001
+    ],
+    [
+     42.60000000000002,
+     584.4570000000001,
+     552.8630069999998,
+     595.4570000000001
+    ],
+    [
+     63.90000000000002,
+     597.057,
+     552.668998,
+     608.09
+    ],
+    [
+     63.900000000000034,
+     609.7470000000001,
+     104.19300000000005,
+     620.7470000000001
+    ],
+    [
+     42.60000000000004,
+     622.357,
+     552.5420039999999,
+     633.357
+    ],
+    [
+     63.900000000000034,
+     634.9570000000001,
+     552.663,
+     645.957
+    ],
+    [
+     63.900000000000034,
+     647.657,
+     99.92500000000004,
+     658.657
+    ],
+    [
+     42.60000000000004,
+     660.277,
+     552.5859999999998,
+     671.3100000000001
+    ],
+    [
+     63.900000000000034,
+     673.01,
+     484.309,
+     684.01
+    ],
+    [
+     42.60000000000008,
+     685.577,
+     552.863007,
+     696.577
+    ],
+    [
+     63.90000000000008,
+     698.277,
+     552.5969999999999,
+     709.277
+    ],
+    [
+     63.90000000000008,
+     710.8770000000001,
+     184.9440000000001,
+     721.8770000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q002",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 2,
+  "area": "",
+  "texto_base_id": "P4087-T1",
+  "textos_base_ids": [
+   "P4087-T1"
+  ],
+  "enunciado": "Ao longo do Texto 1, o autor emprega recursos para manter o tema selecionado. Um desses recursos é a escolha de palavras que se situam em um mesmo campo de significação. Assinale a alternativa em que todos os termos e/ou expressões apresentados(as) são do mesmo campo semântico.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "ditado popular - vacinas - vidas."
+   },
+   {
+    "letra": "B",
+    "texto": "antígeno - Brasil - invasor."
+   },
+   {
+    "letra": "C",
+    "texto": "vacinação - doenças - imunidade."
+   },
+   {
+    "letra": "D",
+    "texto": "anticorpos - saúde pública - morte."
+   },
+   {
+    "letra": "E",
+    "texto": "doenças infecciosas - vítimas - globalização."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.6,
+     44.277000000000044,
+     552.748013,
+     55.277000000000044
+    ],
+    [
+     63.9,
+     56.97700000000009,
+     552.795,
+     67.97700000000009
+    ],
+    [
+     63.9,
+     69.57700000000011,
+     552.7450000000001,
+     80.57700000000011
+    ],
+    [
+     63.9,
+     82.27700000000004,
+     117.08500000000001,
+     93.27700000000004
+    ],
+    [
+     42.6,
+     102.99700000000007,
+     219.31800400000003,
+     113.99700000000007
+    ],
+    [
+     42.6,
+     115.60700000000008,
+     192.27600000000007,
+     126.60700000000008
+    ],
+    [
+     42.6,
+     128.30700000000002,
+     228.3880050000001,
+     139.30700000000002
+    ],
+    [
+     42.6,
+     140.90700000000004,
+     233.38100900000006,
+     151.90700000000004
+    ],
+    [
+     42.6,
+     153.60700000000008,
+     281.62400600000007,
+     164.60700000000008
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q003",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 3,
+  "area": "",
+  "texto_base_id": "P4087-T1",
+  "textos_base_ids": [
+   "P4087-T1"
+  ],
+  "enunciado": "Analisando a rede de relações semânticas presentes no Texto 1, é **CORRETO** afirmar que:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "no trecho: “o sistema imunológico produz anticorpos (proteínas que atuam como defensoras no organismo) para combater aquele invasor.”, podemos identificar uma relação semântica de consequência."
+   },
+   {
+    "letra": "B",
+    "texto": "no trecho: “essa produção não é feita na velocidade suficiente para prevenir a doença, uma vez que o sistema imunológico não conhece aquele invasor.”, o segmento após a vírgula tem valor explicativo."
+   },
+   {
+    "letra": "C",
+    "texto": "o trecho: “Mas se, anos depois, aquele organismo invadir o corpo novamente, o sistema imunológico vai produzir anticorpos em uma velocidade suficiente” é introduzido por elementos que indicam causa."
+   },
+   {
+    "letra": "D",
+    "texto": "no trecho: “<u>Com a globalização,</u> a pessoa pode passar por vários continentes em uma única semana.”, o segmento destacado tem valor temporal."
+   },
+   {
+    "letra": "E",
+    "texto": "podemos reconhecer uma relação semântica de condição no trecho: “Pessoas não vacinadas, portanto, podem ser a porta de entrada de doenças eliminadas no Brasil.”."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.6,
+     191.49700000000007,
+     509.819998,
+     202.49700000000007
+    ],
+    [
+     42.6,
+     212.2070000000001,
+     552.0969999999999,
+     223.24
+    ],
+    [
+     63.9,
+     224.93999999999994,
+     551.9149999999998,
+     235.93999999999994
+    ],
+    [
+     63.9,
+     237.49700000000007,
+     135.851,
+     248.49700000000007
+    ],
+    [
+     42.6,
+     250.2070000000001,
+     552.6030039999998,
+     261.24
+    ],
+    [
+     63.9,
+     262.84000000000003,
+     551.97,
+     273.84000000000003
+    ],
+    [
+     63.9,
+     275.527,
+     119.252,
+     286.527
+    ],
+    [
+     42.6,
+     288.127,
+     552.0910000000001,
+     299.16
+    ],
+    [
+     63.9,
+     300.827,
+     552.2429999999999,
+     311.86
+    ],
+    [
+     63.9,
+     313.427,
+     160.19399999999996,
+     324.427
+    ],
+    [
+     42.6,
+     326.127,
+     552.3200029999998,
+     337.16
+    ],
+    [
+     63.9,
+     338.72700000000003,
+     327.2159970000002,
+     349.76000000000005
+    ],
+    [
+     42.6,
+     351.427,
+     552.6429999999999,
+     362.46000000000004
+    ],
+    [
+     63.9,
+     364.06,
+     432.99399999999997,
+     375.06
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q003_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q004",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 4,
+  "area": "",
+  "texto_base_id": "P4087-T1",
+  "textos_base_ids": [
+   "P4087-T1"
+  ],
+  "enunciado": "O Texto 1 apresenta diversos recursos coesivos. A esse respeito, analise as afirmações a seguir, relativas ao segundo bloco do texto.\n\n1. No trecho: “Quando uma pessoa é infectada pela primeira vez por um antígeno (substância estranha ao organismo), <u>como o vírus do sarampo</u>, o sistema imunológico produz anticorpos”, o segmento destacado corresponde a uma exemplificação do que pode ser “um antígeno”.\n\n2. A referência a “um antígeno” é retomada pela expressão “aquele invasor”, no trecho: “o sistema imunológico produz anticorpos (proteínas que atuam como defensoras no organismo) para combater <u>aquele invasor</u>.”.\n\n3. Para compreender o sentido do trecho: “Mas <u>essa produção</u> não é feita na velocidade suficiente para prevenir a doença [...]”, o leitor deve perceber que o segmento destacado é retomado por “a doença”, na sequência do texto.\n\n4. O autor opta por empregar uma forma singular, no trecho: “Por isso, <u>a pessoa</u> fica doente, podendo chegar à morte.” para fazer uma referência definida, ou seja, a uma pessoa em particular.\n\nEstão **CORRETAS**, apenas:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1 e 2."
+   },
+   {
+    "letra": "B",
+    "texto": "2 e 3."
+   },
+   {
+    "letra": "C",
+    "texto": "3 e 4."
+   },
+   {
+    "letra": "D",
+    "texto": "1 e 4."
+   },
+   {
+    "letra": "E",
+    "texto": "2 e 4."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.6,
+     402.027,
+     552.6960049999999,
+     413.027
+    ],
+    [
+     63.9,
+     414.627,
+     239.95700000000002,
+     425.627
+    ],
+    [
+     63.9,
+     436.527,
+     551.4379639799995,
+     447.56
+    ],
+    [
+     85.225,
+     449.127,
+     552.4800000000001,
+     460.16
+    ],
+    [
+     85.225,
+     461.857,
+     535.2990000000001,
+     472.89000000000004
+    ],
+    [
+     63.9,
+     474.457,
+     552.36061,
+     485.49
+    ],
+    [
+     85.225,
+     487.157,
+     551.9329999999999,
+     498.157
+    ],
+    [
+     85.225,
+     499.757,
+     243.613,
+     510.79
+    ],
+    [
+     63.9,
+     512.457,
+     551.9534760200005,
+     523.49
+    ],
+    [
+     85.225,
+     525.09,
+     551.9769999999999,
+     536.09
+    ],
+    [
+     85.225,
+     537.78,
+     327.2690000000001,
+     548.78
+    ],
+    [
+     63.9,
+     550.357,
+     552.2627575199999,
+     561.39
+    ],
+    [
+     85.225,
+     563.09,
+     552.4440000000002,
+     574.09
+    ],
+    [
+     85.225,
+     575.657,
+     134.373,
+     586.657
+    ],
+    [
+     42.6,
+     600.9570000000001,
+     180.70100000000002,
+     611.957
+    ],
+    [
+     42.6,
+     626.2470000000001,
+     91.46600500000001,
+     637.2470000000001
+    ],
+    [
+     42.6,
+     638.857,
+     91.46600500000001,
+     649.857
+    ],
+    [
+     42.6,
+     651.577,
+     91.46600400000001,
+     662.577
+    ],
+    [
+     42.6,
+     664.177,
+     91.46600500000001,
+     675.177
+    ],
+    [
+     42.6,
+     676.8770000000001,
+     91.46600500000001,
+     687.8770000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q004_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q005",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 5,
+  "area": "",
+  "texto_base_id": "P4087-T1",
+  "textos_base_ids": [
+   "P4087-T1"
+  ],
+  "enunciado": "No Texto 1, podemos verificar o uso de diferentes tempos e modos verbais. Analisando os efeitos de sentido das formas verbais empregadas, é **CORRETO** afirmar que:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "no trecho: “Muitas doenças comuns no Brasil e no mundo <u>deixaram de ser</u> um problema de saúde pública por causa da vacinação massiva da população”, o pretérito perfeito e o infinitivo são empregados para indicar que uma ação ocorrida no passado ainda continua no presente."
+   },
+   {
+    "letra": "B",
+    "texto": "identificamos o emprego de uma forma verbal na voz ativa no trecho: “Quando uma pessoa <u>é</u> <u>infectada</u> pela primeira vez por um antígeno [...]”, para expressar uma ação que se passa no tempo presente."
+   },
+   {
+    "letra": "C",
+    "texto": "no trecho: “Mas se, anos depois, aquele organismo <u>invadir</u> o corpo novamente [...]”, o autor opta pelo emprego do modo indicativo para garantir a veracidade de sua afirmação."
+   },
+   {
+    "letra": "D",
+    "texto": "no trecho: “o sistema imunológico <u>vai produzir</u> anticorpos em uma velocidade suficiente [...]”, o autor opta por empregar o verbo „ir‟ no presente, acompanhado de forma verbal no infinitivo, para indicar uma ação futura."
+   },
+   {
+    "letra": "E",
+    "texto": "com o emprego do verbo „estar‟ acompanhado de uma forma no gerúndio, no trecho: “Muitas doenças infecciosas <u>estão ficando</u> raras.”, o autor pretendeu indicar uma ação pontual, em um momento bem definido do tempo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.6,
+     44.277000000000044,
+     552.7750069999998,
+     55.277000000000044
+    ],
+    [
+     63.900000000000006,
+     56.97700000000009,
+     406.99,
+     67.97700000000009
+    ],
+    [
+     42.6,
+     82.27700000000004,
+     552.6100019999999,
+     93.30999999999995
+    ],
+    [
+     63.9,
+     94.90700000000004,
+     552.7750000000001,
+     105.93999999999994
+    ],
+    [
+     63.89999999999998,
+     107.60700000000008,
+     499.8629999999999,
+     118.60700000000008
+    ],
+    [
+     42.6,
+     120.20700000000011,
+     552.816,
+     131.24
+    ],
+    [
+     63.9,
+     132.90700000000004,
+     552.1220000000001,
+     143.93999999999994
+    ],
+    [
+     63.9,
+     145.49700000000007,
+     144.728,
+     156.49700000000007
+    ],
+    [
+     42.6,
+     158.2070000000001,
+     552.6120000000001,
+     169.24
+    ],
+    [
+     63.9,
+     170.80700000000002,
+     454.73,
+     181.80700000000002
+    ],
+    [
+     42.6,
+     183.49700000000007,
+     552.364,
+     194.52999999999997
+    ],
+    [
+     63.9,
+     196.10700000000008,
+     552.2150000000001,
+     207.14
+    ],
+    [
+     63.89999999999998,
+     208.80700000000013,
+     184.031,
+     219.80700000000013
+    ],
+    [
+     42.6,
+     221.40700000000004,
+     552.847,
+     232.43999999999994
+    ],
+    [
+     63.900000000000034,
+     234.10700000000008,
+     552.8200019999999,
+     245.14
+    ],
+    [
+     63.9,
+     246.7070000000001,
+     230.48400000000007,
+     257.7070000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q005_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q006",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 6,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O termo “concordância” é utilizado em referência a mecanismos de flexão, entre o sujeito e o verbo ou entre o nome e seus determinantes. Assinale a alternativa em que a concordância está em conformidade com a norma-padrão da língua.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Confirmam as estatísticas: no passado, haviam várias doenças que hoje foram erradicadas pela vacinação em massa da população."
+   },
+   {
+    "letra": "B",
+    "texto": "Temos que ficar atentos: embora casos de poliomielite não sejam registrados no Brasil fazem quase 30 anos, a doença pode retornar."
+   },
+   {
+    "letra": "C",
+    "texto": "Apesar da intensa campanha do Ministério da Saúde, ainda não foi completamente erradicado do país várias doenças sérias."
+   },
+   {
+    "letra": "D",
+    "texto": "Quem de nós diríamos que veríamos, em pleno século XXI, o retorno das doenças que considerávamos extintas do nosso país?"
+   },
+   {
+    "letra": "E",
+    "texto": "A esmagadora maioria das crianças que tomaram vacinas não teve as doenças contra as quais ainda lutamos para banir da nossa sociedade."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.60000000000002,
+     272.007,
+     552.707,
+     283.04
+    ],
+    [
+     63.90000000000002,
+     284.72700000000003,
+     552.6629999999999,
+     295.72700000000003
+    ],
+    [
+     63.90000000000002,
+     297.32700000000006,
+     287.08799999999997,
+     308.32700000000006
+    ],
+    [
+     42.599999999999994,
+     322.62700000000007,
+     552.5860049999999,
+     333.62700000000007
+    ],
+    [
+     63.89999999999999,
+     335.32700000000006,
+     239.22900000000004,
+     346.32700000000006
+    ],
+    [
+     42.599999999999994,
+     347.9270000000001,
+     552.553005,
+     358.9270000000001
+    ],
+    [
+     63.89999999999999,
+     360.62700000000007,
+     259.6439990000001,
+     371.62700000000007
+    ],
+    [
+     42.599999999999994,
+     373.2270000000001,
+     552.5640039999998,
+     384.2270000000001
+    ],
+    [
+     63.89999999999999,
+     385.9270000000001,
+     197.176,
+     396.9270000000001
+    ],
+    [
+     42.599999999999994,
+     398.5270000000001,
+     552.5310049999998,
+     409.5270000000001
+    ],
+    [
+     63.89999999999999,
+     411.2270000000001,
+     262.75200500000005,
+     422.2270000000001
+    ],
+    [
+     42.599999999999994,
+     423.8270000000001,
+     552.5310049999998,
+     434.8270000000001
+    ],
+    [
+     63.89999999999999,
+     436.5270000000001,
+     288.8170000000001,
+     447.5270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q006_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q007",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 7,
+  "area": "",
+  "texto_base_id": "P4087-T2",
+  "textos_base_ids": [
+   "P4087-T2"
+  ],
+  "enunciado": "Com o Texto 2, pretende-se conseguir a adesão da maior quantidade possível de garotas de uma faixa etária específica. Considerando a função social desse texto, são elementos que colaboram para que ele cumpra essa função:\n\n1. a prevalência da cor rosa, tanto nas imagens quanto no texto verbal.  \n2. o posicionamento das logomarcas no lado inferior direito do texto.  \n3. o diálogo que se tenta fazer com o leitor, como no trecho: “NÃO ESQUEÇA”.  \n4. a associação entre a imagem de uma garota “moderna” e a prevenção.\n\nEstão **CORRETOS**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1, 3 e 4, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "3 e 4, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "2 e 3, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "2 e 4, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 3 e 4."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.6,
+     44.277000000000044,
+     552.6680099999999,
+     55.277000000000044
+    ],
+    [
+     63.9,
+     56.97700000000009,
+     552.4979999999998,
+     67.97700000000009
+    ],
+    [
+     63.9,
+     69.57700000000011,
+     230.30000300000006,
+     80.57700000000011
+    ],
+    [
+     63.9,
+     91.49700000000007,
+     419.53700000000003,
+     102.49700000000007
+    ],
+    [
+     63.9,
+     104.10700000000008,
+     405.9630000000001,
+     115.10700000000008
+    ],
+    [
+     63.9,
+     116.80700000000002,
+     459.7310000000001,
+     127.83999999999992
+    ],
+    [
+     63.9,
+     129.40700000000004,
+     432.4580000000001,
+     140.43999999999994
+    ],
+    [
+     42.6,
+     150.10700000000008,
+     136.03,
+     161.10700000000008
+    ],
+    [
+     42.6,
+     171.99700000000007,
+     145.861005,
+     182.99700000000007
+    ],
+    [
+     42.6,
+     184.60700000000008,
+     133.673005,
+     195.60700000000008
+    ],
+    [
+     42.6,
+     197.30700000000002,
+     133.673004,
+     208.30700000000002
+    ],
+    [
+     42.6,
+     209.90700000000004,
+     133.673005,
+     220.90700000000004
+    ],
+    [
+     42.6,
+     222.60700000000008,
+     115.908005,
+     233.60700000000008
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q007_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q008",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 8,
+  "area": "",
+  "texto_base_id": "P4087-T2",
+  "textos_base_ids": [
+   "P4087-T2"
+  ],
+  "enunciado": "Considerando alguns aspectos gramaticais do Texto 2, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "No contexto em que se insere e considerando as intenções comunicativas do autor do texto, a expressão “virar mulher” é sinônima de “cuidar da aparência”."
+   },
+   {
+    "letra": "B",
+    "texto": "A opção por iniciar o enunciado pelo pronome (“Se cuidar”), forma preferida pelos falantes do português brasileiro, é mais uma marca da informalidade do texto."
+   },
+   {
+    "letra": "C",
+    "texto": "Com a forma verbal empregada na expressão “<u>tomar</u> a vacina”, o Texto 2 deixa claro para seus leitores que a vacina contra o HPV é para ser “bebida”."
+   },
+   {
+    "letra": "D",
+    "texto": "No trecho: “tá na hora de tomar a vacina contra HPV.”, a forma verbal reduzida foi selecionada para indicar que a personagem é de classe social menos favorecida."
+   },
+   {
+    "letra": "E",
+    "texto": "No trecho “A PRIMEIRA DOSE É EM MARÇO”, o numeral é empregado para explicitar a informação de que a vacina contra o HPV tem dosagem única."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.6,
+     247.90700000000004,
+     499.138,
+     258.90700000000004
+    ],
+    [
+     42.6,
+     268.607,
+     552.6520049999999,
+     279.607
+    ],
+    [
+     63.9,
+     281.26000000000005,
+     364.51900000000006,
+     292.26000000000005
+    ],
+    [
+     42.6,
+     293.927,
+     552.509,
+     304.96000000000004
+    ],
+    [
+     63.9,
+     306.527,
+     386.679996,
+     317.527
+    ],
+    [
+     42.6,
+     319.22700000000003,
+     552.8640000000001,
+     330.26000000000005
+    ],
+    [
+     63.9,
+     331.86,
+     332.2560000000001,
+     342.86
+    ],
+    [
+     42.6,
+     344.527,
+     552.676002,
+     355.56
+    ],
+    [
+     63.9,
+     357.127,
+     373.86899999999997,
+     368.127
+    ],
+    [
+     42.6,
+     369.827,
+     552.5089999999999,
+     380.86
+    ],
+    [
+     63.9,
+     382.427,
+     369.56800000000004,
+     393.427
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q008_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q009",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 9,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe as imagens e leia os poemas a seguir:\n\n{{img:1}}\n\n**Poema 1**\n\nMeu Deus, que estais pendente de um madeiro, Em cuja lei protesto de viver,  \nEm cuja lei hei de morrer  \nAnimoso, constante, firme e inteiro.\n\nNeste lance, por ser o derradeiro,  \nPois vejo a minha vida anoitecer,  \nÉ, meu Jesus, a hora de se ver  \nA brandura de um Pai, manso Cordeiro\n\nParte Central da Capela Dourada\n\nMui grande é vosso amor, e meu delito,  \nPorém pode ter fim todo o pecar,  \nE não o vosso amor, é que infinito.\n\nEsta razão me obriga a confiar,  \nQue por mais que pequei, neste conflito  \nEspero em vosso amor de me salvar. **Poema 2**\n\nEu ponho esta sanfona, tu, Palemo,  \nPorás a ovelha branca, e o cajado;  \nE ambos ao som da flauta magoado  \nPodemos competir de extremo a extremo.  \nPrincipia, pastor; que eu te não temo;  \nInda que sejas tão avantajado  \nNo cântico amebeu: para louvado  \nEscolhamos embora o velho Alcemo.  \nQue esperas? Toma a flauta, principia;  \nEu quero acompanhar-te; os horizontes  \nJá se enchem de prazer, e de alegria:  \nParece, que estes prados, e estas fontes  \nJá sabem, que é o assunto da porfia  \nNise, a melhor pastora destes montes.  \n**Poema 3**\n\n- Que fazeis, menino Deus,\n\nNestas palhas encostado?  \n- Jazo aqui por teu pecado.\n\n- Ó menino mui formoso,\n\nPois que sois suma riqueza,  \nComo estais em tal pobreza?\n\n- Por fazer-te glorioso\n\nE de graça mui colmado,  \nJazo aqui por teu pecado.\n\n- Pois que não cabeis no céu,\n\nDizei-me, santo Menino,  \nQue vos fez tão pequenino?\n\n- O amor me deu este véu,\n\nEm que jazo embrulhado,  \nPor despir-te do pecado.\n\n- Ó menino de Belém,\n\nPois sois Deus de eternidade,  \nQuem vos fez de tal idade?\n\n- Por querer-te todo o bem\n\nE te dar eterno estado,  \nTal me fez o teu pecado.\n\nConsiderando o momento artístico-literário a que os poemas e as imagens pertencem, analise as afirmativas abaixo e coloque V nas verdadeiras e F nas falsas:\n\n( ) Há uma completa correspondência entre o poema 1 e a imagem 1, pois ambos apresentam as características do primeiro momento da Literatura brasileira, o Barroco, sendo o poema de autoria do poeta cujo pseudônimo é Glauceste Saturno.\n\n( ) A primeira e a segunda imagens são representativas da arquitetura barroca recifense, idealizadas por Aleijadinho, e pertencem esteticamente ao poeta, cuja alcunha é “O Boca do Inferno”.\n\n( ) Todas as imagens integram o mesmo movimento estético do poema com idêntica numeração. Assim sendo, os poemas 1, 2 e 3 pertencem ao mesmo momento estético correspondente ao das imagens 1, 2 e 3.\n\n( ) A imagem 2 mimetiza a chegada dos colonizadores ao Brasil e relaciona-se diretamente ao\n\npoema 03, de autoria do Padre José de Anchieta, denominado o Apóstolo dos Índios.\n\n( ) As imagens 1, 2 e 3 pertencem ao mesmo estilo de época dos poemas 3, 2 e 1, isto é, ao Quinhentismo, Barroco e Arcadismo, respectivamente.\n\nAssinale a alternativa que contém a sequência **CORRETA.**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "V – V – V – V – V"
+   },
+   {
+    "letra": "B",
+    "texto": "V – V – V – F – F"
+   },
+   {
+    "letra": "C",
+    "texto": "F – F – V – F – V"
+   },
+   {
+    "letra": "D",
+    "texto": "F – V – F – F – V"
+   },
+   {
+    "letra": "E",
+    "texto": "F – F – F – V – F"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q009_img1.png",
+    "pagina": 6,
+    "bbox": [
+     54.7,
+     425.0,
+     553.7,
+     585.8
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   6,
+   7
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.6,
+     407.72700000000003,
+     296.0880050000001,
+     418.72700000000003
+    ],
+    [
+     54.72,
+     425.027,
+     553.6800000000001,
+     585.8330000000001
+    ],
+    [
+     55.1,
+     603.2470000000001,
+     100.31,
+     614.2470000000001
+    ],
+    [
+     55.1,
+     625.057,
+     289.901,
+     636.057
+    ],
+    [
+     55.1,
+     637.7470000000001,
+     196.29600000000002,
+     648.7470000000001
+    ],
+    [
+     55.1,
+     650.377,
+     177.31,
+     661.3770000000001
+    ],
+    [
+     55.1,
+     663.077,
+     227.48100000000008,
+     674.077
+    ],
+    [
+     55.1,
+     681.477,
+     218.91200000000006,
+     692.477
+    ],
+    [
+     55.1,
+     694.077,
+     216.40400000000005,
+     705.077
+    ],
+    [
+     55.1,
+     706.777,
+     207.28500000000005,
+     717.777
+    ],
+    [
+     55.1,
+     719.3770000000001,
+     246.3240000000001,
+     730.3770000000001
+    ],
+    [
+     410.08,
+     584.09096,
+     543.667,
+     593.09096
+    ],
+    [
+     331.35,
+     628.557,
+     524.5210000000001,
+     639.557
+    ],
+    [
+     331.35,
+     641.157,
+     492.0490000000001,
+     652.157
+    ],
+    [
+     331.35,
+     653.8770000000001,
+     500.67300000000006,
+     664.8770000000001
+    ],
+    [
+     331.35,
+     672.277,
+     484.15100000000007,
+     683.277
+    ],
+    [
+     331.35,
+     684.8770000000001,
+     525.676,
+     695.8770000000001
+    ],
+    [
+     331.35,
+     697.577,
+     513.532,
+     708.577
+    ]
+   ],
+   "7": [
+    [
+     55.1,
+     44.277000000000044,
+     100.31,
+     55.277000000000044
+    ],
+    [
+     55.1,
+     68.47700000000009,
+     229.91200000000006,
+     79.47700000000009
+    ],
+    [
+     55.1,
+     81.07700000000011,
+     225.12700000000007,
+     92.07700000000011
+    ],
+    [
+     55.1,
+     93.80700000000002,
+     231.79300000000012,
+     104.80700000000002
+    ],
+    [
+     55.1,
+     106.40700000000004,
+     259.8540000000001,
+     117.40700000000004
+    ],
+    [
+     55.1,
+     119.10700000000008,
+     237.8760000000001,
+     130.10700000000008
+    ],
+    [
+     55.1,
+     131.7070000000001,
+     201.81800000000007,
+     142.7070000000001
+    ],
+    [
+     55.1,
+     144.40700000000004,
+     219.50600000000009,
+     155.40700000000004
+    ],
+    [
+     55.1,
+     156.99700000000007,
+     236.651,
+     167.99700000000007
+    ],
+    [
+     55.1,
+     169.7070000000001,
+     244.47600000000006,
+     180.7070000000001
+    ],
+    [
+     55.1,
+     182.30700000000002,
+     248.41500000000002,
+     193.30700000000002
+    ],
+    [
+     55.1,
+     194.99700000000007,
+     239.73500000000013,
+     205.99700000000007
+    ],
+    [
+     55.1,
+     207.60700000000008,
+     255.05800000000002,
+     218.60700000000008
+    ],
+    [
+     55.1,
+     220.30700000000002,
+     233.04700000000008,
+     231.30700000000002
+    ],
+    [
+     55.1,
+     232.90700000000004,
+     243.469,
+     243.90700000000004
+    ],
+    [
+     331.35,
+     44.277000000000044,
+     376.56,
+     55.277000000000044
+    ],
+    [
+     331.35,
+     69.57700000000011,
+     464.64,
+     80.57700000000011
+    ],
+    [
+     331.35,
+     82.27700000000004,
+     460.94100000000003,
+     93.27700000000004
+    ],
+    [
+     331.35,
+     94.90700000000004,
+     464.595,
+     105.90700000000004
+    ],
+    [
+     331.35,
+     115.60700000000008,
+     452.28599999999994,
+     126.60700000000008
+    ],
+    [
+     331.35,
+     128.30700000000002,
+     468.7840000000001,
+     139.30700000000002
+    ],
+    [
+     331.35,
+     140.90700000000004,
+     474.36100000000005,
+     151.90700000000004
+    ],
+    [
+     331.35,
+     161.60700000000008,
+     437.08,
+     172.60700000000008
+    ],
+    [
+     331.35,
+     174.30700000000002,
+     452.966,
+     185.30700000000002
+    ],
+    [
+     331.35,
+     186.90700000000004,
+     457.91600000000005,
+     197.90700000000004
+    ],
+    [
+     331.35,
+     207.60700000000008,
+     476.29900000000004,
+     218.60700000000008
+    ],
+    [
+     331.35,
+     220.30700000000002,
+     449.90999999999997,
+     231.30700000000002
+    ],
+    [
+     331.35,
+     232.90700000000004,
+     468.86100000000005,
+     243.90700000000004
+    ],
+    [
+     331.35,
+     253.60700000000008,
+     462.186,
+     264.6070000000001
+    ],
+    [
+     331.35,
+     266.307,
+     456.596,
+     277.307
+    ],
+    [
+     331.35,
+     278.927,
+     451.841,
+     289.927
+    ],
+    [
+     331.35,
+     299.627,
+     438.35999999999996,
+     310.627
+    ],
+    [
+     331.35,
+     312.327,
+     477.3860000000001,
+     323.327
+    ],
+    [
+     331.35,
+     324.927,
+     465.13200000000006,
+     335.927
+    ],
+    [
+     331.35,
+     345.627,
+     460.925,
+     356.627
+    ],
+    [
+     331.35,
+     358.327,
+     443.228,
+     369.327
+    ],
+    [
+     331.35,
+     370.927,
+     452.394,
+     381.927
+    ],
+    [
+     42.6,
+     396.22700000000003,
+     516.9290000000001,
+     407.22700000000003
+    ],
+    [
+     42.6,
+     408.927,
+     348.408,
+     419.927
+    ],
+    [
+     60.1,
+     434.22700000000003,
+     539.153,
+     445.22700000000003
+    ],
+    [
+     92.225,
+     446.827,
+     532.951,
+     457.827
+    ],
+    [
+     92.225,
+     459.527,
+     379.728,
+     470.527
+    ],
+    [
+     60.1,
+     479.057,
+     540.364,
+     490.057
+    ],
+    [
+     92.225,
+     491.757,
+     540.541,
+     502.79
+    ],
+    [
+     92.225,
+     504.39000000000004,
+     148.55599999999998,
+     515.3900000000001
+    ],
+    [
+     60.1,
+     523.9570000000001,
+     540.079,
+     534.957
+    ],
+    [
+     92.225,
+     536.557,
+     540.2330000000001,
+     547.557
+    ],
+    [
+     92.225,
+     549.2470000000001,
+     292.2600000000001,
+     560.2470000000001
+    ],
+    [
+     60.1,
+     568.7470000000001,
+     540.445,
+     579.7470000000001
+    ],
+    [
+     92.225,
+     581.4570000000001,
+     509.258,
+     592.457
+    ],
+    [
+     60.1,
+     600.9570000000001,
+     540.1559999999998,
+     611.957
+    ],
+    [
+     92.225,
+     613.557,
+     358.66700000000014,
+     624.557
+    ],
+    [
+     42.6,
+     640.057,
+     330.408,
+     651.057
+    ],
+    [
+     42.6,
+     658.477,
+     149.66699999999994,
+     669.51
+    ],
+    [
+     42.6,
+     671.077,
+     148.351,
+     682.11
+    ],
+    [
+     42.6,
+     683.777,
+     147.76699999999997,
+     694.8100000000001
+    ],
+    [
+     42.6,
+     696.3770000000001,
+     147.76699999999997,
+     707.4100000000001
+    ],
+    [
+     42.6,
+     709.077,
+     147.15099999999998,
+     720.11
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [
+   "texto curto solto junto da imagem (“**Poema 1**”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q009_p6.jpg",
+   "revisao/Q009_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q010",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 10,
+  "area": "",
+  "texto_base_id": "P4087-T7",
+  "textos_base_ids": [
+   "P4087-T7"
+  ],
+  "enunciado": "Analise os textos que se seguem, considerando e a intertextualidade.\n\n**Texto 3**\n\nAmor é fogo que arde sem se ver  \nÉ ferida que dói e não se sente;  \nÉ um contentamento descontente;  \nÉ dor que desatina sem doer.\n\nÉ um não querer mais que bem querer  \nÉ solitário andar por entre a gente;  \nÉ nunca contentar-se de contente;  \nÉ cuidar que se ganha em se perder;\n\nÉ querer estar preso por vontade;  \nÉ servir a quem vence, o vencedor;  \nÉ ter com quem nos mata lealdade.\n\nMas, como causar pode seu favor  \nNos corações humanos amizade  \nSe tão contrário a si é o mesmo amor?\n\nCamões\n\n**Texto 5**\n\n**Texto 6**  \nos conceitos de gêneros, as funções da linguagem\n\n**Texto 4**\n\nA luz ao mundo, e murmurar se ouvia  \nAo longe o rio, e menear-se o vento.  \nRespirava descanso a natureza.  \nSó na outra margem não podia entanto  \nO inquieto Cacambo achar sossego.  \nNo perturbado interrompido sono  \n(Talvez fosse ilusão) se lhe apresenta  \nA triste imagem de Sepé despido,  \nPintado o rosto do temor da morte,  \nBanhado em negro sangue, que corria  \n[...]\n\nBasílio de Gama\n\nSenhores que trabalhais  \nAinda que eu falasse a língua dos homens.  \npela vida transitória,\n\nE falasse a língua dos anjos, sem amor eu nada seria.  \nmemória, por Deus, memória  \nÉ só o amor, é só o amor.  \neste temeroso cais!\n\nQue conhece o que é verdade.  \nÀ barca, à barca, mortais,  \nO amor é bom, não quer o mal.  \nBarca bem guarnecida,  \nNão sente inveja ou se envaidece.  \nà barca, à barca da vida!\n\nO amor é o fogo que arde sem se ver.  \nVigiai-vos, pecadores,  \nÉ ferida que dói e não se sente.  \nque, depois da sepultura,  \nÉ um contentamento descontente.  \nneste rio está a ventura  \nÉ dor que desatina sem doer.  \nde prazeres ou dolores!  \nÀ barca, à barca, senhores,  \nAinda que eu falasse a língua dos homens.  \nbarca mui nobrecida,\n\nE falasse a língua dos anjos, sem amor eu nada seria.  \nà barca, à barca da vida!\n\nÉ um não querer mais que bem querer.  \nÉ solitário andar por entre a gente.  \nGil Vicente  \nÉ um não contentar-se de contente.  \nÉ cuidar que se ganha em se perder.\n\nÉ um estar-se preso por vontade.  \nÉ servir a quem vence, o vencedor;  \nÉ um ter com quem nos mata a lealdade.  \nTão contrário a si é o mesmo amor.\n\nEstou acordado e todos dormem, todos dormem, todos dormem. Agora vejo em parte. mas então veremos face a face.\n\nÉ só o amor, é só o amor.  \nQue conhece o que é verdade.\n\nAinda que eu falasse a língua dos homens.  \nE falasse a língua dos anjos, sem amor eu nada seria.\n\nRenato Russo  \nSobre os textos, analise as proposições a seguir:\n\nI. Os textos 3 e 6 pertencem ao gênero lírico; o texto 5, ao dramático, de autoria de Gil Vicente,. enquanto o texto 4 é épico e pertence ao poema Caramuru, de Basílio da Gama. É nítida também a relação intertextual existente entre os textos 3, 4 e 6.\n\nII. O texto 6 retoma o texto 3, o que acarreta uma relação de intertextualidade explícita; além disso, ambos têm por tema o amor, sentimento expresso pelo eu lírico, o que determina a função emotiva da linguagem.\n\nIII. As funções emotiva e poética da linguagem, presentes nos textos 3 e 6, resultam da existência das vozes líricas reveladoras de emotividade e poeticidade. A função referencial, entretanto, se faz presente no texto 4, por este pertencer ao gênero épico; no texto 5, por ser dramático, a função é apelativa.\n\nIV. Nos quatro textos, há traços dos gêneros épico, lírico e dramático. Em todos eles, predomina a função poética, o que determina a existência de intertextualidades implícitas.\n\nV. Os textos 3, 4, 5 e 6, por serem literários e pertencerem aos primórdios da Literatura brasileira, apresentam linguagens apelativa e poética, pois são ufanistas e pretendem atrair a atenção do colonizador.\n\nEstão **CORRETAS** apenas",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "II e III."
+   },
+   {
+    "letra": "B",
+    "texto": "I, II, III e IV."
+   },
+   {
+    "letra": "C",
+    "texto": "IV e V."
+   },
+   {
+    "letra": "D",
+    "texto": "II, III e V."
+   },
+   {
+    "letra": "E",
+    "texto": "III, IV e V."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   8,
+   9
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.6,
+     44.277000000000044,
+     297.462,
+     55.277000000000044
+    ],
+    [
+     42.6,
+     56.97700000000009,
+     144.62500000000003,
+     67.97700000000009
+    ],
+    [
+     62.1,
+     76.47700000000009,
+     100.641,
+     87.47700000000009
+    ],
+    [
+     62.1,
+     97.20700000000011,
+     225.38400000000001,
+     108.20700000000011
+    ],
+    [
+     62.1,
+     109.90700000000004,
+     217.43100000000004,
+     120.90700000000004
+    ],
+    [
+     62.1,
+     122.49700000000007,
+     229.668,
+     133.49700000000007
+    ],
+    [
+     62.1,
+     135.2070000000001,
+     206.40900000000005,
+     146.2070000000001
+    ],
+    [
+     62.1,
+     154.7070000000001,
+     250.98100000000008,
+     165.7070000000001
+    ],
+    [
+     62.1,
+     167.40700000000004,
+     231.51100000000005,
+     178.40700000000004
+    ],
+    [
+     62.1,
+     179.99700000000007,
+     230.271,
+     190.99700000000007
+    ],
+    [
+     62.1,
+     192.7070000000001,
+     243.10500000000005,
+     203.7070000000001
+    ],
+    [
+     62.1,
+     212.2070000000001,
+     226.58300000000008,
+     223.2070000000001
+    ],
+    [
+     62.1,
+     224.90700000000004,
+     235.159,
+     235.90700000000004
+    ],
+    [
+     62.1,
+     237.49700000000007,
+     235.60300000000012,
+     248.49700000000007
+    ],
+    [
+     62.1,
+     257.1070000000001,
+     227.7270000000001,
+     268.107
+    ],
+    [
+     62.1,
+     269.707,
+     222.20500000000007,
+     280.707
+    ],
+    [
+     62.1,
+     282.427,
+     251.6080000000001,
+     293.427
+    ],
+    [
+     200.43,
+     294.81300000000005,
+     234.02700000000002,
+     303.81300000000005
+    ],
+    [
+     63.9,
+     318.027,
+     102.441,
+     329.027
+    ],
+    [
+     240.95,
+     318.027,
+     279.45,
+     329.027
+    ],
+    [
+     300.52000000000004,
+     44.277000000000044,
+     548.075,
+     55.277000000000044
+    ],
+    [
+     331.45,
+     76.47700000000009,
+     369.996,
+     87.47700000000009
+    ],
+    [
+     331.45,
+     97.20700000000011,
+     514.7760000000001,
+     108.20700000000011
+    ],
+    [
+     331.45,
+     109.90700000000004,
+     509.436,
+     120.90700000000004
+    ],
+    [
+     331.45,
+     122.49700000000007,
+     489.26700000000005,
+     133.49700000000007
+    ],
+    [
+     331.45,
+     135.2070000000001,
+     522.7950000000001,
+     146.2070000000001
+    ],
+    [
+     334.55,
+     147.80700000000002,
+     512.3870000000001,
+     158.80700000000002
+    ],
+    [
+     331.45,
+     160.49700000000007,
+     492.754,
+     171.49700000000007
+    ],
+    [
+     331.45,
+     173.10700000000008,
+     516.701,
+     184.10700000000008
+    ],
+    [
+     331.45,
+     185.80700000000002,
+     496.384,
+     196.80700000000002
+    ],
+    [
+     331.45,
+     198.40700000000004,
+     501.41100000000006,
+     209.40700000000004
+    ],
+    [
+     331.45,
+     211.10700000000008,
+     519.1210000000001,
+     222.10700000000008
+    ],
+    [
+     432.58,
+     223.7070000000001,
+     447.914,
+     234.7070000000001
+    ],
+    [
+     458.08,
+     236.1930000000001,
+     524.674,
+     245.1930000000001
+    ],
+    [
+     63.9,
+     336.427,
+     183.05200000000002,
+     347.427
+    ],
+    [
+     240.95,
+     336.427,
+     451.8860000000001,
+     347.427
+    ],
+    [
+     63.9,
+     349.127,
+     162.21800000000002,
+     360.127
+    ],
+    [
+     240.95,
+     349.127,
+     506.1740000000001,
+     360.127
+    ],
+    [
+     63.9,
+     361.72700000000003,
+     206.24000000000004,
+     372.72700000000003
+    ],
+    [
+     241.05,
+     367.527,
+     367.56100000000004,
+     378.527
+    ],
+    [
+     63.9,
+     374.427,
+     159.42399999999998,
+     385.427
+    ],
+    [
+     241.05,
+     380.127,
+     392.09100000000007,
+     391.127
+    ],
+    [
+     63.9,
+     387.027,
+     189.79500000000002,
+     398.027
+    ],
+    [
+     241.05,
+     392.827,
+     393.8620000000001,
+     403.827
+    ],
+    [
+     63.9,
+     399.72700000000003,
+     177.55200000000002,
+     410.72700000000003
+    ],
+    [
+     241.05,
+     405.427,
+     409.07500000000005,
+     416.427
+    ],
+    [
+     63.9,
+     412.327,
+     184.91100000000003,
+     423.327
+    ],
+    [
+     240.95,
+     423.827,
+     426.817,
+     434.827
+    ],
+    [
+     63.9,
+     431.927,
+     172.16199999999998,
+     442.927
+    ],
+    [
+     240.95,
+     436.527,
+     396.28100000000006,
+     447.527
+    ],
+    [
+     63.9,
+     444.527,
+     187.419,
+     455.527
+    ],
+    [
+     240.95,
+     454.927,
+     408.49300000000005,
+     468.22700000000003
+    ],
+    [
+     63.9,
+     457.22700000000003,
+     178.92300000000003,
+     468.22700000000003
+    ],
+    [
+     240.95,
+     467.557,
+     385.259,
+     480.857
+    ],
+    [
+     63.9,
+     469.857,
+     179.52100000000002,
+     480.857
+    ],
+    [
+     63.9,
+     482.557,
+     198.936,
+     496.957
+    ],
+    [
+     240.95,
+     485.957,
+     451.8860000000001,
+     496.957
+    ],
+    [
+     63.9,
+     495.157,
+     166.618,
+     509.657
+    ],
+    [
+     240.95,
+     498.657,
+     506.14900000000017,
+     509.657
+    ],
+    [
+     63.9,
+     507.857,
+     184.91100000000003,
+     518.857
+    ],
+    [
+     240.95,
+     517.057,
+     432.88900000000007,
+     528.057
+    ],
+    [
+     240.95,
+     529.657,
+     410.36100000000005,
+     540.743
+    ],
+    [
+     162.23,
+     531.743,
+     205.725,
+     540.743
+    ],
+    [
+     240.95,
+     542.357,
+     415.924,
+     553.357
+    ],
+    [
+     240.95,
+     554.9570000000001,
+     421.95500000000004,
+     565.957
+    ],
+    [
+     240.95,
+     573.357,
+     404.187,
+     584.357
+    ],
+    [
+     240.95,
+     586.057,
+     413.9470000000001,
+     597.057
+    ],
+    [
+     240.95,
+     598.657,
+     441.9750000000001,
+     609.657
+    ],
+    [
+     240.95,
+     611.357,
+     414.51900000000006,
+     622.357
+    ],
+    [
+     240.95,
+     628.557,
+     556.4190000000001,
+     639.557
+    ],
+    [
+     240.95,
+     641.157,
+     502.62900000000013,
+     652.157
+    ],
+    [
+     240.95,
+     658.477,
+     367.461,
+     669.477
+    ],
+    [
+     240.95,
+     671.077,
+     391.99100000000004,
+     682.077
+    ],
+    [
+     240.95,
+     687.177,
+     451.8860000000001,
+     698.177
+    ],
+    [
+     240.95,
+     699.8770000000001,
+     506.14900000000017,
+     710.8770000000001
+    ],
+    [
+     460.48,
+     716.863,
+     517.499,
+     725.863
+    ]
+   ],
+   "9": [
+    [
+     42.6,
+     44.277000000000044,
+     282.308,
+     55.277000000000044
+    ],
+    [
+     54.5,
+     73.07700000000011,
+     553.058,
+     84.07700000000011
+    ],
+    [
+     78.625,
+     85.70700000000011,
+     552.822,
+     96.70700000000011
+    ],
+    [
+     78.625,
+     98.40700000000004,
+     388.728,
+     109.40700000000004
+    ],
+    [
+     51.4,
+     117.90700000000004,
+     552.8770000000001,
+     128.90700000000004
+    ],
+    [
+     78.625,
+     130.60700000000008,
+     552.5630000000001,
+     141.60700000000008
+    ],
+    [
+     78.625,
+     143.2070000000001,
+     189.318,
+     154.2070000000001
+    ],
+    [
+     48.4,
+     161.60700000000008,
+     552.771,
+     172.60700000000008
+    ],
+    [
+     78.625,
+     174.30700000000002,
+     553.116,
+     185.30700000000002
+    ],
+    [
+     78.625,
+     186.90700000000004,
+     552.994,
+     197.90700000000004
+    ],
+    [
+     78.625,
+     199.60700000000008,
+     170.904,
+     210.60700000000008
+    ],
+    [
+     47.2,
+     219.10700000000008,
+     552.979,
+     230.10700000000008
+    ],
+    [
+     78.625,
+     231.80700000000002,
+     453.4330000000001,
+     242.80700000000002
+    ],
+    [
+     50.2,
+     251.30700000000002,
+     552.848,
+     262.307
+    ],
+    [
+     78.625,
+     264.00700000000006,
+     552.887,
+     275.007
+    ],
+    [
+     78.625,
+     276.627,
+     137.85999999999999,
+     287.627
+    ],
+    [
+     42.6,
+     305.427,
+     174.63299999999998,
+     316.427
+    ],
+    [
+     42.6,
+     330.72700000000003,
+     94.50200000000002,
+     341.72700000000003
+    ],
+    [
+     42.6,
+     345.22700000000003,
+     120.09900000000003,
+     356.22700000000003
+    ],
+    [
+     42.6,
+     359.827,
+     96.955,
+     370.827
+    ],
+    [
+     42.6,
+     374.327,
+     107.93300000000002,
+     385.327
+    ],
+    [
+     42.6,
+     388.927,
+     112.23400000000002,
+     399.927
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q010_p8.jpg",
+   "revisao/Q010_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q011",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 11,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia os textos 7 e 8 a seguir:\n\n**Texto 7**\n\nAntes que vos vades, assim como ouvistes os vossos louvores, ouvi também agora as vossas repreensões. Servir-vos-ão de confusão, já que não seja de emenda. A primeira cousa que me desedifica, peixes, de vós, é que vos comeis uns aos outros. Grande escândalo é este, mas a circunstância o faz ainda maior. Não só vos comeis uns aos outros, senão que os grandes comem os pequenos. Se fora pelo contrário, era menos mal. Se os pequenos comeram os grandes, bastara um grande para muitos pequenos; mas como os grandes comem os pequenos, não bastam cem pequenos, nem mil, para um só grande.\n\n[...]\n\nMorreu algum deles: vereis logo tantos sobre o miserável a despedaçá-lo e comê-lo. Comem-no os herdeiros, comem-no os testamenteiros, comem-no os oficiais dos órfãos e dos defuntos ausentes; come-o o médico, que o curou ou ajudou a morrer; come-o o sangrador, que lhe tirou o sangue; come-o a mesma mulher, que de má vontade lhe dá para mortalha o lençol mais velho da casa; come-o o que lhe abre a cova, o que lhe tange os sinos, e os que cantando o levam a enterrar; enfim ainda ao pobre defunto o não comeu a terra, e já o tem comido toda a terra. **Texto 8**\n\nAgora, Fanfarrão, agora falo  \nContigo, e só contigo. Por que causa  \nordenas que se faça uma cobrança  \ntão rápida e tão forte contra aqueles  \nque ao Erário só devem tênues somas?  \nNão tens contratadores, que ao rei devem  \nDe mil cruzados centos e mais centos?\n\nUma só quinta parte que estes dessem,  \nnão matava do Erário o grande empenho?  \nO pobre, porque é pobre, pague tudo,  \nE o rico, porque rico, vai pagando  \nSem soldados à porta, com sossego!\n\nObservando a linguagem e considerando os aspectos comuns e divergentes, assinale a alternativa **CORRETA.**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O texto 8 é um fragmento das Cartas Chilenas, de autoria de Tomás Antônio Gonzaga, cujo pseudônimo árcade é Glauceste Saturno, e o texto 7 também é árcade; pertence ao Boca do Inferno."
+   },
+   {
+    "letra": "B",
+    "texto": "Os textos 7 e 8 apresentam características próprias do Arcadismo, como o intenso uso de hipérboles e o bucolismo, além do *carpe diem.*"
+   },
+   {
+    "letra": "C",
+    "texto": "São dois textos em prosa, que apresentam forte crítica social. No texto 8, a crítica é explícita, apesar da linguagem metafórica, e, no texto 7, são usados artifícios que têm por objetivo explicitar, de modo contundente e claro, a crítica ao governador de Minas, conhecido por Fanfarrão Minésio."
+   },
+   {
+    "letra": "D",
+    "texto": "Os dois textos têm por tema aspectos sociais que se referem à exploração dos grandes sobre os pequenos, isto é, dos que têm mais sobre os que têm menos."
+   },
+   {
+    "letra": "E",
+    "texto": "Os dois textos pertencem ao Barroco, pois apresentam trocadilhos, metáforas, hipérboles, revelando o homem em conflito, suas dúvidas e as contradições."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   9,
+   10
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.6,
+     426.127,
+     204.571,
+     437.127
+    ],
+    [
+     278.55,
+     451.427,
+     317.066,
+     462.427
+    ],
+    [
+     76.425,
+     482.957,
+     280.79400000000004,
+     493.957
+    ],
+    [
+     55.1,
+     495.657,
+     280.7650000000001,
+     506.657
+    ],
+    [
+     55.1,
+     508.24699999999996,
+     280.966,
+     519.247
+    ],
+    [
+     55.099999999999994,
+     520.957,
+     280.67700000000013,
+     531.957
+    ],
+    [
+     55.099999999999994,
+     533.557,
+     280.89100500000006,
+     544.557
+    ],
+    [
+     55.099999999999994,
+     546.247,
+     280.8860000000001,
+     557.247
+    ],
+    [
+     55.099999999999994,
+     558.857,
+     280.71000000000004,
+     569.857
+    ],
+    [
+     55.099999999999994,
+     571.557,
+     280.66600000000005,
+     582.557
+    ],
+    [
+     55.099999999999994,
+     584.1569999999999,
+     280.7210000000002,
+     595.1569999999999
+    ],
+    [
+     55.099999999999994,
+     596.857,
+     280.75400000000013,
+     607.857
+    ],
+    [
+     55.099999999999994,
+     609.4569999999999,
+     280.8020040000001,
+     620.4569999999999
+    ],
+    [
+     55.099999999999994,
+     622.1569999999999,
+     280.74300000000017,
+     633.1569999999999
+    ],
+    [
+     55.099999999999994,
+     634.747,
+     280.7670000000003,
+     645.747
+    ],
+    [
+     55.099999999999994,
+     647.477,
+     280.74500000000023,
+     658.477
+    ],
+    [
+     55.099999999999994,
+     660.077,
+     170.589,
+     671.077
+    ],
+    [
+     431.98,
+     466.957,
+     447.226,
+     477.957
+    ],
+    [
+     353.269996,
+     484.157,
+     549.366996,
+     495.157
+    ],
+    [
+     324.85,
+     496.85699999999997,
+     549.4720020000002,
+     507.85699999999997
+    ],
+    [
+     324.85,
+     509.457,
+     549.4000070000002,
+     520.457
+    ],
+    [
+     324.85,
+     522.1569999999999,
+     549.3720010000001,
+     533.1569999999999
+    ],
+    [
+     324.85,
+     534.7470000000001,
+     549.4029990000001,
+     545.747
+    ],
+    [
+     324.85,
+     547.457,
+     549.3270000000002,
+     558.457
+    ],
+    [
+     324.85,
+     560.057,
+     549.3440060000001,
+     571.057
+    ],
+    [
+     324.85,
+     572.7470000000001,
+     549.2780060000001,
+     583.747
+    ],
+    [
+     324.85,
+     585.357,
+     549.3540050000001,
+     596.357
+    ],
+    [
+     324.85,
+     598.057,
+     549.2700090000002,
+     609.057
+    ],
+    [
+     324.85,
+     610.6569999999999,
+     549.2390000000001,
+     621.6569999999999
+    ],
+    [
+     324.85,
+     623.357,
+     549.2940000000001,
+     634.357
+    ],
+    [
+     324.85,
+     635.9569999999999,
+     549.3820000000001,
+     646.9569999999999
+    ],
+    [
+     324.85,
+     648.6769999999999,
+     422.66200000000003,
+     659.6769999999999
+    ]
+   ],
+   "10": [
+    [
+     49.7,
+     44.277000000000044,
+     88.241,
+     55.277000000000044
+    ],
+    [
+     59.2,
+     65.97700000000009,
+     197.36000000000004,
+     76.97700000000009
+    ],
+    [
+     59.2,
+     78.57700000000011,
+     239.61100000000013,
+     89.57700000000011
+    ],
+    [
+     59.2,
+     91.30700000000013,
+     231.70200000000014,
+     102.30700000000013
+    ],
+    [
+     59.2,
+     103.90700000000015,
+     235.80500000000012,
+     114.90700000000015
+    ],
+    [
+     59.2,
+     116.6070000000002,
+     253.74600000000012,
+     127.6070000000002
+    ],
+    [
+     59.2,
+     129.20700000000022,
+     264.60300000000007,
+     140.20700000000022
+    ],
+    [
+     59.2,
+     141.90700000000027,
+     250.6000000000001,
+     152.90700000000027
+    ],
+    [
+     59.2,
+     167.20700000000033,
+     253.6470000000001,
+     178.20700000000033
+    ],
+    [
+     59.2,
+     179.80700000000036,
+     265.98100300000016,
+     190.80700000000036
+    ],
+    [
+     59.2,
+     192.4970000000004,
+     243.8680000000001,
+     203.4970000000004
+    ],
+    [
+     59.2,
+     205.10700000000043,
+     223.55100000000007,
+     216.10700000000043
+    ],
+    [
+     59.2,
+     217.80700000000002,
+     240.33700000000005,
+     228.80700000000002
+    ],
+    [
+     49.7,
+     246.7070000000001,
+     552.991,
+     257.7070000000001
+    ],
+    [
+     49.7,
+     259.40700000000004,
+     106.92200000000003,
+     270.407
+    ],
+    [
+     42.6,
+     281.22700000000003,
+     552.815,
+     292.22700000000003
+    ],
+    [
+     56.8,
+     293.927,
+     551.0160000000001,
+     304.927
+    ],
+    [
+     42.6,
+     306.527,
+     552.956,
+     317.527
+    ],
+    [
+     56.8,
+     319.22700000000003,
+     230.37399999999997,
+     330.22700000000003
+    ],
+    [
+     42.6,
+     331.827,
+     552.83,
+     342.827
+    ],
+    [
+     56.8,
+     344.527,
+     552.821,
+     355.527
+    ],
+    [
+     56.8,
+     357.127,
+     489.6740000000001,
+     368.127
+    ],
+    [
+     42.6,
+     369.827,
+     552.6469999999998,
+     380.827
+    ],
+    [
+     56.8,
+     382.427,
+     357.4200000000002,
+     393.427
+    ],
+    [
+     42.6,
+     395.127,
+     552.5919999999999,
+     406.127
+    ],
+    [
+     56.8,
+     407.72700000000003,
+     321.4050000000002,
+     418.72700000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q011_p9.jpg",
+   "revisao/Q011_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q012",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 12,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe as imagens a seguir:\n\n{{img:1}}\n\nAnalise as afirmativas abaixo e coloque V nas verdadeiras e F nas falsas.\n\n( ) As imagens 6 e 7 retratam, respectivamente, os autores dos poemas épicos *Marília de*\n\n*Dirceu* e *Vila Rica.*\n\n( ) O poeta baiano, retratado na imagem 5, é reconhecido como criador de textos poéticos de\n\ntemáticas amorosa, religiosa e satírica.\n\n( ) Todas as imagens retratam poetas brasileiros; a imagem 4 apresenta o autor de *Os Lusíadas*,\n\num dos mais belos sonetos sobre o amor em língua portuguesa.\n\n( ) Santa Rita Durão, retratado na imagem 9, é o autor do poema épico *Caramuru*, adaptado para o\n\ncinema com o título *Caramuru – A invenção do Brasil*, dirigido por Guel Arraes. Nele, há uma história de amor, vivida pelas índias Moema e Paraguaçu com o português Diogo Álvares Pereira.\n\n( ) O autor retratado na imagem 8 é o criador do poema *O Uraguai*, no qual se encontra o relato da\n\nGuerra dos Sete Povos das Missões e a morte de Lindoia, amada de Cacambo, que prefere a morte a ser obrigada a casar com Baldeta.\n\nAssinale a alternativa que contém a sequência **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "F – V – F – V – V"
+   },
+   {
+    "letra": "B",
+    "texto": "F – F – F – V – V"
+   },
+   {
+    "letra": "C",
+    "texto": "V – V – V – F – F"
+   },
+   {
+    "letra": "D",
+    "texto": "F – V – V – F – F"
+   },
+   {
+    "letra": "E",
+    "texto": "V – V – V – V – F"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q012_img1.png",
+    "pagina": 10,
+    "bbox": [
+     56.6,
+     474.5,
+     500.8,
+     730.5
+    ]
+   }
+  ],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   10,
+   11
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.6,
+     445.727,
+     207.07100000000005,
+     456.727
+    ],
+    [
+     56.57999999999993,
+     474.457,
+     500.79599999999994,
+     730.463
+    ]
+   ],
+   "11": [
+    [
+     42.600000000000136,
+     44.277000000000044,
+     402.23000100000013,
+     55.277000000000044
+    ],
+    [
+     51.4,
+     69.57700000000011,
+     548.909,
+     80.57700000000011
+    ],
+    [
+     78.025,
+     82.27700000000004,
+     168.385,
+     93.27700000000004
+    ],
+    [
+     51.4,
+     100.70700000000011,
+     548.8040000000001,
+     111.70700000000011
+    ],
+    [
+     78.025,
+     113.30700000000002,
+     268.71000000000004,
+     124.30700000000002
+    ],
+    [
+     51.4,
+     131.7070000000001,
+     549.058,
+     142.7070000000001
+    ],
+    [
+     78.025,
+     144.40700000000004,
+     391.62100000000015,
+     155.40700000000004
+    ],
+    [
+     51.4,
+     162.80700000000002,
+     548.93,
+     173.80700000000002
+    ],
+    [
+     78.025,
+     175.40700000000004,
+     548.8610000000001,
+     186.418
+    ],
+    [
+     78.025,
+     188.10700000000008,
+     549.039,
+     199.10700000000008
+    ],
+    [
+     78.025,
+     200.7070000000001,
+     116.492,
+     211.7070000000001
+    ],
+    [
+     51.4,
+     219.10700000000008,
+     548.967,
+     230.10700000000008
+    ],
+    [
+     78.025,
+     231.80700000000002,
+     548.7589999999999,
+     242.80700000000002
+    ],
+    [
+     78.025,
+     244.40700000000004,
+     285.921,
+     255.40700000000004
+    ],
+    [
+     42.6,
+     269.70700000000005,
+     330.408,
+     280.70700000000005
+    ],
+    [
+     42.6,
+     295.027,
+     148.35699999999997,
+     306.06
+    ],
+    [
+     42.6,
+     307.72700000000003,
+     147.76699999999997,
+     318.76000000000005
+    ],
+    [
+     42.6,
+     320.327,
+     148.35099999999997,
+     331.36
+    ],
+    [
+     42.6,
+     333.027,
+     147.74099999999999,
+     344.06
+    ],
+    [
+     42.6,
+     345.627,
+     149.051,
+     356.66
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q012_p10.jpg",
+   "revisao/Q012_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q013",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 13,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise o infográfico abaixo que trata de estatísticas sobre ataques de tubarão ocorridos até meados de junho do corrente ano (Publicado no Jornal do Commercio em 04/06/2018).\n\n‘\n\n{{img:1}}\n\nCom base nas informações apresentadas, analise as afirmativas a seguir:\n\nI. Com relação ao número de ataques, ocorridos entre a Igrejinha de Piedade e o Segundo Jardim de Boa Viagem, os incidentes ocorridos na Igrejinha de Piedade superam os de Boa Viagem em 44%.\n\nII. Com relação às lesões decorrentes dos ataques, a razão entre o número de lesões apenas em membros inferiores e o número de lesões apenas em membros superiores pode ser representada por uma dízima periódica simples.\n\nIII. Sobre a radiografia dos ataques, concluímos que a razão entre o número de mortos e o de\n\ncasos ocorridos entre o Segundo Jardim de Boa Viagem e a Igrejinha de Piedade é . Está **CORRETO** o que se afirma em",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "III, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "I e II, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "II e III, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II e III."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q013_img1.png",
+    "pagina": 12,
+    "bbox": [
+     135.4,
+     99.6,
+     421.9,
+     584.7
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   12,
+   13
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.6,
+     69.57700000000011,
+     552.7329969999997,
+     80.57700000000011
+    ],
+    [
+     42.6,
+     82.27700000000016,
+     425.92800000000005,
+     93.27700000000016
+    ],
+    [
+     78.625,
+     95.58000000000015,
+     81.375,
+     106.58000000000015
+    ],
+    [
+     135.36,
+     99.60000000000002,
+     421.92,
+     584.7499939
+    ],
+    [
+     42.599999999999994,
+     591.3569999999991,
+     403.35900300000003,
+     602.3569999999991
+    ],
+    [
+     63.89999999999999,
+     616.656999999999,
+     552.9690029999999,
+     627.656999999999
+    ],
+    [
+     85.22499999999998,
+     629.3569999999991,
+     552.7930019999998,
+     640.356999999999
+    ],
+    [
+     85.22499999999998,
+     641.956999999999,
+     168.99899799999997,
+     652.956999999999
+    ],
+    [
+     63.89999999999998,
+     654.676999999999,
+     552.5709999999999,
+     665.676999999999
+    ],
+    [
+     85.22499999999997,
+     667.276999999999,
+     552.7909999999999,
+     678.276999999999
+    ],
+    [
+     85.22499999999997,
+     679.976999999999,
+     319.9100000000001,
+     690.976999999999
+    ],
+    [
+     60.6,
+     692.577,
+     553.0160009999996,
+     703.577
+    ],
+    [
+     85.225,
+     712.4770000000001,
+     507.357998,
+     723.477
+    ]
+   ],
+   "13": [
+    [
+     42.600000000000136,
+     44.277000000000044,
+     219.94599800000015,
+     55.277000000000044
+    ],
+    [
+     42.600000000000136,
+     66.17700000000002,
+     112.27800000000015,
+     77.17700000000002
+    ],
+    [
+     42.600000000000136,
+     78.77700000000004,
+     118.37800000000014,
+     89.77700000000004
+    ],
+    [
+     42.600000000000136,
+     91.49700000000007,
+     130.57800000000012,
+     102.49700000000007
+    ],
+    [
+     42.60000000000012,
+     104.10700000000008,
+     136.6880000000001,
+     115.10700000000008
+    ],
+    [
+     42.60000000000011,
+     116.80700000000013,
+     103.63200500000012,
+     127.80700000000013
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [
+   "PENDENTE: há um trecho desenhado (sem texto no PDF) entre “é” e “.” na linha “casos ocorridos entre o Segundo Jardim de Boa Viagem e a Igrejinha de ” — transcrever lendo a imagem",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "texto curto solto junto da imagem (“‘”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q013_p12.jpg",
+   "revisao/Q013_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q014",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 14,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "No mês de setembro, uma loja de roupas teve um lucro [*L(y)*] de R$ 40 200,00, em função do que foi investido (y), como representado na expressão *L(y) = 8y+200*. Quanto deverá ser o investimento em reais no mês de outubro, para que o lucro obtido quadruplique, considerando essa mesma expressão para o lucro?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "20 000,00"
+   },
+   {
+    "letra": "B",
+    "texto": "20 035,00"
+   },
+   {
+    "letra": "C",
+    "texto": "20 045,00"
+   },
+   {
+    "letra": "D",
+    "texto": "20 075,00"
+   },
+   {
+    "letra": "E",
+    "texto": "20 100,00"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.60000000000011,
+     154.70700000000022,
+     552.8470030000002,
+     165.70700000000022
+    ],
+    [
+     42.60000000000008,
+     167.40700000000027,
+     552.8200000000003,
+     178.40700000000027
+    ],
+    [
+     42.600000000000136,
+     179.9970000000003,
+     552.872004,
+     190.9970000000003
+    ],
+    [
+     42.600000000000136,
+     192.70700000000033,
+     106.83599600000014,
+     203.70700000000033
+    ],
+    [
+     42.6,
+     217.99700000000007,
+     112.82800000000002,
+     228.99700000000007
+    ],
+    [
+     42.6,
+     230.60700000000008,
+     112.82800000000002,
+     241.60700000000008
+    ],
+    [
+     42.6,
+     243.30700000000002,
+     112.828,
+     254.30700000000002
+    ],
+    [
+     42.6,
+     255.90700000000004,
+     112.82800000000002,
+     266.90700000000004
+    ],
+    [
+     42.6,
+     268.607,
+     112.82800000000002,
+     279.607
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q014_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q015",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 15,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Se dividirmos 2018 por todos os números naturais de 1 a 1 000, qual o maior resto obtido?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "336"
+   },
+   {
+    "letra": "B",
+    "texto": "672"
+   },
+   {
+    "letra": "C",
+    "texto": "1 009"
+   },
+   {
+    "letra": "D",
+    "texto": "1 018"
+   },
+   {
+    "letra": "E",
+    "texto": "2 017"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.6,
+     293.927,
+     503.79099899999983,
+     304.927
+    ],
+    [
+     42.6,
+     319.22700000000003,
+     82.21600000000001,
+     330.22700000000003
+    ],
+    [
+     42.6,
+     331.82700000000006,
+     82.21600000000001,
+     342.82700000000006
+    ],
+    [
+     42.6,
+     344.52700000000004,
+     91.422004,
+     355.52700000000004
+    ],
+    [
+     42.6,
+     357.12700000000007,
+     91.422005,
+     368.12700000000007
+    ],
+    [
+     42.60000000000001,
+     369.82700000000006,
+     91.422005,
+     380.82700000000006
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q016",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 16,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\n{{img:2}}\n\nConsidere a figura a seguir. Com base nesta, assinale a alternativa que apresenta uma figura obtida quando realizamos uma simetria de reflexão, segundo um eixo vertical.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": ""
+   },
+   {
+    "letra": "B",
+    "texto": "{{img:3}}"
+   },
+   {
+    "letra": "C",
+    "texto": "{{img:4}}"
+   },
+   {
+    "letra": "D",
+    "texto": "{{img:5}}"
+   },
+   {
+    "letra": "E",
+    "texto": "{{img:6}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q016_img1.png",
+    "pagina": 13,
+    "bbox": [
+     316.8,
+     433.4,
+     408.2,
+     480.2
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q016_img2.png",
+    "pagina": 13,
+    "bbox": [
+     54.7,
+     433.4,
+     172.1,
+     502.6
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q016_img3.png",
+    "pagina": 13,
+    "bbox": [
+     316.8,
+     499.7,
+     408.2,
+     545.8
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q016_img4.png",
+    "pagina": 13,
+    "bbox": [
+     316.8,
+     560.2,
+     408.2,
+     607.0
+    ]
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q016_img5.png",
+    "pagina": 13,
+    "bbox": [
+     316.8,
+     626.4,
+     408.2,
+     673.2
+    ]
+   },
+   {
+    "id": 6,
+    "arquivo": "img/Q016_img6.png",
+    "pagina": 13,
+    "bbox": [
+     316.8,
+     690.5,
+     408.2,
+     728.6
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.60000000000001,
+     395.12700000000007,
+     553.0349849999998,
+     406.12700000000007
+    ],
+    [
+     42.60000000000001,
+     407.7270000000001,
+     389.6830000000001,
+     418.7270000000001
+    ],
+    [
+     316.8,
+     433.44,
+     408.24,
+     480.24
+    ],
+    [
+     54.72,
+     433.44,
+     172.08,
+     502.56
+    ],
+    [
+     281.85,
+     433.027,
+     291.629,
+     444.027
+    ],
+    [
+     316.8,
+     499.68,
+     408.24,
+     545.76
+    ],
+    [
+     281.85,
+     506.657,
+     291.629,
+     517.6569999999999
+    ],
+    [
+     316.8,
+     560.16,
+     408.24,
+     606.96
+    ],
+    [
+     281.85,
+     569.9570000000001,
+     291.01300000000003,
+     580.957
+    ],
+    [
+     316.8,
+     626.4,
+     408.24,
+     673.2
+    ],
+    [
+     281.85,
+     633.157,
+     291.629,
+     644.157
+    ],
+    [
+     316.8,
+     690.48,
+     408.24,
+     728.64
+    ],
+    [
+     281.85,
+     696.3770000000001,
+     291.629,
+     707.3770000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [
+   "alternativa vazia"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q016_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q017",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 17,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\n{{img:2}}\n\n{{img:3}}\n\n{{img:4}}\n\nQual dos gráficos a seguir representa duas grandezas inversamente proporcionais cuja equação",
+  "fontes": [],
+  "alternativas": [],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q017_img1.png",
+    "pagina": 14,
+    "bbox": [
+     37.4,
+     58.3,
+     362.3,
+     238.7
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q017_img2.png",
+    "pagina": 14,
+    "bbox": [
+     398.4,
+     82.4,
+     552.1,
+     235.5
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q017_img3.png",
+    "pagina": 14,
+    "bbox": [
+     224.1,
+     238.1,
+     377.7,
+     391.2
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q017_img4.png",
+    "pagina": 14,
+    "bbox": [
+     37.8,
+     255.2,
+     193.4,
+     372.8
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.6,
+     44.277000000000044,
+     553.045006,
+     55.277000000000044
+    ],
+    [
+     37.39999,
+     58.32,
+     220.11800000000002,
+     238.69000000000005
+    ],
+    [
+     224.14999,
+     84.74999000000003,
+     362.34999,
+     237.85000000000002
+    ],
+    [
+     398.45,
+     82.39998000000003,
+     552.0500099999999,
+     235.49999000000003
+    ],
+    [
+     224.10001,
+     238.08999000000006,
+     377.70002,
+     391.19
+    ],
+    [
+     37.8,
+     255.18998999999997,
+     193.35000000000002,
+     372.79
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "0 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q017_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q018",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 18,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Os dois polígonos regulares a seguir são semelhantes, e a razão de semelhança de B para\n\nA é de .\n\n{{img:1}}\n\nCom base nessas informações, analise as sentenças seguintes:\n\nI. A medida do perímetro do polígono B corresponde a 60% da medida do perímetro do polígono A.\n\nII. Os ângulos do polígono B têm medidas inferiores a 30% das medidas do polígono A.\n\nIII. As áreas dos dois polígonos estão na mesma razão de semelhança que as medidas dos perímetros.\n\nEstá **CORRETO** o que se afirma em",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "II, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "I e II, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "II e III, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II e III."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q018_img1.png",
+    "pagina": 14,
+    "bbox": [
+     203.2,
+     433.6,
+     392.3,
+     554.2
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.6,
+     410.72700000000003,
+     552.9870029999997,
+     421.72700000000003
+    ],
+    [
+     63.900000000000006,
+     429.627,
+     107.67800000000001,
+     440.627
+    ],
+    [
+     203.1999969,
+     433.61998900000003,
+     392.3499908,
+     554.2199951
+    ],
+    [
+     42.599999999999994,
+     560.957,
+     355.69999600000006,
+     571.957
+    ],
+    [
+     54.49999999999999,
+     580.457,
+     538.8689999999999,
+     591.457
+    ],
+    [
+     51.39999999999999,
+     593.1569999999999,
+     478.50199299999997,
+     604.1569999999999
+    ],
+    [
+     48.39999999999998,
+     605.747,
+     552.8930109999998,
+     616.747
+    ],
+    [
+     63.89999999999998,
+     618.457,
+     119.51599999999999,
+     629.457
+    ],
+    [
+     42.59999999999998,
+     637.957,
+     219.945998,
+     648.957
+    ],
+    [
+     45.89999999999999,
+     663.2769999999999,
+     112.278,
+     674.2769999999999
+    ],
+    [
+     45.9,
+     675.977,
+     115.278,
+     686.977
+    ],
+    [
+     45.900000000000006,
+     688.577,
+     130.578,
+     699.577
+    ],
+    [
+     45.900000000000006,
+     701.2769999999999,
+     136.688,
+     712.2769999999999
+    ],
+    [
+     45.89999999999999,
+     713.877,
+     103.632005,
+     724.877
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [
+   "PENDENTE: há um trecho desenhado (sem texto no PDF) entre “de” e “.” na linha “A é de .” — transcrever lendo a imagem",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q018_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q019",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 19,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nEm um mesmo sistema de coordenadas cartesianas, considere as representações das funções ( ) . Em quantas regiões, essas representações dividem o plano?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1"
+   },
+   {
+    "letra": "B",
+    "texto": "2"
+   },
+   {
+    "letra": "C",
+    "texto": "3"
+   },
+   {
+    "letra": "D",
+    "texto": "4"
+   },
+   {
+    "letra": "E",
+    "texto": "5"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q019_img1.png",
+    "pagina": 15,
+    "bbox": [
+     67.7,
+     57.1,
+     190.8,
+     68.4
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.6,
+     44.277000000000044,
+     552.7999919999997,
+     55.277000000000044
+    ],
+    [
+     49.0,
+     57.14200000000005,
+     64.36500000000001,
+     68.37700000000007
+    ],
+    [
+     191.83,
+     57.377000000000066,
+     495.69599400000004,
+     68.37700000000007
+    ],
+    [
+     67.68,
+     57.14200000000005,
+     190.8,
+     68.4
+    ],
+    [
+     42.60000000000002,
+     82.77700000000016,
+     70.01600500000002,
+     93.77700000000016
+    ],
+    [
+     42.60000000000002,
+     95.40700000000015,
+     70.01600500000002,
+     106.40700000000015
+    ],
+    [
+     42.60000000000002,
+     108.1070000000002,
+     70.01600400000002,
+     119.1070000000002
+    ],
+    [
+     42.60000000000002,
+     120.70700000000022,
+     70.01600500000002,
+     131.70700000000022
+    ],
+    [
+     42.60000000000002,
+     133.40700000000027,
+     70.01600500000002,
+     144.40700000000027
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [
+   "PENDENTE: há um trecho desenhado (sem texto no PDF) entre “(” e “)” na linha “( )” — transcrever lendo a imagem",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q019_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q020",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 20,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Ana leva 15 minutos, todos os dias, para chegar ao seu trabalho, viajando de metrô. Trabalha durante 8 horas por dia e utiliza, apenas, 1 hora e 15 minutos de intervalo para o almoço, a fim de conseguir largar mais cedo. Para retornar, ela pega uma carona com seu irmão e leva exatamente 35 minutos para chegar a sua casa, por causa do tráfego intenso no horário. Nessas condições, se Ana sai de casa todos os dias às 7 horas e 30 minutos, em que horário ela chega a sua casa nos dias em que vai ao trabalho?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "18 horas e 15 minutos"
+   },
+   {
+    "letra": "B",
+    "texto": "18 horas"
+   },
+   {
+    "letra": "C",
+    "texto": "17 horas e 05 minutos"
+   },
+   {
+    "letra": "D",
+    "texto": "17 horas e 35 minutos"
+   },
+   {
+    "letra": "E",
+    "texto": "16 horas e 30 minutos"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.60000000000002,
+     171.30700000000036,
+     552.9359849999998,
+     182.30700000000036
+    ],
+    [
+     42.60000000000002,
+     183.9970000000004,
+     552.8779989999999,
+     194.9970000000004
+    ],
+    [
+     42.60000000000002,
+     196.60700000000043,
+     552.9580019999999,
+     207.60700000000043
+    ],
+    [
+     42.60000000000002,
+     209.30700000000047,
+     553.042,
+     220.30700000000047
+    ],
+    [
+     42.60000000000002,
+     221.9070000000005,
+     553.021999,
+     232.9070000000005
+    ],
+    [
+     42.60000000000005,
+     234.60700000000054,
+     120.82199000000006,
+     245.60700000000054
+    ],
+    [
+     42.60000000000005,
+     259.9070000000005,
+     172.73099800000006,
+     270.9070000000005
+    ],
+    [
+     42.60000000000005,
+     272.5070000000005,
+     106.72000200000005,
+     283.5070000000005
+    ],
+    [
+     42.60000000000005,
+     285.22700000000054,
+     172.73099800000006,
+     296.22700000000054
+    ],
+    [
+     42.60000000000005,
+     297.82700000000057,
+     172.73099500000006,
+     308.82700000000057
+    ],
+    [
+     42.60000000000005,
+     310.52700000000056,
+     172.73099800000006,
+     321.52700000000056
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q020_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q021",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 21,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um representante de produtos de informática comprou um computador ao seu fornecedor e o colocou à venda com um lucro de 40%. Após meses, como não estava conseguindo vender o computador, passou a oferecê-lo com um desconto de 25% sobre o preço de venda. Assim, esse representante teve sobre o preço de compra do computador",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "um prejuízo de 5%."
+   },
+   {
+    "letra": "B",
+    "texto": "um lucro de 5%."
+   },
+   {
+    "letra": "C",
+    "texto": "um prejuízo de 35%."
+   },
+   {
+    "letra": "D",
+    "texto": "um lucro de 35%."
+   },
+   {
+    "letra": "E",
+    "texto": "um prejuízo de 65%."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.60000000000005,
+     335.82700000000057,
+     552.846002,
+     346.82700000000057
+    ],
+    [
+     42.60000000000002,
+     348.4270000000006,
+     552.6919999999998,
+     359.4270000000006
+    ],
+    [
+     42.60000000000002,
+     361.1270000000006,
+     553.0089979999999,
+     372.1270000000006
+    ],
+    [
+     42.60000000000002,
+     373.7270000000006,
+     336.213,
+     384.7270000000006
+    ],
+    [
+     42.60000000000002,
+     399.0270000000006,
+     158.71500000000003,
+     410.0270000000006
+    ],
+    [
+     42.60000000000002,
+     411.7270000000006,
+     143.41900500000003,
+     422.7270000000006
+    ],
+    [
+     42.60000000000002,
+     424.3270000000006,
+     164.84700400000003,
+     435.3270000000006
+    ],
+    [
+     42.60000000000002,
+     437.0270000000006,
+     149.535005,
+     448.0270000000006
+    ],
+    [
+     42.60000000000002,
+     449.62700000000063,
+     164.84700500000002,
+     460.62700000000063
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q022",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 22,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nNo loteamento Terra Boa, há um terreno de formato triangular, conforme o esboço a seguir, que tem um dos lados medindo 7 metros de comprimento e o outro, 5 metros. O terceiro lado desse terreno forma com o lado de comprimento 5 metros um ângulo de 60<sup>o</sup>. Com base nessas informações, qual a medida, em metros, do comprimento do terceiro lado desse terreno?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "3"
+   },
+   {
+    "letra": "B",
+    "texto": "5"
+   },
+   {
+    "letra": "C",
+    "texto": "8"
+   },
+   {
+    "letra": "D",
+    "texto": "9"
+   },
+   {
+    "letra": "E",
+    "texto": "12"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q022_img1.png",
+    "pagina": 15,
+    "bbox": [
+     233.7,
+     547.9,
+     531.6,
+     713.8
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.60000000000002,
+     487.65700000000066,
+     552.9639910000001,
+     498.65700000000066
+    ],
+    [
+     42.60000000000002,
+     500.2570000000007,
+     552.7340199999999,
+     511.2570000000007
+    ],
+    [
+     42.60000000000002,
+     512.9570000000007,
+     552.988,
+     523.9570000000007
+    ],
+    [
+     42.60000000000002,
+     525.5570000000007,
+     377.01100000000014,
+     536.5570000000007
+    ],
+    [
+     233.6999969,
+     547.85,
+     531.6499938,
+     713.7999969
+    ],
+    [
+     42.60000000000002,
+     550.8570000000007,
+     76.17400000000002,
+     561.8570000000007
+    ],
+    [
+     42.60000000000002,
+     563.4570000000007,
+     76.17400000000002,
+     574.4570000000007
+    ],
+    [
+     42.60000000000002,
+     576.1570000000006,
+     76.17400000000002,
+     587.1570000000006
+    ],
+    [
+     42.60000000000002,
+     588.7470000000006,
+     76.17400000000002,
+     599.7470000000006
+    ],
+    [
+     42.60000000000002,
+     601.4570000000007,
+     76.11600000000001,
+     612.4570000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q022_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q023",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 23,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4087-T3",
+  "textos_base_ids": [
+   "P4087-T3"
+  ],
+  "enunciado": "Fenômenos naturais, que são alvos de estudo da física, ocorrem a todo momento e em todos os lugares. Observá-los, após as aulas, abre o nosso olhar sobre o porquê de cada acontecimento. O estudo da cinemática, mais especificamente do Repouso, pode ser observado em qual evento da natureza a seguir, estando o aluno sentado no banco da praça?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Um pássaro dando voo rasante até o chão."
+   },
+   {
+    "letra": "B",
+    "texto": "Durante a frenagem de uma abelha ao posar."
+   },
+   {
+    "letra": "C",
+    "texto": "Queda de uma maçã de uma árvore."
+   },
+   {
+    "letra": "D",
+    "texto": "Um carro parado esperando o semáforo abrir."
+   },
+   {
+    "letra": "E",
+    "texto": "Rotação das hélices de um ventilador com velocidade constante."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.60000000000001,
+     120.20700000000022,
+     552.7470000000001,
+     131.20700000000022
+    ],
+    [
+     42.60000000000001,
+     132.90700000000027,
+     552.8700019999998,
+     143.90700000000027
+    ],
+    [
+     42.60000000000001,
+     145.4970000000003,
+     552.6479999999998,
+     156.4970000000003
+    ],
+    [
+     42.60000000000001,
+     158.20700000000033,
+     354.3510000000001,
+     169.20700000000033
+    ],
+    [
+     42.60000000000001,
+     177.70700000000033,
+     274.79200500000013,
+     188.70700000000033
+    ],
+    [
+     42.60000000000001,
+     190.40700000000038,
+     286.48100100000016,
+     201.40700000000038
+    ],
+    [
+     42.60000000000001,
+     202.9970000000004,
+     243.68400400000013,
+     213.9970000000004
+    ],
+    [
+     42.60000000000001,
+     215.70700000000045,
+     287.58500500000014,
+     226.70700000000045
+    ],
+    [
+     42.60000000000001,
+     228.30700000000047,
+     380.5680050000001,
+     239.30700000000047
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q024",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 24,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nUm bloco de massa m = 2,0 kg está em repouso sobre uma superfície horizontal sem atrito. Em t = 0,0 o bloco é puxado horizontalmente com uma força constante de 5,0 N por um motor de massa M = 10,0 kg. Sabendo que o motor está preso ao solo, determine a distância percorrida pelo bloco quando t = 4,0 s.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "4 m"
+   },
+   {
+    "letra": "B",
+    "texto": "8 m"
+   },
+   {
+    "letra": "C",
+    "texto": "10 m"
+   },
+   {
+    "letra": "D",
+    "texto": "16 m"
+   },
+   {
+    "letra": "E",
+    "texto": "20 m"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q024_img1.png",
+    "pagina": 16,
+    "bbox": [
+     263.9,
+     324.0,
+     488.7,
+     444.0
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.60000000000001,
+     278.9270000000005,
+     552.5830009999999,
+     289.9270000000005
+    ],
+    [
+     42.60000000000001,
+     291.62700000000046,
+     552.6479999999999,
+     302.62700000000046
+    ],
+    [
+     42.60000000000001,
+     304.2270000000005,
+     552.5269999999997,
+     315.2270000000005
+    ],
+    [
+     42.60000000000001,
+     316.9270000000005,
+     124.90200000000003,
+     327.9270000000005
+    ],
+    [
+     263.8999939,
+     323.99999379999997,
+     488.69999700000005,
+     444.0499969
+    ],
+    [
+     42.60000000000001,
+     354.8270000000005,
+     88.318,
+     365.8270000000005
+    ],
+    [
+     42.60000000000001,
+     367.5270000000005,
+     88.318,
+     378.5270000000005
+    ],
+    [
+     42.60000000000001,
+     380.1270000000005,
+     88.35300400000001,
+     391.1270000000005
+    ],
+    [
+     42.60000000000001,
+     392.8270000000005,
+     88.35300500000001,
+     403.8270000000005
+    ],
+    [
+     42.60000000000001,
+     405.42700000000053,
+     88.35300500000001,
+     416.42700000000053
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q024_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q025",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 25,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "“Funda: arma de arremesso constituída por uma correia, ou corda dobrada, em cujo centro é colocado o objeto que se deseja lançar”. *Fonte: Dicionário Houaiss da língua portuguesa, p. 938.*\n\nSuponha que a velocidade inicial de uma pedra lançada por um arremessador de funda seja de 20,0 m/s e o ângulo de lançamento tenha uma inclinação com a horizontal para o alcance máximo. Se o lançamento ocorrer de uma altura de 2,1 m, o alcance máximo, sem a resistência do ar, será",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "12 m."
+   },
+   {
+    "letra": "B",
+    "texto": "30 m."
+   },
+   {
+    "letra": "C",
+    "texto": "35 m."
+   },
+   {
+    "letra": "D",
+    "texto": "42 m."
+   },
+   {
+    "letra": "E",
+    "texto": "90 m."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.6,
+     482.157,
+     552.724,
+     493.19
+    ],
+    [
+     63.9,
+     494.79,
+     487.379,
+     505.79
+    ],
+    [
+     42.6,
+     520.057,
+     553.011,
+     531.057
+    ],
+    [
+     42.6,
+     532.7470000000001,
+     552.656,
+     543.7470000000001
+    ],
+    [
+     42.6,
+     545.357,
+     495.558,
+     556.357
+    ],
+    [
+     42.6,
+     571.857,
+     91.48300000000002,
+     582.857
+    ],
+    [
+     42.6,
+     584.4570000000001,
+     91.48300000000002,
+     595.457
+    ],
+    [
+     42.6,
+     597.157,
+     91.483,
+     608.157
+    ],
+    [
+     42.6,
+     609.7470000000001,
+     91.48300000000002,
+     620.7470000000001
+    ],
+    [
+     42.6,
+     622.4570000000001,
+     91.48300000000002,
+     633.457
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q026",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 26,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observando uma partida de futebol, qual das alternativas abaixo descreve um evento CONSISTENTE com o estudo da Mecânica Clássica?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A bola ganha velocidade ao quicar em uma poça de água após o chute de um jogador."
+   },
+   {
+    "letra": "B",
+    "texto": "Uma bola sai do pé do jogador sem rotação e, após colidir com o travessão, volta aos pés do jogador com velocidade maior que no início do chute."
+   },
+   {
+    "letra": "C",
+    "texto": "Em um jogo de futebol, não existe fenômeno mecânico relacionado com o estudo da Física."
+   },
+   {
+    "letra": "D",
+    "texto": "O fato de a chuteira ser de cravos grandes ou pequenos, de metal ou plástico, fazendo o jogador escorregar mais ou menos em dias chuvosos, diz respeito ao estudo da gravitação universal."
+   },
+   {
+    "letra": "E",
+    "texto": "O encontro entre a chuteira de um jogador e a bola no instante do chute é um exemplo de choque parcialmente elástico no qual há transferência de energia e momento."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     44.277000000000044,
+     552.7139999999998,
+     55.277000000000044
+    ],
+    [
+     42.6,
+     56.97700000000009,
+     306.03900000000016,
+     67.97700000000009
+    ],
+    [
+     42.6,
+     78.77700000000004,
+     487.5650049999998,
+     89.77700000000004
+    ],
+    [
+     42.6,
+     91.49700000000007,
+     552.8420079999999,
+     102.49700000000007
+    ],
+    [
+     63.9,
+     104.10700000000008,
+     324.29200000000003,
+     115.10700000000008
+    ],
+    [
+     42.6,
+     116.80700000000002,
+     511.9300039999998,
+     127.80700000000002
+    ],
+    [
+     42.6,
+     129.40700000000004,
+     552.7810019999998,
+     140.40700000000004
+    ],
+    [
+     63.9,
+     142.10700000000008,
+     518.0129999999998,
+     153.10700000000008
+    ],
+    [
+     42.6,
+     154.7070000000001,
+     552.5090049999999,
+     165.7070000000001
+    ],
+    [
+     63.9,
+     167.40700000000004,
+     404.519004,
+     178.40700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q026_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q027",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 27,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nUm bloco A de massa m<sub>A</sub> = 1,0 kg viaja com velocidade constante e horizontal de módulo v<sub>A</sub> igual a 4,0 m/s. Após a colisão com um bloco B, de massa m<sub>B</sub> = 3,0 kg que está inicialmente em repouso, verifica-se que os blocos seguem unidos no sentido positivo do eixo x. Há atrito apenas na área hachurada de comprimento d = 1,0 m cujo coeficiente de atrito cinético vale μ = 0,5. Determine, em joules, o valor absoluto da energia dissipada no experimento.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1,0"
+   },
+   {
+    "letra": "B",
+    "texto": "2,0"
+   },
+   {
+    "letra": "C",
+    "texto": "6,0"
+   },
+   {
+    "letra": "D",
+    "texto": "8,0"
+   },
+   {
+    "letra": "E",
+    "texto": "10,0"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q027_img1.png",
+    "pagina": 17,
+    "bbox": [
+     298.8,
+     272.4,
+     499.6,
+     398.7
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     205.30700000000002,
+     552.992001,
+     216.30700000000002
+    ],
+    [
+     42.6,
+     217.99700000000007,
+     553.0710050000001,
+     228.99700000000007
+    ],
+    [
+     42.6,
+     230.60700000000008,
+     552.6390019999999,
+     241.60700000000008
+    ],
+    [
+     42.6,
+     244.10700000000008,
+     552.883,
+     255.20600000000002
+    ],
+    [
+     42.6,
+     256.807,
+     341.5019990000002,
+     267.80699999999996
+    ],
+    [
+     298.75,
+     272.35,
+     499.55,
+     398.70001
+    ],
+    [
+     42.6,
+     294.72700000000003,
+     79.190005,
+     305.72700000000003
+    ],
+    [
+     42.6,
+     307.427,
+     79.190005,
+     318.427
+    ],
+    [
+     42.6,
+     320.027,
+     79.190004,
+     331.027
+    ],
+    [
+     42.6,
+     332.72700000000003,
+     79.190005,
+     343.72700000000003
+    ],
+    [
+     42.6,
+     345.327,
+     78.206,
+     356.327
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q027_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q028",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 28,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nUma máquina de cortar macarrão é formada por um tubo, que força a passagem da massa crua através de orifícios em uma chapa metálica circular. A chapa possui uma lâmina, que gira em movimento uniforme e que faz o corte à medida que a massa sai pelos orifícios, conforme ilustra a figura. Se a massa crua atravessa os orifícios a uma velocidade constante de 8 cm/s, qual a velocidade constante de giro da lâmina para que cada pedaço de massa tenha, no mínimo, 4 cm de comprimento?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "πrad/s"
+   },
+   {
+    "letra": "B",
+    "texto": "2πrad/s"
+   },
+   {
+    "letra": "C",
+    "texto": "4πrad/s"
+   },
+   {
+    "letra": "D",
+    "texto": "8πrad/s"
+   },
+   {
+    "letra": "E",
+    "texto": "16πrad/s"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q028_img1.png",
+    "pagina": 17,
+    "bbox": [
+     292.2,
+     521.7,
+     470.7,
+     621.9
+    ]
+   }
+  ],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     433.827,
+     552.483,
+     444.827
+    ],
+    [
+     42.6,
+     446.527,
+     552.6479999999999,
+     457.527
+    ],
+    [
+     42.6,
+     459.127,
+     552.8889989999999,
+     470.127
+    ],
+    [
+     42.6,
+     471.857,
+     552.5819999999998,
+     482.857
+    ],
+    [
+     42.6,
+     484.457,
+     546.8289999999998,
+     495.457
+    ],
+    [
+     42.6,
+     510.557,
+     101.4,
+     521.656
+    ],
+    [
+     292.215,
+     521.71748,
+     470.68499999999995,
+     621.93249
+    ],
+    [
+     42.6,
+     524.057,
+     100.5,
+     535.1560000000001
+    ],
+    [
+     42.6,
+     537.557,
+     100.5,
+     548.6560000000001
+    ],
+    [
+     42.6,
+     551.057,
+     100.49900000000001,
+     562.1560000000001
+    ],
+    [
+     42.6,
+     564.4570000000001,
+     99.5,
+     575.556
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q028_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q029",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 29,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nUm *drone* voador deve monitorar a umidade e temperatura de uma pequena região em uma plantação de cana-de-açúcar. O *drone* parte do solo e sobe a uma altura de 4 m para fazer as medições. O trajeto do *drone*, composto de decolagem vertical, monitoramento e pouso vertical em uma inspeção, está ilustrado na figura a seguir. É **CORRETO** afirmar que seu deslocamento resultante tem módulo igual a",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "46 m."
+   },
+   {
+    "letra": "B",
+    "texto": "38 m."
+   },
+   {
+    "letra": "C",
+    "texto": "32 m."
+   },
+   {
+    "letra": "D",
+    "texto": "12 m."
+   },
+   {
+    "letra": "E",
+    "texto": "10 m."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q029_img1.png",
+    "pagina": 18,
+    "bbox": [
+     370.1,
+     104.2,
+     538.4,
+     272.2
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.600000000000136,
+     44.277000000000044,
+     552.7900050000001,
+     55.277000000000044
+    ],
+    [
+     42.600000000000136,
+     56.97700000000009,
+     552.7620040000003,
+     67.97700000000009
+    ],
+    [
+     42.600000000000136,
+     69.57700000000011,
+     552.7940000000002,
+     80.57700000000011
+    ],
+    [
+     42.600000000000136,
+     82.27700000000016,
+     552.7029950000001,
+     93.27700000000016
+    ],
+    [
+     42.60000000000008,
+     94.90700000000015,
+     114.08900000000008,
+     105.90700000000015
+    ],
+    [
+     370.1000061,
+     104.19999080000002,
+     538.4000092,
+     272.24999390000005
+    ],
+    [
+     42.60000000000008,
+     120.20700000000022,
+     91.48300000000009,
+     131.20700000000022
+    ],
+    [
+     42.60000000000008,
+     132.90700000000027,
+     91.48300000000009,
+     143.90700000000027
+    ],
+    [
+     42.60000000000008,
+     145.4970000000003,
+     91.48299900000009,
+     156.4970000000003
+    ],
+    [
+     42.60000000000008,
+     158.20700000000033,
+     91.48300000000009,
+     169.20700000000033
+    ],
+    [
+     42.60000000000008,
+     170.80700000000036,
+     91.48300000000009,
+     181.80700000000036
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q029_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q030",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 30,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Durante a Copa do Mundo na Rússia, o movimento descrito pela bola em razão de um determinado chute em uma partida de futebol é parabólico. Desprezando a resistência do ar e desconsiderando a dissipação de energia, é **CORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a maior velocidade resultante ocorre no ponto de maior altura da bola."
+   },
+   {
+    "letra": "B",
+    "texto": "a energia mecânica total é máxima somente no ponto de maior altura."
+   },
+   {
+    "letra": "C",
+    "texto": "a energia mecânica total é constante."
+   },
+   {
+    "letra": "D",
+    "texto": "a energia potencial gravitacional é constante durante toda a trajetória."
+   },
+   {
+    "letra": "E",
+    "texto": "a energia cinética é máxima no ponto de maior altura da bola."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.60000000000008,
+     310.02700000000056,
+     552.6479999999999,
+     321.02700000000056
+    ],
+    [
+     42.60000000000008,
+     322.6270000000006,
+     552.56,
+     333.6270000000006
+    ],
+    [
+     42.60000000000008,
+     335.32700000000057,
+     278.67599800000005,
+     346.32700000000057
+    ],
+    [
+     42.60000000000009,
+     357.1270000000006,
+     406.08700400000004,
+     368.1270000000006
+    ],
+    [
+     42.600000000000094,
+     369.82700000000057,
+     404.9110050000001,
+     380.82700000000057
+    ],
+    [
+     42.600000000000094,
+     382.4270000000006,
+     246.7200040000002,
+     393.4270000000006
+    ],
+    [
+     42.600000000000094,
+     395.1270000000006,
+     404.35000500000024,
+     406.1270000000006
+    ],
+    [
+     42.600000000000094,
+     407.7270000000006,
+     365.39100800000017,
+     418.7270000000006
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q030_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q031",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 31,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Ao deslocar-se no sentido Recife-Gravatá, passa-se primeiro pela Ponte Cascavel, cujo comprimento é de 450 m. e, cerca de 3,5 km após, passará pelo Túnel de mesmo nome com comprimento de 370 m. Um caminhão, com aproximadamente 30 m de comprimento, inicia a travessia da ponte com velocidade constante de 72 km/h, mantendo-a até a entrada do túnel. No momento da\n\ntravessia do túnel, passa a existir a aceleração de m/s<sup>2</sup>. Qual o tempo total aproximado que o\n\ncaminhão gastou na travessia da ponte e do túnel?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "16 s"
+   },
+   {
+    "letra": "B",
+    "texto": "24 s"
+   },
+   {
+    "letra": "C",
+    "texto": "40 s"
+   },
+   {
+    "letra": "D",
+    "texto": "44 s"
+   },
+   {
+    "letra": "E",
+    "texto": "64 s"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.6,
+     445.72700000000003,
+     552.9599929999999,
+     456.72700000000003
+    ],
+    [
+     42.6,
+     458.32700000000006,
+     552.980001,
+     469.32700000000006
+    ],
+    [
+     42.6,
+     471.057,
+     552.936002,
+     482.057
+    ],
+    [
+     42.6,
+     483.657,
+     552.873,
+     494.657
+    ],
+    [
+     42.6,
+     502.857,
+     552.8160000000001,
+     513.857
+    ],
+    [
+     42.6,
+     520.2470000000001,
+     292.06599700000015,
+     531.2470000000001
+    ],
+    [
+     42.6,
+     545.557,
+     84.69000500000001,
+     556.557
+    ],
+    [
+     42.60000000000001,
+     558.2470000000001,
+     84.69000500000001,
+     569.2470000000001
+    ],
+    [
+     42.60000000000001,
+     570.857,
+     84.69000400000002,
+     581.857
+    ],
+    [
+     42.60000000000001,
+     583.557,
+     84.69000500000001,
+     594.557
+    ],
+    [
+     42.60000000000001,
+     596.157,
+     84.69000500000001,
+     607.157
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [
+   "PENDENTE: há um trecho desenhado (sem texto no PDF) entre “de” e “m/s” na linha “travessia do túnel, passa a existir a aceleração de m/s 2 . Qual o tem” — transcrever lendo a imagem",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q031_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q032",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 32,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O gráfico a seguir representa o movimento de um bloco que está sendo arrastado em uma\n\nsuperfície rugosa, horizontal sobre o eixo x, atuando sobre ele apenas duas forças. Essas forças, mostradas no gráfico, são paralelas à superfície. Determine o trabalho resultante nos primeiros 10 m\n\n{{img:1}}\n\npara arrastar o bloco.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "90 J"
+   },
+   {
+    "letra": "B",
+    "texto": "145 J"
+   },
+   {
+    "letra": "C",
+    "texto": "160 J"
+   },
+   {
+    "letra": "D",
+    "texto": "180 J"
+   },
+   {
+    "letra": "E",
+    "texto": "205 J"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q032_img1.png",
+    "pagina": 19,
+    "bbox": [
+     260.6,
+     98.6,
+     507.6,
+     319.0
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     46.1,
+     44.277000000000044,
+     552.981,
+     55.277000000000044
+    ],
+    [
+     46.1,
+     58.877000000000066,
+     552.5949999999998,
+     69.87700000000007
+    ],
+    [
+     46.1,
+     73.37700000000007,
+     552.617,
+     84.37700000000007
+    ],
+    [
+     46.1,
+     87.99700000000007,
+     150.644,
+     98.99700000000007
+    ],
+    [
+     260.64,
+     98.64,
+     507.6,
+     318.96000000000004
+    ],
+    [
+     56.0,
+     127.90700000000004,
+     97.215,
+     138.90700000000004
+    ],
+    [
+     56.0,
+     140.60700000000008,
+     97.12,
+     151.60700000000008
+    ],
+    [
+     55.99999999999999,
+     153.2070000000001,
+     97.120002,
+     164.2070000000001
+    ],
+    [
+     55.99999999999999,
+     165.90700000000015,
+     97.114995,
+     176.90700000000015
+    ],
+    [
+     55.99999999999999,
+     178.49700000000018,
+     97.12,
+     189.49700000000018
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q032_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q033",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 33,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4087-T5",
+  "textos_base_ids": [
+   "P4087-T5"
+  ],
+  "enunciado": "In the first stanza of the song, the author intends to show the__________that he places in someone.\n\nThe **CORRECT** answer is",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "incredulity"
+   },
+   {
+    "letra": "B",
+    "texto": "fault"
+   },
+   {
+    "letra": "C",
+    "texto": "illusion"
+   },
+   {
+    "letra": "D",
+    "texto": "hope"
+   },
+   {
+    "letra": "E",
+    "texto": "trust"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.6,
+     44.277000000000044,
+     551.3359979999999,
+     55.277000000000044
+    ],
+    [
+     42.60000000000001,
+     69.57700000000011,
+     168.39600000000002,
+     80.57700000000011
+    ],
+    [
+     42.60000000000001,
+     94.90700000000015,
+     113.48800500000002,
+     105.90700000000015
+    ],
+    [
+     42.60000000000001,
+     107.6070000000002,
+     84.64600500000002,
+     118.6070000000002
+    ],
+    [
+     42.60000000000001,
+     120.20700000000022,
+     97.417004,
+     131.20700000000022
+    ],
+    [
+     42.60000000000001,
+     132.90700000000027,
+     88.31600000000002,
+     143.90700000000027
+    ],
+    [
+     42.60000000000001,
+     145.4970000000003,
+     85.35000500000001,
+     156.4970000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q034",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 34,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4087-T5",
+  "textos_base_ids": [
+   "P4087-T5"
+  ],
+  "enunciado": "Considering the context, we could change *Stand by me* for",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "count on me."
+   },
+   {
+    "letra": "B",
+    "texto": "forget me."
+   },
+   {
+    "letra": "C",
+    "texto": "stand in front of me."
+   },
+   {
+    "letra": "D",
+    "texto": "stop me."
+   },
+   {
+    "letra": "E",
+    "texto": "stand behind me."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.60000000000001,
+     170.80700000000036,
+     348.919998,
+     181.80700000000036
+    ],
+    [
+     42.599999999999966,
+     196.10700000000043,
+     127.54600499999998,
+     207.10700000000043
+    ],
+    [
+     42.599999999999966,
+     208.80700000000047,
+     113.45500499999997,
+     219.80700000000047
+    ],
+    [
+     42.599999999999966,
+     221.4070000000005,
+     161.15699899999998,
+     232.4070000000005
+    ],
+    [
+     42.599999999999966,
+     234.10700000000054,
+     106.15100499999997,
+     245.10700000000054
+    ],
+    [
+     42.599999999999966,
+     246.70700000000056,
+     148.24800499999998,
+     257.70700000000056
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q034_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q035",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 35,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4087-T5",
+  "textos_base_ids": [
+   "P4087-T5"
+  ],
+  "enunciado": "In ***Whenever*** *you’re in trouble*(…), the highlighted word, in Portuguese, means",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Nunca."
+   },
+   {
+    "letra": "B",
+    "texto": "Às vezes."
+   },
+   {
+    "letra": "C",
+    "texto": "Sempre que."
+   },
+   {
+    "letra": "D",
+    "texto": "De vez em quando."
+   },
+   {
+    "letra": "E",
+    "texto": "Raramente."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.599999999999966,
+     271.9070000000005,
+     446.124993,
+     282.9400000000005
+    ],
+    [
+     42.59999999999995,
+     297.3270000000005,
+     98.66000499999996,
+     308.3270000000005
+    ],
+    [
+     42.59999999999995,
+     310.0270000000005,
+     111.61499799999996,
+     321.0270000000005
+    ],
+    [
+     42.59999999999995,
+     322.6270000000005,
+     126.87799999999997,
+     333.6270000000005
+    ],
+    [
+     42.59999999999995,
+     335.3270000000005,
+     159.27799999999993,
+     346.3270000000005
+    ],
+    [
+     42.59999999999992,
+     347.92700000000053,
+     121.35300499999994,
+     358.92700000000053
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q035_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q036",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 36,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4087-T2",
+  "textos_base_ids": [
+   "P4087-T2"
+  ],
+  "enunciado": "Assinale a alternativa que indica a principal função do **texto 2**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Divulgar alguns dados importantes sobre o meio ambiente e sensibilizar as pessoas para ajudarem, de forma voluntária, a defender a fauna e a flora do Planeta."
+   },
+   {
+    "letra": "B",
+    "texto": "Mostrar os dados coletados por cientistas e pesquisadores da área cujos objetivos são os estudos avançados e a procriação das espécies raras da fauna."
+   },
+   {
+    "letra": "C",
+    "texto": "Exibir dados alarmantes e captar verbas para o pagamento das pesquisas e dos estudos desenvolvidos nessa área, nas regiões mais prejudicadas do Planeta."
+   },
+   {
+    "letra": "D",
+    "texto": "Divulgar o turismo ecológico a partir das espécies mais exóticas de plantas e animais de certas regiões do Planeta."
+   },
+   {
+    "letra": "E",
+    "texto": "Captar e formar multiplicadores para divulgarem as espécies raras de animais das florestas sul-africanas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.6,
+     44.277000000000044,
+     367.728,
+     55.277000000000044
+    ],
+    [
+     42.6,
+     69.57700000000011,
+     552.608,
+     80.57700000000011
+    ],
+    [
+     63.9,
+     82.27700000000004,
+     357.9850000000002,
+     93.27700000000004
+    ],
+    [
+     42.6,
+     94.90700000000004,
+     552.893,
+     105.90700000000004
+    ],
+    [
+     63.9,
+     107.60700000000008,
+     334.20799999999997,
+     118.60700000000008
+    ],
+    [
+     42.6,
+     120.20700000000011,
+     552.922,
+     131.2070000000001
+    ],
+    [
+     63.9,
+     132.90700000000004,
+     404.422,
+     143.90700000000004
+    ],
+    [
+     42.6,
+     145.49700000000007,
+     552.6079999999998,
+     156.49700000000007
+    ],
+    [
+     63.9,
+     158.2070000000001,
+     158.62099999999998,
+     169.2070000000001
+    ],
+    [
+     42.6,
+     170.80700000000002,
+     552.763,
+     181.80700000000002
+    ],
+    [
+     63.9,
+     183.49700000000007,
+     111.552,
+     194.49700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [
+   "palavra dividida no fim da linha com hífen incerto — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q036_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q037",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 37,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4087-T2",
+  "textos_base_ids": [
+   "P4087-T2"
+  ],
+  "enunciado": "Considerando o contexto e as regras gramaticais da língua inglesa, assinale a alternativa que indica a sequência **CORRETA** que completa as lacunas do **texto 2.**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "got / estimates / damaged / write / preserved"
+   },
+   {
+    "letra": "B",
+    "texto": "gotten / estimating / damaging / read / deserving"
+   },
+   {
+    "letra": "C",
+    "texto": "breathe / estimate / damaging / read / preserve"
+   },
+   {
+    "letra": "D",
+    "texto": "breathes / estimates / damaging / heard / encountered"
+   },
+   {
+    "letra": "E",
+    "texto": "brings / hopes / altered / read / discovered"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.6,
+     221.40700000000004,
+     552.7509999999999,
+     232.40700000000004
+    ],
+    [
+     63.9,
+     234.10700000000008,
+     362.283,
+     245.10700000000008
+    ],
+    [
+     42.6,
+     259.40700000000004,
+     280.78700000000003,
+     270.407
+    ],
+    [
+     42.6,
+     272.007,
+     299.20100000000014,
+     283.007
+    ],
+    [
+     42.6,
+     284.72700000000003,
+     292.55299999999994,
+     295.72700000000003
+    ],
+    [
+     42.6,
+     297.327,
+     327.9000000000002,
+     308.327
+    ],
+    [
+     42.6,
+     310.027,
+     269.3470000000001,
+     321.027
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q037_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q038",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 38,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4087-T7",
+  "textos_base_ids": [
+   "P4087-T7"
+  ],
+  "enunciado": "Da leitura do **texto 3**, conclui-se que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "houve um problema sério num projeto apresentado por Dilbert que não teve seu trabalho aprovado pela equipe."
+   },
+   {
+    "letra": "B",
+    "texto": "o colega está orientando a finalização do trabalho de Dilbert, e este fica impassível diante do conhecimento demonstrado."
+   },
+   {
+    "letra": "C",
+    "texto": "Dilbert não conseguiu realizar a apresentação em *slides,* porque um dos colegas reprovou as inovações em seu projeto."
+   },
+   {
+    "letra": "D",
+    "texto": "Dilbert ouviu duras críticas de um colega sobre sua apresentação em *slides,* por um suposto erro de escrita que ele não cometera."
+   },
+   {
+    "letra": "E",
+    "texto": "Dilbert não participou de uma reunião, tendo um dos colegas se mostrado hostil em relação ao conjunto de *slides* que ele havia organizado."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.6,
+     550.357,
+     244.852,
+     561.357
+    ],
+    [
+     42.6,
+     575.657,
+     552.6739999999999,
+     586.657
+    ],
+    [
+     63.9,
+     588.357,
+     123.77300000000001,
+     599.357
+    ],
+    [
+     42.6,
+     600.9570000000001,
+     552.5949999999999,
+     611.957
+    ],
+    [
+     63.9,
+     613.557,
+     202.72000000000003,
+     624.557
+    ],
+    [
+     42.6,
+     626.2470000000001,
+     552.8910000000001,
+     637.2470000000001
+    ],
+    [
+     63.9,
+     638.857,
+     192.25900000000001,
+     649.857
+    ],
+    [
+     42.6,
+     651.577,
+     552.944,
+     662.577
+    ],
+    [
+     63.9,
+     664.177,
+     224.13700000000003,
+     675.177
+    ],
+    [
+     42.6,
+     676.8770000000001,
+     552.443,
+     687.8770000000001
+    ],
+    [
+     63.9,
+     689.477,
+     280.948,
+     700.477
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q038_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q039",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 39,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4087-T8",
+  "textos_base_ids": [
+   "P4087-T8"
+  ],
+  "enunciado": "Atente para o texto a seguir sobre o Mito no Mundo Atual:\n\n{{img:1}}\n\n{{fonte:1}}\n\nNas histórias em quadrinhos, o maniqueísmo retoma o arquétipo da luta entre o bem e o mal, e a dupla personalidade do super-herói atinge em cheio o desejo do homem moderno de superar a própria impotência, tornando-se um ser excepcional. Ademais, os meios de comunicação (rádio, televisão, jornais etc.) retratam o significado do mito de forma diferente. São atribuídas aos „mitos‟ do mundo midiático qualidades dignas de um deus.\n\n{{fonte:2}}\n\nSobre o Mito no Mundo Atual, assinale a alternativa **CORRETA.**",
+  "fontes": [
+   "Disponível em: https://www.google.com.br/search?q=historias+em+quadrinhos",
+   "(ARANHA, Maria Lúcia Arruda; MARTINS, Maria Helena Pires. Filosofando – Introdução à Filosofia, São Paulo: Moderna, 1993, p. 59.) Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O mito tem a significância e a coerência que se faziam sentir no homem primitivo."
+   },
+   {
+    "letra": "B",
+    "texto": "O mito propõe todos os valores éticos e estéticos que levam à humanização."
+   },
+   {
+    "letra": "C",
+    "texto": "O mito singulariza o desejo com o objetivo de superar as impossibilidades no âmbito da realidade."
+   },
+   {
+    "letra": "D",
+    "texto": "O mito retrata a origem por meio de genealogias entre forças divinas sobrenaturais e personalizadas."
+   },
+   {
+    "letra": "E",
+    "texto": "O mito configura a dimensão crítica do homem para compreender e interpretar a realidade existencial."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q039_img1.png",
+    "pagina": 27,
+    "bbox": [
+     128.2,
+     95.0,
+     460.8,
+     290.2
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   27
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.600000000000136,
+     69.57700000000011,
+     342.78500000000014,
+     80.57700000000011
+    ],
+    [
+     128.16,
+     95.04,
+     460.8,
+     290.16
+    ],
+    [
+     137.13,
+     291.713,
+     450.9480000000001,
+     300.713
+    ],
+    [
+     47.9,
+     312.627,
+     540.0729999999998,
+     323.627
+    ],
+    [
+     47.9,
+     325.327,
+     540.1430000000001,
+     336.327
+    ],
+    [
+     47.9,
+     337.927,
+     540.378,
+     348.927
+    ],
+    [
+     47.9,
+     350.627,
+     540.422,
+     361.66
+    ],
+    [
+     47.9,
+     363.22700000000003,
+     298.6010000000001,
+     374.22700000000003
+    ],
+    [
+     54.6,
+     382.613,
+     540.3659999999999,
+     391.64
+    ],
+    [
+     446.38,
+     392.913,
+     540.3599999999999,
+     401.913
+    ],
+    [
+     42.6,
+     416.627,
+     354.97100000000006,
+     427.627
+    ],
+    [
+     42.60000000000002,
+     436.227,
+     462.6260030000001,
+     447.227
+    ],
+    [
+     42.60000000000002,
+     448.827,
+     438.549005,
+     459.827
+    ],
+    [
+     42.60000000000002,
+     461.557,
+     542.367004,
+     472.557
+    ],
+    [
+     42.60000000000002,
+     474.15700000000004,
+     477.86900000000014,
+     485.15700000000004
+    ],
+    [
+     63.90000000000002,
+     486.857,
+     140.84500000000003,
+     497.857
+    ],
+    [
+     42.60000000000002,
+     499.45700000000005,
+     504.51600499999995,
+     510.45700000000005
+    ],
+    [
+     63.90000000000002,
+     512.157,
+     118.24000000000002,
+     523.157
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q039_p27.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q040",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 40,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir sobre a Linguagem Humana:\n\nConsidera-se o homem um ser que fala e a palavra, a senha de entrada no mundo humano. Nesse  \nsentido, a linguagem é um sistema simbólico, e o homem, o único animal capaz de criar símbolos.\n\n{{fonte:1}}\n\nNo universo humano, a dimensão da linguagem tem a singularidade na edificação formativa do mundo cultural. No âmbito dessa questão, é **CORRETO** afirmar que",
+  "fontes": [
+   "(ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. Filosofando – Introdução à Filosofia, São Paulo: Moderna, 1993, p. 28). Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a linguagem possibilita transcender a nossa experiência."
+   },
+   {
+    "letra": "B",
+    "texto": "o mundo cultural declina do sistema simbólico."
+   },
+   {
+    "letra": "C",
+    "texto": "a condição humana prescinde da linguagem."
+   },
+   {
+    "letra": "D",
+    "texto": "a dimensão da linguagem restringe a comunicação."
+   },
+   {
+    "letra": "E",
+    "texto": "a linguagem limita a inteligência humana."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   27
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.60000000000002,
+     537.4570000000001,
+     304.98000200000024,
+     548.4570000000001
+    ],
+    [
+     47.9,
+     557.4570000000001,
+     540.357,
+     568.457
+    ],
+    [
+     47.9,
+     570.157,
+     527.1460000000001,
+     581.157
+    ],
+    [
+     82.625,
+     590.643,
+     540.356,
+     599.6700000000001
+    ],
+    [
+     405.77,
+     600.943,
+     540.4019999999999,
+     609.943
+    ],
+    [
+     42.6,
+     624.657,
+     543.2649999999999,
+     635.657
+    ],
+    [
+     42.6,
+     637.357,
+     337.97599799999995,
+     648.357
+    ],
+    [
+     42.599999999999966,
+     656.8770000000001,
+     340.0880050000001,
+     667.8770000000001
+    ],
+    [
+     42.599999999999966,
+     669.577,
+     291.17800100000005,
+     680.577
+    ],
+    [
+     42.599999999999966,
+     682.177,
+     282.81100400000014,
+     693.177
+    ],
+    [
+     42.599999999999966,
+     694.8770000000001,
+     315.65700500000014,
+     705.8770000000001
+    ],
+    [
+     42.599999999999966,
+     707.4770000000001,
+     265.50800500000014,
+     718.477
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q040_p27.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q041",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 41,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o texto a seguir sobre a origem da filosofia:\n\n{{img:1}}\n\n{{fonte:1}}\n\nA filosofia grega surgiu quando as respostas dadas pelo conhecimento mitológico deixaram de satisfazer a curiosidade do homem. Os pensadores gregos pré-socráticos preocupavam-se com „os princípios primeiros‟. Sobre o período pré-socrático, esses filósofos eram também conhecidos como",
+  "fontes": [
+   "Disponível em: https://www.google.com.br/search?tbm=isch&q=os+filósofos+pre-socraticos"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "filósofos da religião."
+   },
+   {
+    "letra": "B",
+    "texto": "filósofos da natureza."
+   },
+   {
+    "letra": "C",
+    "texto": "filósofos da renascença."
+   },
+   {
+    "letra": "D",
+    "texto": "filósofos da crença."
+   },
+   {
+    "letra": "E",
+    "texto": "filósofos do conhecimento."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q041_img1.png",
+    "pagina": 28,
+    "bbox": [
+     70.6,
+     63.4,
+     517.7,
+     346.3
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   28
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.600000000000136,
+     44.277000000000044,
+     315.8570000000003,
+     55.277000000000044
+    ],
+    [
+     70.56,
+     63.36,
+     517.6800000000001,
+     346.32
+    ],
+    [
+     96.025,
+     282.81300000000005,
+     460.779,
+     291.81300000000005
+    ],
+    [
+     42.6,
+     360.627,
+     552.7680099999999,
+     371.627
+    ],
+    [
+     42.6,
+     373.22700000000003,
+     552.971,
+     384.26000000000005
+    ],
+    [
+     42.60000000000002,
+     385.927,
+     529.8950060000002,
+     396.96000000000004
+    ],
+    [
+     42.60000000000002,
+     405.427,
+     161.03000500000002,
+     416.427
+    ],
+    [
+     42.60000000000002,
+     418.127,
+     168.45500500000003,
+     429.127
+    ],
+    [
+     42.60000000000002,
+     430.72700000000003,
+     182.42500400000003,
+     441.72700000000003
+    ],
+    [
+     42.60000000000002,
+     443.427,
+     158.62100500000003,
+     454.427
+    ],
+    [
+     42.60000000000002,
+     456.02700000000004,
+     194.11800500000004,
+     467.02700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q041_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q042",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 42,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir sobre o pensamento mítico:\n\n{{img:1}}\n\n{{fonte:1}}\n\nNão existe fenômeno natural nem da vida humana que não seja capaz de uma interpretação mítica e que não reclame semelhante interpretação. A coerência do mito depende, em muito maior grau, da unidade de sentimento que de regras lógicas. Essa unidade representa um dos impulsos mais fortes e profundos do pensamento primitivo.\n\n{{fonte:2}}\n\nNo tocante ao pensamento mítico, a significância de explicação da realidade faz-se presente em sua narrativa. O que caracteriza a mentalidade primitiva não é sua lógica, mas seu sentimento geral da vida. Com relação a esse assunto, assinale a alternativa **CORRETA.**",
+  "fontes": [
+   "Disponível em: https://www.google.com.br/search?",
+   "(CASSIRER, Ernst. Antropología filosófica, México: Fondo de cultura económica, 2000, p. 114-126) Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Os relatos míticos têm a preocupação com a coerência lógica, em detrimento da unidade de sentimento."
+   },
+   {
+    "letra": "B",
+    "texto": "O pensamento mítico está desvinculado da confiança e da crença que vinham da autoridade religiosa do narrador."
+   },
+   {
+    "letra": "C",
+    "texto": "O pensamento mítico é uma tentativa fracassada de explicação da realidade, e sua lógica centrada no sentimento é incoerente."
+   },
+   {
+    "letra": "D",
+    "texto": "A singularidade do pensamento mítico está nos relatos que firmam os elos de aliança dos homens entre si e com seu meio ambiente."
+   },
+   {
+    "letra": "E",
+    "texto": "As narrativas míticas interpretam a realidade de forma ilógica."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q042_img1.png",
+    "pagina": 28,
+    "bbox": [
+     133.9,
+     500.4,
+     455.0,
+     647.3
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   28,
+   29
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.60000000000002,
+     481.3570000000001,
+     298.76300000000015,
+     492.3570000000001
+    ],
+    [
+     133.92000000000002,
+     500.40000000000003,
+     455.04,
+     647.28
+    ],
+    [
+     301.65,
+     648.543,
+     361.238,
+     657.543
+    ],
+    [
+     363.77,
+     648.543,
+     489.084,
+     657.543
+    ],
+    [
+     55.1,
+     659.077,
+     533.105,
+     670.077
+    ],
+    [
+     55.1,
+     671.777,
+     533.3689999999999,
+     682.777
+    ],
+    [
+     55.1,
+     684.3770000000001,
+     533.341,
+     695.3770000000001
+    ],
+    [
+     55.1,
+     697.077,
+     342.4640000000002,
+     708.077
+    ],
+    [
+     93.125,
+     715.263,
+     533.502,
+     724.263
+    ]
+   ],
+   "29": [
+    [
+     42.600000000000136,
+     44.277000000000044,
+     552.986008,
+     55.277000000000044
+    ],
+    [
+     42.600000000000136,
+     56.97700000000009,
+     552.924991,
+     67.97700000000009
+    ],
+    [
+     42.600000000000136,
+     69.57700000000011,
+     351.9080040000001,
+     80.57700000000011
+    ],
+    [
+     42.600000000000136,
+     89.20700000000011,
+     552.625,
+     100.20700000000011
+    ],
+    [
+     63.900000000000134,
+     101.80700000000013,
+     120.75900000000014,
+     112.80700000000013
+    ],
+    [
+     42.600000000000136,
+     114.49700000000018,
+     552.520005,
+     125.49700000000018
+    ],
+    [
+     63.900000000000134,
+     127.1070000000002,
+     167.80600000000013,
+     138.1070000000002
+    ],
+    [
+     42.600000000000136,
+     139.80700000000024,
+     552.830006,
+     150.80700000000024
+    ],
+    [
+     63.900000000000134,
+     152.40700000000027,
+     199.64000000000016,
+     163.40700000000027
+    ],
+    [
+     42.600000000000136,
+     165.1070000000003,
+     552.6300049999999,
+     176.1070000000003
+    ],
+    [
+     63.900000000000134,
+     177.70700000000033,
+     231.92500000000018,
+     188.70700000000033
+    ],
+    [
+     42.600000000000136,
+     190.40700000000038,
+     365.7730050000003,
+     201.40700000000038
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q042_p28.jpg",
+   "revisao/Q042_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q043",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 43,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir sobre o conhecimento filosófico:\n\nO século de Péricles (V a.C) constitui o período áureo da cultura grega, quando a democrática Atenas desenvolve intensa vida cultural e artística. No âmbito da especulação filosófica, os sofistas vivem nessa época, e alguns deles são interlocutores de Sócrates.\n\n{{fonte:1}}\n\nO texto sinaliza a significância do pensamento grego nesse período de intensa revolução cultural. Os sofistas entram em cena com o uso da especulação racional na tentativa de compreender a realidade, que se manifesta aos homens. Os sofistas tinham como primazia",
+  "fontes": [
+   "(ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. Filosofando: Introdução à Filosofia. São Paulo: Moderna, 1993, p. 93.). Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a especulação sobre a natureza."
+   },
+   {
+    "letra": "B",
+    "texto": "a reflexão sobre a religião."
+   },
+   {
+    "letra": "C",
+    "texto": "o valor da teoria em detrimento da prática."
+   },
+   {
+    "letra": "D",
+    "texto": "o enfoque sobre o pensamento mítico e sua verdade."
+   },
+   {
+    "letra": "E",
+    "texto": "a persuasão e o exercício da função política que dependiam do bom uso da palavra."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.600000000000136,
+     215.70700000000045,
+     320.13600000000025,
+     226.70700000000045
+    ],
+    [
+     55.1,
+     235.7070000000001,
+     540.1449999999998,
+     246.7070000000001
+    ],
+    [
+     55.1,
+     248.40700000000004,
+     540.477,
+     259.40700000000004
+    ],
+    [
+     55.1,
+     261.00700000000006,
+     380.95300000000015,
+     272.007
+    ],
+    [
+     87.925,
+     280.413,
+     540.5409999999994,
+     289.413
+    ],
+    [
+     403.48,
+     290.713,
+     540.621,
+     299.713
+    ],
+    [
+     42.6,
+     314.427,
+     552.908997,
+     325.427
+    ],
+    [
+     42.6,
+     327.127,
+     553.0580029999998,
+     338.127
+    ],
+    [
+     42.6,
+     339.72700000000003,
+     360.484996,
+     350.72700000000003
+    ],
+    [
+     42.6,
+     359.32700000000006,
+     223.60399900000004,
+     370.32700000000006
+    ],
+    [
+     42.6,
+     371.9270000000001,
+     193.47600100000005,
+     382.9270000000001
+    ],
+    [
+     42.60000000000001,
+     384.62700000000007,
+     270.5200000000001,
+     395.62700000000007
+    ],
+    [
+     42.6,
+     397.2270000000001,
+     324.35400000000004,
+     408.2270000000001
+    ],
+    [
+     42.6,
+     409.9270000000001,
+     476.1089989999999,
+     420.9270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q043_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4087-Q044",
+  "prova_id": "P4087",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2019",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 44,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o texto a seguir sobre a condição humana:\n\nO trabalho é a atividade humana por excelência, pela qual o homem transforma o mundo e a si  \nmesmo. Por isso, se num primeiro momento a natureza se apresenta como destino, é o trabalho  \nque surge como condição de transcendência e liberdade, a não ser nos sistemas onde persistem  \nformas de exploração que levam à alienação.\n\n{{fonte:1}}\n\nO texto acima retrata a dimensão do trabalho como condição ímpar da atividade humana, que favorece o distanciamento, numa perspectiva crítica, da visão do homem em relação ao mundo e a si mesmo. Sobre esse assunto, assinale a alternativa **CORRETA.**",
+  "fontes": [
+   "(ARANHA, Maria Lúcia Arruda; MARTINS, Maria Helena Pires. Filosofando: Introdução à Filosofia, São Paulo: Moderna, 1993, p. 1.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O conceito de trabalho sempre esteve ligado ao homem numa perspectiva crítica e positiva."
+   },
+   {
+    "letra": "B",
+    "texto": "Numa perspectiva crítica, o homem se autoproduz e dignifica sua natureza pelo trabalho."
+   },
+   {
+    "letra": "C",
+    "texto": "O homem se dignifica num sistema de exploração do trabalho alienante."
+   },
+   {
+    "letra": "D",
+    "texto": "A alienação é a possibilidade de transcendência e de liberdade humana."
+   },
+   {
+    "letra": "E",
+    "texto": "O valor do trabalho está na sua dimensão teórica e acrítica."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.6,
+     435.22700000000003,
+     313.50999400000023,
+     446.2270000000001
+    ],
+    [
+     55.1,
+     462.157,
+     540.0899999999999,
+     473.157
+    ],
+    [
+     55.1,
+     474.857,
+     540.2439999999999,
+     485.857
+    ],
+    [
+     55.1,
+     487.457,
+     540.3320000000001,
+     498.457
+    ],
+    [
+     55.1,
+     500.157,
+     277.02500000000015,
+     511.157
+    ],
+    [
+     59.8,
+     519.443,
+     540.5229999999995,
+     528.443
+    ],
+    [
+     495.08,
+     529.8330000000001,
+     540.5669999999999,
+     538.8330000000001
+    ],
+    [
+     42.6,
+     550.057,
+     553.018,
+     561.057
+    ],
+    [
+     42.60000000000002,
+     562.7470000000001,
+     552.5049999999997,
+     573.7470000000001
+    ],
+    [
+     42.60000000000002,
+     575.357,
+     309.672,
+     586.357
+    ],
+    [
+     42.60000000000002,
+     594.9570000000001,
+     511.9450090000002,
+     605.957
+    ],
+    [
+     42.60000000000002,
+     607.557,
+     498.42200500000007,
+     618.557
+    ],
+    [
+     42.60000000000002,
+     620.157,
+     416.527004,
+     631.157
+    ],
+    [
+     42.60000000000002,
+     632.857,
+     417.99800199999993,
+     643.857
+    ],
+    [
+     42.60000000000002,
+     645.457,
+     354.8830050000002,
+     656.457
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2019/CADERNO-SSA-1-1-DIA.pdf",
+  "gabarito_origem": [
+   "P4089"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q044_p29.jpg"
+  ]
+ }
+]

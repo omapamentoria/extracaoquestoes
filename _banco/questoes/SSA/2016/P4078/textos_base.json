@@ -1,0 +1,637 @@
+[
+ {
+  "id": "P4078-T1",
+  "texto": "**Texto 1 (questões de 01 a 07)**\n\n**Português no topo das línguas mais importantes**\n\n{{img:1}}\n\n(1) A língua portuguesa é a segunda língua mais importante no mundo dos negócios, pelo menos para quem tem o inglês como língua materna. Quem o diz é Ofer Shoshan, um colaborador da revista norte-americana Entrepeneur, num artigo divulgado esta semana.\n\n(2) Espanhol, português e chinês são, na opinião do autor do artigo, as línguas que “todos os diretores executivos de empresas globais devem aprender”. A lista refere um total de 6 línguas, incluindo o russo, o árabe e o alemão.\n\n(3) “A língua portuguesa já é a quarta língua mais traduzida, na nossa empresa, o que reflete o seu crescimento nos últimos anos”, diz Ofer, que é o diretor executivo da empresa de traduções One Hour Translations.\n\n(4) O autor admite, contudo, que este aumento da ‘procura’ da língua portuguesa está ligado ao Brasil e não a Portugal, já que “a economia brasileira está a deixar de ser emergente para passar a ser uma das mais ricas do mundo, com uma população gigantesca, vastos recursos naturais e uma forte comunidade tecnológica”.\n\n(5) Ofer Shoshan recorda que o próprio Bill Gates assumiu, recentemente, um dos seus maiores arrependimentos: não falar uma segunda língua para além do inglês.\n\n(6) Por outro lado, o autor refere o momento em que o fundador do Facebook, Mark Zuckerberg, “mostrou um impressionante domínio da língua chinesa, durante uma visita, em outubro passado, a uma universidade de Pequim”.\n\n(7) “Ao aprender chinês, Zuckerberg demonstrou que dominar a língua local é fundamental para aprofundar relações de negócio e conquistar a alma e o coração dos mercados”, diz Ofer Shoshan.\n\n{{fonte:1}}",
+  "fontes": [
+   "Disponível em: https://iilp.wordpress.com/2015/05/06/portugues-no-topo-das-linguas-mais-importantes Acesso em:23/05/2015. Adaptado."
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T1_img1.png",
+    "pagina": 3,
+    "bbox": [
+     181.2,
+     141.2,
+     402.0,
+     353.3
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.5436,
+     86.97032000000002,
+     195.42472799999993,
+     97.95032000000003
+    ],
+    [
+     129.42,
+     115.02218000000005,
+     454.4983379161199,
+     129.00218000000007
+    ],
+    [
+     181.2,
+     141.23200999999995,
+     402.0,
+     353.272
+    ],
+    [
+     51.54,
+     367.34918,
+     532.2971039999999,
+     378.32918
+    ],
+    [
+     51.54,
+     380.00917999999996,
+     532.3366319999998,
+     390.98918
+    ],
+    [
+     51.54,
+     392.66918,
+     423.2986440000005,
+     403.64918
+    ],
+    [
+     51.54,
+     413.36918,
+     532.3036919999995,
+     424.34918
+    ],
+    [
+     51.54,
+     426.02918,
+     532.2927120000004,
+     437.00918
+    ],
+    [
+     51.54,
+     438.68917999999996,
+     238.03859001425997,
+     449.66918
+    ],
+    [
+     51.54,
+     460.52918,
+     532.2433020000004,
+     471.50918
+    ],
+    [
+     51.54,
+     473.18917999999996,
+     532.3849440000001,
+     484.16918
+    ],
+    [
+     51.54,
+     485.78918,
+     165.28950599999996,
+     496.76918
+    ],
+    [
+     51.54,
+     507.68917999999996,
+     532.2619581180006,
+     518.66918
+    ],
+    [
+     51.54,
+     520.28918,
+     532.3552878984004,
+     531.26918
+    ],
+    [
+     51.54,
+     532.9491800000001,
+     532.358592,
+     543.92918
+    ],
+    [
+     51.54,
+     545.60918,
+     277.8081492237001,
+     556.5891799999999
+    ],
+    [
+     51.54,
+     566.30918,
+     532.2762420000005,
+     577.28918
+    ],
+    [
+     51.54,
+     578.96918,
+     387.8541060000004,
+     589.94918
+    ],
+    [
+     51.54,
+     600.80918,
+     532.2432844320003,
+     611.78918
+    ],
+    [
+     51.54,
+     613.46918,
+     532.3498080000002,
+     624.44918
+    ],
+    [
+     51.54,
+     626.12918,
+     209.82877799999997,
+     637.1091799999999
+    ],
+    [
+     51.54,
+     647.96918,
+     532.3289460000001,
+     658.94918
+    ],
+    [
+     51.54,
+     660.62918,
+     532.3179660000002,
+     671.60918
+    ],
+    [
+     51.54,
+     673.22918,
+     98.0227312314,
+     684.20918
+    ],
+    [
+     169.56,
+     693.47618,
+     532.3228196409,
+     701.45618
+    ],
+    [
+     409.62,
+     702.77618,
+     532.346016,
+     710.75618
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   1,
+   7
+  ],
+  "questoes": [
+   "P4078-Q001",
+   "P4078-Q002",
+   "P4078-Q003",
+   "P4078-Q004",
+   "P4078-Q005",
+   "P4078-Q006",
+   "P4078-Q007",
+   "P4078-Q009",
+   "P4078-Q010"
+  ],
+  "recortes": [
+   "revisao/T1_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4078-T2",
+  "texto": "**FÍSICA**\n\n***Nas questões com respostas numéricas, considere o módulo da aceleração da gravidade***\n\n***2***  \n***como g = 10,0 m/s***",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     271.38,
+     55.2840799999999,
+     308.57475005489994,
+     66.26407999999992
+    ],
+    [
+     42.5418,
+     91.28899999999999,
+     538.6390619999999,
+     102.269
+    ],
+    [
+     137.64,
+     102.03362000000004,
+     141.54312,
+     109.05362000000002
+    ],
+    [
+     42.5418,
+     103.88306,
+     137.626404,
+     114.86306000000002
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4078-Q023"
+  ],
+  "recortes": [
+   "revisao/T2_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4078-T5",
+  "texto": "**Texto 02 (questões 36 e 37)**\n\n{{img:1}}\n\nEric Moussambani of Equatorial Guinea became one of the most loved athletes of the 2000 games. His race was the 100-metre freestyle swim. He jumped into the pool and started _____________. After the first 50 metres he _________ very tired. He went more and more slowly and almost ___________ in the middle of the pool. The officials worried that he was drowning. But Moussambani continued and finally _____________ the race with a time of 1 minute and 52 seconds, the _______________ in the history of the Olympics. Still, Moussambani was very happy.\n\n{{fonte:1}}\n\nThe **CORRECT** alternative is\n\na) swimming / was / stopped / finished / slowest  \nb) swam / was / stop / finishes / slower  \nc) to swim / is / stop / finishes / slow  \nd) swam / were / stopped / finished / slowest  \ne) to swim / is / stops / finished / slower\n\n37. Na frase: “*The* <u>*officials*</u> *worried that he was drowning.”*, o termo sublinhado está sendo empregado como substantivo, é um falso cognato. Assim, o significado de ‘*officials’,* nesse contexto, corresponde a\n\na) ordenanças. b) autoridades.\n\nc) oficinas.  \nd) oficiais.\n\ne) treinadores.",
+  "fontes": [
+   "Global: learn English, learn through English, learn about English; Pre-intermediate. CLANDFIELD, L. Macmillan Education, 2010. Adaptado."
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T5_img1.png",
+    "pagina": 23,
+    "bbox": [
+     175.7,
+     121.8,
+     447.1,
+     279.4
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     49.62228,
+     98.28962000000001,
+     179.69490599999995,
+     108.30962000000011
+    ],
+    [
+     175.68,
+     121.75646000000006,
+     447.12,
+     279.36
+    ],
+    [
+     54.54,
+     291.92918,
+     532.1985479999994,
+     302.90918
+    ],
+    [
+     54.54,
+     304.52324,
+     532.0470239999986,
+     315.50324
+    ],
+    [
+     54.54,
+     317.18318,
+     532.2117240000003,
+     328.16318
+    ],
+    [
+     54.54,
+     329.84312,
+     532.0854539999996,
+     340.82312
+    ],
+    [
+     54.54,
+     342.50306,
+     532.0656900000002,
+     353.48306
+    ],
+    [
+     54.54,
+     355.163,
+     532.1260800000002,
+     366.14300000000003
+    ],
+    [
+     54.54,
+     367.75706,
+     133.995672,
+     378.73706000000004
+    ],
+    [
+     185.34,
+     391.49618,
+     532.0805760000002,
+     399.47618
+    ],
+    [
+     386.28438000000006,
+     400.67318,
+     532.1156880000001,
+     408.65318
+    ],
+    [
+     42.54,
+     423.50912,
+     183.765858,
+     434.48912
+    ],
+    [
+     70.9233,
+     448.76312,
+     311.0877420000001,
+     459.74312000000003
+    ],
+    [
+     70.9233,
+     461.42306,
+     267.038178,
+     472.40306000000004
+    ],
+    [
+     70.9233,
+     474.083,
+     254.15644199999988,
+     485.06300000000005
+    ],
+    [
+     70.9233,
+     486.74294000000003,
+     295.11952799999995,
+     497.72294000000005
+    ],
+    [
+     70.9233,
+     499.40288000000004,
+     270.0917159999999,
+     510.38288000000006
+    ],
+    [
+     42.54,
+     537.3168200000001,
+     538.6658100000001,
+     548.29682
+    ],
+    [
+     42.54,
+     549.98918,
+     538.6691040000002,
+     560.96918
+    ],
+    [
+     42.550980000000095,
+     562.64912,
+     112.82298000000009,
+     573.6291200000001
+    ],
+    [
+     70.9342800000001,
+     587.9031200000001,
+     152.75175000000007,
+     598.88312
+    ],
+    [
+     70.9342800000001,
+     600.5630600000001,
+     152.7671220000001,
+     611.54306
+    ],
+    [
+     70.93428000000011,
+     613.2230000000001,
+     132.6034500000001,
+     624.203
+    ],
+    [
+     70.93428000000011,
+     625.8829400000001,
+     128.8746420000001,
+     636.86294
+    ],
+    [
+     70.93428000000011,
+     638.5428800000001,
+     150.27356400000014,
+     649.52288
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   36,
+   37
+  ],
+  "questoes": [
+   "P4078-Q007",
+   "P4078-Q008",
+   "P4078-Q009",
+   "P4078-Q010"
+  ],
+  "recortes": [
+   "revisao/T5_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4078-T6",
+  "texto": "**Texto 03 (questão 38)**\n\n{{img:1}}\n\nDarryl MacPherson, the father in *Baby Blues comic strip,* is a guy in his mid-thirties, mid-carreer, in the greatest adventure of his… fatherhood. Now, he is in the office.\n\n{{img:2}}\n\n{{fonte:1}}\n\n38. De acordo com a tira cômica,\n\nI. Darryl, educadamente, oferece seu almoço ao colega que logo recusa por entender que se trata, apenas, de uma gentileza.\n\nII. o colega fica triste ao saber que, nem tão cedo, eles poderão almoçar juntos, pois Darryl deixou claro que sua esposa não concorda que ele almoce fora.\n\nIII. diante da situação de Darryl, é possível perceber a preocupação dos pais com o estudo dos filhos em relação à universidade.\n\nIV. o amigo fica desapontado tendo em vista essa situação, porém compreende que Darryl tem seus motivos para evitar almoçar fora diariamente.\n\nV. os dois nunca se entendem quando vão escolher o restaurante, daí Darryl recusar-se a almoçar com o colega por muitos anos à frente.\n\nEstão **CORRETAS** apenas\n\na) I e II.\n\nb) I, II e IV.\n\nc) II, III e V.\n\nd) III e IV.\n\ne) III e V.\n\n**ESPANHOL**",
+  "fontes": [
+   "http://babyblues.com/family-tree/darryl/ Adaptado."
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T6_img1.png",
+    "pagina": 24,
+    "bbox": [
+     63.4,
+     70.1,
+     156.2,
+     154.1
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/T6_img2.png",
+    "pagina": 24,
+    "bbox": [
+     63.2,
+     164.0,
+     537.8,
+     315.4
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   24,
+   25
+  ],
+  "caixas": {
+   "24": [
+    [
+     63.83472000000001,
+     60.30973999999992,
+     166.12489200000002,
+     70.32974000000002
+    ],
+    [
+     63.36,
+     70.07200620000003,
+     156.24,
+     154.08
+    ],
+    [
+     160.32,
+     132.78661999999997,
+     538.9317120000001,
+     142.80662000000007
+    ],
+    [
+     160.32,
+     144.30661999999995,
+     523.7674439999998,
+     154.32662000000005
+    ],
+    [
+     63.1799927,
+     164.03199769999992,
+     537.84,
+     315.36
+    ],
+    [
+     347.88018,
+     321.47618,
+     524.3961839999998,
+     329.45618
+    ],
+    [
+     42.54,
+     331.16918,
+     213.90376200000006,
+     342.14918
+    ],
+    [
+     70.9233,
+     356.42318,
+     538.5087960000003,
+     367.40318
+    ],
+    [
+     92.15862,
+     369.08312,
+     249.32963399999988,
+     380.06312
+    ],
+    [
+     70.9233,
+     381.74306,
+     538.5219720000002,
+     392.72306000000003
+    ],
+    [
+     92.15862,
+     394.403,
+     404.6055000000005,
+     405.38300000000004
+    ],
+    [
+     70.9233,
+     407.06294,
+     538.5999299999996,
+     418.04294000000004
+    ],
+    [
+     92.15862,
+     419.65700000000004,
+     273.7206060000002,
+     430.63700000000006
+    ],
+    [
+     70.9233,
+     432.31694000000005,
+     538.5494219999999,
+     443.29694000000006
+    ],
+    [
+     92.15862,
+     444.97688000000005,
+     360.4604099999997,
+     455.95688000000007
+    ],
+    [
+     70.92329999999998,
+     457.63682000000006,
+     538.5329520000006,
+     468.6168200000001
+    ],
+    [
+     92.15861999999998,
+     470.29676000000006,
+     330.6003,
+     481.2767600000001
+    ],
+    [
+     70.92329999999998,
+     508.2107000000001,
+     202.956702,
+     519.1907000000001
+    ],
+    [
+     70.9233,
+     533.5305800000001,
+     116.70001800000001,
+     544.52918
+    ],
+    [
+     173.1,
+     533.54918,
+     234.673644,
+     544.52918
+    ],
+    [
+     269.1,
+     533.54918,
+     326.411208,
+     544.52918
+    ],
+    [
+     381.54,
+     533.54918,
+     437.64889800000003,
+     544.52918
+    ],
+    [
+     479.7,
+     533.54918,
+     532.7476740000001,
+     544.52918
+    ]
+   ],
+   "25": [
+    [
+     260.88,
+     56.424080000000004,
+     321.28098,
+     67.40408000000002
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   38,
+   38
+  ],
+  "questoes": [
+   "P4078-Q010"
+  ],
+  "recortes": [
+   "revisao/T6_p24.jpg",
+   "revisao/T6_p25.jpg"
+  ]
+ }
+]

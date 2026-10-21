@@ -1,0 +1,19 @@
+# Auditoria de gabarito
+
+Provas conferidas: 762. Gabaritos que mudam com as regras novas: **554** em 6 provas.
+Provas sem os arquivos de gabarito baixados (não conferidas): 3.
+
+## Por prova
+
+* P2482 — ENEM 2025 PPL/reaplicação 1 (enem 2025 - DIA 01 - 2ª APLIC.pdf): 95 — Q001-ING None→E, Q002-ING None→A, Q003-ING None→D, Q004-ING None→D, Q005-ING None→A, Q001-ESP None→D, Q002-ESP None→B, Q003-ESP None→C, Q004-ESP None→B, Q005-ESP None→D, Q006 None→C, Q007 None→A …
+* P2616 — ENEM 2025 regular 1 (enem 2025 - DIA 01 - prova verde.pdf): 95 — Q001-ING None→D, Q002-ING None→D, Q003-ING None→A, Q004-ING None→D, Q005-ING None→E, Q001-ESP None→B, Q002-ESP None→D, Q003-ESP None→A, Q004-ESP None→D, Q005-ESP None→C, Q006 None→E, Q007 None→D …
+* P2622 — ENEM 2025 COP30-Belém 1 (enem 2025 - cop30 - DIA 01.pdf): 95 — Q001-ING None→B, Q002-ING None→E, Q003-ING None→B, Q004-ING None→B, Q005-ING None→E, Q001-ESP None→B, Q002-ESP None→A, Q003-ESP None→E, Q004-ESP None→E, Q005-ESP None→E, Q006 None→E, Q007 None→D …
+* P2485 — ENEM 2025 PPL/reaplicação 2 (enem 2025 - DIA 02 - 2ª APLIC.pdf): 90 — Q091 None→C, Q092 None→C, Q093 None→C, Q094 None→E, Q095 None→D, Q096 None→D, Q097 None→D, Q098 None→B, Q099 None→C, Q100 E→A, Q101 None→B, Q102 None→A …
+* P2619 — ENEM 2025 regular 2 (enem 2025 - DIA 02 - prova verde.pdf): 90 — Q091 None→E, Q092 None→E, Q093 None→B, Q094 None→D, Q095 None→E, Q096 None→C, Q097 None→D, Q098 None→D, Q099 None→C, Q100 None→D, Q101 None→C, Q102 None→B …
+* P2625 — ENEM 2025 COP30-Belém 2 (enem 2025 - cop30 - DIA 02.pdf): 89 — Q091 None→D, Q092 None→C, Q093 None→A, Q094 None→B, Q095 None→C, Q096 None→D, Q097 None→C, Q098 None→C, Q099 None→D, Q101 None→C, Q102 None→B, Q103 None→C …
+
+## Não conferidas
+
+* P3363
+* P3529
+* P0730

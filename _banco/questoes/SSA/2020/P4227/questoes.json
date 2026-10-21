@@ -1,0 +1,5581 @@
+[
+ {
+  "id": "P4227-Q001",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 1,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Sobre a imagem ao lado, leia as seguintes  \nafirmativas:\n\nI. As pegadas representam quatro diferentes espécies biológicas de vertebrados terrestres pulmonados que excretam ureia. Todas são capazes de se intercruzarem e produzir descendentes férteis, estando isoladas reprodutivamente umas das outras.\n\nII. A mula é um exemplo do processo pré-zigótico de isolamento reprodutivo por esterilidade do híbrido, decorrente do cruzamento entre a égua e o jumento. As suas pegadas na imagem refletem o seu genótipo.\n\nIII. No sistema ZW de determinação sexual das aves, as fêmeas possuem o par cromossômico sexual homomórfico, enquanto o macho é o sexo heteromórfico, causando dimorfismo sexual. Assim,\n\n{{img:1}}\n\n{{fonte:1}}\n\nas fêmeas apresentarão um padrão de pegadas <https://www.pinterest.pt/marlouch/sustentabilida mais superficial, enquanto o do macho, mais\n\n{{fonte:2}}\n\nprofundo.\n\nIV. As pegadas humanas estão acompanhadas por resíduos e poluentes, alterando o equilíbrio dos ecossistemas, por afetarem a vida de uma ou mais espécies de um *habitat*.\n\nV. As marcas ou pegadas deixadas por um organismo sobre um terreno mole, que posteriormente se transformou em rocha, são conhecidas como impressões ou vestígios fósseis.\n\nEstá **CORRETO** o que se afirma, apenas, em",
+  "fontes": [
+   "Disponível em:",
+   "de/> (Adaptado) Acesso em: jul., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e III."
+   },
+   {
+    "letra": "B",
+    "texto": "I, III e IV."
+   },
+   {
+    "letra": "C",
+    "texto": "II, IV e V."
+   },
+   {
+    "letra": "D",
+    "texto": "III e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "IV e V."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q001_img1.png",
+    "pagina": 3,
+    "bbox": [
+     331.2,
+     107.3,
+     547.2,
+     299.5
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.625,
+     84.90700000000004,
+     271.8849890000001,
+     95.90700000000004
+    ],
+    [
+     64.025,
+     97.49700000000007,
+     120.43300000000002,
+     108.49700000000007
+    ],
+    [
+     47.49673,
+     119.49700000000007,
+     320.19172800000007,
+     130.49700000000007
+    ],
+    [
+     64.89673,
+     132.10700000000008,
+     319.9317300000001,
+     143.10700000000008
+    ],
+    [
+     64.89673,
+     144.7070000000001,
+     319.95373,
+     155.7070000000001
+    ],
+    [
+     64.89673,
+     157.3270000000001,
+     320.132727,
+     168.3270000000001
+    ],
+    [
+     64.89673,
+     170.12700000000007,
+     320.259739,
+     181.12700000000007
+    ],
+    [
+     64.89673,
+     182.7270000000001,
+     98.72173000000002,
+     193.7270000000001
+    ],
+    [
+     46.07173,
+     195.3270000000001,
+     320.0077260000001,
+     206.3270000000001
+    ],
+    [
+     64.89673,
+     207.92700000000002,
+     319.70073000000014,
+     218.92700000000002
+    ],
+    [
+     64.89673,
+     220.7270000000001,
+     319.74473000000006,
+     231.7270000000001
+    ],
+    [
+     64.89673,
+     233.3270000000001,
+     319.94273000000004,
+     244.3270000000001
+    ],
+    [
+     64.89673,
+     245.92700000000002,
+     130.89673,
+     256.927
+    ],
+    [
+     44.47173,
+     258.557,
+     320.0307350000001,
+     269.55699999999996
+    ],
+    [
+     64.89673,
+     271.357,
+     320.0417300000001,
+     282.357
+    ],
+    [
+     64.89673,
+     283.957,
+     320.111734,
+     294.957
+    ],
+    [
+     64.89673,
+     296.557,
+     320.17873500000013,
+     307.557
+    ],
+    [
+     331.2,
+     107.28,
+     547.2,
+     299.52000000000004
+    ],
+    [
+     413.99173,
+     303.97627,
+     466.84573,
+     311.97627
+    ],
+    [
+     64.89673,
+     309.157,
+     319.9387260000001,
+     320.157
+    ],
+    [
+     353.37173,
+     313.17627,
+     527.1457300000001,
+     321.17627
+    ],
+    [
+     64.89673,
+     321.757,
+     319.982733,
+     332.757
+    ],
+    [
+     371.20173,
+     322.37627,
+     509.61773,
+     330.37627
+    ],
+    [
+     64.89673,
+     334.557,
+     111.51473000000001,
+     345.557
+    ],
+    [
+     43.87173,
+     347.157,
+     546.8507339999996,
+     358.157
+    ],
+    [
+     64.89673,
+     359.577,
+     433.04973,
+     370.577
+    ],
+    [
+     45.47173,
+     372.377,
+     546.9687180000001,
+     383.377
+    ],
+    [
+     64.89673,
+     385.177,
+     446.44273000000004,
+     396.177
+    ],
+    [
+     42.625,
+     410.177,
+     265.120997,
+     421.177
+    ],
+    [
+     42.625,
+     431.177,
+     96.483,
+     442.177
+    ],
+    [
+     151.05,
+     431.177,
+     212.938,
+     442.177
+    ],
+    [
+     265.27,
+     431.177,
+     328.358,
+     442.177
+    ],
+    [
+     377.92,
+     431.177,
+     430.608,
+     442.177
+    ],
+    [
+     477.15,
+     431.177,
+     528.228,
+     442.177
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q002",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 2,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o Texto a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nSobre isso, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "Fonte: Brasil. Ministério da Agricultura, Pecuária e Abastecimento. Produtos orgânicos: o olho do consumidor / Ministério da Agricultura, Pecuária e Abastecimento. Secretaria de Desenvolvimento Agropecuário e Cooperativismo. – Brasília: MAPA/ACS, 2009. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Entre produtores orgânicos, é comum o plantio de diversas variedades, o que aumenta a chance de se preservar, ao menos, parte da lavoura em caso de seca, enchente ou pragas. Nas monoculturas, não há risco de uma praga dizimar completamente uma plantação, em razão do uso massivo de agrotóxicos, apesar de serem mutagênicos."
+   },
+   {
+    "letra": "B",
+    "texto": "Plantas que têm em seu genoma um gene de outro organismo e que podem produzir uma substância tóxica às lagartas, mas inofensiva aos mamíferos e outros insetos, são chamadas de transgênicas. Elas podem ser comercializadas com o selo de produtos orgânicos, visto não se fazer uso de agrotóxicos no seu plantio."
+   },
+   {
+    "letra": "C",
+    "texto": "Agrotóxicos aumentam a taxa de mutações nos genes. Certas mutações ocorrem por substituição de um ou mais pares de nucleotídeos no DNA e são mais drásticas, por mudarem toda a sequência de aminoácidos, alterando a proteína, enquanto a perda ou adição de apenas um par de bases afeta, em geral, um aminoácido."
+   },
+   {
+    "letra": "D",
+    "texto": "A seleção natural pode alterar as frequências gênicas de uma população, ao atuar na eliminação ou preservação de determinados fenótipos, gerados pelos respectivos genótipos. Assim, insetos resistentes aos agrotóxicos estão sendo selecionados constantemente, e a dosagem do veneno precisará ser aumentada, ocasionando prejuízo à saúde."
+   },
+   {
+    "letra": "E",
+    "texto": "Na cadeia alimentar, duas pessoas, uma com dieta vegetariana e outra que inclui carne à sua alimentação, irão incorporar a mesma quantidade de veneno, a exemplo do diclorodifeniltricloretano – DDT. Isso se justifica pelo fato de ambas desempenharem o papel de consumidoras primária e secundária, respectivamente, visto a espécie humana ser onívora."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q002_img1.png",
+    "pagina": 3,
+    "bbox": [
+     63.4,
+     504.0,
+     524.4,
+     691.9
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   3,
+   4
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.625,
+     480.607,
+     190.46999599999998,
+     491.607
+    ],
+    [
+     63.36,
+     504.0,
+     524.38001,
+     691.9200000000001
+    ],
+    [
+     54.025,
+     699.6310000000001,
+     535.9179999999996,
+     707.6310000000001
+    ],
+    [
+     58.225,
+     708.831,
+     531.288,
+     716.855
+    ]
+   ],
+   "4": [
+    [
+     42.625,
+     58.49700000000007,
+     264.538,
+     69.49700000000007
+    ],
+    [
+     42.62500000000003,
+     79.30700000000002,
+     546.9200009999998,
+     90.30700000000002
+    ],
+    [
+     64.02500000000002,
+     92.10699999999997,
+     547.0269920000001,
+     103.10699999999997
+    ],
+    [
+     64.02500000000002,
+     104.707,
+     547.4819959999999,
+     115.707
+    ],
+    [
+     64.02500000000002,
+     117.30700000000002,
+     336.26299900000015,
+     128.30700000000002
+    ],
+    [
+     42.62500000000002,
+     129.90700000000004,
+     547.405992,
+     140.90700000000004
+    ],
+    [
+     64.02500000000002,
+     142.707,
+     546.9160019999999,
+     153.707
+    ],
+    [
+     64.02500000000002,
+     155.327,
+     547.0119989999997,
+     166.327
+    ],
+    [
+     64.02500000000002,
+     167.92700000000002,
+     258.32900000000006,
+     178.92700000000002
+    ],
+    [
+     42.62500000000002,
+     180.52700000000004,
+     546.749001,
+     191.52700000000004
+    ],
+    [
+     64.02500000000002,
+     193.327,
+     547.3679919999998,
+     204.327
+    ],
+    [
+     64.02500000000002,
+     205.92700000000002,
+     547.1419969999998,
+     216.92700000000002
+    ],
+    [
+     64.02500000000002,
+     218.52700000000004,
+     268.84198600000013,
+     229.52700000000004
+    ],
+    [
+     42.62500000000002,
+     231.12700000000007,
+     546.682995,
+     242.12700000000007
+    ],
+    [
+     64.02500000000002,
+     243.92700000000002,
+     546.892,
+     254.92700000000002
+    ],
+    [
+     64.02500000000002,
+     256.557,
+     546.7819999999998,
+     267.557
+    ],
+    [
+     64.02500000000002,
+     269.157,
+     341.7689940000001,
+     280.157
+    ],
+    [
+     42.62500000000002,
+     281.757,
+     547.4790099999998,
+     292.757
+    ],
+    [
+     64.02500000000002,
+     294.557,
+     546.8919999999998,
+     305.557
+    ],
+    [
+     64.02500000000002,
+     307.15700000000004,
+     547.395,
+     318.19000000000005
+    ],
+    [
+     64.02500000000003,
+     319.75700000000006,
+     510.806995,
+     330.75700000000006
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p3.jpg",
+   "revisao/Q002_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q003",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 3,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a imagem a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nSobre as abelhas e as relações intraespecíficas e ecológicas com o ambiente, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "Acesso em: jul., 2019.",
+   "Disponível em: https://www.google.images"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "As colônias de abelhas se caracterizam por serem grupos de organismos da mesma espécie, em que os indivíduos manifestam intercooperação, comunicação e divisão de trabalho, mantendo independência e mobilidade relativas."
+   },
+   {
+    "letra": "B",
+    "texto": "A rainha pode pôr dois tipos de ovo: os não fecundados que se desenvolvem por partenogênese, originando machos haploides; os fecundados que geram fêmeas diploides, podendo ser operárias, se alimentadas com mel, ou rainhas, se alimentadas com geleia real."
+   },
+   {
+    "letra": "C",
+    "texto": "Poluentes não biodegradáveis e os persistentes, a exemplo dos agrotóxicos, tendem a se acumular no ambiente e nos seres vivos, como as abelhas, porém, na passagem para cada nível trófico, ocorre a redução da toxicidade no processo de biomagnificação."
+   },
+   {
+    "letra": "D",
+    "texto": "Uma das razões do sucesso das Angiospermas foi a polinização, resultante de coevolução inseto-planta, em uma relação de mutualismo obrigatório que beneficia as abelhas e as plantas."
+   },
+   {
+    "letra": "E",
+    "texto": "A competição de duas espécies que exploram o mesmo nicho ecológico, a exemplo das abelhas nativas, sem ferrão, e das abelhas introduzidas, com ferrão, pode levar à extinção ou expulsão de seu território pela primeira e à mudança de nicho por deriva gênica pela segunda, princípio conhecido como exclusão de densidade populacional."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q003_img1.png",
+    "pagina": 4,
+    "bbox": [
+     185.0,
+     362.2,
+     317.5,
+     482.4
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.625000000000036,
+     345.1570000000001,
+     201.97599600000007,
+     356.1570000000001
+    ],
+    [
+     185.04000000000002,
+     362.16,
+     317.52000000000004,
+     482.40000000000003
+    ],
+    [
+     324.1,
+     468.386,
+     402.67600000000004,
+     476.386
+    ],
+    [
+     324.1,
+     458.98600000000005,
+     474.858,
+     466.98600000000005
+    ],
+    [
+     42.625,
+     492.40700000000027,
+     545.4809999999998,
+     503.40700000000027
+    ],
+    [
+     42.625,
+     504.80700000000024,
+     99.88300000000001,
+     515.8070000000002
+    ],
+    [
+     42.625,
+     530.2070000000003,
+     545.9359960000002,
+     541.2070000000002
+    ],
+    [
+     56.824999999999996,
+     542.9970000000003,
+     545.9860019999998,
+     553.9970000000003
+    ],
+    [
+     56.824999999999996,
+     555.6070000000002,
+     240.888,
+     566.6070000000002
+    ],
+    [
+     42.625,
+     568.2270000000003,
+     545.511,
+     579.2270000000003
+    ],
+    [
+     56.824999999999996,
+     580.8270000000002,
+     545.2359999999999,
+     591.8270000000002
+    ],
+    [
+     56.824999999999996,
+     593.6270000000003,
+     393.513,
+     604.6270000000003
+    ],
+    [
+     42.625,
+     606.2270000000003,
+     546.6659949999998,
+     617.2270000000003
+    ],
+    [
+     56.825,
+     618.8270000000002,
+     547.22799,
+     629.8270000000002
+    ],
+    [
+     56.825,
+     631.4270000000002,
+     371.60100000000006,
+     642.4270000000002
+    ],
+    [
+     42.625,
+     644.0270000000003,
+     546.7319999999997,
+     655.0270000000003
+    ],
+    [
+     56.824999999999996,
+     656.8270000000002,
+     524.5339999999998,
+     667.8270000000002
+    ],
+    [
+     42.625,
+     669.4570000000002,
+     546.7780019999999,
+     680.4570000000002
+    ],
+    [
+     56.824999999999996,
+     682.0520000000002,
+     547.317013,
+     693.0520000000002
+    ],
+    [
+     56.824999999999996,
+     694.6520000000003,
+     547.2060009999999,
+     705.6520000000003
+    ],
+    [
+     56.824999999999996,
+     707.4520000000002,
+     320.0220000000001,
+     718.4520000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q003_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q004",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 4,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\nAs premissas ou condições estabelecidas para a obtenção do equilíbrio, de Hardy-Weinberg não são satisfeitas completamente por nenhuma população real, seja ela humana ou não. Aliás, o que torna possível explicar o processo evolutivo dos seres vivos em termos mendelianos é, justamente, essa desobediência ao modelo teórico. Apesar de nenhuma população humana obedecer às premissas, a prática tem demonstrado, num aparente paradoxo, em numerosas populações humanas e em relação a um grande número de caracteres monogênicos, que não suscitam casamentos preferenciais, como é o caso dos grupos sanguíneos, que os genótipos se distribuem de acordo com a lei do equilíbrio, de Hardy-Weinberg.\n\n{{fonte:1}}\n\nSobre as premissas do princípio de Hardy-Weinberg, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "Disponível em: http://sbg.org.br/wphome/wpcontent/uploads/2012/09/genetica_de_populacoes.pdf (Adaptado) Acesso em: jul., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Se a população é pequena, portanto livre de erros amostrais, o fenômeno é chamado de Deriva Genética."
+   },
+   {
+    "letra": "B",
+    "texto": "Se todos os casais da população são igualmente viáveis e férteis e geram o mesmo número de filhos, ocorre seleção."
+   },
+   {
+    "letra": "C",
+    "texto": "Se a população está em panmixia, isto é, todos se acasalam, os cruzamentos ocorrem aleatoriamente."
+   },
+   {
+    "letra": "D",
+    "texto": "Se os genes da população sofrem mutação de acordo com as leis da probabilidade, geram, ao acaso, indivíduos com diferentes genótipos e fenótipos na população em equilíbrio."
+   },
+   {
+    "letra": "E",
+    "texto": "Se ocorre migração, as frequências dos alelos da população não sofrerão alteração ao longo das gerações."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.625,
+     46.107000000000085,
+     166.01699599999995,
+     57.107000000000085
+    ],
+    [
+     48.025,
+     71.90700000000004,
+     540.596,
+     82.90700000000004
+    ],
+    [
+     48.025,
+     84.49700000000007,
+     540.483,
+     95.49700000000007
+    ],
+    [
+     48.025,
+     97.10700000000008,
+     539.9780000000001,
+     108.10700000000008
+    ],
+    [
+     48.025,
+     109.70700000000011,
+     539.978,
+     120.70700000000011
+    ],
+    [
+     48.025,
+     122.49700000000007,
+     540.383,
+     133.49700000000007
+    ],
+    [
+     48.025,
+     135.10700000000008,
+     539.8350000000002,
+     146.10700000000008
+    ],
+    [
+     48.025,
+     147.7270000000001,
+     539.9009999999997,
+     158.7270000000001
+    ],
+    [
+     48.025,
+     160.3270000000001,
+     311.683,
+     171.3270000000001
+    ],
+    [
+     69.425,
+     177.106,
+     540.58,
+     185.106
+    ],
+    [
+     42.625,
+     199.7270000000001,
+     468.208,
+     210.7270000000001
+    ],
+    [
+     42.62500000000006,
+     224.12700000000007,
+     547.367987,
+     235.12700000000007
+    ],
+    [
+     64.02500000000005,
+     236.7270000000001,
+     111.23700000000007,
+     247.7270000000001
+    ],
+    [
+     42.62500000000005,
+     249.55700000000013,
+     546.802994,
+     260.55700000000013
+    ],
+    [
+     64.02500000000005,
+     262.15700000000015,
+     171.26899400000002,
+     273.1570000000001
+    ],
+    [
+     42.62500000000005,
+     274.7570000000001,
+     547.1609940000001,
+     285.7570000000001
+    ],
+    [
+     64.02500000000003,
+     287.35700000000014,
+     140.024,
+     298.35700000000014
+    ],
+    [
+     42.625000000000036,
+     300.15700000000015,
+     547.4749949999999,
+     311.15700000000015
+    ],
+    [
+     64.02500000000003,
+     312.7570000000002,
+     470.20799699999986,
+     323.7570000000002
+    ],
+    [
+     42.625000000000036,
+     325.3570000000002,
+     546.8459929999999,
+     336.3570000000002
+    ],
+    [
+     64.02500000000003,
+     337.9570000000002,
+     112.43600000000005,
+     348.9570000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q004_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q005",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 5,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A hemoglobina do adulto humano é composta por quatro subunidades, sendo duas do tipo alfa, codificadas pelo gene *HBA,* no cromossomo 16, e duas do tipo beta, codificadas pelo gene *HBB* no cromossomo 11, compondo uma proteína quaternária. Observe as imagens a seguir:\n\n{{img:1}}\n\nMolécula de hemoglobina  \nFonte: OpenStax College [CC-BY-SA 3.0] / via CNX.org\n\n{{fonte:1}}\n\nSobre a molécula de hemoglobina e suas alterações, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "Fonte: Snustad e Simmons (2013). Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Um indivíduo com anemia falciforme receberia de seus pais todos os alelos normais para *HBA* e dois alelos alterados para *HBB*. Para o indivíduo com o traço falcêmico, o lote alélico seria de todos os alelos normais para *HBA* e de dois alelos para *HBB*, sendo um normal e outro alterado."
+   },
+   {
+    "letra": "B",
+    "texto": "Pelo fato de a anemia falciforme ser um distúrbio autossômico dominante, a chance de as futuras crianças de um casal heterozigoto serem, respectivamente, normais, herdarem o traço falcêmico e terem anemia falciforme é de 25%, 25% e 50%."
+   },
+   {
+    "letra": "C",
+    "texto": "A substituição da base pirimídica no códon do DNA leva à alteração desse códon no RNAm. Consequentemente, a estrutura primária da proteína da cadeia alfa na hemoglobina S é alterada em razão da substituição do aminoácido ácido glutâmico pela valina."
+   },
+   {
+    "letra": "D",
+    "texto": "Em áreas endêmicas de malária, a frequência do alelo mutante é mais baixa, pois pessoas homozigóticas normais tendem a morrer de malária, e as homozigóticas siclêmicas, de anemia falciforme. Assim, heterozigotos têm maior chance de sobreviver e transmitir o alelo normal."
+   },
+   {
+    "letra": "E",
+    "texto": "Em heterozigotos, o transporte de oxigênio aos tecidos fica prejudicado, uma vez que as moléculas alteradas não se ligam ao oxigênio. No entanto, a alteração na molécula impede a sobrevivência dos plasmódios da malária, caracterizando uma seleção do tipo direcional."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q005_img1.png",
+    "pagina": 5,
+    "bbox": [
+     42.5,
+     424.8,
+     546.5,
+     637.9
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   5,
+   6
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.625000000000036,
+     375.97700000000026,
+     546.8659919999997,
+     386.97700000000026
+    ],
+    [
+     42.62500000000003,
+     388.37700000000024,
+     547.478998,
+     399.37700000000024
+    ],
+    [
+     42.625,
+     401.37700000000024,
+     457.15000100000003,
+     412.37700000000024
+    ],
+    [
+     42.480000000000004,
+     424.8,
+     546.48,
+     637.9200000000001
+    ],
+    [
+     184.45,
+     566.0060000000001,
+     275.45,
+     574.0060000000001
+    ],
+    [
+     77.625,
+     575.206,
+     275.31199999999995,
+     583.206
+    ],
+    [
+     377.92,
+     628.806,
+     540.604,
+     636.806
+    ],
+    [
+     42.625,
+     651.6270000000001,
+     468.808,
+     662.6270000000001
+    ],
+    [
+     42.625,
+     677.052,
+     547.496,
+     688.052
+    ],
+    [
+     64.02499999999998,
+     689.652,
+     547.318996,
+     700.652
+    ],
+    [
+     64.025,
+     702.252,
+     535.2280020000001,
+     713.252
+    ]
+   ],
+   "6": [
+    [
+     42.625,
+     46.107000000000085,
+     547.4050000000001,
+     57.107000000000085
+    ],
+    [
+     64.02500000000003,
+     58.70700000000011,
+     547.369997,
+     69.70700000000011
+    ],
+    [
+     64.02500000000003,
+     71.30700000000013,
+     297.27499700000004,
+     82.30700000000013
+    ],
+    [
+     42.62500000000003,
+     88.49700000000018,
+     547.63801,
+     99.49700000000018
+    ],
+    [
+     64.02500000000003,
+     101.30700000000013,
+     547.2959969999999,
+     112.30700000000013
+    ],
+    [
+     64.02500000000003,
+     113.90700000000015,
+     399.187993,
+     124.90700000000015
+    ],
+    [
+     42.625000000000036,
+     131.1070000000002,
+     546.7159949999999,
+     142.1070000000002
+    ],
+    [
+     64.02500000000003,
+     143.70700000000022,
+     547.349996,
+     154.70700000000022
+    ],
+    [
+     64.02500000000003,
+     156.52700000000027,
+     511.7249999999999,
+     167.52700000000027
+    ],
+    [
+     42.625000000000036,
+     173.72700000000032,
+     546.7489950000001,
+     184.72700000000032
+    ],
+    [
+     64.02500000000003,
+     186.32700000000034,
+     547.2130019999996,
+     197.32700000000034
+    ],
+    [
+     64.02500000000003,
+     198.92700000000036,
+     497.4689999999999,
+     209.92700000000036
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q005_p5.jpg",
+   "revisao/Q005_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q006",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 6,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Quanto ao tipo de Biociclo, à sua característica e ao exemplo de ecossistema, analise a tabela a seguir:\n\nBiociclos\n\nCaracterísticas\n\nEcossistema\n\n1 – Abriga uma gigantesca biodiversidade, relacionada A – Corais e  \nI – Limnociclo  \nàs grandes variações climáticas. A maior produtividade marismas\n\né encontrada nas áreas de alta temperatura e alta\n\npluviosidade.  \n2 – O principal fator limitante da produtividade primária B – Lagoas e  \nII – Epinociclo  \ndo biociclo é a luz, uma vez que dela dependem todos lagunas\n\nos organismos fotossintetizantes e suas cadeias\n\nalimentares relacionadas.  \n3 – A concentração de sais no ambiente é baixíssima. C – Floresta  \nIII – Talassociclo  \nFaz conectividade com os outros biociclos, sendo de tropical úmida e suma importância para as atividades humanas.\n\nfloresta decídua temperada\n\nAssinale a alternativa que contém as correlações **CORRETAS**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I-1-A; II-2-B; III-3-C"
+   },
+   {
+    "letra": "B",
+    "texto": "I-1-B; II-3-A; III-2-C"
+   },
+   {
+    "letra": "C",
+    "texto": "I-2-C; II-1-B; III-3-A"
+   },
+   {
+    "letra": "D",
+    "texto": "I-3-C; II-2-A; III-1-B"
+   },
+   {
+    "letra": "E",
+    "texto": "I-3-B; II-1-C; III-2-A"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.625000000000036,
+     224.32700000000034,
+     546.6609959999998,
+     235.32700000000034
+    ],
+    [
+     42.62500000000003,
+     236.92700000000036,
+     75.44900000000004,
+     247.92700000000036
+    ],
+    [
+     84.625,
+     264.957,
+     127.877,
+     275.957
+    ],
+    [
+     268.08,
+     264.957,
+     341.572,
+     275.957
+    ],
+    [
+     465.15,
+     264.957,
+     527.597,
+     275.957
+    ],
+    [
+     168.45,
+     280.357,
+     521.426,
+     291.39000000000004
+    ],
+    [
+     55.025,
+     280.357,
+     122.09,
+     291.39000000000004
+    ],
+    [
+     168.45,
+     292.957,
+     508.602,
+     303.957
+    ],
+    [
+     168.45,
+     305.557,
+     440.8760000000001,
+     316.557
+    ],
+    [
+     168.45,
+     318.157,
+     232.938,
+     329.157
+    ],
+    [
+     168.45,
+     331.357,
+     525.826,
+     342.39000000000004
+    ],
+    [
+     55.025,
+     331.357,
+     123.28600000000002,
+     342.39000000000004
+    ],
+    [
+     168.45,
+     343.957,
+     499.615,
+     354.957
+    ],
+    [
+     168.45,
+     356.777,
+     440.8759999999999,
+     367.777
+    ],
+    [
+     168.45,
+     369.377,
+     293.78399999999993,
+     380.377
+    ],
+    [
+     168.45,
+     382.577,
+     520.827,
+     393.61
+    ],
+    [
+     55.025,
+     382.577,
+     136.67200000000003,
+     393.61
+    ],
+    [
+     168.45,
+     395.177,
+     538.61,
+     406.177
+    ],
+    [
+     168.45,
+     407.777,
+     398.87800000000004,
+     418.777
+    ],
+    [
+     460.95,
+     407.777,
+     539.193,
+     418.777
+    ],
+    [
+     460.95,
+     420.377,
+     513.618,
+     431.377
+    ],
+    [
+     42.625,
+     439.177,
+     350.15799999999996,
+     450.177
+    ],
+    [
+     42.62499999999994,
+     457.807,
+     163.39200200000002,
+     468.807
+    ],
+    [
+     42.625000000000014,
+     470.407,
+     163.39200200000002,
+     481.40700000000004
+    ],
+    [
+     42.625000000000014,
+     483.007,
+     163.58700199999998,
+     494.007
+    ],
+    [
+     42.625,
+     495.807,
+     163.58700199999996,
+     506.807
+    ],
+    [
+     42.62499999999997,
+     508.40700000000004,
+     163.58700199999993,
+     519.407
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q006_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q007",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 7,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\nA Mata Atlântica possui uma das maiores biodiversidades do mundo, com cerca de 20 mil espécies de plantas e 2.190 espécies de vertebrados. Uma rica fauna associada em diferentes formações florestais, de Matas Densas (úmidas e quentes no Nordeste do Brasil) a Campos de Altitude (úmidas e frias, no Sudeste do Brasil). A paisagem no Sul outrora foi dominada por imensas Florestas de Araucárias, resistentes ao frio mais intenso dos invernos. Gralhas nidificavam nos galhos das árvores e se alimentavam das suas sementes, conhecidas como pinhão, ajudando, também, a dispersá-las no solo. Ambas as espécies estão ameaçadas de extinção. Na época do descobrimento, a Mata Atlântica abrangia uma área equivalente a 1.315.460 km², estendendo-se ao longo de 17 Estados, do Rio Grande do Sul ao Piauí, atingindo uma boa porção do Sudeste e estados do Centro-Oeste, como Goiás e Mato Grosso do Sul. Hoje, restam apenas 12,4% da floresta que existia originalmente.\n\nFonte: Compilação No texto, os conceitos Bioma, Ecossistema, Comunidade e População estão relacionados, respectivamente, com",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Mata Atlântica; Florestas de Araucária; Gralhas; Campo de Altitude."
+   },
+   {
+    "letra": "B",
+    "texto": "Paisagem; Mata Atlântica; Gralhas; Matas Densas."
+   },
+   {
+    "letra": "C",
+    "texto": "Matas Densas; Mata Atlântica; Florestas de Araucária; Campos de Altitude."
+   },
+   {
+    "letra": "D",
+    "texto": "Mata Atlântica; Campos de Altitude; Florestas de Araucária; Gralhas."
+   },
+   {
+    "letra": "E",
+    "texto": "Paisagem; Florestas de Araucária; Mata Atlântica; Matas Densas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   6,
+   7
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.62499999999994,
+     546.407,
+     166.07200099999994,
+     557.407
+    ],
+    [
+     42.62499999999994,
+     571.6270000000001,
+     546.6999999999999,
+     582.6270000000001
+    ],
+    [
+     42.62499999999994,
+     584.2270000000001,
+     546.717996,
+     595.2270000000001
+    ],
+    [
+     42.62499999999994,
+     597.027,
+     546.733,
+     608.027
+    ],
+    [
+     42.62499999999994,
+     609.6270000000001,
+     547.4019979999998,
+     620.6270000000001
+    ],
+    [
+     42.62499999999994,
+     622.2270000000001,
+     547.1919969999999,
+     633.2270000000001
+    ],
+    [
+     42.62499999999994,
+     634.827,
+     547.4509919999997,
+     645.827
+    ],
+    [
+     42.62499999999994,
+     647.427,
+     547.1129949999997,
+     658.427
+    ],
+    [
+     42.62499999999994,
+     660.2270000000001,
+     547.0280089999997,
+     671.2270000000001
+    ],
+    [
+     42.62499999999994,
+     672.8520000000001,
+     547.4639939999998,
+     683.8520000000001
+    ],
+    [
+     42.62499999999994,
+     685.452,
+     504.82500199999964,
+     696.452
+    ],
+    [
+     480.1499999999999,
+     697.431,
+     547.1659999999999,
+     705.431
+    ]
+   ],
+   "7": [
+    [
+     42.625,
+     46.107000000000085,
+     547.0279979999998,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     150.09500000000003,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     80.49700000000018,
+     394.97800199999983,
+     91.49700000000018
+    ],
+    [
+     42.625,
+     93.1070000000002,
+     313.1580000000001,
+     104.1070000000002
+    ],
+    [
+     42.625,
+     105.90700000000015,
+     432.4079939999999,
+     116.90700000000015
+    ],
+    [
+     42.625,
+     118.49700000000018,
+     400.38800000000003,
+     129.49700000000018
+    ],
+    [
+     42.625,
+     131.1070000000002,
+     385.38800000000003,
+     142.1070000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q007_p6.jpg",
+   "revisao/Q007_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q008",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 8,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Estudos recentes apontam que a caça de cotia na Amazônia pode levar à diminuição da população de seringueiras. Em florestas, onde a espécie não é mais encontrada, observaram-se poucas árvores espalhadas. Uma das principais explicações é a Zoocoria, representada pela seguinte interação da cotia com a seringueira:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Espantar predadores naturais."
+   },
+   {
+    "letra": "B",
+    "texto": "Ajudar a dispersão de sementes."
+   },
+   {
+    "letra": "C",
+    "texto": "Controlar as populações de pragas."
+   },
+   {
+    "letra": "D",
+    "texto": "Deixar clareiras nas florestas para as sementes germinarem."
+   },
+   {
+    "letra": "E",
+    "texto": "Defecar próximo às árvores, fertilizando-as."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.62500000000006,
+     161.1270000000003,
+     546.7820009999998,
+     172.1270000000003
+    ],
+    [
+     42.62500000000006,
+     173.72700000000032,
+     547.484003,
+     184.72700000000032
+    ],
+    [
+     42.62500000000006,
+     186.32700000000034,
+     547.058996,
+     197.32700000000034
+    ],
+    [
+     42.62500000000006,
+     198.92700000000036,
+     222.72800000000012,
+     209.92700000000036
+    ],
+    [
+     42.62500000000006,
+     219.72700000000032,
+     212.13799300000005,
+     230.72700000000032
+    ],
+    [
+     42.62500000000006,
+     232.32700000000034,
+     225.137991,
+     243.32700000000034
+    ],
+    [
+     42.62500000000006,
+     244.92700000000036,
+     238.53799900000007,
+     255.92700000000036
+    ],
+    [
+     42.62500000000006,
+     257.7470000000004,
+     361.3880000000001,
+     268.74700000000036
+    ],
+    [
+     42.625000000000114,
+     270.35700000000037,
+     276.9580000000001,
+     281.35700000000037
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q008_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q009",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 9,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\n{{img:1}}\n\nElas aparecem principalmente no verão, quando encalham nas praias. Causam muita admiração mas também muito medo. *Physalia sp* é o\n\nnome científico, conhecida como caravela-portuguesa. Cada indivíduo desempenha uma função, o de captura das presas, de digestão do\n\nalimento e o de locomoção, inflando as velas e facilitando a\n\nlocomoção.\n\n{{fonte:1}}\n\nSobre as relações ecológicas estabelecidas, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "Disponível em: http://salvador-nautico.blogspot.com Acesso em: jun., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Caravela é uma colônia heteromorfa, pois cada indivíduo desempenha uma função diferente."
+   },
+   {
+    "letra": "B",
+    "texto": "Pelo fato de a Caravela ser constituída de diferentes organismos num mesmo corpo, a relação pode ser considerada inquilinismo."
+   },
+   {
+    "letra": "C",
+    "texto": "Trata-se de um tipo de relação desarmônica em razão de os organismos desempenharem papéis diferentes."
+   },
+   {
+    "letra": "D",
+    "texto": "Caravela pode ser considerada uma comunidade composta de indivíduos de diferentes espécies."
+   },
+   {
+    "letra": "E",
+    "texto": "De forma independente, os indivíduos se beneficiam formando uma protocooperação."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q009_img1.png",
+    "pagina": 7,
+    "bbox": [
+     69.1,
+     320.4,
+     180.0,
+     447.8
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.625000000000085,
+     301.35700000000037,
+     166.07200100000006,
+     312.35700000000037
+    ],
+    [
+     69.12,
+     320.40000000000003,
+     180.0,
+     447.84000000000003
+    ],
+    [
+     192.48,
+     326.957,
+     540.894,
+     337.957
+    ],
+    [
+     192.48,
+     341.357,
+     541.476,
+     352.357
+    ],
+    [
+     192.48,
+     356.177,
+     541.309,
+     367.177
+    ],
+    [
+     192.48,
+     370.577,
+     541.0369999999999,
+     381.577
+    ],
+    [
+     192.48,
+     385.177,
+     541.015,
+     396.177
+    ],
+    [
+     192.48,
+     399.777,
+     248.87699999999998,
+     410.777
+    ],
+    [
+     197.48,
+     421.55600000000004,
+     380.924,
+     429.55600000000004
+    ],
+    [
+     197.48,
+     430.75600000000003,
+     278.68600000000004,
+     438.75600000000003
+    ],
+    [
+     42.62500000000007,
+     465.60700000000054,
+     426.57800000000003,
+     476.60700000000054
+    ],
+    [
+     42.62500000000006,
+     483.2070000000005,
+     518.4379869999998,
+     494.2070000000005
+    ],
+    [
+     42.62500000000006,
+     495.8070000000005,
+     547.1249970000001,
+     506.8070000000005
+    ],
+    [
+     64.02500000000005,
+     508.40700000000055,
+     233.7380050000001,
+     519.4070000000006
+    ],
+    [
+     42.62500000000005,
+     520.9970000000005,
+     547.2050060000001,
+     531.9970000000005
+    ],
+    [
+     64.02500000000005,
+     533.8070000000006,
+     115.48799400000006,
+     544.8070000000006
+    ],
+    [
+     42.62500000000005,
+     546.4070000000006,
+     539.437999,
+     557.4070000000006
+    ],
+    [
+     42.62500000000006,
+     558.9970000000005,
+     483.20799000000005,
+     569.9970000000005
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q009_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q010",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 10,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\nSegundo o Painel Brasileiro de Mudanças Climáticas (PBMC), ao desenvolver atividades que buscam prover alimentos, fibras e energia, o ser humano vem impactando a disponibilidade de elementos fundamentais à vida, além de alterar um dos parâmetros mais importantes no funcionamento de sistemas aquáticos e terrestres: a temperatura do ar.\n\nO Brasil desponta como um dos maiores emissores de gases do efeito estufa no mundo, responsável pelo aumento da temperatura do ar, principalmente pelas mudanças no uso da terra e pela produção agropecuária. Isso se dá em parte à grande produção de carne bovina de corte, pois gases são produzidos na digestão dos ruminantes e eliminados por eructação (arroto).\n\n{{fonte:1}}\n\nO gás de efeito estufa produzido pelos ruminantes é o",
+  "fontes": [
+   "Painel Brasileiro de Mudanças Climáticas, 2015. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Óxido Nitroso."
+   },
+   {
+    "letra": "B",
+    "texto": "Gás sulfídrico."
+   },
+   {
+    "letra": "C",
+    "texto": "Metano."
+   },
+   {
+    "letra": "D",
+    "texto": "Gás Carbônico."
+   },
+   {
+    "letra": "E",
+    "texto": "Hexafluoreto de enxofre."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   7,
+   8
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.62500000000006,
+     590.0270000000005,
+     166.06799200000006,
+     601.0270000000005
+    ],
+    [
+     64.02500000000006,
+     612.0270000000005,
+     547.2629969999999,
+     623.0270000000005
+    ],
+    [
+     42.625000000000064,
+     624.6270000000005,
+     546.799,
+     635.6270000000005
+    ],
+    [
+     42.625000000000064,
+     637.2270000000005,
+     546.8210000000001,
+     648.2270000000005
+    ],
+    [
+     42.625000000000064,
+     649.8270000000005,
+     391.22900300000003,
+     660.8270000000006
+    ],
+    [
+     64.02500000000006,
+     662.4270000000005,
+     546.9139999999999,
+     673.4270000000005
+    ],
+    [
+     42.625000000000064,
+     675.2520000000005,
+     547.0970009999999,
+     686.2520000000005
+    ],
+    [
+     42.625000000000064,
+     687.8520000000005,
+     546.8319999999998,
+     698.8520000000005
+    ],
+    [
+     42.625000000000064,
+     700.4520000000005,
+     465.4080000000001,
+     711.4520000000005
+    ],
+    [
+     337.1,
+     712.4310000000005,
+     547.3800000000001,
+     720.4310000000005
+    ]
+   ],
+   "8": [
+    [
+     42.625,
+     46.107000000000085,
+     307.01599500000015,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     71.30700000000013,
+     133.707993,
+     82.30700000000013
+    ],
+    [
+     42.625,
+     83.90700000000015,
+     134.307999,
+     94.90700000000015
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     103.878001,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000013,
+     140.70799699999998,
+     120.30700000000013
+    ],
+    [
+     42.625,
+     121.90700000000015,
+     184.70799699999998,
+     132.90700000000015
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q010_p7.jpg",
+   "revisao/Q010_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q011",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 11,
+  "area": "",
+  "texto_base_id": "P4227-T1",
+  "textos_base_ids": [
+   "P4227-T1"
+  ],
+  "enunciado": "A demanda por fraldas tem aumentado ao longo dos anos. Com isso, o debate sobre a melhor utilização de fraldas descartáveis (à base de polietileno e poliacrilato de sódio) ou de tecidos (à base de algodão) é recorrente. É importante considerar alguns aspectos da natureza química desses materiais. A seguir, são apresentadas as estruturas dos compostos bem como algumas informações sobre esses tipos de fralda indicados no texto:\n\n{{img:1}}\n\nSobre essa temática, analise as afirmativas a seguir:\n\nI. As fraldas descartáveis e de tecido são constituídas por polímeros.\n\nII. O polissacarídeo apresentado é o principal constituinte dos tecidos à base de algodão.\n\nIII. O polietileno, por ser hidrofóbico, é utilizado para reter os líquidos e impedir o vazamento.\n\nIV. O poliacrilato, por ser polar, naturalmente se degrada em pouco tempo, causando impactos ambientais irrelevantes.\n\nV. O poliacrilato de sódio é um material hidrofílico, utilizado tanto em fraldas quanto em absorvente íntimo feminino, para reter biofluidos aquosos.\n\nEstão **CORRETAS** apenas",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e IV."
+   },
+   {
+    "letra": "B",
+    "texto": "I, III e V."
+   },
+   {
+    "letra": "C",
+    "texto": "I, II, III e V."
+   },
+   {
+    "letra": "D",
+    "texto": "I, III, IV e V."
+   },
+   {
+    "letra": "E",
+    "texto": "II, III, IV e V."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q011_img1.png",
+    "pagina": 8,
+    "bbox": [
+     62.8,
+     272.1,
+     545.5,
+     365.8
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.625,
+     210.52700000000016,
+     547.560994,
+     221.52700000000016
+    ],
+    [
+     42.625,
+     223.12700000000018,
+     547.484993,
+     234.12700000000018
+    ],
+    [
+     42.625,
+     235.7270000000002,
+     547.2980039999999,
+     246.7270000000002
+    ],
+    [
+     42.625,
+     248.52700000000016,
+     546.850997,
+     259.52700000000016
+    ],
+    [
+     42.625,
+     261.15700000000015,
+     268.92199400000004,
+     272.1570000000001
+    ],
+    [
+     62.7627870275,
+     272.1,
+     545.5,
+     365.76
+    ],
+    [
+     42.624999999999986,
+     384.57699999999994,
+     299.88200000000006,
+     395.57699999999994
+    ],
+    [
+     68.62499999999999,
+     402.9769999999999,
+     411.815005,
+     413.9769999999999
+    ],
+    [
+     65.62499999999999,
+     415.57699999999994,
+     508.7220019999998,
+     426.57699999999994
+    ],
+    [
+     62.624999999999986,
+     428.37699999999995,
+     522.9370049999998,
+     439.37699999999995
+    ],
+    [
+     61.42499999999999,
+     440.977,
+     547.141,
+     451.977
+    ],
+    [
+     85.225,
+     453.577,
+     201.572,
+     464.577
+    ],
+    [
+     64.425,
+     466.207,
+     546.963007,
+     477.207
+    ],
+    [
+     85.22500000000001,
+     479.007,
+     368.2550000000002,
+     490.007
+    ],
+    [
+     42.62500000000001,
+     500.607,
+     174.716997,
+     511.607
+    ],
+    [
+     42.625,
+     521.407,
+     97.683,
+     532.407
+    ],
+    [
+     139.45,
+     521.407,
+     196.704,
+     532.407
+    ],
+    [
+     241.08,
+     521.407,
+     308.323,
+     532.407
+    ],
+    [
+     354.52,
+     521.407,
+     426.172,
+     532.407
+    ],
+    [
+     468.15,
+     521.407,
+     542.7950000000001,
+     532.407
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q011_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q012",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 12,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um designer de joias solicitou a um de seus fornecedores que depositasse, eletroquimicamente, uma camada de 1,97 g de ouro sobre uma peça por ele produzida. Segundo o fornecedor, o processo demoraria aproximadamente 10 minutos, usando uma corrente de 5,0 A e solução de cloreto de ouro III. O designer acompanhou o processo e verificou que a corrente elétrica e o tempo empregado foram os indicados pelo fornecedor. No entanto, ao chegar ao seu atelier, percebeu que o incremento de massa na peça foi de apenas 0,27 g, tendo reclamado ao fornecedor que reconheceu o erro e afirmou ter sido utilizada uma solução contendo íon crômio na eletrodeposição.\n\nDados: Massa molar do Cr = 52 g/mol; Constante de Faraday = 96500 C/mol\n\nAssinale a alternativa que apresenta a espécie utilizada no processo.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Cr<sup>2+</sup>"
+   },
+   {
+    "letra": "B",
+    "texto": "Cr<sup>3+</sup>"
+   },
+   {
+    "letra": "C",
+    "texto": "Cr<sup>4+</sup>"
+   },
+   {
+    "letra": "D",
+    "texto": "Cr<sup>5+</sup>"
+   },
+   {
+    "letra": "E",
+    "texto": "Cr<sup>6+</sup>"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.625,
+     559.427,
+     547.1929889999999,
+     570.427
+    ],
+    [
+     42.625,
+     572.027,
+     547.412996,
+     583.027
+    ],
+    [
+     42.62499999999994,
+     584.627,
+     546.6779999999998,
+     595.627
+    ],
+    [
+     42.62499999999994,
+     597.427,
+     546.5459999999998,
+     608.427
+    ],
+    [
+     42.62499999999994,
+     610.027,
+     546.5019999999997,
+     621.027
+    ],
+    [
+     42.62499999999994,
+     622.627,
+     547.4659959999999,
+     633.627
+    ],
+    [
+     42.62499999999994,
+     635.2270000000001,
+     389.4700039999999,
+     646.227
+    ],
+    [
+     114.85,
+     656.407175,
+     490.0197911500002,
+     667.432175
+    ],
+    [
+     42.62499999999994,
+     680.2520000000001,
+     380.36499599999996,
+     691.2520000000001
+    ],
+    [
+     47.225,
+     705.452,
+     79.51299999999999,
+     716.452
+    ],
+    [
+     154.45,
+     705.452,
+     186.738,
+     716.452
+    ],
+    [
+     253.68,
+     705.452,
+     285.38800000000003,
+     716.452
+    ],
+    [
+     352.92,
+     705.452,
+     385.218,
+     716.452
+    ],
+    [
+     459.15,
+     705.452,
+     491.43800000000005,
+     716.452
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q012_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q013",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 13,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Óleos essenciais são normalmente extraídos a partir de plantas medicinais, sendo seu uso como antimicrobiano amplamente difundido. Abaixo, são apresentados dados da composição de óleos essenciais de Citronela, Eucalipto, Lavanda e Melaleuca e, ao lado, as estruturas desses compostos.\n\nTeor no óleo  \nÓleo essencial\n\nCompostos\n\n(%)*  \nde\n\nCitronelal\n\n41,8  \nCitronela\n\nCitronelol\n\n10,4\n\nGeraniol\n\n19,6\n\nα-Pineno\n\n55,5  \nEucalipto\n\nα-Terpineno\n\n15,8\n\n1,8-Cineol\n\n46,8  \nLavanda\n\nCânfora\n\n13,7\n\nTerpinen-4-ol\n\n40,1  \nMelaleuca\n\nα-Terpineno\n\n10,4\n\nγ-Terpineno\n\n23,0\n\n{{img:1}}\n\n{{fonte:1}}\n\nQuanto à composição química dos óleos essenciais apresentados, analise as afirmativas a seguir:\n\nI. O óleo essencial de lavanda tem como componente majoritário um álcool.\n\nII. Os componentes majoritários dos óleos de melaleuca e de citronela são isômeros.\n\nIII. Os dois componentes majoritários do óleo de lavanda possuem isômeros ópticos.\n\nIV. O componente comum nos óleos de eucalipto e de melaleuca possui um centro estereogênico. V. O óleo de eucalipto difere dos outros por apresentar, apenas, hidrocarbonetos como compostos majoritários.\n\nEstão **CORRETAS**",
+  "fontes": [
+   "Silveira et al. Ver. Inst. Adolfo Lutz, 71(3), 471, 2012. Brophy et al. J. Agric. Food Chem., 37, 1330, 1989."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e IV."
+   },
+   {
+    "letra": "B",
+    "texto": "I, III e V."
+   },
+   {
+    "letra": "C",
+    "texto": "II, III e V."
+   },
+   {
+    "letra": "D",
+    "texto": "II, IV e V."
+   },
+   {
+    "letra": "E",
+    "texto": "III, IV e V."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q013_img1.png",
+    "pagina": 9,
+    "bbox": [
+     322.8,
+     61.2,
+     552.8,
+     297.3
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.625,
+     59.657420000000116,
+     314.01599999999996,
+     70.65742000000012
+    ],
+    [
+     42.625,
+     72.25742000000014,
+     313.665,
+     83.25742000000014
+    ],
+    [
+     42.625,
+     84.85742000000005,
+     313.7849990000001,
+     95.85742000000005
+    ],
+    [
+     42.625,
+     97.45742000000007,
+     313.6540000000001,
+     108.45742000000007
+    ],
+    [
+     42.625,
+     110.25742000000014,
+     313.881007,
+     121.25742000000014
+    ],
+    [
+     42.625,
+     122.85742000000005,
+     311.13600099999996,
+     133.85742000000005
+    ],
+    [
+     226.88,
+     155.45742000000007,
+     288.557,
+     167.0474200000001
+    ],
+    [
+     57.025,
+     156.0474200000001,
+     129.185,
+     167.0474200000001
+    ],
+    [
+     144.05,
+     162.47742000000005,
+     199.699,
+     173.47742000000005
+    ],
+    [
+     247.08,
+     168.27742000000012,
+     268.354,
+     179.87742000000014
+    ],
+    [
+     86.825,
+     168.87742000000014,
+     99.141,
+     179.87742000000014
+    ],
+    [
+     149.65,
+     183.39462000000003,
+     193.96859999999998,
+     193.99462000000005
+    ],
+    [
+     243.88,
+     183.39462000000003,
+     264.3592,
+     193.99462000000005
+    ],
+    [
+     69.225,
+     195.99462000000005,
+     111.09499999999998,
+     206.59462000000008
+    ],
+    [
+     149.65,
+     195.99462000000005,
+     193.96859999999998,
+     206.59462000000008
+    ],
+    [
+     243.88,
+     195.99462000000005,
+     264.3592,
+     206.59462000000008
+    ],
+    [
+     152.05,
+     208.59462000000008,
+     191.5986,
+     219.1946200000001
+    ],
+    [
+     243.88,
+     208.59462000000008,
+     264.3592,
+     219.1946200000001
+    ],
+    [
+     150.85,
+     221.1946200000001,
+     192.927,
+     231.8264200000001
+    ],
+    [
+     243.88,
+     221.1946200000001,
+     264.3592,
+     231.8264200000001
+    ],
+    [
+     68.625,
+     227.39462000000003,
+     111.67160000000003,
+     237.99462000000005
+    ],
+    [
+     143.45,
+     233.59462000000008,
+     200.114,
+     244.22642000000008
+    ],
+    [
+     243.88,
+     233.59462000000008,
+     264.3592,
+     244.22642000000008
+    ],
+    [
+     148.05,
+     246.1946200000001,
+     195.79219999999998,
+     256.7946200000001
+    ],
+    [
+     243.88,
+     246.1946200000001,
+     264.3592,
+     256.7946200000001
+    ],
+    [
+     70.225,
+     252.1946200000001,
+     110.29299999999999,
+     262.7946200000001
+    ],
+    [
+     153.25,
+     258.39462000000003,
+     190.5196,
+     268.99462000000005
+    ],
+    [
+     243.88,
+     258.39462000000003,
+     264.3592,
+     268.99462000000005
+    ],
+    [
+     140.65,
+     271.02461999999997,
+     203.0332,
+     281.62462
+    ],
+    [
+     243.88,
+     271.02461999999997,
+     264.3592,
+     281.62462
+    ],
+    [
+     66.425,
+     283.02461999999997,
+     114.26280000000001,
+     293.65641999999997
+    ],
+    [
+     143.45,
+     283.02461999999997,
+     200.114,
+     293.65641999999997
+    ],
+    [
+     243.88,
+     283.02461999999997,
+     264.3592,
+     293.65641999999997
+    ],
+    [
+     143.85,
+     295.02461999999997,
+     199.6928,
+     305.65641999999997
+    ],
+    [
+     243.88,
+     295.02461999999997,
+     264.3592,
+     305.65641999999997
+    ],
+    [
+     322.75,
+     61.20040000000006,
+     552.75,
+     297.30041
+    ],
+    [
+     79.625,
+     310.68642,
+     266.921,
+     318.68642
+    ],
+    [
+     82.225,
+     319.88642,
+     264.42600000000004,
+     327.88642
+    ],
+    [
+     42.625,
+     355.10742,
+     522.452007,
+     366.10742
+    ],
+    [
+     64.825,
+     375.72742,
+     438.36300399999993,
+     386.72742
+    ],
+    [
+     61.825,
+     388.52742,
+     480.07500400000004,
+     399.52742
+    ],
+    [
+     58.825,
+     401.12742,
+     476.78700500000014,
+     412.12742
+    ],
+    [
+     57.625,
+     413.72742,
+     541.3120059999999,
+     424.72742
+    ],
+    [
+     60.625,
+     426.32741999999996,
+     546.8230040000001,
+     437.32741999999996
+    ],
+    [
+     78.025,
+     439.12742,
+     137.81,
+     450.12742
+    ],
+    [
+     42.625,
+     464.12742,
+     135.317,
+     475.12742
+    ],
+    [
+     42.625,
+     489.75741999999997,
+     99.274,
+     500.75741999999997
+    ],
+    [
+     153.32403599999998,
+     489.75741999999997,
+     210.17304,
+     500.75741999999997
+    ],
+    [
+     251.671264,
+     489.75741999999997,
+     310.95926,
+     500.75741999999997
+    ],
+    [
+     358.21945,
+     489.75741999999997,
+     419.51145499999996,
+     500.75741999999997
+    ],
+    [
+     460.72426,
+     489.75741999999997,
+     524.97426,
+     500.75741999999997
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [
+   "texto curto solto junto da imagem (“23,0”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q013_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q014",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 14,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Teoricamente uma célula nervosa pode ser tratada como célula eletroquímica, pois a concentração de íons K<sup>+</sup> é diferente quando consideramos os fluidos interno e externo à célula. Sabe-se que a concentração de íons K<sup>+</sup> no interior da célula é 20 vezes maior que a concentração desse mesmo íon no fluido externo à célula.\n\nConsiderando, apenas, os aspectos indicados, assinale a alternativa que apresenta a diferença de potencial da célula nervosa.\n\n{{img:1}}\n\nb) 26 mV",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "13 mV c) 52 mV d) 78 mV e) 91 mV"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q014_img1.png",
+    "pagina": 9,
+    "bbox": [
+     73.4,
+     620.6,
+     481.7,
+     672.5
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.625,
+     527.5474200000001,
+     546.8369959999999,
+     538.54742
+    ],
+    [
+     42.625,
+     540.35742,
+     547.633004,
+     551.35742
+    ],
+    [
+     42.625,
+     552.95742,
+     546.9899980000001,
+     563.95742
+    ],
+    [
+     42.625,
+     565.5474200000001,
+     225.14800000000002,
+     576.54742
+    ],
+    [
+     42.625,
+     585.17742,
+     547.2549829999995,
+     596.17742
+    ],
+    [
+     42.625,
+     597.77742,
+     179.14599999999996,
+     608.77742
+    ],
+    [
+     73.44,
+     620.64,
+     481.68,
+     672.48
+    ],
+    [
+     152.72054,
+     698.49503,
+     197.44254,
+     710.00242
+    ],
+    [
+     45.625,
+     699.00242,
+     90.34700000000001,
+     710.00242
+    ],
+    [
+     252.47068,
+     699.00242,
+     296.59268,
+     710.00242
+    ],
+    [
+     358.70068,
+     699.00242,
+     403.42267999999996,
+     710.00242
+    ],
+    [
+     462.07625,
+     699.00242,
+     506.79825,
+     710.00242
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [
+   "1 alternativas encontradas (esperado 5)",
+   "texto curto solto junto da imagem (“b) 26 mV”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q014_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q015",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 15,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Numa certa empresa de reciclagem, o processo inicia-se por meio da separação dos polímeros em função de suas densidades (d). Na sequência, caso o material seja uma poliolefina, é submetido à pirólise à baixa temperatura; caso seja poliéster ou poliamida, é submetido à hidrólise ou metanólise (reação com metanol); caso sejam polímeros de unidades monoméricas mais complexas que as citadas, são submetidos à pirólise catalisada e com temperaturas elevadas. A seguir, têm-se um fluxograma de processo e as estruturas desses polímeros – PET (Polietileno tereftalato), PEBD (Polietileno de baixa densidade), PP (Polipropileno), PVC (Policloreto de vinila) e PS (Poliestireno).\n\n{{img:1}}\n\n{{fonte:1}}\n\n{{img:2}}\n\nd=0,91 g/cm<sup>3</sup>  \nd=0,94 g/cm<sup>3</sup>\n\nd=1,05 g/cm<sup>3</sup>\n\nd=1,40 g/cm<sup>3</sup>  \nd=1,58 g/cm<sup>3</sup>\n\nQuanto ao processo descrito, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "Adaptado de *Química Nova*, 28,1,65, 2005."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O decantado II possui, apenas, um polímero."
+   },
+   {
+    "letra": "B",
+    "texto": "O decantado II foi submetido à pirólise catalisada à alta temperatura."
+   },
+   {
+    "letra": "C",
+    "texto": "O decantado I é uma mistura binária contendo um poliéster e uma poliolefina."
+   },
+   {
+    "letra": "D",
+    "texto": "O sobrenadante I é uma mistura de polímeros que foi submetida à metanólise."
+   },
+   {
+    "letra": "E",
+    "texto": "O sobrenadante I e a fração que contém o PET foram submetidos ao mesmo tratamento."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q015_img1.png",
+    "pagina": 10,
+    "bbox": [
+     57.4,
+     145.4,
+     532.8,
+     258.5
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q015_img2.png",
+    "pagina": 10,
+    "bbox": [
+     48.2,
+     299.5,
+     541.9,
+     364.7
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.625,
+     46.107000000000085,
+     547.2670009999999,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     547.2759929999997,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     547.0649980000002,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     546.978003,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     547.3280020000001,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     547.320995,
+     120.33999999999992
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     525.25,
+     132.90700000000004
+    ],
+    [
+     57.39999,
+     145.44,
+     532.8000000000001,
+     258.48
+    ],
+    [
+     393.52,
+     266.13599999999997,
+     547.1940000000001,
+     274.136
+    ],
+    [
+     48.24,
+     299.52000000000004,
+     541.9215501313,
+     364.6737401699834
+    ],
+    [
+     51.504814825,
+     373.1603183680797,
+     117.0305101513,
+     384.17416024439666
+    ],
+    [
+     146.0537399,
+     373.1603183680797,
+     211.55561637630004,
+     384.17416024439666
+    ],
+    [
+     241.48287975,
+     373.1603183680797,
+     307.0042443763,
+     384.17416024439666
+    ],
+    [
+     344.715941,
+     373.1603183680797,
+     410.2373056263,
+     384.17416024439666
+    ],
+    [
+     473.08871575,
+     373.1603183680797,
+     538.5884268762999,
+     384.17416024439666
+    ],
+    [
+     42.625,
+     401.377,
+     353.188,
+     412.377
+    ],
+    [
+     42.625,
+     424.577,
+     283.629,
+     435.577
+    ],
+    [
+     42.625,
+     437.177,
+     399.70699999999994,
+     448.177
+    ],
+    [
+     42.625,
+     449.97700000000003,
+     442.19399999999985,
+     460.97700000000003
+    ],
+    [
+     42.625,
+     462.607,
+     446.3849999999999,
+     473.607
+    ],
+    [
+     42.625,
+     475.207,
+     498.84700299999986,
+     486.207
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q016",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 16,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Três hidrocarbonetos insaturados foram submetidos à Ozonólise, conforme representação ao lado:\n\n{{img:1}}\n\nAssinale a alternativa que apresenta, respectivamente, o nome dos compostos A, B e C.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Butanona / Butanal / Etanal"
+   },
+   {
+    "letra": "B",
+    "texto": "Metanal / Butanona / Propanal"
+   },
+   {
+    "letra": "C",
+    "texto": "Propanona / Propanal / Etanal"
+   },
+   {
+    "letra": "D",
+    "texto": "Propanona / Butanona / Propanal"
+   },
+   {
+    "letra": "E",
+    "texto": "Metanal / Ácido Metiletanoico / Propanona"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q016_img1.png",
+    "pagina": 10,
+    "bbox": [
+     291.6,
+     511.0,
+     556.2,
+     697.0
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.625,
+     515.407,
+     255.13900000000007,
+     526.407
+    ],
+    [
+     42.625,
+     528.2070000000001,
+     255.10100000000008,
+     539.207
+    ],
+    [
+     42.625,
+     540.807,
+     155.308,
+     551.807
+    ],
+    [
+     42.625,
+     578.827,
+     255.328,
+     589.827
+    ],
+    [
+     42.625,
+     591.427,
+     255.27400800000004,
+     602.427
+    ],
+    [
+     42.625,
+     604.027,
+     86.68300300000001,
+     615.027
+    ],
+    [
+     291.60001,
+     511.00845000000004,
+     556.20002,
+     697.00845
+    ],
+    [
+     42.625,
+     629.427,
+     197.98300000000003,
+     640.427
+    ],
+    [
+     42.625,
+     642.027,
+     212.84798200000006,
+     653.027
+    ],
+    [
+     42.625,
+     654.6270000000001,
+     211.46598600000007,
+     665.6270000000001
+    ],
+    [
+     42.625,
+     667.2570000000001,
+     227.4479850000001,
+     678.2570000000001
+    ],
+    [
+     42.625,
+     680.052,
+     270.744997,
+     691.052
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q016_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q017",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 17,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": ".** Um dos mais importantes hospitais do litoral paulista foi investigado em 2009, sob suspeita de ter simulado tratamentos de radioterapia oferecidos a pacientes com câncer. O Ministério Público Estadual (MPE) apurou que pelo menos sete doentes passaram pelo chamado acelerador linear - dispositivo que emite feixes de radiação sobre a área afetada - período em que o aparelho estava quebrado. Em depoimento, uma técnica do setor de radioterapia confirmou a prática e disse ter recebido ordens para ludibriar os pacientes, que teriam partido de um dos médicos que, desde 1986, era um dos responsáveis pela unidade de radioterapia. Os pacientes tratados nessa unidade foram relocados para outros hospitais. A unidade está fechada desde julho de 2009, quando surgiram as primeiras denúncias de que um dos equipamentos de radioterapia funcionava com a bomba de cobalto (fonte de radiação) vencida há dois anos. A direção do hospital abriu sindicância para apurar os indícios de irregularidades no atendimento aos pacientes e se comprometeu a repassar ao Ministério Público (MP) as informações coletadas. \"Estamos estarrecidos com o que aconteceu\", disse o diretor técnico do hospital.\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nSobre o texto, analise as afirmativas a seguir:\n\nI. Afirmar que a bomba de cobalto estava vencida significa que, em razão do tempo de meia-vida, ocorre uma diminuição na dose efetiva de exposição, tornando o procedimento ineficaz.\n\nII. O equipamento se tornaria eficiente para o tratamento radioterápico se as pastilhas de cobalto radioativo fossem substituídas por novas pastilhas.\n\nIII. Embora a bomba de cobalto estivesse vencida, o equipamento poderia continuar sendo utilizado, sem prejuízo para o paciente, desde que o período de exposição fosse ampliado.\n\nIV. Para tornar o equipamento novamente efetivo, as pastilhas vencidas deveriam ser irradiadas, recuperando o seu potencial para o tratamento radioterápico.\n\nEstão **CORRETAS**",
+  "fontes": [
+   "(SILVA, 2013, adaptado de “O Estado de S. Paulo”, 29.10.2009",
+   "Disponível em: http://www.estadao.com.br/noticias/geral,em-santos-hospital-e-acusado-desimular-radioterapia,458297,0.htm) Acesso em: ago., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I e II."
+   },
+   {
+    "letra": "B",
+    "texto": "I e III."
+   },
+   {
+    "letra": "C",
+    "texto": "II e III."
+   },
+   {
+    "letra": "D",
+    "texto": "I e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "II e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.625,
+     45.90700000000004,
+     547.3939959999999,
+     56.90700000000004
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     547.03,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     547.496,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     546.9740099999999,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     546.733,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     546.9809950000001,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     547.2660050000001,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     546.557,
+     145.49700000000007
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     547.0029949999998,
+     158.3270000000001
+    ],
+    [
+     42.625,
+     159.92700000000002,
+     546.8999909999998,
+     170.92700000000002
+    ],
+    [
+     42.625,
+     172.52700000000004,
+     547.243,
+     183.52700000000004
+    ],
+    [
+     42.625,
+     185.12700000000007,
+     546.6889999999996,
+     196.12700000000007
+    ],
+    [
+     42.625,
+     197.92700000000002,
+     83.45700000000001,
+     208.92700000000002
+    ],
+    [
+     321.9,
+     209.92999999999995,
+     547.0280000000001,
+     217.92999999999995
+    ],
+    [
+     102.22,
+     219.106,
+     547.444,
+     227.106
+    ],
+    [
+     463.35,
+     228.30599999999993,
+     547.1420000000002,
+     236.30599999999993
+    ],
+    [
+     42.625,
+     247.3270000000001,
+     264.9419960000001,
+     258.3270000000001
+    ],
+    [
+     64.825,
+     269.157,
+     547.5999999999998,
+     280.157
+    ],
+    [
+     78.025,
+     281.757,
+     506.34299999999985,
+     292.757
+    ],
+    [
+     61.825,
+     294.557,
+     547.410008,
+     305.557
+    ],
+    [
+     78.025,
+     307.157,
+     326.6690000000001,
+     318.157
+    ],
+    [
+     58.825,
+     319.757,
+     546.8120039999998,
+     330.757
+    ],
+    [
+     78.025,
+     332.357,
+     521.1269999999998,
+     343.357
+    ],
+    [
+     57.625,
+     345.157,
+     547.074004,
+     356.157
+    ],
+    [
+     78.025,
+     357.777,
+     376.422,
+     368.777
+    ],
+    [
+     42.625,
+     383.97700000000003,
+     135.317,
+     394.97700000000003
+    ],
+    [
+     45.70469,
+     404.97700000000003,
+     85.44802,
+     415.97700000000003
+    ],
+    [
+     156.41498674809998,
+     404.97700000000003,
+     199.3883167481,
+     415.97700000000003
+    ],
+    [
+     256.6420067481,
+     404.97700000000003,
+     302.0153367481,
+     415.97700000000003
+    ],
+    [
+     364.2346567481,
+     404.97700000000003,
+     408.3879867481,
+     415.97700000000003
+    ],
+    [
+     460.7499867481,
+     404.97700000000003,
+     507.89331674809995,
+     415.97700000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q017_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q018",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 18,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nNa série Dark, da Netflix, um dos acontecimentos que guia a trama é a desativação da usina nuclear de Widen, uma cidade alemã.\n\nExistem três formas de desativação de uma usina nuclear:\n\n**(1)** <u>**Desmantelamento**</u>, quando as partes do reator são removidas e levadas para descontaminação após fechamento da usina, sendo depositadas no fundo do mar;  \n**(2)** <u>**Armazenamento Seguro**</u>, que consiste em manter a usina selada, até que os radionuclídeos tenham sua atividade radioativa reduzida a níveis seguros;  \n**(3)** <u>**Sepultamento**</u>, quando a unidade é encapsulada em um domo de concreto e aço. Considerando o aspecto <u>**segurança dos moradores da cidade**</u>, assinale a alternativa que apresenta a opção **CORRETA** para a desativação dessa usina e a razão para essa escolha.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "**(1),** uma vez que evitaria que o material radioativo permanecesse em Widen, após a desativação da usina."
+   },
+   {
+    "letra": "B",
+    "texto": "**(2),** porque evitaria que as partes do reator pudessem influenciar a vida marinha."
+   },
+   {
+    "letra": "C",
+    "texto": "**(3),** pois as placas de concreto e aço impedem a propagação da radiação, constituindo-se em única opção totalmente segura."
+   },
+   {
+    "letra": "D",
+    "texto": "**(2)** ou **(3),** porque são igualmente seguras, devendo ser escolhida aquela que tiver menor custo operacional."
+   },
+   {
+    "letra": "E",
+    "texto": "**(1)** ou **(2)**, uma vez que, em **(3)**, há o risco de vazamento radioativo, pois o concreto pode apresentar desgaste ao longo dos anos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q018_img1.png",
+    "pagina": 11,
+    "bbox": [
+     315.4,
+     448.6,
+     545.8,
+     639.4
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   11,
+   12
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.6249967481,
+     446.377,
+     306.4429927481001,
+     457.377
+    ],
+    [
+     42.6249967481,
+     459.007,
+     306.20699674810015,
+     470.007
+    ],
+    [
+     42.6249967481,
+     471.607,
+     173.08999074809998,
+     482.607
+    ],
+    [
+     42.6249967481,
+     491.207,
+     306.45400174810004,
+     502.207
+    ],
+    [
+     42.6249967481,
+     503.807,
+     81.8399967481,
+     514.807
+    ],
+    [
+     49.824996748100006,
+     521.9970000000001,
+     306.54999674809994,
+     532.9970000000001
+    ],
+    [
+     49.824996748100006,
+     534.807,
+     306.2569967481001,
+     545.807
+    ],
+    [
+     49.824996748100006,
+     547.607,
+     306.25699674810005,
+     558.607
+    ],
+    [
+     315.36,
+     448.56,
+     545.76,
+     639.36
+    ],
+    [
+     49.824996748100006,
+     560.2270000000001,
+     117.83799674810001,
+     571.227
+    ],
+    [
+     49.824996748100006,
+     572.627,
+     306.3469967481,
+     583.627
+    ],
+    [
+     49.824996748100006,
+     585.427,
+     306.4089967481,
+     596.427
+    ],
+    [
+     49.824996748100006,
+     598.2270000000001,
+     306.4600017481001,
+     609.227
+    ],
+    [
+     49.824996748100006,
+     610.827,
+     92.22999674810002,
+     621.827
+    ],
+    [
+     49.824996748100006,
+     623.2270000000001,
+     306.42399674809997,
+     634.227
+    ],
+    [
+     49.824996748100006,
+     636.027,
+     273.0919967481001,
+     647.027
+    ]
+   ],
+   "12": [
+    [
+     42.625,
+     45.90700000000004,
+     547.23,
+     56.90700000000004
+    ],
+    [
+     42.625,
+     58.49700000000007,
+     441.45599400000015,
+     69.49700000000007
+    ],
+    [
+     42.625,
+     79.10700000000008,
+     546.857005,
+     90.10700000000008
+    ],
+    [
+     64.025,
+     92.10700000000008,
+     108.83900000000001,
+     103.10700000000008
+    ],
+    [
+     42.625,
+     104.49700000000007,
+     458.72399799999994,
+     115.49700000000007
+    ],
+    [
+     42.625,
+     117.10700000000008,
+     547.3059969999998,
+     128.10700000000008
+    ],
+    [
+     64.025,
+     129.90700000000004,
+     217.54100000000003,
+     140.90700000000004
+    ],
+    [
+     42.625,
+     142.49700000000007,
+     549.9748710599989,
+     153.49700000000007
+    ],
+    [
+     64.025,
+     155.3270000000001,
+     123.82100000000001,
+     166.3270000000001
+    ],
+    [
+     42.625,
+     167.7270000000001,
+     547.0010010000001,
+     178.7270000000001
+    ],
+    [
+     64.025,
+     180.52700000000004,
+     260.32000000000005,
+     191.52700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q018_p11.jpg",
+   "revisao/Q018_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q019",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 19,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em uma brincadeira com seus amigos na rua, Paulo foi atacado com jambos, ficando com a camisa manchada. Com medo de ser repreendido pela mãe, tentou lavar suas roupas com água, e nada aconteceu. Com receio, mostrou a blusa a sua mãe que lavou com sabão e, para surpresa de Paulo, a camisa ficou completamente limpa.\n\nAssinale a alternativa que apresenta a explicação **CORRETA** para o fenômeno descrito.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Ocorreu uma reação chamada saponificação entre a sujeira e a água, com o sabão agindo como ativador."
+   },
+   {
+    "letra": "B",
+    "texto": "Houve uma reação chamada saponificação entre a água e o sabão que é capaz de retirar toda a sujeira."
+   },
+   {
+    "letra": "C",
+    "texto": "Ocorreu uma reação chamada saponificação entre a sujeira e o sabão que é capaz de retirar toda a sujeira."
+   },
+   {
+    "letra": "D",
+    "texto": "O sabão usado pela mãe de Paulo tinha uma parte hidrofílica, que é solúvel em água, e outra hidrofóbica, que faz a mancha desaparecer."
+   },
+   {
+    "letra": "E",
+    "texto": "O sabão usado pela mãe de Paulo tinha uma parte hidrofóbica que é solúvel em água, e outra hidrofílica, que faz a mancha desaparecer."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.625,
+     205.92700000000002,
+     547.1739959999998,
+     216.92700000000002
+    ],
+    [
+     42.625,
+     218.52700000000004,
+     547.286,
+     229.52700000000004
+    ],
+    [
+     42.625,
+     231.12700000000007,
+     546.7769999999999,
+     242.12700000000007
+    ],
+    [
+     42.625,
+     243.92700000000002,
+     257.9170000000001,
+     254.92700000000002
+    ],
+    [
+     42.625,
+     263.15700000000004,
+     473.051997,
+     274.157
+    ],
+    [
+     42.625,
+     288.757,
+     546.6369980000001,
+     299.757
+    ],
+    [
+     64.025,
+     301.357,
+     106.24300000000001,
+     312.357
+    ],
+    [
+     42.625,
+     313.957,
+     546.7200039999999,
+     324.957
+    ],
+    [
+     64.025,
+     326.757,
+     99.43400000000001,
+     337.757
+    ],
+    [
+     42.625,
+     339.357,
+     547.0079949999997,
+     350.357
+    ],
+    [
+     64.025,
+     351.957,
+     108.63000000000001,
+     362.957
+    ],
+    [
+     42.625,
+     364.577,
+     547.4540009999998,
+     375.577
+    ],
+    [
+     64.025,
+     377.377,
+     278.62699999999995,
+     388.377
+    ],
+    [
+     42.625,
+     389.97700000000003,
+     547.4539899999999,
+     400.97700000000003
+    ],
+    [
+     64.025,
+     402.577,
+     271.794,
+     413.577
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q020",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 20,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O mentol é um composto orgânico ceroso, cristalino, de coloração branca, que apresenta\n\npropriedades anestésicas e anti-inflamatórias.\n\n{{img:1}}\n\nSobre esse composto, é **CORRETO** afirmar que ele possui",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "três centros estereogênicos, consequentemente quatro pares de estereoisômeros, com propriedades químicas diferentes."
+   },
+   {
+    "letra": "B",
+    "texto": "dois centros estereogênicos, consequentemente dois pares de estereoisômeros, com as mesmas propriedades químicas."
+   },
+   {
+    "letra": "C",
+    "texto": "três centros estereogênicos, consequentemente três estereoisômeros, com as mesmas propriedades químicas."
+   },
+   {
+    "letra": "D",
+    "texto": "um único centro estereogênico, consequentemente dois estereoisômeros, com as mesmas propriedades químicas."
+   },
+   {
+    "letra": "E",
+    "texto": "dois centros estereogênicos, consequentemente dois pares de estereoisômeros, com propriedades químicas diferentes."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q020_img1.png",
+    "pagina": 12,
+    "bbox": [
+     190.8,
+     463.7,
+     419.7,
+     558.7
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.625,
+     427.97700000000003,
+     547.423003,
+     438.97700000000003
+    ],
+    [
+     56.825,
+     440.577,
+     281.26400600000005,
+     451.577
+    ],
+    [
+     190.8,
+     463.68,
+     419.67,
+     558.72
+    ],
+    [
+     42.625,
+     572.027,
+     330.898989,
+     583.027
+    ],
+    [
+     42.625,
+     594.2270000000001,
+     547.3389960000001,
+     605.227
+    ],
+    [
+     64.025,
+     606.827,
+     229.822995,
+     617.827
+    ],
+    [
+     42.625,
+     619.427,
+     547.198995,
+     630.427
+    ],
+    [
+     64.025,
+     632.027,
+     178.36999999999995,
+     643.027
+    ],
+    [
+     42.625,
+     644.827,
+     546.9500030000002,
+     655.827
+    ],
+    [
+     64.025,
+     657.427,
+     178.36999999999995,
+     668.427
+    ],
+    [
+     42.625,
+     670.057,
+     546.8700000000001,
+     681.057
+    ],
+    [
+     64.025,
+     682.652,
+     178.36999999999995,
+     693.652
+    ],
+    [
+     42.625,
+     695.452,
+     547.200011,
+     706.452
+    ],
+    [
+     64.025,
+     708.052,
+     229.72899999999998,
+     719.052
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q020_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q021",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 21,
+  "area": "",
+  "texto_base_id": "P4227-T2",
+  "textos_base_ids": [
+   "P4227-T2"
+  ],
+  "enunciado": "{{img:1}}\n\nUm bloco de massa M = 1,0 kg pode deslizar ao longo de uma superfície horizontal, cujos coeficientes de atrito estático e cinético entre o bloco e a superfície são, respectivamente, 0,5 e 0,3, conforme a figura ao lado. O bloco está conectado a uma barra delgada, de comprimento L e de densidade linear de massa uniforme é igual a 250 g/m. Então, para que o bloco de massa M não deslize, o maior comprimento da barra delgada deve ser",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1,0 m"
+   },
+   {
+    "letra": "B",
+    "texto": "1,5 m"
+   },
+   {
+    "letra": "C",
+    "texto": "2,0 m"
+   },
+   {
+    "letra": "D",
+    "texto": "2,5 m"
+   },
+   {
+    "letra": "E",
+    "texto": "3,0 m"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q021_img1.png",
+    "pagina": 13,
+    "bbox": [
+     426.4,
+     158.6,
+     539.6,
+     285.0
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     159.92700000000002,
+     417.0899919999999,
+     170.92700000000002
+    ],
+    [
+     42.625,
+     172.52700000000004,
+     417.50799199999983,
+     183.52700000000004
+    ],
+    [
+     42.625,
+     185.12700000000007,
+     417.67300200000005,
+     196.12700000000007
+    ],
+    [
+     42.625,
+     197.92700000000002,
+     417.4239960000001,
+     208.92700000000002
+    ],
+    [
+     42.625,
+     210.52700000000004,
+     417.41100500000005,
+     221.52700000000004
+    ],
+    [
+     42.625,
+     223.12700000000007,
+     417.076,
+     234.12700000000007
+    ],
+    [
+     426.35001,
+     158.60000000000002,
+     539.55001,
+     284.99999
+    ],
+    [
+     42.625,
+     235.7270000000001,
+     58.069,
+     246.7270000000001
+    ],
+    [
+     42.625,
+     261.15700000000004,
+     91.579995,
+     272.157
+    ],
+    [
+     42.625,
+     273.757,
+     91.579995,
+     284.757
+    ],
+    [
+     42.625,
+     286.357,
+     91.580001,
+     297.357
+    ],
+    [
+     42.625,
+     299.157,
+     91.579995,
+     310.157
+    ],
+    [
+     42.625,
+     311.757,
+     91.579995,
+     322.757
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q022",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 22,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nUm grupo de pesquisadores montou uma estrutura para transportar um sensor eletrônico frágil. A caixa contendo o sensor, com uma massa total de m = 5 kg, está instalada em um sistema com três molas idênticas, conforme ilustra a figura ao lado. Sabendo que o equipamento não pode oscilar com uma frequência maior que f = 10 Hz, qual deve ser a constante elástica k utilizada nas molas da montagem?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "32 kN/m"
+   },
+   {
+    "letra": "B",
+    "texto": "12 kN/m"
+   },
+   {
+    "letra": "C",
+    "texto": "10 kN/m"
+   },
+   {
+    "letra": "D",
+    "texto": "8 kN/m"
+   },
+   {
+    "letra": "E",
+    "texto": "6 kN/m"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q022_img1.png",
+    "pagina": 13,
+    "bbox": [
+     403.9,
+     351.8,
+     546.0,
+     465.2
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     349.757,
+     395.229978,
+     360.757
+    ],
+    [
+     42.625,
+     362.377,
+     394.75700000000006,
+     373.377
+    ],
+    [
+     42.625,
+     374.97700000000003,
+     394.548,
+     385.97700000000003
+    ],
+    [
+     42.625,
+     387.577,
+     395.1100009999999,
+     398.577
+    ],
+    [
+     42.625,
+     400.377,
+     395.1079990000001,
+     411.377
+    ],
+    [
+     42.625,
+     412.97700000000003,
+     394.52599999999995,
+     423.97700000000003
+    ],
+    [
+     403.89999,
+     351.79999000000004,
+     546.04998,
+     465.15000000000003
+    ],
+    [
+     42.625,
+     425.577,
+     100.683,
+     436.577
+    ],
+    [
+     42.625,
+     488.807,
+     100.59238,
+     499.807
+    ],
+    [
+     144.85,
+     488.807,
+     202.81738,
+     499.807
+    ],
+    [
+     247.27,
+     488.807,
+     305.23738000000003,
+     499.807
+    ],
+    [
+     349.73,
+     488.807,
+     401.50437999999997,
+     499.807
+    ],
+    [
+     451.95,
+     488.807,
+     503.72438,
+     499.807
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q022_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q023",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 23,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Dois experimentos de ondulatória são realizados. No experimento 1, um fio é tensionado com 10 N quando uma onda de comprimento de onda λ<sub>1</sub> e frequência f<sub>1</sub> se propaga sobre ele. No experimento 2, um outro fio idêntico é tensionado novamente 10 N e uma onda de comprimento de onda λ<sub>2</sub> e frequência f<sub>2</sub> se propaga nesse fio. Sobre esses experimentos, assinale a alternativa **CORRETA.**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Se λ<sub>2</sub>/λ<sub>1</sub> = 2, então f<sub>1</sub>/ f<sub>2</sub> = 1/2"
+   },
+   {
+    "letra": "B",
+    "texto": "Se λ<sub>2</sub>/λ<sub>1</sub> = 1/3, então f<sub>1</sub>/ f<sub>2</sub> = 3"
+   },
+   {
+    "letra": "C",
+    "texto": "Se f<sub>1</sub>/ f<sub>2</sub> = 2/3, então λ<sub>2</sub>/λ<sub>1</sub> = 3/2"
+   },
+   {
+    "letra": "D",
+    "texto": "Se f<sub>1</sub>= 5f<sub>2</sub> implica λ<sub>2</sub> = λ<sub>1</sub> = 5"
+   },
+   {
+    "letra": "E",
+    "texto": "Se 2f<sub>1</sub> = f<sub>2</sub> implica 2λ<sub>2</sub> = λ<sub>1</sub>"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.625,
+     526.807,
+     546.8019919999999,
+     537.807
+    ],
+    [
+     42.625,
+     539.407,
+     547.330999,
+     550.44
+    ],
+    [
+     42.625,
+     552.2070000000001,
+     547.496,
+     563.24
+    ],
+    [
+     42.625,
+     564.627,
+     515.438,
+     575.627
+    ],
+    [
+     42.625,
+     590.027,
+     205.36699700000003,
+     601.0600000000001
+    ],
+    [
+     42.625,
+     602.827,
+     205.37099700000002,
+     613.86
+    ],
+    [
+     42.625,
+     615.427,
+     214.56699700000001,
+     626.46
+    ],
+    [
+     42.625,
+     628.027,
+     200.17099700000003,
+     639.0600000000001
+    ],
+    [
+     42.625,
+     640.627,
+     190.942,
+     651.6600000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q024",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 24,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "No início de 2019, o Brasil foi vítima de uma grande tragédia, o estouro da barragem de rejeitos na cidade de Brumadinho. Nesse episódio, os bombeiros da equipe de resgate pisavam sobre duas placas quadradas, feitas de madeira e de dimensões 40 cm x 40 cm. Os bombeiros pisavam nessas placas e conseguiam se deslocar com mais facilidade sobre a lama. Isso foi possível pelo fato",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "de as placas serem mais leves que o bombeiro."
+   },
+   {
+    "letra": "B",
+    "texto": "de a área das placas de madeira ser menor que a área das botas utilizadas pelos bombeiros."
+   },
+   {
+    "letra": "C",
+    "texto": "do aumento da área de contato das botas dos bombeiros com as placas de madeira."
+   },
+   {
+    "letra": "D",
+    "texto": "de a distribuição do peso do corpo do bombeiro sobre as placas diminuir a pressão sobre a lama."
+   },
+   {
+    "letra": "E",
+    "texto": "de a densidade das placas de madeira ser sempre maior que a densidade da lama."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     46.107000000000085,
+     546.803983,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     546.7219999999998,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     547.2280000000001,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     501.24699899999973,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     296.6749950000001,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     518.698997,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     477.14100099999996,
+     145.49700000000007
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     539.5839909999999,
+     158.3270000000001
+    ],
+    [
+     42.625,
+     159.92700000000002,
+     471.1239949999998,
+     170.92700000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q024_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q025",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 25,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Uma partícula de carga +4,0 mC e massa 20 g se move horizontalmente em um meio resistivo sob a influência de um campo elétrico, conforme ilustra a figura a seguir. A partícula parte do repouso em x = 0 e o módulo do campo elétrico, que aponta no sentido do movimento, depende da posição x da carga conforme o gráfico a seguir.\n\n{{img:1}}\n\nSe a velocidade da partícula em x = 12 m é igual a 10 m/s, então o trabalho resistivo do meio é",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "– 1,4 J"
+   },
+   {
+    "letra": "B",
+    "texto": "– 1,0 J"
+   },
+   {
+    "letra": "C",
+    "texto": "– 0,8 J"
+   },
+   {
+    "letra": "D",
+    "texto": "– 0,6 J"
+   },
+   {
+    "letra": "E",
+    "texto": "– 0,2 J"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q025_img1.png",
+    "pagina": 14,
+    "bbox": [
+     287.4,
+     191.2,
+     546.9,
+     294.0
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     197.92700000000002,
+     278.247992,
+     208.92700000000002
+    ],
+    [
+     42.625,
+     210.52700000000004,
+     278.091,
+     221.52700000000004
+    ],
+    [
+     42.625,
+     223.12700000000007,
+     277.937,
+     234.12700000000007
+    ],
+    [
+     42.625,
+     235.7270000000001,
+     278.326004,
+     246.7270000000001
+    ],
+    [
+     42.625,
+     248.52700000000004,
+     278.11300000000006,
+     259.52700000000004
+    ],
+    [
+     42.625,
+     261.15700000000004,
+     278.28900000000004,
+     272.157
+    ],
+    [
+     42.625,
+     273.757,
+     278.2670000000001,
+     284.757
+    ],
+    [
+     42.625,
+     286.357,
+     178.76099999999997,
+     297.357
+    ],
+    [
+     287.35001,
+     191.24999000000003,
+     546.9000100000001,
+     293.99999
+    ],
+    [
+     42.625,
+     311.757,
+     506.44899799999973,
+     322.757
+    ],
+    [
+     42.625,
+     340.557,
+     94.04879,
+     351.59000000000003
+    ],
+    [
+     149.31283,
+     340.557,
+     200.73662,
+     351.59000000000003
+    ],
+    [
+     255.82377000000002,
+     340.557,
+     307.27756,
+     351.59000000000003
+    ],
+    [
+     360.1433,
+     340.557,
+     411.56708999999995,
+     351.59000000000003
+    ],
+    [
+     464.22279,
+     340.557,
+     515.6465800000001,
+     351.59000000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q026",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 26,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nDois resistores cilíndricos, 1 e 2, são feitos de um mesmo material de resistividade ρ e estão ligados em série a uma diferença de potencial V, conforme ilustra a figura. Se as áreas das superfícies transversais dos resistores são iguais a A<sub>1</sub> = A e A<sub>2</sub> = A/3, então a corrente que os atravessa é",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "VA/ρL"
+   },
+   {
+    "letra": "B",
+    "texto": "VA/2ρL"
+   },
+   {
+    "letra": "C",
+    "texto": "VA/3ρL"
+   },
+   {
+    "letra": "D",
+    "texto": "VA/4ρL"
+   },
+   {
+    "letra": "E",
+    "texto": "VA/5ρL"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q026_img1.png",
+    "pagina": 14,
+    "bbox": [
+     359.9,
+     451.9,
+     489.6,
+     551.7
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     399.177,
+     547.079,
+     410.21000000000004
+    ],
+    [
+     42.625,
+     411.777,
+     546.667,
+     422.777
+    ],
+    [
+     42.625,
+     424.377,
+     504.226997,
+     435.377
+    ],
+    [
+     359.85001,
+     451.85,
+     489.60001,
+     551.6500000000001
+    ],
+    [
+     42.625,
+     462.407,
+     94.132,
+     473.44
+    ],
+    [
+     42.625,
+     475.007,
+     100.325,
+     486.04
+    ],
+    [
+     42.625,
+     487.807,
+     100.325,
+     498.84000000000003
+    ],
+    [
+     42.625,
+     500.407,
+     100.325,
+     511.44
+    ],
+    [
+     42.625,
+     512.9970000000001,
+     100.325,
+     524.03
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q026_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q027",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 27,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A capacidade de carga de uma bateria de um telefone móvel está relacionada com o tempo de uso do aparelho até sua completa descarga. O telefone possui uma bateria de especificação de carga igual a 960 mAh, e seu carregador de força eletromotriz igual a 5 V leva 4 horas para realizar a carga completa da bateria. Então, a potência média desse carregador é",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "0,5 W"
+   },
+   {
+    "letra": "B",
+    "texto": "0,8 W"
+   },
+   {
+    "letra": "C",
+    "texto": "1,0 W"
+   },
+   {
+    "letra": "D",
+    "texto": "1,2 W"
+   },
+   {
+    "letra": "E",
+    "texto": "1,5 W"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     589.027,
+     547.496,
+     600.027
+    ],
+    [
+     42.625,
+     601.627,
+     547.312007,
+     612.627
+    ],
+    [
+     42.625,
+     614.2270000000001,
+     546.8000050000002,
+     625.227
+    ],
+    [
+     42.625,
+     626.827,
+     361.6910000000001,
+     637.827
+    ],
+    [
+     42.625,
+     652.227,
+     87.57556,
+     663.227
+    ],
+    [
+     148.94093999999998,
+     652.227,
+     193.8915,
+     663.227
+    ],
+    [
+     250.98902,
+     652.227,
+     295.33458,
+     663.227
+    ],
+    [
+     356.42427000000004,
+     652.227,
+     401.37483,
+     663.227
+    ],
+    [
+     463.1071,
+     652.227,
+     508.05766,
+     663.227
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q027_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q028",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 28,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nEm um experimento, uma partícula 1 de massa m = 1 g e carga q = +10 mC entra por uma pequena abertura em uma região com campo magnético, emergindo pela abertura 1 após alguns instantes. Observe a figura a seguir. Em outra realização do experimento com uma partícula 2, de mesma massa e de carga desconhecida, verifica-se que ela emerge da região com campo pela abertura 2. Logo, sabendo que as massas de 1 e 2 são idênticas e que a velocidade de entrada na região com campo é de 20 m/s para ambas as partículas, a carga de 2 em mC é",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1"
+   },
+   {
+    "letra": "B",
+    "texto": "2"
+   },
+   {
+    "letra": "C",
+    "texto": "3"
+   },
+   {
+    "letra": "D",
+    "texto": "4"
+   },
+   {
+    "letra": "E",
+    "texto": "5"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q028_img1.png",
+    "pagina": 15,
+    "bbox": [
+     232.9,
+     132.2,
+     346.6,
+     238.3
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.625,
+     46.107000000000085,
+     547.3259959999999,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     546.7549999999997,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     546.9980009999997,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     546.929999,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     546.9629960000001,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     435.06099999999986,
+     120.30700000000002
+    ],
+    [
+     232.85001,
+     132.15001000000007,
+     346.55001,
+     238.30000000000007
+    ],
+    [
+     42.625,
+     273.757,
+     66.30952,
+     284.757
+    ],
+    [
+     144.85,
+     273.757,
+     168.53452000000001,
+     284.757
+    ],
+    [
+     247.27,
+     273.757,
+     270.95452,
+     284.757
+    ],
+    [
+     349.73,
+     273.757,
+     373.41452,
+     284.757
+    ],
+    [
+     459.17687,
+     273.757,
+     482.86139000000003,
+     284.757
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q028_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q029",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 29,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O espectro visível é a porção do espectro eletromagnético, que é visível ao olho humano. A radiação eletromagnética nessa faixa de comprimentos de onda é chamada de luz visível ou simplesmente de luz. Um olho humano típico responderá a comprimentos de onda de 380 a 740 nanômetros. Em termos de frequência, isso corresponde a uma banda na vizinhança de 430 a 770 THz.\n\n{{fonte:1}}\n\nO elétron do átomo de hidrogênio emite um fóton quando decai do segundo estado excitado (n = 3) para o primeiro estado excitado (n = 2). Logo, sobre a luz emitida e sua frequência aproximada f, podemos afirmar **CORRETAMENTE** que",
+  "fontes": [
+   "Disponível em: Wikipedia. Acesso em: 04 de julho de 2019. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Visível e f = 450 THz."
+   },
+   {
+    "letra": "B",
+    "texto": "Visível e f = 700 GHz."
+   },
+   {
+    "letra": "C",
+    "texto": "Visível e f = 12 PHz."
+   },
+   {
+    "letra": "D",
+    "texto": "Invisível e f = 320 THz."
+   },
+   {
+    "letra": "E",
+    "texto": "Invisível e f = 180 GHz."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.625,
+     324.357,
+     547.3979909999998,
+     335.357
+    ],
+    [
+     42.625,
+     336.957,
+     546.7879999999997,
+     347.957
+    ],
+    [
+     42.625,
+     349.757,
+     546.843,
+     360.757
+    ],
+    [
+     42.625,
+     362.377,
+     547.409995,
+     373.377
+    ],
+    [
+     42.625,
+     374.97700000000003,
+     117.85000000000001,
+     385.97700000000003
+    ],
+    [
+     297.7,
+     386.956,
+     546.9720000000001,
+     394.956
+    ],
+    [
+     42.625,
+     409.577,
+     546.9419999999998,
+     420.577
+    ],
+    [
+     42.625,
+     422.177,
+     547.4149999999997,
+     433.177
+    ],
+    [
+     42.625,
+     434.577,
+     242.57399700000002,
+     445.577
+    ],
+    [
+     42.625,
+     460.207,
+     168.62399499999998,
+     471.207
+    ],
+    [
+     42.625,
+     472.807,
+     170.61499499999996,
+     483.807
+    ],
+    [
+     42.625,
+     485.407,
+     163.223001,
+     496.407
+    ],
+    [
+     42.625,
+     498.007,
+     176.004995,
+     509.007
+    ],
+    [
+     42.625,
+     510.807,
+     177.995995,
+     521.807
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q029_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q030",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 30,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nDois relógios, um na Terra e outro nas proximidades da Lua, estão separados por uma distância d = 390000 km, conforme ilustra a figura a seguir. Se o relógio 1 localizado em x = 0 marca um instante de tempo t<sub>1</sub> = 10,0 s emitindo um flash de luz, como deve ser ajustado o tempo no relógio 2, t<sub>2</sub>, localizado em x = d, para que ambos estejam sincronizados, quando o flash de luz atingir o relógio 2? Despreze os efeitos gravitacionais da Terra e da Lua.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "t<sub>2</sub> = 12,6 s"
+   },
+   {
+    "letra": "B",
+    "texto": "t<sub>2</sub> = 11,3 s"
+   },
+   {
+    "letra": "C",
+    "texto": "t<sub>2</sub> = 10,0 s"
+   },
+   {
+    "letra": "D",
+    "texto": "t<sub>2</sub> = 8,7 s"
+   },
+   {
+    "letra": "E",
+    "texto": "t<sub>2</sub> = 7,4 s"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q030_img1.png",
+    "pagina": 15,
+    "bbox": [
+     340.6,
+     612.9,
+     523.9,
+     685.8
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.625,
+     548.607,
+     547.278974,
+     559.607
+    ],
+    [
+     42.625,
+     561.427,
+     547.2330049999998,
+     572.427
+    ],
+    [
+     42.625,
+     574.034,
+     547.306,
+     585.827
+    ],
+    [
+     42.625,
+     587.827,
+     546.9000019999999,
+     598.827
+    ],
+    [
+     42.625,
+     600.427,
+     303.6550000000001,
+     611.427
+    ],
+    [
+     340.55,
+     612.9499900000001,
+     523.85,
+     685.8000000000001
+    ],
+    [
+     42.625,
+     625.627,
+     113.314997,
+     636.627
+    ],
+    [
+     42.625,
+     638.427,
+     113.314997,
+     649.427
+    ],
+    [
+     42.625,
+     651.027,
+     113.314997,
+     662.027
+    ],
+    [
+     42.625,
+     663.657,
+     107.12199700000001,
+     674.657
+    ],
+    [
+     42.625,
+     676.2520000000001,
+     107.12199700000001,
+     687.2520000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q030_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q031",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 31,
+  "area": "",
+  "texto_base_id": "P4227-T3",
+  "textos_base_ids": [
+   "P4227-T3"
+  ],
+  "enunciado": "Construído a partir de um golpe político-militar e, portanto, carente de legitimidade, o regime inaugurado por Vargas em 1930 disseminou, por toda a sociedade, uma produção de cunho político e cultural, que afirmava a necessidade histórica do novo governo. Para os trabalhadores, em particular, o Estado, nos anos 30 e 40, tornou-se produtor de bens materiais e simbólicos, a fim de obter deles a aceitação e o consentimento ao regime político.\n\n{{fonte:1}}\n\nAs duas principais características político-econômicas do regime citado foram respectivamente",
+  "fontes": [
+   "FERREIRA, Jorge Luiz. *A cultura política dos trabalhadores no Primeiro Governo Vargas*. Rio de Janeiro: Revista Estudos Históricos, col. 3, n. 6, 1990, p. 180."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Protecionismo e privatismo."
+   },
+   {
+    "letra": "B",
+    "texto": "Populismo e desenvolvimentismo."
+   },
+   {
+    "letra": "C",
+    "texto": "Nacional-Estatismo e parlamentarismo."
+   },
+   {
+    "letra": "D",
+    "texto": "Industrialismo e não intervenção do Estado."
+   },
+   {
+    "letra": "E",
+    "texto": "Livre-cambismo e aumento das importações."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     85.10700000000008,
+     547.1359979999996,
+     96.10700000000008
+    ],
+    [
+     42.625,
+     97.70700000000011,
+     546.7,
+     108.70700000000011
+    ],
+    [
+     42.625,
+     110.49700000000007,
+     547.063,
+     121.49700000000007
+    ],
+    [
+     42.625,
+     123.10700000000008,
+     547.0099909999999,
+     134.10700000000008
+    ],
+    [
+     42.625,
+     135.7070000000001,
+     275.297,
+     146.7070000000001
+    ],
+    [
+     113.82,
+     147.68599999999992,
+     547.4780000000001,
+     155.68599999999992
+    ],
+    [
+     419.73,
+     156.90599999999995,
+     547.0740000000002,
+     164.90599999999995
+    ],
+    [
+     42.625,
+     175.92700000000002,
+     505.678008,
+     186.92700000000002
+    ],
+    [
+     42.625,
+     197.92700000000002,
+     199.137995,
+     208.92700000000002
+    ],
+    [
+     42.625,
+     210.52700000000004,
+     230.31199499999997,
+     221.52700000000004
+    ],
+    [
+     42.625,
+     223.12700000000007,
+     256.169002,
+     234.12700000000007
+    ],
+    [
+     42.625,
+     235.7270000000001,
+     278.14099600000003,
+     246.7270000000001
+    ],
+    [
+     42.625,
+     248.52700000000004,
+     283.5089960000001,
+     259.52700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q031_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4227-Q032",
+  "prova_id": "P4227",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "2",
+  "caderno": "",
+  "numero": 32,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A postura do intelectual pernambucano Gilberto Freyre, relativa às constantes mudanças de estratégia política, configura, de fato, uma ambiguidade na definição de sua posição ante os processos de centralização política e de industrialização na Era Vargas. Sua obra, assim como a dos outros intelectuais atuantes nesse contexto, reagiu, com certa ambiguidade, ao centralismo de Vargas e ao seu projeto modernizador.\n\n{{fonte:1}}\n\nO posicionamento político do intelectual citado foi de oposição a Vargas em 1937, em razão da",
+  "fontes": [
+   "MESQUITA, Gustavo. *Gilberto Freyre e o Estado Novo: a trajetória de uma relação ambígua.* Cadernos do Desenvolvimento, Rio de Janeiro, v. 8, n. 12, p. 208, jan.-jun. 2013. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "não adesão dos militares ao Estado Novo."
+   },
+   {
+    "letra": "B",
+    "texto": "luta nacional contra o regionalismo cultural."
+   },
+   {
+    "letra": "C",
+    "texto": "luta pelo centralismo como modelo para o Nordeste."
+   },
+   {
+    "letra": "D",
+    "texto": "formação de bloco econômico com a Alemanha Nazista."
+   },
+   {
+    "letra": "E",
+    "texto": "construção de um governo autoritário com influência do exército."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     273.757,
+     547.202988,
+     284.757
+    ],
+    [
+     42.625,
+     286.357,
+     547.0239829999998,
+     297.357
+    ],
+    [
+     42.625,
+     299.157,
+     546.788,
+     310.157
+    ],
+    [
+     42.625,
+     311.757,
+     547.496,
+     322.757
+    ],
+    [
+     42.625,
+     324.357,
+     170.37899999999996,
+     335.357
+    ],
+    [
+     78.025,
+     336.336,
+     547.35,
+     344.336
+    ],
+    [
+     357.92,
+     345.536,
+     547.1720000000001,
+     353.536
+    ],
+    [
+     42.625,
+     364.577,
+     507.03700299999986,
+     375.577
+    ],
+    [
+     42.625,
+     386.577,
+     270.546992,
+     397.577
+    ],
+    [
+     42.625,
+     399.177,
+     275.37899500000015,
+     410.177
+    ],
+    [
+     42.625,
+     411.777,
+     318.9479990000001,
+     422.777
+    ],
+    [
+     42.625,
+     424.377,
+     339.1679950000001,
+     435.377
+    ],
+    [
+     42.625,
+     437.177,
+     379.2179940000001,
+     448.177
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4230"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q032_p16.jpg"
+  ]
+ }
+]

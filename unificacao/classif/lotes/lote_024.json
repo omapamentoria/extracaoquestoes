@@ -1,0 +1,702 @@
+[
+{
+"id": 106046,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Um operário precisa medir uma vala por onde passará uma tubulação de esgoto em uma obra, para saber se tem o material necessário. Como não dispõe de nenhum instrumento de medida como metro ou trena, ele usa uma ripa de madeira, verificando que a vala tem exatamente 16 ripas de comprimento. Em seguida, compara a medida da ripa com um dos 3 tubos que já estão no canteiro de obras, cada um medindo 6 metros. Nessa comparação, observa que cada cano mede, aproximadamente, 2 ripas e meia. De acordo com as medidas efetuadas, o operário conclui que a quantidade de tubos que tem à disposição é || A) insuficiente, pois falta, aproximadamente, 1,0 metro de tubo. | B) insuficiente, pois faltam, aproximadamente, 5,0 metros de tubo. | C) insuficiente, pois faltam, aproximadamente, 20,5 metros de tubo. | D) suficiente, pois sobram, aproximadamente, 2,0 metros de tubo. | E) suficiente, pois sobram, aproximadamente, 12,0 metros de tubo."
+},
+{
+"id": 106047,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Uma fábrica de chocolates produz saquinhos com 10 unidades de bombons cada um. Após a produção, esses saquinhos são acomodados em caixas que comportam 100 saquinhos, e, na distribuição para os revendedores, são utilizados caminhões que comportam, em sua carroceria, 100 dessas caixas. Sabe-se que um revendedor encomendou uma quantidade de bombons que pode ser transportada utilizando apenas metade da carroceria de um caminhão. O número de bombons encomendados pelo revendedor pode ser representado por || A) 5<sup>5</sup> | B) \\(\\frac{10^{5}}{2}\\) | C) 10<sup>5</sup> | D) 2 ? 10<sup>5</sup> | E) \\(\\frac{10^{6}}{2}\\)"
+},
+{
+"id": 106048,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Na construção da piscina de sua casa, Alberto gostaria que ela tivesse formato retangular, porém, com um dos cantos compondo o restante de \\(\\frac{3}{4}\\) de um círculo de 5 m de diâmetro, para que ali fosse adicionado um sistema de hidromassagem. [figura] Essa piscina deverá ter uma saída de hidromassagem por pessoa, considerando o máximo possível de pessoas que cabem na circunferência dela e respeitando o comprimento mínimo para cada pessoa. Para determinar a quantidade de saídas de hidromassagem da piscina, o engenheiro responsável pelo projeto considerou que cada pessoa deve ocupar um comprimento de, no mínimo, 1,5 m da circunferência. Considere 3 como aproximação para π. A quantidade máxima de saídas de hidromassagem que essa piscina deverá ter, para que a distância mínima entre duas pessoas seja respeitada, é de || A) 7. | B) 8. | C) 10. | D) 15. | E) 20."
+},
+{
+"id": 106085,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Um grupo de estudantes do curso de Biologia de determinada universidade participou de um experimento dentro de um laboratório. Para seus estudos em questão, eles deveriam registrar o número de bactérias presente na substância que estavam analisando. O gráfico apresenta o total de bactérias que esse grupo de estudantes registrou no período de 8 h da manhã até às 21 h do mesmo dia. [figura] Durante quanto tempo, no intervalo de tempo analisado, o número de bactérias não se alterou? || A) 3 h | B) 6 h | C) 7 h | D) 10 h | E) 16 h"
+},
+{
+"id": 106086,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Um banco pede aos clientes que criem uma senha pessoal de oito caracteres para as suas transações bancárias. O gerente do banco sugere aos clientes que usem três letras maiúsculas, idênticas ou não, do nosso alfabeto, e cinco algarismos em suas senhas, distintos ou não. Um dos clientes desse banco, o Sr. Cláudio, decidiu que a sua senha seria composta de três letras idênticas, exatamente a letra A, e o restante dos caracteres seria composto de algarismos distintos escolhidos de um grupo que vai de 0 a 9. Veja a seguir exemplos de algumas dessas possíveis senhas. **A A A 0 7 1 5 8** **0 3 6 A 1 A A 5** **A 9 0 A 1 6 5 A** O banco possui um programa de computador que calcula o total de todas as senhas possíveis, pois assim ele tem um controle do número de clientes que poderão usá-las. Qual seria o total de clientes desse banco que poderiam usar senhas de mesmo padrão que a do Sr. Cláudio? || A) \\(\\frac{10!}{5!}\\) ? \\(\\frac{8!}{3!}\\) | B) \\(\\frac{10!}{5!5!}\\) ? 8! | C) \\(\\frac{10!}{5!5!}\\) ? \\(\\frac{8!}{3!}\\) | D) \\(\\frac{13!}{5!8!}\\) | E) 8!"
+},
+{
+"id": 106087,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Os organizadores de um *show* musical decidiram confeccionar uma bandeira retangular que cobrirá toda a parede do fundo do palco. A figura representa o projeto dessa bandeira, em que E e F são pontos médios dos lados CG e DG, respectivamente. [figura] Na parte destacada pelo triângulo DFH, será aplicado um tecido cinza cujo metro quadrado custa R$ 12,80. Após a análise desse projeto, os organizadores do evento decidiram comprar 20% a mais da área desse tecido para garantir uma sobra para possíveis perdas. Nessas condições, quanto será gasto na compra desse tecido cinza? || A) R$ 32,00 | B) R$ 38,40 | C) R$ 48,00 | D) R$ 57,60 | E) R$ 192,00"
+},
+{
+"id": 106088,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Uma bomba hidráulica é usada para abastecer a caixa d’água de um edifício de pequeno porte. Em um primeiro momento, a vazão da água passando através da bomba é mantida em 36 m<sup>3</sup>/h; contudo, para preencher o reservatório mais rapidamente e evitar uma indesejável falta de água para os moradores, a vazão foi aumentada para 54 m<sup>3</sup>/h. A potência (*Pot*), em Watts, que é requerida por essa bomba é definida como: *Pot* 5 \\(\\frac{10^{4}\\,?\\,Q\\,?\\,H}{3600}\\) Em que *Q* é a vazão bombeada em m<sup>3</sup>, e *H* é a altura manométrica da bomba, em metro. Veja a seguir o perfil *H* x *Q* da bomba utilizada no serviço desse edifício. [figura] Ao aumentar a vazão de água de 36 m<sup>3</sup>/h para 54 m<sup>3</sup>/h, a potência requerida pela bomba || A) Diminuirá de 2 234 W. | B) Diminuirá de 1 364 W. | C) Diminuirá de 5 312 W. | D) Aumentará de 2 234 W. | E) Aumentará de 1 364 W."
+},
+{
+"id": 106089,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Um aplicativo de celular utilizado por corredores é capaz de calcular a velocidade de um atleta durante a prática do exercício e de compará-la com a de outros atletas conectados. Dois corredores que utilizam o aplicativo correm numa pista circular com velocidades constantes. Seguindo em direções opostas, encontram-se de 20 em 20 segundos e, correndo na mesma direção, um dos atletas alcança o outro a cada 250 segundos. Considerando que a pista tem 200 metros, os valores apresentados pelo aplicativo, em metro por segundo, associados à velocidade de cada corredor são || A) 0,1 e 0,9. | B) 4,6 e 5,4. | C) 5,0 e 5,0. | D) 9,6 e 10,4. | E) 23,0 e 27,0."
+},
+{
+"id": 106090,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Um cursinho pré-universitário possui duas turmas, uma no período da manhã e outra à tarde. A tabela mostra a distribuição dos estudantes nessas duas turmas. [figura] Para estimular os alunos, dois livros que pertencem à lista de leituras obrigatórias de um grande vestibular serão sorteados no cursinho, um para a turma matutina e o outro para a vespertina. Qual é a probabilidade de que as duas pessoas sorteadas sejam mulheres? || A) \\(\\frac{1}{50}\\) | B) \\(\\frac{2}{55}\\) | C) \\(\\frac{5}{33}\\) | D) \\(\\frac{6}{33}\\) | E) \\(\\frac{10}{33}\\)"
+},
+{
+"id": 106091,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] O teleférico Zugspitze é responsável por ligar a cidade austríaca de Ehrwald, a 1 225 metros acima do nível do mar, com uma estação próxima ao cume de Zugspitze, montanha mais alta da Alemanha. A altura total do trajeto do teleférico é de cerca de 2 950 metros, e o visitante poderá contemplar e registrar as paisagens em belíssimas fotos. Vale ressaltar que o trajeto não dura tanto tempo, aproximadamente 10 minutos a uma velocidade de 36 km/h. Não se preocupe com filas nem longas esperas, o teleférico suporta até 100 pessoas e possui uma capacidade média de 730 pessoas por hora em cada sentido. Após percorrer três-quartos do percurso total, qual é a altitude em que o teleférico Zugspitze se encontra em relação ao nível do mar? || A) 2 212,5 m | B) 3 131,3 m | C) 3 437,5 m | D) 3 868,8 m | E) 4 175,0 m"
+},
+{
+"id": 106092,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "“O Brasil é um dos maiores países do mundo. Em extensão territorial, só perde para Rússia, Canadá, China e Estados Unidos.” “Seus pontos extremos são: • ao Norte – o rio Ailã, em Roraima; • ao Sul – o arroio Chuí, um rio bem pequeno, ou uma pequena corrente de água no Rio Grande do Sul; • a Leste – a ponta do Seixas, na Paraíba; • a Oeste – o rio Moa, no Acre.” No mapa, a escala é 1 : 12 500 000. [figura] A distância aproximada, no mapa, entre o ponto mais setentrional e o mais meridional é || A) 30,00 cm. | B) 34,61 cm. | C) 35,03 cm. | D) 51,77 cm. | E) 58,94 cm."
+},
+{
+"id": 106093,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "**Nasa pousa em asteroide “testemunha” da** **formação do Sistema Solar e ameaça para a Terra** A Nasa (Agência Espacial Norte-Americana) informou no mês de outubro de 2020 que dados enviados do espaço indicam que a sonda Osiris-Rex conseguiu coletar com sucesso amostras do asteroide Bennu. [...] A Osiris-Rex, com tamanho comparável a uma van para 15 passageiros, está orbitando Bennu desde 2018, a 200 milhões de milhas da Terra. Já o Bennu tem a altura do prédio Empire State, em Nova York, e tem o potencial de atingir a Terra no século 22, por volta do ano 2135 – segundo a Nasa, com uma pequena chance de 1 em 2 700. Espera-se que, pela distância, as amostras só cheguem à Terra a partir de 2023. Considerando que uma milha equivale a 1,609 km, a distância que o asteroide Bennu está da Terra é igual a || A) 3,218 ? 10<sup>2</sup> km. | B) 3,218 ? 10<sup>3</sup> km. | C) 3,218 ? 10<sup>5</sup> km. | D) 3,218 ? 10<sup>8</sup> km. | E) 3,218 ? 10<sup>11</sup> km."
+},
+{
+"id": 106094,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Em certa localidade, a temperatura é mensurada em uma escala X pouco comum, cujos pontos de referência são 50 ºX e 140 ºX, associados aos fenômenos de fusão e vaporização da água sob pressão atmosférica, respectivamente. Uma escala de temperatura clássica é a escala Celsius, que apresenta pontos de referência de 0 ºC e 100 ºC, também ligados aos fenômenos de fusão e de vaporização da água. Na localidade em questão, para garantir o conforto ambiental, os aparelhos de condicionamento de ar devem manter a temperatura em 22,0 ºC. Nessa localidade, na escala X, qual deve ser a temperatura de conforto ambiental provida pelos aparelhos de ar-condicionado? || A) 66,2 ºX | B) 68,0 ºX | C) 69,8 ºX | D) 71,6 ºX | E) 73,4 ºX"
+},
+{
+"id": 106095,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Ao contratar um funcionário, uma empresa paga a ele um salário mensal. Porém, para a empresa manter esse funcionário, ela também deve pagar, mensalmente, mais 75% do valor desse salário em impostos. Por exemplo, se um funcionário recebe R$ 1 000,00 reais por mês, ele custa para a empresa o salário mais 75%, ou seja, 1 750 reais por mês. Considere x o salário mensal que o funcionário recebe e y o valor mensal que o funcionário custa para a empresa, com impostos. Dessa forma, a função que modela essa situação é || A) y 5 x | B) y 5 0,75x | C) y 5 1,75x | D) x 5 0,75y | E) x 5 1,75y"
+},
+{
+"id": 106096,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "A dieta cetogênica é utilizada por pessoas com epilepsia para reduzir e controlar a frequência das crises epilépticas pelo aumento na ingestão de alimentos que são fonte de gordura e redução na ingestão de alimentos que são fonte de carboidrato. No dia em que Mauro começou a fazer essa dieta, ele consumiu 270 g de carboidratos e quer reduzir essa quantidade, gradualmente, para menos de 30 g. Para atingir seu objetivo, ele irá reduzir, a cada dia, um décimo do que consumiu no dia anterior. Considerando log 3 5 0,48, de quantos dias de dieta ele vai precisar para alcançar seu objetivo? || A) 22 | B) 23 | C) 24 | D) 25 | E) 26"
+},
+{
+"id": 106097,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Uma empresa de bombas de sal de banho produz seus produtos em formato esférico, 100% sólido, com diâmetro igual a 6 cm. Para economizar material e produzir de forma mais barata, a empresa vai começar a manufaturar bombas de sal de banho de mesmo diâmetro, mas com uma esfera oca no interior, de modo a reduzir 40% do material utilizado. Inicialmente eles produziram uma bomba de sal de banho com uma esfera interna oca de diâmetro igual a 20 mm. Considere π 5 3. Para alcançar seu objetivo, a empresa precisa || A) aumentar o diâmetro da esfera oca, pois ainda falta retirar 39,2 cm<sup>3</sup> de material. | B) aumentar o diâmetro da esfera oca, pois ainda falta retirar 117,6 cm<sup>3</sup> de material. | C) aumentar o diâmetro da esfera oca, pois ainda falta retirar 313,6 cm<sup>3</sup> de material. | D) diminuir o diâmetro da esfera oca, pois retirou-se um excesso de 1,2 cm<sup>3</sup> de material. | E) diminuir o diâmetro da esfera oca, pois retirou-se um excesso de 4,8 cm<sup>3</sup> de material."
+},
+{
+"id": 106098,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "**Cristo Redentor: quanto custa o ingresso?** Confira os preços dos ingressos para o Cristo Redentor em 2020: • Alta temporada: R$ 83,50 • Baixa temporada: R$ 67,00 • Crianças até 5 anos: (gratuito) • Criança (5 a 11 anos): R$ 52,00 • Idoso (acima de 60 anos residente no Brasil): R$ 26,00 Suponha que uma família de turistas composta de 3 adultos, 3 crianças (duas de 9 anos e outra de 2 anos) e 1 idoso (com 63 anos) foi visitar o Cristo Redentor em período de alta temporada, e que as entradas foram pagas à vista com 4 notas de R$ 100,00. O responsável pelo dinheiro percebeu que o troco de R$ 12,50 devolvido pelo operador do caixa estava errado, pois || A) faltaram R$ 3,00. | B) faltaram R$ 7,00. | C) faltaram R$ 59,00. | D) sobraram R$ 7,00. | E) sobraram R$ 3,00."
+},
+{
+"id": 106099,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Vinícius vai assinar um plano mensal de internet para a sua casa e está analisando cinco operadoras diferentes: f, g, h, i e j. Ele verificou que o preço dos planos em todas as operadoras varia de acordo com a quantidade de internet consumida e por isso criou um gráfico que mostra o valor, em reais, em relação ao número de *gigabytes* utilizados. [figura] Se Vinícius pretende consumir 40 *gigabytes* por mês, qual o menor valor que ele vai pagar? || A) R$ 10,00 | B) R$ 60,00 | C) R$ 100,00 | D) R$ 140,00 | E) R$ 160,00"
+},
+{
+"id": 106100,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] O colar elizabetano, ou isabelino, é um objeto, geralmente de plástico, utilizado no pós-operatório veterinário para restringir movimentos indesejados dos animais. O tutor de um cachorro que necessita desse cuidado decidiu construir esse equipamento. [figura] A planificação que melhor representa aquele usado pelo tutor do cachorro é || A) [figura] | B) [figura] | C) [figura] | D) [figura] | E) [figura]"
+},
+{
+"id": 106101,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Para trabalhar, Marina usa todos os dias o serviço de um aplicativo de transporte urbano, instalado em seu celular, que conecta pessoas a motoristas particulares que se localizam próximo a quem utiliza o serviço. Ao usar o aplicativo, apareceu em sua tela um mapa que pode ser representado pelo seguinte plano cartesiano, em que M é o ponto onde se localiza Marina e A, B, C, D e E são as localizações dos 5 carros dos motoristas mais próximos. [figura] Sabendo que os carros são acionados na sua ordem de proximidade, os que serão notificados simultaneamente em um primeiro acionamento serão os motoristas localizados nos pontos || A) A e B. | B) B e C. | C) C e D. | D) D e E. | E) A, B e C."
+},
+{
+"id": 106102,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Uma planta de montagem de veículos trabalha em dois turnos consecutivos de 8 h para produzir uma média de 40 veículos por hora com um total de 4 000 funcionários, distribuídos igualmente em cada turno. Em determinado ano, houve um aumento na demanda de mercado de veículos, e a montadora optou por uma estratégia diferenciada para atender a essa demanda: aumentar a produção de veículos com a abertura de um terceiro turno de 8 h de trabalho com menor produção, sem alterar a produtividade dos outros dois turnos. Considerando que a quantidade média de veículos produzidos por hora é proporcional à quantidade de funcionários do turno, quantos novos funcionários devem ser contratados no terceiro turno para que o total diário seja de 800 veículos produzidos? || A) 500 | B) 800 | C) 1 000 | D) 5 000 | E) 6 000"
+},
+{
+"id": 106103,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Uma bióloga precisa construir um aquário para que possa estudar adequadamente certos animais. Para isso, ela dispõe de um espaço em seu laboratório de 1,5 m de profundidade, o qual pretende utilizar integralmente para alocar o aquário. Por causa da disponibilidade de materiais, a empresa que fabricará a estrutura determinou que ela será um bloco retangular e que a soma das medidas de todas as suas arestas deve ser 22 m. Para se adequar às demandas da bióloga, a empresa construirá a estrutura com o maior volume possível. Qual deve ser a medida da largura, em metro, para atender aos requisitos? || A) 1,50 | B) 2,00 | C) 2,25 | D) 2,75 | E) 4,00"
+},
+{
+"id": 106104,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Um painel no formato de um hexágono regular com lado *L* foi montado para um evento e, com o objetivo de dar sustentação, planeja-se colocar barras de ferro formando os segmentos AD, AE, BD, BE e CF. [figura] Qual é o comprimento total das barras de ferro que devem ser compradas para essa fixação? || A) 6 *L* | B) 10 *L* | C) 10 *L* \\(\\frac{√_{3}}{2}\\) ( ) | D) 2 *L* 2 1 \\(\\frac{_{3}√_{3}}{2}\\) | E) 2 *L* (3 1 \\(\\overline{√_{3)}}\\)"
+},
+{
+"id": 106105,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Um pedido de impressão de um desenho da fachada retangular de um prédio de 32 m de altura por 15 m de largura foi feito em uma gráfica, e a escala do desenho deve ser de 1:50. Além disso, foi pedido que a folha utilizada tenha o melhor aproveitamento possível do espaço disponível. Os tamanhos de folhas disponíveis na gráfica são: **A0:** 841 mm x 1 189 mm **A1:** 594 mm x 841 mm **A2:** 420 mm x 594 mm **A3:** 297 mm x 420 mm **A4:** 210 mm x 297 mm Para escolher o tamanho de folha que esteja mais próximo às dimensões do prédio em escala, a gráfica optará pela folha de tamanho || A) A0. | B) A1. | C) A2. | D) A3. | E) A4."
+},
+{
+"id": 106106,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Uma indústria fabrica sólidos de plástico para fornecimento de matéria-prima para uma diversidade de usinas. A partir de um cubo ABCDEFGH, efetua secções no sólido, fornecendo três peças distintas para seus clientes. Na sequência de imagens são apresentados a peça cúbica e os cortes realizados sobre ela. **Figura I** **Figura III** [figura] CDEFGH, plano intersectando a superfície do [figura] [figura] Cubo usado como matriz. Segunda secção, corta apenas o sólido sólido formado no corte anterior em *HE* e C. Após aplicar as duas secções, serão formados || A) duas pirâmides de base quadrangular e um tetraedro. | B) um prisma triangular e duas pirâmides quadrangulares. | C) dois prismas triangulares e uma pirâmide quadrangular. | D) um prisma triangular, uma pirâmide quadrangular e um tetraedro. | E) um tetraedro, uma pirâmide quadrangular e um prisma de base quadrangular."
+},
+{
+"id": 106107,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Uma empresa de aluguel de carros aluga seus veículos de acordo com as cinco opções de pacote descritas a seguir, nas quais o valor total V de locação é dado em função da quantidade *q* de quilômetros rodados e *d* de dias locados: • Pacote 1: V 5 150*d* • Pacote 2: V 5 0,50*q* 1 85*d* • Pacote 3: V 5 0,20*q* 1100*d* • Pacote 4: V 5 2,50*q* • Pacote 5: Taxa fixa de R$ 700,00 com direito a 7 dias de locação, podendo escolher um período menor, mas sem alteração do valor. Para alugar um carro nessa locadora por 8 dias e percorrer aproximadamente 600 km, um cliente, levando em consideração gastar o menor valor possível, deve escolher o pacote || A) 1. | B) 2. | C) 3. | D) 4. | E) 5."
+},
+{
+"id": 106108,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Amanda, uma nadadora iniciante, resolveu atravessar um rio perto da fazenda do seu tio. O trecho do rio, visto de cima, possui uma das margens horizontal e a outra inclinada em 30º, como mostra a figura. Como a correnteza estava muito forte, ela acabou não conseguindo atravessar o rio na direção correta, nadando em um ângulo de 60º. [figura] Considere 1,7 como aproximação para \\(\\overline{√_{3.}}\\) Sabendo que a largura do rio no ponto em que Amanda começou a travessia é de 20 metros, qual o trecho total que ela nadou? || A) 34,00 metros | B) 23,50 metros | C) 17,00 metros | D) 11,75 metros | E) 10,00 metros"
+},
+{
+"id": 106109,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Roberta está economizando para poder trocar seu carro. Ela tem a pretensão de trocar de veículo ao final de dois anos e, pelos seus cálculos, necessita de R$ 20 000,00 ao final do segundo ano. Dessa forma, ela encontrou uma forma para que seu dinheiro investido tenha rendimentos de juros compostos de 10% ao ano. Então ela investiu no início do primeiro ano R$ 10 000,00 e pretende fazer mais um aporte no início do segundo ano. Qual o valor, aproximado, que Roberta deve investir no início do segundo ano para que, ao final desse ano, ela possua o dinheiro necessário para a troca de seu veículo? || A) R$ 7 181,82 | B) R$ 8 000,00 | C) R$ 8 181,82 | D) R$ 9 000,00 | E) R$ 10 000,00"
+},
+{
+"id": 106110,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] O gráfico a seguir apresenta o número de candidatos e o número de vagas ofertadas em um curso de pós-graduação por uma universidade ao longo de 5 anos. [figura] Com base na leitura do gráfico, infere-se que o ano em que houve maior concorrência pelas vagas desse curso foi || A) 2014. | B) 2015. | C) 2016. | D) 2017. | E) 2018."
+},
+{
+"id": 106111,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Duas torneiras, T<sub>A</sub> e T<sub>B</sub>, de vazões constantes, enchem completamente os tanques A e B, respectivamente. Esses tanques possuem a mesma capacidade e, inicialmente, estão vazios. Sabe-se que torneira T<sub>B</sub> tem vazão igual ao dobro da vazão da torneira T<sub>A</sub>. Se a torneira T<sub>A</sub> enche o tanque A em x horas, a torneira T<sub>B</sub> enche o tanque B em || A) \\(\\frac{x}{2}\\) horas. | B) \\(\\frac{x}{4}\\) horas. | C) x horas. | D) 2x horas. | E) 4x horas."
+},
+{
+"id": 106112,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] O IMC, ou índice de massa corpórea, é um indicativo usado para verificar se uma pessoa está em seu peso ideal. É calculado pela equação *IMC* 5 \\(\\frac{M}{H^{2}}\\), em que *M* é massa em quilograma, e *H*, a altura em metro. Uma vez calculado, [figura] Uma pessoa de 1,70 m de altura com 80 kg de massa, para ser classificada na categoria peso normal, precisa perder um mínimo aproximado de || A) 2,69 kg. | B) 3,20 kg. | C) 4,56 kg. | D) 5,00 kg. | E) 7,78 kg."
+},
+{
+"id": 106113,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Em uma festa, Fernando combinou com os seus amigos José, Augusto, Lucas e Rafael que ele compraria os refrigerantes. José disse que iria beber 700 mL, Augusto disse que beberia meio litro, Lucas disse que beberia um terço do que Augusto e José beberiam juntos, e Rafael, dois terços do que Augusto e Lucas beberiam juntos. Fernando resolveu beber a mesma quantidade que Rafael, somada a 200 mL. Para garantir que não faltassem refrigerantes, ele comprou 10% a mais que a soma total. Qual a quantidade total de refrigerantes comprada por Fernando (em mL)? || A) 3 373 | B) 3 300 | C) 3 066 | D) 3 000 | E) 2 640"
+},
+{
+"id": 106114,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] O cruzeiro (1990-1993) manteve o valor de seu antecessor. [...] em apenas três anos, já havia cédulas de 500 000 cruzeiros. [...] O cruzeiro real (1993), cortando três zeros da moeda anterior [...]. [...] Quando o real (1994-atual) foi instituído definitivamente, passou a valer 1 URV (Unidade Real de Valor), ou seja, CR$ 2 750,00 (valor em cruzeiros reais). [...] Considerando as relações entre as moedas apresentadas no texto, ao representar o real por y e o cruzeiro por x, a equivalência entre real e cruzeiro pode ser expressa pela função || A) y 5 2 750 000x | B) y 5 2,750x | C) y 5 \\(\\frac{x}{2750000}\\) | D) y 5 \\(\\frac{x}{2750}\\) | E) y 5 \\(\\frac{x}{1000}\\)"
+},
+{
+"id": 106115,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Um analista de negócios fez projeções sobre a possível demanda no mercado de veículos do estado de São Paulo. No gráfico, estão apresentados os dados da quantidade total de veículos nos anos de 2008 a 2018. Esse analista projetou um cenário mais otimista para o aumento na quantidade de veículos para os anos de 2019 e 2020 e, dessa forma, utilizou como parâmetro de tendência o aumento anual médio da quantidade de veículos no estado entre os anos de 2012 e 2014. [figura] O valor esperado do número de veículos no estado no ano de 2020 foi || A) 3,01 ? 10<sup>7</sup> | B) 3,03 ? 10<sup>7</sup> | C) 3,09 ? 10<sup>7</sup> | D) 3,11 ? 10<sup>7</sup> | E) 3,15 ? 10<sup>7</sup>"
+},
+{
+"id": 106116,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Traço de concreto é o nome dado à mistura dos ingredientes principais para fazer o concreto. Eles são água, areia, brita e cimento. [...] é o que garante o concreto adequado para as várias necessidades da construção [...]. [...] em um traço de concreto 1 : 2 : 3, se você usar um saco de 50 kg de cimento, ele tem aproximadamente 40 litros, então, você precisará de 80 litros de areia e 120 litros de brita [...]. Com um aumento de 6% na quantidade de cimento, os aumentos percentuais de areia e brita na mistura serão iguais a || A) 6%. | B) 12%. | C) 18%. | D) 6% e 12%, respectivamente. | E) 12% e 18%, respectivamente."
+},
+{
+"id": 106117,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] O claustro é uma parte da arquitetura de um mosteiro, que consiste em quatro corredores que formam uma área com um jardim. Pensando em fazer uma maquete do claustro mostrado na imagem, um arquiteto iniciou um esboço a partir da figura geométrica formada pelos corredores que o delimitam. [figura] O arquiteto iniciou o desenho a partir de um || A) quadrilátero. | B) pentágono. | C) hexágono. | D) octógono. | E) triângulo."
+},
+{
+"id": 106118,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "O motor a combustão de certo veículo tem autonomia de 9,5 km por litro de gasolina. Visando aumentar seu rendimento, o proprietário do veículo resolveu trocar a forma de abastecimento e instalou um *kit* de Gás Natural Veicular (GNV) que prometia aumentar a autonomia em 60% em relação à anterior. Após a instalação do *kit*, o proprietário conferiu que a nova autonomia do veículo era de 13,3 km por m<sup>3</sup> de gás. Considerando que o litro de gasolina e o m<sup>3</sup> de gás tenham o mesmo preço, o *kit* GNV cumpriu o que prometia? || A) Não, pois aumentou a autonomia do veículo em menos de 30%. | B) Não, pois aumentou a autonomia do veículo em 40%. | C) Sim, pois aumentou a autonomia do veículo em 60%. | D) Sim, pois aumentou a autonomia do veículo em 70%. | E) Sim, pois aumentou a autonomia do veículo em 140%."
+},
+{
+"id": 106119,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] A parede externa da casa representada na figura a seguir deverá ser pintada. As janelas representadas possuem 1,2 m de altura e 2 m de comprimento, e o fabricante da tinta indica que cada lata possui capacidade de pintura de 25 m<sup>2</sup>. Além disso, os pintores vão aplicar três camadas de tinta para garantir um bom resultado para a pintura. [figura] Considerando que todas as latas de tinta usadas terão a mesma capacidade de pintura, a quantidade mínima necessária de latas de tinta para pintar essa parede é || A) 3. | B) 5. | C) 6. | D) 7. | E) 8."
+},
+{
+"id": 106289,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Uma empresa produz chaveiros no formato de *mini* *pyraminx* funcionais. O *mini pyraminx* é um quebra-cabeça inspirado no cubo mágico e, assim como seu precursor, seu objetivo é fazer com que todas suas faces fiquem com apenas uma cor no final. Seu diferencial é o formato tetraédrico, no qual apenas as quatro peças das pontas podem ser rotacionadas, até obter novamente o formato de tetraedro, conforme a figura. [figura] Para que a embalagem dos chaveiros ficasse mais chamativa, a empresa decidiu analisar a possibilidade de vendê-los com o *mini pyraminx* embaralhado, de forma que todas as faces contenham um triângulo de cada uma das 4 cores que compõe o quebra-cabeça. De quantas formas diferentes é possível embaralhar o quebra-cabeça para satisfazer a nova condição de embalagem da empresa? || A) 2 | B) 2<sup>3</sup> | C) 3! | D) 4! | E) 4 ? 4!"
+},
+{
+"id": 106290,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Duas cidades vizinhas, A e B, possuem densidades demográficas de 12 mil habitantes por km<sup>2</sup> e 6 mil habitantes por km<sup>2</sup>, respectivamente. Segundo estudos geográficos, a cidade B vem apresentando um aumento de 500 habitantes por km<sup>2</sup> ao ano, enquanto a variação populacional na cidade A se mantém nula. Caso as variações populacionais apresentadas no estudo se mantenham, em quantos anos a densidade demográfica da cidade B ultrapassaria a da cidade A? || A) 6 anos | B) 11 anos | C) 12 anos | D) 13 anos | E) 18 anos"
+},
+{
+"id": 106291,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Uma universidade está realizando um concurso de admissão de professores. O concurso possui três fases, cada uma valendo dez pontos e de caráter eliminatório. Na primeira fase, o candidato deverá realizar uma prova escrita de conhecimentos específicos. Será classificado para a próxima etapa o candidato que obtiver nota maior que a mediana das notas de todos os candidatos da primeira fase. Veja a seguir as notas que os candidatos tiraram na primeira fase: [figura] Quantos pontos o candidato que se classificou com a menor nota deverá tirar na segunda fase para ter uma média de 9 pontos nas duas primeiras fases do concurso? || A) 10,0 | B) 9,4 | C) 9,1 | D) 8,8 | E) 8,6"
+},
+{
+"id": 106292,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Cada vez mais comuns nas paisagens rurais do país, silos são grandes estruturas metálicas usadas para armazenar grãos, evitando que estraguem e permitindo que vendedores ganhem tempo para negociá-los. A figura apresenta um dos diversos tipos de silos que podem ser utilizados em fazendas. [figura] Os sólidos geométricos aos quais o topo e o tronco dos silos na figura se assemelham são, respectivamente, || A) cone e cilindro. | B) esfera e prisma. | C) semiesfera e prisma. | D) semiesfera e cilindro. | E) cone e tronco de cone."
+},
+{
+"id": 106293,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Com o objetivo de juntar dinheiro para comprar um carro, uma pessoa aplicou num banco, no regime de juros compostos, certa quantia Q, em reais. A taxa desse investimento foi de i% ao ano. Exatamente após dois anos desse investimento, ela retirou todo o montante para comprar o carro desejado. Porém, durante esse período em que a quantia foi aplicada, o valor do carro que ela queria comprar foi desvalorizado, passando a custar metade da quantia que ela havia investido inicialmente. Não se importando com essa desvalorização, ela acabou comprando o mesmo carro que almejava antes do investimento. Qual das expressões apresenta a quantia que sobrou do montante resgatado após a compra do carro? ( ) || A) 1 1 2 \\(\\frac{i}{100}\\) 1 \\(\\frac{i^{2}}{100^{2}}\\) 2 \\(\\frac{1}{2}\\) ( ) | B) 1 1 2 \\(\\frac{i}{100}\\) 1 \\(\\frac{i^{2}}{100^{2}}\\) 2 \\(\\frac{Q}{2}\\) ( ) | C) Q 1 1 2 \\(\\frac{i}{100}\\) 1 \\(\\frac{i^{2}}{100^{2}}\\) ( ) | D) Q 2 \\(\\frac{i}{100}\\) 1 \\(\\frac{i^{2}}{100^{2}}\\) ( ) | E) Q \\(\\frac{1}{2}\\) 1 \\(\\frac{2i}{100}\\) 1 \\(\\frac{i^{2}}{100^{2}}\\)"
+},
+{
+"id": 106294,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] **Consequências da tragédia de Chernobyl persistem mesmo após 25 anos** O acidente em Chernobyl lançou na atmosfera grande quantidade de césio 137 (Cs137), elemento radioativo que apresenta risco à saúde quando liberado para o meio ambiente, cuja meia-vida é de, aproximadamente, 30 anos. Chamamos de meia-vida o tempo que o elemento radioativo leva para desintegrar metade de sua massa radioativa. A lei de decaimento radioativo pode ser expressa por *M*<sub>t</sub> 5 *M*<sub>0</sub> ⋅ *e*<sup>–</sup><sup>λ</sup><sup>t</sup>, em que *M*<sub>t</sub> representa a massa radioativa no estado atual, *M*<sub>0</sub> a massa radioativa no estado inicial, e a constante de Euler, λa constante de decaimento do material e *t* o tempo em anos após o estado inicial. Considere *e* 5 2. Qual é o valor da constante de decaimento do Cs137? || A) 230 | B) 2\\(\\frac{5}{6}\\) | C) 2\\(\\frac{1}{30}\\) | D) \\(\\frac{1}{30}\\) | E) 30"
+},
+{
+"id": 106295,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Betina trabalha em uma empresa com 60 funcionários e todos eles bebem café, o que sempre resulta em uma fila para encher as canecas na hora do lanche. Ela encontrou o manual da única cafeteira do seu serviço e descobriu que o fluxo de café que saia da máquina era de 24 mL por segundo. Ela também observou que todas as canecas do seu serviço eram cilíndricas, com raio interno igual a 3 cm e altura interna igual a 8 cm, mas que as pessoas só enchiam a caneca até 80% da altura para não transbordar o café. Considere que na hora do lanche a máquina de café não pare de funcionar e que não haja perda de café entre as trocas de canecas. Considere 3 como aproximação para π. Quanto tempo será necessário para que todos os funcionários encham suas canecas uma única vez na hora do lanche? || A) 4 minutos e 48 segundos | B) 6 minutos | C) 7 minutos e 12 segundos | D) 9 minutos | E) 11 minutos e 15 segundos"
+},
+{
+"id": 106296,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Em um parque de diversões, há duas opções de rodas- -gigantes. Apesar de serem exatamente iguais, a velocidade do giro da segunda opção é o dobro da velocidade da primeira. Enquanto Eduardo prefere a primeira opção, seu irmão Marcos escolhe a segunda. Ao entrarem em suas respectivas rodas-gigantes, Eduardo e Marcos perceberam que foram alocados exatamente na mesma posição e que seus percursos foram iniciados no mesmo instante. [figura] Sabendo que a altura de Eduardo com relação ao solo ( ) em função do tempo é dada por h<sub>E</sub> 5 22 1 20 ? sen \\(\\frac{tπ}{200}\\) , em que *t* representa o tempo em segundos, em qual instante após o início do percurso os irmãos se encontrarão pela primeira vez na mesma altura? || A) \\(\\frac{200}{6}\\) segundos | B) 42 segundos | C) \\(\\frac{200}{3}\\) segundos | D) 100 segundos | E) 200 segundos"
+},
+{
+"id": 106297,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Uma equipe de eventos organizou um *show* de vários DJs de música eletrônica. O evento durou 8 horas, e durante esse tempo foram feitas seis observações da quantidade acumulada de músicas tocadas desde o início do evento, como mostra o gráfico a seguir. [figura] O período em que houve a menor quantidade de músicas tocadas, mas que ainda havia música tocando, foi entre || A) 0 h e 1 h. | B) 3 h e 5 h. | C) 5 h e 6 h. | D) 6 h e 7 h. | E) 7 h e 8 h."
+},
+{
+"id": 106298,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Os alunos de uma escola de Minas Gerais classificaram-se para as finais de uma competição de robótica, que será realizada em Brasília. A escola vai enviar três professores para acompanhar os estudantes, montando assim uma delegação com 51 pessoas. Para acomodar os membros da delegação, será feita uma reserva em um hotel da cidade. Ficou definido que os professores deveriam ocupar um dos quartos e, nos demais, deveria haver um mínimo de 4 e um máximo de 6 alunos por quarto. Para acomodar essa delegação, o número de quartos necessários será de no mínimo || A) 8 e no máximo 12. | B) 8 e no máximo 13. | C) 9 e no máximo 12. | D) 9 e no máximo 13. | E) 10 e no máximo 11."
+},
+{
+"id": 106299,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "**Por que em 2019 1 kg já não pesará 1 kg** Atualmente, essa unidade de medida é definida por um objeto: um quilograma é a massa de um cilindro de 4 centímetros de platina e irídio fabricado em Londres que é guardado pelo Escritório Internacional de Pesos e Medidas (BIPM) em um cofre na França desde 1889. Mas esse quilograma original perdeu 50 microgramas em 100 anos. Isso ocorre porque os objetos podem facilmente perder átomos ou absorver moléculas do ar, então usar um para definir uma unidade SI é complicado. O micrograma (μg) equivale a um milionésimo de grama. A expressão que melhor representa a real massa do “quilograma original” de Paris hoje é || A) (1 2 5 ? 10<sup>2</sup><sup>5</sup>) g | B) (10<sup>3</sup> 2 5 ? 10<sup>2</sup><sup>2</sup>) g | C) (10<sup>3</sup> 2 5 ? 10<sup>2</sup><sup>5</sup>) μg | D) (10<sup>6</sup> 2 50) μg | E) (10<sup>9</sup> 2 50) μg"
+},
+{
+"id": 106300,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Quando se está digitando um texto, geralmente se escolhe o tamanho da fonte. O valor escolhido, no entanto, não representa o tamanho da fonte em milímetros, e sim o tamanho em pontos tipográficos (pt). Atualmente, um ponto tipográfico representa um doze avos de uma paica, unidade de medida usada na tipografia anglo-saxã desde 1886. Já a paica é definida como um sexto de uma polegada, sendo a última a unidade de comprimento usada no sistema imperial de medidas, igual a 2,54 centímetros. Qual é a relação entre pontos tipográficos e milímetros? || A) 1 pt 5 \\(\\frac{127}{5}\\) mm | B) 1 pt 5 \\(\\frac{127}{10}\\) mm | C) 1 pt 5 \\(\\frac{127}{30}\\) mm | D) 1 pt 5 \\(\\frac{127}{360}\\) mm | E) 1 pt 5 \\(\\frac{254}{5}\\) mm"
+},
+{
+"id": 106301,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Após o período de chuvas ter causado diversas enchentes, a prefeitura de uma cidade decidiu transformá-la em uma cidade-esponja. Esse conceito se baseia em desenvolver a capacidade de drenagem de água de um centro urbano a partir de uma série de recursos. Os recursos selecionados pela prefeitura foram: parques alagáveis, calçamentos permeáveis e praças-piscina. Após a avaliação inicial, a prefeitura publicou um relatório sobre os recursos selecionados contendo as áreas disponíveis, o custo de implementação, a capacidade de drenagem e o […] ua totalidade, ou seja, utilizando por completo a área disponível para ele. Essa variável é calculada da seguinte forma: Vr 5 \\(\\frac{Ci\\,2\\,Va}{D}\\) Sendo Vr (Valor Real), Ci (Custo de Implementação/km<sup>2</sup>), Va (Valor Agregado/km<sup>2</sup>) e D (Capacidade Drenagem/km<sup>2</sup>). O valor investido pela prefeitura para implementar o recurso de menor Valor Real será de, aproximadamente, || A) R$ 400 000,00. | B) R$ 26 400 000,00. | C) R$ 200 000 000,00. | D) R$ 264 000 000,00. | E) R$ 288 000 000,00."
+},
+{
+"id": 106302,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Nesse ano, em uma linha de produção automatizada de uma indústria, 50 máquinas funcionam 9 horas diariamente para a produção mensal de determinada quantidade de unidades de um produto que ela fabrica. Para o próximo ano, nessa mesma linha de produção, o número de máquinas aumentará para 60 e a quantidade de unidades mensal do produto fabricado aumentará em um terço. Mantendo, desse ano para o próximo, a relação de dependência entre as três variáveis envolvidas no problema; o número de horas trabalhadas diariamente pelas máquinas, no próximo ano, deverá ser igual a || A) 24. | B) 15. | C) 10. | D) 8,1. | E) 5,6."
+},
+{
+"id": 106303,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Em uma cidade, uma praça no formato triangular ABC está passando por estudos de expansão, com o objetivo principal de, pelo menos, dobrar sua área. O urbanista fez o seguinte projeto: [figura] Considere \\(\\frac{7}{9}\\) como o valor de cos α. Ao analisar seu projeto, o urbanista concluiu que o objetivo || A) foi cumprido, pois a área planejada está 2,00 vezes maior que a atual. | B) foi cumprido, pois a área planejada está 4,00 vezes maior que a atual. | C) não foi cumprido, pois a área planejada está \\(\\frac{7}{6}\\) vezes maior que a atual. | D) não foi cumprido, pois a área planejada está \\(\\frac{14}{9}\\) vezes maior que a atual. | E) não foi cumprido, pois a área planejada está \\(\\frac{16}{9}\\) vezes maior que a atual."
+},
+{
+"id": 106304,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "O metrô linha norte faz o trajeto da Estação Luz à Estação Glória. O metrô fica parado na Estação Central por 2,5 minutos e nas demais estações por 1,5 minuto. Além disso, gasta de uma estação a outra 5 minutos. Após cada ciclo completo de permanência e viagem, sai um metrô da Estação Luz. O esquema ilustra a sequência das estações desse trajeto. <sub>i</sub>n <sub>i</sub>n m m <sub>,</sub>5 <sub>,</sub>5 <sub>:</sub>1 <sub>:</sub>1 <sub>c</sub><sub>i</sub>a <sub>c</sub><sub>i</sub>a n n ê ê n n a <sub>c</sub>a a m m **l** <sub>i</sub>n <sub>i< […] a pessoa tem determinada probabilidade de encontrar o metrô. Pode-se admitir que a probabilidade de encontrar o metrô parado é diretamente proporcional ao tempo de todo o trajeto do metrô. Supondo que o estudante Pablo passa pela Estação Central 2 vezes ao dia, de maneira aleatória e independente uma da outra, a probabilidade de ele encontrar o metrô parado na Estação Central, nas duas vezes, é de || A) \\(\\frac{1}{7}\\) | B) \\(\\frac{4}{49}\\) | C) \\(\\frac{3}{70}\\) | D) \\(\\frac{1}{100}\\) | E) \\(\\frac{1}{196}\\)"
+},
+{
+"id": 106305,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Um fabricante de calçados infantis comercializa seu produto em caixas no formato de paralelepípedo reto-retângulo. Em uma campanha promocional, serão inclusos brindes na caixa, e o projetista decidiu usar 800% do material usado nas caixas convencionais para fazer a superfície da nova embalagem. Uma exigência do projetista é que as dimensões da caixa sejam multiplicadas por uma mesma constante. [figura] Para não haver perda de material, a constante que multiplica cada dimensão da caixa deve ser || A) \\(\\frac{2}{3}\\) | B) 2 | C) 3 | D) 8 | E) 2\\(\\overline{√_{2}}\\)"
+},
+{
+"id": 106306,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Um dono de hortifruti foi a um distribuidor de frutas para repor seu estoque de mamão e abacaxi, por serem frutas de grande demanda em seu estabelecimento. Ele tem R$ 5 100,00 para realizar seu pedido, e sua caminhonete comporta até 1 200 kg de carga. Nesse lugar, o quilograma do mamão é vendido a R$ 3,00, e o do abacaxi, a R$ 6,00. Considerando que ele gastou todo o dinheiro e comportou a carga de maior massa possível, qual a quantidade em quilogramas de mamão e de abacaxi, nessa ordem, que esse comerciante irá adquirir? || A) 700 e 500 | B) 500 e 700 | C) 4 700 e 400 | D) 400 e 4 700 | E) 1 700 e 2 900"
+},
+{
+"id": 106307,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] A figura representa o mapa do bairro onde Jorginho mora, desenhado na escala 1 : 2 000. As setas indicam o caminho que ele faz para ir de sua casa, situada no ponto A, até sua escola, situada no ponto J. [figura] Nesse mapa, os segmentos \\(\\overline{AB,}\\) \\(\\overline{CD,}\\) \\(\\overline{DE,}\\) \\(\\overline{EF,}\\) \\(\\overline{GH,}\\) e \\(\\overline{HI}\\) medem 3 cm, FG e IJ medem 2 cm e BC mede 4 cm. A distância, em km, que Jorginho percorre para ir de sua casa até a escola é igual a || A) 0,26. | B) 0,52. | C) 1,30. | D) 2,60. | E) 5,20."
+},
+{
+"id": 106308,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Com a necessidade de implementar aulas à distância, em função do distanciamento social imposto por causa da Covid-19, uma escola implantou um sistema que oferece aos professores três possibilidades para a elaboração de suas aulas: aulas *on-line*, vídeoaulas gravadas previamente e leituras adicionais postadas em uma plataforma. Definiu, ainda, que os professores devem alternar os três métodos, evitando duas aulas seguidas no mesmo formato. Dessa forma, cada professor deve montar seu planejamento semanal. Por exemplo, para uma carga horária de 4 aulas semanais, uma organização possível seria aula *on-line*, no primeiro dia, vídeoaula no segundo, leitura adicional, no terceiro e vídeoaula no quarto dia. Um professor que tenha cinco aulas por semana em uma turma de Ensino Médio, seguindo essa orientação, terá quantas possibilidades de montar seu planejamento semanal? || A) 11 | B) 15 | C) 48 | D) 108 | E) 243"
+},
+{
+"id": 106309,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "**Torque ou Potência? O que você acha que é melhor? Nesse quesito os veículos** **elétricos levam grande vantagem em relação aos veículos de motor de combustão interna.** Vamos começar com algumas definições, sem muito rigor científico: • Torque: É a força que, quando aplicada em determinado ponto, tende a girar um corpo material. [...] • Potência: É uma medida que representa a quantidade de trabalho ou energia que se consegue realizar (ou extrair de uma máquina) em determinado período de tempo. As figuras 1 e 2 mostram a relação entre a potência, o torque e o número de rotações por minuto de um motor de combustão interna e de um motor elétrico, respectivamente. [figura] 1 000 2 000 3 000 4 000 5 000 6 000 **Rotação por minuto (RPM)** Figura 1 – Curva típica de um motor de combustão interna. [figura] desenvolvido para veículo elétrico. A comparação entre esses dois gráficos permite concluir que || A) a potência máxima em um motor de combustão interna é maior do que a potência máxima em um motor elétrico. | B) a potência em um motor elétrico é diretamente proporcional ao número de rotações, enquanto o torque em um moto | C) o torque máximo em um motor de combustão interna é menor que o torque máximo em um motor elétrico. | D) o torque em um motor a combustão é maior que o torque em um motor elétrico para rotações entre 5 000 e 6 000 r | E) tanto a potência quanto o torque máximos em um motor de combustão interna são obtidos com um número de rotaçõe"
+},
+{
+"id": 106310,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Uma sala quadrada terá o piso revestido com cerâmicas cujo metro quadrado custa R$ 57,00. Sabe-se que as cerâmicas são vendidas apenas em embalagens de um metro quadrado, não sendo comercializada fração menor. Para medir o lado da sala, uma pessoa utilizou uma régua de 40 centímetros, inteiramente, 13 vezes, não sobrando partes a serem medidas. Um pedreiro cobra R$ 25,00 por metro quadrado de cerâmicas afixada e, para frações menores que um metro quadrado, a cobrança é proporcional. Para a total conclusão da obra, o valor que o proprietário da sala deverá separar, em reais, será de || A) 342. | B) 472. | C) 1 197. | D) 1 717. | E) 2 272."
+},
+{
+"id": 106311,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Uma grande rede de varejo fecha a primeira semana de janeiro com faturamento de 135 mil reais. A direção divulga a todas as filiais a meta anual de 8,4 milhões de reais. Considerando que as filiais visam atingir uma meta mensal constante, o valor aproximado de arrecadação adotado como meta para o restante de janeiro, considerando todas as filiais, é de || A) R$ 565 000,00. | B) R$ 700 000,00. | C) R$ 8 265 000,00. | D) R$ 699 865 000,00. | E) R$ 700 000 000,00."
+},
+{
+"id": 106312,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Uma distribuidora do patrocinador de um dos maiores carnavais do Brasil vendeu 9 000 latas de um novo refrigerante em um dia, a R$ 2,50 cada lata. O gerente da distribuidora percebeu que, para cada centavo de desconto que concedia por lata, eram vendidas 100 latas a mais por dia. Sendo y o valor, em centavos, do desconto dado no preço de cada lata de refrigerante, e P o valor, em R$, arrecadado por dia com a venda das latas de refrigerante, a expressão que relaciona P e y é || A) P 5 22500 1 160y 2 y<sup>2</sup> | B) P 5 22500 1 340y 2 y<sup>2</sup> | C) P 5 22500 2 340y 2 y<sup>2</sup> | D) P 5 22750y 2 91y<sup>2</sup> | E) P 5 22410y 1 249y<sup>2</sup>"
+},
+{
+"id": 106313,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "**Físico brasileiro cria um nano-violão – que toca** Já pensou conseguir tocar e ouvir um violão do tamanho de uma célula? […] Para tocar um violão desses, você precisaria ter uma mão 100 milhões de vezes menor que a sua. A representação do tamanho da mão humana para tocar o violão em relação ao tamanho real, em um artigo científico, pode ser feita em forma de uma potência de base dez de ordem || A) 10<sup>2</sup><sup>3</sup>. | B) 10<sup>2</sup><sup>5</sup>. | C) 10<sup>2</sup><sup>6</sup>. | D) 10<sup>2</sup><sup>7</sup>. | E) 10<sup>2</sup><sup>8</sup>."
+},
+{
+"id": 106314,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Um estudante vende doces na faculdade para arrecadar dinheiro para uma viagem. Ele faturou, nos três primeiros meses do ano, respectivamente, R$ 250,00, R$ 150,00 e R$ 300,00. Sabe-se que cada doce é vendido por R$ 2,00. No meio do quarto mês, esse estudante já vendeu 80 doces. Qual o menor número possível de doces o estudante ainda deve vender até o fim do quarto mês para que seu faturamento médio no primeiro quadrimestre do ano seja R$ 275,00? || A) 115 | B) 120 | C) 160 | D) 240 | E) 320"
+},
+{
+"id": 106315,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Um casal possui uma chácara retangular de 15 m de largura e 30 m de comprimento. A casa construída tem 8 m de largura e 16 m de comprimento, como na imagem. Toda a área no entorno da casa é permeável, ou seja, não é pavimentada, porém, o casal gostaria de aumentar o percentual de área permeável dentro de seu terreno para 80% da área total e, para isso, decidiu comprar uma parte do terreno vizinho ao norte do seu para atingir esse objetivo. A extensão em largura deverá ser a mesma do terreno original, alterando-se apenas o comprimento final do terreno. [figura] Qual deve ser o comprimento aproximado, em metro, da parte do terreno que o casal deverá comprar? || A) 2,2 | B) 3,4 | C) 7,5 | D) 10,7 | E) 12,7"
+},
+{
+"id": 106316,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] A Secretaria de Educação de uma pequena cidade distribuiu pacotes com materiais escolares, confeccionados pelos professores, para que os alunos dessa cidade pudessem estudar durante o período de pandemia. O gráfico apresenta a quantidade de pacotes contendo os materiais que foram distribuídos ao longo dos oito primeiros dias de determinado mês. [figura] A quantidade de pacotes entregues por dia segue um mesmo padrão estipulado pela Secretaria de Educação. Sendo assim, observando os dados apresentados no gráfico e sabendo que cada aluno recebe apenas um pacote com os materiais, a Secretaria de Educação sabe o total de alunos que iriam receber esses materiais em cada dia do mês analisado. Seguindo o padrão de entrega estipulado pela Secretaria de Educação, quantos pacotes serão entregues, no total, no 12<u><sup>o</sup></u> e 13<u><sup>o</sup></u> dias? || A) 104 | B) 108 | C) 113 | D) 117 | E) 120"
+},
+{
+"id": 106317,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Em uma região de uma cidade foram coletados dados sobre a diversidade religiosa dessa população. Esses dados estão expostos na tabela. [figura] Escolhendo uma pessoa dessa região, aleatoriamente, é mais provável que ela seja mulher e evangélica ou homem e católico? || A) Homem e católico, com probabilidade de, aproximadamente, 0,29. | B) Homem e católico, com probabilidade de, aproximadamente, 0,58. | C) Homem e católico, com probabilidade de, aproximadamente, 0,91. | D) Mulher e evangélica, com probabilidade de, aproximadamente, 0,32. | E) Mulher e evangélica, com probabilidade de, aproximadamente, 0,63."
+},
+{
+"id": 106318,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Como exigência pedagógica, uma escola determina que a variância das notas obtidas por uma turma em cada avaliação deve ser maior do que zero, caso contrário, a prova deve ser reaplicada. Isso significa que, para que a prova seja válida em uma turma, || A) ao menos um aluno deve ter nota igual à mediana. | B) ao menos uma nota deve ser diferente das demais. | C) todos os alunos devem conseguir exatamente a mesma nota. | D) todos os alunos devem ter nota acima da média amostral das notas. | E) todos os alunos devem ter nota abaixo da média amostral das notas."
+},
+{
+"id": 106319,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] A imagem mostra um manipulador, frequentemente encontrado em linhas de produção automatizadas, em determinada posição. [figura] O trecho **Elo 1** possui uma garra em sua extremidade, a qual se situa a 1 m de distância até a junção com o outro trecho. Na imagem, o **Elo 1** executou um giro de 45º em relação à vertical, mas é capaz de girar 360º em torno da junção. Os demais trechos são capazes de se movimentar para que o **Elo 1** se translade no espaço. Durante a programação dos movimentos do manipulador, o engenheiro responsável sab […] a atingir um determinado objeto **P**. Modelando a situação com o objeto em um ponto arbitrário (a, b), ele posiciona o centro de rotação do trecho **Elo 1** no ponto (3, 4) de um plano cartesiano, em um sistema de coordenadas em que cada unidade vale 1 m. A partir da posição do manipulador com o giro de 45º, a equação que descreve a menor distância **d** a ser percorrida pela garra até o objeto é || A) d 5 (a 2 3)<sup>2</sup> 1 (b 2 4)<sup>2</sup> | B) d 5 (a 2 1 2 2 2 | C) d 5 \\(\\frac{1)\\,(b\\,1)}{(a\\,2\\,3)^{2}\\,1\\,(b\\,2\\,4)^{2}}\\) √ √( )<sup>2</sup> ( )<sup>2</sup> | D) d 5 a 2 3 1 \\(\\frac{√_{2}}{4}\\) 1 b 2 4 1 \\(\\frac{√_{2}}{4}\\) √( )<sup>2</sup> ( )<sup>2</sup> | E) d 5 a 2 3 1 \\(\\frac{√_{2}}{2}\\) 1 b 2 4 1 \\(\\frac{√_{2}}{2}\\)"
+},
+{
+"id": 106320,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Uma empresa de tintas vende seus produtos em latas cilíndricas contendo 6 L. Atualmente, as latas possuem 20 cm de altura. Visando economizar na produção do rótulo dessas embalagens, a empresa deseja reduzir sua área lateral sem alterar o raio do cilindro. Cada rótulo, que preenche toda a área lateral da embalagem, custa R$ 0,02 por cm<sup>2</sup>. Considere 3 como aproximação para π. Sabendo que o volume final da nova lata deve ser no mínimo 75% do volume original, qual será o menor valor possível pago no novo rótulo das embalagens? || A) R$ 18,00 | B) R$ 24,00 | C) R$ 30,00 | D) R$ 36,00 | E) R$ 90,00"
+},
+{
+"id": 106321,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] O síndico de um condomínio comprou uma bomba para poder esvaziar a piscina. No manual de fabricante veio descrita sua potência e ao lado esboçado o seguinte gráfico: **Exemplo para uma piscina de 5 000 L** [figura] **Quantidade de água na piscina (L)** A função que representa a quantidade de água jorrada para fora da piscina em litros (y) após o acionamento da bomba em função do tempo em minutos (x) é dada por || A) y 5 2\\(\\frac{200}{3}\\) x | B) y 5 \\(\\frac{3}{200}\\) x | C) y 5 \\(\\frac{200}{3}\\) x | D) y 5 2\\(\\frac{200}{3}\\) x 1 5 000 | E) y 5 \\(\\frac{200}{3}\\) x 1 5 000"
+},
+{
+"id": 106322,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Em uma copiadora, há impressoras capazes de imprimir 40 páginas por minuto. Dessa forma, a impressão de 48 000 páginas pode ser feita em 5 horas por 4 impressoras. Para fazer o mesmo trabalho em 2 horas, quantas impressoras devem ser utilizadas? || A) 5 | B) 6 | C) 7 | D) 8 | E) 10"
+},
+{
+"id": 106323,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Em um experimento no laboratório de Matemática, o professor solicita a um grupo de alunos que desenhe uma elipse. Para isso, o professor disponibiliza duas tachinhas, um barbante de tamanho específico, papel, caneta e régua. De posse desses objetos, primeiramente o grupo fixa as duas tachinhas sobre uma mesma reta horizontal no papel, a uma distância de 8,0 cm (medida com a régua) um do outro, amarrando cada uma das pontas do barbante em uma delas. Em seguida, a caneta é empregada para esticar o barbante e fazer o traçado da elipse no papel. Depois disso, usando novamente a régua, são medidas as distâncias dos pontos em que ambas as tachinhas se encontram (F<sub>1</sub> e F<sub>2</sub>) até um ponto P da elipse, obtendo-se 6,5 cm e 3,5 cm, respectivamente. Por fim, o professor pede ao grupo que também desenhe um retângulo ABCD circunscrito à elipse e tocando-a nos seus pontos extremos, conforme a situação representada a seguir: [figura] No caso, a área do retângulo ABCD mede || A) 60,0 cm<sup>2</sup>. | B) 52,0 cm<sup>2</sup>. | C) 40,0 cm<sup>2</sup>. | D) 28,0 cm<sup>2</sup>. | E) 14,0 cm<sup>2</sup>."
+},
+{
+"id": 106324,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Gustavo está produzindo uma maquete para um trabalho da escola. Ele está representando alguns prédios do seu bairro. Um deles é uma torre, no formato de um cone, com diâmetro da base igual a 10 m e altura igual a 32 m. A escala da representação é 1 : 25. Quais as medidas de altura e diâmetro, em dm, Gustavo utilizará para fazer a maquete? || A) 8 e 2,5 | B) 12,8 e 4 | C) 32 e 10 | D) 80 e 25 | E) 128 e 40"
+},
+{
+"id": 106457,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Um eclipse solar acontece sempre que há um alinhamento astronômico entre a Terra, o Sol e a Lua, de modo que a última se encontra posicionada entre os dois primeiros, projetando uma sombra em uma área da superfície, que fica sem poder observar o brilho do Sol ou com visualização parcial. Eclipse solar anular ou anelar: é quando a Lua está a uma distância maior da Terra e o seu tamanho aparente não é o suficiente para recobrir toda a projeção solar. Por essa razão, forma-se um anel em torno da sombra da Lua. [figura] Ao olhar para o céu, não é possível ver o formato esférico de astros celestes, como o Sol e a Lua, durante um eclipse solar anular, como mostrado na imagem, é vista uma imagem bidimensional. Considerando que a sombra da Lua e a projeção solar possam ser modeladas por círculos e que, em determinado momento do eclipse anular, estes sejam concêntricos, o anel de luz formado nesse momento é classificado como || A) fuso esférico. | B) setor circular. | C) zona esférica. | D) coroa circular. | E) segmento circular."
+},
+{
+"id": 106458,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Hagrid ajudou Harry a guardar um pouco do dinheiro em uma saca. — As moedas de ouro são galeões – explicou ele. — Dezessete sicles de prata fazem um galeão e vinte e nove nuques fazem um sicle, é bem simples. Certo, isto deverá ser suficiente para uns dois períodos letivos, guardaremos o resto bem guardado para você. Nessas condições, um galeão equivale a exatamente || A) 29 sicles. | B) 17 nuques. | C) 17 ? 29 sicles. | D) 17 1 29 sicles. | E) 17 ? 29 nuques."
+},
+{
+"id": 106459,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Eduardo tem uma duplicata de R$ 15000,00, e a empresa que emitiu a duplicata usa o desconto comercial (ou bancário) sob juros compostos de 19% ao ano em caso de adiantamentos de dívida. O valor do desconto comercial (D<sub>c</sub>) é calculado pela fórmula D<sub>c</sub> 5 VN [1 2 (1 2 i)<sup>n</sup>], sendo (VN) o valor nominal da dívida, (i) a taxa dos juros compostos e (n) o número de anos de adiantamento. Como Eduardo é uma pessoa financeiramente organizada, pretende fazer o pagamento adiantado, obtendo um desconto. Para que ele pague o total de R$ 13 500,00, o tempo de antecedência que Eduardo deve adiantar o pagamento é de || A) 0,5 mês. | B) 2 meses. | C) 6 meses. | D) 10 meses. | E) 12 meses."
+},
+{
+"id": 106460,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Entre os anos de 2010 e 2018, o faturamento de uma empresa (em bilhões de R$) aumentou segundo o gráfico, no qual se observam dois períodos de crescimento distintos: 2010 a 2015 e 2015 a 2018. [figura] Analisando o gráfico, verifica-se que o crescimento do faturamento entre 2012 e 2013 foi de || A) R$ 2,0 bilhões. | B) R$ 4,0 bilhões. | C) R$ 6,0 bilhões. | D) R$ 10,0 bilhões. | E) R$ 12,0 bilhões."
+},
+{
+"id": 106461,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Em determinada reserva ecológica com 545 metros quadrados existem, aproximadamente, três aranhas por metro quadrado. Com o objetivo de analisar a cadeia alimentar do local, pesquisadores começaram a estudar as espécies predadoras das aranhas, entre elas a lagartixa. Para um estudo inicial de 24 horas, foi considerado que uma lagartixa come aproximadamente 4 aranhas por dia, e, ao final das 24 horas, a quantidade de aranhas que nasce é igual a 1% das aranhas restantes na reserva. Além disso, foi desconsiderada a reprodução das lagartixas. Considerando esse estudo inicial, qual expressão relaciona o número de aranhas (a) e o número de lagartixas (l) ao final das 24 horas? || A) a 5 (545 2 l) ? 1,01 | B) a 5 (545 2 4l) ? 1,01 | C) a 5 (1 635 2 l) ? 1,01 | D) a 5 (1 635 2 4l) ? 1,01 | E) a 5 (1 635) ? 1,01 2 4l"
+},
+{
+"id": 106462,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Uma empresa de *softwares* desenvolve programas para prefeituras emitirem e controlarem as guias de IPTU. Atendendo a um pedido, os programadores desenvolveram um sistema que identifica cada edificação da cidade por meio de uma sequência formada por duas letras seguidas de dois algarismos. A pedido da prefeitura, todos os imóveis comerciais deverão ser identificados por um código iniciado por duas vogais diferentes: os prédios públicos, por um código iniciado por duas vogais iguais; e os residenciais, por um código iniciado por duas consoantes. Por exemplo, a prefeitura da cidade tem o código AA00, a Padaria Flor do Pão foi identificada por AE52 e uma residência ficou com o código CB81. Dessa forma, o número máximo de imóveis residenciais que podem ser cadastrados nesse sistema é || A) 44 100. | B) 65 000. | C) 65 600. | D) 67 100. | E) 67 600."
+},
+{
+"id": 106463,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "O radiador de um carro é um sistema de troca de calor acionado quando o motor atinge determinada temperatura, de modo a resfriá-lo. Em determinado modelo de automóvel, o radiador é acionado quando o motor atinge 90 ºC e só é desligado quando o motor volta a atingir uma temperatura abaixo de 80 ºC. Uma análise gráfica da temperatura de um motor desse modelo foi feita ao longo de 5 minutos. [figura] Durante a análise, quantas vezes o radiador foi desligado? || A) 1 | B) 2 | C) 3 | D) 4 | E) 5"
+},
+{
+"id": 106464,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Um ano-luz é a medida de distância utilizada na Astronomia e representa a distância que se percorre na velocidade da luz em um ano. Um ano-luz equivale a aproximadamente 9,5 ? 10<sup>12</sup> km. A galáxia de Andrômeda se localiza a aproximadamente 2,5 milhões de anos-luz do planeta Terra. A distância aproximada, em metro, do planeta Terra até a galáxia de Andrômeda é || A) 2,375 ? 10<sup>6</sup> | B) 2,375 ? 10<sup>12</sup> | C) 2,375 ? 10<sup>19</sup> | D) 2,375 ? 10<sup>22</sup> | E) 2,375 ? 10<sup>23</sup>"
+},
+{
+"id": 106465,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Em uma padaria são oferecidos apenas sucos de laranja ou de maracujá. O estabelecimento possui somente uma máquina de extração de suco de frutas, cuja capacidade diária máxima é de 300 L de suco só de laranja ou 240 L de suco só de maracujá. Certo dia, a padaria já havia processado 120 L de suco de laranja e decidiu utilizar o restante da capacidade diária de extração da máquina para produzir suco de maracujá. Qual a quantidade máxima de suco de maracujá que pode ser produzida nesse dia? || A) 60 L | B) 96 L | C) 144 L | D) 180 L | E) 210 L"
+},
+{
+"id": 106466,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "O gráfico apresenta o resultado de estudos sobre a elevação do nível dos oceanos em dois cenários, pessimista e otimista. [figura] Considerando que no ano 2000 não houve aumento no nível do mar, no cenário otimista, a taxa média anual de aumento no nível do mar, em centímetro por ano, é de aproximadamente || A) 0,3. | B) 0,4. | C) 0,6. | D) 0,7. | E) 0,8."
+},
+{
+"id": 106467,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Um artesão confeccionou uma forma de bolo que tem o formato cilíndrico, com 20 cm de diâmetro e 6 cm de altura na parte interna, destinada a receber a massa que será assada. Ele adicionou um furo transpassando a mesma, que consiste em um cubo de mesma altura que a forma. [figura] Considere π 5 3,14. O volume de um bolo, em centímetro cúbico, produzido nessa forma, se ele ocupar todo o seu interior, será || A) 726. | B) 942. | C) 1 668. | D) 1 884. | E) 7 014."
+},
+{
+"id": 106468,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Pedro e Ricardo estão participando de um jogo de caça ao tesouro em duplas e precisam trabalhar juntos para conseguir encontrar o prêmio final. A cada pista, um dos amigos lê as instruções de deslocamento enquanto o outro as segue para chegar à dica seguinte. Na última etapa, João indica o caminho que Pedro deverá fazer para chegar ao tesouro: • Siga em direção ao Leste por 3 m; • Vire em direção ao Norte e siga por 2 m; • Vire em direção ao Oeste e siga por 4 m; • Vire em direção ao Noroeste e siga por 5 m. O plano cartesiano representa a posição inicial de Pedro e 5 possíveis localizações do prêmio. Além disso, sabe-se que o lado de cada quadradinho representa 1 m e que o último movimento de João foi equivalente a um deslocamento de 3 m no eixo x. [figura] Interpretando corretamente as pistas para se chegar ao prêmio, os amigos descobrirão que o tesouro está escondido no ponto || A) A. | B) B. | C) C. | D) D. | E) E."
+},
+{
+"id": 106469,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Uma nutricionista posta em suas redes sociais um vídeo toda semana com dicas de alimentação. O horário em que o vídeo é postado se relaciona à semana em que ele será postado. Por exemplo, na semana 122, o vídeo será postado às 17 h 30 min. A função que relaciona o horário f(x) da postagem com a semana x é dada por f(x) 5 15 1 5 ? cos (0,5 ? x 2 1). O horário máximo em que o vídeo pode ser postado corresponde ao horário em que o vídeo da semana 2 deve ser postado? || A) Sim, pois ambos correspondem ao horário das 15 horas. | B) Sim, pois ambos correspondem ao horário das 20 horas. | C) Não, pois o horário máximo para o vídeo ser postado é às 20 horas e o horário da semana 2 é às 15 horas. | D) Não, pois o horário máximo para o vídeo ser postado é às 17 h 30 min e o horário da semana 2 é às 15 horas. | E) Não, pois o horário máximo para o vídeo ser postado é às 22 h 30 min e o horário da semana 2 é às 20 horas."
+},
+{
+"id": 106470,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] **WWF: Brasil é 4**<u>**<sup>o</sup>**</u> **maior produtor de lixo plástico e um dos que menos recicla** Ao mesmo tempo que ocupa a quarta posição entre os países que mais produzem lixo plástico no mundo, o Brasil é uma das nações que menos recicla o material. [figura] Suponha que uma pesquisa foque apenas nos cinco países em que a quantidade de lixo reciclado por ano seja a menor. Destes, um grupo de ambientalistas irá elaborar um projeto de conscientização para o país em que a razão de lixo reciclado em relação à quantidade de lixo produzido seja a menor. Após a análise pode-se concluir que o projeto de conscientização será direcionado para o(a) || A) Brasil. | B) Japão. | C) Índia. | D) Indonésia. | E) Rússia."
+},
+{
+"id": 106471,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "**O que é a sequência de Fibonacci?** Ela está presente em muitas coisas do nosso cotidiano: nas mãos, no rosto, nos cartões de crédito e até nas pirâmides do Egito! É uma sucessão de números que, misteriosamente, aparece em muitos fenômenos da natureza. Descrita no final do século 12 pelo italiano Leonardo Fibonacci, ela é infinita e começa com 0 e 1. Os números seguintes são sempre a soma dos dois números anteriores. Portanto, depois de 0 e 1, vêm 1, 2, 3, 5, 8, 13, 21, 34… Um fato curioso sobre essa sequência é que ela pode ser utilizada para converter milhas em quilômetros. Considerando um valor presente na sequência de Fibonacci como uma medida em milhas, o termo seguinte será o valor aproximado de sua representação em quilômetros. De acordo com a sequência de Fibonacci, 89 milhas equivalem a aproximadamente || A) 55 quilômetros. | B) 76 quilômetros. | C) 109 quilômetros. | D) 144 quilômetros. | E) 233 quilômetros."
+},
+{
+"id": 106472,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Uma empresa de fornecimento de energia oferece dois tipos de condições para seus clientes, conforme representado nos gráficos abaixo: [figura] Ambos os planos funcionam da mesma maneira: até 200 kWh consumidos pelo cliente, é pago um valor constante. A partir deste consumo, há um acréscimo para cada kWh extra consumido. O gráfico apresenta estas cobranças extras, sendo os valores de interseção de cada gráfico com o eixo vertical o valor constante inicial de cada plano possível. Sabe-se que, para o plano A, o valor constante inicial equ […] por exemplo, caso sejam consumidos 10 kWh extras, o valor do plano A passa para R$ 104,35 e do plano B passa para R$ 103,50. A empresa deseja aumentar a lucratividade destes planos. Para isso, avalia diversos parâmetros, como a diferença de crescimento entre os planos. De forma a realizar esta análise, é calculada a diferença entre os coeficientes angulares de cada gráfico. O valor encontrado foi: || A) 0,15. | B) 0,35. | C) 0,50. | D) 0,65. | E) 0,85."
+},
+{
+"id": 106473,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] O Jardim das Tulherias, Paris – França, cobre cerca de 25 hectares e ainda segue de perto um desenho realizado pelo arquiteto paisagista André Le Nôtre, em 1664. Para a confecção de folhetos de divulgação, a imagem do Jardim das Tulherias ocupará uma área de 100 cm<sup>2</sup>. Se 1 hectare corresponde a 10<sup>8</sup> cm<sup>2</sup>, em qual escala o jardim deverá ser impresso? || A) 1 : 5 000 | B) 1 : 50 000 | C) 1 : 250 000 | D) 1 : 5 000 000 | E) 1 : 25 000 000"
+},
+{
+"id": 106474,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Diante da pandemia de Covid-19, as máscaras de proteção se tornaram indispensáveis no dia a dia. Determinado modelo de máscaras cirúrgicas descartáveis custam, em média, R$ 39,90 a caixa com 20 unidades, mas precisam ser trocadas a cada 4 horas. Já os modelos de máscara N95 podem ser usados por mais tempo, dependendo das condições de utilização, e seu custo unitário é, em média, de R$ 19,50. Uma pessoa que trabalha 8 horas por dia (considerando o deslocamento), de segunda a sexta-feira, deseja comprar uma quantidade suficiente para usar no trabalho durante quatro semanas. Considerando suas condições de uso, ela avaliou que seria possível utilizar as máscaras do tipo N95 por até 5 dias de trabalho. A opção mais econômica para essa pessoa é comprar a máscara || A) N95, já que o custo dessa opção é R$ 1,80 mais barato no total. | B) N95, já que o custo dessa opção é R$ 20,40 mais barato no total. | C) descartável ou N95, já que o custo total de ambas é igual a R$ 80,00. | D) descartável, já que o custo dessa opção é R$ 2,25 mais barato no total. | E) descartável, já que o custo dessa opção é R$ 38,10 mais barato no total."
+},
+{
+"id": 106475,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] As fábricas Luz do Dia e Sempre Claro são fornecedoras de lâmpadas para a distribuidora de material elétrico Raio de Luz. A empresa Raio de Luz faz testes de qualidade nos lotes fornecidos pelas duas empresas, de forma que o testador não sabe de qual empresa é a lâmpada testada, uma vez que não há identificação nominal dos fornecedores. Os lotes de peças da Luz do Dia representam 60% dos lotes comprados e têm 4% de probabilidade de apresentar defeito, enquanto os lotes da Sempre Claro têm 8% de probabilidade de apresentar defeito. Dado que um dos lotes testados apresentou defeito, qual a probabilidade do lote defeituoso ser da empresa Sempre Claro? || A) 24% | B) 28% | C) 43% | D) 52% | E) 57%"
+},
+{
+"id": 106476,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Uma perfumaria recebeu dois modelos de embalagem para um novo produto e deve escolher entre eles. Ambas as embalagens têm altura igual a 8 cm. Uma em forma de cilindro, com diâmetro da base igual a 12 cm, e uma em forma de pirâmide quadrangular regular, cuja aresta da base mede 12 cm. A escolha será feita de acordo com o menor custo de matéria-prima, que é proporcional às áreas das embalagens. Considerando π 5 3, a empresa deve escolher a embalagem || A) cilíndrica ou piramidal, afinal as medidas de suas alturas são iguais. | B) piramidal, pois tem área igual a \\(\\frac{4}{9}\\) da área da embalagem cilíndrica. | C) piramidal, pois tem área 3 vezes menor que a embalagem cilíndrica. | D) piramidal, pois tem área 120 cm<sup>2</sup> menor que a embalagem cilíndrica. | E) cilíndrica, pois o raio de sua base é menor que a aresta da base da pirâmide."
+},
+{
+"id": 106477,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] A aritmética indiana tem sido igual a números grandes há muito tempo. Hoje em dia encontram-se facilmente nos jornais indianos referências a multas ou gastos de *lakh* ou *crore* rúpias. O padrão é: *das* 5 10; *san* 5 100; *hazar* 5 1 000; *lakh* 5 10<sup>5</sup>; *crore* 5 10<sup>7</sup>; *nie* 5 10<sup>13</sup>; *padham* 5 10<sup>15</sup>; e *sankh* 5 10<sup>17</sup>. Ao avistar anúncios de motocicletas em um *site* de concessionária indiana, é possível encontrar os veículos com valores que variam de 13,15 *lakhs* a 42,65 *lakhs* rúpias. Dessa forma, os preços dessas motocicletas, em rúpias, variam de || A) 1 315 a 4 265. | B) 13 150 a 42 650. | C) 131 500 a 426 500. | D) 1 315 000 a 4 265 000. | E) 131 500 000 a 426 500 000."
+},
+{
+"id": 106478,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "A velocidade média pode ser definida pela razão entre a distância total percorrida e o tempo transcorrido durante esse deslocamento. Considere que, em certa competição, um atleta amador participou de uma corrida de 1 000 m em sua cidade natal. Ele percorreu o 1 km em 2 minutos. Depois de alguns meses, ele participou de outra prova, que possuía \\(\\frac{3}{5}\\) do tamanho da primeira, e completou-a em \\(\\frac{5}{12}\\) do tempo da outra corrida. Assim, a velocidade média alcançada na segunda prova é igual a || A) 0,012 m/s. | B) 0,72 m/s. | C) 8,3333 m/s. | D) 12 m/s. | E) 720 m/s."
+},
+{
+"id": 106479,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] O gráfico a seguir representa a produção de etanol das safras anuais no Brasil (em milhões de m<sup>3</sup>) no período de 1994 a 2018. [figura] Considerando o gráfico, em quantas safras a produção de etanol esteve igual ou abaixo da mediana de produção de etanol 3 no Brasil, em milhões de m , deste período? || A) 11 | B) 12 | C) 13 | D) 14 | E) 22"
+},
+{
+"id": 106480,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Um engenheiro foi contratado para projetar uma horta suspensa para pequenas leguminosas, com o objetivo de reaproveitar o espaço de um apartamento. O formato deve ser de um cubo com arestas de 2,0 m sem a face superior. A estrutura ficará suspensa por 4 cordas presas nos vértices superiores. Sabe-se que cada 1 m<sup>3</sup> de terra para a horta corresponde a 1,5 kg. Para a estrutura será utilizada madeira, onde cada 1 m<sup>2</sup> corresponde a uma massa de 750 g. A capacidade mínima, em kg, que as cordas precisarão suportar para a horta ficar suspensa é de || A) 12,0. | B) 13,5. | C) 16,5. | D) 27,0. | E) 30,0."
+},
+{
+"id": 106481,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "[figura] Um observador deseja estimar o número de degraus idênticos e sequenciais que existem em um lance de escadas. Para tanto, ele realiza a medição do comprimento da base horizontal do lance e da altura de um único degrau (o primeiro), registrando 4,5 m e 14,4 cm [considere como ( ) \\(\\frac{25}{3}\\) ? \\(\\overline{√3}\\) cm], respectivamente. Ademais, o observador usa um teodolito (instrumento óptico de alta precisão) para quantificar o ângulo compreendido entre o ponto de contato do primeiro degrau com o chão e o topo do lance de escadas, chegando ao valor de 30º (ver figura abaixo). [figura] Qual o número de degraus no lance de escadas? || A) 8. | B) 12. | C) 14. | D) 18. | E) 22."
+},
+{
+"id": 106482,
+"vest": "ENEM",
+"ano": "2021",
+"area": "exatas",
+"texto": "Em uma papelaria, estão expostos para venda três tipos diferentes de pacotes de papel. Apesar de estarem em embalagens distintas, todos os rolos de papel são da mesma marca e feitos a partir da mesma matéria-prima. As características das embalagens e os respectivos preços são os seguintes: • Pacote A: R$ 60,00 – 20 rolos de 50 metros; • Pacote B: R$ 115,20 – 64 rolos de 30 metros; • Pacote C: R$ 36,00 – 24 rolos de 30 metros. Uma pessoa deseja comprar o pacote que tem o papel com o menor custo por metro, não se importando com a quantidade de rolos que tal embalagem tenha. O pacote a ser comprado deverá ser o || A) A, pois apresenta o papel com menor custo, comparando-se os preços de uma mesma quantidade de papel em cada um | B) A, pois, uma vez que o tamanho dos rolos nesse pacote é maior do que o tamanho dos outros pacotes, adquire-se  | C) B, pois, uma vez que a quantidade de rolos nesse pacote é maior do que a quantidade nos outros pacotes, adquir | D) B, pois apresenta o papel com menor custo, comparando-se os preços de uma mesma quantidade de papel em cada um | E) C, pois apresenta o papel com menor custo, comparando-se os preços de uma mesma quantidade de papel em cada um"
+}
+]

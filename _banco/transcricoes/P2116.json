@@ -1,0 +1,43 @@
+{
+ "_sobre": "Trechos que o código não consegue copiar do PDF (fórmulas em glifos-imagem, caracteres sem tradução, alternativas desenhadas). Transcrito pelo Claude lendo a imagem da página em 28/09/2026. Conferir.",
+ "Q008": {
+  "enunciado": "As companhias aéreas costumam estabelecer um limite de peso para a bagagem de cada passageiro, cobrando uma taxa por quilograma de excesso de peso. Quando dois passageiros compartilham a bagagem, seus limites são considerados em conjunto.\n\nEm um determinado voo, tanto um casal como um senhor que viajava sozinho transportaram 60 kg de bagagem e foram obrigados a pagar pelo excesso de peso. O valor que o senhor pagou correspondeu a 3,5 vezes o valor pago pelo casal.\n\nPara determinar o peso excedente das bagagens do casal (x) e do senhor que viajava sozinho (y), bem como o limite de peso que um passageiro pode transportar sem pagar qualquer taxa (z), pode-se resolver o seguinte sistema linear:",
+  "alternativas": {
+   "A": "\\(\\begin{cases} x + 2z = 60 \\\\ y + z = 60 \\\\ 3{,}5x - y = 0 \\end{cases}\\)",
+   "B": "\\(\\begin{cases} x + z = 60 \\\\ y + 2z = 60 \\\\ 3{,}5x - y = 0 \\end{cases}\\)",
+   "C": "\\(\\begin{cases} x + 2z = 60 \\\\ y + z = 60 \\\\ 3{,}5x + y = 0 \\end{cases}\\)",
+   "D": "\\(\\begin{cases} x + z = 60 \\\\ y + 2z = 60 \\\\ 3{,}5x + y = 0 \\end{cases}\\)"
+  },
+  "nota": "texto transcrito lendo a imagem da página (caracteres que o PDF não traduz) — conferir. Sistemas (chaves) digitados a partir da imagem. Removido {{img:1}}: o recorte (treliça da cerca, 1,5 m × 2 m) pertence às questões 6 e 7, não à questão 8."
+ },
+ "Q010": {
+  "enunciado": "Para construir uma curva “floco de neve”, divide-se um segmento de reta (Figura 1) em três partes iguais. Em seguida, o segmento central sofre uma rotação de 60º, e acrescenta-se um novo segmento de mesmo comprimento dos demais, como o que aparece tracejado na Figura 2. Nas etapas seguintes, o mesmo procedimento é aplicado a cada segmento da linha poligonal, como está ilustrado nas Figuras 3 e 4.\n\n{{img:1}}\n\nSe o segmento inicial mede 1 cm, o comprimento da curva obtida na sexta figura é igual a",
+  "alternativas": {
+   "A": "\\(\\left(\\frac{6!}{4!\\,3!}\\right)\\) cm.",
+   "B": "\\(\\left(\\frac{5!}{4!\\,3!}\\right)\\) cm.",
+   "C": "\\(\\left(\\frac{4}{3}\\right)^{5}\\) cm.",
+   "D": "\\(\\left(\\frac{4}{3}\\right)^{6}\\) cm."
+  },
+  "nota": "texto transcrito lendo a imagem da página (caracteres que o PDF não traduz) — conferir. Parênteses grandes e expoentes 5 e 6 das alternativas lidos da imagem."
+ },
+ "Q014": {
+  "enunciado": "De acordo com a terceira lei de Kepler, o período de revolução e o raio da órbita desses planetas em torno do Sol obedecem à relação \\(\\left(\\frac{T_J}{T_T}\\right)^{2} = \\left(\\frac{R_J}{R_T}\\right)^{3}\\), em que \\(T_J\\) e \\(T_T\\) são os períodos de Júpiter e da Terra, respectivamente. Considerando as órbitas circulares representadas na figura, o valor de \\(T_J\\) em anos terrestres é mais próximo de",
+  "alternativas": {
+   "A": "0,1.",
+   "B": "5.",
+   "C": "12.",
+   "D": "125."
+  },
+  "nota": "texto transcrito lendo a imagem da página (caracteres que o PDF não traduz) — conferir. Relação de Kepler (parênteses e expoentes 2 e 3) lida da imagem. Atenção: o enunciado cita “desses planetas” e “a figura” — o texto-base/figura comum (órbitas de Júpiter e Terra, com medidas dos raios?) não aparece no recorte desta questão; a figura visível na página está na questão 15 e não traz valores numéricos dos raios — conferir se há texto introdutório compartilhado antes da questão 14."
+ },
+ "Q015": {
+  "enunciado": "Quando o segmento de reta que liga Júpiter ao Sol faz um ângulo de 120º com o segmento de reta que liga a Terra ao Sol, a distância entre os dois planetas é de\n\n{{img:1}}",
+  "alternativas": {
+   "A": "\\(\\sqrt{R_J^{2} + R_T^{2} - R_J R_T \\sqrt{3}}\\).",
+   "B": "\\(\\sqrt{R_J^{2} + R_T^{2} + R_J R_T \\sqrt{3}}\\).",
+   "C": "\\(\\sqrt{R_J^{2} + R_T^{2} - R_J R_T}\\).",
+   "D": "\\(\\sqrt{R_J^{2} + R_T^{2} + R_J R_T}\\)."
+  },
+  "nota": "texto transcrito lendo a imagem da página (caracteres que o PDF não traduz) — conferir. Alternativas eram imagens (img:2–5) e foram digitadas; figura movida para depois do texto, conforme a página. O recorte img:1 inclui no rodapé o início do radical da alternativa a — recortar novamente só a figura."
+ }
+}

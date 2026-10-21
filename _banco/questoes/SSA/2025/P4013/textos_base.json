@@ -1,0 +1,47 @@
+[
+ {
+  "id": "P4013-T1",
+  "texto": "***Nas questões com respostas numéricas, considere o módulo da aceleração da gravidade como*** ***g = 10,0 m/s<sup>2</sup>, a densidade da água ρ = 1,0 g/cm<sup>3</sup>, a constante da gravitação universal como***\n\n***-11***  \n***G = 6,7 x 10 m<sup>3</sup>kg<sup>-1</sup>s<sup>-2</sup>, a massa da Terra MT = 6,0 x 10<sup>24</sup> kg e o número π = 3.***",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.6,
+     122.30700000000002,
+     547.279,
+     133.30700000000002
+    ],
+    [
+     42.6,
+     134.99700000000007,
+     547.144,
+     146.02999999999997
+    ],
+    [
+     106.62,
+     145.779,
+     116.72200000000001,
+     152.779
+    ],
+    [
+     42.6,
+     147.60700000000008,
+     448.228,
+     158.64
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4013-Q023"
+  ],
+  "recortes": [
+   "revisao/T1_p14.jpg"
+  ]
+ }
+]

@@ -1,0 +1,4938 @@
+[
+ {
+  "id": "P4156-Q015",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 15,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A reação entre o zinco e o ácido clorídrico libera gás hidrogênio, além de formar cloreto de zinco, conforme a equação química:\n\nZn<sub>(s)</sub> + 2 HCl<sub>(aq)</sub>  H<sub>2(g)</sub> + ZnCl<sub>2(aq)</sub>\n\nConsiderando a mesma temperatura, a mesma quantidade de zinco metálico e o mesmo volume de uma solução ácida, em qual dos sistemas a seguir a reação ocorre mais rapidamente?\n\nDados – Massa molar (g/mol): H = 1; Cl = 35,5; Zn = 65,4",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "HCl 1,0 mol/L e zinco em barras"
+   },
+   {
+    "letra": "B",
+    "texto": "HCl 0,5 mol/L e zinco em pó"
+   },
+   {
+    "letra": "C",
+    "texto": "HCl 1,0 mol/L e zinco laminado"
+   },
+   {
+    "letra": "D",
+    "texto": "HCl 0,5 mol/L e zinco laminado"
+   },
+   {
+    "letra": "E",
+    "texto": "HCl 0,5 mol/L e zinco em barras"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.625,
+     46.107000000000085,
+     546.825996,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     187.55,
+     69.70700000000011
+    ],
+    [
+     209.27,
+     76.68500000000006,
+     380.57599999999996,
+     87.70700000000011
+    ],
+    [
+     42.62499999999994,
+     105.90700000000015,
+     547.3499999999999,
+     116.90700000000015
+    ],
+    [
+     42.62499999999994,
+     118.49700000000018,
+     465.38799999999986,
+     129.49700000000018
+    ],
+    [
+     120.05,
+     144.92700000000002,
+     400.4419999999999,
+     155.95999999999992
+    ],
+    [
+     42.425,
+     186.3270000000001,
+     206.68500000000006,
+     197.3270000000001
+    ],
+    [
+     42.425,
+     198.7270000000001,
+     189.28500000000003,
+     209.7270000000001
+    ],
+    [
+     42.425,
+     211.3270000000001,
+     202.36,
+     222.3270000000001
+    ],
+    [
+     42.425,
+     223.7270000000001,
+     202.245,
+     234.7270000000001
+    ],
+    [
+     42.425,
+     236.12700000000007,
+     206.68500000000006,
+     247.12700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [
+   "PENDENTE: há um trecho desenhado (caractere que o PDF não traduz: chave, parêntese grande ou sinal de fórmula) na linha “Zn (s) + 2 HCl (aq)  H 2(g) + ZnCl 2(aq” — transcrever lendo a imagem",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "caractere estranho no texto"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q015_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q016",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 16,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Uma criança faleceu após ter colocado uma bijuteria na boca. Os peritos que investigavam o caso desconfiaram de uma contaminação por óxido de chumbo (PbO). Para testar a hipótese, eles dissolveram 20 mg da bijuteria, de forma a obter 10 mL de solução, que foi titulada com H<sub>2</sub>S, segundo a equação abaixo:\n\nPb<sup>2+</sup><sub>(aq)</sub> + H<sub>2</sub>S<sub>(aq)</sub>  PbS<sub>(s)</sub> + 2 H<sup>+</sup><sub>(aq)</sub>\n\nO H<sub>2</sub>S utilizado na titulação foi produzido a partir de 8,8 mg de sulfeto ferroso (FeS) e ácido clorídrico (HCl) em excesso. Ele estava contido num recipiente que registrava pressão de 0,0500 atm. Ao final da titulação, a pressão registrada era de 0,0475 atm, sendo mantidos constantes volume e temperatura.\n\nAssinale a alternativa que apresenta o teor aproximado, em massa, de chumbo presente na bijuteria.\n\nDados – Massa molar (g/mol): H = 1; O = 16; S = 32; Cl = 35,5; Fe = 56; Pb = 207.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "0,1%"
+   },
+   {
+    "letra": "B",
+    "texto": "0,5%"
+   },
+   {
+    "letra": "C",
+    "texto": "2,5%"
+   },
+   {
+    "letra": "D",
+    "texto": "5,2%"
+   },
+   {
+    "letra": "E",
+    "texto": "7,7%"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.625,
+     286.557,
+     546.7159959999999,
+     297.557
+    ],
+    [
+     42.625,
+     299.15700000000004,
+     547.3280009999999,
+     310.15700000000004
+    ],
+    [
+     42.625,
+     311.75700000000006,
+     547.413997,
+     322.75700000000006
+    ],
+    [
+     42.625,
+     324.5570000000001,
+     132.418,
+     335.5570000000001
+    ],
+    [
+     209.88,
+     343.9350000000001,
+     379.64400000000006,
+     354.9570000000001
+    ],
+    [
+     42.62500000000006,
+     369.3770000000002,
+     546.5000000000002,
+     380.3770000000002
+    ],
+    [
+     42.62500000000006,
+     381.9770000000002,
+     547.092997,
+     392.9770000000002
+    ],
+    [
+     42.62500000000006,
+     394.5770000000002,
+     547.25,
+     405.5770000000002
+    ],
+    [
+     42.62500000000006,
+     407.37700000000024,
+     105.22600000000006,
+     418.37700000000024
+    ],
+    [
+     42.62500000000006,
+     432.5770000000003,
+     535.084,
+     443.5770000000003
+    ],
+    [
+     84.625,
+     456.207,
+     487.15700000000004,
+     467.24
+    ],
+    [
+     42.425,
+     489.007,
+     80.393,
+     500.007
+    ],
+    [
+     156.05,
+     489.007,
+     194.018,
+     500.007
+    ],
+    [
+     267.67,
+     489.007,
+     305.068,
+     500.007
+    ],
+    [
+     381.13,
+     489.007,
+     419.09799999999996,
+     500.007
+    ],
+    [
+     487.55,
+     489.007,
+     525.518,
+     500.007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [
+   "PENDENTE: há um trecho desenhado (caractere que o PDF não traduz: chave, parêntese grande ou sinal de fórmula) na linha “Pb 2+ (aq) + H 2 S (aq)  PbS (s) + 2 H ” — transcrever lendo a imagem",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "caractere estranho no texto"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q016_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q017",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 17,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O Ácido Sulfúrico é um produto químico largamente utilizado pela indústria, sendo uma de suas aplicações mais conhecidas o uso como eletrólito em baterias automotivas. Nesse tipo de dispositivo, a concentração e o volume da solução ácida é de 5 mol/L e 7,0 L, respectivamente. Suponha que, para garantir o funcionamento adequado da bateria do seu carro, um estudante de química precisa repor 40% do volume da solução de bateria, tendo, à sua disposição, no laboratório, uma solução concentrada do ácido (M = 18 mol/L).\n\nDados – Massa molar (g/mol): H = 1; O = 16; S = 32.\n\nQual volume aproximado do ácido concentrado esse estudante deve tomar?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "0,4 L"
+   },
+   {
+    "letra": "B",
+    "texto": "0,8 L"
+   },
+   {
+    "letra": "C",
+    "texto": "1,2 L"
+   },
+   {
+    "letra": "D",
+    "texto": "1,9 L"
+   },
+   {
+    "letra": "E",
+    "texto": "2,4 L"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.625,
+     530.407,
+     546.7819959999998,
+     541.407
+    ],
+    [
+     42.625,
+     542.9970000000001,
+     546.8759999999997,
+     553.9970000000001
+    ],
+    [
+     42.625,
+     555.607,
+     547.481,
+     566.607
+    ],
+    [
+     42.625,
+     568.2270000000001,
+     547.3729910000002,
+     579.2270000000001
+    ],
+    [
+     42.625,
+     581.027,
+     547.17399,
+     592.027
+    ],
+    [
+     42.625,
+     593.6270000000001,
+     225.12399800000003,
+     604.6270000000001
+    ],
+    [
+     150.05,
+     615.2270000000001,
+     407.82399999999996,
+     626.26
+    ],
+    [
+     42.625,
+     646.427,
+     415.190996,
+     657.427
+    ],
+    [
+     42.625,
+     668.457,
+     79.933,
+     679.457
+    ],
+    [
+     147.25,
+     668.457,
+     184.55800000000002,
+     679.457
+    ],
+    [
+     253.68,
+     668.457,
+     290.378,
+     679.457
+    ],
+    [
+     365.73,
+     668.457,
+     403.028,
+     679.457
+    ],
+    [
+     461.95,
+     668.457,
+     499.258,
+     679.457
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q017_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q018",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 18,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Para ser utilizada em um certo processo industrial, o teor de cloretos, a alcalinidade e a dureza da água devem ser menores que 100 mg/L. Para fazer essas determinações, 50 mL de água são titulados com AgNO<sub>3</sub> 0,01 M, H<sub>2</sub>SO<sub>4</sub> 0,01 M e EDTA 0,01 M, respectivamente. O resultado para cloretos é expresso em miligramas de cloreto por litro de solução, enquanto para alcalinidade e dureza, os resultados são expressos em miligramas de CaCO<sub>3</sub> por litro de solução. Abaixo, são apresentadas as equações balanceadas para cada uma das determinações:\n\nCl<sup>-</sup> + AgNO<sub>3</sub> → AgCl + NO<sub>3</sub><sup>-</sup>  \nI.\n\nCaCO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> → CaSO<sub>4</sub> + H<sub>2</sub>CO<sub>3</sub>  \nII.\n\nIII. CaCO<sub>3</sub> + EDTA → Ca(EDTA) + H<sub>2</sub>CO<sub>3</sub>\n\nSabendo que, em I, foram gastos 4,0 mL da solução de AgNO<sub>3</sub>; em II, foram utilizados 12,0 mL da solução de ácido sulfúrico; e, em III, foram utilizados 6,0 mL da solução de EDTA, o analista preencheu uma tabela, em que o sinal + significa teor acima do limite permitido para a utilização, enquanto o sinal – indica abaixo do limite permitido para uso no processo industrial.\n\nMassa molar (g/mol): C = 12 O = 16 Cl = 35,5 Ca = 40\n\nAssim, assinale a alternativa que apresenta a tabela que foi preenchida pelo analista.\n\nCloretos Alcalinidade Dureza",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "– – –"
+   },
+   {
+    "letra": "B",
+    "texto": "– + –"
+   },
+   {
+    "letra": "C",
+    "texto": "+ + –"
+   },
+   {
+    "letra": "D",
+    "texto": "– + +"
+   },
+   {
+    "letra": "E",
+    "texto": "+ + +"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.625,
+     46.107000000000085,
+     546.9909959999998,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     546.8209999999998,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000013,
+     547.4960000000001,
+     82.30700000000013
+    ],
+    [
+     42.625000000000114,
+     83.90700000000015,
+     546.5569999999996,
+     94.90700000000015
+    ],
+    [
+     42.625000000000114,
+     96.70700000000011,
+     547.0940030000002,
+     107.70700000000011
+    ],
+    [
+     42.625000000000114,
+     109.30700000000013,
+     331.22100000000023,
+     120.30700000000013
+    ],
+    [
+     217.02745453284803,
+     135.91776202638073,
+     412.00773579463817,
+     148.94280755598072
+    ],
+    [
+     149.974780359248,
+     136.64665174158074,
+     156.02415719605153,
+     148.94280755598072
+    ],
+    [
+     196.556976163856,
+     169.0371336295808,
+     432.5782296805865,
+     182.09066996238073
+    ],
+    [
+     149.974780359248,
+     169.79451414798075,
+     159.05194116044413,
+     182.09066996238073
+    ],
+    [
+     149.974780359248,
+     202.68121085838072,
+     439.6927387713065,
+     215.70625638798072
+    ],
+    [
+     42.62499999999997,
+     237.7270000000001,
+     547.255,
+     248.7270000000001
+    ],
+    [
+     42.625,
+     250.55700000000013,
+     547.3769949999996,
+     261.55700000000013
+    ],
+    [
+     42.625,
+     263.15700000000015,
+     547.357,
+     274.1570000000001
+    ],
+    [
+     42.625,
+     275.7570000000001,
+     392.62999900000005,
+     286.79000000000013
+    ],
+    [
+     133.45,
+     305.157,
+     459.34299999999996,
+     316.157
+    ],
+    [
+     42.62500000000001,
+     351.55700000000024,
+     458.84100899999976,
+     362.55700000000024
+    ],
+    [
+     67.025,
+     376.97700000000003,
+     232.366,
+     387.97700000000003
+    ],
+    [
+     49.425,
+     396.577,
+     89.541,
+     407.61
+    ],
+    [
+     145.65,
+     396.61,
+     151.76600000000002,
+     407.61
+    ],
+    [
+     211.48,
+     396.61,
+     217.596,
+     407.61
+    ],
+    [
+     49.425,
+     409.177,
+     89.541,
+     420.21000000000004
+    ],
+    [
+     145.65,
+     409.177,
+     152.074,
+     420.21000000000004
+    ],
+    [
+     211.48,
+     409.21000000000004,
+     217.596,
+     420.21000000000004
+    ],
+    [
+     49.425,
+     421.777,
+     89.84899999999999,
+     432.81
+    ],
+    [
+     211.27,
+     421.777,
+     217.69400000000002,
+     432.81
+    ],
+    [
+     145.65,
+     421.81,
+     151.76600000000002,
+     432.81
+    ],
+    [
+     49.425,
+     434.377,
+     89.541,
+     445.41
+    ],
+    [
+     145.65,
+     434.377,
+     152.074,
+     445.41
+    ],
+    [
+     211.27,
+     434.377,
+     217.69400000000002,
+     445.41
+    ],
+    [
+     49.425,
+     447.177,
+     89.84899999999999,
+     458.177
+    ],
+    [
+     145.65,
+     447.177,
+     152.074,
+     458.177
+    ],
+    [
+     211.27,
+     447.177,
+     217.69400000000002,
+     458.177
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q018_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q019",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 19,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Sabendo que o KPS do hidróxido de cálcio, Ca(OH)<sub>2</sub>, a 25ºC é igual a 3,2x10<sup>–</sup><sup>5</sup>, assinale a alternativa que apresenta o valor da concentração molar de íons hidroxila (OH<sup>–</sup>) numa solução saturada desse hidróxido a 25ºC.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "2x10<sup>–</sup><sup>2</sup> M"
+   },
+   {
+    "letra": "B",
+    "texto": "4x10<sup>–</sup><sup>2</sup> M"
+   },
+   {
+    "letra": "C",
+    "texto": "8x10<sup>–</sup><sup>2</sup> M"
+   },
+   {
+    "letra": "D",
+    "texto": "1x10<sup>–</sup><sup>3</sup> M"
+   },
+   {
+    "letra": "E",
+    "texto": "2x10<sup>–</sup><sup>3</sup> M"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.625,
+     485.00700000000006,
+     547.185,
+     496.00700000000006
+    ],
+    [
+     42.625,
+     497.8070000000001,
+     547.39,
+     508.8070000000001
+    ],
+    [
+     42.625,
+     510.4070000000001,
+     204.95199999999994,
+     521.4070000000002
+    ],
+    [
+     42.625,
+     535.6070000000001,
+     102.387999,
+     546.6070000000001
+    ],
+    [
+     42.62499999999999,
+     548.4070000000002,
+     102.38799899999998,
+     559.4070000000002
+    ],
+    [
+     42.62499999999998,
+     561.027,
+     101.78799899999999,
+     572.027
+    ],
+    [
+     42.624999999999986,
+     573.6270000000002,
+     102.38799899999998,
+     584.6270000000001
+    ],
+    [
+     42.62499999999998,
+     586.2270000000001,
+     102.38799899999998,
+     597.2270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q020",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 20,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a imagem a seguir:\n\n{{img:1}}\n\nA luz utilizada para escrever as letras do símbolo do Magnésio (Mg, Z = 12) foi produzida a partir da queima de uma fita desse metal, mediante presença de oxigênio, resultando no óxido de magnésio, conforme a equação a seguir:\n\n2 Mg(s) + O<sub>2</sub>(g)  2 MgO(s) ΔH = -1204 kJ\n\nSobre esse processo, são feitas quatro afirmações:\n\nI. A reação ocorre mediante liberação de energia, portanto é exotérmica.  \nII. A queima de 4 gramas de fita de magnésio libera 90,5 kJ de energia.  \nIII. Para a produção de 30 gramas de óxido de magnésio, são liberados 451,5 kJ de energia.  \nIV. A variação de entalpia é negativa, portanto a reação é não espontânea.\n\nDados – Massa molar (g/mol): O = 16; Mg = 24.\n\nEstão **CORRETAS** apenas",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I e III."
+   },
+   {
+    "letra": "B",
+    "texto": "II e III."
+   },
+   {
+    "letra": "C",
+    "texto": "I, II e IV."
+   },
+   {
+    "letra": "D",
+    "texto": "II, III e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "I, III e IV.\n\n{{img:2}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q020_img1.png",
+    "pagina": 13,
+    "bbox": [
+     57.6,
+     68.4,
+     324.0,
+     211.0
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q020_img2.png",
+    "pagina": 13,
+    "bbox": [
+     45.4,
+     490.3,
+     543.6,
+     509.8
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.6,
+     47.270500000000084,
+     199.25870400000002,
+     58.31050000000005
+    ],
+    [
+     57.6,
+     68.4,
+     324.0,
+     210.96
+    ],
+    [
+     332.64,
+     68.02800000000002,
+     547.269744,
+     79.06799999999998
+    ],
+    [
+     332.64,
+     80.62464,
+     547.232208,
+     91.66463999999996
+    ],
+    [
+     332.64,
+     93.34271999999999,
+     547.1505119999999,
+     104.38271999999995
+    ],
+    [
+     332.64,
+     105.93935999999997,
+     547.30728,
+     116.97935999999993
+    ],
+    [
+     332.65104,
+     118.53599999999994,
+     547.227792,
+     129.5759999999999
+    ],
+    [
+     332.64000000000004,
+     131.25407999999993,
+     478.25208,
+     142.2940799999999
+    ],
+    [
+     334.08,
+     150.64944000000003,
+     545.873616,
+     162.94799999999998
+    ],
+    [
+     42.60528000000005,
+     227.8521599999999,
+     293.33472000000006,
+     238.89215999999988
+    ],
+    [
+     64.80672000000004,
+     253.16687999999988,
+     422.87476800000024,
+     264.20687999999984
+    ],
+    [
+     61.79280000000006,
+     265.76351999999986,
+     414.36292800000047,
+     276.8035199999999
+    ],
+    [
+     58.66848000000005,
+     278.36015999999984,
+     514.589568,
+     289.40015999999986
+    ],
+    [
+     57.46512000000007,
+     291.0782399999998,
+     427.1593920000004,
+     302.11823999999984
+    ],
+    [
+     54.36,
+     322.548,
+     287.4596639999999,
+     333.588
+    ],
+    [
+     42.572160000000075,
+     354.1828799999997,
+     174.6801120000001,
+     365.78591999999975
+    ],
+    [
+     42.58320000000006,
+     379.6190399999997,
+     91.49812800000007,
+     390.6590399999997
+    ],
+    [
+     42.57216000000007,
+     392.2156799999997,
+     94.60920000000007,
+     403.2556799999997
+    ],
+    [
+     42.561120000000074,
+     404.81231999999966,
+     104.93712000000005,
+     415.8523199999997
+    ],
+    [
+     42.572160000000075,
+     417.53039999999964,
+     111.06211200000004,
+     428.57039999999967
+    ],
+    [
+     42.561120000000074,
+     430.1270399999996,
+     108.03936000000007,
+     441.16703999999964
+    ],
+    [
+     45.36,
+     490.32,
+     543.6,
+     509.76
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [
+   "PENDENTE: há um trecho desenhado (caractere que o PDF não traduz: chave, parêntese grande ou sinal de fórmula) na linha “2 Mg(s) + O 2 (g)  2 MgO(s) ΔH = -1204 ” — transcrever lendo a imagem",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "caractere estranho no texto"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q020_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q021",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 21,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O contexto histórico de mudanças na estrutura política, econômica e social, pelas quais passava a sociedade brasileira do século XIX, contribuiu para o desenrolar da revolta de 1880, conhecida como Revolta do Vintém. Esse movimento, ocorrido no Rio de Janeiro, se deu em grande medida pelo aumento de um vintém sobre as passagens de bonde.\n\n{{fonte:1}}\n\nEsse evento marcou a história social do Brasil, por apresentar como uma de suas motivações principais a(o)",
+  "fontes": [
+   "*O perigo dos pobres: a Revolta do Vintém*. Disponível em: https://www.maxwell.vrac.puc-rio.br/13593/13593_6.PDF (Adaptado) Acesso em: mai., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "abolição da escravidão."
+   },
+   {
+    "letra": "B",
+    "texto": "queda do regime monárquico."
+   },
+   {
+    "letra": "C",
+    "texto": "melhoria dos serviços públicos."
+   },
+   {
+    "letra": "D",
+    "texto": "aumento do salário dos operários."
+   },
+   {
+    "letra": "E",
+    "texto": "pleito de igualdade para os escravos libertos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.55008000000008,
+     531.2644799999995,
+     547.240368,
+     542.3044799999996
+    ],
+    [
+     42.539040000000114,
+     543.9825599999995,
+     547.2635520000001,
+     555.0225599999994
+    ],
+    [
+     42.550080000000094,
+     556.5791999999994,
+     547.217184,
+     567.6191999999995
+    ],
+    [
+     42.550080000000094,
+     569.2972799999995,
+     308.01019200000025,
+     580.3372799999995
+    ],
+    [
+     50.64,
+     581.133,
+     547.145376,
+     589.173
+    ],
+    [
+     507.5934,
+     590.37096,
+     547.267584,
+     598.4109599999999
+    ],
+    [
+     42.6,
+     607.3081,
+     547.275936,
+     618.3480999999999
+    ],
+    [
+     42.61104,
+     619.90474,
+     111.80976,
+     630.94474
+    ],
+    [
+     42.6,
+     641.7481,
+     179.54236799999995,
+     652.7881
+    ],
+    [
+     42.588960000000014,
+     654.46618,
+     210.136416,
+     665.50618
+    ],
+    [
+     42.577920000000034,
+     667.06282,
+     216.75600000000003,
+     678.10282
+    ],
+    [
+     42.577920000000034,
+     679.7809,
+     230.26895999999996,
+     690.8208999999999
+    ],
+    [
+     42.56688000000004,
+     692.37754,
+     284.7303840000001,
+     703.4175399999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q022",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 22,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a imagem a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nNela se demonstra a seguinte prática socioeconômica em Pernambuco:",
+  "fontes": [
+   "WAGENER, Zacharias. CARLO, Gian. *Escravidão e bens no Recife no Limiar do século XIX*.",
+   "Disponível em: Transversos, Rio de Janeiro, v. 02, n. 02, mar.-set. 2014, pp. 108-120."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o comércio de escravos."
+   },
+   {
+    "letra": "B",
+    "texto": "a venda de indulgências."
+   },
+   {
+    "letra": "C",
+    "texto": "a organização quilombola."
+   },
+   {
+    "letra": "D",
+    "texto": "o mercado de especiarias."
+   },
+   {
+    "letra": "E",
+    "texto": "a venda de índios aldeados."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q022_img1.png",
+    "pagina": 14,
+    "bbox": [
+     129.6,
+     63.4,
+     432.7,
+     247.0
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     46.107000000000085,
+     202.13998400000003,
+     57.107000000000085
+    ],
+    [
+     129.6,
+     63.36,
+     432.72,
+     246.96
+    ],
+    [
+     130.25,
+     250.91899999999998,
+     418.466,
+     257.919
+    ],
+    [
+     130.25,
+     258.919,
+     396.668,
+     265.919
+    ],
+    [
+     42.625,
+     282.9570000000004,
+     393.75499900000017,
+     293.9570000000004
+    ],
+    [
+     42.625,
+     304.7570000000004,
+     183.35699999999997,
+     315.7570000000004
+    ],
+    [
+     42.62499999999999,
+     317.5570000000004,
+     185.76398599999993,
+     328.5570000000004
+    ],
+    [
+     42.625,
+     330.15700000000044,
+     192.37699400000002,
+     341.15700000000044
+    ],
+    [
+     42.625,
+     342.75700000000046,
+     192.94898799999993,
+     353.75700000000046
+    ],
+    [
+     42.625,
+     355.37700000000046,
+     201.75599499999998,
+     366.37700000000046
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q022_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q023",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 23,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\n“Esta é a ocasião, ó Pernambucanos\n\nDe mostrar que somos livres e somos fortes\n\nMelhor é pela Pátria sofrer mil mortes\n\nQue ser escravos de Déspotas Tiranos\n\nBasta de ferros sofrer, basta de enganos  \nVinguemos a Pátria, unamos as sortes\n\nPerca-se fazendas, vidas e consortes\n\nMorram os Déspotas, fiquemos ufanos\n\nTemos Bahia, Ceará e Maranhão\n\nQue podemos dispor à nossa vontade  \nQuebre-se do Soberano o cruel grilhão\n\nExtinga-se do Brasil a majestade\n\nBasta de servilismo, basta de opressão\n\nViva a República, viva a Liberdade”.\n\n{{fonte:1}}\n\nTem-se como principal objetivo político defendido pelo movimento pernambucano o(a)",
+  "fontes": [
+   "Poema anônimo. S/D. Arquivo Nacional (RJ), no Fundo Confederação do Equador. In: ALARCÃO, Janine Pereira de Sousa. *O saber e o fazer:* *República, Federalismo e Separatismo na Confederação do Equador*. Dissertação de Mestrado em História, UNB, 2006."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "fortalecimento da Monarquia."
+   },
+   {
+    "letra": "B",
+    "texto": "intervencionismo nas províncias."
+   },
+   {
+    "letra": "C",
+    "texto": "instituição de um Estado republicano."
+   },
+   {
+    "letra": "D",
+    "texto": "implantação de uma Tirania clássica."
+   },
+   {
+    "letra": "E",
+    "texto": "introdução de um capitalismo de Estado."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.625,
+     386.57700000000045,
+     166.01699599999995,
+     397.57700000000045
+    ],
+    [
+     78.025,
+     408.4100000000005,
+     258.3810000000001,
+     419.4100000000005
+    ],
+    [
+     78.025,
+     420.9770000000005,
+     293.163,
+     431.9770000000005
+    ],
+    [
+     78.025,
+     433.5770000000005,
+     261.395,
+     444.5770000000005
+    ],
+    [
+     78.025,
+     446.3770000000005,
+     268.754,
+     457.3770000000005
+    ],
+    [
+     78.025,
+     464.8070000000005,
+     277.378,
+     475.8070000000005
+    ],
+    [
+     78.025,
+     477.40700000000055,
+     266.97200000000004,
+     488.40700000000055
+    ],
+    [
+     78.025,
+     490.0070000000006,
+     261.40499900000003,
+     501.0070000000006
+    ],
+    [
+     78.025,
+     502.6070000000006,
+     266.983,
+     513.6070000000007
+    ],
+    [
+     78.025,
+     520.9970000000005,
+     240.61600000000007,
+     531.9970000000005
+    ],
+    [
+     78.025,
+     533.8070000000006,
+     263.771,
+     544.8070000000006
+    ],
+    [
+     78.025,
+     546.4070000000006,
+     268.0280000000001,
+     557.4070000000006
+    ],
+    [
+     78.025,
+     564.8270000000006,
+     238.867,
+     575.8270000000006
+    ],
+    [
+     78.025,
+     577.4270000000006,
+     269.986,
+     588.4270000000006
+    ],
+    [
+     78.025,
+     590.0600000000006,
+     254.12400000000008,
+     601.0600000000006
+    ],
+    [
+     77.825,
+     608.1990000000001,
+     540.4250000000001,
+     615.1990000000001
+    ],
+    [
+     77.825,
+     616.1990000000001,
+     450.8460000000001,
+     623.1990000000001
+    ],
+    [
+     42.625,
+     638.4270000000006,
+     464.213002,
+     649.4270000000006
+    ],
+    [
+     42.625,
+     660.2270000000005,
+     206.45199400000007,
+     671.2270000000005
+    ],
+    [
+     42.625,
+     672.8520000000005,
+     223.51399499999997,
+     683.8520000000005
+    ],
+    [
+     42.625,
+     685.452,
+     247.138,
+     696.4520000000006
+    ],
+    [
+     42.625,
+     698.2520000000001,
+     244.98599500000006,
+     709.2520000000001
+    ],
+    [
+     42.625,
+     710.8520000000001,
+     262.816005,
+     721.852
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q024",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 24,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia os quadrinhos a seguir:\n\n{{img:1}}\n\nO movimento descrito na história ficou assim conhecido:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Socialista."
+   },
+   {
+    "letra": "B",
+    "texto": "Anarquista."
+   },
+   {
+    "letra": "C",
+    "texto": "Monarquista."
+   },
+   {
+    "letra": "D",
+    "texto": "Abolicionista."
+   },
+   {
+    "letra": "E",
+    "texto": "Corporativista."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q024_img1.png",
+    "pagina": 15,
+    "bbox": [
+     130.4,
+     64.1,
+     478.1,
+     604.6
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.625,
+     46.107000000000085,
+     202.138,
+     57.107000000000085
+    ],
+    [
+     130.3800049,
+     64.10000000000002,
+     478.08000000000004,
+     604.606
+    ],
+    [
+     42.62499999999997,
+     624.827,
+     317.8659990000001,
+     635.827
+    ],
+    [
+     42.62499999999997,
+     645.4269999999999,
+     114.03099499999998,
+     656.4269999999999
+    ],
+    [
+     42.62499999999997,
+     658.0269999999999,
+     119.62999499999998,
+     669.0269999999999
+    ],
+    [
+     42.62499999999997,
+     670.857,
+     127.62700099999996,
+     681.857
+    ],
+    [
+     42.62499999999997,
+     683.452,
+     128.61699499999997,
+     694.452
+    ],
+    [
+     42.62499999999997,
+     696.0519999999999,
+     135.00799499999994,
+     707.0519999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q024_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q025",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 25,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o seguinte quadrinho:\n\n{{img:1}}\n\nNa adaptação da obra de Aluízio de Azevedo, a figura feminina das últimas décadas do século XIX aparece em oposição à mulher da(do)",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Ditadura."
+   },
+   {
+    "letra": "B",
+    "texto": "Estado Novo."
+   },
+   {
+    "letra": "C",
+    "texto": "Integralismo."
+   },
+   {
+    "letra": "D",
+    "texto": "mundo industrial."
+   },
+   {
+    "letra": "E",
+    "texto": "sociedade burguesa."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q025_img1.png",
+    "pagina": 16,
+    "bbox": [
+     75.6,
+     61.2,
+     474.8,
+     262.8
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     46.107000000000085,
+     193.85599399999995,
+     57.107000000000085
+    ],
+    [
+     75.60000000000001,
+     61.2,
+     474.8324004,
+     262.7600000000007
+    ],
+    [
+     42.625,
+     273.7570000000007,
+     545.6310000000001,
+     284.7570000000007
+    ],
+    [
+     42.62500000000006,
+     286.3570000000007,
+     228.71200000000016,
+     297.3570000000007
+    ],
+    [
+     42.62500000000006,
+     311.75700000000074,
+     108.64099500000006,
+     322.75700000000074
+    ],
+    [
+     42.62500000000006,
+     324.35700000000077,
+     130.30799200000004,
+     335.35700000000077
+    ],
+    [
+     42.62500000000006,
+     336.9570000000008,
+     127.23100100000006,
+     347.9570000000008
+    ],
+    [
+     42.62500000000006,
+     349.7570000000008,
+     147.63599500000004,
+     360.7570000000008
+    ],
+    [
+     42.62500000000006,
+     362.3770000000008,
+     166.18199500000003,
+     373.3770000000008
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q026",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 26,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a imagem a seguir:\n\n{{img:1}}\n\nA obra do escritor norte-americano Edgar Burroughs, retratada na revista, recebeu forte influência do\n\nQual característica está relacionada ao neocolonialismo e ao personagem da imagem em",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Oposição à seleção natural como desenvolvimento"
+   },
+   {
+    "letra": "B",
+    "texto": "Superioridade do homem branco, filho da aristocracia"
+   },
+   {
+    "letra": "C",
+    "texto": "Afirmação de que todas as espécies se desenvolvem"
+   },
+   {
+    "letra": "D",
+    "texto": "Defesa de que os indivíduos não sofrem modificações"
+   },
+   {
+    "letra": "E",
+    "texto": "Contraposição da ideia de que os organismos vivem"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q026_img1.png",
+    "pagina": 16,
+    "bbox": [
+     54.0,
+     422.6,
+     469.8,
+     702.2
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.62500000000006,
+     400.3770000000008,
+     202.06999100000007,
+     411.3770000000008
+    ],
+    [
+     54.0,
+     422.64000000000004,
+     469.77500000000003,
+     702.2000061
+    ],
+    [
+     273.7,
+     427.777,
+     542.2239999999999,
+     438.777
+    ],
+    [
+     273.7,
+     440.377,
+     542.192,
+     451.377
+    ],
+    [
+     273.7,
+     465.807,
+     541.9680000000001,
+     476.807
+    ],
+    [
+     273.7,
+     478.407,
+     541.904,
+     489.407
+    ],
+    [
+     259.27,
+     516.407,
+     541.902,
+     527.407
+    ],
+    [
+     259.27,
+     541.607,
+     541.9609999999999,
+     552.607
+    ],
+    [
+     259.27,
+     567.027,
+     541.7370000000001,
+     578.027
+    ],
+    [
+     259.27,
+     592.2270000000001,
+     542.17,
+     603.227
+    ],
+    [
+     259.27,
+     617.627,
+     541.7700000000002,
+     628.627
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [
+   "imagem 1 tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q026_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q027",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 27,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Qual dos quadros a seguir é uma autêntica século XIX?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "c)\n\nCavalo Assustado pela Tempestade – Eugène Delacroix\n\ne)\n\n{{img:1}}\n\n{{img:2}}\n\n{{img:3}}\n\n{{img:4}}\n\n{{img:5}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q027_img1.png",
+    "pagina": 17,
+    "bbox": [
+     63.4,
+     92.9,
+     211.0,
+     290.2
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q027_img2.png",
+    "pagina": 17,
+    "bbox": [
+     317.5,
+     92.9,
+     477.6,
+     291.2
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q027_img3.png",
+    "pagina": 17,
+    "bbox": [
+     63.4,
+     339.1,
+     259.2,
+     480.2
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q027_img4.png",
+    "pagina": 17,
+    "bbox": [
+     317.5,
+     335.5,
+     545.0,
+     475.2
+    ]
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q027_img5.png",
+    "pagina": 17,
+    "bbox": [
+     63.4,
+     535.0,
+     271.4,
+     684.0
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.625,
+     46.107000000000085,
+     309.89800800000006,
+     57.107000000000085
+    ],
+    [
+     64.025,
+     58.70700000000011,
+     122.49000000000001,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     90.53616000000011,
+     52.488,
+     101.53616000000011
+    ],
+    [
+     63.36,
+     92.88000000000001,
+     210.96,
+     290.20916000000005
+    ],
+    [
+     317.52000000000004,
+     92.88000000000001,
+     477.6,
+     291.20916000000005
+    ],
+    [
+     42.625,
+     333.18616000000003,
+     51.888000000000005,
+     344.18616000000003
+    ],
+    [
+     63.36,
+     339.12,
+     259.2,
+     480.24
+    ],
+    [
+     317.52000000000004,
+     335.52000000000004,
+     545.04,
+     475.2
+    ],
+    [
+     64.025,
+     484.82916,
+     233.24,
+     494.85916000000003
+    ],
+    [
+     64.025,
+     496.42916,
+     143.19,
+     506.42916
+    ],
+    [
+     42.625,
+     531.0361600000001,
+     52.488,
+     542.03616
+    ],
+    [
+     63.36,
+     534.96,
+     271.44,
+     684.0
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [
+   "1 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q027_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q028",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 28,
+  "area": "",
+  "texto_base_id": "P4156-T1",
+  "textos_base_ids": [
+   "P4156-T1"
+  ],
+  "enunciado": "Observe o seguinte quadro:\n\n{{img:1}}\n\nNele se retrata o processo de emancipação política de uma ilha conhecida por Santo Domingo Espanhol, de fundação e cultura espanhola, que, em 1844, se tornou independente do Haiti, que a ocupava militarmente havia 22 anos.\n\nO quadro e o texto tratam, respectivamente, do processo político de qual país da América Latina a seguir?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "México"
+   },
+   {
+    "letra": "B",
+    "texto": "Guiana"
+   },
+   {
+    "letra": "C",
+    "texto": "Suriname"
+   },
+   {
+    "letra": "D",
+    "texto": "Costa Rica"
+   },
+   {
+    "letra": "E",
+    "texto": "República Dominicana"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q028_img1.png",
+    "pagina": 18,
+    "bbox": [
+     177.8,
+     64.8,
+     454.3,
+     236.3
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.625,
+     46.107000000000085,
+     199.872004,
+     57.107000000000085
+    ],
+    [
+     177.84,
+     64.8,
+     454.32,
+     236.2999969
+    ],
+    [
+     42.625,
+     248.52700000000027,
+     547.408996,
+     259.52700000000027
+    ],
+    [
+     42.625,
+     261.15700000000027,
+     547.2519950000001,
+     272.1570000000002
+    ],
+    [
+     42.625,
+     273.75700000000023,
+     222.038003,
+     284.75700000000023
+    ],
+    [
+     42.625,
+     292.1570000000002,
+     547.496,
+     303.1570000000002
+    ],
+    [
+     42.625,
+     304.75700000000023,
+     78.507,
+     315.75700000000023
+    ],
+    [
+     42.625,
+     324.35700000000026,
+     98.707995,
+     335.35700000000026
+    ],
+    [
+     42.625,
+     336.9570000000003,
+     99.510995,
+     347.9570000000003
+    ],
+    [
+     42.625,
+     349.7570000000003,
+     111.094001,
+     360.7570000000003
+    ],
+    [
+     42.625,
+     362.3770000000003,
+     117.880995,
+     373.3770000000003
+    ],
+    [
+     42.625,
+     374.9770000000003,
+     174.024995,
+     385.9770000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q028_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q029",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 29,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o quadro a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nNele está representado qual evento da história do Brasil imperial ocorrido em 1871?",
+  "fontes": [
+   "Victor Meirelles. 1875. Óleo sobre tela. 1,770x2,600cm MuseuImperial/Ibram/MinC/nº 09/2016. Acesso em: mai., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A primeira regência da Princesa Isabel"
+   },
+   {
+    "letra": "B",
+    "texto": "A assinatura da abolição da escravidão"
+   },
+   {
+    "letra": "C",
+    "texto": "O compromisso de abertura dos portos"
+   },
+   {
+    "letra": "D",
+    "texto": "A declaração de guerra contra o Paraguai"
+   },
+   {
+    "letra": "E",
+    "texto": "O acordo de não agressão com a Cisplatina"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q029_img1.png",
+    "pagina": 18,
+    "bbox": [
+     139.0,
+     433.4,
+     397.4,
+     608.4
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.625,
+     412.9770000000003,
+     197.32800100000003,
+     423.9770000000003
+    ],
+    [
+     138.96,
+     433.44,
+     397.44,
+     608.4
+    ],
+    [
+     84.02499999999998,
+     612.4060000000004,
+     505.7579999999995,
+     620.4060000000004
+    ],
+    [
+     42.62499999999998,
+     640.627,
+     452.7179970000001,
+     651.6270000000003
+    ],
+    [
+     42.625,
+     660.227,
+     253.00899900000007,
+     671.227
+    ],
+    [
+     42.625,
+     672.852,
+     255.95299500000002,
+     683.852
+    ],
+    [
+     42.625,
+     685.452,
+     254.76500100000004,
+     696.452
+    ],
+    [
+     42.625,
+     698.252,
+     268.40899900000005,
+     709.252
+    ],
+    [
+     42.625,
+     710.852,
+     278.62299400000006,
+     721.852
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q029_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q030",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 30,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe as seguintes imagens:\n\n{{img:1}}\n\n{{fonte:1}}\n\nAssinale a alternativa que indica o evento histórico que abriu espaço para a existência dessas inovações tecnológicas no século XIX.",
+  "fontes": [
+   "FRAGOSO, Edo. (et al.). *Inovações tecnológicas do século XIX*. Revista de História Contemporânea, 2008."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Revolução Socialista"
+   },
+   {
+    "letra": "B",
+    "texto": "Revolução Francesa"
+   },
+   {
+    "letra": "C",
+    "texto": "Revolução Taylorista"
+   },
+   {
+    "letra": "D",
+    "texto": "Grandes Navegações"
+   },
+   {
+    "letra": "E",
+    "texto": "II Revolução Industrial"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q030_img1.png",
+    "pagina": 19,
+    "bbox": [
+     131.8,
+     69.8,
+     457.9,
+     286.3
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.625,
+     46.107000000000085,
+     218.26999899999998,
+     57.107000000000085
+    ],
+    [
+     131.76,
+     69.84000550000007,
+     457.92,
+     286.32000120000004
+    ],
+    [
+     104.61999999999998,
+     290.7360000000001,
+     485.0280000000001,
+     298.7360000000001
+    ],
+    [
+     42.625,
+     318.95700000000005,
+     547.2020000000001,
+     329.95700000000005
+    ],
+    [
+     42.62500000000006,
+     331.5570000000001,
+     230.13099999999997,
+     342.5570000000001
+    ],
+    [
+     42.62500000000006,
+     354.5770000000001,
+     165.96600000000007,
+     365.5770000000001
+    ],
+    [
+     42.62500000000006,
+     367.17700000000013,
+     164.83999500000007,
+     378.17700000000013
+    ],
+    [
+     42.62500000000006,
+     379.97700000000015,
+     166.43500100000009,
+     390.97700000000015
+    ],
+    [
+     42.62500000000006,
+     392.57700000000017,
+     170.40599500000005,
+     403.57700000000017
+    ],
+    [
+     42.62500000000006,
+     405.1770000000002,
+     172.77099500000003,
+     416.1770000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q030_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q031",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 31,
+  "area": "",
+  "texto_base_id": "P4156-T2",
+  "textos_base_ids": [
+   "P4156-T2"
+  ],
+  "enunciado": "A responsabilidade socioambiental, no atual cenário industrial brasileiro, vem assumindo relevante papel como instrumento de gestão ambiental. Assim, vêm sendo implementadas estratégias para essa gestão. Sobre essas estratégias, analise os itens a seguir:\n\n1. Reciclagem de resíduos e sucatas.  \n2. Redução de energia por quantidade de produtos.\n\n3. Introdução de energia geotérmica para a produção de aço no Sudeste brasileiro.\n\n4. Aumento do uso de água por quantidade de produtos fabricados.  \n5. Controle de gases e emissões gasosas geradas pelas atividades industriais.\n\nEstão **CORRETOS**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "apenas 1 e 4."
+   },
+   {
+    "letra": "B",
+    "texto": "apenas 2 e 3."
+   },
+   {
+    "letra": "C",
+    "texto": "apenas 1, 3 e 5."
+   },
+   {
+    "letra": "D",
+    "texto": "apenas 1, 2 e 5."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 3, 4 e 5."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.625,
+     80.49700000000007,
+     547.4279990000001,
+     91.49700000000007
+    ],
+    [
+     42.625,
+     93.10700000000008,
+     547.41599,
+     104.10700000000008
+    ],
+    [
+     42.625,
+     105.90700000000004,
+     326.747003,
+     116.90700000000004
+    ],
+    [
+     64.025,
+     124.30700000000002,
+     256.542002,
+     135.30700000000002
+    ],
+    [
+     64.025,
+     136.90700000000004,
+     324.8709990000001,
+     147.90700000000004
+    ],
+    [
+     64.025,
+     149.52700000000004,
+     477.957999,
+     160.52700000000004
+    ],
+    [
+     64.025,
+     162.12700000000007,
+     402.61899900000014,
+     173.12700000000007
+    ],
+    [
+     64.025,
+     174.92700000000002,
+     457.3710039999999,
+     185.92700000000002
+    ],
+    [
+     42.625,
+     195.327,
+     136.387003,
+     206.327
+    ],
+    [
+     42.62500000000001,
+     218.52700000000004,
+     130.90798700000002,
+     229.52700000000004
+    ],
+    [
+     42.625000000000014,
+     231.12700000000007,
+     130.85399900000002,
+     242.12700000000007
+    ],
+    [
+     42.625000000000014,
+     243.92700000000002,
+     143.10800500000002,
+     254.92700000000002
+    ],
+    [
+     42.625000000000014,
+     256.557,
+     143.107999,
+     267.557
+    ],
+    [
+     42.625000000000014,
+     269.157,
+     128.26300300000003,
+     280.157
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q031_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q032",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 32,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe com atenção o mapa a seguir:\n\n{{img:1}}\n\nAssinale o título que se ajusta **CORRETAMENTE** ao que está delimitado no mapa com a tonalidade vermelha.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "As áreas de conflitos agrários regionais graves"
+   },
+   {
+    "letra": "B",
+    "texto": "Os espaços de superávit hídrico anual"
+   },
+   {
+    "letra": "C",
+    "texto": "As áreas antropizadas"
+   },
+   {
+    "letra": "D",
+    "texto": "O avanço da pecuária intensiva"
+   },
+   {
+    "letra": "E",
+    "texto": "A drenagem sazonal intermitente"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q032_img1.png",
+    "pagina": 20,
+    "bbox": [
+     110.4,
+     328.3,
+     479.5,
+     699.8
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   20,
+   21
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.62500000000001,
+     304.757,
+     256.34899600000006,
+     315.757
+    ],
+    [
+     110.3800049,
+     328.32,
+     479.52000000000004,
+     699.84
+    ]
+   ],
+   "21": [
+    [
+     42.625,
+     45.90700000000004,
+     546.935996,
+     56.90700000000004
+    ],
+    [
+     42.62499999999994,
+     58.706999999999994,
+     91.03599999999996,
+     69.707
+    ],
+    [
+     42.62499999999994,
+     83.90700000000004,
+     292.5059950000001,
+     94.90700000000004
+    ],
+    [
+     42.62499999999994,
+     96.707,
+     251.09099500000002,
+     107.707
+    ],
+    [
+     42.62499999999994,
+     109.30700000000002,
+     173.43100099999992,
+     120.30700000000002
+    ],
+    [
+     42.62499999999994,
+     121.90700000000004,
+     218.00299499999997,
+     132.90700000000004
+    ],
+    [
+     42.62499999999994,
+     134.49700000000007,
+     225.21899499999998,
+     145.49700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q032_p20.jpg",
+   "revisao/Q032_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q033",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 33,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a fotografia a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nNela se explicita um problema ambiental que ocorre no rio Tietê do Sudeste brasileiro, decorrente do seguinte fato:",
+  "fontes": [
+   "Foto: Rafael Pacheco/ Prefeitura de Pirapora do Bom Jesus Acesso em: jun., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "espuma produzida pelos poluentes, que se acumulam na calha do rio."
+   },
+   {
+    "letra": "B",
+    "texto": "inversão térmica que ocorre no inverno paulista, gerando espumas nos principais rios do Estado."
+   },
+   {
+    "letra": "C",
+    "texto": "acúmulo de resíduos tóxicos, advindos do uso de defensivos agrícolas, no leito dos rios de planície que atravessam a região."
+   },
+   {
+    "letra": "D",
+    "texto": "aumento da densidade das águas fluviais em função da penetração de frentes frias nas bacias hidrográficas, a qual gera recuo das águas poluídas e espumas flutuantes."
+   },
+   {
+    "letra": "E",
+    "texto": "espumas que se formam em face da grande quantidade de sedimentos finos que são extraídos das vertentes pelos processos erosivos acelerados."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q033_img1.png",
+    "pagina": 21,
+    "bbox": [
+     73.4,
+     192.2,
+     515.5,
+     442.1
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.62499999999994,
+     172.52700000000016,
+     222.84400799999997,
+     183.52700000000016
+    ],
+    [
+     73.44,
+     192.24,
+     515.52,
+     442.08000000000004
+    ],
+    [
+     146.84999999999997,
+     448.55600000000015,
+     442.9739999999999,
+     456.55600000000015
+    ],
+    [
+     42.62499999999997,
+     467.60700000000014,
+     535.204983,
+     478.60700000000014
+    ],
+    [
+     42.62499999999994,
+     480.20700000000016,
+     108.63599999999995,
+     491.20700000000016
+    ],
+    [
+     42.62499999999994,
+     508.9970000000002,
+     405.61599199999984,
+     519.9970000000002
+    ],
+    [
+     42.62499999999994,
+     521.6070000000002,
+     536.4529949999999,
+     532.6070000000002
+    ],
+    [
+     42.62499999999994,
+     534.4070000000002,
+     506.3460009999998,
+     545.4070000000002
+    ],
+    [
+     64.02499999999995,
+     546.9970000000003,
+     229.146,
+     557.9970000000002
+    ],
+    [
+     42.62499999999995,
+     559.6270000000002,
+     525.3429949999999,
+     570.6270000000002
+    ],
+    [
+     64.02499999999995,
+     572.2270000000002,
+     428.0280019999999,
+     583.2270000000002
+    ],
+    [
+     42.62499999999995,
+     585.0270000000003,
+     528.7219859999997,
+     596.0270000000003
+    ],
+    [
+     64.02499999999995,
+     597.6270000000002,
+     316.409,
+     608.6270000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q034",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 34,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A imagem de um “rio de lama” percorreu o mundo após o rompimento da barragem de Brumadinho, uma catástrofe ambiental verificada na Região Sudeste do Brasil.\n\n{{img:1}}\n\n{{fonte:1}}\n\nEssa lama avermelhada observada na foto consiste de restos que permanecem após um processo designado",
+  "fontes": [
+   "Disponível em: www.google.com.br. Acesso em: 21/06/2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "injeção de sedimentos arenosos extraídos de minas de calcário metamórfico."
+   },
+   {
+    "letra": "B",
+    "texto": "extração e beneficiamento de ferro."
+   },
+   {
+    "letra": "C",
+    "texto": "depuração de antracito e hulha em barragens de contenção."
+   },
+   {
+    "letra": "D",
+    "texto": "extração e beneficiamento de margas e calcários."
+   },
+   {
+    "letra": "E",
+    "texto": "injeção de mercúrio e argilas em minas de ouro."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q034_img1.png",
+    "pagina": 22,
+    "bbox": [
+     126.7,
+     82.8,
+     467.3,
+     305.3
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.625,
+     46.107000000000085,
+     546.7590000000001,
+     57.139999999999986
+    ],
+    [
+     42.62500000000001,
+     58.70700000000011,
+     427.04199700000004,
+     69.70700000000011
+    ],
+    [
+     126.72,
+     82.8,
+     467.28000000000003,
+     305.28000000000003
+    ],
+    [
+     167.05,
+     309.73600000000005,
+     383.144,
+     317.73600000000005
+    ],
+    [
+     42.62500000000003,
+     330.1570000000002,
+     546.7109999999999,
+     341.1570000000002
+    ],
+    [
+     42.62500000000003,
+     342.75700000000023,
+     93.48900000000002,
+     353.75700000000023
+    ],
+    [
+     42.62500000000003,
+     362.37700000000024,
+     433.1460000000001,
+     373.37700000000024
+    ],
+    [
+     42.62500000000003,
+     374.97700000000026,
+     229.954,
+     385.97700000000026
+    ],
+    [
+     42.62500000000003,
+     387.5770000000003,
+     354.6909920000001,
+     398.5770000000003
+    ],
+    [
+     42.62500000000003,
+     400.3770000000003,
+     299.2760000000001,
+     411.3770000000003
+    ],
+    [
+     42.62500000000003,
+     412.9770000000003,
+     294.6670000000001,
+     423.9770000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q034_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q035",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 35,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As características do processo de desenvolvimento do Brasil possuem raízes profundas. Muitas delas remontam ao processo de descobrimento e à ocupação do território, enquanto outras foram estabelecidas em períodos de exercício do poder por grupos ou segmentos sociais específicos que conseguiram instituir suas perspectivas de sociedade.\n\nConsiderando a temática do texto, analise as afirmativas a seguir:\n\n1. No processo inicial de colonização, o Brasil estava organizado segundo os interesses econômicos da Metrópole, embora internamente tenha ficado submetido à influência das oligarquias agrárias.\n\n2. A economia brasileira funcionou durante muito tempo, predominantemente em função de interesses externos, ou seja, exportando matéria-prima que possuía maior aceitação no mercado.\n\n3. O café já era o principal produto brasileiro de exportação na década de 1840, embora, na segunda metade do século XIX, a produção cafeeira tenha vivenciado profundas transformações.\n\n4. Um padrão triangular de comércio foi estabelecido entre a agricultura, a indústria e o mercado exterior, podendo esse padrão ser visualizado no processo de crescimento brasileiro, a partir da década de 1930.\n\n5. A economia atinge diretamente a vida das pessoas, das empresas e do país. Assim sendo, o Brasil possui uma estrutura de produção grande e complexa, que evolui e apresenta, a cada momento, novas exigências. Estão **CORRETAS** apenas",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1 e 5."
+   },
+   {
+    "letra": "B",
+    "texto": "2, 3 e 4."
+   },
+   {
+    "letra": "C",
+    "texto": "3, 4 e 5."
+   },
+   {
+    "letra": "D",
+    "texto": "1, 2 e 3."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 4 e 5."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   22,
+   23
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.62500000000003,
+     450.9770000000004,
+     547.454998,
+     461.9770000000004
+    ],
+    [
+     42.62500000000003,
+     463.60700000000037,
+     547.032,
+     474.60700000000037
+    ],
+    [
+     42.625,
+     476.2070000000004,
+     547.307002,
+     487.2070000000004
+    ],
+    [
+     42.625,
+     488.8070000000004,
+     306.19599999999997,
+     499.8070000000004
+    ],
+    [
+     42.625,
+     508.40700000000044,
+     364.388005,
+     519.4070000000004
+    ],
+    [
+     64.025,
+     529.2070000000004,
+     546.7900040000001,
+     540.2070000000004
+    ],
+    [
+     78.025,
+     541.8070000000005,
+     547.2599969999998,
+     552.8070000000005
+    ],
+    [
+     78.025,
+     554.4070000000004,
+     176.98099999999997,
+     565.4070000000004
+    ],
+    [
+     64.025,
+     567.0270000000005,
+     547.2909989999998,
+     578.0270000000005
+    ],
+    [
+     78.025,
+     579.8270000000005,
+     547.3720209999999,
+     590.8270000000005
+    ],
+    [
+     78.025,
+     592.4270000000005,
+     124.02700000000002,
+     603.4270000000005
+    ],
+    [
+     64.025,
+     605.0270000000005,
+     547.486,
+     616.0270000000005
+    ],
+    [
+     78.02499999999998,
+     617.6270000000004,
+     547.4119949999998,
+     628.6270000000004
+    ],
+    [
+     78.02499999999998,
+     630.2270000000004,
+     157.005,
+     641.2270000000004
+    ],
+    [
+     64.02499999999998,
+     643.0270000000005,
+     546.526004,
+     654.0270000000005
+    ],
+    [
+     78.02499999999998,
+     655.6270000000001,
+     547.0419880000003,
+     666.6270000000004
+    ],
+    [
+     78.025,
+     668.2570000000001,
+     160.21699999999998,
+     679.2570000000001
+    ],
+    [
+     64.025,
+     680.852,
+     546.834004,
+     691.852
+    ],
+    [
+     78.025,
+     693.652,
+     547.4459959999998,
+     704.652
+    ],
+    [
+     78.025,
+     706.252,
+     217.411995,
+     717.252
+    ]
+   ],
+   "23": [
+    [
+     42.625,
+     62.682390000000055,
+     174.71699999999998,
+     73.68239000000005
+    ],
+    [
+     42.625,
+     85.8823900000001,
+     91.667995,
+     96.8823900000001
+    ],
+    [
+     42.625,
+     98.48239000000012,
+     103.87799500000001,
+     109.48239000000012
+    ],
+    [
+     42.625,
+     111.08239000000003,
+     103.87800100000001,
+     122.08239000000003
+    ],
+    [
+     42.625,
+     123.68239000000005,
+     103.87799500000001,
+     134.68239000000005
+    ],
+    [
+     42.625,
+     136.48239000000012,
+     116.067997,
+     147.48239000000012
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q035_p22.jpg",
+   "revisao/Q035_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q036",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 36,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o climograma a seguir de uma cidade brasileira:\n\n{{img:1}}\n\nCom base nas informações contidas no climograma, conclui-se **CORRETAMENTE** que essa cidade possui um clima",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "subtropical com chuvas de verão."
+   },
+   {
+    "letra": "B",
+    "texto": "equatorial com chuvas de outono-inverno."
+   },
+   {
+    "letra": "C",
+    "texto": "tropical com chuvas de inverno-primavera."
+   },
+   {
+    "letra": "D",
+    "texto": "semiárido com chuvas de verão-outono."
+   },
+   {
+    "letra": "E",
+    "texto": "tropical de altitude com estiagens no inverno."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q036_img1.png",
+    "pagina": 23,
+    "bbox": [
+     112.0,
+     193.3,
+     457.0,
+     438.8
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.625,
+     174.30239000000006,
+     342.5789970000001,
+     185.30239000000006
+    ],
+    [
+     112.0,
+     193.27538000000004,
+     457.0,
+     438.77538000000004
+    ],
+    [
+     42.625,
+     477.78239,
+     547.367002,
+     488.78239
+    ],
+    [
+     42.625,
+     490.78239,
+     121.520993,
+     501.78239
+    ],
+    [
+     42.625,
+     512.58239,
+     227.992997,
+     523.58239
+    ],
+    [
+     42.625,
+     525.1823899999999,
+     268.89699200000007,
+     536.1823899999999
+    ],
+    [
+     42.625,
+     537.7723900000001,
+     271.2900040000001,
+     548.7723900000001
+    ],
+    [
+     42.625,
+     550.58239,
+     259.90800100000007,
+     561.58239
+    ],
+    [
+     42.625,
+     563.1823899999999,
+     284.6849950000001,
+     574.1823899999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q036_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q037",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 37,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observam-se, na ilustração a seguir, as delimitações aproximadas de diversas unidades geológicas do Brasil em escala regional.\n\n{{img:1}}\n\n{{fonte:1}}\n\nAs unidades I, II, III e IV correspondem, **respectivamente**, àquelas denominadas de",
+  "fontes": [
+   "www.google.com.br Acesso em: jul., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Bacia do Meio-Norte, Bacia do Paraná, Escudo Guiano e Bacia Amazônica."
+   },
+   {
+    "letra": "B",
+    "texto": "Bacia do Gurupi, Bacia do Paraná, Bacia do Solimões e Escudo Guiano."
+   },
+   {
+    "letra": "C",
+    "texto": "Bacia do Araguaia-Tocantins, Núcleo Cristalino do Paraná, Bacia de Roraima e Escudo Amazônico."
+   },
+   {
+    "letra": "D",
+    "texto": "Núcleo Cristalino do Nordeste, Núcleo de Escudo Paranaense, Bacia do Apodi e Escudo do Takutu."
+   },
+   {
+    "letra": "E",
+    "texto": "Bacia do Meio-Norte, Núcleo de Escudo Sul-riograndense, Escudo Guiano e Bacia Amazônica."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q037_img1.png",
+    "pagina": 24,
+    "bbox": [
+     151.6,
+     82.1,
+     438.0,
+     357.1
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   24
+  ],
+  "caixas": {
+   "24": [
+    [
+     42.625,
+     46.107000000000085,
+     547.072989,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     239.23299400000013,
+     69.70700000000011
+    ],
+    [
+     151.6300049,
+     82.08,
+     438.02999880000004,
+     357.12
+    ],
+    [
+     347.52,
+     338.336,
+     500.752,
+     346.336
+    ],
+    [
+     42.625,
+     370.97700000000003,
+     455.066,
+     381.9770000000001
+    ],
+    [
+     42.625,
+     396.57700000000006,
+     433.25999299999984,
+     407.57700000000006
+    ],
+    [
+     42.625,
+     409.1770000000001,
+     417.9939949999999,
+     420.1770000000001
+    ],
+    [
+     42.625,
+     421.7770000000001,
+     547.2710169999997,
+     432.7770000000001
+    ],
+    [
+     64.025,
+     434.3770000000001,
+     121.68800000000002,
+     445.3770000000001
+    ],
+    [
+     42.625,
+     447.17700000000013,
+     546.7709949999999,
+     458.17700000000013
+    ],
+    [
+     64.02499999999999,
+     459.80700000000013,
+     100.882997,
+     470.80700000000013
+    ],
+    [
+     42.62499999999999,
+     472.40700000000015,
+     528.3369969999999,
+     483.40700000000015
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q037_p24.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q038",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 38,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A principal característica do relevo brasileiro é, sem dúvida, a modéstia de suas altitudes, segundo afirmou certa vez o geógrafo Aroldo de Azevedo. Pouco mais de 3% do território brasileiro encontram-se em altitudes que superam os 900m. Há estados onde predominam os terrenos com baixas altitudes, a exemplo do Amazonas e do Pará. É **CORRETO** afirmar que essa modéstia deriva da",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "ocorrência de movimentos orogenéticos que se verificaram ao longo do Cenozoico, especialmente nos estados do Amazonas e Pará."
+   },
+   {
+    "letra": "B",
+    "texto": "colisão das placas Sulamericana e de Nazca que acarretou uma subsidência generalizada do território brasileiro."
+   },
+   {
+    "letra": "C",
+    "texto": "conjugação de fatores endógenos e exógenos, que atuaram num passado longínquo, contribuindo para a consumação das amplas superfícies de erosão e áreas de subsidência da crosta terrestre."
+   },
+   {
+    "letra": "D",
+    "texto": "invasão sucessiva das águas do oceano Atlântico sobre o continente brasileiro, durante as fases glaciais do Quaternário, que provocavam o recuo da linha de costa, sobretudo nas regiões Sudeste e Nordeste do país."
+   },
+   {
+    "letra": "E",
+    "texto": "ação eficaz dos processos erosivos fluviais em decorrência do predomínio das condições climáticas temperadas, reinantes ao longo do Terciário e do Quaternário."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   24
+  ],
+  "caixas": {
+   "24": [
+    [
+     42.625,
+     510.4070000000002,
+     546.9139959999999,
+     521.4070000000002
+    ],
+    [
+     42.625,
+     522.9970000000003,
+     546.637993,
+     533.9970000000002
+    ],
+    [
+     42.625,
+     535.6070000000002,
+     547.1540030000001,
+     546.6070000000002
+    ],
+    [
+     42.625,
+     548.2070000000002,
+     547.3389950000001,
+     559.2070000000002
+    ],
+    [
+     42.625,
+     561.0270000000003,
+     54.941,
+     572.0270000000002
+    ],
+    [
+     42.625,
+     586.2270000000002,
+     547.3939990000001,
+     597.2270000000002
+    ],
+    [
+     64.02499999999998,
+     599.0270000000003,
+     232.33599999999998,
+     610.0270000000002
+    ],
+    [
+     42.62499999999998,
+     611.6270000000002,
+     546.770995,
+     622.6270000000002
+    ],
+    [
+     64.02499999999998,
+     624.2270000000002,
+     154.98399999999998,
+     635.2270000000002
+    ],
+    [
+     42.62499999999998,
+     636.8270000000002,
+     547.1489939999998,
+     647.8270000000002
+    ],
+    [
+     64.02499999999998,
+     649.6270000000002,
+     539.777992,
+     660.6270000000002
+    ],
+    [
+     42.62499999999998,
+     662.2270000000002,
+     546.715995,
+     673.2270000000002
+    ],
+    [
+     64.02499999999998,
+     674.8520000000002,
+     546.7269999999999,
+     685.8520000000002
+    ],
+    [
+     64.02499999999998,
+     687.4520000000002,
+     203.57099999999994,
+     698.4520000000002
+    ],
+    [
+     42.62499999999998,
+     700.2520000000002,
+     546.814995,
+     711.2520000000002
+    ],
+    [
+     64.02499999999998,
+     712.8520000000002,
+     419.7029929999999,
+     723.8520000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q038_p24.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q039",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 39,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Examine a figura a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nDo ponto de vista geoeconômico, essa figura representa",
+  "fontes": [
+   "Disponível em: www.ibge.com.br"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "os espaços da cafeicultura e da carcinocultura."
+   },
+   {
+    "letra": "B",
+    "texto": "a concentração da produção de cana-de-açúcar."
+   },
+   {
+    "letra": "C",
+    "texto": "as áreas de maior densidade da caprinocultura."
+   },
+   {
+    "letra": "D",
+    "texto": "os espaços de produção de soja e manga."
+   },
+   {
+    "letra": "E",
+    "texto": "as áreas mais expressivas da Reforma Agrária."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q039_img1.png",
+    "pagina": 25,
+    "bbox": [
+     99.1,
+     77.8,
+     490.1,
+     437.3
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   25
+  ],
+  "caixas": {
+   "25": [
+    [
+     42.625,
+     54.05317000000014,
+     191.70800199999996,
+     65.05317000000014
+    ],
+    [
+     99.125,
+     77.79616999999996,
+     490.125,
+     437.25618000000003
+    ],
+    [
+     236.68,
+     446.70217,
+     352.93199999999996,
+     454.70217
+    ],
+    [
+     42.625,
+     465.75317,
+     318.5589990000001,
+     476.75317
+    ],
+    [
+     42.625,
+     487.75317,
+     293.24499700000007,
+     498.75317
+    ],
+    [
+     42.625,
+     500.35317,
+     301.558001,
+     511.35317
+    ],
+    [
+     42.625,
+     512.94317,
+     296.35800300000017,
+     523.94317
+    ],
+    [
+     42.625,
+     525.55317,
+     271.32799200000005,
+     536.55317
+    ],
+    [
+     42.625,
+     538.3531700000001,
+     295.757991,
+     549.35317
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q039_p25.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q040",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 40,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um dos principais problemas ambientais das grandes cidades brasileiras é a questão da geração dos resíduos sólidos. Segundo dados fornecidos, uma metrópole como São Paulo gera, por dia, 15 mil toneladas ou mais de lixo (fonte: prefeitura.sp.gov.br). Para enfrentar essa realidade, foram criados os aterros sanitários, que acarretam diversos benefícios, conforme os mencionados a seguir, **EXCETO**:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Atraem investimentos para a produção de créditos de carbono."
+   },
+   {
+    "letra": "B",
+    "texto": "Colaboram para a redução da emissão de gases do efeito estufa."
+   },
+   {
+    "letra": "C",
+    "texto": "São uma opção barata de produção de energia eólica e térmica em grandes cidades do Sudeste brasileiro."
+   },
+   {
+    "letra": "D",
+    "texto": "Representam uma fonte de energia renovável."
+   },
+   {
+    "letra": "E",
+    "texto": "Eliminam a ocorrência de odores desagradáveis na baixa troposfera sobre as cidades."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   25
+  ],
+  "caixas": {
+   "25": [
+    [
+     42.625,
+     576.17317,
+     547.0139970000001,
+     587.17317
+    ],
+    [
+     42.625,
+     588.97317,
+     547.0520029999999,
+     599.97317
+    ],
+    [
+     42.625,
+     601.57317,
+     547.1260000000001,
+     612.57317
+    ],
+    [
+     42.625,
+     613.97317,
+     533.438,
+     624.97317
+    ],
+    [
+     42.625,
+     639.57317,
+     370.8330020000001,
+     650.57317
+    ],
+    [
+     42.625,
+     652.17317,
+     383.51899399999996,
+     663.17317
+    ],
+    [
+     42.625,
+     664.77317,
+     546.699006,
+     675.77317
+    ],
+    [
+     64.025,
+     677.40317,
+     111.63300000000001,
+     688.40317
+    ],
+    [
+     42.625,
+     690.19817,
+     290.7939880000001,
+     701.19817
+    ],
+    [
+     42.625,
+     702.79817,
+     485.73698899999994,
+     713.79817
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q040_p25.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q041",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 41,
+  "area": "",
+  "texto_base_id": "P4156-T3",
+  "textos_base_ids": [
+   "P4156-T3"
+  ],
+  "enunciado": "Os grupos sociais se constituem no elemento mais importante do estudo da Sociologia, pois é em seu interior que ocorrem as interações sociais, que são objeto de estudo dos sociólogos. Não há interação social sem a criação de um grupo social de algum tipo e, por outro lado, obviamente, não há grupo social se não houver interação humana.\n\n{{fonte:1}}\n\nOs grupos utilizam um conjunto sistemático de forças, que mantém os membros em interação e direcionados aos objetivos da sociedade. Sobre esse conjunto, qual das afirmativas **NÃO** indica uma dessas forças de sustentação dos grupos sociais?",
+  "fontes": [
+   "DIAS, Reinaldo. **Introdução à Sociologia.** 2. ed. São Paulo: Pearson, 2010, p. 162."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Liderança"
+   },
+   {
+    "letra": "B",
+    "texto": "Sanções"
+   },
+   {
+    "letra": "C",
+    "texto": "Símbolos"
+   },
+   {
+    "letra": "D",
+    "texto": "Valores"
+   },
+   {
+    "letra": "E",
+    "texto": "Anomia"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     42.625,
+     83.10700000000008,
+     546.5729959999996,
+     94.10700000000008
+    ],
+    [
+     42.625,
+     95.70700000000011,
+     547.2650039999997,
+     106.70700000000011
+    ],
+    [
+     42.625,
+     108.30700000000013,
+     546.6999999999997,
+     119.30700000000013
+    ],
+    [
+     42.625,
+     121.10700000000008,
+     268.8620000000001,
+     132.10700000000008
+    ],
+    [
+     211.07999999999998,
+     138.89300000000014,
+     547.472006,
+     147.89300000000014
+    ],
+    [
+     42.62500000000006,
+     163.52700000000016,
+     547.220003,
+     174.52700000000016
+    ],
+    [
+     42.62500000000006,
+     176.12700000000018,
+     547.403996,
+     187.12700000000018
+    ],
+    [
+     42.625,
+     188.92700000000013,
+     288.31400400000007,
+     199.92700000000013
+    ],
+    [
+     42.625,
+     214.12700000000018,
+     109.091005,
+     225.12700000000018
+    ],
+    [
+     42.625,
+     226.92700000000013,
+     103.481005,
+     237.92700000000013
+    ],
+    [
+     42.625,
+     239.52700000000016,
+     106.48400000000001,
+     250.52700000000016
+    ],
+    [
+     42.625,
+     252.15700000000015,
+     97.89300499999999,
+     263.15700000000015
+    ],
+    [
+     42.625,
+     264.7570000000002,
+     97.915005,
+     275.7570000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q041_p26.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q042",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 42,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A cultura pernambucana é diversificada e rica em tradições e manifestações populares. Isso resulta das influências luso-brasileira, africana, indígena, judaica e holandesa. As manifestações folclóricas pernambucanas representam essa diversidade nos vários aspectos que compõem a cultura brasileira. Sobre essa diversidade, analise as afirmativas a seguir:\n\nI. A literatura pernambucana teve um papel importante na compreensão da cultura nacional. Dentre os escritores mais destacados, podemos citar Manuel Bandeira, Paulo Freire, Gilberto Freyre e João Cabral de Melo Neto.\n\nII. O Maracatu pernambucano é classificado em Baque Solto e Baque Virado. O primeiro recebeu forte influência dos ritmos africanos, enquanto o segundo tem sua base de formação nas tradições rurais da Zona da Mata.\n\nIII. O Xaxado é uma dança típica de Pernambuco, que foi bastante disseminada pelo Nordeste, especialmente pelos integrantes do grupo de Lampião.\n\nIV. A culinária pernambucana tem forte influência na produção de açúcar, no período colonial. Assim, o bolo de rolo, o nego-bom e a cartola são exemplos de doces pernambucanos, que tiveram influência nesse período da história do Estado.\n\nV. As agremiações carnavalescas em Pernambuco é parte da manifestação popular, tendo sua origem após a abolição da escravidão, com comemorações católicas para homenagear os santos padroeiros do Recife.\n\nEstão **CORRETAS** apenas",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II, III e IV."
+   },
+   {
+    "letra": "B",
+    "texto": "II e V."
+   },
+   {
+    "letra": "C",
+    "texto": "I, II, III e V."
+   },
+   {
+    "letra": "D",
+    "texto": "I, III e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "I, III, IV e V."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     42.625,
+     302.7570000000002,
+     547.496,
+     313.7570000000002
+    ],
+    [
+     42.625,
+     315.3570000000002,
+     546.9949979999999,
+     326.3570000000002
+    ],
+    [
+     42.625,
+     328.1570000000002,
+     546.6780000000001,
+     339.1570000000002
+    ],
+    [
+     42.625,
+     340.75700000000023,
+     365.57298800000007,
+     351.75700000000023
+    ],
+    [
+     63.025,
+     365.97700000000026,
+     546.741996,
+     376.97700000000026
+    ],
+    [
+     77.625,
+     378.5770000000003,
+     546.7129929999996,
+     389.5770000000003
+    ],
+    [
+     77.625,
+     391.3770000000003,
+     252.33800000000005,
+     402.3770000000003
+    ],
+    [
+     60.025,
+     403.9770000000003,
+     547.099001,
+     414.9770000000003
+    ],
+    [
+     77.625,
+     416.57700000000034,
+     547.2549959999999,
+     427.57700000000034
+    ],
+    [
+     77.625,
+     429.17700000000036,
+     242.32699899999997,
+     440.17700000000036
+    ],
+    [
+     56.825,
+     441.9770000000004,
+     547.6380029999998,
+     452.9770000000004
+    ],
+    [
+     77.625,
+     454.5770000000004,
+     345.292004,
+     465.5770000000004
+    ],
+    [
+     55.625,
+     467.2070000000004,
+     547.3249989999999,
+     478.2070000000004
+    ],
+    [
+     77.625,
+     479.8070000000004,
+     547.1400020000001,
+     490.8070000000004
+    ],
+    [
+     77.625,
+     492.6070000000004,
+     345.758,
+     503.6070000000004
+    ],
+    [
+     58.82499999999999,
+     505.20700000000045,
+     547.4789959999998,
+     516.2070000000004
+    ],
+    [
+     77.625,
+     517.8070000000005,
+     547.3700009999999,
+     528.8070000000005
+    ],
+    [
+     77.625,
+     530.4070000000004,
+     217.55599999999995,
+     541.4070000000004
+    ],
+    [
+     42.625,
+     555.6070000000004,
+     174.71699999999998,
+     566.6070000000004
+    ],
+    [
+     42.624999999999986,
+     581.0270000000005,
+     114.667993,
+     592.0270000000005
+    ],
+    [
+     42.625,
+     593.827,
+     87.08299600000002,
+     604.827
+    ],
+    [
+     42.625,
+     606.427,
+     110.87799800000002,
+     617.427
+    ],
+    [
+     42.625,
+     619.027,
+     102.46899400000001,
+     630.027
+    ],
+    [
+     42.625,
+     631.627,
+     115.86699300000002,
+     642.627
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q042_p26.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q043",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 43,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o seguinte texto:\n\n{{img:1}}\n\n{{fonte:1}}\n\nA manchete do jornal chama a atenção para o reconhecimento dos indivíduos como membros de um grupo (Estado), tendo garantidos direitos e deveres referentes a essa condição. Sociologicamente, isso se refere à cidadania. Sobre essa temática, que direito foi garantido segundo o texto do jornal?",
+  "fontes": [
+   "Disponível em: <<https://brasil.estadao.com.br/blogs/arquivo/aconteceu-em-27-de-junho-5/>> Acesso em: 15/06/2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Político"
+   },
+   {
+    "letra": "B",
+    "texto": "Civil"
+   },
+   {
+    "letra": "C",
+    "texto": "Partidário"
+   },
+   {
+    "letra": "D",
+    "texto": "Sexual"
+   },
+   {
+    "letra": "E",
+    "texto": "Migratório"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q043_img1.png",
+    "pagina": 27,
+    "bbox": [
+     49.0,
+     75.6,
+     541.4,
+     243.4
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   27
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.625,
+     54.06023000000005,
+     197.04100399999996,
+     66.06023000000005
+    ],
+    [
+     48.96,
+     75.60000000000001,
+     541.44,
+     243.36
+    ],
+    [
+     84.625,
+     246.65223000000003,
+     504.974,
+     254.65223000000003
+    ],
+    [
+     42.625,
+     269.10323,
+     547.3120080000001,
+     280.10323
+    ],
+    [
+     42.625,
+     281.70323,
+     547.496,
+     292.70323
+    ],
+    [
+     42.625,
+     294.30323000000004,
+     505.4190019999997,
+     305.30323000000004
+    ],
+    [
+     42.625,
+     319.70323,
+     96.519006,
+     330.70323
+    ],
+    [
+     42.625,
+     334.30323000000004,
+     81.437005,
+     345.30323000000004
+    ],
+    [
+     42.625,
+     348.70323,
+     107.496,
+     359.70323
+    ],
+    [
+     42.625,
+     363.32323,
+     94.43900500000001,
+     374.32323
+    ],
+    [
+     42.625,
+     377.92323000000005,
+     109.089003,
+     388.92323000000005
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q043_p27.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q044",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 44,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a charge a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nA charge apresenta um tipo de relação comum nas sociedades modernas capitalistas. Sobre o conceito sociológico nela destacado, é **CORRETO** afirmar que",
+  "fontes": [
+   "Disponível em: <<http://cafecomcharge.blogspot.com/2016/05/1-de-maio.html>> Acesso em: 20/06/2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o fordismo é um sistema de produção em massa, no qual o operário se torna um sujeito multifuncional, ou seja, deve se adequar às diferentes funções do processo produtivo e, por isso, tem um importante papel nas relações sociais no local de atividade."
+   },
+   {
+    "letra": "B",
+    "texto": "o sistema de produção flexível tem como perspectiva fazer uma grande distribuição dos ganhos de produtividade por meio dos salários. Por isso, há um desincentivo a prêmios por produtividade e participação nos resultados."
+   },
+   {
+    "letra": "C",
+    "texto": "os capitalistas inventaram, após a recessão de 1970, novas formas de elevar a produtividade do trabalho e aumentar o lucro por meio da flexibilização do mercado e do trabalho."
+   },
+   {
+    "letra": "D",
+    "texto": "a teoria marxista consegue explicar essas relações como produto histórico de desigualdades existentes entre os grupos, com base no tipo de estamento social no qual o sujeito nasceu."
+   },
+   {
+    "letra": "E",
+    "texto": "a sociedade contemporânea organiza as relações de trabalho com base no sistema de parentesco, em que domina a solidariedade mecânica na maneira de produzir os bens."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q044_img1.png",
+    "pagina": 27,
+    "bbox": [
+     145.4,
+     426.9,
+     444.4,
+     672.7
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   27,
+   28
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.625,
+     415.92323000000005,
+     193.20198899999997,
+     426.92323000000005
+    ],
+    [
+     145.38,
+     426.90623000000005,
+     444.35,
+     672.65623
+    ],
+    [
+     108.02,
+     689.9772300000001,
+     481.566,
+     697.9772300000001
+    ]
+   ],
+   "28": [
+    [
+     42.625,
+     59.35065000000009,
+     546.865,
+     70.35065000000009
+    ],
+    [
+     42.625,
+     71.74065000000007,
+     347.981997,
+     82.74065000000007
+    ],
+    [
+     42.625,
+     97.15065000000004,
+     547.0850009999999,
+     108.15065000000004
+    ],
+    [
+     60.625,
+     109.95065000000011,
+     547.0400060000001,
+     120.95065000000011
+    ],
+    [
+     60.625,
+     122.55065000000002,
+     390.77899999999994,
+     133.55065000000002
+    ],
+    [
+     42.625,
+     135.15065000000004,
+     546.7700049999999,
+     146.15065000000004
+    ],
+    [
+     60.625,
+     147.74065000000007,
+     547.0319869999998,
+     158.74065000000007
+    ],
+    [
+     60.625,
+     160.57065000000011,
+     197.73999999999998,
+     171.57065000000011
+    ],
+    [
+     42.625,
+     173.17065000000002,
+     546.7809999999997,
+     184.17065000000002
+    ],
+    [
+     60.625,
+     185.77065000000005,
+     453.1790000000001,
+     196.77065000000005
+    ],
+    [
+     42.625,
+     198.37065000000007,
+     546.7810049999999,
+     209.37065000000007
+    ],
+    [
+     60.625,
+     211.17065000000002,
+     505.4079869999997,
+     222.17065000000002
+    ],
+    [
+     42.625,
+     223.77065000000005,
+     547.638004,
+     234.77065000000005
+    ],
+    [
+     60.625,
+     236.37065000000007,
+     427.999007,
+     247.37065000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q044_p27.jpg",
+   "revisao/Q044_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q045",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 45,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a tirinha a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nCalvin faz uma contestação às normas criadas pelo grupo social para estruturar e organizar as relações entre os membros. Como se classifica sociologicamente o comportamento de Calvin?",
+  "fontes": [
+   "Disponível em: << https://cultura.estadao.com.br/galerias/>> Acesso em: 20/06/2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Disfuncional"
+   },
+   {
+    "letra": "B",
+    "texto": "Instrumental"
+   },
+   {
+    "letra": "C",
+    "texto": "Funcional"
+   },
+   {
+    "letra": "D",
+    "texto": "Estrutural"
+   },
+   {
+    "letra": "E",
+    "texto": "Habitual"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q045_img1.png",
+    "pagina": 28,
+    "bbox": [
+     48.9,
+     290.1,
+     540.8,
+     446.5
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   28
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.625,
+     274.40065,
+     189.36899499999998,
+     285.40065
+    ],
+    [
+     48.875,
+     290.07366,
+     540.815,
+     446.47365
+    ],
+    [
+     143.65,
+     447.39965,
+     445.974,
+     455.39965
+    ],
+    [
+     42.625,
+     475.65065,
+     546.2819999999999,
+     486.65065
+    ],
+    [
+     42.625,
+     488.25065,
+     505.1089999999998,
+     499.25065
+    ],
+    [
+     42.625,
+     513.65065,
+     120.597005,
+     524.65065
+    ],
+    [
+     42.625,
+     528.24065,
+     121.224005,
+     539.24065
+    ],
+    [
+     42.625,
+     542.85765,
+     108.40899999999999,
+     554.85765
+    ],
+    [
+     42.625,
+     558.24065,
+     107.82600499999998,
+     569.24065
+    ],
+    [
+     42.625,
+     572.87765,
+     101.02800000000002,
+     584.87765
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q045_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4156-Q046",
+  "prova_id": "P4156",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 46,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\n**Soneto das buzinas**\n\nBrasília tem sons de quietude,  \na gente em silêncio se afina.  \nA paz é uma nossa virtude:  \nvivemos aqui sem buzina.  \nPorém, se nos falta a justiça,  \nse o mal do tirano domina,  \nmudanças verás na premissa:  \na gente recorre à buzina.  \nSe nossa esperança é pó,  \na luz-liberdade ilumina  \no grito, a voz, o gogó.  \nMudamos, então, a rotina,  \ntal como um clamor Jericó:  \nBuzina! Brasília, buzina!\n\n{{fonte:1}}\n\nO poema apresenta uma dimensão importante da ação coletiva como manifestação da cidadania. Com base nesse conceito sociológico, assinale a alternativa **INCORRETA**.",
+  "fontes": [
+   "ANTUNES, Jorge. Soneto das buzinas. **Correio Braziliense,** Brasília, 20 out. 2009. Caderno Diversão e Arte, p. 01. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A mobilização dos membros de um grupo tem como objetivo mudar ou conservar as relações sociais numa dada sociedade."
+   },
+   {
+    "letra": "B",
+    "texto": "A ação coletiva tem um projeto, ou seja, a elaboração de estratégias de articulação e ação efetiva dos membros com base nos objetivos da manifestação."
+   },
+   {
+    "letra": "C",
+    "texto": "A ideologia é um elemento importante na constituição dessa ação e se refere às ideias que os membros fazem da sociedade em que vivem."
+   },
+   {
+    "letra": "D",
+    "texto": "A organização das ações coletivas possui uma estrutura hierárquica, centralizada em um corpo dirigente fixo e determinada pelos membros com posições sociais superiores."
+   },
+   {
+    "letra": "E",
+    "texto": "As ações coletivas podem ser classificadas como lutas por redistribuição, quando os membros procuram eliminar injustiças sociais ou econômicas e por reconhecimento, quando o objetivo é corrigir ou eliminar injustiças culturais ou políticas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.625,
+     52.287360000000035,
+     162.61699499999997,
+     63.287360000000035
+    ],
+    [
+     243.27,
+     77.28736000000004,
+     346.57599400000004,
+     88.28736000000004
+    ],
+    [
+     220.88,
+     98.28736000000004,
+     369.017,
+     109.28736000000004
+    ],
+    [
+     225.27,
+     110.88736000000006,
+     364.60699999999997,
+     121.88736000000006
+    ],
+    [
+     228.27,
+     123.48735999999997,
+     361.634,
+     134.48735999999997
+    ],
+    [
+     231.68,
+     136.08736,
+     358.21299999999997,
+     147.08736
+    ],
+    [
+     224.48,
+     148.88736000000006,
+     365.7100009999999,
+     159.88736000000006
+    ],
+    [
+     230.27,
+     161.50736000000006,
+     359.839,
+     172.50736000000006
+    ],
+    [
+     221.68,
+     174.10735999999997,
+     368.501004,
+     185.10735999999997
+    ],
+    [
+     233.88,
+     186.70736,
+     356.132999,
+     197.70736
+    ],
+    [
+     231.08,
+     199.50736000000006,
+     359.043,
+     210.50736000000006
+    ],
+    [
+     240.08,
+     212.10735999999997,
+     349.93000399999994,
+     223.10735999999997
+    ],
+    [
+     242.08,
+     224.70736,
+     348.076,
+     235.70736
+    ],
+    [
+     231.08,
+     237.30736000000002,
+     358.932989,
+     248.30736000000002
+    ],
+    [
+     229.27,
+     250.10735999999997,
+     360.63199999999995,
+     261.10735999999997
+    ],
+    [
+     236.08,
+     262.73735999999997,
+     353.835,
+     273.73735999999997
+    ],
+    [
+     189.45,
+     287.51636,
+     406.28400000000005,
+     295.51636
+    ],
+    [
+     189.45,
+     296.71636,
+     420.53800000000007,
+     304.71636
+    ],
+    [
+     42.625,
+     322.53736000000004,
+     546.6449999999999,
+     333.53736000000004
+    ],
+    [
+     42.625,
+     334.93736,
+     381.188,
+     345.93736
+    ],
+    [
+     42.625,
+     360.55736,
+     546.759005,
+     371.55736
+    ],
+    [
+     60.625,
+     373.15736000000004,
+     208.729,
+     384.15736000000004
+    ],
+    [
+     42.625,
+     385.75736,
+     546.7150049999999,
+     396.75736
+    ],
+    [
+     60.625,
+     398.35736,
+     332.05300300000005,
+     409.35736
+    ],
+    [
+     42.625,
+     411.15736000000004,
+     546.7039999999998,
+     422.15736000000004
+    ],
+    [
+     60.625,
+     423.75736,
+     282.5060000000001,
+     434.75736
+    ],
+    [
+     42.625,
+     436.35736,
+     547.352004,
+     447.35736
+    ],
+    [
+     60.625,
+     448.95736,
+     438.9150000000001,
+     459.95736
+    ],
+    [
+     42.625,
+     461.75736,
+     546.7920049999999,
+     472.75736
+    ],
+    [
+     60.625,
+     474.38736,
+     547.3409989999999,
+     485.38736
+    ],
+    [
+     60.625,
+     486.98736,
+     305.023,
+     497.98736
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2020/2020-2º dia.pdf",
+  "gabarito_origem": [
+   "P4158"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q046_p29.jpg"
+  ]
+ }
+]

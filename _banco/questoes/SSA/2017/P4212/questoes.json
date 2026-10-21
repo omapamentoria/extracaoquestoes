@@ -1,0 +1,6424 @@
+[
+ {
+  "id": "P4212-Q001",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 1,
+  "area": "",
+  "texto_base_id": "P4212-T1",
+  "textos_base_ids": [
+   "P4212-T1"
+  ],
+  "enunciado": "Do ponto de vista temático, o Texto 1 se constrói tendo como foco a abordagem",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "das maléficas consequências da corrupção para a imagem do Brasil."
+   },
+   {
+    "letra": "B",
+    "texto": "do senso comum de que o grande mal do nosso país é o jeitinho brasileiro."
+   },
+   {
+    "letra": "C",
+    "texto": "do preconceito generalizado que marcou o processo colonizatório brasileiro."
+   },
+   {
+    "letra": "D",
+    "texto": "do forte potencial que tem o Brasil para avançar como povo ou como nação."
+   },
+   {
+    "letra": "E",
+    "texto": "das causas históricas que explicam as principais mazelas do nosso país."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.6,
+     73.70528000000002,
+     447.5668799999998,
+     84.74527999999998
+    ],
+    [
+     42.6,
+     100.10528,
+     400.2623999999998,
+     111.14528000000007
+    ],
+    [
+     42.6,
+     112.82528000000002,
+     430.33871999999974,
+     123.8652800000001
+    ],
+    [
+     42.6,
+     125.42527999999993,
+     435.94359999999995,
+     136.46528
+    ],
+    [
+     42.6,
+     138.14527999999996,
+     436.50199999999995,
+     149.18528000000003
+    ],
+    [
+     42.6,
+     150.74527999999998,
+     419.82392,
+     161.78527999999994
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q002",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 2,
+  "area": "",
+  "texto_base_id": "P4212-T1",
+  "textos_base_ids": [
+   "P4212-T1"
+  ],
+  "enunciado": "O autor do Texto 1 traz vários argumentos para a defesa de seus pontos de vista. Assinale a alternativa que sintetiza **CORRETAMENTE** um desses argumentos.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A raiz de todos os males da Nação é o ‘jeitinho brasileiro’, o maior responsável pela cultura da corrupção que impera no país."
+   },
+   {
+    "letra": "B",
+    "texto": "A violência física contra as mulheres, nos nossos dias, tem origem no genocídio indígena e na escravidão africana."
+   },
+   {
+    "letra": "C",
+    "texto": "O grande índice de morte de negros nas periferias é decorrência da falta de engajamento social, tanto do Estado como da religião cristã."
+   },
+   {
+    "letra": "D",
+    "texto": "A hierarquização das raças, causa do paternalismo, foi criada pela Igreja, que, sob a justificativa da fé, queria expandir o seu domínio."
+   },
+   {
+    "letra": "E",
+    "texto": "Nos dias atuais, a violência tornou-se um ciclo que atinge, na mesma proporção, jovens de raça, gênero e classe social diferentes."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.6,
+     188.66527999999994,
+     538.4284799999996,
+     199.70528000000002
+    ],
+    [
+     42.6,
+     201.26527999999996,
+     374.73079999999993,
+     212.30527999999993
+    ],
+    [
+     42.6,
+     227.81527999999992,
+     538.79032,
+     238.88839999999993
+    ],
+    [
+     63.984,
+     240.53527999999994,
+     213.04608000000002,
+     251.5752799999999
+    ],
+    [
+     42.6,
+     253.13527999999997,
+     538.4721599999998,
+     264.17528000000004
+    ],
+    [
+     63.984,
+     265.73528,
+     162.41663999999997,
+     276.77528
+    ],
+    [
+     42.6,
+     278.45527999999996,
+     538.77472,
+     289.49528
+    ],
+    [
+     63.984,
+     291.05528,
+     257.13984000000005,
+     302.09528
+    ],
+    [
+     42.6,
+     303.77527999999995,
+     538.3727999999994,
+     314.81528
+    ],
+    [
+     63.984,
+     316.37528,
+     245.55888,
+     327.41528
+    ],
+    [
+     42.6,
+     328.97527999999994,
+     538.6756,
+     340.01527999999996
+    ],
+    [
+     63.984,
+     341.69527999999997,
+     227.32080000000002,
+     352.73528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q003",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 3,
+  "area": "",
+  "texto_base_id": "P4212-T1",
+  "textos_base_ids": [
+   "P4212-T1"
+  ],
+  "enunciado": "No Texto 1, o autor emprega diferentes recursos para argumentar a favor de seus pontos de vista. Analise, nas proposições abaixo, a correspondência entre o recurso empregado e o efeito obtido.\n\nI. Aspas – marca discordância e ironia, como em: “método” (2º parágrafo); “cuidar do indígena” e “benevolência” (4º parágrafo).\n\nII. Iniciar vários parágrafos com a mesma forma (“Advém daí...”) – indica persistência para convencer o leitor.\n\nIII. Aportar vozes socialmente reconhecidas ao texto (Como as de Bosi e Castro, no 4º parágrafo) – aufere prestígio e autoridade ao discurso.\n\nIV. Seleção vocabular erudita (como em ‘truísmo’, no 1º parágrafo; e em ‘nietzschiana’, no 4º parágrafo) – delimita o público leitor a intelectuais e especialistas.\n\nEstão **CORRETAS**, apenas:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I e II."
+   },
+   {
+    "letra": "B",
+    "texto": "I e III."
+   },
+   {
+    "letra": "C",
+    "texto": "II e III."
+   },
+   {
+    "letra": "D",
+    "texto": "II e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "III e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.6,
+     379.63527999999997,
+     538.4063999999996,
+     390.67528
+    ],
+    [
+     42.6,
+     392.23528,
+     517.3144,
+     403.27528
+    ],
+    [
+     57.624,
+     417.55528,
+     538.4278399999996,
+     428.6284
+    ],
+    [
+     78.624,
+     430.30839999999995,
+     233.64768,
+     441.34839999999997
+    ],
+    [
+     56.064,
+     442.87528,
+     538.85968,
+     453.9484
+    ],
+    [
+     78.624,
+     455.47527999999994,
+     168.55584,
+     466.51527999999996
+    ],
+    [
+     54.504,
+     468.19527999999997,
+     538.5767999999998,
+     479.23528
+    ],
+    [
+     78.624,
+     480.79528,
+     344.67728,
+     491.8684
+    ],
+    [
+     53.904,
+     493.51527999999996,
+     538.5724799999996,
+     504.5884
+    ],
+    [
+     78.624,
+     506.11528,
+     399.09463999999997,
+     517.1884
+    ],
+    [
+     42.6,
+     531.34528,
+     180.82063999999997,
+     542.38528
+    ],
+    [
+     42.6,
+     554.50528,
+     88.53312,
+     565.54528
+    ],
+    [
+     143.9,
+     554.50528,
+     192.83912,
+     565.54528
+    ],
+    [
+     245.21,
+     554.50528,
+     297.25912,
+     565.54528
+    ],
+    [
+     346.63,
+     554.50528,
+     399.88912,
+     565.54528
+    ],
+    [
+     448.06,
+     554.50528,
+     504.30912,
+     565.54528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q003_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q004",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 4,
+  "area": "",
+  "texto_base_id": "P4212-T1",
+  "textos_base_ids": [
+   "P4212-T1"
+  ],
+  "enunciado": "Quanto aos aspectos semânticos do vocabulário empregado no Texto 1, assinale a alternativa que identifica **CORRETAMENTE** o efeito de sentido obtido com o uso do termo destacado.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "“(...) a observação esconde outro <u>truísmo</u>”, isto é, ‘esconde outra *obviedade’*."
+   },
+   {
+    "letra": "B",
+    "texto": "“(...) não na <u>acepção</u> nietzschiana”, ou seja, ‘não na *filosofia* nietzschiana’."
+   },
+   {
+    "letra": "C",
+    "texto": "“(...) mas na acepção <u>eugênica</u>”, quer dizer, ‘mas na acepção *helênica’*."
+   },
+   {
+    "letra": "D",
+    "texto": "“Os jesuítas <u>arrogaram</u>”, ou seja, ‘Os jesuítas *negligenciaram’*."
+   },
+   {
+    "letra": "E",
+    "texto": "“o corpo <u>reificado</u> de anteontem”, isto é, ‘o corpo *reverenciado* de anteontem.*’*."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.6,
+     592.4252799999999,
+     538.5719999999995,
+     603.46528
+    ],
+    [
+     42.6,
+     604.90528,
+     465.1828,
+     615.94528
+    ],
+    [
+     42.6,
+     631.54528,
+     439.36912,
+     642.6184
+    ],
+    [
+     42.6,
+     644.14528,
+     427.35016,
+     655.2184
+    ],
+    [
+     42.6,
+     656.74528,
+     413.20912,
+     667.8184
+    ],
+    [
+     42.6,
+     669.48528,
+     368.41912,
+     680.5584
+    ],
+    [
+     42.6,
+     682.08528,
+     446.20912,
+     693.1584
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q004_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q005",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 5,
+  "area": "",
+  "texto_base_id": "P4212-T1",
+  "textos_base_ids": [
+   "P4212-T1"
+  ],
+  "enunciado": "Acerca das relações lógico-discursivas que se identificam no Texto 1, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Já no título se identifica uma relação comparativa, explicitada pelos termos ‘difícil’, de um lado, e ‘impossível’, de outro."
+   },
+   {
+    "letra": "B",
+    "texto": "Uma relação concessiva pode ser evidenciada no trecho: “Os escravocratas, em uma sociedade patriarcal, tornaram legítima também a decisão sobre o corpo da mulher, inclusive da sua esposa.” (2º parágrafo)"
+   },
+   {
+    "letra": "C",
+    "texto": "No trecho: “Do mesmo modo que a violência contra a mulher é naturalizada e contra a mulher negra duas vezes mais, <u>pois</u> aprendemos com a ‘globeleza’ que o corpo negro feminino é o veículo do pecado (...)” (5º parágrafo), o termo destacado introduz um segmento explicativo."
+   },
+   {
+    "letra": "D",
+    "texto": "O trecho: “A imprensa fala pouco, o silêncio cemiterial em torno do tema é um crime confesso, típico de quem consente porque se cala.” (6º parágrafo) exemplifica uma relação semântica consecutiva."
+   },
+   {
+    "letra": "E",
+    "texto": "Uma relação proporcional se encontra no trecho: “Enquanto não encararmos isso, não avançaremos como povo ou como nação.”. (8º parágrafo)"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.6,
+     73.70528000000002,
+     538.6982399999999,
+     84.74527999999998
+    ],
+    [
+     42.6,
+     86.18527999999992,
+     99.93312,
+     97.22528
+    ],
+    [
+     42.6,
+     111.62527999999998,
+     538.4059199999996,
+     122.69839999999999
+    ],
+    [
+     63.984,
+     124.37840000000006,
+     170.4648,
+     135.41840000000002
+    ],
+    [
+     42.6,
+     136.9452799999999,
+     538.82632,
+     148.01839999999993
+    ],
+    [
+     63.984,
+     149.66527999999994,
+     538.5682399999997,
+     160.70528000000002
+    ],
+    [
+     63.984,
+     162.29840000000002,
+     176.91215999999997,
+     173.33839999999998
+    ],
+    [
+     42.6,
+     174.86527999999998,
+     538.5031999999997,
+     185.9384
+    ],
+    [
+     63.984,
+     187.58528,
+     538.9248,
+     198.65840000000003
+    ],
+    [
+     63.984,
+     200.18527999999992,
+     513.5924000000001,
+     211.25839999999994
+    ],
+    [
+     42.6,
+     212.93527999999992,
+     538.5171199999999,
+     224.00839999999994
+    ],
+    [
+     63.984,
+     225.53527999999994,
+     538.82128,
+     236.60839999999996
+    ],
+    [
+     63.984,
+     238.13527999999997,
+     125.1456,
+     249.17528000000004
+    ],
+    [
+     42.6,
+     250.85528,
+     538.80376,
+     261.9284
+    ],
+    [
+     63.984,
+     263.48839999999996,
+     345.5812799999998,
+     274.5284
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q005_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q006",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 6,
+  "area": "",
+  "texto_base_id": "P4212-T1",
+  "textos_base_ids": [
+   "P4212-T1"
+  ],
+  "enunciado": "No que se refere a alguns aspectos formais presentes no Texto 1, analise as proposições a seguir.\n\nI. No trecho: “(...) e da sua ama de leite (a mãe preta), cujo leite afro <u>acalentava</u> seu filho branco.” (2º parágrafo), a substituição da forma verbal ‘acalentava’ por ‘nutria’ acarretará a seguinte alteração na regência: ‘(...) e da sua ama de leite (a mãe preta), <u>em cujo</u> leite afro <u>nutria</u> seu filho branco.’.\n\nII. No trecho: “Quem mais morre nas periferias das cidades brasileiras <u>são</u> negros.” (3º parágrafo), a forma verbal destacada está no plural em concordância com o predicativo plural ‘negros’.\n\nIII. No trecho: “Ouvimos muitos comentários (...) de que o grande mal do Brasil é o ‘jeitinho brasileiro’, que é atrelado à corrupção.” (1º parágrafo), o sinal indicativo de crase é opcional, já que o verbo ‘atrelar’, no contexto em que se insere, pode também ser transitivo direto.\n\nIV. O segmento destacado no trecho: “Ruralistas e posseiros <u>o fazem</u> à luz do dia no Norte e Centro-Oeste do país.” (6º parágrafo) exemplifica um caso de próclise; a forma enclítica correspondente é ‘fazem-no’.\n\nEstão **CORRETAS**:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I e III, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "II e III, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "I, III e IV, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "II e IV, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II, III e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.6,
+     301.37528,
+     537.35728,
+     312.41528
+    ],
+    [
+     57.624,
+     326.69527999999997,
+     538.91952,
+     337.7684
+    ],
+    [
+     78.624,
+     339.41527999999994,
+     538.86976,
+     350.48839999999996
+    ],
+    [
+     78.624,
+     352.01527999999996,
+     538.89744,
+     363.0884
+    ],
+    [
+     78.624,
+     364.63527999999997,
+     195.39679999999998,
+     375.7084
+    ],
+    [
+     56.064,
+     386.59527999999995,
+     538.7747199999999,
+     397.66839999999996
+    ],
+    [
+     78.624,
+     399.19527999999997,
+     538.8436800000001,
+     410.23528
+    ],
+    [
+     78.624,
+     411.8284,
+     120.31103999999999,
+     422.8684
+    ],
+    [
+     54.504,
+     432.55528,
+     538.4436799999997,
+     443.6284
+    ],
+    [
+     78.624,
+     445.18839999999994,
+     538.4399999999994,
+     456.22839999999997
+    ],
+    [
+     78.624,
+     457.87528,
+     510.32056,
+     468.9484
+    ],
+    [
+     53.904,
+     478.51527999999996,
+     538.8217599999999,
+     489.5884
+    ],
+    [
+     78.624,
+     491.23528,
+     538.4700799999997,
+     502.3084
+    ],
+    [
+     78.624,
+     503.83527999999995,
+     221.15815999999998,
+     514.9084
+    ],
+    [
+     42.6,
+     529.06528,
+     138.44912,
+     540.10528
+    ],
+    [
+     42.6,
+     554.50528,
+     133.76111999999998,
+     565.54528
+    ],
+    [
+     42.6,
+     567.10528,
+     136.77071999999998,
+     578.14528
+    ],
+    [
+     42.6,
+     579.70528,
+     150.35023999999999,
+     590.74528
+    ],
+    [
+     42.6,
+     592.4252799999999,
+     138.11424,
+     603.46528
+    ],
+    [
+     42.6,
+     605.02528,
+     120.32912,
+     616.06528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q006_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q007",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 7,
+  "area": "",
+  "texto_base_id": "P4212-T2",
+  "textos_base_ids": [
+   "P4212-T2"
+  ],
+  "enunciado": "O Texto 2 dialoga com o leitor apresentando-se como um “cartaz”. Para aceitar essa identidade do gênero cartaz como verdadeira, o leitor deve considerar, principalmente:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a composição gráfica e o funcionamento discursivo do texto."
+   },
+   {
+    "letra": "B",
+    "texto": "a descrição física – dimensões e especificações do papel."
+   },
+   {
+    "letra": "C",
+    "texto": "a apresentação em forma de discurso em primeira pessoa."
+   },
+   {
+    "letra": "D",
+    "texto": "o formato ‘diálogo explícito com o leitor’ – receptor da mensagem."
+   },
+   {
+    "letra": "E",
+    "texto": "a escolha do tema e sua abordagem criativa e inovadora."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.60000000000002,
+     610.30528,
+     538.71544,
+     621.3784
+    ],
+    [
+     42.60000000000002,
+     623.0252800000001,
+     396.07871999999986,
+     634.06528
+    ],
+    [
+     42.60000000000002,
+     648.34528,
+     358.65840000000003,
+     659.3852800000001
+    ],
+    [
+     42.60000000000002,
+     660.94528,
+     347.12648,
+     672.0184
+    ],
+    [
+     42.60000000000004,
+     673.56528,
+     351.4329599999999,
+     684.60528
+    ],
+    [
+     42.60000000000004,
+     686.2852800000001,
+     385.62471999999997,
+     697.3584000000001
+    ],
+    [
+     42.60000000000002,
+     698.8852800000001,
+     343.8758399999999,
+     709.92528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q007_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q008",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 8,
+  "area": "",
+  "texto_base_id": "P4212-T2",
+  "textos_base_ids": [
+   "P4212-T2"
+  ],
+  "enunciado": "Dentre os valores e/ou opiniões veiculados pelo Texto 2, encontra-se a defesa de que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "é vital proteger-se do vírus HIV, pois ele pode ser tão destrutivo para um cartaz quanto para o corpo humano."
+   },
+   {
+    "letra": "B",
+    "texto": "relações sexuais sem preservativos só deveriam ocorrer com parceiros comprovadamente livres do HIV."
+   },
+   {
+    "letra": "C",
+    "texto": "deveria ser um direito das pessoas soropositivas não revelar sua condição de saúde a quem quer que fosse."
+   },
+   {
+    "letra": "D",
+    "texto": "o preconceito contra as pessoas soropositivas tem diminuído bastante com a divulgação de cartazes."
+   },
+   {
+    "letra": "E",
+    "texto": "uma pessoa portadora do vírus HIV preserva seu direito de ser um cidadão socialmente atuante."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.6,
+     99.02527999999995,
+     474.56608,
+     110.06527999999992
+    ],
+    [
+     42.6,
+     124.34528,
+     538.8783999999999,
+     135.38528000000008
+    ],
+    [
+     63.864,
+     136.9452799999999,
+     137.37936,
+     147.98528
+    ],
+    [
+     42.6,
+     149.66527999999994,
+     538.3963199999995,
+     160.70528000000002
+    ],
+    [
+     63.864,
+     162.26527999999996,
+     100.63824,
+     173.30527999999993
+    ],
+    [
+     42.6,
+     174.86527999999998,
+     538.5839999999996,
+     185.90528000000006
+    ],
+    [
+     63.864,
+     187.58528,
+     139.74192,
+     198.6252800000001
+    ],
+    [
+     42.6,
+     200.18527999999992,
+     538.6834399999998,
+     211.22528
+    ],
+    [
+     63.864,
+     212.93527999999992,
+     108.576,
+     223.97528
+    ],
+    [
+     42.6,
+     225.53527999999994,
+     535.2388799999995,
+     236.5752799999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q008_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q009",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 9,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O início do século XX, compreendido entre 1902 a 1922, foi muito significativo para a fase de transição da literatura brasileira. As Vanguardas Europeias e a Semana de 1922 representaram mudanças importantíssimas no fazer artístico e literário, no Brasil. Acerca desse período, analise as proposições a seguir e assinale com V as Verdadeiras e com F as Falsas.\n\n( ) O ano de 1902, marcado pela publicação de *Os Sertões,* de Euclides da Cunha, foi decisivo para a liberdade intelectual brasileira. Essa obra foi importante porque lançou, de um só golpe, a realidade brasileira até então disfarçada. Isso mantinha os escritores da época presos à visão europeia, em razão de sentimentos de inferioridade, motivados pelo *status* colonial vivenciado.\n\n( ) O Futurismo, um dos movimentos de vanguarda, foi lançado por Marinetti. Tal movimento estético caracterizou-se mais por manifestos que por obras; assim, os futuristas exaltavam a vida moderna, cultuavam a máquina e a velocidade.\n\n( ) Os romances de Lima Barreto têm muito de crônica, pois neles se encontram cenas do cotidiano, de jornal, sobre a vida burocrática, tudo numa linguagem fluente e sem muitas ambições. Isso pode ser percebido no seguinte trecho de sua obra *Recordações do Escrivão Isaías Caminha*: “Almocei, saí até à cidade próxima para fazer as minhas despedidas, jantei e, sempre, aquela visão doutoral que me não deixava”.\n\n( ) Augusto dos Anjos é um poeta eloquente; assim, encontram-se, em sua obra, palavras do jargão científico e termos técnicos, que não podem ser ignorados, porque tais palavras fazem parte do contexto de produção do poeta. Pode-se conferir isso no seguinte trecho de seu poema *A ideia*: “Vem do encéfalo absconso que a constringe, / Chega em seguida às cordas do laringe, / Tísica, tênue, mínima, raquítica ...”\n\n( ) A Semana de 22 ocorreu no Teatro Municipal de São Paulo, nos dias 13, 15 e 17 de fevereiro de 1922. A ideia da Semana era a de destruir, escandalizar e, especialmente, criticar. Acerca dessa postura, Aníbal Machado diz a seguinte frase: “Não sabemos definir o que queremos, mas sabemos discernir o que não queremos”.\n\nA sequência **CORRETA**, de cima para baixo, é:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "V-V-F-F-V"
+   },
+   {
+    "letra": "B",
+    "texto": "V-V-V-F-F"
+   },
+   {
+    "letra": "C",
+    "texto": "V-V-V-V-V"
+   },
+   {
+    "letra": "D",
+    "texto": "F-F-F-V-V"
+   },
+   {
+    "letra": "E",
+    "texto": "F-F-V-F-F"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.6,
+     263.45528,
+     538.73488,
+     274.49528
+    ],
+    [
+     42.6,
+     276.17528,
+     538.5447199999998,
+     287.21528
+    ],
+    [
+     42.6,
+     288.77527999999995,
+     538.93824,
+     299.81528
+    ],
+    [
+     42.6,
+     301.37528,
+     404.18824,
+     312.41528
+    ],
+    [
+     42.6,
+     326.69527999999997,
+     538.8013599999999,
+     337.73528
+    ],
+    [
+     42.6,
+     339.41527999999994,
+     538.5388799999995,
+     350.45527999999996
+    ],
+    [
+     42.6,
+     352.01527999999996,
+     538.6380799999998,
+     363.05528
+    ],
+    [
+     42.6,
+     364.63527999999997,
+     437.77144,
+     375.67528
+    ],
+    [
+     42.6,
+     377.35528,
+     538.786,
+     388.39528
+    ],
+    [
+     42.6,
+     389.95527999999996,
+     538.63816,
+     400.99528
+    ],
+    [
+     42.6,
+     402.67528,
+     273.73344000000003,
+     413.71528
+    ],
+    [
+     42.6,
+     415.27527999999995,
+     538.5935999999995,
+     426.31528
+    ],
+    [
+     42.6,
+     427.87528,
+     538.5617599999997,
+     438.91528
+    ],
+    [
+     42.6,
+     440.59527999999995,
+     538.7078399999999,
+     451.66839999999996
+    ],
+    [
+     42.6,
+     453.19527999999997,
+     538.9756799999999,
+     464.23528
+    ],
+    [
+     42.6,
+     465.94839999999994,
+     148.31903999999997,
+     476.98839999999996
+    ],
+    [
+     42.6,
+     478.51527999999996,
+     538.62568,
+     489.55528
+    ],
+    [
+     42.6,
+     491.23528,
+     538.3953599999996,
+     502.27528
+    ],
+    [
+     42.6,
+     503.83527999999995,
+     538.74912,
+     514.87528
+    ],
+    [
+     42.6,
+     516.46528,
+     538.8489599999999,
+     527.5384
+    ],
+    [
+     42.6,
+     529.2184,
+     176.52623999999997,
+     540.2583999999999
+    ],
+    [
+     42.6,
+     541.7852800000001,
+     538.65256,
+     552.82528
+    ],
+    [
+     42.6,
+     554.50528,
+     538.89136,
+     565.54528
+    ],
+    [
+     42.6,
+     567.10528,
+     538.5527999999997,
+     578.1784
+    ],
+    [
+     42.6,
+     579.70528,
+     194.98376,
+     590.7783999999999
+    ],
+    [
+     42.6,
+     604.90528,
+     275.05936,
+     615.94528
+    ],
+    [
+     42.6,
+     630.34528,
+     110.82368,
+     641.38528
+    ],
+    [
+     42.6,
+     642.94528,
+     110.92544000000001,
+     653.98528
+    ],
+    [
+     42.6,
+     655.6652799999999,
+     112.14368,
+     666.70528
+    ],
+    [
+     42.6,
+     668.2852800000001,
+     110.22368,
+     679.32528
+    ],
+    [
+     42.6,
+     681.00528,
+     109.60544,
+     692.04528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q009_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q010",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 10,
+  "area": "",
+  "texto_base_id": "P4212-T3",
+  "textos_base_ids": [
+   "P4212-T3"
+  ],
+  "enunciado": "Acerca dos Textos 3 e 4, bem como dos seus autores e do contexto histórico e literário em que estão inscritos, analise as seguintes proposições.\n\nI. O Texto 3 é um poema em que o autor se revela comprometido com as causas sociais de seu tempo, e em que um eu lírico questionador faz vir à tona imagens da indiferença de quem está no poder, subjugando o oprimido.\n\nII. Mário de Andrade foi o autor de Macunaíma, cujo protagonista é um “herói sem nenhum caráter”, uma espécie de mito grego, nascido na selva amazônica que vai até São Paulo, em busca de um valioso talismã. Sobre o nascimento desse mito, confira o seguinte trecho: “No fundo do mato-virgem nasceu Macunaíma, herói de nossa gente. Era preto retinto e filho do medo da noite”.\n\nIII. O Texto 4 é um poema, cujo eu lírico é um revolucionário, em luta por sua liberdade. A sua causa, isto é, o seu ideal, é a humanidade.\n\nIV.Para Oswald de Andrade, no seu *Manifesto da Poesia Pau-brasil*, “a poesia existe nos fatos”. Isso faz entender que ele conseguiu reunir, na sua poesia e na sua prosa, elementos para um olhar crítico sobre a realidade brasileira.\n\nEstão **CORRETAS:**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I e II, apenas. b)I, III e IV, apenas. c) II e III, apenas. d) II e IV, apenas. e) I, II, III e IV. **Texto 5 Mapa de anatomia: O Olho** O Olho é uma espécie de globo, é um pequeno planeta com pinturas do lado de fora. Muitas pinturas: azuis, verdes, amarelas. É um globo brilhante: parece cristal, é como um aquário com plantas finamente desenhadas: algas, sargaços, miniaturas marinhas, areias, rochas, naufrágios e peixes de ouro.\n\nMas por dentro há outras pinturas, que não se veem: umas são imagens do mundo, outras são inventadas.\n\nO Olho é um teatro por dentro. E às vezes, sejam atores, sejam cenas, e às vezes, sejam imagens, sejam ausências, formam, no Olho, lágrimas. (Cecília Meireles)\n\n**Texto 7 Ausência**\n\nEu deixarei que morra em mim o desejo de amar os teus olhos que são doces. Porque nada te poderei dar senão a mágoa de me veres eternamente exausto No entanto a tua presença é qualquer coisa como a luz e a vida E eu sinto que em meu gesto existe o teu gesto e em minha voz a tua voz. Não te quero ter porque em meu ser tudo estaria terminado. Quero só que surjas em mim como a fé nos desesperados Para que eu possa levar uma gota de orvalho nesta terra amaldiçoada. Que ficou sobre a minha carne como nódoa do passado. **Texto 6 A um ausente** Tenho razão de sentir saudade, tenho razão de te acusar. Houve um pacto implícito que rompeste e sem te despedires foste embora. Detonaste o pacto. Detonaste a vida geral, a comum aquiescência de viver e explorar os rumos de obscuridade sem prazo sem consulta sem provocação até o limite das folhas caídas na hora de cair. Antecipaste a hora. Teu ponteiro enlouqueceu, enlouquecendo nossas horas. Que poderias ter feito de mais grave do que o ato sem continuação, o ato em si, o ato que não ousamos nem sabemos ousar porque depois dele não há nada? Tenho razão para sentir saudade de ti, de nossa convivência em falas camaradas, simples apertar de mãos, nem isso, voz modulando sílabas conhecidas e banais que eram sempre certeza e segurança. Sim, tenho saudades. Sim, acuso-te porque fizeste o não previsto nas leis da amizade e da natureza nem nos deixaste sequer o direito de indagar porque o fizeste, porque te foste. (Carlos Drummond de Andrade)\n\nEu deixarei... tu irás e encostarás a tua face em outra face. Teus dedos enlaçarão outros dedos e tu desabrocharás para a madrugada. Mas tu não saberás que quem te colheu fui eu, porque eu fui o grande íntimo da noite. Porque eu encostei minha face na face da noite e ouvi a tua fala amorosa. Porque meus dedos enlaçaram os dedos da névoa suspensos no espaço. E eu trouxe até mim a misteriosa essência do teu abandono desordenado. Eu ficarei só como os veleiros nos pontos silenciosos. Mas eu te possuirei como ninguém porque poderei partir. E todas as lamentações do mar, do vento, do céu, das aves, das estrelas. Serão a tua voz presente, a tua voz ausente, a tua voz serenizada. (Vinícius de Moraes)"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   11,
+   12
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.6,
+     483.79528,
+     538.5672799999999,
+     494.83528
+    ],
+    [
+     42.6,
+     496.39527999999996,
+     284.29912,
+     507.43528
+    ],
+    [
+     42.6,
+     515.98528,
+     538.3668799999996,
+     527.02528
+    ],
+    [
+     56.784,
+     528.58528,
+     538.6083999999998,
+     539.62528
+    ],
+    [
+     56.784,
+     541.30528,
+     205.34927999999994,
+     552.34528
+    ],
+    [
+     42.6,
+     553.90528,
+     538.86912,
+     564.9784
+    ],
+    [
+     56.784,
+     566.62528,
+     538.74088,
+     577.6652799999999
+    ],
+    [
+     56.784,
+     579.22528,
+     538.9963200000001,
+     590.2984
+    ],
+    [
+     56.784,
+     591.82528,
+     509.7667199999995,
+     602.8984
+    ],
+    [
+     42.6,
+     604.54528,
+     538.6391199999999,
+     615.58528
+    ],
+    [
+     56.784,
+     617.14528,
+     230.47472,
+     628.1852799999999
+    ],
+    [
+     42.6,
+     629.86528,
+     538.7728000000001,
+     640.9384
+    ],
+    [
+     56.784,
+     642.46528,
+     538.5364799999998,
+     653.50528
+    ],
+    [
+     56.784,
+     655.06528,
+     224.93424,
+     666.10528
+    ],
+    [
+     42.6,
+     676.9252799999999,
+     139.05632,
+     687.96528
+    ],
+    [
+     42.48,
+     697.46592,
+     507.37647999999996,
+     708.02592
+    ]
+   ],
+   "12": [
+    [
+     78.144,
+     50.885279999999966,
+     116.65152,
+     61.92528000000004
+    ],
+    [
+     78.144,
+     71.54527999999993,
+     217.05704,
+     82.5852799999999
+    ],
+    [
+     78.144,
+     92.32172000000003,
+     221.44848000000002,
+     102.28172000000006
+    ],
+    [
+     78.144,
+     103.84172000000001,
+     177.47508000000002,
+     113.80172000000005
+    ],
+    [
+     78.144,
+     115.36171999999999,
+     207.51444000000004,
+     125.32172000000003
+    ],
+    [
+     78.144,
+     126.76171999999997,
+     148.54128,
+     136.72172
+    ],
+    [
+     78.144,
+     138.28171999999995,
+     186.42912000000004,
+     148.24172
+    ],
+    [
+     78.144,
+     149.80171999999993,
+     172.52496,
+     159.76171999999997
+    ],
+    [
+     78.144,
+     161.32172000000003,
+     140.23464,
+     171.28172000000006
+    ],
+    [
+     78.144,
+     172.84172,
+     220.22340000000003,
+     182.80172000000005
+    ],
+    [
+     78.144,
+     184.24172,
+     257.50368,
+     194.20172000000002
+    ],
+    [
+     78.144,
+     195.76171999999997,
+     239.18724000000003,
+     205.72172
+    ],
+    [
+     78.144,
+     207.28171999999995,
+     204.17784000000003,
+     217.24172
+    ],
+    [
+     78.144,
+     231.43172000000004,
+     230.80092,
+     241.39172000000008
+    ],
+    [
+     78.144,
+     242.95172000000002,
+     157.63476,
+     252.91172000000006
+    ],
+    [
+     78.144,
+     254.47172,
+     211.98648000000006,
+     264.43172000000004
+    ],
+    [
+     78.144,
+     265.99172,
+     178.61052000000004,
+     275.95171999999997
+    ],
+    [
+     78.144,
+     290.11172,
+     214.26732000000007,
+     300.07171999999997
+    ],
+    [
+     78.144,
+     301.63172,
+     254.21120000000005,
+     311.59171999999995
+    ],
+    [
+     78.144,
+     313.15172,
+     281.3877599999999,
+     323.11172
+    ],
+    [
+     78.144,
+     324.67172,
+     198.66000000000003,
+     334.63172
+    ],
+    [
+     229.97,
+     335.67428,
+     292.24784,
+     343.71428000000003
+    ],
+    [
+     72.384,
+     433.41172,
+     107.41332000000001,
+     443.37172
+    ],
+    [
+     72.384,
+     450.69172,
+     116.77572000000002,
+     460.65171999999995
+    ],
+    [
+     72.384,
+     474.93172,
+     249.64211999999998,
+     484.89171999999996
+    ],
+    [
+     72.384,
+     486.45171999999997,
+     241.25888,
+     496.41171999999995
+    ],
+    [
+     72.384,
+     497.85172,
+     279.61176,
+     507.81172
+    ],
+    [
+     72.384,
+     509.37172,
+     210.11431999999996,
+     519.3317199999999
+    ],
+    [
+     72.384,
+     520.92172,
+     240.00084,
+     530.88172
+    ],
+    [
+     72.384,
+     532.44172,
+     184.51368000000002,
+     542.40172
+    ],
+    [
+     72.384,
+     543.96172,
+     291.7231199999999,
+     553.92172
+    ],
+    [
+     72.384,
+     555.48172,
+     180.55956,
+     565.44172
+    ],
+    [
+     72.384,
+     566.88172,
+     288.89447999999993,
+     576.84172
+    ],
+    [
+     72.384,
+     578.40172,
+     119.53464,
+     588.36172
+    ],
+    [
+     72.384,
+     589.92172,
+     266.10599999999994,
+     599.88172
+    ],
+    [
+     72.384,
+     601.44172,
+     135.0246,
+     611.40172
+    ],
+    [
+     72.384,
+     612.96172,
+     274.5022799999999,
+     622.92172
+    ],
+    [
+     72.384,
+     624.48172,
+     182.23284000000004,
+     634.44172
+    ],
+    [
+     72.384,
+     635.88172,
+     280.56791999999996,
+     645.84172
+    ],
+    [
+     72.384,
+     647.40172,
+     112.8216,
+     657.36172
+    ],
+    [
+     320.11,
+     50.76527999999996,
+     358.61752,
+     61.805279999999925
+    ],
+    [
+     320.11,
+     71.42527999999993,
+     392.33368,
+     82.46528
+    ],
+    [
+     320.11,
+     92.20172000000002,
+     461.11372000000006,
+     102.16172000000006
+    ],
+    [
+     320.11,
+     103.60172,
+     433.3054000000001,
+     113.56172000000004
+    ],
+    [
+     320.11,
+     115.12171999999998,
+     496.29796,
+     125.08172000000002
+    ],
+    [
+     320.11,
+     126.64171999999996,
+     473.97208000000006,
+     136.60172
+    ],
+    [
+     320.11,
+     138.16171999999995,
+     403.93336000000005,
+     148.12171999999998
+    ],
+    [
+     320.11,
+     149.68172000000004,
+     527.6764000000001,
+     159.64172000000008
+    ],
+    [
+     320.11,
+     161.20172000000002,
+     517.24828,
+     171.16172000000006
+    ],
+    [
+     320.11,
+     172.60172,
+     504.4397199999999,
+     182.56172000000004
+    ],
+    [
+     320.11,
+     184.12171999999998,
+     521.0629599999999,
+     194.08172000000002
+    ],
+    [
+     320.11,
+     207.16171999999995,
+     406.11460000000005,
+     217.12171999999998
+    ],
+    [
+     320.11,
+     218.71172,
+     438.9527200000001,
+     228.67172000000005
+    ],
+    [
+     320.11,
+     230.23172,
+     453.4246000000001,
+     240.19172000000003
+    ],
+    [
+     320.11,
+     241.63171999999997,
+     481.64127999999994,
+     251.59172
+    ],
+    [
+     320.11,
+     253.15171999999995,
+     511.24240000000003,
+     263.11172
+    ],
+    [
+     320.11,
+     264.67171999999994,
+     517.97536,
+     274.63172
+    ],
+    [
+     320.11,
+     276.19172,
+     468.92236,
+     286.15171999999995
+    ],
+    [
+     320.11,
+     299.11172,
+     491.68096,
+     309.07171999999997
+    ],
+    [
+     320.11,
+     310.63172,
+     511.1766400000001,
+     320.59171999999995
+    ],
+    [
+     320.11,
+     322.15172,
+     496.2028,
+     332.11172
+    ],
+    [
+     320.11,
+     333.67172,
+     497.71672,
+     343.63172
+    ],
+    [
+     320.11,
+     345.19172,
+     494.40004000000005,
+     355.15171999999995
+    ],
+    [
+     320.11,
+     368.13172,
+     416.6522800000001,
+     378.09171999999995
+    ],
+    [
+     320.11,
+     379.65172,
+     446.7934,
+     389.61172
+    ],
+    [
+     320.11,
+     391.17172,
+     537.75592,
+     401.13172
+    ],
+    [
+     320.11,
+     402.69172,
+     519.9769600000001,
+     412.65171999999995
+    ],
+    [
+     320.11,
+     414.21172,
+     466.26304000000005,
+     424.17172
+    ],
+    [
+     421.18,
+     430.97427999999996,
+     535.0264,
+     439.01428
+    ],
+    [
+     317.11,
+     473.85172,
+     528.64048,
+     483.81172
+    ],
+    [
+     317.11,
+     485.25172,
+     364.25068000000005,
+     495.21171999999996
+    ],
+    [
+     317.11,
+     496.77171999999996,
+     495.8422,
+     506.73171999999994
+    ],
+    [
+     317.11,
+     508.29172,
+     470.45092000000005,
+     518.25172
+    ],
+    [
+     317.11,
+     519.8417199999999,
+     525.2540799999999,
+     529.8017199999999
+    ],
+    [
+     317.11,
+     531.36172,
+     488.71084,
+     541.32172
+    ],
+    [
+     317.11,
+     542.88172,
+     528.8097999999999,
+     552.84172
+    ],
+    [
+     317.11,
+     554.28172,
+     432.1380400000001,
+     564.24172
+    ],
+    [
+     317.11,
+     565.8017199999999,
+     513.2224000000001,
+     575.76172
+    ],
+    [
+     317.11,
+     577.32172,
+     446.5003600000001,
+     587.28172
+    ],
+    [
+     317.11,
+     588.84172,
+     519.20296,
+     598.8017199999999
+    ],
+    [
+     317.11,
+     600.36172,
+     442.17772000000014,
+     610.32172
+    ],
+    [
+     317.11,
+     611.88172,
+     501.37996,
+     621.84172
+    ],
+    [
+     317.11,
+     623.28172,
+     368.67292000000003,
+     633.24172
+    ],
+    [
+     317.11,
+     634.8017199999999,
+     505.87192,
+     644.76172
+    ],
+    [
+     317.11,
+     646.3217199999999,
+     378.61300000000006,
+     656.28172
+    ],
+    [
+     317.11,
+     657.84172,
+     518.11276,
+     667.8017199999999
+    ],
+    [
+     317.11,
+     669.38172,
+     440.94268000000005,
+     679.34172
+    ],
+    [
+     317.11,
+     680.90172,
+     524.29012,
+     690.86172
+    ],
+    [
+     317.11,
+     692.40528,
+     404.08912,
+     703.44528
+    ],
+    [
+     456.46,
+     704.62428,
+     529.7848,
+     712.66428
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [
+   "1 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q010_p11.jpg",
+   "revisao/Q010_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q011",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 11,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Após a leitura dos poemas, analise as proposições a seguir.\n\nI. O Texto 5 é um poema, cujo eu lírico trata das ausências, recorrendo aos sentidos, e fala de seus sentimentos, valendo-se da forma e da cor que as imagens poéticas sugerem.\n\nII. Os três poemas falam de ausência ou de saudade na mesma proporção, como também de relações amorosas frustradas.\n\nIII. No Texto 6, o eu lírico questiona a ausência de quem partiu, sem sequer anunciar sua partida. Percebe-se que a morte foi o motivo da ausência da amizade sugerida pelas imagens poéticas. IV. Vinícius de Moraes é dono de um lirismo de caráter confidencial, com uma visão familiar do mundo; é um poeta singular. No Texto 7, percebe-se um eu lírico carregado de sentimentos de afeto por uma amada, entre o universo espiritual e físico.\n\nEstão **CORRETAS**:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I e II, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "I, II e III, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "I, III e IV, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "III e IV, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II, III e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.6,
+     48.365279999999984,
+     357.71176,
+     59.40528000000006
+    ],
+    [
+     42.6,
+     67.94527999999991,
+     515.42736,
+     78.98527999999999
+    ],
+    [
+     63.984,
+     80.66527999999994,
+     472.4932,
+     91.70528000000002
+    ],
+    [
+     42.6,
+     93.26527999999996,
+     538.84528,
+     104.30527999999993
+    ],
+    [
+     63.984,
+     105.86527999999998,
+     211.98624,
+     116.90528000000006
+    ],
+    [
+     42.6,
+     118.58528000000001,
+     538.6842399999999,
+     129.6252800000001
+    ],
+    [
+     63.984,
+     131.18527999999992,
+     530.02744,
+     142.22528
+    ],
+    [
+     42.6,
+     143.90527999999995,
+     538.5825599999996,
+     154.94528000000003
+    ],
+    [
+     63.984,
+     156.50527999999997,
+     538.7812,
+     167.54527999999993
+    ],
+    [
+     63.984,
+     169.10528,
+     341.60071999999997,
+     180.14528000000007
+    ],
+    [
+     42.6,
+     195.50527999999997,
+     138.44912,
+     206.54527999999993
+    ],
+    [
+     42.6,
+     220.97528,
+     130.76496,
+     232.01527999999996
+    ],
+    [
+     42.6,
+     233.57528000000002,
+     146.00016,
+     244.6152800000001
+    ],
+    [
+     42.6,
+     246.17527999999993,
+     150.32783999999998,
+     257.21528
+    ],
+    [
+     42.6,
+     258.89527999999996,
+     141.0792,
+     269.93528
+    ],
+    [
+     42.6,
+     271.49528,
+     120.29903999999999,
+     282.53528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q011_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q012",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 12,
+  "area": "",
+  "texto_base_id": "P4212-T4",
+  "textos_base_ids": [
+   "P4212-T4"
+  ],
+  "enunciado": "Considerando os Textos 8, 9, 10 e 11 bem como os autores e seus respectivos contextos históricos e literários, analise as proposições a seguir.\n\nI. O Texto 8 apresenta um eu lírico ligado ao cotidiano, pois Ferreira Gullar, poeta também neoconcretista, tem como um de seus temas a realidade social.\n\nII. No Texto 9, encontra-se um eu lírico que tematiza o cotidiano, situações corriqueiras, com uma percepção aguda das coisas simples da vida; no entanto, há um certo pessimismo em relação à cidade que o faz evadir-se, criando, em sonho, outra cidade.\n\nIII. Adélia Prado é dona de uma linguagem simples, e preocupada com uma temática feminina, ligada à família e à religiosidade. No Texto 10, percebe-se um eu lírico que se mostra incompatível com o clima da imagem da casa desejada, a ponto de não se sentir bem com a cor alaranjada de suas paredes.\n\nIV. Pignatari possui uma linguagem que valoriza os esquemas e diagramas, fazendo de seus versos um projeto de *designer*. No poema, há um texto duplo, uma fusão de imagens, cujos significados se revelam por essa duplicidade, como um espelho que projeta uma imagem invertida.\n\nEstão **CORRETAS:**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e IV, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "I, II, III e IV."
+   },
+   {
+    "letra": "C",
+    "texto": "II e III, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "II, III e IV, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "III e IV, apenas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.6,
+     225.53527999999994,
+     538.6449599999994,
+     236.5752799999999
+    ],
+    [
+     42.6,
+     238.13527999999997,
+     306.14688,
+     249.17528000000004
+    ],
+    [
+     42.6,
+     263.45528,
+     538.85392,
+     274.49528
+    ],
+    [
+     62.424,
+     276.17528,
+     373.0785599999999,
+     287.21528
+    ],
+    [
+     42.6,
+     288.77527999999995,
+     538.8259199999995,
+     299.81528
+    ],
+    [
+     62.424,
+     301.37528,
+     538.6012799999997,
+     312.41528
+    ],
+    [
+     62.424,
+     314.09527999999995,
+     357.77711999999985,
+     325.13527999999997
+    ],
+    [
+     42.6,
+     326.69527999999997,
+     538.86912,
+     337.73528
+    ],
+    [
+     62.424,
+     339.41527999999994,
+     538.7779199999995,
+     350.45527999999996
+    ],
+    [
+     62.424,
+     352.01527999999996,
+     538.5019199999998,
+     363.05528
+    ],
+    [
+     62.424,
+     364.63527999999997,
+     201.30719999999997,
+     375.67528
+    ],
+    [
+     42.6,
+     377.35528,
+     538.5940799999996,
+     388.39528
+    ],
+    [
+     62.424,
+     389.95527999999996,
+     538.9128799999997,
+     400.99528
+    ],
+    [
+     62.424,
+     402.67528,
+     485.4444799999997,
+     413.71528
+    ],
+    [
+     42.6,
+     427.75527999999997,
+     139.05792000000002,
+     438.79528
+    ],
+    [
+     42.6,
+     453.19527999999997,
+     143.85312,
+     464.23528
+    ],
+    [
+     42.6,
+     465.91527999999994,
+     116.93759999999997,
+     476.95527999999996
+    ],
+    [
+     42.6,
+     478.51527999999996,
+     133.38191999999998,
+     489.55528
+    ],
+    [
+     42.6,
+     491.23528,
+     149.91407999999998,
+     502.27528
+    ],
+    [
+     42.6,
+     503.83527999999995,
+     137.68176,
+     514.87528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q012_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q013",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 13,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "No plano cartesiano, a reta s: 4x – 3y +12 = 0 intersecta o eixo das abscissas no ponto A e o eixo das ordenadas no ponto B. Nessas condições, qual é a distância entre os pontos A e B?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "5"
+   },
+   {
+    "letra": "B",
+    "texto": "\\(\\widehat{√5}\\)"
+   },
+   {
+    "letra": "C",
+    "texto": "2 \\(\\widehat{√2}\\)"
+   },
+   {
+    "letra": "D",
+    "texto": "2"
+   },
+   {
+    "letra": "E",
+    "texto": "\\(\\widehat{√2}\\)"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.6,
+     579.70528,
+     538.6018399999999,
+     590.7783999999999
+    ],
+    [
+     42.6,
+     592.4252799999999,
+     473.93031999999994,
+     603.46528
+    ],
+    [
+     42.6,
+     630.24172,
+     69.52164,
+     640.20172
+    ],
+    [
+     42.6,
+     643.44172,
+     76.10184000000001,
+     653.91112
+    ],
+    [
+     42.6,
+     656.52172,
+     83.78184,
+     667.11112
+    ],
+    [
+     42.6,
+     668.18172,
+     69.52164,
+     678.14172
+    ],
+    [
+     42.6,
+     681.26172,
+     76.10184000000001,
+     691.85112
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q013_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q014",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 14,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em qual das alternativas a seguir, o ponto P pertence à circunferência ẞ?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "P(5, 6); ẞ: (x – 3)<sup>2</sup> + (y -6)<sup>2</sup> = 4"
+   },
+   {
+    "letra": "B",
+    "texto": "P(1, 2); ẞ: (x – 2)<sup>2</sup> + (y – 2)<sup>2</sup> = 5"
+   },
+   {
+    "letra": "C",
+    "texto": "P(1, 5); ẞ: x<sup>2</sup> + y<sup>2</sup> -8x + 6 = 0"
+   },
+   {
+    "letra": "D",
+    "texto": "P(1, 3); ẞ: (x + 1)<sup>2</sup> + (y – 2)<sup>2</sup> = 16"
+   },
+   {
+    "letra": "E",
+    "texto": "P(3, 1); ẞ: x<sup>2</sup> + y<sup>2</sup> – 4x + 2y + 2 = 0"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.6,
+     61.08528000000001,
+     423.47823999999997,
+     72.15840000000003
+    ],
+    [
+     42.6,
+     86.30527999999993,
+     212.82056,
+     97.37839999999994
+    ],
+    [
+     42.6,
+     99.02527999999995,
+     218.34055999999998,
+     110.09839999999997
+    ],
+    [
+     42.6,
+     111.62527999999998,
+     204.00032,
+     122.69839999999999
+    ],
+    [
+     42.6,
+     124.34528,
+     224.8388,
+     135.41840000000002
+    ],
+    [
+     42.6,
+     136.9452799999999,
+     233.79415999999998,
+     148.01839999999993
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q014_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q015",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 15,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Patrícia aplicou, num investimento bancário, determinado capital que, no regime de juro composto, durante um ano e seis meses, à taxa de 8% ao mês, gerou um juro de R$ 11 960,00. Qual é o capital aplicado por ela nesse investimento? Utilize (1,08)<sup>18</sup> = 3,99.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "R$ 3 800,00"
+   },
+   {
+    "letra": "B",
+    "texto": "R$ 4 000,00"
+   },
+   {
+    "letra": "C",
+    "texto": "R$ 4 600,00"
+   },
+   {
+    "letra": "D",
+    "texto": "R$ 5 000,00"
+   },
+   {
+    "letra": "E",
+    "texto": "R$ 5 200,00"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.6,
+     187.58528,
+     538.5460799999997,
+     198.6252800000001
+    ],
+    [
+     42.6,
+     200.18527999999992,
+     538.7266399999997,
+     211.22528
+    ],
+    [
+     42.6,
+     212.93527999999992,
+     386.52423999999996,
+     223.97528
+    ],
+    [
+     42.6,
+     238.13527999999997,
+     116.89679999999998,
+     249.17528000000004
+    ],
+    [
+     147.26,
+     238.13527999999997,
+     420.0628,
+     249.17528000000004
+    ],
+    [
+     452.02,
+     238.13527999999997,
+     526.4128,
+     249.17528000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q016",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 16,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nNo triângulo SRT, representado a seguir, os lados RT e RS tem medidas iguais. Sabendo que o segmento RU mede 6 cm e o segmento ST mede 8√2 cm, a área do triângulo SRU é quantos por cento da área do triângulo SRT?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "60%"
+   },
+   {
+    "letra": "B",
+    "texto": "70%"
+   },
+   {
+    "letra": "C",
+    "texto": "75%"
+   },
+   {
+    "letra": "D",
+    "texto": "80%"
+   },
+   {
+    "letra": "E",
+    "texto": "85%"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q016_img1.png",
+    "pagina": 15,
+    "bbox": [
+     351.4,
+     326.9,
+     511.2,
+     491.0
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.6,
+     287.57527999999996,
+     538.75216,
+     298.61528
+    ],
+    [
+     42.6,
+     302.09527999999995,
+     538.71976,
+     313.78087999999997
+    ],
+    [
+     42.6,
+     314.81528,
+     201.68639999999996,
+     325.85528
+    ],
+    [
+     351.36,
+     326.88,
+     511.20000000000005,
+     491.04
+    ],
+    [
+     42.6,
+     352.73528,
+     86.04192348199999,
+     363.77528
+    ],
+    [
+     42.6,
+     365.35528,
+     86.0419200776,
+     376.39528
+    ],
+    [
+     42.6,
+     378.07527999999996,
+     86.0419201712,
+     389.11528
+    ],
+    [
+     42.6,
+     390.67528,
+     86.04192003280001,
+     401.71528
+    ],
+    [
+     42.6,
+     403.27527999999995,
+     86.04192003280001,
+     414.31528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q016_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q017",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 17,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nDois vasilhames A e B, representados ao lado, possuem a mesma capacidade e foram cheios por duas torneiras que mantiveram a mesma vazão de água no mesmo intervalo de tempo.\n\n{{img:2}}\n\nIdentifique qual dos gráficos melhor representa o momento em que os dois vasilhames estavam sendo cheios e atingiram a altura h.",
+  "fontes": [],
+  "alternativas": [],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q017_img1.png",
+    "pagina": 15,
+    "bbox": [
+     336.2,
+     554.3,
+     524.2,
+     666.7
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q017_img2.png",
+    "pagina": 16,
+    "bbox": [
+     45.4,
+     59.8,
+     515.5,
+     313.2
+    ]
+   }
+  ],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   15,
+   16
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.6,
+     555.10528,
+     328.09911999999997,
+     566.14528
+    ],
+    [
+     42.6,
+     567.82528,
+     327.9508799999999,
+     578.86528
+    ],
+    [
+     42.6,
+     580.4252799999999,
+     328.16848,
+     591.46528
+    ],
+    [
+     42.6,
+     593.02528,
+     175.31912,
+     604.06528
+    ],
+    [
+     42.6,
+     605.74528,
+     328.11512,
+     616.7852800000001
+    ],
+    [
+     42.6,
+     618.34528,
+     327.97295999999994,
+     629.38528
+    ],
+    [
+     336.24,
+     554.3,
+     524.16,
+     666.72
+    ],
+    [
+     42.6,
+     631.06528,
+     183.90176,
+     642.10528
+    ]
+   ],
+   "16": [
+    [
+     45.36,
+     59.760000000000005,
+     515.52,
+     313.2
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "0 alternativas encontradas (esperado 5)",
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q017_p15.jpg",
+   "revisao/Q017_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q018",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 18,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Rafael decidiu colocar cerâmicas com a forma de hexágonos regulares no piso da sala de seu escritório. Sabendo que a área do piso do escritório mede 25,5 m², que a cerâmica mede 10 cm de lado, desconsiderando a área ocupada pelos rejuntes, quantas pedras de cerâmica serão necessárias para cobrir todo o piso dessa sala?\n\n{{img:1}}\n\nConsidere \\(\\widehat{√3}\\)=1,7",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "225"
+   },
+   {
+    "letra": "B",
+    "texto": "425"
+   },
+   {
+    "letra": "C",
+    "texto": "765"
+   },
+   {
+    "letra": "D",
+    "texto": "1000"
+   },
+   {
+    "letra": "E",
+    "texto": "1250"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q018_img1.png",
+    "pagina": 16,
+    "bbox": [
+     403.2,
+     352.8,
+     535.0,
+     447.1
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.6,
+     352.01527999999996,
+     394.44383999999985,
+     363.05528
+    ],
+    [
+     42.6,
+     364.63527999999997,
+     394.5331199999998,
+     375.67528
+    ],
+    [
+     42.6,
+     377.35528,
+     394.48912,
+     388.39528
+    ],
+    [
+     42.6,
+     389.95527999999996,
+     394.37711999999976,
+     400.99528
+    ],
+    [
+     42.6,
+     402.67528,
+     354.09359999999987,
+     413.71528
+    ],
+    [
+     403.2,
+     352.8,
+     534.96,
+     447.12
+    ],
+    [
+     290.47,
+     429.67528,
+     378.79816,
+     441.36087999999995
+    ],
+    [
+     42.6,
+     454.99528,
+     75.16232,
+     466.03528
+    ],
+    [
+     42.6,
+     467.71527999999995,
+     75.16232,
+     478.75527999999997
+    ],
+    [
+     42.6,
+     480.31528,
+     75.1656,
+     491.35528
+    ],
+    [
+     42.6,
+     492.91527999999994,
+     81.28236,
+     503.95527999999996
+    ],
+    [
+     42.6,
+     505.63527999999997,
+     81.28236,
+     516.6752799999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [
+   "texto curto solto junto da imagem (“Considere \\(\\widehat{√3}\\)=1,7”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q018_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q019",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 19,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nNum sistema de engrenagens, cada uma tem seu raio, de forma que a engrenagem “A” tem raio com medida **R;** a “B” tem raio com medida igual à metade do raio da engrenagem “A”, e a “C” tem raio com medida igual a um quarto do raio da engrenagem “A”. Sendo a medida do raio de “A” igual a 4 cm, quantas voltas “A” dará, quando “C” percorrer o equivalente a 3600 cm?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "2400"
+   },
+   {
+    "letra": "B",
+    "texto": "1200"
+   },
+   {
+    "letra": "C",
+    "texto": "600"
+   },
+   {
+    "letra": "D",
+    "texto": "300"
+   },
+   {
+    "letra": "E",
+    "texto": "150"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q019_img1.png",
+    "pagina": 16,
+    "bbox": [
+     367.9,
+     554.5,
+     525.9,
+     664.9
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.6,
+     568.90528,
+     359.1115199999998,
+     579.94528
+    ],
+    [
+     42.6,
+     581.38528,
+     359.02696000000003,
+     592.4584
+    ],
+    [
+     42.6,
+     594.22528,
+     359.12824,
+     605.2984
+    ],
+    [
+     42.6,
+     606.8584,
+     358.7414399999999,
+     617.8984
+    ],
+    [
+     42.6,
+     619.5784,
+     358.76351999999997,
+     630.6184
+    ],
+    [
+     42.6,
+     632.14528,
+     358.8724,
+     643.2184
+    ],
+    [
+     367.85,
+     554.45,
+     525.85,
+     664.85
+    ],
+    [
+     42.6,
+     644.74528,
+     91.08767999999999,
+     655.78528
+    ],
+    [
+     42.6,
+     682.80528,
+     88.48236,
+     693.84528
+    ],
+    [
+     143.18,
+     682.80528,
+     189.06835999999998,
+     693.84528
+    ],
+    [
+     243.77,
+     682.80528,
+     283.50831999999997,
+     693.84528
+    ],
+    [
+     344.47,
+     682.80528,
+     384.20831999999996,
+     693.84528
+    ],
+    [
+     445.06,
+     682.80528,
+     484.79832,
+     693.84528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q020",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 20,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise as sentenças a seguir:\n\n\\(\\frac{1}{3}\\)  \nI. Se 2<sup>3a</sup> = 729, o resultado de 2<sup>-a</sup> é igual a\n\nII. O resultado da operação (1,25.10<sup>-4</sup> – 1,16.10<sup>-7</sup>) é igual a 1,09.10<sup>-4</sup>\n\nIII. Se x² = 25<sup>12</sup> ; y<sup>6</sup> = 25<sup>12</sup> ; w<sup>7</sup> = 25<sup>63</sup>. O valor da expressão (x.y.w)<sup>12</sup> é a igual a 25<sup>168</sup>\n\nCom base nelas, é **CORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "apenas I é falsa."
+   },
+   {
+    "letra": "B",
+    "texto": "apenas II é verdadeira."
+   },
+   {
+    "letra": "C",
+    "texto": "apenas I e II são verdadeiras."
+   },
+   {
+    "letra": "D",
+    "texto": "apenas I e III são verdadeiras."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II e III são falsas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     48.365279999999984,
+     210.16611999999998,
+     59.40528000000006
+    ],
+    [
+     278.23,
+     72.27,
+     283.15000000000003,
+     83.27
+    ],
+    [
+     64.824,
+     72.98527999999999,
+     275.32615999999996,
+     84.02527999999995
+    ],
+    [
+     61.824,
+     95.06527999999992,
+     400.21263999999996,
+     106.13839999999993
+    ],
+    [
+     58.704,
+     115.82528000000002,
+     475.68967999999995,
+     126.8652800000001
+    ],
+    [
+     42.6,
+     135.26527999999996,
+     251.31511999999998,
+     146.30527999999993
+    ],
+    [
+     42.6,
+     157.22528,
+     144.81199999999998,
+     168.26527999999996
+    ],
+    [
+     42.6,
+     169.82528000000002,
+     176.64031999999997,
+     180.8652800000001
+    ],
+    [
+     42.6,
+     182.54527999999993,
+     209.04271999999997,
+     193.5852799999999
+    ],
+    [
+     42.6,
+     195.14527999999996,
+     212.04559999999998,
+     206.18528000000003
+    ],
+    [
+     42.6,
+     207.74527999999998,
+     156.31727999999998,
+     218.78527999999994
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q020_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q021",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 21,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Uma urna contém 18 bolas vermelhas, 12 amarelas e 20 brancas, sendo todas idênticas. Quantas bolas brancas devem ser retiradas dessa urna, de modo que, ao sortear uma bola, a\n\nprobabilidade de ela ser branca seja igual a \\(\\frac{1}{6}\\) ?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "16"
+   },
+   {
+    "letra": "B",
+    "texto": "15"
+   },
+   {
+    "letra": "C",
+    "texto": "14"
+   },
+   {
+    "letra": "D",
+    "texto": "13"
+   },
+   {
+    "letra": "E",
+    "texto": "12"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     233.09528,
+     538.7467199999996,
+     244.13528000000008
+    ],
+    [
+     42.6,
+     245.81527999999992,
+     538.7927999999998,
+     256.8552799999999
+    ],
+    [
+     42.6,
+     263.40000000000003,
+     274.40824,
+     275.69527999999997
+    ],
+    [
+     42.6,
+     294.77527999999995,
+     76.24228,
+     305.81528
+    ],
+    [
+     143.18,
+     294.77527999999995,
+     176.82827999999998,
+     305.81528
+    ],
+    [
+     243.77,
+     294.77527999999995,
+     277.38828,
+     305.81528
+    ],
+    [
+     344.47,
+     294.77527999999995,
+     378.08828,
+     305.81528
+    ],
+    [
+     445.06,
+     294.77527999999995,
+     478.67828000000003,
+     305.81528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q022",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 22,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Qual é a medida da área do quadrilátero limitado pelas retas *(r) y = 4; (s) 3x – y – 2 = 0;* *(t) y = 1* e (*u) 3x + 2y – 20 = 0*?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "7,5"
+   },
+   {
+    "letra": "B",
+    "texto": "9,0"
+   },
+   {
+    "letra": "C",
+    "texto": "10,5"
+   },
+   {
+    "letra": "D",
+    "texto": "11"
+   },
+   {
+    "letra": "E",
+    "texto": "12"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     320.09527999999995,
+     489.292,
+     331.14631999999995
+    ],
+    [
+     42.6,
+     332.69527999999997,
+     194.10824,
+     343.74631999999997
+    ],
+    [
+     42.6,
+     358.01527999999996,
+     79.3296,
+     369.05528
+    ],
+    [
+     143.18,
+     358.01527999999996,
+     179.91559999999998,
+     369.05528
+    ],
+    [
+     243.77,
+     358.01527999999996,
+     286.62487999999996,
+     369.05528
+    ],
+    [
+     344.47,
+     358.01527999999996,
+     378.08828,
+     369.05528
+    ],
+    [
+     445.06,
+     358.01527999999996,
+     478.67828000000003,
+     369.05528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q022_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q023",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 23,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Se a função trigonométrica 𝑦 = 𝑎 + 𝑏𝑠𝑒𝑛(𝑝𝑥) tem imagem 𝐼 = [1, 5] e período , qual é o valor\n\n\\(\\frac{3}{𝜋}\\)\n\nAdote 𝜋=3  \nda soma  \n𝑎 + 𝑏 + 𝑝?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "5"
+   },
+   {
+    "letra": "B",
+    "texto": "6"
+   },
+   {
+    "letra": "C",
+    "texto": "8"
+   },
+   {
+    "letra": "D",
+    "texto": "10"
+   },
+   {
+    "letra": "E",
+    "texto": "11"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     398.52088000000003,
+     538.8092800000001,
+     409.92087999999995
+    ],
+    [
+     455.5,
+     398.29999999999995,
+     460.9,
+     409.29999999999995
+    ],
+    [
+     151.94816,
+     415.50688,
+     205.0281999,
+     429.54688
+    ],
+    [
+     42.6,
+     417.67528,
+     84.94944,
+     429.54688
+    ],
+    [
+     87.864,
+     417.67528,
+     138.99824,
+     428.88088
+    ],
+    [
+     42.6,
+     443.71527999999995,
+     70.12224,
+     454.75527999999997
+    ],
+    [
+     143.18,
+     443.71527999999995,
+     170.70824,
+     454.75527999999997
+    ],
+    [
+     243.77,
+     443.71527999999995,
+     271.26824,
+     454.75527999999997
+    ],
+    [
+     344.47,
+     443.71527999999995,
+     378.08828,
+     454.75527999999997
+    ],
+    [
+     445.06,
+     443.71527999999995,
+     478.67828000000003,
+     454.75527999999997
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q024",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 24,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nA parábola, representada na figura ao lado, é o esboço do gráfico de uma função quadrática f(x) = ax<sup>2</sup> + bx + c. Se a parábola *y = 2 – f(x+3)* tem vértice V = (p, q) e intersecta o eixo y no ponto P = (0, r), qual é o valor (p – q)/r?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "\\(\\frac{1}{3}\\)"
+   },
+   {
+    "letra": "B",
+    "texto": "1"
+   },
+   {
+    "letra": "C",
+    "texto": "– \\(\\frac{1}{3}\\)"
+   },
+   {
+    "letra": "D",
+    "texto": "– 1"
+   },
+   {
+    "letra": "E",
+    "texto": "– 2"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q024_img1.png",
+    "pagina": 17,
+    "bbox": [
+     310.3,
+     498.2,
+     525.6,
+     686.2
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   17,
+   18
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     494.35528,
+     301.89648,
+     505.39528
+    ],
+    [
+     42.6,
+     506.95527999999996,
+     301.80816,
+     517.99528
+    ],
+    [
+     42.6,
+     519.7052799999999,
+     301.95688,
+     530.75632
+    ],
+    [
+     42.6,
+     532.30528,
+     301.764,
+     543.34528
+    ],
+    [
+     42.6,
+     545.02528,
+     208.71944,
+     556.0984
+    ],
+    [
+     310.32,
+     498.24,
+     525.6,
+     686.16
+    ],
+    [
+     42.6,
+     575.21,
+     67.34400000000001,
+     587.50528
+    ],
+    [
+     42.6,
+     602.14528,
+     67.84848,
+     613.1852799999999
+    ],
+    [
+     42.6,
+     626.09,
+     69.744,
+     638.4184
+    ],
+    [
+     42.6,
+     653.02528,
+     70.84656,
+     664.0984
+    ],
+    [
+     42.6,
+     672.00528,
+     70.84223999999999,
+     683.0784
+    ]
+   ],
+   "18": [
+    [
+     42.6,
+     53.02463999999998,
+     540.72,
+     218.88
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [
+   "figura na pág. 18 depois da alternativa E foi descartada (não faz parte da questão) — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q024_p17.jpg",
+   "revisao/Q024_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q025",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 25,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4212-T5",
+  "textos_base_ids": [
+   "P4212-T5"
+  ],
+  "enunciado": "After reading the text, mark T (true) or F (false).\n\n( ) Countries join to make war against other countries. ( ) UK left EU in 1973.  \n( ) UK joined EU on June 23.  \n( ) UK’s exit from EU is called Brexit.  \n( ) 52 percent voted for leaving the EU.\n\nMark the alternative that contains the **CORRECT** sequence.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "F – T – T – F – F"
+   },
+   {
+    "letra": "B",
+    "texto": "T – F – F – T – T"
+   },
+   {
+    "letra": "C",
+    "texto": "F – F – F – T – T"
+   },
+   {
+    "letra": "D",
+    "texto": "T – T – T – F – F"
+   },
+   {
+    "letra": "E",
+    "texto": "T – F – T – F – T"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.6,
+     521.38528,
+     292.22407999999996,
+     532.4252799999999
+    ],
+    [
+     56.784,
+     546.70528,
+     324.06239999999997,
+     557.74528
+    ],
+    [
+     56.784,
+     559.30528,
+     169.93295999999995,
+     570.34528
+    ],
+    [
+     56.784,
+     571.90528,
+     202.96463999999995,
+     582.94528
+    ],
+    [
+     56.784,
+     584.62528,
+     240.01968,
+     595.6984
+    ],
+    [
+     56.784,
+     597.22528,
+     251.90495999999993,
+     608.26528
+    ],
+    [
+     42.6,
+     622.4252799999999,
+     334.45815999999996,
+     633.46528
+    ],
+    [
+     42.0,
+     642.10528,
+     146.68976,
+     653.1784
+    ],
+    [
+     42.0,
+     654.70528,
+     146.56832,
+     665.7783999999999
+    ],
+    [
+     42.0,
+     667.44528,
+     146.56544,
+     678.5183999999999
+    ],
+    [
+     42.0,
+     680.04528,
+     146.68976,
+     691.1184
+    ],
+    [
+     42.0,
+     692.76528,
+     146.56832,
+     703.8384
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q026",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 26,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "How long did UK stay as a member of EU?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "By October. b) For 10 weeks. c) 1973. d) June 23. e) Since 1973."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.6,
+     61.08528000000001,
+     270.16472,
+     72.12528000000009
+    ],
+    [
+     48.0,
+     86.30527999999993,
+     315.61928,
+     97.34527999999989
+    ],
+    [
+     360.91,
+     86.30527999999993,
+     424.61632,
+     97.34527999999989
+    ],
+    [
+     455.26,
+     86.30527999999993,
+     534.76768,
+     97.34527999999989
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [
+   "1 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q026_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q027",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 27,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Mark T (true) or F (False) for each sentence below.\n\nDavid Cameron\n\n( ) is a prime minister.  \n( ) pushed for the UK to continue in the EU.  \n( ) pushed for the UK to leave the EU.  \n( ) will resign by October.  \n( ) warned about some troubles UK will have.\n\nMark the alternative that contains the **CORRECT** sequence.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "F – F – T – F – F"
+   },
+   {
+    "letra": "B",
+    "texto": "T – T – F – T – T"
+   },
+   {
+    "letra": "C",
+    "texto": "F – T – F – T – F"
+   },
+   {
+    "letra": "D",
+    "texto": "T – F – T – F – T"
+   },
+   {
+    "letra": "E",
+    "texto": "T – T – T – F – F"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.6,
+     117.38527999999997,
+     312.58272,
+     128.42528000000004
+    ],
+    [
+     63.984,
+     142.70528000000002,
+     140.41392,
+     153.74527999999998
+    ],
+    [
+     63.984,
+     165.74527999999998,
+     175.91912,
+     176.78527999999994
+    ],
+    [
+     63.984,
+     178.34528,
+     280.57912,
+     189.38528000000008
+    ],
+    [
+     63.984,
+     190.9452799999999,
+     253.6791,
+     201.98528
+    ],
+    [
+     63.984,
+     203.66527999999994,
+     191.87912,
+     214.70528000000002
+    ],
+    [
+     63.984,
+     216.29527999999993,
+     288.88656,
+     227.3352799999999
+    ],
+    [
+     42.6,
+     241.49527999999998,
+     334.45912,
+     252.53527999999994
+    ],
+    [
+     42.0,
+     263.45528,
+     146.68544,
+     274.5284
+    ],
+    [
+     42.0,
+     276.17528,
+     146.56544,
+     287.2484
+    ],
+    [
+     42.0,
+     288.77527999999995,
+     146.68544,
+     299.84839999999997
+    ],
+    [
+     42.0,
+     301.37528,
+     146.56544,
+     312.4484
+    ],
+    [
+     42.0,
+     314.09527999999995,
+     146.68544,
+     325.16839999999996
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q027_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q028",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 28,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4212-T2",
+  "textos_base_ids": [
+   "P4212-T2"
+  ],
+  "enunciado": "Complete the text 2, considering both context and grammar rules.\n\n{{fonte:1}}\n\n***MY STUDENT LIFE***",
+  "fontes": [
+   "(*In:* Sure. HOBBS, M. and KEDDLE, J. S. Helbling Languages, 2015. (Adaptado)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I live in the __________of Seville with my family in a nice apartment. It’s got a large living room, kitchen and a study. There are three bedrooms, two __________ and a balcony. We live near a park and I often take the dog for a walk there."
+   },
+   {
+    "letra": "B",
+    "texto": "I study maths at Seville University. It’s an old building and it’s really __________. I’m in my second year and I love it."
+   },
+   {
+    "letra": "C",
+    "texto": "Seville is a fantastic city. It’s quite small but it’s very lively. _________ are outdoors concerts during the spring and summer. Summers are hot in the south of Spain but I __________ it."
+   },
+   {
+    "letra": "D",
+    "texto": "I get up quiet early, about 7 a.m. and I __________ a shower. I usually have breakfast at home. I have coffee with milk and toast and jam. But I sometimes have breakfast on my way to __________ with my friends."
+   },
+   {
+    "letra": "E",
+    "texto": "I often go home for lunch. We __________ at about 2 p.m. We usually have fish or meat and vegetables."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.6,
+     377.35528,
+     383.1062399999999,
+     388.39528
+    ],
+    [
+     241.49,
+     402.67528,
+     340.04408,
+     413.71528
+    ],
+    [
+     42.6,
+     427.87528,
+     538.3444799999996,
+     438.9484
+    ],
+    [
+     42.6,
+     440.59527999999995,
+     538.6100799999999,
+     451.63527999999997
+    ],
+    [
+     42.6,
+     453.19527999999997,
+     239.49839999999995,
+     464.23528
+    ],
+    [
+     42.6,
+     465.91527999999994,
+     538.5100799999997,
+     476.98839999999996
+    ],
+    [
+     42.6,
+     478.51527999999996,
+     164.87903999999997,
+     489.55528
+    ],
+    [
+     42.6,
+     491.23528,
+     538.6440799999997,
+     502.3084
+    ],
+    [
+     42.6,
+     503.83527999999995,
+     482.8862399999996,
+     514.87528
+    ],
+    [
+     42.6,
+     516.46528,
+     538.4769599999996,
+     527.50528
+    ],
+    [
+     42.6,
+     529.18528,
+     538.3564799999997,
+     540.22528
+    ],
+    [
+     42.6,
+     541.7852800000001,
+     119.08511999999996,
+     552.82528
+    ],
+    [
+     42.6,
+     554.50528,
+     538.5211199999998,
+     565.54528
+    ],
+    [
+     42.6,
+     567.10528,
+     98.95919999999998,
+     578.14528
+    ],
+    [
+     252.89,
+     579.2042799999999,
+     538.7485599999997,
+     587.24428
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q028_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q029",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 29,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4212-T2",
+  "textos_base_ids": [
+   "P4212-T2"
+  ],
+  "enunciado": "Match the paragraphs A – E (text 2) with the questions 1 – 5 below.\n\n1. What do you do in the morning?  \n2. Do you like Seville?  \n3. Where do you live?  \n4. What do you study?  \n5. What do you have for lunch?\n\nThe **CORRECT** sequence is",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "What do you have for lunch? / Where do you live? / What do you do in the morning? / What do you study? / Do you like Seville?"
+   },
+   {
+    "letra": "B",
+    "texto": "Do you like Seville? / What do you have for lunch? / What do you study? / Where do you live? / What do you do in the morning?"
+   },
+   {
+    "letra": "C",
+    "texto": "Where do you live? / What do you study? / Do you like Seville? / What do you do in the morning? / What do you have for lunch?"
+   },
+   {
+    "letra": "D",
+    "texto": "What do you study? / Where do you live? / What do you do in the morning? / What do you have for lunch? / Do you like Seville?"
+   },
+   {
+    "letra": "E",
+    "texto": "What do you do in the morning? / What do you study? / Where do you live? / Do you like Seville? / What do you have for lunch?"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.6,
+     61.08528000000001,
+     391.84911999999997,
+     72.15840000000003
+    ],
+    [
+     42.0,
+     86.30527999999993,
+     220.04543999999999,
+     97.34527999999989
+    ],
+    [
+     42.0,
+     99.02527999999995,
+     159.85535999999996,
+     110.06527999999992
+    ],
+    [
+     42.0,
+     111.62527999999998,
+     158.03375999999997,
+     122.66528000000005
+    ],
+    [
+     42.0,
+     124.34528,
+     161.15807999999998,
+     135.38528000000008
+    ],
+    [
+     42.0,
+     136.9452799999999,
+     203.98224,
+     147.98528
+    ],
+    [
+     42.6,
+     162.14527999999996,
+     180.88998,
+     173.18528000000003
+    ],
+    [
+     42.6,
+     187.58528,
+     538.91616,
+     198.6252800000001
+    ],
+    [
+     63.984,
+     200.18527999999992,
+     222.22783999999996,
+     211.22528
+    ],
+    [
+     42.6,
+     212.93527999999992,
+     538.86912,
+     223.97528
+    ],
+    [
+     63.984,
+     225.53527999999994,
+     220.04543999999999,
+     236.5752799999999
+    ],
+    [
+     42.6,
+     238.13527999999997,
+     538.93824,
+     249.17528000000004
+    ],
+    [
+     63.984,
+     250.85528,
+     210.08304,
+     261.89528000000007
+    ],
+    [
+     42.6,
+     263.45528,
+     538.85824,
+     274.49528
+    ],
+    [
+     63.984,
+     276.17528,
+     217.32991999999996,
+     287.21528
+    ],
+    [
+     42.6,
+     288.77527999999995,
+     538.75504,
+     299.81528
+    ],
+    [
+     63.984,
+     301.37528,
+     210.09695999999997,
+     312.41528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q029_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q030",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 30,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4212-T3",
+  "textos_base_ids": [
+   "P4212-T3"
+  ],
+  "enunciado": "Após a leitura dos textos 3, 4 e 5, infere-se que\n\nI. todos eles têm funções comunicativas semelhantes, porém o texto 5 apresenta-se mais descritivo que os outros, enfocando aspectos da geografia do país referido.\n\nII. têm funções comunicativas diferentes, sendo o texto 3 mais focado na descrição do lugar, com detalhes sobre a origem do Parque Natural dos Elefantes e sua geografia.\n\nIII. o texto 4 apresenta elementos descritivos do lugar, detendo-se na origem de sua formação\n\ngeográfica e do nome, nos fenômenos e nas belezas naturais da paisagem.\n\nIV. no texto 3, percebe-se, inicialmente, um apelo em prol dos elefantes do Parque Natural em Chiang Mai, algo enfatizado nas últimas linhas.\n\nV. todos têm como objetivo informar o leitor quanto à possibilidade de fazer algo diferente, seja para seu lazer, seja para colaborar voluntariamente em algum projeto ambiental.\n\nEstá **CORRETO** o que se afirma, apenas, em",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "III, IV e V."
+   },
+   {
+    "letra": "B",
+    "texto": "IV e V."
+   },
+   {
+    "letra": "C",
+    "texto": "II."
+   },
+   {
+    "letra": "D",
+    "texto": "I e V."
+   },
+   {
+    "letra": "E",
+    "texto": "II e III."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.6,
+     257.6952799999999,
+     294.5492,
+     268.73527999999993
+    ],
+    [
+     56.784,
+     278.45527999999996,
+     538.89216,
+     289.49528
+    ],
+    [
+     78.024,
+     291.05528,
+     445.60912,
+     302.09528
+    ],
+    [
+     56.784,
+     303.77527999999995,
+     538.70056,
+     314.81528
+    ],
+    [
+     78.024,
+     316.37528,
+     463.8057599999997,
+     327.41528
+    ],
+    [
+     56.784,
+     328.97527999999994,
+     538.8582399999999,
+     340.01527999999996
+    ],
+    [
+     78.024,
+     341.69527999999997,
+     448.04103999999995,
+     352.73528
+    ],
+    [
+     56.784,
+     354.29528,
+     538.68392,
+     365.33528
+    ],
+    [
+     78.024,
+     367.03527999999994,
+     308.06768,
+     378.07527999999996
+    ],
+    [
+     56.784,
+     379.63527999999997,
+     538.4361599999995,
+     390.67528
+    ],
+    [
+     78.024,
+     392.23528,
+     471.0879199999998,
+     403.27528
+    ],
+    [
+     42.6,
+     411.67528,
+     265.18616000000003,
+     422.71528
+    ],
+    [
+     42.6,
+     432.55528,
+     112.39439999999999,
+     443.59528
+    ],
+    [
+     179.45,
+     432.55528,
+     230.50375999999997,
+     443.59528
+    ],
+    [
+     278.71,
+     432.55528,
+     305.89527999999996,
+     443.59528
+    ],
+    [
+     362.47,
+     432.55528,
+     406.2232,
+     443.59528
+    ],
+    [
+     463.06,
+     432.55528,
+     511.72704,
+     443.59528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q030_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q031",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 31,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4212-T3",
+  "textos_base_ids": [
+   "P4212-T3"
+  ],
+  "enunciado": "No trecho *‘*<u>*Lend a hand*</u> *with the least fortune of these animals at the Elephant Nature Park* *outside Chiang Mai* …’ (texto 3), a expressão grifada corresponde, em português, a",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "emprestar algo."
+   },
+   {
+    "letra": "B",
+    "texto": "dar uma mão, ajudar."
+   },
+   {
+    "letra": "C",
+    "texto": "meter os pés pelas mãos."
+   },
+   {
+    "letra": "D",
+    "texto": "tomar emprestado."
+   },
+   {
+    "letra": "E",
+    "texto": "passar a mão, levar sem permissão."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.6,
+     457.87528,
+     501.8957599999999,
+     468.92632
+    ],
+    [
+     42.6,
+     470.47527999999994,
+     449.51824,
+     481.54839999999996
+    ],
+    [
+     42.6,
+     495.79528,
+     140.48911999999999,
+     506.83528
+    ],
+    [
+     42.6,
+     508.39527999999996,
+     168.52463999999998,
+     519.4352799999999
+    ],
+    [
+     42.6,
+     521.14528,
+     189.95911999999998,
+     532.1852799999999
+    ],
+    [
+     42.6,
+     533.74528,
+     156.32912,
+     544.7852800000001
+    ],
+    [
+     42.6,
+     546.34528,
+     241.43912,
+     557.38528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q031_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q032",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 32,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "No texto 5, em: ‘*Commercial fishing, coastal development, humans harvesting eggs, marine*  \n*debris, oil spills: the threats to sea turtles are staggering*.’, há",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "uma sequência de razões para se fomentarem pesquisas sobre o ambiente onde as tartarugas marinhas vivem e se reproduzem."
+   },
+   {
+    "letra": "B",
+    "texto": "uma sequência de atitudes que prejudica os voluntários do Caribe onde há maior desova das tartarugas marinhas."
+   },
+   {
+    "letra": "C",
+    "texto": "diversas e surpreendentes formas de ameaça às tartarugas marinhas."
+   },
+   {
+    "letra": "D",
+    "texto": "uma série de mitos sobre o berçário das tartarugas marinhas na Costa Rica."
+   },
+   {
+    "letra": "E",
+    "texto": "incríveis fatos sobre a reprodução das tartarugas marinhas nas areias negras da costa caribenha."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.6,
+     571.6652799999999,
+     507.4251199999998,
+     582.7384
+    ],
+    [
+     42.6,
+     584.38528,
+     338.72823999999997,
+     595.4584
+    ],
+    [
+     42.6,
+     609.70528,
+     526.99576,
+     620.74528
+    ],
+    [
+     63.984,
+     622.30528,
+     229.75256000000002,
+     633.34528
+    ],
+    [
+     42.6,
+     634.90528,
+     522.19648,
+     645.94528
+    ],
+    [
+     63.984,
+     647.62528,
+     164.92271999999997,
+     658.6652799999999
+    ],
+    [
+     42.6,
+     660.22528,
+     406.40311999999994,
+     671.26528
+    ],
+    [
+     42.6,
+     672.96528,
+     436.26383999999973,
+     684.00528
+    ],
+    [
+     42.6,
+     685.56528,
+     486.49583999999953,
+     696.60528
+    ],
+    [
+     63.984,
+     698.1652799999999,
+     115.41936000000001,
+     709.20528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q032_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q033",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 33,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4212-T3",
+  "textos_base_ids": [
+   "P4212-T3"
+  ],
+  "enunciado": "Considerando a gramática e as funções comunicativas da língua, os termos ‘***Explore***’ and  \n‘***Rescue***’, nos subtítulos dos textos 4 e 5, são",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "substantivos, pois têm a função de denominar."
+   },
+   {
+    "letra": "B",
+    "texto": "verbo na forma do gerúndio e adjetivo, respectivamente, com função de qualificadores."
+   },
+   {
+    "letra": "C",
+    "texto": "verbos na forma do particípio, indicando ação realizada."
+   },
+   {
+    "letra": "D",
+    "texto": "verbo no modo imperativo e substantivo comum, respectivamente."
+   },
+   {
+    "letra": "E",
+    "texto": "verbos no modo imperativo, com a função de apelar."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.6,
+     61.08528000000001,
+     500.87056,
+     72.15840000000003
+    ],
+    [
+     42.6,
+     73.70528000000002,
+     265.40264,
+     84.77840000000003
+    ],
+    [
+     42.6,
+     93.26527999999996,
+     291.49631999999997,
+     104.30527999999993
+    ],
+    [
+     42.6,
+     105.86527999999998,
+     488.58912,
+     116.90528000000006
+    ],
+    [
+     42.6,
+     118.58528000000001,
+     337.24352,
+     129.6252800000001
+    ],
+    [
+     42.6,
+     131.18527999999992,
+     388.04111999999986,
+     142.22528
+    ],
+    [
+     42.6,
+     143.90527999999995,
+     320.83495999999997,
+     154.94528000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q034",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 34,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4212-T4",
+  "textos_base_ids": [
+   "P4212-T4"
+  ],
+  "enunciado": "Leia os textos 6, 7 e 8 e complete as lacunas com verbos auxiliares modais**.** Atenção para o  \ncontexto e o uso da língua, conforme a gramática.\n\n{{img:1}}\n\nEarth, and no one really knows how long it would\n\n{{fonte:1}}\n\nA sequência **CORRETA** que completa as lacunas dos textos 6, 7 e 8 está indicada na alternativa",
+  "fontes": [
+   "(If All the Ice Melted. National Geographic, September, 2013. Adaptado.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "ought to / Shall / mustn’t"
+   },
+   {
+    "letra": "B",
+    "texto": "shan’t / Should / ought to"
+   },
+   {
+    "letra": "C",
+    "texto": "mustn’t / Shall / can’t"
+   },
+   {
+    "letra": "D",
+    "texto": "would / Shouldn’t / may"
+   },
+   {
+    "letra": "E",
+    "texto": "shall / Might / shouldn’t"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q034_img1.png",
+    "pagina": 22,
+    "bbox": [
+     42.6,
+     200.0,
+     538.7,
+     617.2
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   22,
+   23
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.6,
+     168.98528,
+     509.94831999999997,
+     180.02527999999995
+    ],
+    [
+     42.6,
+     181.82528000000002,
+     287.13079999999997,
+     192.8652800000001
+    ],
+    [
+     42.6,
+     200.03999999999996,
+     538.65256,
+     617.24428
+    ],
+    [
+     278.83,
+     225.53527999999994,
+     538.5901599999999,
+     236.5752799999999
+    ],
+    [
+     281.23,
+     334.23428,
+     538.81068,
+     342.27428000000003
+    ],
+    [
+     42.6,
+     623.38528,
+     515.34064,
+     634.4252799999999
+    ],
+    [
+     42.6,
+     644.26528,
+     182.04056,
+     655.3384
+    ],
+    [
+     42.6,
+     656.86528,
+     185.76272,
+     667.9384
+    ],
+    [
+     42.6,
+     669.60528,
+     165.56432,
+     680.6784
+    ],
+    [
+     42.6,
+     682.20528,
+     177.86528,
+     693.2783999999999
+    ],
+    [
+     42.6,
+     694.9252799999999,
+     175.89056,
+     705.9984
+    ]
+   ],
+   "23": [
+    [
+     43.2,
+     54.10464000000002,
+     539.28,
+     67.68
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [
+   "imagem 1 tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto",
+   "figura na pág. 23 depois da alternativa E foi descartada (não faz parte da questão) — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q034_p22.jpg",
+   "revisao/Q034_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q035",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 35,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4212-T9",
+  "textos_base_ids": [
+   "P4212-T9"
+  ],
+  "enunciado": "Leia o texto a seguir sobre o Estado Democrático**.**\n\nPara Aristóteles, o motivo pelo qual nasce o Estado é o de tornar possível a vida e também uma vida feliz. De fato, a meta final da vida humana é a felicidade. Por isso, a razão de ser do Estado é facilitar o acesso a essa meta.\n\n{{fonte:1}}\n\nNa citação acima, o autor faz uma reflexão filosófica sobre a dimensão do Estado, afirmando que",
+  "fontes": [
+   "MONDIN, B. O homem, quem é ele? São Paulo: Edições Paulinas, 1980, p. 157."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o Estado é a felicidade da vida humana, e a razão tem valor secundário nessa meta."
+   },
+   {
+    "letra": "B",
+    "texto": "a meta final da vida humana é a felicidade, e o sentido do Estado é obstar o acesso a essa meta."
+   },
+   {
+    "letra": "C",
+    "texto": "o Estado tem significância na meta da felicidade, e a vida humana é, por natureza, social."
+   },
+   {
+    "letra": "D",
+    "texto": "na esfera do Estado, a questão democrática é prescindível."
+   },
+   {
+    "letra": "E",
+    "texto": "a democracia é condição secundária na razão de ser do Estado."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   28
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.6,
+     187.46528,
+     305.05912,
+     198.50527999999997
+    ],
+    [
+     49.68,
+     204.52591999999993,
+     540.2870399999994,
+     215.08592
+    ],
+    [
+     49.68,
+     216.6759199999999,
+     540.3532,
+     227.23591999999996
+    ],
+    [
+     49.68,
+     228.7959199999999,
+     146.10704,
+     239.35591999999997
+    ],
+    [
+     254.21,
+     240.51427999999999,
+     540.42596,
+     248.55427999999995
+    ],
+    [
+     42.6,
+     259.49528,
+     517.34304,
+     270.53528
+    ],
+    [
+     42.6,
+     280.13527999999997,
+     479.91375999999997,
+     291.17528
+    ],
+    [
+     42.6,
+     292.85528,
+     538.3617599999995,
+     303.89528
+    ],
+    [
+     42.6,
+     305.45527999999996,
+     501.24735999999996,
+     316.49528
+    ],
+    [
+     42.6,
+     318.05528,
+     353.62943999999993,
+     329.09528
+    ],
+    [
+     42.6,
+     330.77527999999995,
+     378.2702399999999,
+     341.81528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q035_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q036",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 36,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir sobre o Pensamento Ético-político:\n\nO que enaltece e enobrece a política de Platão é que ela, no fundo, quer uma só coisa: uma sociedade e um cidadão justos, ou seja, a harmonia social alcançada pela perfeição moral dos cidadãos. É evidente que até hoje lutamos para realizar essas metas, não mais no restrito âmbito de uma polis grega, mas no mundo globalizado.\n\n{{fonte:1}}\n\nNa citação acima, o autor retrata a significância do pensamento ético-político como fundamento para uma sociedade justa. Essa linha de pensamento expressa que",
+  "fontes": [
+   "PEGORARO, Olinto. Ética dos maiores mestres através da história. Petrópolis: Vozes, 2006, p. 35."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "no mundo globalizado, a dimensão ético-política tem a confluência do que é justo."
+   },
+   {
+    "letra": "B",
+    "texto": "a política de Platão enaltece o cidadão justo, declinando da harmonia social."
+   },
+   {
+    "letra": "C",
+    "texto": "enobrecer a política de Platão é priorizar o espaço restrito no âmbito da pólis grega."
+   },
+   {
+    "letra": "D",
+    "texto": "a baliza central do estado é tornar os cidadãos melhores com alcance da ordem justa na esfera pública."
+   },
+   {
+    "letra": "E",
+    "texto": "a harmonia social, alcançada na esfera política, independe da perfeição moral do cidadão."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   28
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.6,
+     364.15527999999995,
+     333.61912,
+     375.19527999999997
+    ],
+    [
+     48.0,
+     383.71527999999995,
+     533.2079999999999,
+     394.75527999999997
+    ],
+    [
+     48.0,
+     396.31528,
+     533.34584,
+     407.35528
+    ],
+    [
+     48.0,
+     408.91527999999994,
+     533.2300799999995,
+     419.95527999999996
+    ],
+    [
+     48.0,
+     421.63527999999997,
+     282.11424,
+     432.67528
+    ],
+    [
+     182.09,
+     438.41427999999996,
+     533.39296,
+     446.45428
+    ],
+    [
+     42.6,
+     454.99528,
+     538.91856,
+     466.03528
+    ],
+    [
+     42.6,
+     467.59527999999995,
+     348.57064,
+     478.63527999999997
+    ],
+    [
+     42.6,
+     487.15527999999995,
+     464.00296,
+     498.19527999999997
+    ],
+    [
+     42.6,
+     499.75527999999997,
+     436.9262399999999,
+     510.79528
+    ],
+    [
+     42.6,
+     512.50528,
+     472.9166399999994,
+     523.54528
+    ],
+    [
+     42.6,
+     525.10528,
+     538.81984,
+     536.14528
+    ],
+    [
+     63.984,
+     537.82528,
+     101.87328,
+     548.86528
+    ],
+    [
+     42.6,
+     550.4252799999999,
+     504.9988799999997,
+     561.46528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q036_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q037",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 37,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Sobre o tema Paradigma da Modernidade, analise o texto a seguir:\n\n{{img:1}}\n\nOs trabalhos de Galileu e Descartes significam, para além de um simples progresso do conhecimento, uma radical mudança de perspectiva sobre o homem e o mundo: passamos da noção de um Cosmos hierarquizado de regiões distintas à de um Universo infinito e homogêneo, no qual a ciência, no sentido moderno, se manifesta.\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nO autor retrata alguns tópicos sobre as mudanças no âmbito da Ciência Moderna. Com relação a essa temática, é **CORRETO** afirmar que",
+  "fontes": [
+   "JAPIASSU, Hilton. Como Nasceu a Ciência Moderna. Rio de Janeiro: Imago, p. 11, 2007.",
+   "Disponível em: umanovafisica.blogspot.com"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "no âmbito do paradigma da modernidade, as ciências física e matemática tornam-se paradigmas de compreensão do mundo."
+   },
+   {
+    "letra": "B",
+    "texto": "o Cosmos hierarquizado tem a primazia na ciência, com relação ao sentido moderno."
+   },
+   {
+    "letra": "C",
+    "texto": "na ciência moderna, o conhecimento científico é considerado a leitura de um livro sempre fechado."
+   },
+   {
+    "letra": "D",
+    "texto": "com a ciência moderna, as ideias de Galileu, seguindo os princípios da física de Aristóteles, pretendem decifrar o grande livro da natureza com os caracteres matemáticos."
+   },
+   {
+    "letra": "E",
+    "texto": "a ciência moderna não é mecanicista. A visão mecanicista serve de modelo para os preceitos metafísico e teológico."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q037_img1.png",
+    "pagina": 28,
+    "bbox": [
+     61.9,
+     595.4,
+     246.2,
+     699.8
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   28,
+   29
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.6,
+     575.74528,
+     388.14903999999996,
+     586.7852800000001
+    ],
+    [
+     61.92,
+     595.44,
+     246.24,
+     699.84
+    ],
+    [
+     268.63,
+     600.94528,
+     536.1844,
+     611.98528
+    ],
+    [
+     268.63,
+     613.54528,
+     536.2175199999999,
+     624.58528
+    ],
+    [
+     268.63,
+     626.14528,
+     536.2511199999999,
+     637.1852799999999
+    ],
+    [
+     268.63,
+     638.86528,
+     536.2616799999998,
+     649.90528
+    ],
+    [
+     268.63,
+     651.46528,
+     536.1292,
+     662.50528
+    ],
+    [
+     268.63,
+     664.20528,
+     536.0850399999999,
+     675.24528
+    ],
+    [
+     268.63,
+     676.80528,
+     383.63367999999997,
+     687.84528
+    ],
+    [
+     289.87,
+     694.66428,
+     536.0145999999997,
+     702.70428
+    ],
+    [
+     467.26,
+     703.90428,
+     536.29948,
+     711.9442799999999
+    ],
+    [
+     78.024,
+     704.02428,
+     234.1136,
+     711.9442799999999
+    ]
+   ],
+   "29": [
+    [
+     42.6,
+     61.08528000000001,
+     538.4395199999998,
+     72.12528000000009
+    ],
+    [
+     42.6,
+     73.58528000000001,
+     239.65303999999998,
+     84.62528000000009
+    ],
+    [
+     42.6,
+     104.78527999999994,
+     538.9368,
+     115.8252799999999
+    ],
+    [
+     63.984,
+     117.38527999999997,
+     261.59384,
+     128.42528000000004
+    ],
+    [
+     42.6,
+     130.10528,
+     480.3134399999996,
+     141.14528000000007
+    ],
+    [
+     42.6,
+     142.70528000000002,
+     538.5612799999997,
+     153.74527999999998
+    ],
+    [
+     63.984,
+     155.30527999999993,
+     106.31136000000001,
+     166.3452799999999
+    ],
+    [
+     42.6,
+     168.02527999999995,
+     538.7665599999999,
+     179.06527999999992
+    ],
+    [
+     63.984,
+     180.62527999999998,
+     448.44095999999956,
+     191.66528000000005
+    ],
+    [
+     42.6,
+     193.34528,
+     538.6529599999997,
+     204.38528000000008
+    ],
+    [
+     63.984,
+     205.9452799999999,
+     173.44559999999996,
+     216.98528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q037_p28.jpg",
+   "revisao/Q037_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q038",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 38,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir sobre a temática da Lógica:\n\nA Aristóteles cabe o mérito de ter iniciado o estudo orgânico das regras da lógica. O mérito principal de Aristóteles é ter fixado, com grande exatidão, as regras da argumentação dedutiva na forma de silogismo.\n\n{{fonte:1}}\n\nO autor faz algumas considerações acerca da filosofia de Aristóteles, com singularidade no âmbito da lógica. Sobre isso, tem-se como **CORRETO** que",
+  "fontes": [
+   "MONDIN, B. Introdução à Filosofia. São Paulo: Edições Paulinas, 1980, p. 13."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o silogismo é expresso pela ligação de dois termos por meio de um terceiro."
+   },
+   {
+    "letra": "B",
+    "texto": "a argumentação dedutiva chega à conclusão valendo-se da experiência sensível."
+   },
+   {
+    "letra": "C",
+    "texto": "o silogismo é um tipo de argumento que deve ter um termo maior, nem mais nem menos."
+   },
+   {
+    "letra": "D",
+    "texto": "o tipo de argumento dedutivo faz uso da analogia sem inferência das premissas."
+   },
+   {
+    "letra": "E",
+    "texto": "as regras da argumentação dedutiva chegam a uma conclusão, partindo de dados particulares."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.6,
+     242.81527999999992,
+     298.33112000000006,
+     253.85527999999988
+    ],
+    [
+     48.0,
+     264.65527999999995,
+     533.1086399999995,
+     275.69527999999997
+    ],
+    [
+     48.0,
+     277.25527999999997,
+     533.1638399999997,
+     288.29528
+    ],
+    [
+     48.0,
+     289.97527999999994,
+     143.18887999999998,
+     301.01527999999996
+    ],
+    [
+     256.25,
+     302.07428,
+     533.3715999999998,
+     310.11428
+    ],
+    [
+     42.6,
+     325.61528,
+     538.3511999999996,
+     336.65528
+    ],
+    [
+     42.6,
+     338.09527999999995,
+     293.96831999999995,
+     349.13527999999997
+    ],
+    [
+     42.6,
+     358.97527999999994,
+     435.07336,
+     370.01527999999996
+    ],
+    [
+     42.6,
+     371.59527999999995,
+     460.9141599999999,
+     382.63527999999997
+    ],
+    [
+     42.6,
+     384.19527999999997,
+     499.8100799999998,
+     395.23528
+    ],
+    [
+     42.6,
+     396.91527999999994,
+     456.72903999999994,
+     407.95527999999996
+    ],
+    [
+     42.6,
+     409.51527999999996,
+     528.6465599999995,
+     420.55528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q038_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q039",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 39,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Sobre a Lógica, observe o texto a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nPara Aristóteles, a lógica não era uma ciência teorética nem prática ou produtiva, mas um instrumento para as ciências. Eis por que o conjunto das obras lógicas aristotélicas recebeu o nome de Órganon, palavra grega que significa instrumento.\n\n{{fonte:2}}\n\nA autora retrata a dimensão que tem a lógica como instrumento do pensamento no plano das obras da filosofia de Aristóteles. Com relação a esse assunto, é **CORRETO** afirmar que",
+  "fontes": [
+   "Disponível em: gardenofpraise.com",
+   "CHAUÍ, Marilena. Convite à Filosofia. São Paulo: Editora Ática, 1996, p. 183."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a lógica na concepção de Aristóteles é um instrumento que não pode ser utilizado pelas ciências."
+   },
+   {
+    "letra": "B",
+    "texto": "a lógica para Aristóteles possui um caráter instrumental e preocupa-se primordialmente com o aspecto informal de um argumento."
+   },
+   {
+    "letra": "C",
+    "texto": "Aristóteles, na sua lógica clássica, concebe como instrumento do pensamento três funções básicas: conceber, julgar e raciocinar."
+   },
+   {
+    "letra": "D",
+    "texto": "a dimensão lógica para Aristóteles não é um estágio preparatório que antecede ao conhecimento propriamente dito."
+   },
+   {
+    "letra": "E",
+    "texto": "na lógica clássica de Aristóteles, a ciência prática ou produtiva se sobrepõe ao caráter instrumental do pensamento."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q039_img1.png",
+    "pagina": 29,
+    "bbox": [
+     63.4,
+     470.9,
+     281.5,
+     622.8
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   29,
+   30
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.6,
+     447.43528,
+     261.48943999999995,
+     458.47528
+    ],
+    [
+     63.36,
+     470.88,
+     281.52,
+     622.8000000000001
+    ],
+    [
+     148.94,
+     623.84428,
+     274.70971999999995,
+     631.88428
+    ],
+    [
+     305.83,
+     493.15527999999995,
+     514.1658399999999,
+     504.19527999999997
+    ],
+    [
+     305.83,
+     505.75527999999997,
+     514.02232,
+     516.79528
+    ],
+    [
+     305.83,
+     518.50528,
+     514.0112799999999,
+     529.54528
+    ],
+    [
+     305.83,
+     531.10528,
+     514.17688,
+     542.14528
+    ],
+    [
+     305.83,
+     543.82528,
+     514.1283999999999,
+     554.86528
+    ],
+    [
+     305.83,
+     556.4252799999999,
+     500.92887999999994,
+     567.46528
+    ],
+    [
+     312.67,
+     578.9642799999999,
+     514.0398399999999,
+     587.00428
+    ],
+    [
+     445.18,
+     588.08428,
+     514.19536,
+     596.12428
+    ],
+    [
+     42.6,
+     643.90528,
+     538.6722399999999,
+     654.94528
+    ],
+    [
+     42.6,
+     656.38528,
+     439.52368,
+     667.4252799999999
+    ]
+   ],
+   "30": [
+    [
+     42.6,
+     61.08528000000001,
+     538.3175999999996,
+     72.12528000000009
+    ],
+    [
+     42.6,
+     73.70528000000002,
+     538.8755199999999,
+     84.74527999999998
+    ],
+    [
+     63.984,
+     86.30527999999993,
+     237.04703999999998,
+     97.34527999999989
+    ],
+    [
+     42.6,
+     99.02527999999995,
+     538.6156799999997,
+     110.06527999999992
+    ],
+    [
+     63.984,
+     111.62527999999998,
+     248.67216000000002,
+     122.66528000000005
+    ],
+    [
+     42.6,
+     124.34528,
+     538.7708,
+     135.38528000000008
+    ],
+    [
+     63.984,
+     136.9452799999999,
+     224.19648,
+     147.98528
+    ],
+    [
+     42.6,
+     149.66527999999994,
+     538.85952,
+     160.70528000000002
+    ],
+    [
+     63.984,
+     162.26527999999996,
+     205.88111999999995,
+     173.30527999999993
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q039_p29.jpg",
+   "revisao/Q039_p30.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q040",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 40,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Sobre Paradigma da Modernidade, leia o texto a seguir:\n\nCom a revolução científica moderna (século XVII), a ciência deixa de ser contemplativa ou teórica para tornar-se ativa, detendo um poder de exercer uma ação eficaz. Adquire um outro estatuto: torna-se um saber, tendo por objetivo conhecer o mundo no sentido de dominá-lo, sobre ele exercer um poder, converter o homem em seu mestre e possuidor.\n\n{{fonte:1}}\n\nNo contexto do Paradigma da Modernidade, com especificidade no âmbito da revolução científica moderna, o autor faz algumas observações pertinentes sobre o novo estatuto do saber. Sobre esse assunto, é **CORRETO** afirmar que",
+  "fontes": [
+   "JAPIASSU, Hilton. Ciência e Destino Humano. Rio de Janeiro: Imago, p. 211, 2005."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o saber científico e a técnica começam a formar um par dissociável."
+   },
+   {
+    "letra": "B",
+    "texto": "na revolução científica moderna, a ciência contemplativa alicerça as bases constitutivas da ação eficaz."
+   },
+   {
+    "letra": "C",
+    "texto": "o conhecimento científico teórico tem significância maior frente à ação eficaz."
+   },
+   {
+    "letra": "D",
+    "texto": "com a revolução científica moderna, o novo estatuto, com a ciência ativa, não só é relevante mas também deseja a dominação, a subjugação, a manipulação da natureza, exercendo sobre esta poder."
+   },
+   {
+    "letra": "E",
+    "texto": "com o novo estatuto teórico, a ciência perde o seu poder. Doravante, o homem é o senhor e o mestre da natureza."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   30
+  ],
+  "caixas": {
+   "30": [
+    [
+     42.6,
+     199.10528,
+     333.7228,
+     210.14528000000007
+    ],
+    [
+     48.0,
+     224.33528,
+     540.2073599999994,
+     235.3752800000001
+    ],
+    [
+     48.0,
+     237.05527999999993,
+     540.3852799999997,
+     248.0952799999999
+    ],
+    [
+     48.0,
+     249.65527999999995,
+     540.62464,
+     260.69528
+    ],
+    [
+     48.0,
+     262.37528,
+     334.0353599999999,
+     273.41528
+    ],
+    [
+     243.53,
+     277.95428,
+     540.3989599999999,
+     285.99428
+    ],
+    [
+     42.6,
+     300.29528,
+     538.62112,
+     311.33528
+    ],
+    [
+     42.6,
+     312.89527999999996,
+     538.4947199999997,
+     323.93528
+    ],
+    [
+     42.6,
+     325.49528,
+     210.24368,
+     336.53528
+    ],
+    [
+     42.6,
+     347.45527999999996,
+     395.2391999999997,
+     358.49528
+    ],
+    [
+     42.6,
+     360.05528,
+     538.7861599999999,
+     371.09528
+    ],
+    [
+     63.984,
+     372.79528,
+     95.70192,
+     383.83528
+    ],
+    [
+     42.6,
+     385.39527999999996,
+     441.13928,
+     396.43528
+    ],
+    [
+     42.6,
+     397.99528,
+     538.6747999999999,
+     409.03528
+    ],
+    [
+     63.984,
+     410.71527999999995,
+     538.91104,
+     421.75527999999997
+    ],
+    [
+     63.984,
+     423.31528,
+     119.11776,
+     434.35528
+    ],
+    [
+     42.6,
+     436.03527999999994,
+     538.93824,
+     447.07527999999996
+    ],
+    [
+     63.984,
+     448.63527999999997,
+     161.82047999999998,
+     459.67528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q040_p30.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q041",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 41,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Sobre a Dimensão Política e a Cidadania, analise o texto a seguir:\n\nA política apresenta-se hoje como a arte de governar, de atuar na vida pública e gerir os assuntos de interesse comum. Não se restringe à atividade desenvolvida no âmbito do Estado, mas faz parte de nossa vida, permeia todas as formas de relacionamento social: no trabalho, na escola, nas ruas, no lazer e até nas relações afetivas.\n\n{{fonte:1}}\n\nO texto acima retrata, de forma abrangente, o sentido que tem a política no conjunto das relações sociais. No âmbito dessa temática, tem-se também como **CORRETO** que",
+  "fontes": [
+   "Para filosofar – São Paulo: Scipione, 2000, p. 176."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a esfera política restringe-se à atividade da ação do Estado no processo democrático."
+   },
+   {
+    "letra": "B",
+    "texto": "a dimensão política diz respeito exclusivamente aos políticos que estão empenhados nos assuntos de interesse comum para a cidadania."
+   },
+   {
+    "letra": "C",
+    "texto": "na esfera da cidadania, a dimensão política abrange todas as atividades humanas o tempo todo."
+   },
+   {
+    "letra": "D",
+    "texto": "o exercício da cidadania independe da esfera política. O cidadão tem autonomia na ação política e na vida da sociedade."
+   },
+   {
+    "letra": "E",
+    "texto": "a verdadeira cidadania permeia todos os direitos e deveres para a coletividade, prescindindo dos assuntos públicos no âmbito da sociedade."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   30
+  ],
+  "caixas": {
+   "30": [
+    [
+     42.6,
+     469.27527999999995,
+     384.56199999999995,
+     480.31528
+    ],
+    [
+     42.6,
+     494.59527999999995,
+     538.3923199999997,
+     505.63527999999997
+    ],
+    [
+     42.6,
+     507.31528,
+     538.3732799999996,
+     518.35528
+    ],
+    [
+     42.6,
+     519.9452799999999,
+     538.6498399999998,
+     530.98528
+    ],
+    [
+     42.6,
+     532.54528,
+     203.46432,
+     543.58528
+    ],
+    [
+     358.75,
+     545.26528,
+     538.86912,
+     556.30528
+    ],
+    [
+     42.6,
+     569.38528,
+     538.4926399999997,
+     580.4252799999999
+    ],
+    [
+     42.6,
+     581.98528,
+     401.64304,
+     593.02528
+    ],
+    [
+     42.6,
+     607.30528,
+     482.9530399999999,
+     618.34528
+    ],
+    [
+     42.6,
+     620.02528,
+     538.7979999999999,
+     631.06528
+    ],
+    [
+     63.984,
+     632.62528,
+     297.57511999999997,
+     643.6652799999999
+    ],
+    [
+     42.6,
+     645.34528,
+     535.6107999999999,
+     656.38528
+    ],
+    [
+     42.6,
+     657.94528,
+     538.89232,
+     668.98528
+    ],
+    [
+     63.984,
+     670.56528,
+     180.19104,
+     681.60528
+    ],
+    [
+     42.6,
+     683.2852800000001,
+     538.6937599999997,
+     694.32528
+    ],
+    [
+     63.984,
+     695.88528,
+     274.38431999999995,
+     706.9252799999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q041_p30.jpg"
+  ]
+ },
+ {
+  "id": "P4212-Q042",
+  "prova_id": "P4212",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2017",
+  "edicao": "regular",
+  "fase_etapa": "SSA 3",
+  "dia": "1",
+  "caderno": "",
+  "numero": 42,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir sobre a Filosofia e a Ética.\n\n{{img:1}}\n\n{{fonte:1}}\n\nToda a obra de Platão tem um profundo sentido ético. Três poderiam ser os eixos centrais, que comandam a ética platônica: primeiro, a justiça na ordem individual e social; segundo, a transcendência do Bem; terceiro, as virtudes humanas e a ordem política presididas pela justiça.\n\n{{fonte:2}}\n\nO autor acima demarca alguns pontos singulares dos temas centrais da ética de Platão. Sobre esse assunto, é **CORRETO** afirmar que",
+  "fontes": [
+   "Disponível em: www.joseferreira.com.br",
+   "PEGORARO, Olinto. Ética dos maiores mestres através da história. Petrópolis: Vozes, 2006, p. 25-26. (Adaptado)."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "as virtudes humanas estão em conexão com a transcendência do bem e desvinculadas da ordem política, presidida pela justiça."
+   },
+   {
+    "letra": "B",
+    "texto": "o sentido ético-político na filosofia de Platão prioriza a ordem individual em detrimento do plano social."
+   },
+   {
+    "letra": "C",
+    "texto": "Platão defende um ideal ético, centrado na sabedoria, declinando da ordem política presidida pela justiça."
+   },
+   {
+    "letra": "D",
+    "texto": "a justiça e o bem se realizam na ordem individual, e a virtude, na ordem política."
+   },
+   {
+    "letra": "E",
+    "texto": "na ética de Platão, a virtude é prática da justiça."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q042_img1.png",
+    "pagina": 31,
+    "bbox": [
+     56.2,
+     110.2,
+     319.0,
+     277.2
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   31,
+   32
+  ],
+  "caixas": {
+   "31": [
+    [
+     42.6,
+     86.30527999999993,
+     292.74631999999997,
+     97.34527999999989
+    ],
+    [
+     56.160000000000004,
+     110.16000000000001,
+     318.96000000000004,
+     277.2
+    ],
+    [
+     141.86,
+     277.83428,
+     283.2835999999999,
+     285.87428
+    ],
+    [
+     330.91,
+     127.82528000000002,
+     544.1917599999999,
+     138.8652800000001
+    ],
+    [
+     330.91,
+     140.42527999999993,
+     544.08136,
+     151.46528
+    ],
+    [
+     330.91,
+     153.02527999999995,
+     544.1128,
+     164.06527999999992
+    ],
+    [
+     330.91,
+     165.74527999999998,
+     543.9268,
+     176.78527999999994
+    ],
+    [
+     330.91,
+     178.34528,
+     543.99304,
+     189.38528000000008
+    ],
+    [
+     330.91,
+     191.06527999999992,
+     543.982,
+     202.10527999999988
+    ],
+    [
+     330.91,
+     203.66527999999994,
+     480.10456,
+     214.70528000000002
+    ],
+    [
+     334.27,
+     225.03427999999997,
+     544.1461599999999,
+     233.07427999999993
+    ],
+    [
+     349.39,
+     234.39427999999998,
+     544.2342000000001,
+     242.43427999999994
+    ],
+    [
+     42.6,
+     311.45527999999996,
+     538.52744,
+     322.49528
+    ],
+    [
+     42.6,
+     324.05528,
+     210.24368,
+     335.09528
+    ],
+    [
+     42.6,
+     349.37528,
+     538.5273599999997,
+     360.41528
+    ],
+    [
+     63.984,
+     362.09527999999995,
+     245.0952,
+     373.13527999999997
+    ],
+    [
+     42.6,
+     374.71527999999995,
+     538.5658399999998,
+     385.75527999999997
+    ],
+    [
+     63.984,
+     387.43528,
+     95.13888,
+     398.47528
+    ],
+    [
+     42.6,
+     400.03527999999994,
+     538.5715199999996,
+     411.07527999999996
+    ],
+    [
+     63.984,
+     412.63527999999997,
+     122.12063999999998,
+     423.67528
+    ],
+    [
+     42.6,
+     425.35528,
+     455.8684,
+     436.39528
+    ],
+    [
+     42.6,
+     437.95527999999996,
+     298.20864000000006,
+     448.99528
+    ]
+   ],
+   "32": [
+    [
+     231.6,
+     66.05200000000002,
+     361.2,
+     116.51199999999994
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA3/PROVAS ANTIGAS/SSA 3 2017/PROVA_SSA_3_1_DIA.pdf",
+  "gabarito_origem": [
+   "P4214"
+  ],
+  "alertas": [
+   "figura na pág. 32 depois da alternativa E foi descartada (não faz parte da questão) — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q042_p31.jpg",
+   "revisao/Q042_p32.jpg"
+  ]
+ }
+]

@@ -1,0 +1,6275 @@
+[
+ {
+  "id": "P4091-Q001",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 1,
+  "area": "",
+  "texto_base_id": "P4091-T1",
+  "textos_base_ids": [
+   "P4091-T1"
+  ],
+  "enunciado": "Considerando que nossos textos (falados e escritos) seguem uma norma e que temos muitas e diferentes maneiras de falar e escrever, acerca do **Texto 1**, é **CORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "há, nele, marcas evidentes de que sua autora pretendeu afastar-se da norma brasileira considerada culta e de que, ao optar por um nível linguístico extremamente informal, desvia-se propositadamente das normas gramaticais tradicionalmente reconhecidas como corretas."
+   },
+   {
+    "letra": "B",
+    "texto": "ele está organizado em consonância com a norma culta da língua e percebe-se, principalmente nos dois parágrafos introdutórios, que a autora opta por empregar itens lexicais, como ―papo‖, ―papo furado‖ e ―onda‖, que aproximam a sua linguagem da do seu público-alvo."
+   },
+   {
+    "letra": "C",
+    "texto": "encontram-se, nele, diversos termos e expressões técnicas (‗intrageracional‘; ‗faccionalismos‘), os quais demonstram que sua autora pretendeu dialogar com um público muito especializado e, por isso, optou pelo rebuscamento da linguagem e pelo alto nível de formalidade do texto."
+   },
+   {
+    "letra": "D",
+    "texto": "com o propósito de alcançar seu público-alvo, majoritariamente jovem, sua autora opta pela informalidade na linguagem, a qual se revela por escolhas lexicais muito populares, por uma organização sintática muito simplificada e pela superficialidade da argumentação."
+   },
+   {
+    "letra": "E",
+    "texto": "seu nível de linguagem e as ideias apresentadas são reveladores dos preconceitos da autora em relação a questões de gênero, como no trecho: ―Neste cenário, temos que ver todas as diferentes juventudes e suas questões sociais e raciais, suas questões de gênero e opções/orientações sexuais.‖ (4º§)"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.625,
+     166.3270000000001,
+     546.733,
+     177.3270000000001
+    ],
+    [
+     42.625,
+     178.7270000000001,
+     458.403997,
+     189.7270000000001
+    ],
+    [
+     42.625,
+     204.3270000000001,
+     547.110002,
+     215.3270000000001
+    ],
+    [
+     64.025,
+     216.92700000000002,
+     547.4839979999998,
+     227.92700000000002
+    ],
+    [
+     64.025,
+     229.52700000000004,
+     499.7510050000001,
+     240.52700000000004
+    ],
+    [
+     42.625,
+     242.3270000000001,
+     547.3810089999998,
+     253.3270000000001
+    ],
+    [
+     64.025,
+     254.99,
+     547.6090019999999,
+     265.99
+    ],
+    [
+     64.025,
+     267.557,
+     456.180003,
+     278.59000000000003
+    ],
+    [
+     42.625,
+     280.157,
+     547.473,
+     291.19
+    ],
+    [
+     64.025,
+     292.957,
+     546.908005,
+     303.957
+    ],
+    [
+     64.025,
+     305.557,
+     483.7739999999998,
+     316.557
+    ],
+    [
+     42.625,
+     318.157,
+     547.4570079999999,
+     329.157
+    ],
+    [
+     64.025,
+     330.757,
+     546.7929999999999,
+     341.757
+    ],
+    [
+     64.025,
+     343.557,
+     461.90599999999995,
+     354.557
+    ],
+    [
+     42.625,
+     356.177,
+     547.178006,
+     367.177
+    ],
+    [
+     64.025,
+     368.777,
+     547.0980000000001,
+     379.81
+    ],
+    [
+     64.025,
+     381.377,
+     546.7269999999999,
+     392.377
+    ],
+    [
+     64.025,
+     394.21000000000004,
+     134.62300000000002,
+     405.21000000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q002",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 2,
+  "area": "",
+  "texto_base_id": "P4091-T1",
+  "textos_base_ids": [
+   "P4091-T1"
+  ],
+  "enunciado": "Segundo a autora do **Texto 1**, ―a grande questão é que o jovem dos dias atuais tem medo de sobrar‖. Em outras palavras, o jovem da atualidade teme",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "não encontrar um(a) companheiro(a)."
+   },
+   {
+    "letra": "B",
+    "texto": "perder todos os seus vínculos socioafetivos."
+   },
+   {
+    "letra": "C",
+    "texto": "não ter sua identidade de gênero reconhecida."
+   },
+   {
+    "letra": "D",
+    "texto": "ter que se corromper para ascender socialmente."
+   },
+   {
+    "letra": "E",
+    "texto": "não conseguir entrar no mundo do trabalho."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.625,
+     419.177,
+     546.975003,
+     430.21000000000004
+    ],
+    [
+     42.625,
+     432.01000000000005,
+     319.3190000000001,
+     443.01000000000005
+    ],
+    [
+     42.625,
+     457.407,
+     246.52600400000006,
+     468.407
+    ],
+    [
+     42.625,
+     470.007,
+     279.86700400000007,
+     481.007
+    ],
+    [
+     42.625,
+     482.607,
+     291.2849990000001,
+     493.607
+    ],
+    [
+     42.625,
+     495.407,
+     304.3030090000001,
+     506.407
+    ],
+    [
+     42.625,
+     507.997,
+     278.11800400000004,
+     518.9970000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q003",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 3,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise se, nos trechos apresentados a seguir, evidenciam-se as relações lógico-semânticas indicadas entre parênteses.\n\n1) ―A questão da juventude vem para a cena pública quando ela passa a ser o segmento mais vulnerável frente às mudanças sociais que acontecem no mundo de hoje.‖ (TEMPO)\n\n2) ―Com a mudança do mundo do trabalho, cada vez mais restritivo e mutante, os jovens foram e são atingidos.‖ (CAUSALIDADE)\n\n3) ―O Estado tem que ter o compromisso de fazer as suas políticas macro, mas tem que fazer isto com a sociedade civil, para que cada um participe, transformando a política de juventude numa política de Estado, não de Governo.‖ (FINALIDADE)",
+  "fontes": [],
+  "alternativas": [],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.625,
+     545.9970000000001,
+     547.399006,
+     556.9970000000001
+    ],
+    [
+     42.625,
+     558.607,
+     177.74899999999997,
+     569.607
+    ],
+    [
+     64.025,
+     583.827,
+     547.1050019999999,
+     594.86
+    ],
+    [
+     78.025,
+     596.6600000000001,
+     489.9309999999999,
+     607.6600000000001
+    ],
+    [
+     64.025,
+     609.2270000000001,
+     546.677,
+     620.26
+    ],
+    [
+     78.025,
+     621.86,
+     237.54700000000003,
+     632.86
+    ],
+    [
+     64.025,
+     634.427,
+     546.774,
+     645.46
+    ],
+    [
+     78.025,
+     647.027,
+     546.7679999999998,
+     658.027
+    ],
+    [
+     78.025,
+     659.86,
+     332.26800000000003,
+     670.86
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "0 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q003_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q004",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 4,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "―A questão da juventude é uma questão marcada por uma faixa etária específica. Portanto, ela não pode ser pensada sem levar em conta a relação intergeracional.‖ (CONCLUSÃO) Estão **CORRETAS**:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1, 2 e 3, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "1, 2 e 4, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "1, 3 e 4, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "2, 3 e 4, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 3 e 4."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   4,
+   5
+  ],
+  "caixas": {
+   "4": [
+    [
+     64.025,
+     672.452,
+     546.934004,
+     683.485
+    ],
+    [
+     78.025,
+     685.085,
+     496.53099999999995,
+     696.085
+    ]
+   ],
+   "5": [
+    [
+     42.625,
+     45.90700000000004,
+     138.50799999999998,
+     56.90700000000004
+    ],
+    [
+     42.624999999999986,
+     65.49700000000007,
+     147.59200399999997,
+     76.49700000000007
+    ],
+    [
+     42.624999999999986,
+     78.30700000000002,
+     147.59200399999997,
+     89.30700000000002
+    ],
+    [
+     42.624999999999986,
+     90.90700000000004,
+     147.591999,
+     101.90700000000004
+    ],
+    [
+     42.624999999999986,
+     103.49700000000007,
+     146.03000399999996,
+     114.49700000000007
+    ],
+    [
+     42.624999999999986,
+     116.10700000000008,
+     117.24300399999998,
+     127.10700000000008
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q004_p4.jpg",
+   "revisao/Q004_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q005",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 5,
+  "area": "",
+  "texto_base_id": "P4091-T1",
+  "textos_base_ids": [
+   "P4091-T1"
+  ],
+  "enunciado": "Acerca de aspectos gramaticais presentes no **Texto 1**, analise as afirmações a seguir.\n\n1. Os termos ―intergeracional‖ (6º §) e ―intrageracional‖ (7º §) têm, no texto, o mesmo sentido, já que seus prefixos (‗inter‘ e ‗intra‘) têm equivalência semântica.\n\n2. No trecho: ―Sempre existiu o jovem pobre e o jovem rico (...).‖ (4º §), o verbo ‗existir‘, que está anteposto, foi empregado no singular, em concordância com ‗o jovem pobre‘. A forma verbal no plural (‗existiram‘) seria igualmente aceita pela norma culta da língua e, neste caso, concordaria com o sujeito composto.\n\n3. Releia o trecho: ―Poderia ser por reconhecimento. Mas não é.‖ (2º §) Nesse trecho, o ponto colocado após ‗reconhecimento‘ imprime uma pausa mais longa antes do trecho seguinte e confere destaque a ―Mas não é.‖.\n\n4. No 6º §, lemos: ―Os jovens têm que escutar os adultos e <u>vice-versa</u>.‖ Podemos ver que a expressão destacada manteve o hífen após a última reforma ortográfica. O hífen também se manteve em expressões como ‗auto-retrato‘ e ‗ultra-sonografia‘.\n\nEstão **CORRETAS**:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1 e 4, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "2 e 4, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "2 e 3, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "1, 3 e 4, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 3 e 4."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.625,
+     389.777,
+     482.83299999999997,
+     400.777
+    ],
+    [
+     60.625,
+     409.577,
+     547.294,
+     420.61
+    ],
+    [
+     78.625,
+     422.21000000000004,
+     381.6090000000001,
+     433.21000000000004
+    ],
+    [
+     60.625,
+     434.77700000000004,
+     547.2439999999999,
+     445.81000000000006
+    ],
+    [
+     78.62499999999994,
+     447.4100000000001,
+     546.587,
+     458.4100000000001
+    ],
+    [
+     78.62499999999994,
+     460.24000000000007,
+     546.5980000000001,
+     471.24000000000007
+    ],
+    [
+     78.62499999999989,
+     472.8070000000001,
+     197.38099999999986,
+     483.8070000000001
+    ],
+    [
+     60.624999999999886,
+     485.4070000000001,
+     547.3209989999999,
+     496.4400000000001
+    ],
+    [
+     78.62499999999989,
+     498.04000000000013,
+     546.8069999999996,
+     509.04000000000013
+    ],
+    [
+     78.62499999999989,
+     510.84000000000015,
+     240.66700099999989,
+     521.8400000000001
+    ],
+    [
+     60.625,
+     523.407,
+     547.3340000000001,
+     534.44
+    ],
+    [
+     78.625,
+     535.9970000000001,
+     546.818,
+     546.9970000000001
+    ],
+    [
+     78.625,
+     548.607,
+     389.902,
+     559.6400000000001
+    ],
+    [
+     42.625,
+     572.627,
+     138.50799999999998,
+     583.627
+    ],
+    [
+     42.624999999999986,
+     599.2270000000001,
+     133.83100399999998,
+     610.227
+    ],
+    [
+     42.624999999999986,
+     612.027,
+     133.834997,
+     623.027
+    ],
+    [
+     42.624999999999986,
+     624.627,
+     133.83099899999996,
+     635.627
+    ],
+    [
+     42.624999999999986,
+     637.2270000000001,
+     146.03000399999996,
+     648.227
+    ],
+    [
+     42.624999999999986,
+     649.827,
+     116.06600399999999,
+     660.827
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q005_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q006",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 6,
+  "area": "",
+  "texto_base_id": "P4091-T3",
+  "textos_base_ids": [
+   "P4091-T3"
+  ],
+  "enunciado": "Considerando o fenômeno da intertextualidade e com base nas relações estabelecidas entre os **Textos 2, 3, 4** e **5,** assinale a alternativa **CORRETA.**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O **Texto 2** perde a sua singularidade literária ao representar o tema ―quadrilha‖ de forma simples e com linguagem denotativa. Trata-se de um texto caracterizado por traços narrativos e pelo predomínio da função referencial da linguagem."
+   },
+   {
+    "letra": "B",
+    "texto": "As relações intertextuais podem ser evidenciadas entre textos de diferentes gêneros, como se pode notar no diálogo entre o **Texto 2** e os **Textos 3, 4** e **5.** O **Texto 4** imprime um tom humorístico ao apresentar informações sobre o destino das personagens."
+   },
+   {
+    "letra": "C",
+    "texto": "Ao manter relação intertextual explícita com o poema *Quadrilha*, o **Texto 4** configura-se como literário, pois as escolhas linguísticas da tirinha são praticamente uma réplica do **Texto 2.** A natureza literária do **Texto 4** está presente na retomada poética da narrativa construída no poema de Drummond."
+   },
+   {
+    "letra": "D",
+    "texto": "O poema *Quadrilha* (**Texto 2**) mantém relação intertextual implícita com a pintura (**Texto 3**). Assim como ocorre na quadrilha junina, os descompassos amorosos são percebidos na tela de Pedro Souza e no poema de Drummond. O **Texto 2** revela traços narrativos e uma visão cômica sobre os destinos das personagens."
+   },
+   {
+    "letra": "E",
+    "texto": "A intertextualidade é um fenômeno evidenciado apenas no campo da arte literária, quando ocorrem relações entre textos literários com aproximações na forma e no conteúdo. Os **Textos 2, 3, 4** e **5** ilustram um exemplo de intertextualidade pelas características literárias que apresentam."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.625,
+     270.757,
+     546.7440000000001,
+     281.757
+    ],
+    [
+     42.625,
+     283.157,
+     299.88,
+     294.157
+    ],
+    [
+     42.625,
+     308.557,
+     546.7520000000002,
+     319.59000000000003
+    ],
+    [
+     42.625,
+     321.357,
+     546.986,
+     332.357
+    ],
+    [
+     42.625,
+     333.957,
+     217.525,
+     344.957
+    ],
+    [
+     42.625,
+     352.357,
+     546.7549999999999,
+     363.357
+    ],
+    [
+     42.625,
+     364.777,
+     547.496,
+     375.777
+    ],
+    [
+     42.625,
+     377.777,
+     327.008,
+     388.777
+    ],
+    [
+     42.625,
+     395.97700000000003,
+     547.405,
+     406.97700000000003
+    ],
+    [
+     42.625,
+     408.577,
+     547.417,
+     419.577
+    ],
+    [
+     42.625,
+     421.177,
+     546.9100000000002,
+     432.177
+    ],
+    [
+     42.625,
+     433.97700000000003,
+     100.221,
+     444.97700000000003
+    ],
+    [
+     42.625,
+     452.177,
+     547.3100000000001,
+     463.177
+    ],
+    [
+     42.625,
+     465.207,
+     546.7330000000001,
+     476.207
+    ],
+    [
+     42.625,
+     477.607,
+     547.466,
+     488.607
+    ],
+    [
+     42.625,
+     490.407,
+     130.185,
+     501.407
+    ],
+    [
+     42.625,
+     508.807,
+     546.557,
+     519.807
+    ],
+    [
+     42.625,
+     521.2070000000001,
+     547.496,
+     532.207
+    ],
+    [
+     42.625,
+     534.2070000000001,
+     477.008,
+     545.207
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q006_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q007",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 7,
+  "area": "",
+  "texto_base_id": "P4091-T3",
+  "textos_base_ids": [
+   "P4091-T3"
+  ],
+  "enunciado": "Acerca da organização global do **Texto 2** e de sua relação com o **Texto 5**, é **CORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "cada um dos textos se organiza com diferentes configurações, mas eles têm em comum a proposta temática e as intenções comunicativas."
+   },
+   {
+    "letra": "B",
+    "texto": "o título atribuído ao poema está igualmente adequado ao anúncio publicitário, representando a síntese do conteúdo global de ambos os textos."
+   },
+   {
+    "letra": "C",
+    "texto": "por estarem numa relação intertextual explícita, ambos os textos têm um modo de organização muito semelhante, com organização paragráfica e normas gráficas de apresentação similares."
+   },
+   {
+    "letra": "D",
+    "texto": "no poema (**Texto 2**), a regularidade estrutural que se observa nos três primeiros versos é desfeita nos versos seguintes, e essa mudança contribui para os sentidos que o autor quer transmitir."
+   },
+   {
+    "letra": "E",
+    "texto": "no anúncio, o pronome presente na pergunta ―sabe o que é isso?‖ leva o leitor a recuperar a literariedade do poema de Drummond."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.625,
+     567.2270000000001,
+     547.6229960000001,
+     578.2270000000001
+    ],
+    [
+     42.625,
+     580.2270000000001,
+     61.127,
+     591.2270000000001
+    ],
+    [
+     42.625,
+     598.6270000000001,
+     546.814995,
+     609.6270000000001
+    ],
+    [
+     64.02499999999999,
+     611.2270000000001,
+     301.257996,
+     622.2270000000001
+    ],
+    [
+     42.62499999999999,
+     623.827,
+     546.7379949999996,
+     634.827
+    ],
+    [
+     64.02499999999999,
+     636.427,
+     296.906,
+     647.427
+    ],
+    [
+     42.62499999999999,
+     649.2270000000001,
+     547.266001,
+     660.2270000000001
+    ],
+    [
+     64.02499999999999,
+     661.827,
+     523.4620000000002,
+     672.827
+    ],
+    [
+     42.62499999999999,
+     674.2520000000001,
+     546.8590000000002,
+     685.2520000000001
+    ],
+    [
+     64.02499999999999,
+     687.052,
+     517.5719949999998,
+     698.052
+    ],
+    [
+     42.62499999999999,
+     699.852,
+     546.8259999999998,
+     710.885
+    ],
+    [
+     64.02499999999999,
+     712.452,
+     252.30100000000004,
+     723.452
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q007_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q008",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 8,
+  "area": "",
+  "texto_base_id": "P4091-T4",
+  "textos_base_ids": [
+   "P4091-T4"
+  ],
+  "enunciado": "Há várias funções da linguagem que se interpenetram e dialogam quando lemos e produzimos textos diversos. Para cada elemento do processo de comunicação (emissor, mensagem, receptor, canal, código, contexto), existe uma função da linguagem correspondente. Acerca desse tema, considere as afirmativas a seguir.\n\n1) O **Texto 6** apresenta mais de uma função da linguagem. Trata-se de um poema metalinguístico, uma vez que evidencia a construção do fazer poético. Além da função poética, também revela a função conativa quando estabelece diálogo com o receptor: *“não faças”, “não* *cantes”, “penetra”, “convive”, “espera”, “não forces”, “não colhas”.*\n\n2) A obra *Autorretrato,* de Vincent Van Gogh (**Texto 8**), é um exemplo de metalinguagem na pintura. A obra aborda como tema a própria pintura com a imagem do pintor diante da tela e dos pincéis. Os **Textos 6 e 8** são metalinguísticos, pois destacam o próprio código utilizado.\n\n3) Por meio da linguagem poética, o **Texto 7** é um exemplo do gênero lírico e expressa os sentimentos do ―eu lírico‖, sugerindo a transitoriedade da vida. O poema revela a função emotiva da linguagem, com ênfase nos sentimentos do emissor da mensagem.\n\n4) A função referencial da linguagem está presente nos **Textos 6, 7** e **8,** e o sentido denotativo é priorizado na organização das mensagens propostas.\n\nEstão **CORRETAS**, apenas:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1 e 2."
+   },
+   {
+    "letra": "B",
+    "texto": "2 e 4."
+   },
+   {
+    "letra": "C",
+    "texto": "2 e 3."
+   },
+   {
+    "letra": "D",
+    "texto": "1, 2 e 3."
+   },
+   {
+    "letra": "E",
+    "texto": "3 e 4."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.625,
+     46.107000000000085,
+     546.7149999999999,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     546.931,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     547.5,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     206.328,
+     94.90700000000004
+    ],
+    [
+     60.625,
+     104.49700000000007,
+     547.3530000000001,
+     115.49700000000007
+    ],
+    [
+     78.625,
+     117.30700000000002,
+     546.6969999999998,
+     128.30700000000002
+    ],
+    [
+     78.625,
+     129.7070000000001,
+     547.3679999999999,
+     140.71800000000007
+    ],
+    [
+     78.625,
+     142.50800000000004,
+     397.592,
+     153.50800000000004
+    ],
+    [
+     60.625,
+     163.12700000000007,
+     547.2150000000001,
+     174.12700000000007
+    ],
+    [
+     78.625,
+     175.92700000000002,
+     547.1670000000001,
+     186.92700000000002
+    ],
+    [
+     78.625,
+     188.52700000000004,
+     527.8900000000001,
+     199.52700000000004
+    ],
+    [
+     60.625,
+     209.12700000000007,
+     547.1150000000001,
+     220.12700000000007
+    ],
+    [
+     78.625,
+     221.92700000000002,
+     546.9739999999999,
+     232.95999999999992
+    ],
+    [
+     78.625,
+     234.7270000000001,
+     464.978,
+     245.7270000000001
+    ],
+    [
+     60.625,
+     255.15700000000004,
+     547.313,
+     266.15700000000004
+    ],
+    [
+     78.625,
+     267.957,
+     340.419,
+     278.957
+    ],
+    [
+     42.625,
+     293.157,
+     181.06699999999998,
+     304.157
+    ],
+    [
+     42.625,
+     318.557,
+     91.668,
+     329.557
+    ],
+    [
+     42.625,
+     331.357,
+     91.683,
+     342.357
+    ],
+    [
+     42.625,
+     343.957,
+     91.66800000000002,
+     354.957
+    ],
+    [
+     42.625,
+     356.577,
+     103.867,
+     367.577
+    ],
+    [
+     42.625,
+     369.177,
+     91.668,
+     380.177
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q008_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q009",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 9,
+  "area": "",
+  "texto_base_id": "P4091-T4",
+  "textos_base_ids": [
+   "P4091-T4"
+  ],
+  "enunciado": "A compreensão do **Texto 7** nos leva a afirmar que nele o eu lírico reflete principalmente sobre a",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "perda da felicidade."
+   },
+   {
+    "letra": "B",
+    "texto": "dureza da solidão."
+   },
+   {
+    "letra": "C",
+    "texto": "passagem do tempo."
+   },
+   {
+    "letra": "D",
+    "texto": "importância da vaidade."
+   },
+   {
+    "letra": "E",
+    "texto": "iminência da morte."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.625000000000114,
+     403.577,
+     529.695996,
+     414.57700000000006
+    ],
+    [
+     42.624999999999986,
+     428.97700000000003,
+     160.00000399999993,
+     439.97700000000003
+    ],
+    [
+     42.624999999999986,
+     441.77700000000004,
+     153.80700399999995,
+     452.77700000000004
+    ],
+    [
+     42.624999999999986,
+     454.37700000000007,
+     166.80899899999997,
+     465.37700000000007
+    ],
+    [
+     42.624999999999986,
+     467.00700000000006,
+     180.9770039999999,
+     478.00700000000006
+    ],
+    [
+     42.624999999999986,
+     479.6070000000001,
+     160.00000399999996,
+     490.6070000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q009_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q010",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 10,
+  "area": "",
+  "texto_base_id": "P4091-T4",
+  "textos_base_ids": [
+   "P4091-T4"
+  ],
+  "enunciado": "No que se refere a alguns recursos lexicais e gramaticais do **Texto 7**, analise as proposições a seguir.\n\n1. A repetição do pronome pessoal ‗eu‘, ao longo do texto, é um recurso gramatical que contribui para manter a subjetividade e reforçar a reflexão introspectiva que nele se faz.\n\n2. A pergunta retórica com que o texto é finalizado funciona como uma síntese da ideia de perda que se apresenta ao longo do poema.\n\n3. A autora emprega adjetivos simples (‗calmo‘, ‗triste‘, ‗magro‘), locuções adjetivas (‗sem força‘) e orações adjetivas (‗que nem se mostra‘) para qualificar as partes do corpo (rosto, olhos, lábio, mãos, coração) que descreve no poema.\n\n4. O jogo entre o pretérito imperfeito (‗eu não tinha‘) e o perfeito (‗eu não dei‘; ‗ficou perdida‘) ajuda o leitor a perceber que, no texto, o eu lírico reflete sobre o passado para projetar um futuro mais feliz. Estão **CORRETAS**:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1, 2 e 3, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "1 e 4, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "2 e 4, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "2, 3 e 4, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 2, 3 e 4."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   9,
+   10
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.624999999999986,
+     504.807,
+     547.2729999999999,
+     515.807
+    ],
+    [
+     42.62499999999994,
+     517.607,
+     75.48300099999996,
+     528.607
+    ],
+    [
+     60.62499999999994,
+     542.9970000000001,
+     546.664,
+     554.03
+    ],
+    [
+     78.62499999999994,
+     555.607,
+     461.17199999999985,
+     566.607
+    ],
+    [
+     60.62499999999994,
+     568.2270000000001,
+     547.3859959999999,
+     579.2270000000001
+    ],
+    [
+     78.62499999999994,
+     580.827,
+     263.9309999999999,
+     591.827
+    ],
+    [
+     60.62499999999994,
+     593.6270000000001,
+     546.7630000000001,
+     604.6600000000001
+    ],
+    [
+     78.62499999999994,
+     606.26,
+     546.6089999999999,
+     617.26
+    ],
+    [
+     78.62499999999994,
+     618.827,
+     278.570999,
+     629.827
+    ],
+    [
+     60.62499999999994,
+     631.427,
+     546.7959999999998,
+     642.46
+    ],
+    [
+     78.62499999999994,
+     644.027,
+     546.9489989999998,
+     655.027
+    ],
+    [
+     78.62499999999994,
+     656.827,
+     158.42999999999995,
+     667.827
+    ]
+   ],
+   "10": [
+    [
+     42.625,
+     45.90700000000004,
+     138.508,
+     56.90700000000004
+    ],
+    [
+     42.625000000000014,
+     65.49700000000007,
+     146.034997,
+     76.49700000000007
+    ],
+    [
+     42.625000000000014,
+     78.30700000000002,
+     133.831004,
+     89.30700000000002
+    ],
+    [
+     42.625000000000014,
+     90.90700000000004,
+     133.83099900000002,
+     101.90700000000004
+    ],
+    [
+     42.625000000000014,
+     103.49700000000007,
+     146.03000400000002,
+     114.49700000000007
+    ],
+    [
+     42.625000000000014,
+     116.10700000000008,
+     116.06600400000002,
+     127.10700000000008
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q010_p9.jpg",
+   "revisao/Q010_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q011",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 11,
+  "area": "",
+  "texto_base_id": "P4091-T6",
+  "textos_base_ids": [
+   "P4091-T6"
+  ],
+  "enunciado": "O Barroco destacou-se como estilo artístico-estético e influenciou várias manifestações artísticas, como pintura, literatura, música e arquitetura. Considerando os textos lidos e as características desse estilo de época, analise as afirmativas a seguir e assinale com V as verdadeiras e com F as falsas.\n\n( ) Os **Textos 9 e 10** mantêm relações intertextuais. Nas pinturas destacadas, o Barroco manifesta-se a partir das seguintes características: temática religiosa, riqueza nos detalhes, jogo de luzes e sombras, expressões dramáticas das personagens retratadas.\n\n( ) O **Texto 11** é representativo da poesia religiosa de Gregório de Matos. A produção poética de *O* *boca do inferno* contempla apenas a poesia religiosa. Influenciado pela Contrarreforma, o Barroco produziu uma arte marcada pela oposição aos valores sacros, o que fica evidente no **Texto 11**.\n\n( ) Tendo em vista as influências estéticas na contemporaneidade, o Barroco se destaca em releituras, como ocorre no **Texto 12**, o qual evidencia conexão intertextual com a pintura barroca. A arte barroca apresenta características dramáticas e expressivas.\n\n( ) Embora todos os textos sejam exemplos da estética barroca, percebem-se diferenças entre eles. O rebuscamento artístico, tão comumente almejado pelos artistas barrocos, só fica evidente nos **Textos 9, 10 e 12**, já que no, **Texto 11,** por tratar-se de um soneto, não há complexidade na linguagem.\n\nA sequência **CORRETA** de preenchimento dos parênteses, de cima para baixo, é:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "V – F – F – F"
+   },
+   {
+    "letra": "B",
+    "texto": "F – F – F – V"
+   },
+   {
+    "letra": "C",
+    "texto": "V – F – V – F"
+   },
+   {
+    "letra": "D",
+    "texto": "V – V – F – F"
+   },
+   {
+    "letra": "E",
+    "texto": "V – V – V – V"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.625,
+     46.107000000000085,
+     547.2539999999999,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     547.27,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     525.4379999999999,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     96.49700000000007,
+     547.443,
+     107.49700000000007
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     546.7659999999996,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     346.99600000000004,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     142.49700000000007,
+     547.528,
+     153.49700000000007
+    ],
+    [
+     42.625,
+     155.12700000000007,
+     547.487,
+     166.12700000000007
+    ],
+    [
+     42.625,
+     167.7270000000001,
+     507.828,
+     178.7270000000001
+    ],
+    [
+     42.625,
+     188.7270000000001,
+     547.328,
+     199.7270000000001
+    ],
+    [
+     42.625,
+     201.12700000000007,
+     547.0840000000001,
+     212.12700000000007
+    ],
+    [
+     42.625,
+     213.92700000000002,
+     357.973,
+     224.92700000000002
+    ],
+    [
+     42.625,
+     234.7270000000001,
+     547.453,
+     245.7270000000001
+    ],
+    [
+     42.625,
+     247.3270000000001,
+     547.1410000000001,
+     258.3270000000001
+    ],
+    [
+     42.625,
+     259.75700000000006,
+     547.496,
+     270.757
+    ],
+    [
+     42.625,
+     272.557,
+     96.635,
+     283.557
+    ],
+    [
+     42.625,
+     297.757,
+     444.10400000000004,
+     308.757
+    ],
+    [
+     42.625,
+     323.157,
+     128.371,
+     334.19
+    ],
+    [
+     42.625,
+     335.957,
+     128.387,
+     346.99
+    ],
+    [
+     42.625,
+     348.557,
+     128.97100000000003,
+     359.59000000000003
+    ],
+    [
+     42.625,
+     361.177,
+     128.971,
+     372.21000000000004
+    ],
+    [
+     42.625,
+     373.777,
+     130.187,
+     384.81
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q011_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q012",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 12,
+  "area": "",
+  "texto_base_id": "P4091-T7",
+  "textos_base_ids": [
+   "P4091-T7"
+  ],
+  "enunciado": "Considerando os **Textos 13,14, 15 e 16** e as características do Arcadismo brasileiro, analise as afirmativas a seguir.\n\n1) O Arcadismo é caracterizado pelo bucolismo, com poesia pastoral que descreve as belezas da vida campestre e da natureza. Na literatura árcade, identifica-se o cenário natural como espaço ideal para encontros amorosos. O **Texto 13** mantém diálogo com a visão bucólica dos árcades, por meio da representação de *locus amoenus*.\n\n2) O **Texto 16** revela uma perspectiva diferente da natureza apresentada no **Texto 13.** A visão bucólica da natureza não é priorizada no poema de Tomás Antônio Gonzaga, pois o foco principal é destacar a imagem de Marília e sua relação afetiva com o pastor, sem conexões com o *locus* *amoenus.*\n\n3) O *carpe diem* é uma característica da literatura árcade, conforme versos do **Texto 14**: “*Aproveite-se* *o tempo, antes que faça/ O estrago de roubar ao corpo as forças/ E ao semblante a graça.”* No poema, o pastor, ciente da efemeridade do tempo, convida sua amada a aproveitar o momento presente.\n\n4) A morte de Lindoia é um trecho do poema épico *O Uraguai*, de José Basílio da Gama. Nessa obra, o índio é tratado de forma poética, como ocorre no **Texto 15,** o qual revela lirismo e poeticidade por meio de linguagem conotativa.\n\nEstão **CORRETAS**, apenas:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1 e 2."
+   },
+   {
+    "letra": "B",
+    "texto": "1, 2 e 3."
+   },
+   {
+    "letra": "C",
+    "texto": "2 e 3."
+   },
+   {
+    "letra": "D",
+    "texto": "2, 3 e 4."
+   },
+   {
+    "letra": "E",
+    "texto": "1, 3 e 4."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.6,
+     47.148000000000025,
+     527.5209600000001,
+     58.75103999999999
+    ],
+    [
+     42.6,
+     59.98799999999994,
+     141.06575999999998,
+     71.0279999999999
+    ],
+    [
+     42.6,
+     80.62810000000002,
+     546.9270719999993,
+     91.66809999999998
+    ],
+    [
+     42.6,
+     93.34799999999996,
+     547.2814559999999,
+     104.38799999999992
+    ],
+    [
+     42.6,
+     105.82799999999997,
+     547.2604800000003,
+     117.43103999999994
+    ],
+    [
+     42.6,
+     118.548,
+     208.38768,
+     129.58799999999997
+    ],
+    [
+     42.6,
+     136.90800000000002,
+     547.2560639999998,
+     148.51103999999998
+    ],
+    [
+     42.6,
+     149.62810000000002,
+     547.200864,
+     160.66809999999998
+    ],
+    [
+     42.6,
+     162.22799999999995,
+     547.1876159999999,
+     173.26799999999992
+    ],
+    [
+     42.6,
+     174.94799999999998,
+     91.0104,
+     185.98799999999994
+    ],
+    [
+     42.6,
+     194.3881,
+     547.3267199999999,
+     205.99113999999997
+    ],
+    [
+     42.6,
+     207.10799999999995,
+     547.252752,
+     218.1479999999999
+    ],
+    [
+     42.6,
+     219.82799999999997,
+     515.8671359999992,
+     230.86799999999994
+    ],
+    [
+     42.6,
+     239.3881,
+     547.335552,
+     250.42809999999997
+    ],
+    [
+     42.6,
+     251.86810000000003,
+     547.2936,
+     263.47114
+    ],
+    [
+     42.6,
+     264.58809999999994,
+     164.92761599999994,
+     275.6281
+    ],
+    [
+     42.6,
+     287.508,
+     180.77112,
+     299.11104
+    ],
+    [
+     42.6,
+     316.4281,
+     91.51032000000001,
+     327.4681
+    ],
+    [
+     144.84,
+     316.4281,
+     205.99257599999999,
+     327.4681
+    ],
+    [
+     247.2,
+     316.4281,
+     296.11032,
+     327.4681
+    ],
+    [
+     349.56,
+     316.4281,
+     410.712576,
+     327.4681
+    ],
+    [
+     451.8,
+     316.4281,
+     512.952576,
+     327.4681
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q012_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q013",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 13,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O caminho da cidade até a fazenda de Fernando compreende uma parte em rodovia federal, uma parte em rodovia estadual, e o último trecho, de dois quilômetros, em estrada de terra. Se a parte em rodovia federal corresponde a três quartos da distância total, e a parte em rodovia estadual, a um quinto da distância total, qual a distância em quilômetros entre a cidade e a fazenda de Fernando?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "8"
+   },
+   {
+    "letra": "B",
+    "texto": "9"
+   },
+   {
+    "letra": "C",
+    "texto": "20"
+   },
+   {
+    "letra": "D",
+    "texto": "30"
+   },
+   {
+    "letra": "E",
+    "texto": "40"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.6,
+     400.29887999999994,
+     547.1555999999994,
+     411.33887999999996
+    ],
+    [
+     42.58896,
+     412.8955199999999,
+     547.1809920000002,
+     423.93551999999994
+    ],
+    [
+     42.599999999999994,
+     425.6135999999999,
+     547.298016,
+     436.6535999999999
+    ],
+    [
+     42.62207999999998,
+     438.2102399999999,
+     524.0234879999999,
+     449.2502399999999
+    ],
+    [
+     42.62207999999998,
+     463.52495999999985,
+     76.36031999999997,
+     474.56495999999987
+    ],
+    [
+     42.62207999999998,
+     476.24303999999984,
+     76.36031999999997,
+     487.28303999999986
+    ],
+    [
+     42.62207999999998,
+     488.8396799999998,
+     76.23887999999997,
+     499.87967999999984
+    ],
+    [
+     42.62207999999998,
+     501.4363199999998,
+     76.22783999999997,
+     512.4763199999998
+    ],
+    [
+     42.61103999999999,
+     514.1543999999998,
+     76.21679999999998,
+     525.1943999999997
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q013_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q014",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 14,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A Professora Ana solicitou que alguns de seus estudantes fossem ao quadro e escrevessem um exemplo correto sobre grandezas proporcionais. Cinco dos seus estudantes apresentaram as situações a seguir:\n\nFlávio: A velocidade de um carro de Fórmula 1 e a distância a ser percorrida por esse carro são grandezas inversamente proporcionais.\n\nTiago: A vazão de uma torneira e o tempo que essa torneira leva para encher uma caixa d’água são grandezas inversamente proporcionais.\n\nMariana: A idade e a altura de uma pessoa são grandezas diretamente proporcionais.\n\nPaulo: A distância percorrida por um táxi e o valor a ser pago pelo passageiro do táxi são grandezas inversamente proporcionais.\n\nSandra: O valor fixo pago na compra de bombons é uma grandeza inversamente proporcional à quantidade de bombons.\n\nQual dos estudantes de Ana acertou a sua solicitação?\n\nd) Paulo\n\ne) Sandra",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Flávio"
+   },
+   {
+    "letra": "B",
+    "texto": "Tiago"
+   },
+   {
+    "letra": "C",
+    "texto": "Mariana"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   13,
+   14
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.599999999999994,
+     539.4691199999997,
+     547.2715200000001,
+     550.5091199999997
+    ],
+    [
+     42.60000000000008,
+     552.0657599999997,
+     547.1909279999991,
+     563.1057599999998
+    ],
+    [
+     42.60000000000008,
+     564.6623999999998,
+     134.33908800000006,
+     575.7023999999998
+    ],
+    [
+     72.6,
+     586.548,
+     540.613872,
+     597.588
+    ],
+    [
+     117.48,
+     599.268,
+     330.983664,
+     610.308
+    ],
+    [
+     74.4,
+     618.828,
+     540.4428479999999,
+     629.8679999999999
+    ],
+    [
+     117.48,
+     631.4281,
+     366.96633600000007,
+     642.4681
+    ],
+    [
+     62.16,
+     650.9879999999999,
+     490.42776000000026,
+     662.028
+    ],
+    [
+     73.8,
+     670.548,
+     540.3583679999997,
+     681.588
+    ],
+    [
+     117.48,
+     683.148,
+     310.0926719999999,
+     694.188
+    ],
+    [
+     66.48,
+     702.708,
+     540.5063039999995,
+     713.7479999999999
+    ],
+    [
+     117.48,
+     715.4281,
+     247.71115199999997,
+     726.4680999999999
+    ]
+   ],
+   "14": [
+    [
+     42.625,
+     46.107000000000085,
+     311.54099900000006,
+     57.107000000000085
+    ],
+    [
+     353.5199999999999,
+     71.30700000000002,
+     397.61399499999993,
+     82.30700000000013
+    ],
+    [
+     458.749993,
+     71.30700000000002,
+     510.433988,
+     82.30700000000013
+    ],
+    [
+     42.625,
+     71.30700000000013,
+     93.306995,
+     82.30700000000013
+    ],
+    [
+     145.044987,
+     71.30700000000013,
+     188.73398400000002,
+     82.30700000000013
+    ],
+    [
+     240.479998,
+     71.30700000000013,
+     295.55699799999996,
+     82.30700000000013
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [
+   "3 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q014_p13.jpg",
+   "revisao/Q014_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q015",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 15,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O quadro ao lado representa o consumo de energia de uma  \nresidência em kw/h nos seis primeiros meses de um determinado ano.\n\nCom base na leitura dos dados contidos no quadro, indique o gráfico  \nque representa a média de consumo para o período descrito.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:2}}"
+   },
+   {
+    "letra": "B",
+    "texto": "{{img:1}}"
+   },
+   {
+    "letra": "C",
+    "texto": "{{img:3}}"
+   },
+   {
+    "letra": "D",
+    "texto": "{{img:4}}"
+   },
+   {
+    "letra": "E",
+    "texto": "{{img:5}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q015_img1.png",
+    "pagina": 14,
+    "bbox": [
+     317.8,
+     105.1,
+     543.0,
+     374.4
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q015_img2.png",
+    "pagina": 14,
+    "bbox": [
+     63.1,
+     241.2,
+     277.1,
+     374.4
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q015_img3.png",
+    "pagina": 14,
+    "bbox": [
+     63.1,
+     397.7,
+     277.1,
+     530.9
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q015_img4.png",
+    "pagina": 14,
+    "bbox": [
+     317.8,
+     397.7,
+     531.8,
+     530.9
+    ]
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q015_img5.png",
+    "pagina": 14,
+    "bbox": [
+     63.1,
+     542.7,
+     277.1,
+     675.9
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.62499999999994,
+     105.90700000000004,
+     387.31399499999986,
+     116.90700000000004
+    ],
+    [
+     42.62499999999994,
+     118.49700000000007,
+     386.1879999999999,
+     129.49700000000007
+    ],
+    [
+     42.62499999999994,
+     154.12700000000007,
+     386.8589999999999,
+     165.12700000000007
+    ],
+    [
+     42.62499999999994,
+     166.7270000000001,
+     340.8759999999999,
+     177.7270000000001
+    ],
+    [
+     42.625,
+     242.7270000000001,
+     52.488,
+     253.7270000000001
+    ],
+    [
+     297.3,
+     242.7270000000001,
+     307.163,
+     253.7270000000001
+    ],
+    [
+     317.75,
+     105.12,
+     543.0,
+     374.3799988
+    ],
+    [
+     63.1499939,
+     241.18000189999998,
+     277.1499939,
+     374.3799988
+    ],
+    [
+     42.625,
+     398.97,
+     50.955,
+     408.97
+    ],
+    [
+     297.3,
+     398.97,
+     306.23,
+     408.97
+    ],
+    [
+     63.1499939,
+     397.6800019,
+     277.1499939,
+     530.8799988000001
+    ],
+    [
+     317.75,
+     397.6800019,
+     531.75,
+     530.8799988000001
+    ],
+    [
+     42.625,
+     544.0,
+     51.555,
+     554.0
+    ],
+    [
+     63.1499939,
+     542.6800019,
+     277.1499939,
+     675.8799988000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q016",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 16,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A figura representada abaixo vai sofrer duas transformações isométricas, uma simetria de rotação de 90<sup>0</sup> no sentido horário, seguida de uma simetria de reflexão segundo um eixo horizontal.\n\n{{img:1}}\n\n{{img:2}}\n\n{{img:3}}\n\n{{img:4}}\n\n{{img:5}}\n\nApós essas transformações, a figura obtida está indicada na alternativa",
+  "fontes": [],
+  "alternativas": [],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q016_img1.png",
+    "pagina": 15,
+    "bbox": [
+     262.8,
+     81.4,
+     332.6,
+     151.2
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q016_img2.png",
+    "pagina": 15,
+    "bbox": [
+     195.8,
+     209.5,
+     298.1,
+     279.4
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q016_img3.png",
+    "pagina": 15,
+    "bbox": [
+     349.2,
+     209.5,
+     451.4,
+     279.4
+    ]
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q016_img4.png",
+    "pagina": 15,
+    "bbox": [
+     42.8,
+     210.2,
+     145.4,
+     380.9
+    ]
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q016_img5.png",
+    "pagina": 15,
+    "bbox": [
+     195.8,
+     311.8,
+     298.1,
+     380.9
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.625,
+     46.11400000000003,
+     545.811,
+     58.11400000000003
+    ],
+    [
+     42.625,
+     59.90700000000004,
+     528.5910049999998,
+     70.90700000000004
+    ],
+    [
+     262.8,
+     81.36,
+     332.64,
+     151.20000000000002
+    ],
+    [
+     42.625,
+     173.7270000000001,
+     391.2840029999999,
+     184.7270000000001
+    ],
+    [
+     195.8000031,
+     209.52,
+     298.08,
+     279.36
+    ],
+    [
+     349.1999969,
+     209.52,
+     451.44,
+     279.36
+    ],
+    [
+     42.8000031,
+     210.24,
+     145.44,
+     279.36
+    ],
+    [
+     42.8000031,
+     311.76,
+     145.44,
+     380.88
+    ],
+    [
+     195.8000031,
+     311.76,
+     298.08,
+     380.88
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "0 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q016_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q017",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 17,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nQual a função polinomial do 1º grau representa o gráfico a seguir?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "f(x) = x + 3"
+   },
+   {
+    "letra": "B",
+    "texto": "f(x) = 3 - x"
+   },
+   {
+    "letra": "C",
+    "texto": "f(x) = x - 3"
+   },
+   {
+    "letra": "D",
+    "texto": "f(x) = x – 1/3"
+   },
+   {
+    "letra": "E",
+    "texto": "f(x) = x/3 + 1"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q017_img1.png",
+    "pagina": 15,
+    "bbox": [
+     72.0,
+     436.1,
+     210.9,
+     562.2
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.625,
+     423.377,
+     387.84400100000005,
+     434.377
+    ],
+    [
+     72.0,
+     436.1,
+     210.9499969,
+     562.1500031
+    ],
+    [
+     304.3,
+     460.207,
+     378.005,
+     471.207
+    ],
+    [
+     304.3,
+     472.807,
+     375.419989,
+     483.807
+    ],
+    [
+     304.3,
+     485.607,
+     375.246002,
+     496.607
+    ],
+    [
+     304.3,
+     498.20700000000005,
+     387.0419969999999,
+     509.24000000000007
+    ],
+    [
+     304.29999999999995,
+     510.8070000000001,
+     390.20399999999995,
+     521.807
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q017_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q018",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 18,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um polígono regular está inscrito em um círculo. Numerando os vértices desse polígono, percebe-se que o segmento que une os vértices 7 e 23 é um diâmetro desse círculo. Quantos lados tem esse polígono?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "28"
+   },
+   {
+    "letra": "B",
+    "texto": "30"
+   },
+   {
+    "letra": "C",
+    "texto": "32"
+   },
+   {
+    "letra": "D",
+    "texto": "34"
+   },
+   {
+    "letra": "E",
+    "texto": "36"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.625,
+     600.427,
+     546.9579999999999,
+     611.427
+    ],
+    [
+     42.62500000000001,
+     613.027,
+     456.12300799999997,
+     624.027
+    ],
+    [
+     42.62500000000001,
+     625.627,
+     212.60800000000006,
+     636.627
+    ],
+    [
+     42.625,
+     651.027,
+     76.34100199999999,
+     662.027
+    ],
+    [
+     149.45,
+     651.027,
+     177.566,
+     662.027
+    ],
+    [
+     250.88,
+     651.027,
+     278.796,
+     662.027
+    ],
+    [
+     351.92,
+     651.027,
+     380.046,
+     662.027
+    ],
+    [
+     456.55,
+     651.027,
+     484.866003,
+     662.027
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q018_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q019",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 19,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Numa aula sobre padrões, um professor de matemática utilizou dois triângulos e dois trapézios idênticos, conforme apresentados a seguir e, por composição de figuras, formou o retângulo abaixo.\n\n{{img:1}}\n\nQual é a medida do perímetro do retângulo formado, sabendo que a medida da área do trapézio reto é 22 cm²?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "18 cm"
+   },
+   {
+    "letra": "B",
+    "texto": "28 cm"
+   },
+   {
+    "letra": "C",
+    "texto": "36 cm"
+   },
+   {
+    "letra": "D",
+    "texto": "56 cm"
+   },
+   {
+    "letra": "E",
+    "texto": "160 cm"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q019_img1.png",
+    "pagina": 16,
+    "bbox": [
+     45.0,
+     95.4,
+     550.6,
+     176.6
+    ]
+   }
+  ],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     52.90700000000004,
+     547.2339969999998,
+     63.90700000000004
+    ],
+    [
+     42.625,
+     65.49700000000007,
+     531.1809799999997,
+     76.49700000000007
+    ],
+    [
+     45.05,
+     95.35000000000002,
+     550.5500099999999,
+     176.55000000000007
+    ],
+    [
+     42.625,
+     199.3270000000001,
+     546.8890019999999,
+     210.3270000000001
+    ],
+    [
+     42.625,
+     211.92700000000002,
+     91.718,
+     222.92700000000002
+    ],
+    [
+     42.625,
+     237.12700000000007,
+     88.372997,
+     248.12700000000007
+    ],
+    [
+     149.45,
+     237.12700000000007,
+     195.389993,
+     248.12700000000007
+    ],
+    [
+     253.47999399999998,
+     237.12700000000007,
+     298.809993,
+     248.12700000000007
+    ],
+    [
+     356.73,
+     237.12700000000007,
+     402.869997,
+     248.12700000000007
+    ],
+    [
+     457.75,
+     237.12700000000007,
+     509.87799700000005,
+     248.12700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q019_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q020",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 20,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Um terreno tem as seguintes dimensões: comprimento com medida ―A‖ e largura com medida ―B‖ (ambas em metros). Se a medida do perímetro desse terreno é de 20 metros, quanto mede o comprimento e a largura desse terreno para que sua área seja máxima?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "5 m e 5 m"
+   },
+   {
+    "letra": "B",
+    "texto": "6 m e 4 m"
+   },
+   {
+    "letra": "C",
+    "texto": "7 m e 3 m"
+   },
+   {
+    "letra": "D",
+    "texto": "8 m e 2 m"
+   },
+   {
+    "letra": "E",
+    "texto": "9 m e 1 m"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     275.157,
+     546.9030000000001,
+     286.19
+    ],
+    [
+     42.625,
+     287.757,
+     547.0839989999997,
+     298.757
+    ],
+    [
+     42.625,
+     300.357,
+     395.26300000000003,
+     311.357
+    ],
+    [
+     42.625,
+     325.757,
+     107.387984,
+     336.757
+    ],
+    [
+     147.95337,
+     325.757,
+     212.94635300000002,
+     336.757
+    ],
+    [
+     253.50297,
+     325.757,
+     317.68595700000003,
+     336.757
+    ],
+    [
+     356.19464999999997,
+     325.757,
+     421.146636,
+     336.757
+    ],
+    [
+     457.15,
+     325.757,
+     522.132984,
+     336.757
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q020_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q021",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 21,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nUm engenheiro cartográfico fixa seu teodolito no solo e, por meio dele, observa o topo de uma árvore sob um ângulo de 60<sup>0</sup>. Após certo tempo, ele recua 30 metros e vê o topo dessa mesma árvore sob um ângulo de 30<sup>0</sup>. Se a luneta desse teodolito está a 1,80 metros do solo, qual é aproximadamente a altura da árvore observada pelo engenheiro? Use = 1,73",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "24 m"
+   },
+   {
+    "letra": "B",
+    "texto": "26 m c) 29 m d) 32 m e) 35 m"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q021_img1.png",
+    "pagina": 16,
+    "bbox": [
+     388.1,
+     406.8,
+     401.0,
+     417.6
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     369.377,
+     547.4709919999998,
+     380.377
+    ],
+    [
+     42.625,
+     382.177,
+     547.4540000000001,
+     393.177
+    ],
+    [
+     42.625,
+     394.777,
+     547.409999,
+     405.777
+    ],
+    [
+     388.08000000000004,
+     406.8,
+     401.04,
+     417.6
+    ],
+    [
+     42.625,
+     408.777,
+     435.42999699999996,
+     419.777
+    ],
+    [
+     42.625,
+     434.177,
+     79.787995,
+     445.53866
+    ],
+    [
+     149.520197,
+     434.177,
+     186.883197,
+     445.53866
+    ],
+    [
+     254.19537,
+     434.53866,
+     290.958371,
+     445.53866
+    ],
+    [
+     356.19711,
+     434.53866,
+     393.560106,
+     445.53866
+    ],
+    [
+     457.61727,
+     434.53866,
+     494.97026700000004,
+     445.53866
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [
+   "imagem 1 é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição",
+   "2 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q021_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q022",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 22,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O treino de um maratonista consiste em correr, todos os dias, cinco quilômetros, exceto nos dias em que ele está acompanhado de seu treinador, quando corre dez quilômetros. Se em treze dias, correu um total de cem quilômetros, em quantos desses treze dias, ele foi acompanhado pelo seu treinador?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "2 c) 7 e) 13 b) 5 d) 10 **FÍSICA – SSA 1**\n\n***Nas questões com respostas numéricas, considere o módulo da aceleração da gravidade como*** ***2*** ***g = 10,0 m/s .***"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   16,
+   17
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.625,
+     478.007,
+     547.1759939999998,
+     489.007
+    ],
+    [
+     42.625,
+     490.607,
+     547.638,
+     501.607
+    ],
+    [
+     42.625,
+     503.207,
+     547.2420029999996,
+     514.207
+    ],
+    [
+     42.625,
+     515.9970000000001,
+     92.103,
+     526.9970000000001
+    ],
+    [
+     42.625,
+     536.607,
+     70.141,
+     548.33033
+    ],
+    [
+     253.05671,
+     536.607,
+     280.57271000000003,
+     548.33033
+    ],
+    [
+     457.73671,
+     536.607,
+     491.45271,
+     548.33033
+    ],
+    [
+     148.4667,
+     536.96869,
+     175.98270000000002,
+     548.33033
+    ],
+    [
+     356.96340000000004,
+     537.33033,
+     390.6794,
+     548.33033
+    ]
+   ],
+   "17": [
+    [
+     257.08,
+     42.107000000000085,
+     337.0,
+     53.139999999999986
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     547.1480000000001,
+     82.30700000000002
+    ],
+    [
+     105.43,
+     84.07899999999995,
+     109.322,
+     91.07899999999995
+    ],
+    [
+     42.625,
+     85.90700000000004,
+     112.27800000000002,
+     96.90700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [
+   "1 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q022_p16.jpg",
+   "revisao/Q022_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q023",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 23,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Uma grandeza física Y é descrita a partir da equação Y = v<sup>2</sup>m/d, onde v tem unidades de medida de velocidade, m tem unidades de medida de massa e d possui unidades de medida de distância. Dessa forma, no Sistema Internacional de Unidades, Y possui unidades de",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "volume."
+   },
+   {
+    "letra": "B",
+    "texto": "força."
+   },
+   {
+    "letra": "C",
+    "texto": "tempo."
+   },
+   {
+    "letra": "D",
+    "texto": "trabalho."
+   },
+   {
+    "letra": "E",
+    "texto": "área."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.625000000000014,
+     110.49700000000007,
+     547.4040030000001,
+     121.49700000000007
+    ],
+    [
+     42.625,
+     123.10700000000008,
+     547.3610009999998,
+     134.10700000000008
+    ],
+    [
+     42.625,
+     135.7070000000001,
+     408.23199999999997,
+     146.7070000000001
+    ],
+    [
+     42.625,
+     161.12700000000007,
+     102.635,
+     172.12700000000007
+    ],
+    [
+     144.85,
+     161.12700000000007,
+     193.882,
+     172.12700000000007
+    ],
+    [
+     247.27,
+     161.12700000000007,
+     302.495,
+     172.12700000000007
+    ],
+    [
+     354.52,
+     161.12700000000007,
+     417.15299999999996,
+     172.12700000000007
+    ],
+    [
+     482.15,
+     161.12700000000007,
+     528.784,
+     172.12700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q024",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 24,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nSuponha que três pequenos propulsores produzam impulso sobre uma sonda espacial, sendo representados pelos vetores coplanares ⃗, ⃗⃗ e ⃗ de mesmo módulo, conforme ilustra a figura ao lado. Quais possíveis valores para os ângulos dos vetores com a horizontal, α, β e γ, produzem um impulso resultante nulo?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "α = β = γ = 45°"
+   },
+   {
+    "letra": "B",
+    "texto": "α = β = γ = 60°"
+   },
+   {
+    "letra": "C",
+    "texto": "α = 0°, β = γ = 90°"
+   },
+   {
+    "letra": "D",
+    "texto": "α = β = 45°, γ = 90°"
+   },
+   {
+    "letra": "E",
+    "texto": "α = β = 30°, γ = 90°"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q024_img1.png",
+    "pagina": 17,
+    "bbox": [
+     367.3,
+     209.2,
+     548.1,
+     377.9
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.625,
+     211.7270000000001,
+     358.1869960000002,
+     222.7270000000001
+    ],
+    [
+     42.625,
+     224.3270000000001,
+     358.13800000000003,
+     235.3270000000001
+    ],
+    [
+     42.625,
+     237.09199999999998,
+     357.9789990000001,
+     250.12700000000007
+    ],
+    [
+     42.625,
+     251.9570000000001,
+     358.0830000000001,
+     262.9570000000001
+    ],
+    [
+     42.625,
+     264.55700000000013,
+     358.206,
+     275.5900000000001
+    ],
+    [
+     42.62500000000003,
+     277.1570000000001,
+     69.52000000000004,
+     288.1570000000001
+    ],
+    [
+     367.3000031,
+     209.24999390000005,
+     548.0500031,
+     377.85
+    ],
+    [
+     42.625,
+     302.557,
+     136.449992,
+     313.59000000000003
+    ],
+    [
+     42.624999999999986,
+     315.15700000000004,
+     136.44999199999998,
+     326.19000000000005
+    ],
+    [
+     42.624999999999986,
+     327.757,
+     153.049995,
+     338.79
+    ],
+    [
+     42.625000000000014,
+     340.357,
+     159.249995,
+     351.39000000000004
+    ],
+    [
+     42.625,
+     353.177,
+     159.249995,
+     364.21000000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [
+   "PENDENTE: há um trecho desenhado (sem texto no PDF) entre “e” e “⃗” na linha “coplanares ⃗ , ⃗⃗ e ⃗ de mesmo módulo, conforme ilustra a figura” — transcrever lendo a imagem",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q024_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q025",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 25,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Incêndios florestais são comuns em áreas do Cerrado brasileiro, durante épocas de altas temperaturas e baixa umidade do ar. A velocidade de propagação do fogo em uma queimada descontrolada varia entre 0,5 e 2 m/s, a depender da velocidade do vento. Em quanto tempo aproximado, o fogo pode percorrer 864 quilômetros se a velocidade média de propagação for 1,5 m/s?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "16 dias"
+   },
+   {
+    "letra": "B",
+    "texto": "10 dias"
+   },
+   {
+    "letra": "C",
+    "texto": "7 dias"
+   },
+   {
+    "letra": "D",
+    "texto": "5 dias"
+   },
+   {
+    "letra": "E",
+    "texto": "3 dias"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.625,
+     403.7770000000001,
+     547.391,
+     414.7770000000001
+    ],
+    [
+     42.625,
+     416.3770000000001,
+     546.799,
+     427.3770000000001
+    ],
+    [
+     42.625,
+     428.97700000000015,
+     547.0929969999999,
+     439.97700000000015
+    ],
+    [
+     42.625,
+     441.577,
+     543.69399,
+     452.57700000000017
+    ],
+    [
+     42.625,
+     467.007,
+     99.510997,
+     478.007
+    ],
+    [
+     42.625,
+     479.607,
+     99.499995,
+     490.607
+    ],
+    [
+     42.625,
+     492.20700000000005,
+     93.30700100000001,
+     503.20700000000005
+    ],
+    [
+     42.625,
+     504.8070000000001,
+     93.306995,
+     515.807
+    ],
+    [
+     42.625,
+     517.6070000000001,
+     93.306995,
+     528.6070000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q026",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 26,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nEm um dia de muito vento, cuja velocidade pode atingir 80 km/h horizontalmente, um bombeiro tenta apagar um incêndio em determinado prédio, a uma altura de 30 m do chão. No topo da escada do caminhão, na mesma altura do fogo, o bombeiro aciona o jato d‘água de uma mangueira com velocidade de 20 m/s e ângulo de 45° com a vertical. A que velocidade horizontal aproximada, o vento precisa estar nesse momento, a fim de que o jato d‘água chegue ao local do fogo, se o bombeiro tiver distante 60 m do incêndio?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "5 m/s"
+   },
+   {
+    "letra": "B",
+    "texto": "10 m/s"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q026_img1.png",
+    "pagina": 17,
+    "bbox": [
+     42.6,
+     640.8,
+     113.5,
+     711.5
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.625,
+     555.4070000000002,
+     546.803996,
+     566.407
+    ],
+    [
+     42.625,
+     568.2270000000001,
+     547.3730019999999,
+     579.2270000000001
+    ],
+    [
+     42.625,
+     580.8600000000001,
+     546.6559999999997,
+     591.8600000000001
+    ],
+    [
+     42.625,
+     593.4270000000001,
+     547.1439969999999,
+     604.427
+    ],
+    [
+     42.625,
+     606.027,
+     547.4120040000001,
+     617.0600000000001
+    ],
+    [
+     42.625,
+     618.827,
+     174.042,
+     629.827
+    ],
+    [
+     42.625,
+     640.8000000000001,
+     113.521997,
+     711.452
+    ],
+    [
+     42.625,
+     642.427,
+     104.323997,
+     653.427
+    ],
+    [
+     42.625,
+     656.827,
+     110.521997,
+     667.827
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [
+   "2 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q026_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q027",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 27,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A figura ao lado ilustra quatro trajetórias possíveis para uma partícula  \nque gira em um movimento circular uniforme de período T.\n\n{{img:1}}\n\nSobre o movimento nessas trajetórias, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A velocidade da partícula é constante em qualquer trajetória."
+   },
+   {
+    "letra": "B",
+    "texto": "O módulo da aceleração centrípeta da partícula é o mesmo em todas as trajetórias."
+   },
+   {
+    "letra": "C",
+    "texto": "Em uma dada trajetória, a velocidade angular da partícula varia com o tempo."
+   },
+   {
+    "letra": "D",
+    "texto": "O centro de rotação está localizado no ponto A para qualquer trajetória."
+   },
+   {
+    "letra": "E",
+    "texto": "O módulo da aceleração centrípeta da partícula no ponto C é maior que no ponto B."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q027_img1.png",
+    "pagina": 18,
+    "bbox": [
+     429.8,
+     58.3,
+     537.8,
+     162.7
+    ]
+   }
+  ],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.6,
+     47.26800000000003,
+     416.3316000000001,
+     58.30799999999999
+    ],
+    [
+     42.577920000000006,
+     59.986080000000015,
+     328.691664,
+     71.02607999999998
+    ],
+    [
+     42.577920000000006,
+     85.05791999999997,
+     397.00608,
+     96.66095999999993
+    ],
+    [
+     429.84000000000003,
+     58.32,
+     537.84,
+     162.72
+    ],
+    [
+     42.6,
+     105.94799999999998,
+     360.53544,
+     116.98799999999994
+    ],
+    [
+     42.61104,
+     118.54463999999996,
+     416.2940640000002,
+     129.58463999999992
+    ],
+    [
+     63.9624,
+     131.26271999999994,
+     130.01913600000003,
+     142.3027199999999
+    ],
+    [
+     42.60000000000001,
+     143.85935999999992,
+     416.3625119999999,
+     154.8993599999999
+    ],
+    [
+     63.9624,
+     156.5774399999999,
+     97.622256,
+     167.61743999999987
+    ],
+    [
+     42.6,
+     169.1740799999999,
+     413.16422400000033,
+     180.21407999999985
+    ],
+    [
+     42.58896,
+     181.77071999999987,
+     473.73407999999984,
+     192.81071999999983
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q027_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q028",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 28,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em 2019, completaram-se 100 anos da comprovação da teoria da relatividade de Albert Einstein. Em 1919, experimentos comprobatórios da teoria foram realizados na cidade de Sobral, no Ceará, onde foi possível visualizar uma estrela atrás do Sol, em um eclipse solar total.\n\nSobre a Teoria da Gravitação Universal, é **CORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a força gravitacional é diretamente proporcional ao tempo de interação entre os corpos."
+   },
+   {
+    "letra": "B",
+    "texto": "a força gravitacional atua apenas entre a Terra e o Sol, estando a Lua fora dessa influência, por ser um satélite sem luz própria."
+   },
+   {
+    "letra": "C",
+    "texto": "a aceleração da gravidade na Terra é igual à aceleração gravitacional na Lua."
+   },
+   {
+    "letra": "D",
+    "texto": "o fenômeno de maré nos oceanos não tem relação com tal teoria."
+   },
+   {
+    "letra": "E",
+    "texto": "a força de atração gravitacional entre dois corpos celestes depende de sua distância de separação."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.58895999999993,
+     219.80351999999982,
+     547.2494399999999,
+     230.84351999999978
+    ],
+    [
+     42.57791999999995,
+     232.4001599999998,
+     547.2383999999998,
+     243.44015999999976
+    ],
+    [
+     42.57791999999995,
+     244.99679999999978,
+     427.2170400000001,
+     256.03679999999974
+    ],
+    [
+     42.6,
+     264.46799999999996,
+     365.059632,
+     276.07104
+    ],
+    [
+     42.6,
+     285.348,
+     490.8394559999998,
+     296.38800000000003
+    ],
+    [
+     42.58895999999993,
+     297.94464,
+     547.2637919999999,
+     308.98464
+    ],
+    [
+     63.95135999999985,
+     310.66272,
+     216.8851679999999,
+     321.70272
+    ],
+    [
+     42.588959999999844,
+     323.25935999999996,
+     444.4118399999998,
+     334.29936
+    ],
+    [
+     42.59999999999985,
+     335.85599999999994,
+     384.95812800000004,
+     346.89599999999996
+    ],
+    [
+     42.58895999999987,
+     348.5740799999999,
+     547.3156799999999,
+     359.61407999999994
+    ],
+    [
+     63.94031999999993,
+     361.1707199999999,
+     118.46577599999995,
+     372.2107199999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q028_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q029",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 29,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nDois blocos A e B, de massas iguais a 0,8 kg e 0,4 kg, respectivamente, podem se mover em uma superfície horizontal sem atrito. Os blocos estão inicialmente em repouso, quando são submetidos a duas forças horizontais constantes de módulos 10,0 N e 4,0 N, conforme ilustra a figura a seguir. Então, a aceleração do sistema é",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "5,0 m/s<sup>2</sup> para a direita."
+   },
+   {
+    "letra": "B",
+    "texto": "5,0 m/s<sup>2</sup> para a esquerda."
+   },
+   {
+    "letra": "C",
+    "texto": "1,2 m/s<sup>2</sup> para a direita."
+   },
+   {
+    "letra": "D",
+    "texto": "1,2 m/s<sup>2</sup> para a esquerda."
+   },
+   {
+    "letra": "E",
+    "texto": "0,5 m/s<sup>2</sup> para a direita."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q029_img1.png",
+    "pagina": 18,
+    "bbox": [
+     336.4,
+     427.4,
+     471.3,
+     508.9
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.577919999999935,
+     386.48543999999987,
+     547.1843039999991,
+     397.5254399999999
+    ],
+    [
+     42.577919999999935,
+     399.08207999999985,
+     547.2715199999999,
+     410.12207999999987
+    ],
+    [
+     42.57791999999995,
+     411.80015999999983,
+     547.2383999999998,
+     422.84015999999986
+    ],
+    [
+     42.56687999999991,
+     424.3967999999998,
+     205.87939199999985,
+     435.43679999999983
+    ],
+    [
+     336.40018,
+     427.39992,
+     471.25001999999995,
+     508.94984
+    ],
+    [
+     42.56687999999991,
+     449.7115199999998,
+     174.31104,
+     460.788
+    ],
+    [
+     42.60384000000002,
+     462.46608,
+     190.13908800000002,
+     473.508
+    ],
+    [
+     42.603840000000005,
+     475.06463999999994,
+     174.31104,
+     486.108
+    ],
+    [
+     42.60384000000002,
+     487.66463999999996,
+     190.15344,
+     498.708
+    ],
+    [
+     42.60383999999999,
+     500.38608,
+     174.31104,
+     511.428
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q029_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q030",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 30,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em um experimento, um bloco de massa 0,5 kg que pode se mover horizontalmente está conectado a uma mola ideal de constante elástica 2,00 N/m, conforme ilustra a figura a seguir. Em t = 0, a mola não está deformada, e o bloco é arremessado com uma velocidade de 1,00 m/s. Não há atrito, e a distância da posição inicial do bloco até a parede P vale 80 cm.\n\n{{img:1}}\n\nSobre esse experimento, assinale a afirmativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A energia cinética inicial do bloco é igual a 0,40 J."
+   },
+   {
+    "letra": "B",
+    "texto": "A energia mecânica do sistema é igual a 0,25 J."
+   },
+   {
+    "letra": "C",
+    "texto": "A energia potencial inicial do bloco é igual a 0,20 J."
+   },
+   {
+    "letra": "D",
+    "texto": "O bloco atinge a parede P com energia cinética de 0,05 J."
+   },
+   {
+    "letra": "E",
+    "texto": "O bloco não atinge a parede P."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q030_img1.png",
+    "pagina": 18,
+    "bbox": [
+     402.6,
+     593.6,
+     544.7,
+     682.6
+    ]
+   }
+  ],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.60384000000002,
+     538.29936,
+     547.2698399999999,
+     549.3393599999999
+    ],
+    [
+     42.59280000000001,
+     550.896,
+     547.25328,
+     561.9359999999999
+    ],
+    [
+     42.58176000000009,
+     563.61408,
+     547.2411360000003,
+     574.6540799999999
+    ],
+    [
+     42.58176000000009,
+     576.2107199999999,
+     416.2040640000001,
+     587.25072
+    ],
+    [
+     42.58176000000009,
+     588.80736,
+     328.6060800000001,
+     600.4104
+    ],
+    [
+     402.6000671,
+     593.6001286999999,
+     544.6999054,
+     682.5500494
+    ],
+    [
+     42.57072000000011,
+     614.12208,
+     307.3220640000002,
+     625.16208
+    ],
+    [
+     42.55968000000007,
+     626.84016,
+     298.22400000000005,
+     637.8801599999999
+    ],
+    [
+     42.55968000000007,
+     639.4368,
+     314.0774400000001,
+     650.4767999999999
+    ],
+    [
+     42.570720000000065,
+     652.1548799999999,
+     347.1565920000002,
+     663.1948799999999
+    ],
+    [
+     42.55968000000007,
+     664.7515199999999,
+     216.24427199999997,
+     675.79152
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q030_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q031",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 31,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nUm objeto está submetido a um conjunto de forças enquanto se move ao longo do sentido positivo do eixo x horizontal. O módulo de uma dessas forças varia com a posição x, conforme ilustra o gráfico da figura ao lado. Sabendo que a força F atuou durante 14 s no sentido do deslocamento do objeto entre x = 0 e x = 4 m, obtenha a potência média associada à força F.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "196 W"
+   },
+   {
+    "letra": "B",
+    "texto": "116 W"
+   },
+   {
+    "letra": "C",
+    "texto": "64 W"
+   },
+   {
+    "letra": "D",
+    "texto": "32 W"
+   },
+   {
+    "letra": "E",
+    "texto": "14 W"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q031_img1.png",
+    "pagina": 19,
+    "bbox": [
+     403.2,
+     58.3,
+     545.0,
+     175.0
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.625,
+     46.107000000000085,
+     384.59299999999996,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     384.461,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     384.64899,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     384.68900799999994,
+     94.90700000000004
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     384.4609999999999,
+     107.70700000000011
+    ],
+    [
+     42.625,
+     109.30700000000002,
+     219.33999999999997,
+     120.30700000000002
+    ],
+    [
+     403.2,
+     58.32,
+     545.04,
+     174.96
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     95.792995,
+     145.49700000000007
+    ],
+    [
+     42.625,
+     147.3270000000001,
+     95.792995,
+     158.3270000000001
+    ],
+    [
+     42.625,
+     159.92700000000002,
+     95.683131,
+     170.92700000000002
+    ],
+    [
+     42.625,
+     172.52700000000004,
+     95.683125,
+     183.52700000000004
+    ],
+    [
+     42.625,
+     185.12700000000007,
+     95.683125,
+     196.12700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q031_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q032",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 32,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4091-T1",
+  "textos_base_ids": [
+   "P4091-T1"
+  ],
+  "enunciado": "{{img:1}}\n\nUm bloco A de massa m<sub>A</sub> = 1,0 kg parte com velocidade constante e horizontal de módulo v = 2,0 m/s em t = 0. No instante de tempo t = t<sub>c</sub> = 4,0 s, o bloco A colide com um bloco B, de massa m<sub>B</sub> = 4,0 kg que está inicialmente em repouso, conforme figura ao lado. Após a colisão, os blocos seguem unidos no sentido positivo do eixo x. Não há atrito entre a superfície horizontal e os blocos.\n\nSendo E a energia cinética do sistema e Q a quantidade de movimento do sistema, assinale a alternativa que apresenta o gráfico **CORRETO** associado ao processo de colisão entre os blocos.\n\n{{img:2}}\n\n**INGLÊS**\n\n**Text 1 for questions 33, 34 and 35.**\n\n**Japanese Women Protest High Heels Rules**\n\n{{img:3}}\n\nShould women be forced to wear high heels for their jobs? Yumi Ishikawa, a 32-year-old actress from Japan, says no. And she‘s collected the signatures of almost 30,000 people who agree with her.\n\nMs. Ishikawa has a part time job which requires her to stand in high heels for many hours. High heels can be painful. They are hard to walk in and nearly impossible to run in.\n\nOne day, Ms. Ishikawa noticed the shoes of a man who worked with her. She realized her job would be far easier if she was allowed to wear comfortable shoes like his. After work, she posted that idea on the social media site Twitter. Her post got a huge response – 67,000 people ―liked‖ the post.\n\nUsing high heels for a long period of time can lead to injuries far more serious than just blisters or foot pain. High heels can cause ankle problems and change the shape of leg muscles, putting extra strain on them. Wearing high heels can also cause back pain.\n\nMany women like the look of high heels and don‘t mind if the shoes are uncomfortable. But there‘s a difference between choosing to wear something and being forced to. One Japanese website reported that about 60% of Japanese women are forced to wear high heels at work.\n\n{{fonte:1}}\n\nMs. Ishikawa created a petition – a request which other people sign to show their support. She asked Japan to make requiring high heels at work against the law. The petition explained the problems caused by high heels. It also pointed out that it was unfair that women were often required to wear high heels, but men were not.",
+  "fontes": [
+   "Disponível em: https://www.theguardian.com/world/2019/jun/03/women-in-japan-protest-against-having-to-wear-high-heels-to-work-kutoo-yumi-ishikawa. Adapted. Acesso em: ago., 2019."
+  ],
+  "alternativas": [],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q032_img1.png",
+    "pagina": 19,
+    "bbox": [
+     401.7,
+     231.1,
+     545.7,
+     341.2
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q032_img2.png",
+    "pagina": 19,
+    "bbox": [
+     38.1,
+     361.8,
+     342.1,
+     708.6
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q032_img3.png",
+    "pagina": 20,
+    "bbox": [
+     221.0,
+     113.0,
+     355.0,
+     223.9
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   19,
+   20
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.625,
+     235.12700000000007,
+     389.8370000000001,
+     246.12700000000007
+    ],
+    [
+     42.625,
+     247.7270000000001,
+     389.897,
+     258.7270000000001
+    ],
+    [
+     42.625,
+     260.3570000000001,
+     390.012,
+     271.357
+    ],
+    [
+     42.625,
+     272.957,
+     389.986003,
+     283.957
+    ],
+    [
+     42.625,
+     285.757,
+     389.543,
+     296.757
+    ],
+    [
+     401.7,
+     231.14998000000003,
+     545.7,
+     341.24999
+    ],
+    [
+     42.625,
+     298.357,
+     282.898,
+     309.357
+    ],
+    [
+     42.625,
+     310.957,
+     389.48799999999983,
+     321.957
+    ],
+    [
+     42.625,
+     323.557,
+     389.5430000000001,
+     334.557
+    ],
+    [
+     42.625,
+     336.157,
+     346.45000300000004,
+     347.157
+    ],
+    [
+     38.14999,
+     361.79999000000004,
+     342.14999,
+     708.65
+    ]
+   ],
+   "20": [
+    [
+     275.1,
+     43.49700000000007,
+     315.998,
+     54.49700000000007
+    ],
+    [
+     42.625,
+     71.10700000000008,
+     221.938,
+     82.10700000000008
+    ],
+    [
+     150.65,
+     91.11800000000005,
+     439.0219999999998,
+     105.11800000000005
+    ],
+    [
+     221.04000000000002,
+     113.04,
+     354.96000000000004,
+     223.92000000000002
+    ],
+    [
+     42.625,
+     243.52700000000004,
+     547.0120000000001,
+     254.52700000000004
+    ],
+    [
+     42.625,
+     256.18999999999994,
+     508.7169999999997,
+     267.18999999999994
+    ],
+    [
+     42.625,
+     274.957,
+     546.954,
+     285.957
+    ],
+    [
+     42.625,
+     287.557,
+     389.587,
+     298.557
+    ],
+    [
+     42.625,
+     306.157,
+     546.7550000000001,
+     317.157
+    ],
+    [
+     42.625,
+     318.757,
+     546.867,
+     329.757
+    ],
+    [
+     42.625,
+     331.557,
+     471.42799999999994,
+     342.59000000000003
+    ],
+    [
+     42.625,
+     350.157,
+     547.208,
+     361.157
+    ],
+    [
+     42.625,
+     362.777,
+     546.4249999999997,
+     373.777
+    ],
+    [
+     42.625,
+     375.377,
+     312.257,
+     386.377
+    ],
+    [
+     42.625,
+     394.01000000000005,
+     547.12,
+     405.01000000000005
+    ],
+    [
+     42.625,
+     406.777,
+     546.8319999999999,
+     417.777
+    ],
+    [
+     42.625,
+     419.377,
+     404.43699999999995,
+     430.377
+    ],
+    [
+     42.625,
+     437.97700000000003,
+     547.126,
+     449.01000000000005
+    ],
+    [
+     42.625,
+     450.577,
+     546.7439999999995,
+     461.577
+    ],
+    [
+     42.625,
+     463.407,
+     546.5569999999999,
+     474.407
+    ],
+    [
+     42.625,
+     476.007,
+     163.248,
+     487.007
+    ],
+    [
+     60.025,
+     493.98600000000005,
+     547.244,
+     501.98600000000005
+    ],
+    [
+     374.33,
+     503.18600000000004,
+     547.1340000000001,
+     511.18600000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "0 alternativas encontradas (esperado 5)",
+   "texto curto solto junto da imagem (“**INGLÊS**”): pode ser rótulo da figura — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q032_p19.jpg",
+   "revisao/Q032_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q033",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 33,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Mark the **CORRECT** alternative, according to the text.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "It‘s ok to use high heels for many hours, because they are good to our health."
+   },
+   {
+    "letra": "B",
+    "texto": "Yumi Ishikawa noticed that using high heels makes her job easier."
+   },
+   {
+    "letra": "C",
+    "texto": "Ms. Ishikawa didn‘t get any support after she protested against the high heels rules."
+   },
+   {
+    "letra": "D",
+    "texto": "In Japan, many women have to wear high heels at work."
+   },
+   {
+    "letra": "E",
+    "texto": "Ms. Ishikawa asked Japan to legalize the use of high heels at work."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.625,
+     520.807,
+     326.21299999999997,
+     531.807
+    ],
+    [
+     42.625,
+     546.407,
+     440.42299999999983,
+     557.44
+    ],
+    [
+     42.625,
+     558.9970000000001,
+     385.59400000000005,
+     569.9970000000001
+    ],
+    [
+     42.625,
+     571.627,
+     470.3649999999998,
+     582.6600000000001
+    ],
+    [
+     42.625,
+     584.427,
+     338.2990000000001,
+     595.427
+    ],
+    [
+     42.625,
+     597.027,
+     391.42900000000003,
+     608.027
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q034",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 34,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Note these sentences: *“*<u>*Should*</u> *women be forced to wear high heels for their jobs?” and “Wearing* *high heels* <u>*can*</u> *also cause back pain.”* According to the grammar, the underlined words are",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Infinitive verbs."
+   },
+   {
+    "letra": "B",
+    "texto": "Modal verbs."
+   },
+   {
+    "letra": "C",
+    "texto": "Adverbs."
+   },
+   {
+    "letra": "D",
+    "texto": "Adjectives."
+   },
+   {
+    "letra": "E",
+    "texto": "Past participle verbs."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.625,
+     622.027,
+     546.9730000000002,
+     633.038
+    ],
+    [
+     42.625,
+     634.827,
+     482.97100000000006,
+     645.838
+    ],
+    [
+     42.625,
+     658.027,
+     137.70799999999997,
+     669.027
+    ],
+    [
+     42.625,
+     670.657,
+     127.308,
+     681.657
+    ],
+    [
+     42.625,
+     683.2520000000001,
+     107.67800000000001,
+     694.2520000000001
+    ],
+    [
+     42.625,
+     695.852,
+     117.488,
+     706.852
+    ],
+    [
+     42.625,
+     708.652,
+     166.308,
+     719.652
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q034_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q035",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 35,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Mark the **FALSE** alternative.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "High heels hurt and are difficult to run in."
+   },
+   {
+    "letra": "B",
+    "texto": "Many women don‘t mind if the shoes are uncomfortable."
+   },
+   {
+    "letra": "C",
+    "texto": "The petition created by Ms. Ishikawa pointed out that it was reasonable that women had to wear high heels and men did not."
+   },
+   {
+    "letra": "D",
+    "texto": "Using high heels for a long period of time can lead to serious injuries."
+   },
+   {
+    "letra": "E",
+    "texto": "One Japanese website reported that more than 50% of Japanese women are forced to wear high heels at work."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.625,
+     45.90700000000004,
+     202.85999999999999,
+     56.90700000000004
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     261.31000000000006,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     337.30899999999997,
+     94.93999999999994
+    ],
+    [
+     42.625,
+     96.70700000000011,
+     547.0129999999998,
+     107.70700000000011
+    ],
+    [
+     64.025,
+     109.30700000000002,
+     199.297,
+     120.30700000000002
+    ],
+    [
+     42.625,
+     121.90700000000004,
+     399.99800000000005,
+     132.90700000000004
+    ],
+    [
+     42.625,
+     134.49700000000007,
+     546.7489999999999,
+     145.49700000000007
+    ],
+    [
+     64.025,
+     147.3270000000001,
+     131.829,
+     158.3270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q035_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q036",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 36,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4091-T3",
+  "textos_base_ids": [
+   "P4091-T3"
+  ],
+  "enunciado": "Da leitura do **Texto 2**, compreende-se que\n\nI. embora o trabalho na adolescência venha sendo cada vez mais categorizado como uma atividade não desejável, mais de 50% de estudantes do ensino médio trabalham, sugerindo que é mais do que um produto da desigualdade de renda.\n\nII. os benefícios do trabalho aparecem a curto prazo, na própria escolaridade, revelando bom desempenho nas atividades e validando os conceitos que possibilitam acesso ao ensino superior.\n\nIII. os pais e a escola procuram oferecer aos jovens atividades extracurriculares em excesso no decorrer do semestre, mas pesquisas recentes mostram os benefícios que o trabalho na adolescência pode trazer posteriormente.\n\nIV. trabalhar mais cedo, principalmente em empresa da família, levou um percentual de indivíduos a uma carreira mais aprimorada e a ter mais oportunidades de emprego na vida adulta.\n\nV. as pesquisas mostraram melhor relação com as famílias no trabalho juvenil, evitando envolvimento com crime e drogas em número superior a 50% dos estudantes entrevistados.\n\nEstão **CORRETOS**, apenas, os itens",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e V."
+   },
+   {
+    "letra": "B",
+    "texto": "II e V."
+   },
+   {
+    "letra": "C",
+    "texto": "I e IV."
+   },
+   {
+    "letra": "D",
+    "texto": "IV e V."
+   },
+   {
+    "letra": "E",
+    "texto": "I, III e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.625,
+     45.90700000000004,
+     271.981001,
+     56.90700000000004
+    ],
+    [
+     57.825,
+     71.30700000000002,
+     547.4749999999999,
+     82.30700000000002
+    ],
+    [
+     78.025,
+     83.90700000000004,
+     547.1800049999998,
+     94.90700000000004
+    ],
+    [
+     78.025,
+     96.707,
+     339.51800100000014,
+     107.707
+    ],
+    [
+     54.825,
+     113.90700000000004,
+     546.4819969999999,
+     124.90700000000004
+    ],
+    [
+     78.025,
+     126.49700000000007,
+     547.156003,
+     137.49700000000007
+    ],
+    [
+     78.025,
+     139.10700000000008,
+     120.63900000000001,
+     150.10700000000008
+    ],
+    [
+     51.62500000000001,
+     156.52700000000016,
+     547.3559930000001,
+     167.52700000000016
+    ],
+    [
+     78.025,
+     169.12700000000018,
+     546.9460019999998,
+     180.12700000000018
+    ],
+    [
+     78.025,
+     181.7270000000002,
+     280.7580030000001,
+     192.7270000000002
+    ],
+    [
+     50.425000000000004,
+     198.92700000000025,
+     546.7790009999998,
+     209.92700000000025
+    ],
+    [
+     78.025,
+     211.7270000000002,
+     503.21799899999974,
+     222.7270000000002
+    ],
+    [
+     53.62500000000001,
+     228.92700000000025,
+     546.8449969999998,
+     239.92700000000025
+    ],
+    [
+     78.025,
+     241.52700000000027,
+     527.0999999999999,
+     252.52700000000027
+    ],
+    [
+     42.62500000000001,
+     266.7570000000003,
+     222.29399999999998,
+     277.75700000000023
+    ],
+    [
+     42.625,
+     292.157,
+     101.87600000000002,
+     303.157
+    ],
+    [
+     144.85,
+     292.157,
+     194.905,
+     303.157
+    ],
+    [
+     247.27,
+     292.157,
+     297.325,
+     303.157
+    ],
+    [
+     349.73,
+     292.157,
+     404.174,
+     303.157
+    ],
+    [
+     451.95,
+     292.157,
+     517.22,
+     303.157
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q036_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q037",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 37,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4091-T8",
+  "textos_base_ids": [
+   "P4091-T8"
+  ],
+  "enunciado": "Para o trecho: *Many schools and parents push children to engage in excessive extracurricular* *activities.* (2º parágrafo), *a*ssinale a alternativa **INCORRETA.**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Os dois verbos são empregados no presente e no infinitivo, respectivamente, indicando uma ideia de que os fatos são atuais."
+   },
+   {
+    "letra": "B",
+    "texto": "Há uma predominância de ações no passado, portanto se deduz que o verbo ‗*push*‘ está no Past Simple."
+   },
+   {
+    "letra": "C",
+    "texto": "Há dois qualificadores para o substantivo que se encontra no final da oração."
+   },
+   {
+    "letra": "D",
+    "texto": "Foram empregados dois falsos cognatos em sequência."
+   },
+   {
+    "letra": "E",
+    "texto": "*Many* é um pronome que indica quantidade indefinida."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.625,
+     329.957,
+     547.180997,
+     340.957
+    ],
+    [
+     42.625,
+     342.557,
+     339.45899699999995,
+     353.557
+    ],
+    [
+     42.625,
+     368.177,
+     547.372998,
+     379.177
+    ],
+    [
+     64.02499999999998,
+     380.77700000000004,
+     195.38699999999997,
+     391.77700000000004
+    ],
+    [
+     42.62499999999998,
+     393.177,
+     547.515,
+     404.21000000000004
+    ],
+    [
+     64.02499999999998,
+     405.97700000000003,
+     100.65499999999999,
+     416.97700000000003
+    ],
+    [
+     42.62499999999998,
+     418.77700000000004,
+     441.00801399999983,
+     429.77700000000004
+    ],
+    [
+     42.62499999999998,
+     431.37700000000007,
+     337.240993,
+     442.37700000000007
+    ],
+    [
+     42.624999999999986,
+     443.77700000000004,
+     328.7710030000001,
+     454.77700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q037_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q038",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 38,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4091-T3",
+  "textos_base_ids": [
+   "P4091-T3"
+  ],
+  "enunciado": "The **CORRECT** sequence to fill in the gaps in **Text 3** is",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "outside / them / by / but / over / says"
+   },
+   {
+    "letra": "B",
+    "texto": "inside / their / by / and / on / says"
+   },
+   {
+    "letra": "C",
+    "texto": "into / their / with / besides / across/ say"
+   },
+   {
+    "letra": "D",
+    "texto": "out / them / under / but / during / say"
+   },
+   {
+    "letra": "E",
+    "texto": "outside / they / if / so / over / say"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.625000000000014,
+     156.52700000000004,
+     331.20000000000005,
+     167.52700000000004
+    ],
+    [
+     42.62500000000006,
+     181.92700000000002,
+     240.696996,
+     192.92700000000002
+    ],
+    [
+     42.62500000000006,
+     194.72699999999998,
+     224.646995,
+     205.72699999999998
+    ],
+    [
+     42.62500000000006,
+     207.327,
+     252.983001,
+     218.327
+    ],
+    [
+     42.62500000000006,
+     219.92700000000002,
+     240.65199500000006,
+     230.92700000000002
+    ],
+    [
+     42.62500000000006,
+     232.52700000000004,
+     221.90899600000006,
+     243.52700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q038_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q039",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 39,
+  "area": "MATEMÁTICA",
+  "texto_base_id": "P4091-T10",
+  "textos_base_ids": [
+   "P4091-T10"
+  ],
+  "enunciado": "Atente ao texto e à figura a seguir sobre o pensamento mítico:\n\n{{img:1}}\n\n{{fonte:1}}\n\nA Filosofia se constituiu por meio de uma passagem do mito ao logos (a razão). Antes do surgimento da Filosofia, a explicação para as questões humanas era fornecida pelos mitos. Podemos conhecer essas explicações lendo obras como Odisseia ou Ilíada, de Homero.\n\n{{fonte:2}}\n\nCom base na figura e na citação acima, o autor ressalta o valor do pensamento mitológico para a explicação acerca das questões humanas. Sobre esse assunto, é **CORRETO** afirmar que",
+  "fontes": [
+   "Disponível em: https://www.google.com/search?q=o+pensamento+mítico&client Acesso em: jul., 2019.",
+   "(DIMENSTEIN, Gilberto. Dez Lições de Filosofia. São Paulo: FTD, 2008, p. 27.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o pensamento mítico provém mais de regras lógicas e racionais de pouco sentido para as questões humanas."
+   },
+   {
+    "letra": "B",
+    "texto": "o mito expressa o conhecimento de que o homem é senhor de si mesmo, de que é independente do mundo conhecido."
+   },
+   {
+    "letra": "C",
+    "texto": "as explicações fornecidas pelos mitos são incoerentes e sem nenhum sentido para as questões humanas."
+   },
+   {
+    "letra": "D",
+    "texto": "o pensamento mítico compreende uma forma espontânea de o homem situar-se no mundo e na realidade vivida, dando sentido às questões humanas."
+   },
+   {
+    "letra": "E",
+    "texto": "a passagem do mito ao logos se constitui o verdadeiro sentido do pensamento mítico."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q039_img1.png",
+    "pagina": 26,
+    "bbox": [
+     113.8,
+     97.2,
+     485.3,
+     284.4
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     42.62500000000001,
+     71.30700000000002,
+     368.188006,
+     82.30700000000002
+    ],
+    [
+     113.76,
+     97.2,
+     485.28000000000003,
+     284.40000000000003
+    ],
+    [
+     117.65000000000003,
+     291.336,
+     481.55800000000005,
+     299.336
+    ],
+    [
+     84.025,
+     312.157,
+     536.2239999999999,
+     323.157
+    ],
+    [
+     62.625,
+     324.757,
+     536.329,
+     335.757
+    ],
+    [
+     62.625,
+     337.557,
+     495.3910039999999,
+     348.557
+    ],
+    [
+     254.48,
+     355.55600000000004,
+     536.4120000000003,
+     363.55600000000004
+    ],
+    [
+     42.625,
+     387.5770000000003,
+     547.0169979999996,
+     398.5770000000003
+    ],
+    [
+     42.625,
+     400.1770000000003,
+     479.98999999999995,
+     411.1770000000003
+    ],
+    [
+     42.625,
+     425.57700000000034,
+     546.6669999999999,
+     436.57700000000034
+    ],
+    [
+     56.825,
+     438.17700000000036,
+     105.236,
+     449.17700000000036
+    ],
+    [
+     42.625,
+     450.9770000000004,
+     547.0120000000001,
+     461.9770000000004
+    ],
+    [
+     56.82499999999999,
+     463.60700000000037,
+     146.78299999999996,
+     474.60700000000037
+    ],
+    [
+     42.624999999999986,
+     476.2070000000004,
+     546.6449999999999,
+     487.2070000000004
+    ],
+    [
+     56.82499999999999,
+     488.8070000000004,
+     105.236,
+     499.8070000000004
+    ],
+    [
+     42.624999999999986,
+     501.6070000000004,
+     547.364002,
+     512.6070000000004
+    ],
+    [
+     56.825000000000045,
+     514.2070000000004,
+     322.4240040000001,
+     525.2070000000004
+    ],
+    [
+     42.62500000000004,
+     526.8070000000005,
+     473.9679999999999,
+     537.8070000000005
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q039_p26.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q040",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 40,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Sobre a gênese do conhecimento filosófico, considere o texto e a figura a seguir:\n\n{{img:1}}\n\nA filosofia nasceu não na Grécia propriamente dita, mas, nas colônias gregas do Oriente e do Ocidente, a saber, na Jônia e na Magna Grécia.\n\n{{fonte:1}}\n\n{{fonte:2}}\n\nO autor aponta que a origem da filosofia surge nas colônias gregas. Então, a filosofia grega nasceu procurando desenvolver o saber",
+  "fontes": [
+   "(MONDIN, Battista. Curso de Filosofia. São Paulo: Paulus, 1981, p. 17.)",
+   "Disponível em: https://www.google.com/search?q=genese+do+pensamento+filosófico&client Acesso em: jun., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "alegórico."
+   },
+   {
+    "letra": "B",
+    "texto": "irracional."
+   },
+   {
+    "letra": "C",
+    "texto": "científico."
+   },
+   {
+    "letra": "D",
+    "texto": "analógico."
+   },
+   {
+    "letra": "E",
+    "texto": "racional."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q040_img1.png",
+    "pagina": 26,
+    "bbox": [
+     59.8,
+     570.2,
+     301.0,
+     689.0
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   26,
+   27
+  ],
+  "caixas": {
+   "26": [
+    [
+     42.62500000000004,
+     552.2070000000004,
+     458.2219969999999,
+     563.2070000000004
+    ],
+    [
+     59.760000000000005,
+     570.24,
+     300.96000000000004,
+     689.0400000000001
+    ],
+    [
+     323.1,
+     575.827,
+     542.5450000000001,
+     586.827
+    ],
+    [
+     323.1,
+     588.427,
+     542.33,
+     599.427
+    ],
+    [
+     323.1,
+     601.027,
+     541.923,
+     612.027
+    ],
+    [
+     323.1,
+     613.627,
+     419.67999999999995,
+     624.627
+    ],
+    [
+     334.9,
+     629.206,
+     542.1960000000001,
+     637.206
+    ],
+    [
+     497.34999999999997,
+     638.406,
+     542.198,
+     646.406
+    ],
+    [
+     56.825000000000045,
+     691.8310000000005,
+     384.6600000000003,
+     699.8310000000005
+    ],
+    [
+     56.82499999999999,
+     701.0310000000001,
+     138.028,
+     709.0310000000001
+    ]
+   ],
+   "27": [
+    [
+     42.625,
+     46.107000000000085,
+     547.3450069999997,
+     57.107000000000085
+    ],
+    [
+     42.625,
+     58.70700000000011,
+     200.68900500000007,
+     69.70700000000011
+    ],
+    [
+     42.625,
+     79.30700000000002,
+     111.63300000000002,
+     90.30700000000002
+    ],
+    [
+     144.85,
+     79.30700000000002,
+     213.66,
+     90.30700000000002
+    ],
+    [
+     247.27,
+     79.30700000000002,
+     315.079,
+     90.30700000000002
+    ],
+    [
+     349.73,
+     79.30700000000002,
+     421.334,
+     90.30700000000002
+    ],
+    [
+     451.95,
+     79.30700000000002,
+     514.7650000000001,
+     90.30700000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q040_p26.jpg",
+   "revisao/Q040_p27.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q041",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 41,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\n**O pensamento grego**\n\nSócrates, o homem que sabia perguntar. O próprio Sócrates, porém, não\n\ndeixou nada escrito, e o que se sabe dele e de seu pensamento vêm dos textos de  \nseus discípulos e de seus adversários.\n\n{{fonte:1}}\n\nO autor retrata, no âmbito do conhecimento filosófico, a singularidade das ideias de Sócrates. Nessa perspectiva, a filosofia socrática salienta o valor",
+  "fontes": [
+   "(CONTRIM, Gilberto. São Paulo: Saraiva, 2002, p. 93.) Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "da natureza. b) do diálogo. c) da mítica. d) da escrita. e) da ciência."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   27
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.625,
+     125.30700000000002,
+     166.01699599999995,
+     136.30700000000002
+    ],
+    [
+     225.08,
+     157.92700000000002,
+     335.10200000000003,
+     168.92700000000002
+    ],
+    [
+     99.425,
+     178.7270000000001,
+     483.50100000000015,
+     189.7270000000001
+    ],
+    [
+     76.425,
+     191.52700000000004,
+     483.775,
+     202.52700000000004
+    ],
+    [
+     76.425,
+     204.12700000000007,
+     265.273,
+     215.12700000000007
+    ],
+    [
+     250.48,
+     216.106,
+     483.7680000000001,
+     224.106
+    ],
+    [
+     42.625,
+     248.3270000000001,
+     547.4909970000003,
+     259.3270000000001
+    ],
+    [
+     42.625,
+     260.9570000000001,
+     275.50600000000014,
+     271.95700000000005
+    ],
+    [
+     42.625,
+     286.357,
+     316.3,
+     297.357
+    ],
+    [
+     349.73,
+     286.357,
+     421.752,
+     297.357
+    ],
+    [
+     451.95,
+     286.357,
+     525.952,
+     297.357
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [
+   "1 alternativas encontradas (esperado 5)"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q041_p27.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q042",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 42,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "No que se refere à condição humana e à cultura, observe o texto e a figura a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nA cultura pode ser considerada um amplo conjunto de conceitos, símbolos, valores e atitudes, que modelam uma sociedade.\n\n{{fonte:2}}\n\nSobre a temática do homem como ser cultural e biológico, é **CORRETO** afirmar que",
+  "fontes": [
+   "Disponível em: https://www.google.com/search?q=a+condição+humana+e+a+cultura Acesso em: jul., 2019.",
+   "(COTRIM, Gilberto. São Paulo: Saraiva, 2002, p. 15.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a ação humana se esgota na sua dimensão prática e prescinde dos símbolos."
+   },
+   {
+    "letra": "B",
+    "texto": "a dimensão cultural abrange um amplo conjunto de símbolos, declinando dos valores que modelam uma sociedade."
+   },
+   {
+    "letra": "C",
+    "texto": "o homem produz bens simbólicos, que o ajudam a dar significado ao mundo por ele produzido."
+   },
+   {
+    "letra": "D",
+    "texto": "os valores e as atitudes são irrelevantes no tocante à condição humana e à cultura."
+   },
+   {
+    "letra": "E",
+    "texto": "a cultura está sempre separada do universo existencial concreto do ser humano."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q042_img1.png",
+    "pagina": 27,
+    "bbox": [
+     121.7,
+     344.9,
+     463.0,
+     599.8
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   27,
+   28
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.625,
+     324.15700000000004,
+     474.8399939999998,
+     335.15700000000004
+    ],
+    [
+     121.68,
+     344.88,
+     462.96000000000004,
+     599.76
+    ],
+    [
+     101.43,
+     600.406,
+     483.766,
+     608.406
+    ],
+    [
+     55.625,
+     619.427,
+     530.028,
+     630.427
+    ],
+    [
+     55.625,
+     632.027,
+     203.146,
+     643.027
+    ],
+    [
+     340.7,
+     644.0060000000001,
+     529.476,
+     652.0060000000001
+    ]
+   ],
+   "28": [
+    [
+     42.625,
+     45.90700000000004,
+     452.404,
+     56.90700000000004
+    ],
+    [
+     42.625,
+     71.30700000000002,
+     444.44699100000014,
+     82.30700000000002
+    ],
+    [
+     42.625,
+     83.90700000000004,
+     547.2750019999999,
+     94.90700000000004
+    ],
+    [
+     64.02499999999999,
+     96.707,
+     190.15099999999995,
+     107.707
+    ],
+    [
+     42.62499999999999,
+     109.30700000000002,
+     526.8889939999998,
+     120.30700000000002
+    ],
+    [
+     42.62499999999999,
+     121.90700000000004,
+     471.5749929999999,
+     132.90700000000004
+    ],
+    [
+     42.62499999999999,
+     134.49700000000007,
+     458.14001099999996,
+     145.49700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q042_p27.jpg",
+   "revisao/Q042_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q043",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 43,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Atente ao texto e à figura a seguir acerca da dimensão humana e do pensamento filosófico:\n\n{{img:1}}\n\n{{fonte:1}}\n\nGraças à filosofia, os valores fundados na razão passam a orientar a vida das pessoas,  \nindividualmente e em comunidade. Nos séculos VI e V a.C., os pensadores gregos  \ncomeçam a tomar consciência de que os bons e maus resultados da organização da\n\ncidade dependem das relações sociais.\n\n{{fonte:2}}\n\nO texto e a figura acima retratam a importância que tem para as pessoas a reflexão filosófica, na forma de conduzir bem as construções humanas. Sobre esse assunto, é **CORRETO** afirmar que",
+  "fontes": [
+   "Disponível em: https://www.google.com/search?q=a+dimensão+humana+e+o+pensamento Acesso em: jul., 2019.",
+   "(CORDI, Cassiano; SANTOS, Antônio Raimundo e Outros. Para Filosofar. São Paulo: Scipione, 2000, p. 17.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a dimensão humana e o pensar filosófico são fundamentais para um novo conceito de responsabilidade nas construções humanas."
+   },
+   {
+    "letra": "B",
+    "texto": "o pensamento filosófico está descentrado na boa condução das construções humanas."
+   },
+   {
+    "letra": "C",
+    "texto": "os valores fundados na razão são secundários para a organização das relações sociais."
+   },
+   {
+    "letra": "D",
+    "texto": "o pensamento filosófico grego tem ínfima importância sobre a dimensão humana e a organização das relações sociais."
+   },
+   {
+    "letra": "E",
+    "texto": "os pensadores gregos têm pouco a contribuir para a tomada de consciência crítica no âmbito das relações sociais."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q043_img1.png",
+    "pagina": 28,
+    "bbox": [
+     168.5,
+     197.3,
+     424.1,
+     315.4
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   28
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.62499999999999,
+     172.52700000000016,
+     511.0379989999999,
+     183.52700000000016
+    ],
+    [
+     168.48000000000002,
+     197.28,
+     424.08000000000004,
+     315.36
+    ],
+    [
+     93.625,
+     316.736,
+     498.5520000000001,
+     324.736
+    ],
+    [
+     75.625,
+     336.357,
+     516.3620000000001,
+     347.357
+    ],
+    [
+     75.625,
+     348.937175,
+     516.3162889750004,
+     359.962175
+    ],
+    [
+     75.625,
+     361.577,
+     516.801,
+     372.577
+    ],
+    [
+     75.625,
+     374.377,
+     267.883,
+     385.377
+    ],
+    [
+     129.85,
+     392.35600000000005,
+     516.4499999999997,
+     400.35600000000005
+    ],
+    [
+     42.62499999999997,
+     418.7770000000003,
+     547.144004,
+     429.7770000000003
+    ],
+    [
+     42.625,
+     431.1770000000003,
+     481.78999999999996,
+     442.1770000000003
+    ],
+    [
+     42.625,
+     456.6070000000003,
+     547.2700079999998,
+     467.6070000000003
+    ],
+    [
+     64.02499999999999,
+     469.4070000000003,
+     281.882002,
+     480.4070000000003
+    ],
+    [
+     42.62499999999999,
+     482.00700000000035,
+     489.2370110000001,
+     493.00700000000035
+    ],
+    [
+     42.62499999999999,
+     494.60700000000037,
+     493.45399900000007,
+     505.60700000000037
+    ],
+    [
+     42.62499999999999,
+     507.2070000000004,
+     547.3700089999999,
+     518.2070000000003
+    ],
+    [
+     64.02499999999999,
+     519.9970000000004,
+     165.97299999999996,
+     530.9970000000004
+    ],
+    [
+     42.62499999999999,
+     532.6070000000004,
+     546.694004,
+     543.6070000000004
+    ],
+    [
+     64.02499999999999,
+     545.2070000000003,
+     145.194,
+     556.2070000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q043_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4091-Q044",
+  "prova_id": "P4091",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2020",
+  "edicao": "regular",
+  "fase_etapa": "SSA 1",
+  "dia": "1",
+  "caderno": "",
+  "numero": 44,
+  "area": "MATEMÁTICA",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Considere o seguinte texto acerca do pensamento filosófico:\n\nA filosofia propriamente dita tem condições de surgir no momento em que o pensar é posto em causa, tornando-se objeto de reflexão. Mas não qualquer reflexão. O homem comum, no cotidiano da vida, é levado a momentos de parada, a fim de retomar o significado de seus atos e pensamentos, e nessa hora é solicitado a refletir. Entretanto, ainda não é filosofia rigorosa o que ele faz.\n\n{{fonte:1}}\n\n{{img:1}}\n\nCom relação à temática do pensamento filosófico, é **CORRETO** afirmar que",
+  "fontes": [
+   "(ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. Filosofando – Introdução à Filosofia. São Paulo: Moderna, 1993, p. 74.) Disponível em: https://www.google.com/search?q=a+reflexão+filosófica+ou+pensamento+filosófico Acesso em: jun., 2019."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "no pensamento filosófico, o objeto de reflexão é a simples observação."
+   },
+   {
+    "letra": "B",
+    "texto": "na filosofia propriamente dita, os atos e pensamentos são de pouca monta."
+   },
+   {
+    "letra": "C",
+    "texto": "no pensamento filosófico, o pensar é questionado sem reflexão."
+   },
+   {
+    "letra": "D",
+    "texto": "no pensamento filosófico, é necessário justificar com a dimensão argumentativa."
+   },
+   {
+    "letra": "E",
+    "texto": "na filosofia propriamente dita, o argumento é posto em causa prescindindo do ato de refletir."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q044_img1.png",
+    "pagina": 29,
+    "bbox": [
+     154.1,
+     183.6,
+     444.2,
+     340.6
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.625,
+     46.107000000000085,
+     358.78799,
+     57.107000000000085
+    ],
+    [
+     80.825,
+     85.10700000000008,
+     538.6339999999999,
+     96.10700000000008
+    ],
+    [
+     59.425,
+     97.70700000000011,
+     538.7840000000002,
+     108.70700000000011
+    ],
+    [
+     59.425,
+     110.30700000000002,
+     539.17,
+     121.30700000000002
+    ],
+    [
+     59.425,
+     122.90700000000004,
+     538.5079999999998,
+     133.90700000000004
+    ],
+    [
+     59.425,
+     135.7070000000001,
+     94.66900000000001,
+     146.7070000000001
+    ],
+    [
+     96.225,
+     147.70600000000002,
+     539.0580000000001,
+     155.70600000000002
+    ],
+    [
+     140.45,
+     156.90599999999995,
+     538.7940000000001,
+     164.90599999999995
+    ],
+    [
+     457.95,
+     166.106,
+     539.1340000000001,
+     174.106
+    ],
+    [
+     154.08,
+     183.6,
+     444.24,
+     340.56
+    ],
+    [
+     42.625,
+     374.7770000000003,
+     412.613997,
+     385.7770000000003
+    ],
+    [
+     42.625,
+     400.37700000000035,
+     409.99700399999995,
+     411.37700000000035
+    ],
+    [
+     42.625,
+     412.9770000000004,
+     430.8090039999999,
+     423.9770000000004
+    ],
+    [
+     42.625,
+     425.5770000000004,
+     375.92399299999994,
+     436.5770000000004
+    ],
+    [
+     42.625,
+     438.1770000000004,
+     457.35199299999977,
+     449.1770000000004
+    ],
+    [
+     42.625,
+     450.97700000000043,
+     513.5290039999999,
+     461.97700000000043
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA1/PROVAS ANTIGAS/SSA 1 2020/2020-1º dia.pdf",
+  "gabarito_origem": [
+   "P4093"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q044_p29.jpg"
+  ]
+ }
+]

@@ -1,0 +1,7285 @@
+[
+ {
+  "id": "P4012-Q001",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 1,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T1",
+  "textos_base_ids": [
+   "P4012-T1"
+  ],
+  "enunciado": "Dados como tema, autoria, seleção das informações e pontos de vista adotados no **Texto 1** revelam que seu autor",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "busca denunciar o desrespeito aos direitos dos povos indígenas, especialmente, à comunidade universitária da USP."
+   },
+   {
+    "letra": "B",
+    "texto": "atua em contexto público a fim de desmistificar uma visão inadequada e discriminatória sobre os povos indígenas do Brasil."
+   },
+   {
+    "letra": "C",
+    "texto": "difunde a existência de grupos indígenas isolados para defender seus direitos de acesso a bens civilizatórios, como educação e saúde."
+   },
+   {
+    "letra": "D",
+    "texto": "restringe o problema relativo aos povos indígenas a um público específico, aquele que se engaja em prol dessa causa."
+   },
+   {
+    "letra": "E",
+    "texto": "objetiva denunciar as péssimas condições de vida dos indígenas que vivem em São Paulo, a fim de obter apoio para esses grupos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.6,
+     559.857,
+     547.237999,
+     570.857
+    ],
+    [
+     56.8,
+     572.4570000000001,
+     124.05399999999999,
+     583.457
+    ],
+    [
+     42.6,
+     591.9570000000001,
+     547.4250019999998,
+     602.957
+    ],
+    [
+     56.8,
+     604.657,
+     160.11200000000002,
+     615.657
+    ],
+    [
+     42.6,
+     617.2470000000001,
+     547.0709999999998,
+     628.2470000000001
+    ],
+    [
+     56.8,
+     629.9570000000001,
+     185.73100000000002,
+     640.957
+    ],
+    [
+     42.6,
+     642.557,
+     546.9169999999997,
+     653.557
+    ],
+    [
+     56.8,
+     655.277,
+     245.04300000000012,
+     666.277
+    ],
+    [
+     42.6,
+     667.8770000000001,
+     547.0709999999998,
+     678.8770000000001
+    ],
+    [
+     56.8,
+     680.577,
+     142.952,
+     691.577
+    ],
+    [
+     42.6,
+     693.177,
+     547.0599999999998,
+     704.177
+    ],
+    [
+     56.8,
+     705.8770000000001,
+     208.46499700000004,
+     716.8770000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q002",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 2,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A autenticidade das informações que constam no **Texto 1** é assegurada ao leitor em razão, principalmente,",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "do reconhecido prestígio da USP, em cuja editora o texto foi publicado."
+   },
+   {
+    "letra": "B",
+    "texto": "de o autor reunir dados referendados por suas pesquisas na Universidade."
+   },
+   {
+    "letra": "C",
+    "texto": "do emprego de dados e contextos amplamente admitidos como evidência."
+   },
+   {
+    "letra": "D",
+    "texto": "da associação da imagem do autor ao indígena das páginas da História."
+   },
+   {
+    "letra": "E",
+    "texto": "da presença de dados facilmente acessados em qualquer *site* da internet."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.60000000000002,
+     44.577,
+     547.0459950000001,
+     55.577
+    ],
+    [
+     56.80000000000001,
+     57.17700000000002,
+     131.336,
+     68.17700000000002
+    ],
+    [
+     42.6,
+     75.57700000000011,
+     401.92600000000004,
+     86.57700000000011
+    ],
+    [
+     42.6,
+     88.30700000000013,
+     420.3990040000001,
+     99.30700000000013
+    ],
+    [
+     42.6,
+     100.90700000000015,
+     417.1720000000001,
+     111.90700000000015
+    ],
+    [
+     42.6,
+     113.6070000000002,
+     408.15200000000004,
+     124.6070000000002
+    ],
+    [
+     42.6,
+     126.20700000000022,
+     415.60199800000004,
+     137.20700000000022
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q003",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 3,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Releia: “Os indígenas isolados que vivem no mundo contemporâneo não existem para grande parte da sociedade. Que sorte a deles! Por outro lado, é um perigo em uma sociedade com fome de capitalismo”.\n\nAssinale a alternativa que resume **CORRETAMENTE** o posicionamento argumentativo desse trecho.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Quem vive no mundo contemporâneo não pode acreditar no fato de que existem alguns indígenas isolados no Brasil."
+   },
+   {
+    "letra": "B",
+    "texto": "Grande parte da nossa sociedade tem a sorte de não conviver com os indígenas que vivem isolados do mundo civilizado."
+   },
+   {
+    "letra": "C",
+    "texto": "Os indígenas que se mantêm isolados da sociedade correm mais riscos que aqueles integrados às grandes cidades."
+   },
+   {
+    "letra": "D",
+    "texto": "O capitalismo é um dos grandes riscos, principalmente para uma parte da nossa sociedade contemporânea."
+   },
+   {
+    "letra": "E",
+    "texto": "Os indígenas isolados têm vantagem quando ignorados pela sociedade, mas a ganância capitalista é uma grave ameaça."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.6,
+     148.10700000000008,
+     546.9999999999998,
+     159.14
+    ],
+    [
+     56.8,
+     160.7070000000001,
+     547.145999,
+     171.7070000000001
+    ],
+    [
+     56.8,
+     173.44000000000005,
+     118.411,
+     184.44000000000005
+    ],
+    [
+     56.8,
+     185.99700000000018,
+     547.281006,
+     196.99700000000018
+    ],
+    [
+     56.80000000000001,
+     198.70700000000022,
+     90.43800000000002,
+     209.70700000000022
+    ],
+    [
+     42.6,
+     215.90700000000004,
+     546.983,
+     226.90700000000004
+    ],
+    [
+     56.8,
+     228.60700000000008,
+     145.922,
+     239.60700000000008
+    ],
+    [
+     42.599999999999994,
+     241.2070000000001,
+     546.9719999999999,
+     252.2070000000001
+    ],
+    [
+     56.8,
+     253.90700000000015,
+     156.367996,
+     264.90700000000015
+    ],
+    [
+     42.599999999999994,
+     266.5070000000002,
+     547.0489999999999,
+     277.5070000000001
+    ],
+    [
+     56.8,
+     279.22700000000015,
+     140.466,
+     290.22700000000015
+    ],
+    [
+     42.599999999999994,
+     291.82700000000017,
+     546.9059999999998,
+     302.82700000000017
+    ],
+    [
+     56.8,
+     304.52700000000016,
+     136.264,
+     315.52700000000016
+    ],
+    [
+     42.599999999999994,
+     317.1270000000002,
+     547.040002,
+     328.1270000000002
+    ],
+    [
+     56.8,
+     329.82700000000017,
+     163.148,
+     340.82700000000017
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q003_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q004",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 4,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T2",
+  "textos_base_ids": [
+   "P4012-T2"
+  ],
+  "enunciado": "A resenha do livro “Cercos e Resistências: povos indígenas isolados na Amazônia Brasileira” (**Texto 2**), publicada em ambiente digital, tem por interlocutor preferencial o público que estuda o tema do livro. Qual elemento atende especialmente ao interesse de estudo do público leitor em questão?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "As imagens da capa."
+   },
+   {
+    "letra": "B",
+    "texto": "As informações de identificação da obra."
+   },
+   {
+    "letra": "C",
+    "texto": "Os nomes dos organizadores do livro."
+   },
+   {
+    "letra": "D",
+    "texto": "A cidade e editora de publicação da obra."
+   },
+   {
+    "letra": "E",
+    "texto": "Os *hiperlinks*, que levam a mais conteúdo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.599999999999966,
+     138.90700000000027,
+     546.882,
+     149.94000000000017
+    ],
+    [
+     42.599999999999966,
+     151.4970000000003,
+     547.2460039999999,
+     162.4970000000003
+    ],
+    [
+     42.599999999999966,
+     164.20700000000033,
+     527.3809999999999,
+     175.20700000000033
+    ],
+    [
+     42.599999999999966,
+     182.6070000000003,
+     158.12199999999999,
+     193.6070000000003
+    ],
+    [
+     42.599999999999966,
+     195.20700000000033,
+     254.08600000000007,
+     206.20700000000033
+    ],
+    [
+     42.599999999999966,
+     207.90700000000038,
+     239.87400000000002,
+     218.90700000000038
+    ],
+    [
+     42.599999999999966,
+     220.4970000000004,
+     258.4110020000001,
+     231.4970000000004
+    ],
+    [
+     42.599999999999966,
+     233.20700000000045,
+     262.62300000000005,
+     244.20700000000045
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q004_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q005",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 5,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T2",
+  "textos_base_ids": [
+   "P4012-T2"
+  ],
+  "enunciado": "Os **Textos 1 e 2** têm autoria e gêneros diferentes, mas exploram o mesmo tema principal. Uma ideia que eles partilham acerca desse tema aparece no seguinte trecho do **Texto 2**:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "“O livro traça um panorama sobre os povos indígenas isolados, de diversos territórios e regiões do Brasil [...]”."
+   },
+   {
+    "letra": "B",
+    "texto": "“[O livro] reúne artigos de pesquisadores que se debruçaram sobre diferentes temas e regiões [...]”."
+   },
+   {
+    "letra": "C",
+    "texto": "“O livro traz o depoimento [...] de quem vive e atua nos rincões mais afastados da Amazônia”."
+   },
+   {
+    "letra": "D",
+    "texto": "“Essas populações resistem [...] enquanto os não indígenas aproximam-se cada vez mais em sua busca por riquezas”."
+   },
+   {
+    "letra": "E",
+    "texto": "“Em algumas regiões, como a dos Kawahivas do Rio Pardo, no Mato Grosso, ou a dos Awá Guajás, no Maranhão, os isolados sobrevivem a seu modo [...]”."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.59999999999998,
+     258.4970000000005,
+     547.0549970000001,
+     269.49700000000047
+    ],
+    [
+     56.79999999999998,
+     271.1070000000005,
+     439.038,
+     282.1070000000005
+    ],
+    [
+     42.60000000000002,
+     289.5600000000005,
+     546.9939999999999,
+     300.5600000000005
+    ],
+    [
+     56.800000000000026,
+     302.2600000000005,
+     109.39100000000003,
+     313.2600000000005
+    ],
+    [
+     42.60000000000004,
+     314.8600000000005,
+     540.2289999999999,
+     325.8600000000005
+    ],
+    [
+     42.60000000000002,
+     327.5600000000005,
+     512.0390029999999,
+     338.5600000000005
+    ],
+    [
+     42.599999999999966,
+     340.1270000000005,
+     547.3060029999999,
+     351.16000000000054
+    ],
+    [
+     56.799999999999955,
+     352.8600000000005,
+     156.40499999999997,
+     363.8600000000005
+    ],
+    [
+     42.59999999999995,
+     365.427,
+     547.358,
+     376.46000000000055
+    ],
+    [
+     56.799999999999955,
+     378.16,
+     327.653,
+     389.16
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q005_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q006",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 6,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T2",
+  "textos_base_ids": [
+   "P4012-T2"
+  ],
+  "enunciado": "Considerando o tema do livro resenhado e o vocabulário do **Texto 2**, assinale a alternativa em que as duas expressões são as de maior interesse do público leitor preferencial do livro.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Panorama; diversos territórios."
+   },
+   {
+    "letra": "B",
+    "texto": "Povos indígenas isolados; artigos de pesquisadores."
+   },
+   {
+    "letra": "C",
+    "texto": "Regiões do Brasil; perspectiva dos indígenas."
+   },
+   {
+    "letra": "D",
+    "texto": "O prefácio; o depoimento."
+   },
+   {
+    "letra": "E",
+    "texto": "Amazônia; Mato Grosso."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.599999999999966,
+     403.427,
+     547.2620000000001,
+     414.427
+    ],
+    [
+     56.799999999999955,
+     416.02700000000004,
+     465.91400200000004,
+     427.02700000000004
+    ],
+    [
+     42.59999999999995,
+     434.4270000000001,
+     205.19100000000003,
+     445.4270000000001
+    ],
+    [
+     42.59999999999995,
+     447.12700000000007,
+     312.12200000000007,
+     458.12700000000007
+    ],
+    [
+     42.59999999999995,
+     459.7270000000001,
+     277.9120000000001,
+     470.7270000000001
+    ],
+    [
+     42.59999999999995,
+     472.4570000000001,
+     181.91499999999996,
+     483.4570000000001
+    ],
+    [
+     42.59999999999995,
+     485.05700000000013,
+     176.52499999999998,
+     496.05700000000013
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q006_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q007",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 7,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T3",
+  "textos_base_ids": [
+   "P4012-T3",
+   "P4012-T2"
+  ],
+  "enunciado": "O **Texto 3**, trecho de um poema de Gonçalves Dias, de 1851, traz o discurso de um indígena que fala de si mesmo e do seu povo. Apesar da diferença de épocas, há um ponto em comum entre a realidade criada para o indígena do poema e a vivenciada pelos indígenas do nosso tempo (**Textos 1 e 2**), no que se refere",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "ao habitat dos indígenas de hoje, que é restrito à selva."
+   },
+   {
+    "letra": "B",
+    "texto": "à altivez dos indígenas do passado, revelada nas guerras tribais."
+   },
+   {
+    "letra": "C",
+    "texto": "à preservação de rituais ancestrais, como o “canto de morte”."
+   },
+   {
+    "letra": "D",
+    "texto": "à submissão do indígena de hoje aos valores ditos modernos."
+   },
+   {
+    "letra": "E",
+    "texto": "a um presente e futuro ainda incertos para os indígenas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.6,
+     57.17700000000002,
+     547.001,
+     68.17700000000002
+    ],
+    [
+     56.8,
+     69.87700000000007,
+     547.1459989999998,
+     80.87700000000007
+    ],
+    [
+     56.8,
+     82.47700000000009,
+     546.872,
+     93.47700000000009
+    ],
+    [
+     56.8,
+     95.20700000000011,
+     213.36900000000003,
+     106.20700000000011
+    ],
+    [
+     42.6,
+     115.90700000000004,
+     325.6740000000001,
+     126.90700000000004
+    ],
+    [
+     42.6,
+     128.49700000000007,
+     372.09900500000015,
+     139.49700000000007
+    ],
+    [
+     42.6,
+     141.24,
+     354.27400000000006,
+     152.24
+    ],
+    [
+     42.6,
+     153.80700000000002,
+     357.42000000000013,
+     164.80700000000002
+    ],
+    [
+     42.6,
+     166.49700000000007,
+     331.11900000000014,
+     177.49700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q007_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q008",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 8,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T4",
+  "textos_base_ids": [
+   "P4012-T4",
+   "P4012-T3"
+  ],
+  "enunciado": "Considere os **Textos 3 e 4** e analise as afirmativas a seguir.\n\n1) O poema revela a visão estética da Segunda Geração Romântica em que “cantar a morte” tem relação com uma profunda frustração em relação à vida.\n\n2) A construção estética do poema de Gonçalves Dias inclui recursos sonoros e rítmicos primorosos que sugerem a atmosfera ritualística da cena.\n\n3) A leitura do **Texto 4** nos autoriza a inferir que o projeto da Igreja previa um ideal civilizatório com adoção de costumes cristãos e garantia à terra ancestral.\n\n4) Na contemporaneidade, os povos indígenas resistem à submissão expressa no **Texto 4** e defendem a proteção da terra e dos indígenas isolados.\n\nEstão **CORRETAS**, apenas:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1 e 3."
+   },
+   {
+    "letra": "B",
+    "texto": "1 e 4."
+   },
+   {
+    "letra": "C",
+    "texto": "2 e 3."
+   },
+   {
+    "letra": "D",
+    "texto": "2 e 4."
+   },
+   {
+    "letra": "E",
+    "texto": "2, 3 e 4."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.6,
+     448.22700000000003,
+     349.03499800000003,
+     459.22700000000003
+    ],
+    [
+     42.6,
+     474.757,
+     547.1850000000001,
+     485.79
+    ],
+    [
+     56.8,
+     487.357,
+     332.43800000000005,
+     498.357
+    ],
+    [
+     42.6,
+     500.057,
+     546.9660049999999,
+     511.057
+    ],
+    [
+     56.8,
+     512.6569999999999,
+     279.82500000000005,
+     523.6569999999999
+    ],
+    [
+     42.6,
+     525.357,
+     547.0089960000003,
+     536.357
+    ],
+    [
+     56.8,
+     537.9570000000001,
+     336.74699700000014,
+     548.957
+    ],
+    [
+     42.6,
+     550.657,
+     547.324999,
+     561.657
+    ],
+    [
+     56.8,
+     563.2470000000001,
+     276.84400000000016,
+     574.2470000000001
+    ],
+    [
+     42.6,
+     589.7470000000001,
+     180.70100000000002,
+     600.7470000000001
+    ],
+    [
+     42.6,
+     610.357,
+     83.058,
+     621.357
+    ],
+    [
+     42.6,
+     623.057,
+     83.058,
+     634.057
+    ],
+    [
+     42.6,
+     635.657,
+     82.32100000000001,
+     646.657
+    ],
+    [
+     42.6,
+     648.357,
+     83.058,
+     659.357
+    ],
+    [
+     42.6,
+     660.977,
+     95.21300000000001,
+     671.977
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q008_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q009",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 9,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As danças de salão, como a salsa, o tango e o forró, têm uma longa história e são conhecidas por suas dinâmicas de parceria. Tradicionalmente, esses papéis são divididos em uma pessoa que conduz e uma outra pessoa sendo conduzida, processo que caracteriza essa dança como Dança de Salão.\n\nComo as danças de salão podem refletir e reforçar os padrões normativos de gênero?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Promovendo igualdade de papéis no processo de condução entre homens e mulheres."
+   },
+   {
+    "letra": "B",
+    "texto": "Incentivando padrões em que ambos os parceiros experimentem os papéis de condutor e conduzido."
+   },
+   {
+    "letra": "C",
+    "texto": "Estabelecendo papéis fixos de condutor para homens e conduzido para mulheres."
+   },
+   {
+    "letra": "D",
+    "texto": "Eliminando qualquer forma de distinção de papéis durante a prática da dança."
+   },
+   {
+    "letra": "E",
+    "texto": "Garantindo que as mulheres sempre tomem a iniciativa na dança no papel de conduzir."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.6,
+     57.17700000000002,
+     546.8069999999999,
+     68.17700000000002
+    ],
+    [
+     42.6,
+     69.87700000000007,
+     546.9169999999999,
+     80.87700000000007
+    ],
+    [
+     42.6,
+     82.47700000000009,
+     528.6690009999999,
+     93.47700000000009
+    ],
+    [
+     42.6,
+     107.80700000000002,
+     463.328,
+     118.80700000000002
+    ],
+    [
+     42.6,
+     133.10700000000008,
+     471.9229979999995,
+     144.10700000000008
+    ],
+    [
+     42.6,
+     145.80700000000002,
+     538.6379979999992,
+     156.80700000000002
+    ],
+    [
+     42.6,
+     158.40700000000004,
+     449.6480039999996,
+     169.40700000000004
+    ],
+    [
+     42.6,
+     171.10700000000008,
+     429.74899799999963,
+     182.10700000000008
+    ],
+    [
+     42.6,
+     183.7070000000001,
+     473.5929959999995,
+     194.7070000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q009_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q010",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 10,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As práticas de aventura na natureza, como o montanhismo, o *rafting* e o *trekking*, promovem o\n\ncontato direto com ambientes naturais. Contudo, essas atividades podem causar impactos ambientais significativos se não forem realizadas de forma sustentável.\n\n{{img:1}}\n\n{{fonte:1}}\n\nA imagem traz um grupo de montanhistas escalando uma montanha, com uma paisagem natural ao fundo.\n\nQuais são algumas das principais preocupações ambientais relacionadas ao montanhismo?",
+  "fontes": [
+   "Disponível em: https://br.freepik.com/fotos-premium/um-grupo-de-pessoas-subindo-uma-montanha-com-uma-montanha-ao-fundo_60429822.htm. Acesso em: 05 ago. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Aumento da biodiversidade local e melhoria da qualidade do ar e da terra."
+   },
+   {
+    "letra": "B",
+    "texto": "Destruição da vegetação, erosão do solo e poluição causada por resíduos deixados pelos praticantes."
+   },
+   {
+    "letra": "C",
+    "texto": "Criação de novos *habitats* e recuperação de áreas degradadas."
+   },
+   {
+    "letra": "D",
+    "texto": "Redução da emissão de gases de efeito estufa e combate às mudanças climáticas."
+   },
+   {
+    "letra": "E",
+    "texto": "Melhoria das condições dos ecossistemas aquáticos próximos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q010_img1.png",
+    "pagina": 7,
+    "bbox": [
+     110.2,
+     270.7,
+     480.2,
+     474.5
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.6,
+     221.7070000000001,
+     547.258,
+     232.7070000000001
+    ],
+    [
+     56.8,
+     234.30700000000002,
+     547.4059949999998,
+     245.30700000000002
+    ],
+    [
+     56.8,
+     246.99700000000007,
+     403.91600000000005,
+     257.99700000000007
+    ],
+    [
+     110.16000000000001,
+     270.72,
+     480.24,
+     474.48
+    ],
+    [
+     82.325,
+     475.136,
+     521.564,
+     483.136
+    ],
+    [
+     215.45,
+     484.336,
+     388.37000000000006,
+     492.336
+    ],
+    [
+     42.6,
+     506.657,
+     547.036999,
+     517.6569999999999
+    ],
+    [
+     42.6,
+     519.2470000000001,
+     73.16900000000001,
+     530.2470000000001
+    ],
+    [
+     42.6,
+     544.557,
+     491.32800499999985,
+     555.557
+    ],
+    [
+     42.6,
+     569.857,
+     424.60100500000004,
+     580.857
+    ],
+    [
+     42.6,
+     582.557,
+     546.9240079999998,
+     593.557
+    ],
+    [
+     63.9,
+     595.157,
+     120.748,
+     606.157
+    ],
+    [
+     42.6,
+     607.857,
+     374.5969980000001,
+     618.857
+    ],
+    [
+     42.6,
+     620.4570000000001,
+     470.3280049999999,
+     631.457
+    ],
+    [
+     42.6,
+     633.157,
+     370.77199900000005,
+     644.157
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q010_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q011",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 11,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T5",
+  "textos_base_ids": [
+   "P4012-T5"
+  ],
+  "enunciado": "O **Texto 5** é parte de um artigo escrito há alguns anos pelo célebre escritor brasileiro Jorge Amado. Quanto à perspectiva adotada em relação ao tema, é **CORRETO** afirmar que o escritor",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "concebe um artista humanizado pela luta cotidiana, parte de sua arte."
+   },
+   {
+    "letra": "B",
+    "texto": "argumenta a favor de uma imagem introspectiva, reflexiva, de artista."
+   },
+   {
+    "letra": "C",
+    "texto": "considera que o artista deve se isolar para exercer bem o seu ofício."
+   },
+   {
+    "letra": "D",
+    "texto": "critica a atuação de artistas e intelectuais nos acontecimentos políticos."
+   },
+   {
+    "letra": "E",
+    "texto": "defende que a “arte pela arte” marque a posição dos artistas no mundo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.6,
+     370.027,
+     552.768,
+     381.027
+    ],
+    [
+     42.6,
+     382.72700000000003,
+     467.499,
+     393.72700000000003
+    ],
+    [
+     42.6,
+     402.22700000000003,
+     396.777,
+     413.22700000000003
+    ],
+    [
+     42.6,
+     414.927,
+     394.24499800000007,
+     425.927
+    ],
+    [
+     42.6,
+     427.527,
+     390.6609990000001,
+     438.527
+    ],
+    [
+     42.6,
+     440.22700000000003,
+     405.13700000000006,
+     451.22700000000003
+    ],
+    [
+     42.6,
+     452.827,
+     407.264,
+     463.86
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q011_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q012",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 12,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T5",
+  "textos_base_ids": [
+   "P4012-T5"
+  ],
+  "enunciado": "A imagem de um artista, um poeta, que trabalha intensamente “trancado na sua clássica torre de cristal” (**Texto 5**) se filia à concepção estética\n\n**Texto 6**\n\n**A um poeta**\n\nLonge do estéril turbilhão da rua,  \nBeneditino, escreve! No aconchego  \nDo claustro, na paciência e no sossego,  \nTrabalha, e teima, e lima, e sofre, e sua!\n\nMas que na força se disfarce o emprego  \nDo esforço; e a trama viva se construa  \nDe tal modo, que a imagem fique nua,  \nRica mas sóbria, como um templo grego.\n\nNão se mostre na fábrica o suplício  \nDo mestre. E, natural, o efeito agrade,  \nSem lembrar os andaimes do edifício:\n\nPorque a Beleza, gêmea da Verdade,  \nArte pura, inimiga do artifício,  \nÉ a força e a graça na simplicidade.\n\n(Olavo Bilac)",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:2}}"
+   },
+   {
+    "letra": "B",
+    "texto": "{{img:3}}"
+   },
+   {
+    "letra": "C",
+    "texto": "{{img:4}}"
+   },
+   {
+    "letra": "D",
+    "texto": "{{img:5}}"
+   },
+   {
+    "letra": "E",
+    "texto": "{{img:6}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 2,
+    "arquivo": "img/Q012_alta.png",
+    "pagina": 8,
+    "bbox": [
+     42.5,
+     524.2,
+     423.4,
+     586.1
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q012_altb.png",
+    "pagina": 8,
+    "bbox": [
+     42.5,
+     524.2,
+     423.4,
+     586.1
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q012_altc.png",
+    "pagina": 8,
+    "bbox": [
+     42.5,
+     524.2,
+     423.4,
+     586.1
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q012_altd.png",
+    "pagina": 8,
+    "bbox": [
+     42.5,
+     524.2,
+     423.4,
+     586.1
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 6,
+    "arquivo": "img/Q012_alte.png",
+    "pagina": 8,
+    "bbox": [
+     42.5,
+     524.2,
+     423.4,
+     586.1
+    ],
+    "recorte_de": 1
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   8,
+   9
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.6,
+     490.857,
+     552.4799999999999,
+     501.89000000000004
+    ],
+    [
+     42.6,
+     503.457,
+     264.491,
+     514.49
+    ],
+    [
+     42.480000000000004,
+     524.16,
+     423.36,
+     586.08
+    ]
+   ],
+   "9": [
+    [
+     56.8,
+     44.57700000000011,
+     95.3,
+     55.57700000000011
+    ],
+    [
+     56.8,
+     66.77700000000004,
+     116.574,
+     77.77700000000004
+    ],
+    [
+     56.8,
+     89.80700000000002,
+     217.54300000000006,
+     100.80700000000002
+    ],
+    [
+     56.8,
+     102.40700000000004,
+     230.4130000000001,
+     113.40700000000004
+    ],
+    [
+     56.8,
+     115.10700000000008,
+     251.7310000000001,
+     126.10700000000008
+    ],
+    [
+     56.8,
+     127.70700000000011,
+     253.71100000000007,
+     138.7070000000001
+    ],
+    [
+     56.8,
+     146.10700000000008,
+     253.84300000000016,
+     157.10700000000008
+    ],
+    [
+     56.8,
+     158.80700000000002,
+     245.03200000000007,
+     169.80700000000002
+    ],
+    [
+     56.8,
+     171.40700000000004,
+     243.151,
+     182.40700000000004
+    ],
+    [
+     56.8,
+     184.10700000000008,
+     257.3080000000001,
+     195.10700000000008
+    ],
+    [
+     56.8,
+     201.30700000000002,
+     229.04900000000006,
+     212.30700000000002
+    ],
+    [
+     56.8,
+     213.99700000000007,
+     243.29400000000015,
+     224.99700000000007
+    ],
+    [
+     56.8,
+     226.60700000000008,
+     241.30300000000005,
+     237.60700000000008
+    ],
+    [
+     56.8,
+     244.99700000000007,
+     240.8630000000001,
+     255.99700000000007
+    ],
+    [
+     56.8,
+     257.7070000000001,
+     199.78900000000004,
+     268.70700000000005
+    ],
+    [
+     56.8,
+     270.307,
+     231.5130000000001,
+     281.307
+    ],
+    [
+     217.65,
+     288.52000000000004,
+     269.438,
+     298.52000000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [
+   "alternativas estão desenhadas no PDF (sem texto): recortadas como imagem, uma por alternativa — conferir",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q012_p8.jpg",
+   "revisao/Q012_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q013",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 13,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O poema de Olavo Bilac (**Texto 6**) tematiza o próprio fazer poético. Acerca de alguns recursos\n\nestilísticos e linguísticos do poema, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A repetição da conjunção “e”, no quarto verso da primeira estrofe, tem como efeito estético construir a imagem dos gestos repetitivos e extenuantes de um trabalhador."
+   },
+   {
+    "letra": "B",
+    "texto": "Ao comparar o poeta a um frade beneditino, o autor evidencia o seu objetivo mais importante, que é o da sacralização da arte poética."
+   },
+   {
+    "letra": "C",
+    "texto": "Com a palavra “mestre”, empregada na terceira estrofe do poema, o autor pretende imprimir, no poema, os méritos da pessoa que ensina a sua arte."
+   },
+   {
+    "letra": "D",
+    "texto": "A figura dos “andaimes do edifício” é empregada pelo poeta como uma metáfora positiva, com a pretensão de fazer referência à beleza da arte poética."
+   },
+   {
+    "letra": "E",
+    "texto": "O emprego da inicial maiúscula em “Verdade” e “Beleza” pretende particularizar conceitos que são fundamentais para referir os ideais da literatura contemporânea."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.6,
+     327.027,
+     547.0980000000001,
+     338.027
+    ],
+    [
+     56.8,
+     339.72700000000003,
+     396.204,
+     350.72700000000003
+    ],
+    [
+     42.6,
+     365.027,
+     546.9099999999999,
+     376.06
+    ],
+    [
+     63.9,
+     377.627,
+     434.21499999999986,
+     388.627
+    ],
+    [
+     42.6,
+     390.327,
+     547.1880079999999,
+     401.327
+    ],
+    [
+     63.9,
+     402.927,
+     237.54600000000008,
+     413.927
+    ],
+    [
+     42.6,
+     415.627,
+     546.8109999999999,
+     426.66
+    ],
+    [
+     63.9,
+     428.22700000000003,
+     320.11200000000014,
+     439.22700000000003
+    ],
+    [
+     42.6,
+     440.927,
+     547.229,
+     451.96000000000004
+    ],
+    [
+     63.9,
+     453.527,
+     331.0680000000001,
+     464.527
+    ],
+    [
+     42.6,
+     466.257,
+     546.888,
+     477.29
+    ],
+    [
+     63.9,
+     478.857,
+     376.935998,
+     489.857
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q013_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q014",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 14,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T6",
+  "textos_base_ids": [
+   "P4012-T6"
+  ],
+  "enunciado": "Percebe-se que o **Texto 7**, uma canção de nosso tempo, “conversa” com Olavo Bilac e sua produção pela citação do nome completo do poeta e por recorrer a outras referências, tais como",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a repetição de versos."
+   },
+   {
+    "letra": "B",
+    "texto": "a temática muito refinada."
+   },
+   {
+    "letra": "C",
+    "texto": "o verso de doze sílabas."
+   },
+   {
+    "letra": "D",
+    "texto": "a alusão à cultura popular."
+   },
+   {
+    "letra": "E",
+    "texto": "o excesso de erudição."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.6,
+     57.17700000000002,
+     547.298,
+     68.20999999999992
+    ],
+    [
+     42.60000000000002,
+     69.87700000000007,
+     512.7400000000001,
+     80.87700000000007
+    ],
+    [
+     42.6,
+     95.20700000000011,
+     163.655,
+     106.20700000000011
+    ],
+    [
+     42.6,
+     107.80700000000013,
+     181.945,
+     118.80700000000013
+    ],
+    [
+     42.6,
+     120.49700000000018,
+     173.907,
+     131.49700000000018
+    ],
+    [
+     42.6,
+     133.1070000000002,
+     185.00600000000003,
+     144.1070000000002
+    ],
+    [
+     42.6,
+     145.80700000000024,
+     168.47299999999998,
+     156.80700000000024
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q014_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q015",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 15,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T7",
+  "textos_base_ids": [
+   "P4012-T7",
+   "P4012-T6"
+  ],
+  "enunciado": "O **Texto 8**, a imagem de um baile *funk*, poderia servir de ilustração a “Alexandrino”, de Caetano e Moreno Veloso (**Texto 7**), que reúne recursos da poesia e da música *funk* para sugerir efeitos",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "abstratos."
+   },
+   {
+    "letra": "B",
+    "texto": "visuais."
+   },
+   {
+    "letra": "C",
+    "texto": "rítmicos."
+   },
+   {
+    "letra": "D",
+    "texto": "táteis."
+   },
+   {
+    "letra": "E",
+    "texto": "sombrios."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.6,
+     496.557,
+     546.9820000000001,
+     507.59000000000003
+    ],
+    [
+     42.599999999999994,
+     509.247,
+     500.662998,
+     520.2470000000001
+    ],
+    [
+     42.6,
+     534.557,
+     103.73800000000001,
+     545.557
+    ],
+    [
+     42.599999999999994,
+     547.157,
+     92.045,
+     558.157
+    ],
+    [
+     42.599999999999994,
+     559.857,
+     96.412,
+     570.857
+    ],
+    [
+     42.6,
+     572.457,
+     84.873,
+     583.457
+    ],
+    [
+     42.6,
+     585.1569999999999,
+     103.13899500000001,
+     596.1569999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q016",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 16,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A popularidade dos jogos eletrônicos tem crescido significativamente entre os adolescentes, levantando preocupações sobre o potencial de desenvolvimento de vícios em relação a esse público.\n\nQuais são alguns dos sinais de que um adolescente pode estar desenvolvendo um vício em jogos eletrônicos?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Isolamento social, queda no desempenho escolar, alteração no sono e mudanças no humor."
+   },
+   {
+    "letra": "B",
+    "texto": "Redução do tempo de jogo com isolamento social e maior engajamento em atividades físicas e mentais."
+   },
+   {
+    "letra": "C",
+    "texto": "Aumento do desempenho acadêmico provocado pelo isolamento social e mais tempo dedicado aos estudos."
+   },
+   {
+    "letra": "D",
+    "texto": "Participação ativa e isolada em esportes e atividades ao ar livre e com grupos de amigos."
+   },
+   {
+    "letra": "E",
+    "texto": "Interesse crescente em *hobbies* variados, inclusive jogos virtuais e equilíbrio entre atividades diárias."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.59999999999991,
+     44.57700000000011,
+     547.1119999999999,
+     55.57700000000011
+    ],
+    [
+     42.59999999999991,
+     57.177000000000135,
+     536.6099999999999,
+     68.17700000000013
+    ],
+    [
+     42.59999999999991,
+     82.4770000000002,
+     546.9609999999999,
+     93.4770000000002
+    ],
+    [
+     42.59999999999991,
+     95.20700000000022,
+     101.82399999999991,
+     106.20700000000022
+    ],
+    [
+     42.59999999999991,
+     120.4970000000003,
+     489.79100399999965,
+     131.4970000000003
+    ],
+    [
+     42.59999999999991,
+     133.1070000000003,
+     543.1589999999994,
+     144.1070000000003
+    ],
+    [
+     42.59999999999991,
+     145.80700000000036,
+     547.1079949999993,
+     156.80700000000036
+    ],
+    [
+     63.899999999999906,
+     158.40700000000038,
+     103.35699999999991,
+     169.40700000000038
+    ],
+    [
+     42.59999999999991,
+     171.10700000000043,
+     474.5770029999998,
+     182.10700000000043
+    ],
+    [
+     42.59999999999991,
+     183.70700000000045,
+     525.1260000000001,
+     194.70700000000045
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q016_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q017",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 17,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A ginástica de conscientização corporal, como o Pilates e o Yoga, foca no desenvolvimento da percepção corporal, na respiração e na consciência dos movimentos. Essas práticas têm demonstrado benefícios significativos para a saúde mental, especialmente em adolescentes.\n\nComo a prática regular de ginástica de conscientização corporal pode beneficiar a saúde mental dos adolescentes?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Aumentando a competitividade e a pressão para o desempenho de atividades calmas e tranquilas."
+   },
+   {
+    "letra": "B",
+    "texto": "Promovendo o isolamento social e a descontração entre os praticantes em ambientes silenciosos."
+   },
+   {
+    "letra": "C",
+    "texto": "Incentivando as atividades mais paradas tendo em vista uma vida menos ativa e mais calma."
+   },
+   {
+    "letra": "D",
+    "texto": "Reduzindo o estresse, melhorando o humor e aumentando a capacidade de concentração pelos praticantes."
+   },
+   {
+    "letra": "E",
+    "texto": "Aumentando a ansiedade e os níveis de estresse para que os adolescentes sejam mais produtivos em suas atividades diárias."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.59999999999991,
+     221.70700000000056,
+     547.2650049999997,
+     232.70700000000056
+    ],
+    [
+     42.59999999999991,
+     234.30700000000058,
+     546.9609999999999,
+     245.30700000000058
+    ],
+    [
+     42.59999999999991,
+     246.99700000000064,
+     427.67699999999996,
+     257.99700000000064
+    ],
+    [
+     42.59999999999991,
+     272.3070000000006,
+     547.1740039999997,
+     283.3070000000006
+    ],
+    [
+     42.59999999999991,
+     284.9270000000006,
+     113.4289999999999,
+     295.9270000000006
+    ],
+    [
+     42.59999999999991,
+     310.2270000000006,
+     544.8640049999998,
+     321.2270000000006
+    ],
+    [
+     42.59999999999991,
+     322.9270000000006,
+     541.7290049999999,
+     333.9270000000006
+    ],
+    [
+     42.59999999999991,
+     335.5270000000006,
+     518.037006,
+     346.5270000000006
+    ],
+    [
+     42.59999999999991,
+     348.2270000000006,
+     546.8880049999998,
+     359.2270000000006
+    ],
+    [
+     63.899999999999906,
+     360.8270000000006,
+     120.74799999999992,
+     371.8270000000006
+    ],
+    [
+     42.59999999999991,
+     373.5270000000006,
+     547.1480009999998,
+     384.5270000000006
+    ],
+    [
+     63.899999999999906,
+     386.12700000000063,
+     196.4389999999999,
+     397.12700000000063
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q017_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q018-ING",
+  "prova_id": "P4012",
+  "idioma": "inglês",
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 18,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T9",
+  "textos_base_ids": [
+   "P4012-T9"
+  ],
+  "enunciado": "What kind of text is it?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A short story."
+   },
+   {
+    "letra": "B",
+    "texto": "A formal report."
+   },
+   {
+    "letra": "C",
+    "texto": "An advertisement."
+   },
+   {
+    "letra": "D",
+    "texto": "An informative article."
+   },
+   {
+    "letra": "E",
+    "texto": "A letter to the editor."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.6,
+     44.57700000000011,
+     168.5349960000001,
+     55.57700000000011
+    ],
+    [
+     42.6,
+     69.87700000000007,
+     128.578,
+     80.87700000000007
+    ],
+    [
+     42.6,
+     82.47700000000009,
+     139.701005,
+     93.47700000000009
+    ],
+    [
+     42.6,
+     95.20700000000011,
+     152.516004,
+     106.20700000000011
+    ],
+    [
+     42.6,
+     107.80700000000002,
+     169.654005,
+     118.80700000000002
+    ],
+    [
+     42.6,
+     120.49700000000007,
+     162.966005,
+     131.49700000000007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q018-ING_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q019-ING",
+  "prova_id": "P4012",
+  "idioma": "inglês",
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 19,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T9",
+  "textos_base_ids": [
+   "P4012-T9"
+  ],
+  "enunciado": "Considerando o propósito comunicativo do **Texto 9**, no seu todo, é **CORRETO** afirmar que o autor",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "descreve alguns restaurantes e bares, explorando, ainda, várias áreas fascinantes de Londres, na perspectiva do Tâmisa."
+   },
+   {
+    "letra": "B",
+    "texto": "faz uma exposição eminentemente técnica dos aspectos geográficos da desconhecida zona leste da capital do Reino Unido."
+   },
+   {
+    "letra": "C",
+    "texto": "apresenta uma rota ciclística pouco conhecida de Londres, fornecendo detalhes de lugares legais que podem ser explorados na região."
+   },
+   {
+    "letra": "D",
+    "texto": "narra alguns fatos relevantes envolvendo ciclistas que costumam explorar áreas muito remotas, a exemplo das vias aquáticas de Londres."
+   },
+   {
+    "letra": "E",
+    "texto": "divulga, principalmente para o público jovem, os melhores passeios ciclísticos nas áreas centrais de Londres, à beira do rio Tâmisa."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.6,
+     158.40700000000004,
+     541.108999,
+     169.40700000000004
+    ],
+    [
+     42.6,
+     183.7070000000001,
+     546.9100049999998,
+     194.7070000000001
+    ],
+    [
+     63.9,
+     196.40700000000004,
+     177.55200000000002,
+     207.40700000000004
+    ],
+    [
+     42.6,
+     208.99700000000007,
+     547.2070049999999,
+     219.99700000000007
+    ],
+    [
+     63.9,
+     221.7070000000001,
+     192.76500000000001,
+     232.7070000000001
+    ],
+    [
+     42.6,
+     234.30700000000002,
+     546.8000039999998,
+     245.30700000000002
+    ],
+    [
+     63.9,
+     246.99700000000007,
+     246.0710000000001,
+     257.99700000000007
+    ],
+    [
+     42.6,
+     259.6070000000001,
+     546.920004,
+     270.607
+    ],
+    [
+     63.9,
+     272.307,
+     260.1560050000001,
+     283.307
+    ],
+    [
+     42.6,
+     284.927,
+     547.086005,
+     295.927
+    ],
+    [
+     63.9,
+     297.627,
+     231.49199600000009,
+     308.627
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019-ING_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q020-ING",
+  "prova_id": "P4012",
+  "idioma": "inglês",
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 20,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T9",
+  "textos_base_ids": [
+   "P4012-T9"
+  ],
+  "enunciado": "{{img:1}}\n\nIn the excerpt: “*On warm summer afternoons and evenings, consider this* <u>*plaza*</u> *a must see*\n\nparagraph), the underlined word refers to",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "the Regent’s Canal."
+   },
+   {
+    "letra": "B",
+    "texto": "the Paddington subway station."
+   },
+   {
+    "letra": "C",
+    "texto": "Little Venice."
+   },
+   {
+    "letra": "D",
+    "texto": "Granary Square."
+   },
+   {
+    "letra": "E",
+    "texto": "King’s Cross railway station."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q020-ING_img1.png",
+    "pagina": 13,
+    "bbox": [
+     61.9,
+     347.0,
+     77.8,
+     360.0
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.6,
+     335.527,
+     544.66805994478,
+     346.56
+    ],
+    [
+     61.92,
+     347.04,
+     77.76,
+     360.0
+    ],
+    [
+     79.31021882230002,
+     348.22700000000003,
+     287.48664189230004,
+     359.22700000000003
+    ],
+    [
+     42.6,
+     368.927,
+     159.52300000000002,
+     379.96000000000004
+    ],
+    [
+     42.6,
+     381.527,
+     215.21600500000002,
+     392.527
+    ],
+    [
+     42.6,
+     394.22700000000003,
+     126.13800400000004,
+     405.22700000000003
+    ],
+    [
+     42.6,
+     406.827,
+     145.124,
+     417.827
+    ],
+    [
+     42.6,
+     419.527,
+     201.473,
+     430.56
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [
+   "imagem 1 é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q020-ING_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q021-ING",
+  "prova_id": "P4012",
+  "idioma": "inglês",
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 21,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T9",
+  "textos_base_ids": [
+   "P4012-T9"
+  ],
+  "enunciado": "Observe o início do 6º parágrafo: <u>*In all*</u>*, though there are no dedicated bike lanes and you’ll more*\n\n*than likely have to contend with a few crowded stretches* […].\n\nA expressão grifada pode ser substituída, sem mudança de sentido, por",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Despite that"
+   },
+   {
+    "letra": "B",
+    "texto": "Yet"
+   },
+   {
+    "letra": "C",
+    "texto": "Unless"
+   },
+   {
+    "letra": "D",
+    "texto": "Even so"
+   },
+   {
+    "letra": "E",
+    "texto": "Finally"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.6,
+     457.427,
+     547.2250000000001,
+     468.43800000000005
+    ],
+    [
+     56.8,
+     470.157,
+     351.503,
+     481.19
+    ],
+    [
+     56.7,
+     488.557,
+     404.13499999999993,
+     499.557
+    ],
+    [
+     42.6,
+     509.247,
+     121.97700200000001,
+     520.2470000000001
+    ],
+    [
+     42.6,
+     521.857,
+     80.378005,
+     532.857
+    ],
+    [
+     42.6,
+     534.557,
+     97.417004,
+     545.557
+    ],
+    [
+     42.6,
+     547.157,
+     103.610005,
+     558.157
+    ],
+    [
+     42.6,
+     559.857,
+     95.690005,
+     570.857
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021-ING_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q022-ING",
+  "prova_id": "P4012",
+  "idioma": "inglês",
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 22,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T9",
+  "textos_base_ids": [
+   "P4012-T9"
+  ],
+  "enunciado": "No trecho “<u>*Check out*</u> *Spinlister’s detailed bike map to get oriented, then* <u>*give*</u> *yourself a day to come*\n\n{{fonte:1}}\n\n*experience this hidden gem for yourself.*”, as formas verbais destacadas indicam que o autor",
+  "fontes": [
+   "By Charles Schulz.Disponível em: https://br.pinterest.com/pin/19069998416051517/. Acesso em: 22 jul. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "faz recomendações/ sugestões aos ciclistas de Londres."
+   },
+   {
+    "letra": "B",
+    "texto": "instrui sobre algumas manobras de trânsito nos bairros citados."
+   },
+   {
+    "letra": "C",
+    "texto": "dá dicas para pedalar em grupo nos canais de Little Venice."
+   },
+   {
+    "letra": "D",
+    "texto": "aconselha os ciclistas a andarem sempre com um mapa de Londres."
+   },
+   {
+    "letra": "E",
+    "texto": "revela um segredo valioso para quem mora em Little Venice."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   13,
+   14
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.6,
+     597.7470000000001,
+     547.221,
+     608.78
+    ],
+    [
+     56.8,
+     610.357,
+     502.611,
+     621.39
+    ],
+    [
+     42.6,
+     635.657,
+     336.866006,
+     646.657
+    ],
+    [
+     42.6,
+     648.357,
+     369.9750050000001,
+     659.357
+    ],
+    [
+     42.6,
+     660.977,
+     353.0350040000001,
+     671.977
+    ],
+    [
+     42.6,
+     673.677,
+     396.34101499999997,
+     684.677
+    ],
+    [
+     42.6,
+     686.277,
+     357.52200400000004,
+     697.277
+    ]
+   ],
+   "14": [
+    [
+     42.6,
+     44.57700000000011,
+     440.64000000000004,
+     374.40000000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [
+   "figura na pág. 14 depois da alternativa E foi descartada (não faz parte da questão) — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q022-ING_p13.jpg",
+   "revisao/Q022-ING_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q023-ING",
+  "prova_id": "P4012",
+  "idioma": "inglês",
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 23,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "No último quadro, a fala da personagem Sally, irmã do Charlie Brown, deixa transparecer que ela",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "dirige a Charlie uma mensagem carregada de empatia e afeto."
+   },
+   {
+    "letra": "B",
+    "texto": "se mostra irônica, porém está sendo realista diante da situação."
+   },
+   {
+    "letra": "C",
+    "texto": "se revela um tanto imatura para enfrentar o mundo de hoje."
+   },
+   {
+    "letra": "D",
+    "texto": "passa a acreditar que há mais pessoas bondosas no mundo."
+   },
+   {
+    "letra": "E",
+    "texto": "entende as razões de seu irmão, mas quer mostrar superioridade."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.504,
+     415.28528,
+     534.9201043199995,
+     426.32528
+    ],
+    [
+     42.504,
+     439.04528,
+     369.68231951999996,
+     450.08528
+    ],
+    [
+     42.504,
+     452.50528,
+     375.6900777599998,
+     463.54528000000005
+    ],
+    [
+     42.504,
+     466.18528,
+     354.56929535999984,
+     477.22528
+    ],
+    [
+     42.504,
+     479.86528,
+     361.01667024,
+     490.90528
+    ],
+    [
+     42.504,
+     493.78528,
+     386.0777131199997,
+     504.82528
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023-ING_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q018-ESP",
+  "prova_id": "P4012",
+  "idioma": "espanhol",
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 18,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T11",
+  "textos_base_ids": [
+   "P4012-T11"
+  ],
+  "enunciado": "Según el **Texto 9**, ¿Para qué sirve el cálculo de la huella de carbono a que se refiere la campaña\n\npublicitaria?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Calcular el impacto de las huellas de los usuarios en el medio ambiente y fomentar el uso del metro."
+   },
+   {
+    "letra": "B",
+    "texto": "Calcular las huellas de los usuarios del metro buscando fomentar el respeto al medio ambiente y el uso del Metro."
+   },
+   {
+    "letra": "C",
+    "texto": "Ofrecer cálculos precisos sobre las huellas de los usuarios del Metro para fomentar el uso del Metro."
+   },
+   {
+    "letra": "D",
+    "texto": "Ofrecer informaciones a los usuarios sobre los contribuidores de su huella para el medio ambiente y fomentar el uso del Metro."
+   },
+   {
+    "letra": "E",
+    "texto": "Ofrecer cálculos precisos sobre las huellas de los madrileños para fomentar el respeto al medio ambiente y el uso del Metro."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.6,
+     582.057,
+     554.5800391309001,
+     593.057
+    ],
+    [
+     56.8,
+     594.657,
+     115.397,
+     605.657
+    ],
+    [
+     42.6,
+     615.357,
+     522.7759999999998,
+     626.357
+    ],
+    [
+     42.6,
+     628.057,
+     552.8829999999995,
+     639.057
+    ],
+    [
+     63.9,
+     640.657,
+     110.056,
+     651.657
+    ],
+    [
+     42.6,
+     653.3770000000001,
+     524.9079929999998,
+     664.3770000000001
+    ],
+    [
+     42.6,
+     665.977,
+     552.9929999999993,
+     676.977
+    ],
+    [
+     63.9,
+     678.677,
+     184.262,
+     689.677
+    ],
+    [
+     42.6,
+     691.277,
+     552.7960059999999,
+     702.277
+    ],
+    [
+     63.9,
+     703.977,
+     202.01600000000005,
+     714.977
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q018-ESP_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q019-ESP",
+  "prova_id": "P4012",
+  "idioma": "espanhol",
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 19,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T11",
+  "textos_base_ids": [
+   "P4012-T11"
+  ],
+  "enunciado": "De acuerdo con el **Texto 9**, ¿cuál es el objetivo principal de la campaña publicitaria bautizada “Jimmy”?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Movilizar a los pasajeros del metro por una vida más sana."
+   },
+   {
+    "letra": "B",
+    "texto": "Estimular los madrileños a cuidar la salud y el medio ambiente."
+   },
+   {
+    "letra": "C",
+    "texto": "Inquietar a los madrileños acerca de los hábitos para una vida sana."
+   },
+   {
+    "letra": "D",
+    "texto": "Incitar a los usuarios del metro a cuidarse y a respetar el medio ambiente."
+   },
+   {
+    "letra": "E",
+    "texto": "Concienciar a los usuarios del metro sobre problemas del medio ambiente."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.6,
+     57.17700000000002,
+     554.5099464000001,
+     68.17700000000002
+    ],
+    [
+     63.9,
+     69.90999999999997,
+     108.956,
+     80.90999999999997
+    ],
+    [
+     42.6,
+     87.10700000000008,
+     350.483005,
+     98.10700000000008
+    ],
+    [
+     42.6,
+     99.80700000000002,
+     371.404004,
+     110.80700000000002
+    ],
+    [
+     42.6,
+     112.40700000000004,
+     396.375004,
+     123.40700000000004
+    ],
+    [
+     42.6,
+     125.10700000000008,
+     424.425005,
+     136.10700000000008
+    ],
+    [
+     42.6,
+     137.7070000000001,
+     428.73700500000007,
+     148.7070000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019-ESP_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q020-ESP",
+  "prova_id": "P4012",
+  "idioma": "espanhol",
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 20,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T11",
+  "textos_base_ids": [
+   "P4012-T11"
+  ],
+  "enunciado": "Tras la lectura del **Texto 9**, se puede observar en la imagen y en el subtítulo presentes que “Jimmy”\n\nes un",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "personaje real."
+   },
+   {
+    "letra": "B",
+    "texto": "personaje ficticio."
+   },
+   {
+    "letra": "C",
+    "texto": "ciudadano común."
+   },
+   {
+    "letra": "D",
+    "texto": "pasajero del metro."
+   },
+   {
+    "letra": "E",
+    "texto": "pasajero cotidiano."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.6,
+     175.7070000000001,
+     554.3629996917107,
+     186.74
+    ],
+    [
+     63.9,
+     188.30700000000002,
+     90.806,
+     199.30700000000002
+    ],
+    [
+     42.6,
+     205.60700000000008,
+     136.544005,
+     216.60700000000008
+    ],
+    [
+     42.6,
+     218.2070000000001,
+     148.743005,
+     229.2070000000001
+    ],
+    [
+     42.6,
+     230.90700000000004,
+     153.770004,
+     241.90700000000004
+    ],
+    [
+     42.6,
+     243.49700000000007,
+     158.02700500000003,
+     254.49700000000007
+    ],
+    [
+     42.6,
+     256.2070000000001,
+     156.168005,
+     267.2070000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q020-ESP_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q021-ESP",
+  "prova_id": "P4012",
+  "idioma": "espanhol",
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 21,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T11",
+  "textos_base_ids": [
+   "P4012-T11"
+  ],
+  "enunciado": "De acuerdo con el **Texto 9**, ¿cuál es el público clave para esta campaña publicitaria?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "La población española."
+   },
+   {
+    "letra": "B",
+    "texto": "La población madrileña."
+   },
+   {
+    "letra": "C",
+    "texto": "Los usuarios del metro de Madrid."
+   },
+   {
+    "letra": "D",
+    "texto": "Los usuarios de transportes públicos."
+   },
+   {
+    "letra": "E",
+    "texto": "Los usuarios del metro europeo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.6,
+     294.127,
+     474.83200032999986,
+     305.30534
+    ],
+    [
+     42.6,
+     314.827,
+     176.958005,
+     325.827
+    ],
+    [
+     42.6,
+     327.527,
+     180.665005,
+     338.527
+    ],
+    [
+     42.6,
+     340.127,
+     230.1210040000001,
+     351.127
+    ],
+    [
+     42.6,
+     352.827,
+     246.01600500000012,
+     363.827
+    ],
+    [
+     42.6,
+     365.427,
+     221.61800500000015,
+     376.427
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021-ESP_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q022-ESP",
+  "prova_id": "P4012",
+  "idioma": "espanhol",
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 22,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T12",
+  "textos_base_ids": [
+   "P4012-T12"
+  ],
+  "enunciado": "El **Texto 10**, como dicho, pertenece al género *receta* y fue escrito para un *blog* personal. Elija la\n\nopción **CORRECTA** sobre el género explorado.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A pesar de ser un texto instructivo, el texto subvierte, en partes, esta característica, visto que su autor escribe las instrucciones de preparo de modo menos imperativo. Esto se concreta a través de verbos en segunda persona del singular."
+   },
+   {
+    "letra": "B",
+    "texto": "El texto es un prototipo de una receta, pues todas las características de este género están presentes, como verbos en el modo imperativo, instrucciones detalladas sobre el proceso de preparación y ausencia de partes en que el autor “conversa” con el lector."
+   },
+   {
+    "letra": "C",
+    "texto": "Por estar ubicado en un *blog*, la receta de arepas venezolanas no debería traer la opinión del autor, tampoco presentar posibilidades de hacer la comida, pues, según las características de este género, no se puede generar dudas para el lector cuanto al preparo de la receta."
+   },
+   {
+    "letra": "D",
+    "texto": "El texto está ubicado en un *blog* y, desde el título, deja claro que también llevará consejos de preparo al lector. Esto permite que el autor haga un texto instructivo menos “fijo”, es decir, menos moldeado por características clásicas del género receta. Esto se concreta, por ejemplo, en los pasos 2, 4 y 5."
+   },
+   {
+    "letra": "E",
+    "texto": "El fenómeno de la internet sigue cambiando el modo como producimos textos considerados “clásicos”. Se trata de un movimiento lingüístico que refleja nuevas condiciones de producción. Sin embargo, el texto no puede ser considerado una receta, ya que su texto también podría ser adaptado para un video."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     57.17700000000002,
+     554.64000217,
+     68.17700000000002
+    ],
+    [
+     56.8,
+     69.87700000000007,
+     288.58600039000004,
+     80.87700000000007
+    ],
+    [
+     42.6,
+     95.20700000000011,
+     552.6190049999999,
+     106.20700000000011
+    ],
+    [
+     63.9,
+     107.80700000000002,
+     552.7729999999999,
+     118.80700000000002
+    ],
+    [
+     63.9,
+     120.49700000000007,
+     262.4940000000001,
+     131.49700000000007
+    ],
+    [
+     42.6,
+     133.10700000000008,
+     552.7060039999999,
+     144.10700000000008
+    ],
+    [
+     63.9,
+     145.80700000000002,
+     552.762,
+     156.80700000000002
+    ],
+    [
+     63.9,
+     158.43999999999994,
+     423.3140000000001,
+     169.43999999999994
+    ],
+    [
+     42.6,
+     171.10700000000008,
+     552.556,
+     182.10700000000008
+    ],
+    [
+     63.9,
+     183.7070000000001,
+     552.8059999999998,
+     194.7070000000001
+    ],
+    [
+     63.9,
+     196.40700000000004,
+     457.82799599999987,
+     207.40700000000004
+    ],
+    [
+     42.6,
+     208.99700000000007,
+     552.7059970000003,
+     219.99700000000007
+    ],
+    [
+     63.9,
+     221.74,
+     552.4320000000001,
+     232.74
+    ],
+    [
+     63.9,
+     234.30700000000002,
+     552.7349949999998,
+     245.30700000000002
+    ],
+    [
+     63.9,
+     246.99700000000007,
+     135.345,
+     257.99700000000007
+    ],
+    [
+     42.6,
+     259.6070000000001,
+     552.5090050000001,
+     270.607
+    ],
+    [
+     63.9,
+     272.34000000000003,
+     552.641,
+     283.34000000000003
+    ],
+    [
+     63.9,
+     284.927,
+     552.5800049999997,
+     295.927
+    ],
+    [
+     63.9,
+     297.627,
+     182.491,
+     308.627
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q022-ESP_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q023-ESP",
+  "prova_id": "P4012",
+  "idioma": "espanhol",
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 23,
+  "area": "LINGUAGENS E SUAS TECNOLOGIAS",
+  "texto_base_id": "P4012-T12",
+  "textos_base_ids": [
+   "P4012-T12"
+  ],
+  "enunciado": "Sobre los usos lingüísticos presentes en el texto, elija la opción **CORRECTA**:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "El verbo *soler*, presente en “Para las arepas solemos emplear harina PAN” y en “Aunque en algunas recetas de amigos venezolanos le suelen poner una pizca”, sugiere que los procedimientos presentados son un hábito frecuente, pero no obligatorios."
+   },
+   {
+    "letra": "B",
+    "texto": "El uso del artículo *la* en “no necesitamos sal (la pondremos en el relleno)” ejemplifica un error ortográfico, pues lo correcto, según la concordancia nominal, sería “lo”. Sin embargo, como el texto fue escrito para un *blog*, equívocos como este son posibles."
+   },
+   {
+    "letra": "C",
+    "texto": "El verbo *freír*, presente en “especial de maíz para freír arepas”, tiene uso exclusivo para el campo gastronómico, así que no es admitido en otros contextos, como literarios y coloquiales."
+   },
+   {
+    "letra": "D",
+    "texto": "La construcción *una vez*, presente en “una vez conseguida nuestra masa, la dejamos reposar unos minutos”, podría ser sustituida por “a la vez”, sin perjuicios para la comprensión del lector."
+   },
+   {
+    "letra": "E",
+    "texto": "La conjunción *aunque*, presente en “elegid es que más os guste, aunque os recomiendo la harina de maíz blanco o amarillo”, está clasificada como adversativa, o sea, enlaza unidades sintácticas cuyos significados se oponen discursivamente."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.6,
+     335.527,
+     437.538,
+     346.527
+    ],
+    [
+     42.6,
+     360.827,
+     552.5820000000001,
+     371.86
+    ],
+    [
+     63.9,
+     373.56,
+     552.608,
+     384.56
+    ],
+    [
+     63.9,
+     386.127,
+     348.10700000000014,
+     397.127
+    ],
+    [
+     42.6,
+     398.827,
+     552.6370000000002,
+     409.86
+    ],
+    [
+     63.9,
+     411.46000000000004,
+     552.5199999999999,
+     422.46000000000004
+    ],
+    [
+     63.9,
+     424.127,
+     356.16100000000006,
+     435.127
+    ],
+    [
+     42.6,
+     436.72700000000003,
+     552.77,
+     447.76000000000005
+    ],
+    [
+     63.9,
+     449.427,
+     486.7730000000001,
+     460.427
+    ],
+    [
+     42.6,
+     462.057,
+     552.865,
+     473.09000000000003
+    ],
+    [
+     63.9,
+     474.79,
+     501.50200000000007,
+     485.79
+    ],
+    [
+     42.6,
+     487.357,
+     552.6500000000001,
+     498.39000000000004
+    ],
+    [
+     63.9,
+     500.057,
+     552.8040000000001,
+     511.09000000000003
+    ],
+    [
+     63.9,
+     512.6569999999999,
+     293.0960000000001,
+     523.6569999999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023-ESP_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q024",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 24,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia a notícia a seguir.\n\n{{img:1}}\n\n{{fonte:1}}\n\nA notícia apresenta uma situação de tentativa de ajuda humanitária e saída dos palestinos e demais moradores da Faixa de Gaza para o Egito em função do conflito na região.\n\nA partir dessa situação geopolítica, é **CORRETO** afirmar que essa é uma travessia",
+  "fontes": [
+   "Disponível em: https://www.cnnbrasil.com.br/internacional/egito-fechou-passagem-de-rafah-na-fronteira-com-gaza-entenda/. Acesso em: 01 jul. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "terrestre da Ásia para África."
+   },
+   {
+    "letra": "B",
+    "texto": "aquática pelo Canal de Suez."
+   },
+   {
+    "letra": "C",
+    "texto": "transcontinental pelo Deserto do Saara."
+   },
+   {
+    "letra": "D",
+    "texto": "de cabotagem no Mar Vermelho."
+   },
+   {
+    "letra": "E",
+    "texto": "no Oriente Médio pelo Rio Nilo."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q024_img1.png",
+    "pagina": 18,
+    "bbox": [
+     128.8,
+     114.4,
+     462.4,
+     380.9
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.6,
+     103.20700000000011,
+     171.50900000000001,
+     114.20700000000011
+    ],
+    [
+     128.8099976,
+     114.38999330000001,
+     462.42999269999996,
+     380.88
+    ],
+    [
+     106.62,
+     381.706,
+     547.3760000000001,
+     389.706
+    ],
+    [
+     459.66999999999996,
+     390.906,
+     547.158,
+     398.906
+    ],
+    [
+     42.6,
+     408.627,
+     547.0379999999998,
+     419.627
+    ],
+    [
+     42.6,
+     421.22700000000003,
+     406.8539999999999,
+     432.22700000000003
+    ],
+    [
+     42.6,
+     433.927,
+     446.7079980000001,
+     444.927
+    ],
+    [
+     42.6,
+     453.427,
+     203.987996,
+     464.427
+    ],
+    [
+     42.60000000000001,
+     466.15700000000004,
+     207.56000000000006,
+     477.15700000000004
+    ],
+    [
+     42.60000000000001,
+     478.75700000000006,
+     257.7750040000001,
+     489.75700000000006
+    ],
+    [
+     42.60000000000001,
+     491.45700000000005,
+     224.10500100000007,
+     502.45700000000005
+    ],
+    [
+     42.60000000000001,
+     504.0570000000001,
+     216.69101000000006,
+     515.057
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q024_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q025",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 25,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o trecho.\n\nPor ocasião da organização da nova administração política, militar e financeira das províncias brasileiras, ficou determinado que as províncias seriam governadas por Juntas Provisórias de Governo, que substituiriam os antigos governadores régios. Essa medida traria sérias consequências em Pernambuco, que, desde 1817, vinha sendo governado pelo Capitão-General Luís do Rego Barreto.\n\n{{fonte:1}}\n\nO ator político citado ficou conhecido por defender a/o",
+  "fontes": [
+   "Disponível em: CABRAL, Flávio José Gomes. Avante, soldados pernambucanos, o mundo nos observa: A junta de Goiana e a Convenção de Beberibe no contexto da Independência do Brasil. *CLIO*: Revista de Pesquisa Histórica (Recife. Online), ISSN: 2525-5649, vol. 39, Jul-Dez, 2021. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Autocracia liberal."
+   },
+   {
+    "letra": "B",
+    "texto": "Democracia direta."
+   },
+   {
+    "letra": "C",
+    "texto": "Sistema régio indireto."
+   },
+   {
+    "letra": "D",
+    "texto": "República Parlamentar."
+   },
+   {
+    "letra": "E",
+    "texto": "Monarquia absoluta."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.6,
+     538.5640000000001,
+     129.227,
+     550.5640000000001
+    ],
+    [
+     42.6,
+     560.357,
+     552.948003,
+     571.357
+    ],
+    [
+     42.6,
+     573.057,
+     552.6589999999998,
+     584.057
+    ],
+    [
+     42.6,
+     585.6569999999999,
+     552.6590000000001,
+     596.6569999999999
+    ],
+    [
+     42.6,
+     598.357,
+     531.955009,
+     609.357
+    ],
+    [
+     50.5,
+     612.836,
+     553.0359999999993,
+     620.836
+    ],
+    [
+     58.9,
+     622.0360000000001,
+     553.016,
+     630.0360000000001
+    ],
+    [
+     494.27,
+     631.236,
+     552.87,
+     639.236
+    ],
+    [
+     42.599999999999966,
+     640.857,
+     306.7210000000003,
+     651.857
+    ],
+    [
+     42.6,
+     660.477,
+     151.24,
+     671.477
+    ],
+    [
+     42.60000000000001,
+     673.077,
+     156.13500000000002,
+     684.077
+    ],
+    [
+     42.60000000000001,
+     685.777,
+     173.30600400000003,
+     696.777
+    ],
+    [
+     42.60000000000001,
+     698.377,
+     178.828,
+     709.377
+    ],
+    [
+     42.60000000000001,
+     711.077,
+     163.480998,
+     722.077
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q025_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q026",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 26,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia a tirinha a seguir.\n\n{{img:1}}\n\nNo diálogo, Liberdade chama à atenção de Mafalda para a ideia de uma realidade resultante de decisões, interesses particulares ou coletivos e ideologias determinadas pela ação humana. Os questionamentos e os argumentos de Liberdade sobre a compreensão dos processos históricos e dinâmicos na construção conceitual são caracterizados pelo pensamento de",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "endoculturação."
+   },
+   {
+    "letra": "B",
+    "texto": "desnaturalização."
+   },
+   {
+    "letra": "C",
+    "texto": "psicologização."
+   },
+   {
+    "letra": "D",
+    "texto": "sincretização."
+   },
+   {
+    "letra": "E",
+    "texto": "sistematização."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q026_img1.png",
+    "pagina": 19,
+    "bbox": [
+     58.4,
+     68.4,
+     529.4,
+     224.6
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.6,
+     52.57700000000011,
+     169.09699700000002,
+     63.57700000000011
+    ],
+    [
+     58.3500061,
+     68.35000000000002,
+     529.3500061,
+     224.586
+    ],
+    [
+     42.6,
+     237.80700000000002,
+     552.6919999999997,
+     248.80700000000002
+    ],
+    [
+     42.6,
+     250.40700000000004,
+     552.8160000000001,
+     261.40700000000004
+    ],
+    [
+     42.6,
+     263.1070000000001,
+     552.681,
+     274.107
+    ],
+    [
+     42.6,
+     275.72700000000003,
+     414.84,
+     286.72700000000003
+    ],
+    [
+     42.6,
+     295.327,
+     133.66899999999998,
+     306.327
+    ],
+    [
+     42.6,
+     307.927,
+     141.54500000000002,
+     318.927
+    ],
+    [
+     42.6,
+     320.627,
+     129.98600000000002,
+     331.627
+    ],
+    [
+     42.6,
+     333.22700000000003,
+     122.63600000000001,
+     344.22700000000003
+    ],
+    [
+     42.6,
+     345.927,
+     131.227,
+     356.927
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q026_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q027",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 27,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe os dois quadros do pintor Diego Velázquez.\n\n{{img:1}}\n\nVelha Fritando Ovos - Diego Velázquez 1618\n\n{{img:2}}\n\n{{fonte:1}}\n\n{{fonte:2}}\n\n{{fonte:3}}\n\nQuais são as duas características presentes nessas obras de arte que refletem, de forma proeminente, o contexto histórico em que foram criadas?",
+  "fontes": [
+   "As meninas - Diego Velázquez – 1656",
+   "Disponível em: https://artsandculture.google.com/asset/an-old-woman-cooking-eggs. Acesso em: 10 jun. 2024.",
+   "Disponível em: https://www.bbc.com/mundo/noticias-50355098. Acesso em: 10 jun. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Abstração geométrica e natureza exuberante."
+   },
+   {
+    "letra": "B",
+    "texto": "Narrativa linear e excesso de eventos históricos."
+   },
+   {
+    "letra": "C",
+    "texto": "Valorização do cotidiano e representação da realeza."
+   },
+   {
+    "letra": "D",
+    "texto": "Utilização de cores vibrantes e aspectos da vida urbana."
+   },
+   {
+    "letra": "E",
+    "texto": "Apresentação de temas mitológicos e uso da perspectiva ilusória."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q027_img1.png",
+    "pagina": 19,
+    "bbox": [
+     66.2,
+     388.1,
+     293.0,
+     580.3
+    ]
+   },
+   {
+    "id": 2,
+    "arquivo": "img/Q027_img2.png",
+    "pagina": 19,
+    "bbox": [
+     337.7,
+     388.1,
+     514.8,
+     584.6
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.6,
+     371.22700000000003,
+     318.3009970000001,
+     382.22700000000003
+    ],
+    [
+     66.24000000000001,
+     388.08000000000004,
+     293.04,
+     580.32
+    ],
+    [
+     93.425,
+     582.436,
+     253.847,
+     590.436
+    ],
+    [
+     337.68,
+     388.08000000000004,
+     514.8000000000001,
+     584.64
+    ],
+    [
+     353.35,
+     585.626,
+     489.32399999999996,
+     590.436
+    ],
+    [
+     75.225,
+     591.626,
+     272.07300000000004,
+     599.626
+    ],
+    [
+     327.55,
+     594.836,
+     515.164,
+     599.626
+    ],
+    [
+     75.925,
+     600.836,
+     271.438,
+     608.836
+    ],
+    [
+     363.38,
+     604.126,
+     493.53799999999995,
+     608.836
+    ],
+    [
+     42.6,
+     628.7470000000001,
+     553.0199979999998,
+     639.7470000000001
+    ],
+    [
+     42.6,
+     641.4570000000001,
+     252.83200000000005,
+     652.457
+    ],
+    [
+     42.6,
+     658.677,
+     279.9020000000001,
+     669.677
+    ],
+    [
+     42.599999999999994,
+     671.3770000000001,
+     293.31100000000015,
+     682.3770000000001
+    ],
+    [
+     42.599999999999994,
+     683.977,
+     316.6199990000001,
+     694.977
+    ],
+    [
+     42.599999999999994,
+     696.677,
+     332.5070030000001,
+     707.677
+    ],
+    [
+     42.599999999999994,
+     709.277,
+     376.4930000000001,
+     720.277
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q027_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q028",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 28,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir.\n\nAs condições econômicas transformaram, em primeiro lugar, a massa do povo em trabalhadores. A dominação do capital sobre os trabalhadores criou a situação comum e os interesses comuns dessa classe. Assim, essa massa já é uma classe em relação ao capital, mas não ainda uma classe para si mesma. Na luta, da qual indicamos apenas algumas fases, essa massa se une e forma uma classe para si.\n\n{{fonte:1}}\n\nPara o autor, as transformações nas relações só serão possíveis quando",
+  "fontes": [
+   "MARX, Karl. *Miséria da filosofia*. São Paulo: Global, 1985. p. 90."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a classe dominante desenvolver estruturas de repressão social eficazes e globais."
+   },
+   {
+    "letra": "B",
+    "texto": "os trabalhadores organizarem movimentos de massa e desestruturação dos grupos."
+   },
+   {
+    "letra": "C",
+    "texto": "o grupo oprimido se identificar como tal e perceber o processo de opressão imposto."
+   },
+   {
+    "letra": "D",
+    "texto": "as estruturas sociais atenderem às necessidades e planos dos mercados econômicos."
+   },
+   {
+    "letra": "E",
+    "texto": "as elites, tendo o capital necessário, investirem em postos de trabalho assalariados."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.6,
+     57.17700000000002,
+     163.003,
+     68.17700000000002
+    ],
+    [
+     42.6,
+     76.77700000000004,
+     545.4979999999999,
+     87.77700000000004
+    ],
+    [
+     42.6,
+     89.40700000000004,
+     545.778995,
+     100.40700000000004
+    ],
+    [
+     42.6,
+     102.10700000000008,
+     545.5089999999998,
+     113.10700000000008
+    ],
+    [
+     42.6,
+     114.70700000000011,
+     545.5419999999999,
+     125.70700000000011
+    ],
+    [
+     42.6,
+     127.40700000000015,
+     78.66900000000001,
+     138.40700000000015
+    ],
+    [
+     317.85,
+     139.586,
+     545.8380000000001,
+     147.586
+    ],
+    [
+     42.6,
+     157.30700000000002,
+     398.85699999999997,
+     168.30700000000013
+    ],
+    [
+     42.6,
+     176.80700000000002,
+     456.464,
+     187.80700000000013
+    ],
+    [
+     42.599999999999966,
+     189.49700000000018,
+     466.2839969999999,
+     200.49700000000018
+    ],
+    [
+     42.599999999999966,
+     202.1070000000002,
+     467.3429999999999,
+     213.1070000000002
+    ],
+    [
+     42.599999999999966,
+     214.80700000000024,
+     477.859,
+     225.80700000000024
+    ],
+    [
+     42.599999999999966,
+     227.40700000000027,
+     465.73900199999997,
+     238.40700000000027
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q028_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q029",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 29,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise o gráfico a seguir.\n\n{{img:1}}\n\n{{fonte:1}}\n\nEle apresenta projeção de dados dos impactos da pandemia da Covid-19 sobre a África Subsaariana. Assinale a alternativa que registra **CORRETAMENTE** o que se percebe na leitura do gráfico.",
+  "fontes": [
+   "Disponível em: https://www.imf.org/pt/News/Articles/2021/04/12/na041521-six-charts-show-the-challenges-faced-by-sub-saharan-africa. Acesso em: 11 jul. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Manutenção da extrema pobreza, que se agrega à falta de educação e de investimento em saúde pública provocada pela presença de colonizadores asiáticos."
+   },
+   {
+    "letra": "B",
+    "texto": "Estagnação da extrema pobreza, somada com as guerras civis, as perseguições políticas e impactos ambientais causados pelos desacordos entre as tribos locais."
+   },
+   {
+    "letra": "C",
+    "texto": "Redução da extrema pobreza, financiada pelos países europeus, que se relaciona com as políticas de auxílio fiscal e a redução de barreiras nas importações."
+   },
+   {
+    "letra": "D",
+    "texto": "Avanço da extrema pobreza, somada aos impactos ambientais devido à presença de multinacionais que exploram os recursos naturais no norte do continente."
+   },
+   {
+    "letra": "E",
+    "texto": "Crescimento da extrema pobreza, que se relaciona com as condições materiais atuais do continente, fortemente impactadas pelo imperialismo europeu."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q029_img1.png",
+    "pagina": 20,
+    "bbox": [
+     130.6,
+     283.4,
+     460.3,
+     518.8
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.6,
+     265.40700000000004,
+     187.49199999999996,
+     276.40700000000004
+    ],
+    [
+     130.6300049,
+     283.4300018,
+     460.3000031,
+     518.7900024
+    ],
+    [
+     66.5,
+     519.936,
+     547.3000000000001,
+     527.9360000000001
+    ],
+    [
+     459.66999999999996,
+     529.1260000000001,
+     547.158,
+     537.1260000000001
+    ],
+    [
+     42.6,
+     551.357,
+     539.6120099999998,
+     562.357
+    ],
+    [
+     42.599999999999994,
+     564.057,
+     495.13799700000004,
+     575.057
+    ],
+    [
+     42.6,
+     589.357,
+     547.2120049999999,
+     600.357
+    ],
+    [
+     63.89999999999998,
+     602.9570000000001,
+     360.3060000000001,
+     613.957
+    ],
+    [
+     42.59999999999998,
+     616.657,
+     547.0419999999999,
+     627.657
+    ],
+    [
+     63.89999999999998,
+     630.2470000000001,
+     410.4880000000001,
+     641.2470000000001
+    ],
+    [
+     42.59999999999998,
+     643.9570000000001,
+     546.9350069999998,
+     654.957
+    ],
+    [
+     63.89999999999998,
+     657.577,
+     392.2589980000002,
+     668.577
+    ],
+    [
+     42.59999999999998,
+     671.277,
+     546.9429999999998,
+     682.277
+    ],
+    [
+     63.89999999999998,
+     684.8770000000001,
+     420.9919989999999,
+     695.8770000000001
+    ],
+    [
+     42.59999999999998,
+     698.577,
+     546.921,
+     709.577
+    ],
+    [
+     63.89999999999998,
+     712.177,
+     367.8279980000001,
+     723.177
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q029_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q030",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 30,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise a imagem a seguir.\n\n{{img:1}}\n\n{{fonte:1}}\n\nA ferrovia transnordestina é uma obra do Governo Federal que teve início em 2006, mas ainda não foi finalizada. A ferrovia corta 53 municípios nos estados do Piauí, Ceará e Pernambuco.\n\nAcerca da dinâmica regional e dos impactos relacionados ao projeto de implantação da transnordestina, é **CORRETO** afirmar que",
+  "fontes": [
+   "Disponível em: https://ipesi.com.br/a-transnordestina-finalmente-sera-concluida/. Acesso em: 03 jul. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a obra irá instigar uma maior mobilidade de passageiros entre os três estados influenciando na migração pendular."
+   },
+   {
+    "letra": "B",
+    "texto": "a ferrovia se estabelece como um ramal de transporte articulado com os portos para a distribuição de mercadorias no sertão."
+   },
+   {
+    "letra": "C",
+    "texto": "a construção da ferrovia gerou um desenvolvimento econômico para os municípios cortados pelos trilhos."
+   },
+   {
+    "letra": "D",
+    "texto": "a ferrovia será responsável pelo escoamento da produção de grãos, minérios e combustíveis para o exterior."
+   },
+   {
+    "letra": "E",
+    "texto": "a escolha da localização da ferrovia é relativa aos menores índices de desenvolvimento humano da região."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q030_img1.png",
+    "pagina": 21,
+    "bbox": [
+     44.1,
+     81.0,
+     547.9,
+     426.5
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.6,
+     57.17700000000002,
+     193.57500000000005,
+     68.17700000000002
+    ],
+    [
+     44.0500031,
+     81.04000250000001,
+     547.9200000000001,
+     426.51999820000003
+    ],
+    [
+     83.825,
+     434.713,
+     505.9710020000006,
+     443.713
+    ],
+    [
+     42.6,
+     466.057,
+     546.8509999999998,
+     477.057
+    ],
+    [
+     42.6,
+     478.65700000000004,
+     460.3309949999999,
+     489.65700000000004
+    ],
+    [
+     42.6,
+     507.457,
+     547.0049999999998,
+     518.457
+    ],
+    [
+     42.6,
+     520.057,
+     247.42399800000004,
+     531.057
+    ],
+    [
+     42.6,
+     545.357,
+     547.1720029999999,
+     556.357
+    ],
+    [
+     56.8,
+     558.057,
+     150.857997,
+     569.057
+    ],
+    [
+     42.599999999999994,
+     570.6569999999999,
+     547.3119999999999,
+     581.6569999999999
+    ],
+    [
+     56.8,
+     583.357,
+     184.664,
+     594.357
+    ],
+    [
+     42.599999999999994,
+     595.957,
+     546.9929989999999,
+     606.957
+    ],
+    [
+     56.8,
+     608.6569999999999,
+     89.162,
+     619.6569999999999
+    ],
+    [
+     42.599999999999994,
+     621.247,
+     547.0449969999999,
+     632.247
+    ],
+    [
+     56.8,
+     633.957,
+     96.433,
+     644.957
+    ],
+    [
+     42.599999999999994,
+     646.557,
+     538.4009989999995,
+     657.557
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q030_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q031",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 31,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir.\n\nNa Idade de Ouro do Império Iorubá, entre 1086 e início de 1800, a sociedade era constituída de clássicas aldeias ou vilas, que formavam uma série de reinos. Cada grupo étnico tinha um soberano supremo, o Oba (rei). Apenas a aldeia onde estava instalado o rei era designada cidade, não importando seu tamanho; a qualificação para essa designação estava na importância da existência da moradia/palácio do rei. A sede do potentado era a aldeia, onde se encontrava o palácio real, considerada, assim, a capital real olu ìlú (principal cidade) ou ìlú alade (cidade real). Era, pois, o centro religioso, político, administrativo e econômico de todo o reino.\n\n{{fonte:1}}\n\nAs estruturas políticas descritas no texto evidenciam que os antigos reinos Iorubá tinham",
+  "fontes": [
+   "LIMA, Cláudia. A Estrutura social, política e religiosa do Antigo Império Iorubá, como modelo original no processo de hierarquização das casas de culto das religiões afro-brasileiras. *In: Revista de Teologia e Ciências da Religião da UNICAP* – v.1. n. 2012. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "religião única e ricas tradições artísticas."
+   },
+   {
+    "letra": "B",
+    "texto": "organização social complexa e descentralização política."
+   },
+   {
+    "letra": "C",
+    "texto": "sistemas de governo autônomos e guerras de guerrilha."
+   },
+   {
+    "letra": "D",
+    "texto": "economias primárias com redes de comércio apenas de troca."
+   },
+   {
+    "letra": "E",
+    "texto": "estruturas jurídicas funcionais e constituição única."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.60000000000002,
+     44.577,
+     163.00299700000005,
+     55.577
+    ],
+    [
+     56.8,
+     64.07700000000011,
+     552.9439999999997,
+     75.07700000000011
+    ],
+    [
+     56.8,
+     76.77700000000016,
+     552.5809999999999,
+     87.77700000000016
+    ],
+    [
+     56.8,
+     89.40700000000015,
+     552.6249999999999,
+     100.40700000000015
+    ],
+    [
+     56.8,
+     102.1070000000002,
+     552.5369999999998,
+     113.1070000000002
+    ],
+    [
+     56.8,
+     114.70700000000022,
+     552.5149999999998,
+     125.70700000000022
+    ],
+    [
+     56.8,
+     127.40700000000027,
+     552.9170059999999,
+     138.40700000000027
+    ],
+    [
+     56.8,
+     139.9970000000003,
+     391.1780000000001,
+     150.9970000000003
+    ],
+    [
+     46.8,
+     161.486,
+     552.9199999999993,
+     169.486
+    ],
+    [
+     119.42999999999999,
+     170.68599999999992,
+     552.9000000000001,
+     178.68600000000004
+    ],
+    [
+     42.6,
+     192.90700000000004,
+     476.539,
+     203.90700000000004
+    ],
+    [
+     42.6,
+     211.30700000000002,
+     261.9770000000001,
+     222.30700000000002
+    ],
+    [
+     42.60000000000001,
+     223.99700000000007,
+     340.79200000000014,
+     234.99700000000007
+    ],
+    [
+     42.60000000000001,
+     236.60700000000008,
+     336.61000200000024,
+     247.60700000000008
+    ],
+    [
+     42.60000000000001,
+     249.30700000000013,
+     367.78600000000006,
+     260.30700000000013
+    ],
+    [
+     42.60000000000001,
+     261.90700000000015,
+     311.9940000000001,
+     272.9070000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q031_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q032",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 32,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir.\n\n{{img:1}}\n\nAcaba de sair nos Estados Unidos o novo livro do psicólogo social Jonathan Haidt, “The anxious generation”, pela editora Penguin. No livro, Haidt argumenta que o uso intensivo de mídias sociais rouba das crianças e dos jovens tempo de experimentação e de convívio, causa imediata da atual epidemia de ansiedade e depressão. Mas as raízes do problema, segundo ele, estão nas mudanças culturais que levaram os pais da Geração X a superproteger os filhos.\n\n{{fonte:1}}\n\nO principal fator que impulsionou as mudanças no comportamento social e o aumento dos problemas nas relações das novas gerações foi o/a",
+  "fontes": [
+   "Disponível em: https://oglobo.globo.com/opiniao/pablo-ortellado/coluna/2024/04/midias-sociais-produzem-geracao-ansiosa.ghtml. Acesso em: 08 jul. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "eliminação seletiva."
+   },
+   {
+    "letra": "B",
+    "texto": "alienação proletária."
+   },
+   {
+    "letra": "C",
+    "texto": "aumento populacional."
+   },
+   {
+    "letra": "D",
+    "texto": "transculturação externa."
+   },
+   {
+    "letra": "E",
+    "texto": "inovação técnico-inventiva."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q032_img1.png",
+    "pagina": 22,
+    "bbox": [
+     67.0,
+     319.8,
+     536.7,
+     603.4
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   22,
+   23
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.6,
+     299.92699999999996,
+     163.003,
+     310.927
+    ],
+    [
+     66.9949951,
+     319.7999969,
+     536.6549988,
+     603.36
+    ],
+    [
+     42.6,
+     616.99,
+     552.67,
+     627.99
+    ],
+    [
+     42.60000000000002,
+     629.6569999999999,
+     552.6209999999999,
+     640.6899999999999
+    ],
+    [
+     42.600000000000016,
+     642.247,
+     552.6479999999999,
+     653.247
+    ],
+    [
+     42.600000000000016,
+     654.977,
+     552.8549979999999,
+     665.977
+    ],
+    [
+     42.600000000000016,
+     667.577,
+     317.71000000000015,
+     678.577
+    ],
+    [
+     94.125,
+     683.2560000000001,
+     552.9799999999996,
+     691.2560000000001
+    ],
+    [
+     465.38,
+     692.456,
+     552.868,
+     700.456
+    ]
+   ],
+   "23": [
+    [
+     42.6,
+     44.57700000000011,
+     552.6769999999998,
+     55.57700000000011
+    ],
+    [
+     42.6,
+     57.17700000000002,
+     239.54400000000007,
+     68.17700000000002
+    ],
+    [
+     42.6,
+     83.67700000000002,
+     151.43400000000003,
+     94.67700000000002
+    ],
+    [
+     42.6,
+     96.30700000000002,
+     154.44799999999998,
+     107.30700000000002
+    ],
+    [
+     42.6,
+     108.99700000000007,
+     165.426,
+     119.99700000000007
+    ],
+    [
+     42.6,
+     121.60700000000008,
+     173.324,
+     132.60700000000008
+    ],
+    [
+     42.6,
+     134.30700000000002,
+     187.47301399999998,
+     145.30700000000002
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q032_p22.jpg",
+   "revisao/Q032_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q033",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 33,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir.\n\nA causa da degradação ambiental e da crise na relação sociedade-natureza não emerge apenas de fatores conjunturais ou do instinto perverso da humanidade, e as implicações de tal degradação não são decorrentes apenas do uso impróprio dos recursos naturais; mas sim de um conjunto de variáveis interconexas, derivadas das categorias: capitalismo/modernidade, industrialismo/urbanização/tecnocracia.\n\n{{fonte:1}}\n\nDe acordo com o texto, a compreensão dos problemas socioambientais deve possibilitar uma visão crítica com o objetivo de desenvolver uma cultura voltada aos aspectos",
+  "fontes": [
+   "LOUREIRO, Carlos Frederico B. *O movimento ambientalista e o pensamento crítico*: uma abordagem política. Rio de Janeiro: Quartel, 2006. p. 180."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "éticos e conscientes na relação do homem com a natureza."
+   },
+   {
+    "letra": "B",
+    "texto": "colonizadores na exploração dos recursos de países ricos."
+   },
+   {
+    "letra": "C",
+    "texto": "conciliadores entre os interesses lucrativos dos mercados."
+   },
+   {
+    "letra": "D",
+    "texto": "inovadores na criação de máquinas ampliadoras da produção."
+   },
+   {
+    "letra": "E",
+    "texto": "gerenciados, permitindo o crescimento econômico regional."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.6,
+     183.7070000000001,
+     163.003,
+     194.7070000000001
+    ],
+    [
+     71.025,
+     208.99700000000007,
+     553.0520069999999,
+     219.99700000000007
+    ],
+    [
+     71.025,
+     221.7070000000001,
+     552.792,
+     232.7070000000001
+    ],
+    [
+     71.025,
+     234.30700000000002,
+     552.968,
+     245.30700000000002
+    ],
+    [
+     71.025,
+     246.99700000000007,
+     552.836,
+     257.99700000000007
+    ],
+    [
+     71.025,
+     259.6070000000001,
+     263.50300000000004,
+     270.607
+    ],
+    [
+     253.35,
+     271.886,
+     552.9240000000001,
+     279.886
+    ],
+    [
+     329.25,
+     281.10600000000005,
+     552.75,
+     289.10600000000005
+    ],
+    [
+     42.6,
+     303.327,
+     552.5820000000001,
+     314.327
+    ],
+    [
+     42.6,
+     316.027,
+     390.42,
+     327.027
+    ],
+    [
+     42.6,
+     341.327,
+     345.85399500000005,
+     352.327
+    ],
+    [
+     42.6,
+     353.927,
+     341.6460000000002,
+     364.927
+    ],
+    [
+     42.6,
+     366.627,
+     339.6660000000001,
+     377.627
+    ],
+    [
+     42.6,
+     379.22700000000003,
+     359.29,
+     390.22700000000003
+    ],
+    [
+     42.6,
+     391.927,
+     345.8750050000001,
+     402.927
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q034",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 34,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": ".** Leia o trecho.\n\nO século XVII foi significativo para a expansão das fronteiras da América portuguesa. Se por um lado essa expansão significou o nascimento da sociedade colonial sertaneja, por outro ocasionou inevitavelmente diversos e esparsos conflitos travados contra vários grupos indígenas que viviam nos sertões das mesmas capitanias. Muitos desses grupos, embora apresentassem muitas semelhanças entre si, tinham diferenças culturais perceptíveis, como a língua e, dependendo da nação, a forma de organização social. O conflito contra todos esses grupos indígenas destacados no texto foi chamado de “Guerra dos Bárbaros”.\n\n{{fonte:1}}\n\nOs conflitos relatados no texto se caracterizaram por serem um(a)",
+  "fontes": [
+   "Disponível em: SILVA, Wesley de Oliveira. Valentes flecheiros: atuação das tropas indígenas na capitania de Pernambuco entre 1660-1700. *Epígrafe*, São Paulo, v. 8, n. 8, p. 110-137, 2020. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:2}}"
+   },
+   {
+    "letra": "B",
+    "texto": "{{img:3}}"
+   },
+   {
+    "letra": "C",
+    "texto": "{{img:4}}"
+   },
+   {
+    "letra": "D",
+    "texto": "{{img:5}}"
+   },
+   {
+    "letra": "E",
+    "texto": "{{img:6}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 2,
+    "arquivo": "img/Q034_alta.png",
+    "pagina": 23,
+    "bbox": [
+     42.5,
+     607.0,
+     307.4,
+     668.9
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q034_altb.png",
+    "pagina": 23,
+    "bbox": [
+     42.5,
+     607.0,
+     307.4,
+     668.9
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q034_altc.png",
+    "pagina": 23,
+    "bbox": [
+     42.5,
+     607.0,
+     307.4,
+     668.9
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q034_altd.png",
+    "pagina": 23,
+    "bbox": [
+     42.5,
+     607.0,
+     307.4,
+     668.9
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 6,
+    "arquivo": "img/Q034_alte.png",
+    "pagina": 23,
+    "bbox": [
+     42.5,
+     607.0,
+     307.4,
+     668.9
+    ],
+    "recorte_de": 1
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.6,
+     429.827,
+     127.626998,
+     440.827
+    ],
+    [
+     42.6,
+     455.127,
+     552.9960069999998,
+     466.127
+    ],
+    [
+     42.6,
+     467.857,
+     552.6149999999998,
+     478.857
+    ],
+    [
+     42.6,
+     480.457,
+     552.7119979999998,
+     491.457
+    ],
+    [
+     42.6,
+     493.157,
+     552.6259999999999,
+     504.157
+    ],
+    [
+     42.6,
+     505.747,
+     552.8160029999997,
+     516.7470000000001
+    ],
+    [
+     42.6,
+     518.4570000000001,
+     552.5709999999997,
+     529.457
+    ],
+    [
+     42.6,
+     531.09,
+     155.702,
+     542.09
+    ],
+    [
+     222.75,
+     543.543,
+     552.9220000000007,
+     552.543
+    ],
+    [
+     200.63,
+     553.743,
+     552.9639999999999,
+     562.743
+    ],
+    [
+     438.88,
+     564.243,
+     552.963,
+     573.243
+    ],
+    [
+     42.6,
+     581.657,
+     365.28500000000014,
+     592.657
+    ],
+    [
+     42.480000000000004,
+     606.96,
+     307.44,
+     668.88
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [
+   "alternativas estão desenhadas no PDF (sem texto): recortadas como imagem, uma por alternativa — conferir",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q034_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q035",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 35,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": "P4012-T2",
+  "textos_base_ids": [
+   "P4012-T2"
+  ],
+  "enunciado": "Analise os textos a seguir.\n\n**Texto 1**\n\nPesquisa do Instituto Brasileiro de Geografia e Estatística (IBGE) comprova que a raça é fator predominante na escolha de parceiros conjugais. O casamento entre pessoas de mesma cor é maior entre os brancos (74,5%), pardos (68,5%), índios (65%) e entre pretos (45,1%). Os dados chamam atenção para a maior possibilidade de as mulheres pretas ficarem solteiras. Entre as com mais de 50 anos, elas são maioria na categoria “celibato definitivo”, que nunca viveram com cônjuge.\n\n{{fonte:1}}\n\n**Texto 2**\n\nA solidão da mulher negra  \n[...] ser mulher e negra é sofrer com a estigmatização da minha cultura, da minha aparência, é ter de construir todos os dias a minha autoestima enquanto mulher, pois eu não sou representada nos principais meios midiáticos, a minha beleza é tida como algo inexistente, o não normal, o não belo, o não perfeito.\n\n{{fonte:2}}\n\nOs fragmentos revelam influência na formação da população brasileira que impacta na ocupação de espaços, como o do mercado de trabalho. Políticas e ideologias fortaleceram essas ações, marginalizando grupos sociais.\n\nQual alternativa apresenta **CORRETAMENTE** ideologia(s) que impulsionou(aram) essas ações e a marginalização desse grupo?",
+  "fontes": [
+   "Disponível em: https://oglobo.globo.com/economia/quase-70-dos-casamentos-brasileiros-sao-entre-pessoas-da-mesma-cor-6428113. Acesso 19 jul. 2024. Adaptado.",
+   "Disponível em: https://www.geledes.org.br/sobre-a-solidao-da-mulher-negra/. Acesso em: 10 de jul. 2024. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Concepção da Lei do Ventre Livre, inspirada nos EUA, que cria uma nova imagem da mulher negra e seus filhos."
+   },
+   {
+    "letra": "B",
+    "texto": "Pensamentos eugênicos supremacistas brancos, que tiveram início com os partidos nazifascistas brasileiros."
+   },
+   {
+    "letra": "C",
+    "texto": "Tese do branqueamento da população brasileira, que disseminou mecanismos para clarear a pele da população."
+   },
+   {
+    "letra": "D",
+    "texto": "Ideário da democracia racial, defendida por Darcy Ribeiro, que afirmava a forte discriminação racial no país."
+   },
+   {
+    "letra": "E",
+    "texto": "Teoria do racismo estrutural, construído ao longo do período colonial brasileiro e perpetuado pela Lei Jim Crow."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   24
+  ],
+  "caixas": {
+   "24": [
+    [
+     42.6,
+     44.57700000000011,
+     189.28500000000005,
+     55.57700000000011
+    ],
+    [
+     42.6,
+     69.87700000000018,
+     81.10000000000001,
+     80.87700000000018
+    ],
+    [
+     42.6,
+     90.60700000000008,
+     546.917,
+     101.60700000000008
+    ],
+    [
+     42.6,
+     103.20700000000011,
+     547.0269999999999,
+     114.20700000000011
+    ],
+    [
+     42.6,
+     115.90700000000004,
+     547.1380000000001,
+     126.90700000000004
+    ],
+    [
+     42.6,
+     128.49700000000007,
+     546.9279999999999,
+     139.49700000000007
+    ],
+    [
+     42.6,
+     141.24,
+     478.321,
+     152.24
+    ],
+    [
+     72.725,
+     153.37599999999998,
+     547.216,
+     161.37599999999998
+    ],
+    [
+     436.67,
+     162.586,
+     547.2300000000001,
+     170.586
+    ],
+    [
+     42.6,
+     174.49700000000007,
+     81.10000000000001,
+     185.49700000000007
+    ],
+    [
+     42.6,
+     192.90700000000004,
+     170.94800000000004,
+     203.90700000000004
+    ],
+    [
+     42.6,
+     205.60700000000008,
+     547.0810099999999,
+     216.60700000000008
+    ],
+    [
+     42.6,
+     218.2070000000001,
+     546.939,
+     229.2070000000001
+    ],
+    [
+     42.6,
+     230.90700000000015,
+     547.0379999999999,
+     241.90700000000015
+    ],
+    [
+     42.6,
+     243.49700000000018,
+     103.74900000000001,
+     254.49700000000018
+    ],
+    [
+     134.02,
+     255.78600000000006,
+     547.1,
+     263.78600000000006
+    ],
+    [
+     42.60000000000002,
+     272.30700000000013,
+     547.0049999999999,
+     283.30700000000013
+    ],
+    [
+     42.60000000000002,
+     284.92700000000013,
+     547.123998,
+     295.92700000000013
+    ],
+    [
+     42.60000000000002,
+     297.6270000000001,
+     193.52000000000004,
+     308.6270000000001
+    ],
+    [
+     42.60000000000002,
+     318.327,
+     547.157999,
+     329.3270000000001
+    ],
+    [
+     42.599999999999966,
+     330.927,
+     186.27100000000002,
+     341.927
+    ],
+    [
+     42.599999999999966,
+     348.22700000000003,
+     547.5399919999993,
+     359.22700000000003
+    ],
+    [
+     56.79999999999997,
+     361.82700000000006,
+     108.46699999999997,
+     372.82700000000006
+    ],
+    [
+     42.599999999999966,
+     375.52700000000004,
+     547.3229949999995,
+     386.52700000000004
+    ],
+    [
+     56.79999999999997,
+     389.12700000000007,
+     106.55299999999998,
+     400.12700000000007
+    ],
+    [
+     42.599999999999966,
+     402.82700000000006,
+     547.2240009999992,
+     413.82700000000006
+    ],
+    [
+     56.79999999999997,
+     416.4270000000001,
+     107.84300299999998,
+     427.4270000000001
+    ],
+    [
+     42.599999999999966,
+     430.12700000000007,
+     540.4149969999996,
+     441.12700000000007
+    ],
+    [
+     42.599999999999966,
+     443.7270000000001,
+     545.8159990000003,
+     454.7270000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q035_p24.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q036",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 36,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o quadro.\n\n{{img:1}}\n\n{{fonte:1}}\n\nOs emigrantes / Antônio Rocco | Crédito: Pinacoteca do Estado de São Paulo\n\n{{fonte:2}}\n\nO contexto apresentado na imagem remonta ao final do século XIX e foi influenciado por um conjunto complexo de fatores, sendo um dos principais a",
+  "fontes": [
+   "Acesso em: 10 jun. 2024.",
+   "Disponível em: https://brasil500anos.ibge.gov.br."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "expansão colonial e os conflitos territoriais."
+   },
+   {
+    "letra": "B",
+    "texto": "ascensão do nacionalismo e a crise do militarismo."
+   },
+   {
+    "letra": "C",
+    "texto": "desestruturação do sistema social e catástrofes climáticas."
+   },
+   {
+    "letra": "D",
+    "texto": "unificação da Itália e o empobrecimento da população rural."
+   },
+   {
+    "letra": "E",
+    "texto": "disseminação de ideologias revolucionárias e fracasso industrial."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q036_img1.png",
+    "pagina": 24,
+    "bbox": [
+     61.9,
+     496.8,
+     295.9,
+     702.0
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   24,
+   25
+  ],
+  "caixas": {
+   "24": [
+    [
+     42.599999999999966,
+     478.05700000000013,
+     152.03599699999998,
+     489.05700000000013
+    ],
+    [
+     61.92,
+     496.8,
+     295.92,
+     702.0
+    ],
+    [
+     304.15,
+     693.8560000000001,
+     394.318,
+     701.8560000000001
+    ],
+    [
+     304.95,
+     661.8700000000001,
+     552.52,
+     671.8700000000001
+    ],
+    [
+     304.95,
+     673.3700000000001,
+     398.95,
+     683.3700000000001
+    ],
+    [
+     304.15,
+     684.6560000000002,
+     477.118,
+     692.6560000000002
+    ]
+   ],
+   "25": [
+    [
+     42.59999999999991,
+     44.57700000000011,
+     552.9749969999998,
+     55.57700000000011
+    ],
+    [
+     42.59999999999991,
+     57.177000000000135,
+     275.437,
+     68.17700000000013
+    ],
+    [
+     42.59999999999991,
+     82.4770000000002,
+     273.571005,
+     93.4770000000002
+    ],
+    [
+     42.59999999999991,
+     95.20700000000022,
+     312.07100499999996,
+     106.20700000000022
+    ],
+    [
+     42.59999999999991,
+     107.80700000000024,
+     350.58200400000004,
+     118.80700000000024
+    ],
+    [
+     42.59999999999991,
+     120.4970000000003,
+     355.5960030000001,
+     131.4970000000003
+    ],
+    [
+     42.59999999999991,
+     133.1070000000003,
+     379.84200500000014,
+     144.1070000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q036_p24.jpg",
+   "revisao/Q036_p25.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q037",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 37,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": "P4012-T2",
+  "textos_base_ids": [
+   "P4012-T2"
+  ],
+  "enunciado": "Leia os textos a seguir.\n\n**Texto 1**  \nA agitação vinda do exterior afetou o negro. O negro foi instigado. Valores que não vieram ao mundo por ação sua, valores que não resultaram da elevação sistólica de seu sangue, vieram dançar sua colorida ciranda ao seu redor. Ele passou de um modo de vida a outro, mas não de uma vida a outra. [...]\n\n{{fonte:1}}\n\n**Texto 2**  \n[...] Deve o negro lutar pra vencer na vida através do seu esforço pessoal para, desse modo, provar que é tão capaz quanto o branco? Ou lutar com e pelo conjunto da população negra? Juntamente com não negros também oprimidos? Ou não? Por um espaço nesta sociedade? Ou pela transformação da mesma? Etc. etc. e tal.\n\n{{fonte:2}}\n\nOs dois textos destacam o debate sobre os processos de mobilização da população negra na garantia de direitos e diminuição das desigualdades. Para isso, deve-se",
+  "fontes": [
+   "FANON, Frantz. *Pele negra, máscaras brancas***.** São Paulo: Ubu, 2020. p. 230.",
+   "GONZALEZ, Lélia; HASENBALG, Carlos. *Lugar de negro***.** Rio de Janeiro: Zahar, 2022. p. 46-47."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "valorizar o protagonismo branco das classes populares, buscando a igualdade racial e a posição das comunidades negras."
+   },
+   {
+    "letra": "B",
+    "texto": "incorporar as ideias de democracia racial como dimensão da convivência harmoniosa dos grupos na sociedade brasileira."
+   },
+   {
+    "letra": "C",
+    "texto": "reconhecer o racismo estrutural como dinâmica social necessária à diminuição das desigualdades e das exclusões."
+   },
+   {
+    "letra": "D",
+    "texto": "combater o discurso antirracista no conhecimento das diferentes etnias negras e de suas culturas na relação institucional."
+   },
+   {
+    "letra": "E",
+    "texto": "controlar as atitudes preconceituosas, a discriminação racial e as demais formas de intolerância relacionadas à raça, etnia e cor."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   25
+  ],
+  "caixas": {
+   "25": [
+    [
+     42.59999999999991,
+     176.80700000000036,
+     174.00299699999994,
+     187.80700000000036
+    ],
+    [
+     42.59999999999991,
+     203.30700000000036,
+     81.09999999999992,
+     214.30700000000036
+    ],
+    [
+     56.79999999999991,
+     215.90700000000038,
+     552.5809999999998,
+     226.90700000000038
+    ],
+    [
+     56.79999999999991,
+     228.60700000000043,
+     552.8749969999998,
+     239.60700000000043
+    ],
+    [
+     56.79999999999991,
+     241.20700000000045,
+     552.6909999999997,
+     252.20700000000045
+    ],
+    [
+     56.79999999999991,
+     253.9070000000005,
+     72.13399999999992,
+     264.9070000000005
+    ],
+    [
+     273.2499999999999,
+     265.98600000000044,
+     552.85,
+     273.98600000000044
+    ],
+    [
+     42.59999999999985,
+     284.9270000000004,
+     81.09999999999987,
+     295.9270000000004
+    ],
+    [
+     56.799999999999855,
+     297.6270000000004,
+     552.3829999999997,
+     308.6270000000004
+    ],
+    [
+     56.799999999999855,
+     310.22700000000043,
+     552.5039999999997,
+     321.22700000000043
+    ],
+    [
+     56.799999999999855,
+     322.9270000000004,
+     552.9069959999996,
+     333.9270000000004
+    ],
+    [
+     56.799999999999855,
+     335.52700000000044,
+     257.32399999999984,
+     346.52700000000044
+    ],
+    [
+     209.12999999999982,
+     347.7060000000005,
+     552.9199999999998,
+     355.7060000000005
+    ],
+    [
+     42.59999999999991,
+     375.82700000000045,
+     552.6039999999998,
+     386.82700000000045
+    ],
+    [
+     42.59999999999991,
+     388.4270000000005,
+     350.16600600000004,
+     399.4270000000005
+    ],
+    [
+     42.59999999999991,
+     413.7270000000005,
+     552.6479999999997,
+     424.7270000000005
+    ],
+    [
+     56.79999999999991,
+     426.4270000000005,
+     161.9489999999999,
+     437.4270000000005
+    ],
+    [
+     42.59999999999991,
+     439.0270000000005,
+     552.9199969999997,
+     450.0270000000005
+    ],
+    [
+     56.79999999999991,
+     451.7270000000005,
+     157.6479999999999,
+     462.7270000000005
+    ],
+    [
+     42.59999999999991,
+     464.3570000000005,
+     552.5379999999998,
+     475.3570000000005
+    ],
+    [
+     56.79999999999991,
+     477.05700000000047,
+     129.44399999999993,
+     488.05700000000047
+    ],
+    [
+     42.59999999999991,
+     489.6570000000005,
+     552.8649969999997,
+     500.6570000000005
+    ],
+    [
+     56.79999999999991,
+     502.3570000000005,
+     156.33899999999994,
+     513.3570000000004
+    ],
+    [
+     42.59999999999991,
+     514.9570000000006,
+     552.4719999999999,
+     525.9570000000004
+    ],
+    [
+     56.79999999999991,
+     527.6570000000005,
+     213.29699999999997,
+     538.6570000000005
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q037_p25.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q038",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 38,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe as imagens a seguir.\n\n{{img:1}}\n\n{{fonte:1}}\n\nSobre a disputa apresentada nas imagens, é **CORRETO** afirmar que ela é baseada em",
+  "fontes": [
+   "Disponível em: https://agenciabrasil.ebc.com.br. Acesso em: 26 jun. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:3}}"
+   },
+   {
+    "letra": "B",
+    "texto": "{{img:4}}"
+   },
+   {
+    "letra": "C",
+    "texto": "{{img:5}}"
+   },
+   {
+    "letra": "D",
+    "texto": "{{img:6}}"
+   },
+   {
+    "letra": "E",
+    "texto": "{{img:7}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q038_img1.png",
+    "pagina": 26,
+    "bbox": [
+     46.8,
+     61.9,
+     546.5,
+     278.6
+    ]
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q038_alta.png",
+    "pagina": 26,
+    "bbox": [
+     42.5,
+     319.7,
+     169.2,
+     381.6
+    ],
+    "recorte_de": 2
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q038_altb.png",
+    "pagina": 26,
+    "bbox": [
+     42.5,
+     319.7,
+     169.2,
+     381.6
+    ],
+    "recorte_de": 2
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q038_altc.png",
+    "pagina": 26,
+    "bbox": [
+     42.5,
+     319.7,
+     169.2,
+     381.6
+    ],
+    "recorte_de": 2
+   },
+   {
+    "id": 6,
+    "arquivo": "img/Q038_altd.png",
+    "pagina": 26,
+    "bbox": [
+     42.5,
+     319.7,
+     169.2,
+     381.6
+    ],
+    "recorte_de": 2
+   },
+   {
+    "id": 7,
+    "arquivo": "img/Q038_alte.png",
+    "pagina": 26,
+    "bbox": [
+     42.5,
+     319.7,
+     169.2,
+     381.6
+    ],
+    "recorte_de": 2
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     42.6,
+     44.57700000000011,
+     207.00300000000001,
+     55.57700000000011
+    ],
+    [
+     46.800000000000004,
+     61.92,
+     546.48,
+     278.64
+    ],
+    [
+     163.52,
+     281.10600000000005,
+     425.984,
+     289.10600000000005
+    ],
+    [
+     42.6,
+     301.027,
+     468.79599800000005,
+     312.027
+    ],
+    [
+     42.480000000000004,
+     319.68,
+     169.20000000000002,
+     381.6
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [
+   "alternativas estão desenhadas no PDF (sem texto): recortadas como imagem, uma por alternativa — conferir",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q038_p26.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q039",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 39,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir.\n\n**A geração freelancer: porque os jovens “zoomers” não querem seguir**  \n**carreira na sua empresa**\n\nOs jovens da geração Z não querem seguir protocolos que nortearam o trabalho como as gerações anteriores conheceram. Eles priorizam saúde mental, são comprometidos com sua própria independência, flexibilidade e têm aversão a propósitos, planos de carreiras e horários definidos. Querem ser donos de sua própria força de trabalho, querem se aposentar mais cedo.\n\nA rigor, trata-se da primeira geração que entendeu que o trabalho é, normalmente, um fardo e um meio para se obter independência e recursos para viver. Por força da pandemia, esses jovens perceberam que poderiam realmente trabalhar de qualquer lugar, controlando seu próprio tempo e suas demandas, justamente **no momento em que ingressavam no mercado de trabalho.**\n\n{{fonte:1}}\n\nPela leitura do texto, os jovens atuais estão valorizando uma modalidade de trabalho caracterizado como",
+  "fontes": [
+   "Disponível em: https://consumidormoderno.com.br/geracao-freelancer-jovenszoomers. Acesso em: 08 jul. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "sistematizado."
+   },
+   {
+    "letra": "B",
+    "texto": "subalterno."
+   },
+   {
+    "letra": "C",
+    "texto": "teletrabalho."
+   },
+   {
+    "letra": "D",
+    "texto": "meio período."
+   },
+   {
+    "letra": "E",
+    "texto": "colaborador."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     42.6,
+     408.027,
+     163.00299700000005,
+     419.027
+    ],
+    [
+     114.02,
+     434.46000000000004,
+     481.2769999999999,
+     445.46000000000004
+    ],
+    [
+     234.45,
+     447.127,
+     360.972,
+     458.127
+    ],
+    [
+     78.025,
+     472.457,
+     552.5759999999999,
+     483.457
+    ],
+    [
+     42.6,
+     485.057,
+     552.582,
+     496.057
+    ],
+    [
+     42.6,
+     497.757,
+     552.8279929999999,
+     508.757
+    ],
+    [
+     42.6,
+     510.357,
+     458.884,
+     521.357
+    ],
+    [
+     78.025,
+     523.057,
+     552.5740089999999,
+     534.057
+    ],
+    [
+     42.6,
+     535.657,
+     552.798997,
+     546.657
+    ],
+    [
+     42.6,
+     548.357,
+     552.483,
+     559.357
+    ],
+    [
+     42.6,
+     560.9570000000001,
+     465.63800200000003,
+     571.957
+    ],
+    [
+     156.23,
+     573.236,
+     552.8159999999997,
+     581.236
+    ],
+    [
+     42.6,
+     590.857,
+     552.626,
+     601.857
+    ],
+    [
+     42.6,
+     603.557,
+     69.495,
+     614.557
+    ],
+    [
+     42.6,
+     628.7470000000001,
+     125.72700000000002,
+     639.7470000000001
+    ],
+    [
+     42.6,
+     641.4570000000001,
+     109.85400000000003,
+     652.457
+    ],
+    [
+     42.6,
+     654.077,
+     115.35400000000003,
+     665.077
+    ],
+    [
+     42.6,
+     666.777,
+     122.73500000000003,
+     677.777
+    ],
+    [
+     42.6,
+     679.3770000000001,
+     116.53100000000002,
+     690.3770000000001
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q039_p26.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q040",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 40,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe o gráfico a seguir.\n\n{{img:1}}\n\nCom o Censo do IBGE de 2022, identificou-se um aumento de 88,81% da população indígena no Brasil em relação ao Censo de 2010. Sobre esse acontecimento, é **CORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a população indígena cresceu em 10 anos em função do aumento das taxas de fecundidade e natalidade."
+   },
+   {
+    "letra": "B",
+    "texto": "a mudança na metodologia de pesquisa do IBGE ocasionou uma maior identificação da população como indígena."
+   },
+   {
+    "letra": "C",
+    "texto": "a descoberta de grupos indígenas em áreas remotas da Amazônia possibilitou a contagem dessa população."
+   },
+   {
+    "letra": "D",
+    "texto": "a melhora na assistência de saúde em áreas remotas ocasionou a diminuição da taxa de mortalidade entre os indígenas."
+   },
+   {
+    "letra": "E",
+    "texto": "a utilização da inteligência artificial no recenseamento de 2022 possibilitou uma maior precisão na captação de dados."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q040_img1.png",
+    "pagina": 27,
+    "bbox": [
+     128.6,
+     57.7,
+     437.4,
+     222.5
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   27
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.59999999999991,
+     44.57700000000011,
+     192.90099699999996,
+     55.57700000000011
+    ],
+    [
+     128.6300049,
+     57.65999760000011,
+     437.4000092,
+     222.49999390000005
+    ],
+    [
+     42.59999999999991,
+     235.49700000000053,
+     547.1650059999997,
+     246.49700000000053
+    ],
+    [
+     42.59999999999991,
+     248.10700000000054,
+     486.07299799999987,
+     259.10700000000054
+    ],
+    [
+     42.59999999999991,
+     273.4270000000005,
+     547.0310049999995,
+     284.4270000000005
+    ],
+    [
+     63.899999999999906,
+     287.12700000000046,
+     117.6679999999999,
+     298.12700000000046
+    ],
+    [
+     42.59999999999991,
+     300.7270000000005,
+     546.9430049999997,
+     311.7270000000005
+    ],
+    [
+     63.899999999999906,
+     314.4270000000005,
+     139.0629999999999,
+     325.4270000000005
+    ],
+    [
+     42.59999999999991,
+     328.0270000000005,
+     547.0540049999997,
+     339.0270000000005
+    ],
+    [
+     63.899999999999906,
+     341.7270000000005,
+     117.6679999999999,
+     352.7270000000005
+    ],
+    [
+     42.59999999999991,
+     355.3270000000005,
+     546.9650049999998,
+     366.3270000000005
+    ],
+    [
+     63.899999999999906,
+     369.0270000000005,
+     217.92199999999997,
+     380.0270000000005
+    ],
+    [
+     42.59999999999991,
+     382.6270000000005,
+     547.2740059999998,
+     393.6270000000005
+    ],
+    [
+     63.899999999999906,
+     395.3270000000005,
+     159.8749999999999,
+     406.3270000000005
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q040_p27.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q041",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 41,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a fotografia.\n\n{{img:1}}\n\nSubgrupo de Pancada na rendição à volante, 1938. Coleção Pernambucano de Mello.\n\n{{fonte:1}}\n\nO movimento destacado na foto tem como principais características sociopolíticas o/a",
+  "fontes": [
+   "Disponível em: https://livroseideias.wordpress.com/. Acesso em: 10 jun. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "acesso direto à terra e a reorganização da luta dos camponeses."
+   },
+   {
+    "letra": "B",
+    "texto": "adesão aos interesses latifundiários e igualdade de gênero."
+   },
+   {
+    "letra": "C",
+    "texto": "aliança com o poder central e luta contra a Coluna Prestes."
+   },
+   {
+    "letra": "D",
+    "texto": "rejeição às práticas de redistribuição de terras e crise do coronelismo."
+   },
+   {
+    "letra": "E",
+    "texto": "centralismo em uma liderança militar e identidade urbana."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q041_img1.png",
+    "pagina": 27,
+    "bbox": [
+     137.5,
+     450.0,
+     457.9,
+     689.8
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   27,
+   28
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.59999999999991,
+     433.22700000000054,
+     163.66299699999996,
+     444.22700000000054
+    ],
+    [
+     137.52,
+     450.0,
+     457.92,
+     689.76
+    ],
+    [
+     105.71999999999991,
+     690.4700000000006,
+     487.4699999999998,
+     700.4700000000006
+    ],
+    [
+     158.42999999999992,
+     701.7560000000005,
+     434.81999999999977,
+     709.7560000000005
+    ]
+   ],
+   "28": [
+    [
+     42.59999999999991,
+     44.57700000000011,
+     460.791004,
+     55.57700000000011
+    ],
+    [
+     42.59999999999991,
+     69.87700000000018,
+     380.557005,
+     80.87700000000018
+    ],
+    [
+     42.59999999999991,
+     82.4770000000002,
+     354.3220050000001,
+     93.4770000000002
+    ],
+    [
+     42.59999999999991,
+     95.20700000000022,
+     352.93600399999997,
+     106.20700000000022
+    ],
+    [
+     42.59999999999991,
+     107.80700000000024,
+     404.84600600000005,
+     118.80700000000024
+    ],
+    [
+     42.59999999999991,
+     120.4970000000003,
+     346.149005,
+     131.4970000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q041_p27.jpg",
+   "revisao/Q041_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q042",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 42,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise o infográfico a seguir.\n\n{{img:1}}\n\n{{fonte:1}}\n\nEsse infográfico possibilita compreender condições geográficas fundamentais que comprovam ser a Região Metropolitana de Porto Alegre suscetível a tragédias ambientais.\n\nAssinale a alternativa que apresenta **CORRETAMENTE** as causa ou efeitos da situação analisada.",
+  "fontes": [
+   "Disponível em: https://g1.globo.com/meio-ambiente/noticia/2024/05/13/temporais-no-rs-entenda-tempestade-travam-escoamento.ghtml. Acesso em: 11 jul. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A ocupação dos tabuleiros costeiros da região metropolitana na área do Lago Guaíba provoca o aumento da velocidade do fluxo dos rios e inundação nas planícies."
+   },
+   {
+    "letra": "B",
+    "texto": "As cidades da região metropolitana se desenvolvem nos terraços fluviais da Lagoa dos Patos, provocando processos erosivos no fundo do Guaíba, aumentando seu nível."
+   },
+   {
+    "letra": "C",
+    "texto": "O desenvolvimento urbano de algumas cidades acompanhou o fluxo dos rios, ocupando suas margens e regenerando a mata ciliar, o que impulsiona os alagamentos."
+   },
+   {
+    "letra": "D",
+    "texto": "A expansão urbana de algumas cidades ocorre sobre as planícies de inundação de vários rios, o que favorece alagamentos e inundações com o quadro de fortes chuvas."
+   },
+   {
+    "letra": "E",
+    "texto": "O avanço metropolitano sobre a porção de Caxias do Sul provoca erosão nas vertentes das colinas, gerando aumento no fluxo de águas na foz e inundações a montante."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q042_img1.png",
+    "pagina": 28,
+    "bbox": [
+     53.3,
+     175.3,
+     513.2,
+     427.2
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   28
+  ],
+  "caixas": {
+   "28": [
+    [
+     42.59999999999991,
+     158.40700000000038,
+     191.9799999999999,
+     169.40700000000038
+    ],
+    [
+     53.28,
+     175.32299190000003,
+     513.212,
+     427.2000061
+    ],
+    [
+     347.3499999999999,
+     377.70600000000036,
+     498.8339999999999,
+     385.70600000000036
+    ],
+    [
+     347.3499999999999,
+     386.90600000000035,
+     540.2639999999999,
+     394.90600000000035
+    ],
+    [
+     347.3499999999999,
+     405.3060000000003,
+     486.4599999999999,
+     413.3060000000003
+    ],
+    [
+     347.3499999999999,
+     414.5060000000003,
+     434.8379999999999,
+     422.5060000000003
+    ],
+    [
+     49.69999999999991,
+     447.1270000000003,
+     552.8379979999997,
+     458.1270000000003
+    ],
+    [
+     49.69999999999991,
+     459.7270000000003,
+     402.38400199999995,
+     470.7270000000003
+    ],
+    [
+     42.59999999999991,
+     485.05700000000036,
+     526.7830000000001,
+     496.05700000000036
+    ],
+    [
+     42.60000000000002,
+     510.35700000000037,
+     552.7770089999998,
+     521.3570000000004
+    ],
+    [
+     63.90000000000002,
+     524.0570000000004,
+     393.9990000000001,
+     535.0570000000004
+    ],
+    [
+     42.60000000000002,
+     537.6570000000004,
+     552.5640049999998,
+     548.6570000000004
+    ],
+    [
+     63.90000000000002,
+     551.3570000000004,
+     436.3170009999999,
+     562.3570000000003
+    ],
+    [
+     42.60000000000002,
+     564.9570000000003,
+     552.509004,
+     575.9570000000003
+    ],
+    [
+     63.90000000000002,
+     578.6570000000004,
+     416.78000000000003,
+     589.6570000000004
+    ],
+    [
+     42.60000000000002,
+     592.2470000000003,
+     552.9010009999998,
+     603.2470000000003
+    ],
+    [
+     63.90000000000002,
+     605.9570000000003,
+     419.3049950000001,
+     616.9570000000003
+    ],
+    [
+     42.60000000000002,
+     619.5570000000004,
+     552.7070049999999,
+     630.5570000000004
+    ],
+    [
+     63.90000000000002,
+     632.2470000000003,
+     402.67100400000004,
+     643.2470000000003
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q042_p28.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q043",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 43,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia a tirinha a seguir.\n\n{{img:1}}\n\nMafalda propõe pensar a igualdade entre os homens por meio das formas de organização social. Para a igualdade ser valorizada no âmbito das relações sociais, é necessário o/a",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "valorização do individualismo capitalista."
+   },
+   {
+    "letra": "B",
+    "texto": "respeito aos direitos sociais e políticos."
+   },
+   {
+    "letra": "C",
+    "texto": "desenvolvimento do neoliberalismo."
+   },
+   {
+    "letra": "D",
+    "texto": "defesa das ideologias políticas meritocráticas."
+   },
+   {
+    "letra": "E",
+    "texto": "apreciação dos direitos da classe média."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q043_img1.png",
+    "pagina": 29,
+    "bbox": [
+     55.4,
+     68.4,
+     543.0,
+     223.9
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.6,
+     44.57700000000011,
+     169.09699700000002,
+     55.57700000000011
+    ],
+    [
+     55.440000000000005,
+     68.38999000000001,
+     542.987,
+     223.87599999999998
+    ],
+    [
+     42.6,
+     231.30700000000002,
+     552.6589999999999,
+     242.30700000000002
+    ],
+    [
+     42.6,
+     243.90700000000004,
+     402.13900400000006,
+     254.90700000000004
+    ],
+    [
+     42.6,
+     269.207,
+     253.51400000000004,
+     280.207
+    ],
+    [
+     42.6,
+     281.927,
+     246.16599999999997,
+     292.927
+    ],
+    [
+     42.6,
+     294.527,
+     229.50100000000012,
+     305.527
+    ],
+    [
+     42.6,
+     307.22700000000003,
+     279.84800000000007,
+     318.22700000000003
+    ],
+    [
+     42.6,
+     319.827,
+     254.0970000000001,
+     330.827
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q043_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q044",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 44,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise o trecho.\n\nA divisão das elites levou a uma desorganização dos aparelhos repressivos que facilitou a fuga dos escravos e a formação de quilombos na província de Pernambuco. As fugas individuais eram combatidas como parte do exercício da justiça privada dos senhores. A união das elites era um pressuposto importante para as diligências maiores. Só quando liberado de seu papel de regulador dos conflitos intra-elites, o Estado podia apoiar mais efetivamente as tropas senhoriais. Por essa razão o quilombo renascia sempre que as elites se dividiam, e sofreu seus maiores revezes quando a classe senhorial estava unida.\n\n{{fonte:1}}\n\nA organização sociopolítica destacada pelo texto representa um/a",
+  "fontes": [
+   "CARVALHO, Marcus Joaquim M. *O Quilombo de Catucá em Pernambuco*. Disponível em: https://periodicos.ufba.br/index.php/crh/article/download/18823/12193/63773. Acesso em: 10 jun. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "{{img:2}}"
+   },
+   {
+    "letra": "B",
+    "texto": "{{img:3}}"
+   },
+   {
+    "letra": "C",
+    "texto": "{{img:4}}"
+   },
+   {
+    "letra": "D",
+    "texto": "{{img:5}}"
+   },
+   {
+    "letra": "E",
+    "texto": "{{img:6}}"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 2,
+    "arquivo": "img/Q044_alta.png",
+    "pagina": 29,
+    "bbox": [
+     42.5,
+     538.6,
+     357.8,
+     600.5
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 3,
+    "arquivo": "img/Q044_altb.png",
+    "pagina": 29,
+    "bbox": [
+     42.5,
+     538.6,
+     357.8,
+     600.5
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 4,
+    "arquivo": "img/Q044_altc.png",
+    "pagina": 29,
+    "bbox": [
+     42.5,
+     538.6,
+     357.8,
+     600.5
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 5,
+    "arquivo": "img/Q044_altd.png",
+    "pagina": 29,
+    "bbox": [
+     42.5,
+     538.6,
+     357.8,
+     600.5
+    ],
+    "recorte_de": 1
+   },
+   {
+    "id": 6,
+    "arquivo": "img/Q044_alte.png",
+    "pagina": 29,
+    "bbox": [
+     42.5,
+     538.6,
+     357.8,
+     600.5
+    ],
+    "recorte_de": 1
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   29
+  ],
+  "caixas": {
+   "29": [
+    [
+     42.6,
+     357.827,
+     142.85799300000002,
+     368.827
+    ],
+    [
+     42.6,
+     380.827,
+     552.6039999999999,
+     391.827
+    ],
+    [
+     42.6,
+     393.427,
+     552.7249999999999,
+     404.427
+    ],
+    [
+     42.6,
+     406.027,
+     552.9470019999998,
+     417.027
+    ],
+    [
+     42.6,
+     418.72700000000003,
+     552.6149999999998,
+     429.72700000000003
+    ],
+    [
+     42.6,
+     431.327,
+     552.6190039999999,
+     442.327
+    ],
+    [
+     42.6,
+     444.027,
+     553.0949959999998,
+     455.027
+    ],
+    [
+     42.6,
+     456.627,
+     155.647,
+     467.627
+    ],
+    [
+     192.83,
+     469.043,
+     552.9699999999999,
+     478.043
+    ],
+    [
+     245.15,
+     479.44300000000004,
+     552.9989999999999,
+     488.44300000000004
+    ],
+    [
+     451.38,
+     489.843,
+     552.9749999999999,
+     498.843
+    ],
+    [
+     42.6,
+     513.057,
+     364.19600000000014,
+     524.057
+    ],
+    [
+     42.480000000000004,
+     538.5600000000001,
+     357.84000000000003,
+     600.48
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [
+   "alternativas estão desenhadas no PDF (sem texto): recortadas como imagem, uma por alternativa — conferir",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q044_p29.jpg"
+  ]
+ },
+ {
+  "id": "P4012-Q045",
+  "prova_id": "P4012",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2025",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "1",
+  "caderno": "",
+  "numero": 45,
+  "area": "CIÊNCIAS HUMANAS E SOCIAIS APLICADAS",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a imagem a seguir.\n\n{{img:1}}\n\n{{fonte:1}}\n\nNessa imagem, o movimento em destaque se caracteriza como uma importante mobilização em torno da reflexão ética sobre a responsabilidade humana em relação à natureza. As ideias de consciência crítica que norteiam esse movimento",
+  "fontes": [
+   "Disponível em: https://ciclovivo.com.br/fique-ligado/eventos/. Acesso em: 08 jul. 2024."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "desenvolvem técnicas e pesquisas exploradoras dos recursos naturais utilizados pela humanidade."
+   },
+   {
+    "letra": "B",
+    "texto": "contestam o lugar da economia e das tecnociências na utilização e exploração do meio ambiente."
+   },
+   {
+    "letra": "C",
+    "texto": "criticam o ambientalismo como forma de proteção e degradação do mundo natural e das relações sociais."
+   },
+   {
+    "letra": "D",
+    "texto": "propõem ações políticas partidárias para uso da natureza atendendo às necessidades industriais."
+   },
+   {
+    "letra": "E",
+    "texto": "impõem novas formas de relação social organizadas pela industrialização e pelo mercado."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q045_img1.png",
+    "pagina": 30,
+    "bbox": [
+     79.9,
+     68.4,
+     525.6,
+     311.3
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   30
+  ],
+  "caixas": {
+   "30": [
+    [
+     42.60000000000002,
+     44.577,
+     199.0829970000001,
+     55.577
+    ],
+    [
+     79.92,
+     68.4,
+     525.6,
+     311.31000670000003
+    ],
+    [
+     145.73,
+     317.10600000000005,
+     449.7899999999998,
+     325.10600000000005
+    ],
+    [
+     42.6,
+     338.22700000000003,
+     552.690999,
+     349.22700000000003
+    ],
+    [
+     42.6,
+     350.82700000000006,
+     552.5159999999998,
+     361.82700000000006
+    ],
+    [
+     42.6,
+     363.52700000000004,
+     222.37500200000005,
+     374.52700000000004
+    ],
+    [
+     42.6,
+     388.827,
+     522.0819929999994,
+     399.827
+    ],
+    [
+     42.599999999999994,
+     401.427,
+     533.6279999999999,
+     412.427
+    ],
+    [
+     42.599999999999994,
+     414.127,
+     552.9509949999998,
+     425.127
+    ],
+    [
+     56.8,
+     426.72700000000003,
+     93.364,
+     437.72700000000003
+    ],
+    [
+     42.599999999999994,
+     439.427,
+     532.913,
+     450.427
+    ],
+    [
+     42.599999999999994,
+     452.02700000000004,
+     498.142,
+     463.02700000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/Provas antigas-SSA/SSA 2025/prova-ssa-2025-upe-1-dia-2-etapa.pdf",
+  "gabarito_origem": [
+   "P4008"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q045_p30.jpg"
+  ]
+ }
+]

@@ -1,0 +1,176 @@
+[
+ {
+  "id": "P4144-T1",
+  "texto": "**QUÍMICA**\n\nO texto a seguir será utilizado nas questões 11 e 12.\n\nOs biodigestores são equipamentos, que reaproveitam resto de alimentos e excrementos de animais, misturados com uma pequena quantidade de água. Essa matéria orgânica é decomposta pela ação de bactérias anaeróbicas, levando à produção de biofertilizantes e de biogás. O biogás é constituído, principalmente, por metano (CH<sub>4</sub>) e gás carbônico (CO<sub>2</sub>), além de conter traços de nitrogênio (N<sub>2</sub>), oxigênio (O<sub>2</sub>) e gás sulfídrico (H<sub>2</sub>S). Esse produto é um importante combustível gasoso. Quando queimado, libera uma considerável quantidade de energia.\n\nAproveitando-se da demanda de matéria orgânica e a simplicidade do processo de fabricação, foi construído um biodigestor em uma pequena granja. O equipamento forneceu energia para a produção de fertilizante, utilizado nas plantações de milho e feijão, e de biogás, empregado para aquecer os ovos nas incubadoras.",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     265.61,
+     53.125823999999966,
+     317.035472,
+     64.18982399999993
+    ],
+    [
+     60.624,
+     86.30527999999993,
+     317.53916000000004,
+     97.34527999999989
+    ],
+    [
+     60.624,
+     111.62527999999998,
+     538.9184799999999,
+     122.66528000000005
+    ],
+    [
+     42.6,
+     124.34528,
+     538.5609599999996,
+     135.38528000000008
+    ],
+    [
+     42.6,
+     136.9452799999999,
+     538.5830399999994,
+     147.98528
+    ],
+    [
+     42.6,
+     149.66527999999994,
+     538.84552,
+     160.70528000000002
+    ],
+    [
+     42.6,
+     162.26527999999996,
+     538.6287199999999,
+     173.30527999999993
+    ],
+    [
+     42.6,
+     174.86527999999998,
+     412.5062399999999,
+     185.90528000000006
+    ],
+    [
+     60.624,
+     187.58528,
+     538.85368,
+     198.6252800000001
+    ],
+    [
+     42.6,
+     200.18527999999992,
+     538.4284799999995,
+     211.22528
+    ],
+    [
+     42.6,
+     212.93527999999992,
+     538.5278399999997,
+     223.97528
+    ],
+    [
+     42.6,
+     225.53527999999994,
+     210.27551999999994,
+     236.5752799999999
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4144-Q011"
+  ],
+  "recortes": [
+   "revisao/T1_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4144-T2",
+  "texto": "**HISTÓRIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     262.25,
+     55.40582400000005,
+     317.37084799999997,
+     66.46982400000002
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4144-Q021"
+  ],
+  "recortes": [
+   "revisao/T2_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4144-T4",
+  "texto": "**GEOGRAFIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     257.57,
+     52.40582400000005,
+     325.53615199999996,
+     63.46982400000002
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4144-Q031"
+  ],
+  "recortes": [
+   "revisao/T4_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4144-T5",
+  "texto": "**SOCIOLOGIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     253.01,
+     52.88582399999996,
+     325.302176,
+     63.94982399999992
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4144-Q041"
+  ],
+  "recortes": [
+   "revisao/T5_p26.jpg"
+  ]
+ }
+]

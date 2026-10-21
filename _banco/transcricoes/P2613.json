@@ -1,0 +1,28 @@
+{
+ "_sobre": "Trechos que o código não consegue copiar do PDF (fórmulas em glifos-imagem, caracteres sem tradução, alternativas desenhadas). Transcrito pelo Claude lendo a imagem da página. Conferir.",
+ "Q106": {
+  "alternativas": {
+   "A": "{{img:2}}",
+   "B": "{{img:3}}",
+   "C": "{{img:4}}",
+   "D": "{{img:5}}",
+   "E": "{{img:6}}"
+  },
+  "nota": "alternativas são desenhos de vetores (setas), conferidos na imagem da página em 29/09/2026 — B e E são setas horizontais, não texto"
+ },
+ "Q139": {
+  "alternativas": {
+   "A": "\\(\\frac{7!}{4!} \\times \\frac{6!}{4!}\\)",
+   "B": "\\(\\frac{7!}{3! \\times 4!} \\times \\frac{6!}{2! \\times 4!}\\)",
+   "C": "\\(\\frac{7!}{3! \\times 4!} + \\frac{6!}{2! \\times 4!} + \\frac{5!}{1! \\times 4!}\\)",
+   "D": "\\(\\left(\\frac{7!}{3! \\times 4!} + \\frac{6!}{2! \\times 4!}\\right) \\times \\left(\\frac{7!}{4! \\times 3!} + \\frac{6!}{1! \\times 5!}\\right) \\times \\left(\\frac{7!}{5! \\times 2!} + \\frac{6!}{0! \\times 6!}\\right)\\)",
+   "E": "\\(\\left(\\frac{7!}{3! \\times 4!} \\times \\frac{6!}{2! \\times 4!}\\right) + \\left(\\frac{7!}{4! \\times 3!} \\times \\frac{6!}{1! \\times 5!}\\right) + \\left(\\frac{7!}{5! \\times 2!} \\times \\frac{6!}{0! \\times 6!}\\right)\\)"
+  },
+  "nota": "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir",
+  "enunciado": "Um hospital tem 7 médicos cardiologistas e 6 médicos neurologistas em seu quadro de funcionários. Para executar determinada atividade, a direção desse hospital formará uma equipe com 5 médicos, sendo, pelo menos, 3 cardiologistas.\n\nA expressão numérica que representa o número máximo de maneiras distintas de formar essa equipe é"
+ },
+ "Q150": {
+  "enunciado": "Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram magnitudes *M*<sub>1</sub> e *M*<sub>2</sub>, medidos segundo a escala Richter, e liberaram energias iguais a *E*<sub>1</sub> e *E*<sub>2</sub>, respectivamente. Entre os estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores dada por\n\n\\(M_{2} - M_{1} = \\frac{2}{3}\\,log\\left(\\frac{E_{2}}{E_{1}}\\right)\\)\n\nEstudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude *M*<sub>1</sub> = 6,9 e a energia liberada foi um décimo da observada no segundo terremoto.\n\nO valor aproximado da magnitude *M*<sub>2</sub> do segundo terremoto, expresso com uma casa decimal, é igual a",
+  "nota": "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir"
+ }
+}

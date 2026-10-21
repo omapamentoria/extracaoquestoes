@@ -1,0 +1,193 @@
+<meta charset="utf-8">
+<title>Piloto 2 ENEM e SSA</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+:root{
+  --bg:#f3f4f6; --panel:#ffffff; --ink:#1b2230; --muted:#5d6678; --line:#dde1e8;
+  --accent:#1f4e9c; --accent-soft:#e6edf8; --ok:#1f7a4d; --ok-soft:#e3f3ea;
+  --warn:#9a5b00; --warn-soft:#fbf0dc; --paper:#fdfdfb; --shadow:0 1px 2px rgba(20,30,50,.06);
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  color-scheme:dark;--bg:#12151b;--panel:#1a1f28;--ink:#e6e9ef;--muted:#9aa3b4;--line:#2c3340;
+  --accent:#7fa7ea;--accent-soft:#1f2b40;--ok:#6fcf9c;--ok-soft:#173226;--warn:#f0b35a;--warn-soft:#3a2c14;--paper:#20252f;--shadow:none}}
+:root[data-theme="dark"]{
+  color-scheme:dark;--bg:#12151b;--panel:#1a1f28;--ink:#e6e9ef;--muted:#9aa3b4;--line:#2c3340;
+  --accent:#7fa7ea;--accent-soft:#1f2b40;--ok:#6fcf9c;--ok-soft:#173226;--warn:#f0b35a;--warn-soft:#3a2c14;--paper:#20252f;--shadow:none}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:14px;line-height:1.5;padding-inline:16px;padding-block:0 40px}
+.wrap{max-width:1500px;margin:0 auto}
+header.top{display:flex;flex-wrap:wrap;gap:12px 24px;align-items:end;justify-content:space-between;padding-block:20px 14px;border-bottom:1px solid var(--line)}
+h1{font-size:20px;font-weight:600;margin:0;text-wrap:balance}
+.sub{color:var(--muted);margin:2px 0 0;max-width:75ch}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.tabs{display:flex;gap:4px;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:3px}
+.tabs button{border:0;background:transparent;color:var(--ink);font:inherit;padding:6px 12px;border-radius:6px;cursor:pointer}
+.tabs button[aria-pressed="true"]{background:var(--accent);color:#fff}
+:root[data-theme="dark"] .tabs button[aria-pressed="true"]{color:#0d1320}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .tabs button[aria-pressed="true"]{color:#0d1320}}
+label.chk{display:flex;gap:6px;align-items:center;color:var(--muted);cursor:pointer}
+.stats{display:flex;flex-wrap:wrap;gap:18px;padding-block:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.stats b{color:var(--ink);font-weight:600}
+.layout{display:grid;grid-template-columns:220px 1fr;gap:16px;align-items:start}
+nav.lista{position:sticky;top:env(safe-area-inset-top,0px);max-height:100vh;overflow:auto;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:6px}
+nav.lista button{display:flex;width:100%;justify-content:space-between;align-items:center;gap:8px;border:0;background:transparent;color:var(--ink);font:inherit;text-align:left;padding:5px 8px;border-radius:5px;cursor:pointer;font-family:var(--mono);font-size:12.5px}
+nav.lista button:hover{background:var(--accent-soft)}
+nav.lista button.ativo{background:var(--accent-soft);outline:1px solid var(--accent)}
+.dot{width:8px;height:8px;border-radius:50%;flex:none;background:var(--ok)}
+.dot.rev{background:var(--warn)}
+.legend{display:flex;gap:14px;color:var(--muted);font-size:12.5px;padding:6px 8px 8px}
+.legend span{display:flex;gap:6px;align-items:center}
+.q{background:var(--panel);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);margin-bottom:16px;overflow:hidden}
+.qhead{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;padding:10px 14px;border-bottom:1px solid var(--line)}
+.qhead .num{font-family:var(--mono);font-weight:500}
+.chip{font-size:12px;padding:2px 8px;border-radius:999px;background:var(--accent-soft);color:var(--accent);white-space:nowrap}
+.chip.ok{background:var(--ok-soft);color:var(--ok)}
+.chip.rev{background:var(--warn-soft);color:var(--warn)}
+.alertas{margin:0;padding:8px 14px 8px 32px;background:var(--warn-soft);color:var(--warn);font-size:13px}
+.cols{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+.col{padding:14px;min-width:0}
+.col+.col{border-left:1px solid var(--line)}
+.col h3{margin:0 0 10px;font-size:11.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.orig img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:4px;background:#fff;margin-bottom:8px}
+.ext{font-family:var(--serif);font-size:15.5px;line-height:1.55;background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:14px 16px}
+.ext p{margin:0 0 .75em}
+.ext .fig{display:block;margin:.4em 0 .9em;max-width:100%;background:#fff;border:1px dashed var(--line);border-radius:4px}
+.ext .base{border-left:3px solid var(--line);padding-left:12px;margin-bottom:14px;color:var(--ink)}
+.ext .baselabel{font-family:var(--sans);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:6px}
+.ext .fonte{font-family:var(--sans);font-size:12px;color:var(--muted);margin:0 0 .75em}
+.ext ol.alts{list-style:none;margin:10px 0 0;padding:0;display:grid;gap:6px}
+.ext ol.alts li{display:grid;grid-template-columns:28px 1fr;gap:8px;align-items:start;padding:4px 6px;border-radius:5px}
+.ext ol.alts li.certa{background:var(--ok-soft)}
+.ext .letra{font-family:var(--sans);font-weight:600;width:24px;height:24px;border-radius:50%;display:grid;place-items:center;border:1.5px solid var(--ink);font-size:12.5px}
+.ext li.certa .letra{background:var(--ok);border-color:var(--ok);color:#fff}
+.ext .vazio{color:var(--warn);font-family:var(--sans);font-size:13px}
+.tblw{overflow-x:auto;margin:.3em 0 .9em}
+.ext table{border-collapse:collapse;font-size:14px;font-variant-numeric:tabular-nums}
+.ext th,.ext td{border:1px solid var(--line);padding:4px 8px;text-align:left}
+.ext th{background:var(--accent-soft)}
+.gab{font-family:var(--sans);font-size:13px;color:var(--muted);margin-top:10px}
+.gab b{color:var(--ok)}
+.nl{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px;margin-bottom:16px}
+.nl h2{font-size:15px;margin:0 0 4px}
+.nl .item{border-top:1px solid var(--line);padding-top:10px;margin-top:10px}
+.nl pre{white-space:pre-wrap;font-family:var(--serif);font-size:14px;margin:6px 0 0;max-height:220px;overflow:auto}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+@media (max-width:900px){.layout{grid-template-columns:1fr}nav.lista{position:static;max-height:220px}.cols{grid-template-columns:1fr}.col+.col{border-left:0;border-top:1px solid var(--line)}}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>Piloto 2 ENEM e SSA — Banco MAPA</h1>
+      <p class="sub">À esquerda, o recorte do PDF original. À direita, o que o código extraiu. Confira se o texto está igual, se as figuras estão no lugar certo e se o gabarito bate. Anote o número das questões com erro e me mande no chat.</p>
+    </div>
+    <div class="controls">
+      <div class="tabs" id="tabs" role="group" aria-label="Prova"></div>
+      <label class="chk"><input type="checkbox" id="soalerta"> Só as marcadas para revisar</label>
+    </div>
+  </header>
+  <div class="stats" id="stats"></div>
+  <div class="layout">
+    <nav class="lista" id="lista" aria-label="Questões">
+      <div class="legend"><span><i class="dot"></i>ok</span><span><i class="dot rev"></i>revisar</span></div>
+      <div id="listaitens"></div>
+    </nav>
+    <main id="main"><p class="sub">Carregando…</p></main>
+  </div>
+</div>
+
+<script>
+window.MathJax = { tex: { inlineMath: [["\\(", "\\)"]], displayMath: [] }, svg: { fontCache: "global" }, startup: { typeset: false, ready: () => { MathJax.startup.defaultReady(); MathJax.startup.promise.then(() => { const m = document.getElementById("main"); if (m) MathJax.typesetPromise([m]); }); } } };
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-svg-full.js" async></script>
+<script>
+let DADOS = null, prova = 0;
+const $ = s => document.querySelector(s);
+function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")}
+function inline(s){
+  const guard = [];
+  s = String(s).replace(/\\\(([\s\S]+?)\\\)/g, m => { guard.push(esc(m)); return "\u0000" + (guard.length-1) + "\u0000"; });
+  s = s.replace(/\\\*/g, "\u0001");
+  s = esc(s);
+  s = s.replace(/&lt;(\/?)(sup|sub|u)&gt;/g,"<$1$2>").replace(/&lt;br\s*\/?&gt;/g,"<br>");
+  s = s.replace(/\*\*\*(.+?)\*\*\*/g,"<b><i>$1</i></b>").replace(/\*\*(.+?)\*\*/g,"<b>$1</b>").replace(/(^|[^*])\*(?!\s)(.+?)\*(?!\*)/g,"$1<i>$2</i>");
+  s = s.replace(/\u0001/g, "*").replace(/\u0000(\d+)\u0000/g, (m, k) => guard[+k]);
+  s = s.replace(/ {2}\n/g,"<br>").replace(/\n/g,"<br>");
+  return s;
+}
+function md(txt, imgs, fontes){
+  if(!txt) return "";
+  const porId = {}; (imgs||[]).forEach(i => porId[i.id] = i);
+  return txt.split(/\n\n+/).map(b => {
+    const mf = b.trim().match(/^\{\{fonte:(\d+)\}\}$/);
+    if(mf){ const f = (fontes||[])[+mf[1]-1]; return f ? `<p class="fonte">${inline(f)}</p>` : ""; }
+    const m = b.trim().match(/^\{\{img:(\d+)\}\}$/);
+    if(m){ const im = porId[m[1]]; return im ? `<img class="fig" src="${im.web}" alt="Figura ${m[1]} (página ${im.pagina})" loading="lazy">` : `<p class="vazio">[figura ${m[1]} não encontrada]</p>`; }
+    if(/^\|.*\|\s*$/m.test(b) && b.trim().startsWith("|")){
+      const rows = b.trim().split("\n").filter(r => !/^\|(\s*-+\s*\|)+\s*$/.test(r));
+      const cells = r => r.trim().replace(/^\|/,"").replace(/\|$/,"").split("|").map(c => inline(c.trim()));
+      return `<div class="tblw"><table><thead><tr>${cells(rows[0]).map(c=>`<th>${c}</th>`).join("")}</tr></thead><tbody>${rows.slice(1).map(r=>`<tr>${cells(r).map(c=>`<td>${c}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
+    }
+    const partes = b.split(/(\{\{img:\d+\}\})/);
+    return "<p>" + partes.map(p => { const mm = p.match(/\{\{img:(\d+)\}\}/); if(mm){const im = porId[mm[1]]; return im?`<img class="fig" src="${im.web}" alt="Figura" loading="lazy">`:"";} return inline(p); }).join("") + "</p>";
+  }).join("");
+}
+// fontes sem marcador de posicao (dados antigos): aparecem antes do enunciado
+function semMarca(txt, fontes){ return (fontes||[]).map((f,i)=>[f,i+1]).filter(([f,k]) => !(txt||"").includes(`{{fonte:${k}}}`)); }
+function soltasAntes(txt, fontes){ return semMarca(txt, fontes).map(([f]) => `<p class="fonte">${inline(f)}</p>`).join(""); }
+function soltas(txt, fontes){ return soltasAntes(txt, fontes); }
+function questaoHTML(q, P){
+  const ids = (q.textos_base_ids && q.textos_base_ids.length) ? q.textos_base_ids : (q.texto_base_id ? [q.texto_base_id] : []);
+  const bases = ids.map(id => P.textos_base.find(t => t.id === id)).filter(Boolean);
+  const rev = q.alertas.length > 0;
+  const rotulo = q.id.replace(P.id + "-", "").replace(/^Q0*/, "").replace("-ING"," (inglês)").replace("-ESP"," (espanhol)");
+  const recortes = [...bases.flatMap(b => b.recortes_web), ...q.recortes_web];
+  const alts = q.alternativas.length ? `<ol class="alts">${q.alternativas.map(a => `<li class="${a.letra===q.gabarito?'certa':''}"><span class="letra">${a.letra}</span><div>${md(a.texto, q.imagens) || '<span class="vazio">(alternativa vazia)</span>'}</div></li>`).join("")}</ol>` : `<p class="vazio">Nenhuma alternativa separada.</p>`;
+  return `<article class="q" id="${q.id}">
+    <div class="qhead"><span class="num">Questão ${rotulo}</span>
+      ${q.area ? `<span class="chip">${esc(q.area.toLowerCase())}</span>` : ""}
+      <span class="chip ${rev?'rev':'ok'}">${rev?'revisar':'automático ok'}</span>
+      <span class="chip">pág. ${q.paginas.join(", ")}</span></div>
+    ${rev ? `<ul class="alertas">${q.alertas.map(a=>`<li>${esc(a)}</li>`).join("")}</ul>` : ""}
+    <div class="cols">
+      <div class="col orig"><h3>PDF original</h3>${recortes.map(r=>`<img src="${r}" alt="Recorte do PDF" loading="lazy">`).join("")}</div>
+      <div class="col"><h3>Extraído</h3><div class="ext">
+        ${bases.map(base => `<div class="base"><div class="baselabel">Texto de apoio (${esc(base.id.replace(P.id+'-',''))})</div>${md(base.texto, base.imagens, base.fontes)}${soltas(base.texto, base.fontes)}</div>`).join("")}
+        ${soltasAntes(q.enunciado, q.fontes)}${md(q.enunciado, q.imagens, q.fontes)}
+        ${alts}
+        ${q.apos_alternativas ? `<div class="apos">${md(q.apos_alternativas, q.imagens, q.fontes)}</div>` : ""}
+        <p class="gab">Gabarito: ${q.anulada ? "<b>anulada</b>" : q.gabarito ? `<b>${q.gabarito}</b>` : "não encontrado"}</p>
+      </div></div>
+    </div></article>`;
+}
+function render(){
+  const P = DADOS.provas[prova], so = $("#soalerta").checked;
+  const qs = P.questoes.filter(q => !so || q.alertas.length);
+  const nrev = P.questoes.filter(q => q.alertas.length).length;
+  $("#stats").innerHTML = `<span><b>${P.questoes.length}</b> questões</span><span><b>${P.questoes.length-nrev}</b> sem alerta</span><span><b>${nrev}</b> para revisar</span><span><b>${P.questoes.reduce((a,q)=>a+q.imagens.length,0)}</b> figuras recortadas</span><span><b>${P.textos_base.length}</b> textos-base</span><span>Arquivo: ${esc(P.arquivo)}</span>`;
+  $("#listaitens").innerHTML = qs.map(q => `<button data-id="${q.id}"><span>${q.id.replace(P.id+"-","").replace("-ING"," ing").replace("-ESP"," esp")}</span><i class="dot ${q.alertas.length?'rev':''}"></i></button>`).join("");
+  let html = qs.map(q => questaoHTML(q, P)).join("");
+  const NL = (P.nao_ligados||[]).filter(t => (t.texto||"").trim());
+  if(NL.length && !so){
+    html += `<section class="nl"><h2>Textos que não foram ligados a nenhuma questão</h2><p class="sub">Normalmente são instruções da capa ou do fim do caderno. Se algum for texto de questão, me avise.</p>${NL.map(t=>`<div class="item"><b>${esc(t.id.replace(P.id+'-',''))}</b> · pág. ${t.paginas.join(", ")}<pre>${esc(t.texto||"(só figura ou fonte)")}</pre></div>`).join("")}</section>`;
+  }
+  $("#main").innerHTML = html || `<p class="sub">Nenhuma questão com alerta nesta prova.</p>`;
+  if(window.MathJax && MathJax.typesetPromise){ MathJax.typesetClear && MathJax.typesetClear(); MathJax.typesetPromise([$("#main")]).catch(()=>{}); }
+}
+$("#listaitens").addEventListener("click", e => { const b = e.target.closest("button"); if(!b) return;
+  document.querySelectorAll("#listaitens button").forEach(x => x.classList.toggle("ativo", x===b));
+  document.getElementById(b.dataset.id)?.scrollIntoView({behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block:"start"}); });
+$("#soalerta").addEventListener("change", render);
+fetch("dados.json").then(r => r.json()).then(d => {
+  DADOS = d;
+  $("#tabs").innerHTML = d.provas.map((p,i) => `<button aria-pressed="${i===0}" data-i="${i}">${esc(p.titulo.split(" — ")[0])}</button>`).join("");
+  $("#tabs").addEventListener("click", e => { const b = e.target.closest("button"); if(!b) return; prova = +b.dataset.i;
+    document.querySelectorAll("#tabs button").forEach(x => x.setAttribute("aria-pressed", x===b)); render(); window.scrollTo(0,0); });
+  render();
+  if(window.MathJax && MathJax.startup && MathJax.startup.promise) MathJax.startup.promise.then(() => MathJax.typesetPromise([$("#main")])).catch(()=>{});
+}).catch(() => { $("#main").innerHTML = '<p class="sub">Não consegui carregar os dados da revisão.</p>'; });
+</script>

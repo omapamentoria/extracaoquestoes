@@ -1,0 +1,29 @@
+{
+ "_sobre": "Trechos que o código não consegue copiar do PDF (fórmulas em glifos-imagem, caracteres sem tradução, alternativas desenhadas). Transcrito pelo Claude lendo a imagem da página. Conferir.",
+ "Q141": {
+  "alternativas": {
+   "A": "J ⋅ s ⋅ m<sup>2</sup>",
+   "B": "J ⋅ s ⋅ m",
+   "C": "\\(\\frac{J}{s \\cdot m}\\)",
+   "D": "\\(\\frac{J}{s} \\cdot m^{2}\\)",
+   "E": "\\(\\frac{J}{s \\cdot m^{2}}\\)"
+  },
+  "nota": "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir",
+  "enunciado": "Em radiometria, a potência radiante emitida por uma fonte de radiação é diretamente proporcional à quantidade de energia, em joule (J), irradiada pela fonte, e inversamente proporcional ao intervalo de tempo, em segundo (s), que a fonte necessita para emitir essa energia. Por meio de sensores adequados, localizados em diferentes distâncias da fonte, medidas em metro (m), é possível medir a potência radiante por unidade de área que chega àquela posição.\n\nA expressão que representa a unidade de medida para a grandeza potência radiante por unidade de área é"
+ },
+ "Q173": {
+  "enunciado": "Na modelagem e no estudo de fenômenos periódicos, em geral, os modelos associados fazem uso de funções trigonométricas. Nesse sentido, considere um experimento, realizado em laboratório, em que uma planta foi colocada em uma estufa, onde a temperatura é controlável. O experimento consiste em observar alterações nas características dessa planta ao ser submetida a variações de temperatura. Durante 24 horas, a temperatura *T*(*x*) da estufa variou de acordo com a função \\(T(x) = 20 - 10\\,sen\\left(\\pi \\cdot \\frac{x}{4}\\right)\\), em que *x* é medido em hora, variando no intervalo 0 ≤ *x* ≤ 24.\n\nDurante esse experimento, quantas vezes a temperatura na estufa atingiu o seu valor mínimo?",
+  "nota": "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir"
+ },
+ "Q176": {
+  "enunciado": "Os candidatos A, B e C participaram de um concurso composto por uma prova de Matemática, uma de Português e outra de Geografia, sendo os pesos dessas três provas diferentes. As notas obtidas por esses três candidatos e os pesos atribuídos a essas provas estão representados nas tabelas:\n\n**Tabela I (Notas)**\n\n| **Candidato** | **Matemática** | **Português** | **Geografia** |\n|---|---|---|---|\n| A | 9 | 6 | 7 |\n| B | 8 | 7 | 8 |\n| C | 9 | 5 | 6 |\n\n**Tabela II (Pesos)**\n\n| **Matérias** | **Pesos** |\n|---|---|\n| Matemática | 3 |\n| Português | 2 |\n| Geografia | 1 |\n\nAs notas finais são obtidas somando-se os produtos das notas pelos respectivos pesos. As notas finais dos três candidatos podem ser obtidas multiplicando-se a matriz das notas dos três candidatos nas três provas pela matriz dos pesos das três provas.\n\nA matriz das notas finais dos três candidatos é",
+  "alternativas": {
+   "A": "\\(\\begin{pmatrix} 52 & 37 & 43 \\end{pmatrix}\\)",
+   "B": "\\(\\begin{pmatrix} 46 \\\\ 46 \\\\ 43 \\end{pmatrix}\\)",
+   "C": "\\(\\begin{pmatrix} 66 \\\\ 46 \\\\ 20 \\end{pmatrix}\\)",
+   "D": "\\(\\begin{pmatrix} 27 & 12 & 7 \\\\ 24 & 14 & 8 \\\\ 27 & 10 & 6 \\end{pmatrix}\\)",
+   "E": "\\(\\begin{pmatrix} 27 & 18 & 21 \\\\ 16 & 14 & 16 \\\\ 9 & 5 & 6 \\end{pmatrix}\\)"
+  },
+  "nota": "texto transcrito lendo a imagem da página (símbolos que o PDF não traduz: parênteses/chaves grandes, fórmulas) em 29/09/2026 — conferir; tabelas I e II digitadas célula por célula (a imagem recortada tinha perdido a célula “Matemática” da Tabela II)"
+ }
+}

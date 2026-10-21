@@ -1,0 +1,213 @@
+[
+ {
+  "id": "P4162-T2",
+  "texto": "**QUÍMICA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     272.1,
+     59.307000000000016,
+     319.79600000000005,
+     70.30700000000002
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4162-Q011"
+  ],
+  "recortes": [
+   "revisao/T2_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4162-T3",
+  "texto": "**Texto para as questões 13 e 14.**\n\nA beleza das soluções-tampão\n\nEm 1900, ao estudar a enzima amilase, dois pesquisadores franceses, A. Fernbach (1860-1939) e L. Hubert (1865-1943), perceberam que uma solução de ácido fosfórico (H<sub>3</sub>PO<sub>4</sub>) parcialmente neutralizada, ou seja, transformada em um sal com ânion fosfato (PO<sub>4</sub><sup>3-</sup>), tinha o potencial de resistir a mudanças consideráveis na acidez ou basicidade, ou seja, resistia a mudanças no pH. Essa resistência foi denominada de ação tamponante, e a solução responsável por esse efeito foi chamada de solução-tampão.\n\nComo exemplo, trazemos um sistema tamponado. Temos a solução formada pela mistura do ácido etanoico (H<sub>3</sub>CCOOH), um ácido orgânico fraco também conhecido como ácido acético, e o acetato de sódio (H<sub>3</sub>CCOONa), que contém o ânion acetato, a base conjugada.\n\nEssas soluções são utilizadas, em meio laboratorial ou industrial, a fim de manter o pH de um sistema em uma faixa ótima para a realização de alguns procedimentos específicos. Geralmente, são preparadas em laboratório pelo próprio usuário, embora existam de forma comercial, sendo constituídas geralmente por um par de ácido fraco e um de seus sais (ácido conjuntado e base conjugada), embora também possam ser formadas por uma base fraca e por seu par conjugado.\n\nEsses sistemas são muito especiais, pois quase todos os processos bioquímicos são dependentes do pH. Alguns fluidos corpóreos, a exemplo de sangue e saliva, são sistemas tamponados. Além disso, as soluções-tampão também possuem aplicações laboratoriais, como: minimizar precipitações e eletrodeposições; e controlar a acidez do meio em reações orgânicas. Também possuem ampla utilização na indústria alimentícia, na função de amortecedor da variação de pH.\n\nTexto elaborado pela Banca",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.625000000000014,
+     248.3270000000001,
+     207.93799999999996,
+     259.3270000000002
+    ],
+    [
+     42.62499999999997,
+     273.75700000000006,
+     193.146008,
+     284.75700000000006
+    ],
+    [
+     64.02499999999998,
+     299.1570000000001,
+     547.4570040000001,
+     310.1570000000001
+    ],
+    [
+     42.62499999999998,
+     311.7570000000001,
+     547.402,
+     322.7570000000001
+    ],
+    [
+     42.625,
+     324.35700000000014,
+     546.913,
+     335.35700000000014
+    ],
+    [
+     42.625,
+     336.95700000000016,
+     546.9419999999997,
+     347.95700000000016
+    ],
+    [
+     42.625,
+     349.7570000000002,
+     546.9419999999998,
+     360.7570000000002
+    ],
+    [
+     42.625,
+     362.3770000000002,
+     187.672001,
+     373.3770000000002
+    ],
+    [
+     64.025,
+     374.9770000000002,
+     546.9359999999999,
+     385.9770000000002
+    ],
+    [
+     42.62500000000001,
+     387.5770000000002,
+     546.838,
+     398.5770000000002
+    ],
+    [
+     42.62500000000003,
+     400.37700000000024,
+     448.6810000000001,
+     411.37700000000024
+    ],
+    [
+     64.02500000000006,
+     412.97700000000026,
+     546.7190029999998,
+     423.97700000000026
+    ],
+    [
+     42.625000000000064,
+     425.5770000000003,
+     546.722,
+     436.5770000000003
+    ],
+    [
+     42.625000000000064,
+     438.1770000000003,
+     547.4610020000001,
+     449.1770000000003
+    ],
+    [
+     42.625000000000064,
+     450.9770000000003,
+     546.6999999999998,
+     461.9770000000003
+    ],
+    [
+     42.625000000000064,
+     463.6070000000003,
+     514.5139999999999,
+     474.6070000000003
+    ],
+    [
+     64.02500000000006,
+     476.20700000000033,
+     547.3110010000001,
+     487.20700000000033
+    ],
+    [
+     42.625000000000064,
+     488.80700000000036,
+     547.019,
+     499.80700000000036
+    ],
+    [
+     42.625000000000064,
+     501.60700000000037,
+     546.857003,
+     512.6070000000004
+    ],
+    [
+     42.625000000000064,
+     514.2070000000003,
+     547.0200010000002,
+     525.2070000000003
+    ],
+    [
+     42.625000000000064,
+     526.8070000000005,
+     433.774,
+     537.8070000000004
+    ],
+    [
+     434.75000000000006,
+     538.9930000000004,
+     547.493,
+     547.9930000000004
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   13,
+   14
+  ],
+  "questoes": [
+   "P4162-Q013",
+   "P4162-Q014"
+  ],
+  "recortes": [
+   "revisao/T3_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4162-T4",
+  "texto": "**HISTÓRIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     267.08,
+     50.70700000000011,
+     319.913,
+     61.70700000000011
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4162-Q021"
+  ],
+  "recortes": [
+   "revisao/T4_p16.jpg"
+  ]
+ }
+]

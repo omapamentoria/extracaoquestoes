@@ -1,0 +1,702 @@
+[
+{
+"id": 116620,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "Uma barra delgada está em uma temperatura na qual o seu comprimento é igual L<sub>0</sub> = 100 cm. [figura] A barra, de coeficiente de dilatação linear 8,0 x 10<sup>-5</sup> °C<sup>-1</sup>, é, então, colocada a uma distância d = 0,8 m do vértice de um espelho curvo. O espelho possui um raio de curvatura de 160 cm. Para se fazer a imagem crescer meio centímetro, pode-se || A) aproximar a barra em 15 cm. | B) afastar a barra em 10 cm. | C) aquecer a barra em 40 °C. | D) esfriar a barra em 10 °C. | E) aquecer a barra em 125 °C."
+},
+{
+"id": 116621,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "[figura] Quando dez moles de um gás ideal são submetidos a um ciclo termodinâmico em uma máquina térmica, pode-se construir o gráfico de pressão *versus* temperatura, mostrado a seguir. Sabendo que as temperaturas dos pontos A, B, C e D são 800 K, 1200 K, 2600 K e 1400 K, respectivamente, e que o ciclo é completado em 2,0 segundos, calcule a potência da máquina por ciclo. Considere que a constante universal dos gases perfeitos é igual a 8,3 J/(mol K). || A) 16,6 kW | B) 21,0 kW | C) 33,2 kW | D) 48,2 kW | E) 68,4 kW"
+},
+{
+"id": 116622,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "É muito comum o amplo uso de aparelhos de ar-condicionado durante o verão intenso do Recife. Nessa cidade, uma residência possui uma parede de área 40 m<sup>2</sup> e espessura 20 cm, separando o ambiente interior do exterior. Se a temperatura externa é de 33 °C e deseja-se manter a interna igual a 23 °C, qual será o gasto por hora de aparelho ligado, considerando-se, apenas, essa parede separadora? *Dados: A condutividade térmica da parede é igual a 1,25 x 10<sup>-3</sup> kW/(mK), e o custo da energia elétrica em* *kWh é de R$ 0,60.* || A) R$ 0,30 | B) R$ 0,90 | C) R$ 1,20 | D) R$ 1,50 | E) R$ 2,50"
+},
+{
+"id": 116623,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "*Google irá conectar o Brasil aos EUA com cabo submarino* *São Paulo – O Google anunciou que irá usar um cabo submarino para ligar o Brasil aos* *Estados Unidos. O cabo sairá de Boca Raton, na Flórida, e irá até as cidades de Fortaleza e* *Santos, esta no litoral de São Paulo.* *Os cabos submarinos de fibra ótica são os grandes responsáveis pela transmissão de dados* *ao redor do mundo. De acordo com um especialista, Alan Mauldin, da Telegeography, 99%* *das comunicações internacionais são entregues, graças aos cabos submarinos.* *“É uma crença […] ções. Entre eles, destacam-se materiais de pesca abandonados, riscos de deslizamento, vulcões e abismos. [figura] Determine qual o maior ângulo θ no qual podemos dobrar uma fibra óptica cilíndrica no mar, como se mostra na figura, de forma que o feixe de luz ainda se mantenha dentro dela. Considere que o índice de refração da água do mar e o da fibra óptica são iguais a 1,5 e 3,0, respectivamente. || A) 30° | B) 45° | C) 60° | D) 75° | E) 90°"
+},
+{
+"id": 116624,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "Em uma tentativa de emular os diversos tipos de leite, uma indústria mistura água com uma certa quantidade de lipídios que é mostrada na tabela seguinte: [figura] Sabendo que o calor específico da água é maior que o do grupo de lipídios usados, concluímos, utilizando os princípios da calorimetria e apenas as informações da tabela, que, em quantidades iguais, || A) o leite de ovelha necessitaria de menos energia para chegar a 100 °C em relação aos demais. | B) quando todos forem submetidos a um aquecimento constante, o leite de vaca chegará a 100 °C mais rápido que os  | C) com os diversos tipos de leite no congelador, sob a mesma temperatura inicial, o leite semidesnatado atingirá  | D) a proporção água com lipídios não interfere no processo de variação de temperatura. | E) todos os tipos de leite chegam a 100 °C no mesmo tempo, quando submetidos a um aquecimento constante, uma vez "
+},
+{
+"id": 116625,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "Com base nos conhecimentos acerca da expansão térmica dos sólidos, sabe-se que, ao aquecer uma esfera feita de alumínio, em 100 graus celsius, o maior aumento percentual vai ocorrer na (no) || A) sua área de superfície. | B) seu volume. | C) seu diâmetro. | D) sua densidade. | E) sua massa."
+},
+{
+"id": 116626,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "Um refrigerador foi construído, utilizando-se uma máquina de Carnot cuja eficiência, na forma de máquina de calor, é igual a 0,1. Se esse refrigerador realiza um trabalho de 10 J, é **CORRETO** afirmar que a quantidade de calor removida do reservatório de menor temperatura foi, em joules, de || A) 100 | B) 99 | C) 90 | D) 10 | E) 1"
+},
+{
+"id": 116627,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "[figura] No dia 29 de maio de 1919, uma equipe de astrônomos ingleses visitou a cidade de Sobral, no Ceará, na tentativa de comprovar a Teoria da Relatividade Geral de Einstein, publicada em 1915. O objetivo da comitiva era verificar se a luz que vinha de uma estrela sofreria algum desvio ao passar nas proximidades do Sol. Nessa teoria, movimentos sob a ação de campos gravitacionais são compreendidos como movimentos em um espaço curvo, conforme mostra a figura a seguir. Nela ilustramos como a massa do Sol muda a nossa percepção da posição de uma estrela. Que tipo de instrumento óptico representa, de forma mais precisa, a função da massa do Sol na alteração do caminho da luz? || A) Espelho plano | B) Espelho côncavo | C) Espelho convexo | D) Lente convergente | E) Lente divergente"
+},
+{
+"id": 116628,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "**Texto 1 (questão 33)** [figura] 33. Para salvaguardar el sentido comunicado por la tira, ¿cuál de las expresiones citadas a continuación se puede indicar como sustituta de la expresión “te pega a“? a) Te cuela en b) Te enfrenta a c) Te golpea en d) Te queda para e) Te sujeta a According to the text, “text neck” is a result of I. widespread overuse of handheld mobile technology. II. a modern digital age we are living in. III. a global epidemic caused by texting in an overuse way. IV. looking down at the screens of mobile devices and ‘texting’ for long periods of time. V. the repeated stress injury to the body caused by excessive texting and overuse of all handheld electronic devices. It is **CORRECT** || A) only I. | B) only I and II. | C) only I, II, III, and IV. | D) I, II, III, IV, and V. | E) only I, II, and III."
+},
+{
+"id": 116629,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "**Texto 2 (questões de 34 a 38)** **Hallado el número de supercivilizaciones: cero** **La primera exploración de 100.000 galaxias no revela signos de** [figura] ¿Dónde está todo el mundo?, se preguntó el físico Enrico Fermi tras hacer un rápido cálculo mental sobre la enormidad del cosmos y la velocidad del avance tecnológico. Su cálculo le decía que las civilizaciones avanzadas debían estar ya aquí. Y no solo no han llegado a la Tierra, sino que hemos sido incapaces de encontrar sus signos en el cielo. El enigma se hace más profundo ahora con  […] t, Dr. Dean Fishman I. is a leading health care provider for technology induced injuries. II. originated the phrase ***'Text Neck'*** to explain the repeated stress injury to the body caused by excessive texting. III. is a Chiropractor in Plantation, Florida. IV. is a pioneer in treating technology related injuries. V. founded the ***Text Neck Institute*** in Plantation, Florida. It is **CORRECT** || A) only I, II, III, and IV. | B) I, II, III, IV, and V. | C) only I, II, and III. | D) only I and II. | E) only I."
+},
+{
+"id": 116630,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "**Texto 2 (questões de 34 a 38)** **Hallado el número de supercivilizaciones: cero** **La primera exploración de 100.000 galaxias no revela signos de** [figura] ¿Dónde está todo el mundo?, se preguntó el físico Enrico Fermi tras hacer un rápido cálculo mental sobre la enormidad del cosmos y la velocidad del avance tecnológico. Su cálculo le decía que las civilizaciones avanzadas debían estar ya aquí. Y no solo no han llegado a la Tierra, sino que hemos sido incapaces de encontrar sus signos en el cielo. El enigma se hace más profundo ahora con  […] ce más profundo ahora con la primera exploración sistemática de 100.000 galaxias en busca de las huellas que cabría esperar de una supercivilización extraterrestre”,** la palabra **“huellas”,** sin que se cambie el sentido básico que aporta al texto, puede ser sustituida por a) avances. b) logros. c) interrogaciones. d) marcas. e) propuestas. **FILOSOFIA** What does “text neck” mean in Portuguese? || A) Dores no pescoço, provocadas pelo uso inadequado de telefones celulares e outros aparelhos tecnológicos modern | B) Um problema de saúde pública que afeta, inclusive, aquelas pessoas que não têm o hábito de usar as chamadas mí | C) Trata-se de uma questão de herança genética e que prejudica uma boa parcela da população mundial. | D) É um problema que apareceu muito antes do surgimento da tecnologia móvel, nos moldes conhecidos atualmente. | E) É uma epidemia que atingiu milhões de pessoas no passado e que assombra o mundo tecnológico e virtual de hoje."
+},
+{
+"id": 116631,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "**Texto 2 (questões de 34 a 38)** **Hallado el número de supercivilizaciones: cero** **La primera exploración de 100.000 galaxias no revela signos de** [figura] ¿Dónde está todo el mundo?, se preguntó el físico Enrico Fermi tras hacer un rápido cálculo mental sobre la enormidad del cosmos y la velocidad del avance tecnológico. Su cálculo le decía que las civilizaciones avanzadas debían estar ya aquí. Y no solo no han llegado a la Tierra, sino que hemos sido incapaces de encontrar sus signos en el cielo. El enigma se hace más profundo ahora con  […] rimera exploración sistemática de 100.000 galaxias en busca de las huellas que cabría esperar de una supercivilización extraterrestre”,** la palabra **“huellas”,** sin que se cambie el sentido básico que aporta al texto, puede ser sustituida por a) avances. b) logros. c) interrogaciones. d) marcas. e) propuestas. **FILOSOFIA** Em relação ao termo “Northern Star”, no título do texto, conclui-se que || A) os países nórdicos, onde se inclui a Escandinávia, estão em destaque graças ao desenvolvimento e uso de energi | B) a Estrela do Norte demarca a região mais ao norte da Europa, chamada também de Escandinávia, de onde é possíve | C) a Estrela do Norte é uma referência a Estocolmo, capital sueca, que se destaca pelas iniciativas de uso inteli | D) há uma ironia presente na questão, já que a Suécia, país nórdico, compara-se, frequentemente, à Estrela do Nor | E) esse termo faz referência a um navio de propriedade do governo sueco, de nome idêntico que é um modelo de comp"
+},
+{
+"id": 116632,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "**Texto 2 (questões de 34 a 38)** **Hallado el número de supercivilizaciones: cero** **La primera exploración de 100.000 galaxias no revela signos de** [figura] ¿Dónde está todo el mundo?, se preguntó el físico Enrico Fermi tras hacer un rápido cálculo mental sobre la enormidad del cosmos y la velocidad del avance tecnológico. Su cálculo le decía que las civilizaciones avanzadas debían estar ya aquí. Y no solo no han llegado a la Tierra, sino que hemos sido incapaces de encontrar sus signos en el cielo. El enigma se hace más profundo ahora con  […] igma se hace más profundo ahora con la primera exploración sistemática de 100.000 galaxias en busca de las huellas que cabría esperar de una supercivilización extraterrestre”,** la palabra **“huellas”,** sin que se cambie el sentido básico que aporta al texto, puede ser sustituida por a) avances. b) logros. c) interrogaciones. d) marcas. e) propuestas. **FILOSOFIA** O principal objetivo do texto é || A) destacar a importância da reciclagem de materiais e redução do consumo em todas as regiões da Europa, a partir | B) enfocar as iniciativas para desenvolver bioenergia em toda a região da Escandinávia, começando pela Dinamarca. | C) discutir as formas de reciclagem propostas pela Suécia para toda a Escandinávia, com enfoque na utilização da  | D) apresentar as iniciativas sustentáveis advindas da Suécia que poderão transformar a região numa liderança, com | E) destacar verdadeiras iniciativas verdes, que poderão tornar parte da Europa um modelo a ser seguido em todo o "
+},
+{
+"id": 116633,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "**Texto 2 (questões de 34 a 38)** **Hallado el número de supercivilizaciones: cero** **La primera exploración de 100.000 galaxias no revela signos de** [figura] ¿Dónde está todo el mundo?, se preguntó el físico Enrico Fermi tras hacer un rápido cálculo mental sobre la enormidad del cosmos y la velocidad del avance tecnológico. Su cálculo le decía que las civilizaciones avanzadas debían estar ya aquí. Y no solo no han llegado a la Tierra, sino que hemos sido incapaces de encontrar sus signos en el cielo. El enigma se hace más profundo ahora con  […]  três formas de saber: o saber de dominação ou de realização, o saber da essência ou cultural e o saber metafísico ou saber de salvação. Nenhuma dessas três espécies de saber existe somente em função de si mesma. Toda espécie serve à reformulação de um ente: ou dos objetos, ou da forma cultural do próprio homem, ou do absoluto. Na perspectiva do pensamento de Max Scheler, o conhecimento filosófico || A) valoriza o saber metafísico, rejeitando o saber da essência. | B) descaracteriza a forma de saber de dominação, priorizando o saber metafísico. | C) restringe o saber da essência em prol do saber de realização. | D) faz a confluência entre as três formas de saber. | E) retrata o saber do homem em função de si mesmo, no enfoque metafísico."
+},
+{
+"id": 116634,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "Se a filosofia deve ser, ao mesmo tempo, totalização do saber, método, ideia reguladora, arma ofensiva e comunidade de linguagem; se essa ‘visão do mundo’ é também um instrumento que trabalha as sociedades carcomidas; se essa concepção singular de um homem ou de um grupo de homens torna-se a cultura e, por vezes, a natureza de toda uma classe, fica bem claro que as épocas de criação filosófica são raras. A ideia filosófica de Sartre, no texto acima, considera como o mais alto grau de conhecimento: || A) a reflexão crítica do homem na sua existência. | B) o valor do conhecimento no âmbito da essência. | C) a concepção do homem como criação divina. | D) o primado do conhecimento revelado. | E) a raridade do conhecimento absoluto."
+},
+{
+"id": 116635,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "Se me disponho a filosofar, é porque busco compreender as coisas e os fatos que me envolvem, a Realidade em que estou imerso. É porque quero saber o que posso saber e como devo ordenar minha visão do Mundo, como situar-me diante do Mundo físico e do Mundo humano e de tudo quanto se oferece à minha experiência. Como entender os discursos dos homens e meu próprio discurso. Como julgar os produtos das artes, das religiões e das ciências. No pensamento acima transcrito, o autor problematiza sobre o filosofar e evidencia aspectos preponderantes da consciência crítica no || A) despertar para a compreensão da realidade na sua inteireza. | B) refletir o mundo físico, apartado do mundo humano. | C) julgar a realidade, priorizando os produtos das ciências. | D) buscar a realidade do discurso e das artes. | E) conduzir e ordenar a visão do mundo com o saber das religiões."
+},
+{
+"id": 116636,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "Considere o texto a seguir: **Sobre a Filosofia na História** A filosofia é o resultado de uma subida lenta, laboriosa conquista da humanidade, que constitui a história da filosofia. Esta, pois, é a exposição objetiva, cronológica, metódica e crítica dos principais sistemas filosóficos, que apareceram ao longo da história da humanidade. Entretanto, a história da filosofia se distingue da filosofia propriamente dita. Com efeito, a primeira abrange todo sistema filosófico, falso ou verdadeiro. É **CORRETO** afirmar que, na tradição histórica da filosofia, || A) o período Pré-Socrático enfatiza a revelação divina. | B) a exposição existencialista sobre a natureza caracteriza o período Pré-Socrático. | C) o período Pré-Socrático dá enfoque ao valor metódico de perseguir a unidade do homem. | D) o problema cosmológico é a principal preocupação do período Pré-Socrático. | E) o período Pré-Socrático menospreza por completo a tradição científica."
+},
+{
+"id": 116637,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "(...) à procura desta ciência, devemos examinar de que causas e de que princípios a filosofia é a ciência. Se considerarmos as opiniões que existem acerca do filósofo, talvez o problema se nos manifeste com maior clareza. Nós admitimos, antes de mais nada, que o filósofo conhece, na medida do possível, todas as coisas, embora não possua a ciência de cada uma delas por si. No texto da Metafísica, acima, Aristóteles esclarece que || A) o saber filosófico é um saber pelo saber, isto é, um saber universal inerente à natureza humana. | B) o saber filosófico é uma reflexão acrítica de todas as coisas. | C) o saber filosófico é um tipo de sabedoria que não envolve o exercício da razão. | D) o saber filosófico é a consciência de um simples sentimento de curiosidade sobre os princípios. | E) o saber filosófico é uma ciência sem princípios filosóficos."
+},
+{
+"id": 116638,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "Sobre a dimensão político-social, atente ao texto a seguir: [figura] Os seres humanos, escreveram Marx e Engels, distinguem-se dos animais não porque sejam dotados de consciência – animais racionais-, nem porque sejam naturalmente sociáveis e políticos – animais políticos -, mas porque são capazes de produzir as condições de sua existência material e intelectual. A formulação das ideias de Karl Marx sobre a realidade social e política tem significância na forma de conceber um perspectivismo do homem num(a) || A) projeto individualista, na prática existencial. | B) interpretação do ser intelectual do homem. | C) análise do ser social do homem, na sua existência histórica. | D) problematização histórica do homem apartado da análise social. | E) crítica da existência material e intelectual, de forma sensitiva."
+},
+{
+"id": 116688,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "Brincando de construir circunferências e quadrados, Antônio construiu uma figura semelhante à que está representada ao lado. A área pintada dessa figura corresponde a quantos por cento da área total do quadrado? [figura] Considere π = 3,14 || A) 15,53% | B) 17,00% | C) 21,50% | D) 33,40% | E) 34,00%"
+},
+{
+"id": 116689,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "A Pizzaria Italiana vende pizzas inteiras ou em porções (fatias). A tabela abaixo apresenta o número de fatias e o diâmetro de acordo com o tipo da pizza. [figura] Se uma pizza **Broto** inteira custa R$ 27,00, qual deve ser o preço de cada fatia da pizza **Gigante**? || A) R$ 6,50 | B) R$ 4,80 | C) R$ 4,50 | D) R$ 3,90 | E) R$ 3,50"
+},
+{
+"id": 116690,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "O custo de uma corrida de táxi é constituído por um valor inicial C<sub>0</sub> (bandeirada), fixo, mais um valor que varia proporcionalmente à distância *d* percorrida nessa corrida (em quilômetros). Em Recife, por exemplo, os dados para o cálculo do valor a ser pago numa corrida são os seguintes: [figura] Ao sair do supermercado com 10 volumes de compras, Lucas pagou R$ 52,25 por uma corrida comum, na bandeira 2, até sua residência. Se Ian, em atendimento personalizado, saiu de um hotel numa corrida especial na bandeira 2 e fez um percurso de 6 km a mais que Lucas, quanto ele pagou pela corrida? || A) R$ 70,25 | B) R$ 77,52 | C) R$ 78,44 | D) R$ 82,76 | E) R$ 85,40"
+},
+{
+"id": 116691,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "A superfície ao lado, conhecida como faixa de Möebius, foi descoberta pelo matemático e astrônomo alemão August Ferdinand Möebius (1790- 1868). A faixa de Möebius pode ser obtida a partir de uma faixa retangular ABCD, dando-se meio giro numa de suas extremidades e juntando-se os pontos A com D e B com C, conforme as figuras abaixo. [figura] [figura] Caminhando na faixa de Möebius (imagem acima à direita), uma baratinha, sempre sobre a linha escura, saiu do ponto P e a ele retornou percorrendo uma distância de 7,2 m. Qual é a medida do raio da base da superfície cilíndrica obtida com a faixa retangular (imagem acima à esquerda) que gerou a faixa de Möebius? Adote π = 3 || A) 0,54 m | B) 0,58 m | C) 0,60 m | D) 0,63 m | E) 0,70 m"
+},
+{
+"id": 116692,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "Uma reta r de equação ax + by + c = 0 tangencia a circunferência β de equação x<sup>2</sup> + y<sup>2</sup> – 2x – 6y – 8 = 0 no ponto P = (-2, 0). Qual é o valor de a + b + c? || A) 2 | B) 3 | C) 4 | D) 5 | E) 6"
+},
+{
+"id": 116693,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "**Texto 1 (questões de 25 a 30)** **Las otras noches de San Juan** Los acontecimientos astronómicos están detrás de la celebración de numerosas fiestas religiosas en todo el mundo **Llega el solsticio: bienvenido, verano (boreal); bienvenido, invierno (austral)** [figura] Celebración de la celebración \"Inti Raymi\", el pasado día 20, en Cali (Colombia). / LUIS ROBAYO (AFP) La noche de San Juan es el fruto de la cristianización de un rito pagano, la llegada del solsticio de verano. A partir de esta fecha el sol empieza a decaer (los días comienza […] ayhuamán. III. El solsticio es el periodo exclusivo y más caluroso del verano. IV. En el solsticio es cuando hay mayor insolación. V. Hay rito en que las hogueras son para ayudar al sol a calentar. indique la alternativa que contiene todas las aseveraciones que encuentran amparo en el texto: a) I, II y III. b) I, III y IV. c) I, IV y V. d) II, III y IV. e) II, IV y V. “Sexting” in Portuguese means || A) postar fotos, mensagens ou vídeos provocativos em redes sociais. | B) simples e inocente troca de mensagens entre amigos e/ou colegas de escola. | C) uma nova forma de comunicação exclusiva entre colegas de escola. | D) uma comunicação usual realizada entre colegas da escola moderna. | E) conversa rotineira sobre a relação entre duas pessoas adolescentes."
+},
+{
+"id": 116694,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "**Texto 1 (questões de 25 a 30)** **Las otras noches de San Juan** Los acontecimientos astronómicos están detrás de la celebración de numerosas fiestas religiosas en todo el mundo **Llega el solsticio: bienvenido, verano (boreal); bienvenido, invierno (austral)** [figura] Celebración de la celebración \"Inti Raymi\", el pasado día 20, en Cali (Colombia). / LUIS ROBAYO (AFP) La noche de San Juan es el fruto de la cristianización de un rito pagano, la llegada del solsticio de verano. A partir de esta fecha el sol empieza a decaer (los días comienza […] El solsticio es el periodo exclusivo y más caluroso del verano. IV. En el solsticio es cuando hay mayor insolación. V. Hay rito en que las hogueras son para ayudar al sol a calentar. indique la alternativa que contiene todas las aseveraciones que encuentran amparo en el texto: a) I, II y III. b) I, III y IV. c) I, IV y V. d) II, III y IV. e) II, IV y V. “regret” (paragraph two) in Portuguese means || A) gostar. | B) admirar. | C) aprovar. | D) apagar. | E) arrepender-se."
+},
+{
+"id": 116695,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "**Texto 1 (questões de 25 a 30)** **Las otras noches de San Juan** Los acontecimientos astronómicos están detrás de la celebración de numerosas fiestas religiosas en todo el mundo **Llega el solsticio: bienvenido, verano (boreal); bienvenido, invierno (austral)** [figura] Celebración de la celebración \"Inti Raymi\", el pasado día 20, en Cali (Colombia). / LUIS ROBAYO (AFP) La noche de San Juan es el fruto de la cristianización de un rito pagano, la llegada del solsticio de verano. A partir de esta fecha el sol empieza a decaer (los días comienza […] e las hogueras son para ayudar al sol a calentar. indique la alternativa que contiene todas las aseveraciones que encuentran amparo en el texto: a) I, II y III. b) I, III y IV. c) I, IV y V. d) II, III y IV. e) II, IV y V. In the sentence “If someone else has posted sexual or naked photos or videos of you online, report them to the service they posted it on” (paragraph three), “they” is related to || A) photos. | B) videos. | C) someone. | D) sexual photos. | E) naked videos."
+},
+{
+"id": 116696,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "**Texto 1 (questões de 25 a 30)** **Las otras noches de San Juan** Los acontecimientos astronómicos están detrás de la celebración de numerosas fiestas religiosas en todo el mundo **Llega el solsticio: bienvenido, verano (boreal); bienvenido, invierno (austral)** [figura] Celebración de la celebración \"Inti Raymi\", el pasado día 20, en Cali (Colombia). / LUIS ROBAYO (AFP) La noche de San Juan es el fruto de la cristianización de un rito pagano, la llegada del solsticio de verano. A partir de esta fecha el sol empieza a decaer (los días comienza […] icio es el periodo exclusivo y más caluroso del verano. IV. En el solsticio es cuando hay mayor insolación. V. Hay rito en que las hogueras son para ayudar al sol a calentar. indique la alternativa que contiene todas las aseveraciones que encuentran amparo en el texto: a) I, II y III. b) I, III y IV. c) I, IV y V. d) II, III y IV. e) II, IV y V. “them”, “They”, and “Their” (in paragraph seven) are || A) personal pronoun, object pronoun, and possessive pronoun respectively and are related to “the Police”. | B) subject pronoun, personal pronoun, preposition and they are related to “the video/image”. | C) verb, comparative, and preposition and are related to “sent/posted”. | D) object pronoun, personal pronoun, and possessive adjective respectively and are related to “the Police”. | E) subject pronoun, possessive pronoun, and possessive adjective and are related to “the Police.”"
+},
+{
+"id": 116697,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "**Texto 2 (questões 31 e 32)** **III Jornadas Internacionales de Periodismo Medioambiental** **“La comunicación del cambio climático ante la Cumbre de París 2015″** *(con la participación de ECOEMBES)* El cambio climático es uno de los grandes retos a los que se enfrenta la Humanidad de cara al futuro. Y 2015 es un año clave en el camino hacia una sociedad menos dependiente de las fuentes de energía fósiles y más libre de las emisiones causantes del calentamiento global. La cumbre del Clima de París, que tendrá lugar a finales de año, promete s […] a expressão fellow citzens (3º parágrafo), a tradução mais adequada é cidadãos idosos. IV. Na frase: ‘One of the most important amenities, <u>though,</u> is invisible. (2º parágrafo),’ a palavra em destaque corresponde à conjunção <u>portanto.</u> V. Na frase: And <u>film</u> them. (4º parágrafo), a palavra em destaque é um verbo no presente simples e não, um substantivo. Estão **CORRETOS** apenas || A) I, IV e V. | B) I, II e V. | C) III e V. | D) III e IV. | E) I e II."
+},
+{
+"id": 116698,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "**Texto 2 (questões 31 e 32)** **III Jornadas Internacionales de Periodismo Medioambiental** **“La comunicación del cambio climático ante la Cumbre de París 2015″** *(con la participación de ECOEMBES)* El cambio climático es uno de los grandes retos a los que se enfrenta la Humanidad de cara al futuro. Y 2015 es un año clave en el camino hacia una sociedad menos dependiente de las fuentes de energía fósiles y más libre de las emisiones causantes del calentamiento global. La cumbre del Clima de París, que tendrá lugar a finales de año, promete s […]  main branch of the public library, has cafes, entertainment, a* *reading library, lawn games [...];* *Whyte,* <u>*who*</u> *had been involved for more than a decade in the comprehensive plan for New York,* *wondered if all the parks and plazas were actually performing the way the architects and planners* *assumed they would.[...]* Os termos em destaque podem ser substituídos, respectivamente, por || A) *that – that* | B) *those – whose* | C) *that – which* | D) *what – which* | E) *who – that*"
+},
+{
+"id": 116699,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "**Texto 3 (questões 33 e 34)** **Así de fácil es ‘hackear’ tu móvil** <u>**JOSÉ MANUEL ABAD LIÑÁN**</u> **Madrid** <u>**24 MAY 2015 - 15:53 CEST**</u> Aún parece cosa exclusiva de adictos a las novedades, pero el <u>*Internet de las cosas*</u> va instalándose discreto y seguro en el día a día. Relojes inteligentes, pulseras para controlar las pulsaciones o las horas de sueño, incluso los electrodomésticos conectados a la Red, hacen gala de la miniaturización de los procesadores y diseño inteligente, algunos tan deslumbrantes que ocultan carenci […] rata informático es a) estar muy atento a todos los dispositivos informáticos. b) estudiar mucho para ser genios de la informática. c) poder controlar los mecanismos de los dispositivos informáticos*.* d) practicar el *Google hacking***.** e) procurar estropear los dispositivos de los no piratas. **FILOSOFIA** O primeiro parágrafo do texto, que introduz o assunto tratado, apresenta simultaneamente || A) uma exposição de motivos para reformar o parque. | B) um resumo sobre o fundador do parque. | C) um conceito resumido de cidade inteligente. | D) o principal argumento do autor para a reforma do parque. | E) uma breve descrição do parque Bryant."
+},
+{
+"id": 116700,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "**Texto 3 (questões 33 e 34)** **Así de fácil es ‘hackear’ tu móvil** <u>**JOSÉ MANUEL ABAD LIÑÁN**</u> **Madrid** <u>**24 MAY 2015 - 15:53 CEST**</u> Aún parece cosa exclusiva de adictos a las novedades, pero el <u>*Internet de las cosas*</u> va instalándose discreto y seguro en el día a día. Relojes inteligentes, pulseras para controlar las pulsaciones o las horas de sueño, incluso los electrodomésticos conectados a la Red, hacen gala de la miniaturización de los procesadores y diseño inteligente, algunos tan deslumbrantes que ocultan carenci […] tico es a) estar muy atento a todos los dispositivos informáticos. b) estudiar mucho para ser genios de la informática. c) poder controlar los mecanismos de los dispositivos informáticos*.* d) practicar el *Google hacking***.** e) procurar estropear los dispositivos de los no piratas. **FILOSOFIA** According to the context and grammar, the expression to complete the woman’s question (3rd panel) is || A) When did you do | B) Can you listen to | C) When will you do | D) What do you do | E) What is going to"
+},
+{
+"id": 116701,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "**Texto 3 (questões 33 e 34)** **Así de fácil es ‘hackear’ tu móvil** <u>**JOSÉ MANUEL ABAD LIÑÁN**</u> **Madrid** <u>**24 MAY 2015 - 15:53 CEST**</u> Aún parece cosa exclusiva de adictos a las novedades, pero el <u>*Internet de las cosas*</u> va instalándose discreto y seguro en el día a día. Relojes inteligentes, pulseras para controlar las pulsaciones o las horas de sueño, incluso los electrodomésticos conectados a la Red, hacen gala de la miniaturización de los procesadores y diseño inteligente, algunos tan deslumbrantes que ocultan carenci […] [figura] Quando nos interrogamos sobre os fundamentos e os fins da moral, já procedemos a uma investigação teórica num campo que está fora de todos os campos e implica todos. Essa reflexão teórica, que já iniciamos graças a um primeiro distanciamento, nada mais é que a ética geral ou a ciência moral. Sobre a temática da moral e ética, de que trata o texto acima, assinale a alternativa **CORRETA.** || A) O campo da ética concerne à teoria e prática morais. | B) O primado da moral está isento do selo da história. | C) Os problemas no campo da ciência moral não se distinguem dos problemas morais da vida cotidiana. | D) A investigação teórica ou moral diz respeito aos princípios e às normas. | E) Entre a ética geral e a moral, não se percebe nenhum diferencial."
+},
+{
+"id": 116702,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "Sobre a questão democrática, leia o texto a seguir: A ação democrática consiste em todos tomarem parte do processo decisório sobre aquilo que terá consequência na vida de toda a coletividade. Quem pode dizer o que é bom para todos? Aquele mesmo que irá provar – o próprio ser humano. Se não de forma direta, pelo menos por meio de seus representantes, desde que ele se mantenha ativo e vigilante, acompanhando o trabalho daqueles que elegeu. O texto retrata alguns tópicos sobre o sentido da ação democrática. Nessa linha de pensamento, é **CORRETO** afirmar que || A) pensar a democracia é atentar para a discussão, num campo restrito, sobre a coisa pública. | B) a democracia está desatrelada das questões ético-políticas e ligada à cidadania. | C) na ação democrática, o ser humano deve abdicar da discussão política e priorizar a ação vigilante daqueles que | D) o agir democrático não supõe o pensamento divergente; o conflito não faz parte desse processo. | E) no âmbito da coletividade e da coisa pública, a politização e a consciência crítica estão presentes no process"
+},
+{
+"id": 116703,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "Atente ao texto a seguir sobre o tema da ética e política: Para falar de ética hoje em dia, temos de ter consciência de que qualquer tentativa de construir uma ciência dos valores terá, diante de si, a árdua tarefa de desvendar a trama da ruptura da ética com a política, que caracteriza o processo de formação da modernidade. No texto acima, o autor faz uma reflexão filosófica sobre a discussão no plano da Ética e da Política. No âmbito dessa temática, é **CORRETO** afirmar que || A) na esfera política, devem ser considerados os valores econômicos, sobrepondo os valores morais. | B) na modernidade, a vida moral e a vida do poder estão em convergência. | C) no problema político, os valores morais são irrelevantes. | D) o engajamento na esfera política prescinde do plano da ética. | E) na esfera política, é imprescindível a fronteira da ética."
+},
+{
+"id": 116704,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "Sobre o conhecimento filosófico e a liberdade humana, leia o texto a seguir: [figura] ...não temos, nem atrás de nós nem diante de nós, no domínio luminoso dos valores, justificações ou desculpas. Estamos sós e sem desculpas. É o que traduzirei dizendo que o homem está condenado a ser livre. Condenado porque não se criou a si próprio e, no entanto, livre porque, uma vez lançado ao mundo, é responsável por tudo o quanto fizer. SARTRE, Jean-Paul. Segundo o autor, || A) a liberdade do homem compreende os valores religiosos. | B) a liberdade do homem se justifica pela sua desculpa. | C) a liberdade humana prende-se à irresponsabilidade. | D) a liberdade do homem é fruto de sua escolha. | E) a liberdade humana prioriza a salvação e o valor do sentimento."
+},
+{
+"id": 116705,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "Sobre o homem, a cidadania e a política, atente ao texto a seguir: O homem verdadeiramente político também goza a reputação de haver estudado a virtude acima de todas as coisas, pois que ele deseja fazer os seus concidadãos serem bons e obedientes às leis. Mas a virtude que devemos estudar é, fora de qualquer dúvida, a virtude humana, porque humano era o bem, e humana, a felicidade que buscávamos. Aristóteles, no seu tratado sobre a Ética e a Política, estabelece alguns pontos significativos para a compreensão do comportamento do ser humano e d […] : I. A justiça política estabelece a ordem e harmonia; é ordenadora do bem incomum a todos os cidadãos. II. A dimensão política prescinde da formação cidadã. III. A política e a virtude ética visam formar o humano para a justiça e gerir o bem comum a todos os cidadãos. IV. É condição básica para a cidadania os preceitos da política apartados dos preceitos da virtude. Está(ão) **CORRETO(S)** apenas || A) I, III e IV. | B) II e III. | C) II, III e IV. | D) I e III. | E) III."
+},
+{
+"id": 116736,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "De acordo com a matéria publicada no Jornal do Commercio, em 14 de maio de 2014, ocorreu uma “explosão de dengue” em Campinas, interior de São Paulo. Lá se identificou a maior epidemia de dengue, com mais de 17 mil casos registrados entre janeiro e abril do referido ano. Sobre essa epidemia de dengue na cidade paulista, analise o gráfico a seguir: [figura] Com base nessas informações, analise as afirmativas a seguir: I. A média de casos de dengue entre os anos de 2001 e 2005 é superior a 500 casos por ano. II. Em comparação ao ano de 1998, só houve aumento superior a 50% dos casos nos anos de 2002, 2007, 2010, 2011, 2013 e 2014. III. De janeiro a abril de 2014, houve um aumento superior a 140% nos casos dessa doença, em comparação ao ano de 2013. Está **CORRETO** o que se afirma, apenas, em || A) I. | B) II. | C) I e II. | D) I e III. | E) II e III."
+},
+{
+"id": 116737,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "João está procurando cercar um terreno triangular que ele comprou no campo. Ele sabe que dois lados desse terreno medem, respectivamente, 10 m e 6 m e formam entre si um ângulo de 120<sup>o</sup>. O terreno será cercado com três voltas de arame farpado. Se o preço do metro do arame custa R$ 5,00, qual será o valor gasto por João com a compra do arame? [figura] Dados: sen de 120º = || A) R$ 300,00 | B) R$ 420,00 | C) R$ 450,00 | D) R$ 500,00 | E) R$ 520,00"
+},
+{
+"id": 116738,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "1º Dia Página 13 [figura] O retângulo ABCD, representado a seguir, tem área cuja medida é de 18 cm². Qual é a razão entre a medida da área da parte pintada e a medida da área total do retângulo? Considere π = 3,0 || A) 1/4 | B) 1/5 | C) 1/6 | D) 1/7 | E) 1/8"
+},
+{
+"id": 116739,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "A medida da área do triângulo retângulo, representado a seguir, é de 12,5 cm². Qual é o valor aproximado do Seno do ângulo“θ”? [figura] Considere \\(\\widehat{√}\\) = 1,4. || A) 0,45 | B) 0,52 | C) 0,61 | D) 0,71 | E) 0,85"
+},
+{
+"id": 116740,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Um professor de matemática apresentou a seguinte função quadrática para os seus alunos: *F<sub>1</sub>(x)* *= x² - 2x + 1*. Em seguida, começou a alterar os valores do termo independente de x dessa função, obtendo três novas funções: *F<sub>2</sub>(x) = x² - 2x + 8;* *F<sub>3</sub>(x) = x² - 2x + 16;* *F<sub>4</sub>(x) = x² - 2x + 32.* Sobre os gráficos de *F<sub>2</sub>(x), F<sub>3</sub>(x) F<sub>4</sub>(x),* em relação ao gráfico da função *F<sub>1</sub>(x),* é **CORRETO** afirmar que || A) interceptarão o eixo “x” nos mesmos pontos. | B) interceptarão o eixo “y” nos mesmos pontos. | C) terão o mesmo conjunto imagem. | D) terão a mesma abscissa (terão o mesmo “x” do vértice). | E) terão a mesma ordenada (terão o mesmo “y” do vértice)."
+},
+{
+"id": 116741,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "No dia 01/08/2016, os saldos nas contas poupança de Carlos e Marco eram de, respectivamente, R$ 8 400,00 e R$ 2 800,00. Se, no primeiro dia de cada mês subsequente a agosto de 2016, Carlos retira R$ 240,00, e Marco deposita R$ 200,00, desconsiderando a correção monetária, quando é que o saldo na conta poupança de Marco irá ultrapassar o saldo na conta poupança de Carlos? || A) Janeiro de 2017 | B) Fevereiro de 2017 | C) Março de 2017 | D) Agosto de 2017 | E) Setembro de 2017"
+},
+{
+"id": 116742,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Em torno de um canteiro retangular de 12 m de comprimento por 8 m de largura, pretende-se construir uma calçada. Qual deve ser a largura máxima dessa calçada, se o material disponível só é 2 suficiente para cimentar uma área de 69 m ? || A) 1,0 m | B) 1,5 m | C) 2,0 m | D) 2,5 m | E) 3,0 m"
+},
+{
+"id": 116743,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Rodrigo estava observando o pisca-pisca do enfeite natalino de sua casa. Ele é composto por lâmpadas nas cores amarelo, azul, verde e vermelho. Rodrigo notou que lâmpadas amarelas acendem a cada 45 segundos, as lâmpadas verdes, a cada 60 segundos, as azuis, a cada 27 segundos, e as vermelhas só acendem quando as lâmpadas das outras cores estão acesas ao mesmo tempo. De quantos em quantos minutos, as lâmpadas vermelhas acendem? || A) 6 | B) 9 | C) 12 | D) 15 | E) 18"
+},
+{
+"id": 116744,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "1º Dia Página 16 **FÍSICA** ***Nas questões com respostas numéricas, considere o módulo da aceleração da gravidade*** ***como g = 10,0 m/s<sup>2</sup> e a*** **constante da gravitação universal como G = 6,7 x 10<sup>-11</sup> m<sup>3</sup>kg<sup>-1</sup>s<sup>-2</sup> e** ***utilize*** ***π = 3.*** Como um velocista, Bolt passa muito pouco tempo correndo. Em todas as finais olímpicas das* *quais participou, nos últimos três jogos (Pequim, Londres e Rio), ele correu um total de ―apenas‖ 114* *segundos, ou seja, nem dois minutos.* [figura] * O te […] tada uma polia P1 de 4 cm de raio que, através de uma correia, está acoplada ao eixo de um motor elétrico. O motor gira a correia em uma polia P2, que possui 1 cm de raio. Supondo que Usain Bolt desenvolvesse a velocidade média da prova 4x100 m dos Jogos Olímpicos Rio 2016, utilizando a esteira ergométrica descrita anteriormente, qual seria a velocidade aproximada de rotação da polia P1 em r.p.m.? || A) 40000 | B) 20000 | C) 10000 | D) 5000 | E) 1000"
+},
+{
+"id": 116745,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "[figura] Um veículo aéreo não tripulado (VANT), também conhecido como “*drone*”, percorre, em 2,0 segundos, a trajetória curva entre dois pontos A e B que pertencem a um mesmo plano horizontal. A figura a seguir ilustra a vista superior do movimento. Sabendo que o veículo de 250 g de massa realiza o movimento com altura constante em relação ao solo, é **CORRETO** afirmar que, entre os pontos A e B, || A) o módulo da velocidade média do veículo foi igual a 6,0 m/s. | B) o módulo da força resultante média que produziu essa trajetória foi igual a 0,5 N. | C) o módulo do impulso sobre o veículo foi igual a 0,5 Ns. | D) o módulo da aceleração média do veículo foi igual a 2(3)<sup>1/2</sup> m/s<sup>2</sup>. | E) a força de sustentação média em suas asas foi igual a 25 N."
+},
+{
+"id": 116746,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "No jogo de caça-monstros para *smartphones,* que usa realidade virtual, os jogadores devem caminhar por diversos pontos de uma cidade, a fim de encontrarem monstros virtuais para a sua coleção e promover a sua evolução. Em julho do corrente ano, estima-se que aproximadamente 10 milhões de pessoas tenham jogado esse *game* somente nos Estados Unidos. Supondo que esses jogadores utilizem duas horas do dia para jogar, caminhando a uma velocidade de 1 m/s, e sabendo que em uma caminhada, gasta-se, em média, 4200 J de energia por quilômetro percorrido, a potência média dispendida associada a essa população de jogadores, em MW, é igual a || A) 12 | B) 20 | C) 42 | D) 72 | E) 84"
+},
+{
+"id": 116747,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "[figura] Suponha que, em uma prova olímpica de ciclismo BMX, presente nos Jogos Olímpicos desde a Olimpíada de Pequim 2008, um atleta percorre um trecho de pista de corrida cujo corte lateral é mostrado na figura a seguir. A partir desse corte, percebe-se que o atleta viaja por segmentos de pista retos e por semicírculos onde RD < RB < RE. Se o atleta pedala e utiliza os freios de forma a ter velocidade constante no trecho mostrado, o ponto de maior intensidade da reação normal da pista sobre a bicicleta é || A) A | B) B | C) C | D) D | E) E"
+},
+{
+"id": 116748,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "[figura] Em uma prova olímpica de arremesso de peso, o atleta atira, sob um ângulo θ em relação à horizontal, um objeto esférico de massa m, com energia cinética E, de maneira a obter maior alcance possível. Veja a representação esquemática a seguir. Em um arremesso desse tipo, h é aproximadamente igual a 2,0 m, e o ângulo de lançamento está entre 31° e 43°, quando considerada a resistência do ar. Não havendo resistência do ar, a energia cinética do projétil no ponto mais alto dessa prova seria || A) E(cos31°)<sup>2</sup> | B) E(sen43°)<sup>2</sup> | C) E(tan43°)<sup>2</sup> | D) E/2 | E) E/4"
+},
+{
+"id": 116749,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "[figura] Em um treino de corrida, a velocidade de um atleta foi registrada em função do tempo, conforme ilustra a figura a seguir. A distância total percorrida pelo corredor, em metros, durante o período de tempo em que ele possuía aceleração diferente de zero, é || A) 4 | B) 7 | C) 8 | D) 14 | E) 22"
+},
+{
+"id": 116750,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Em uma aula de educação física, o professor convida os estudantes para observar o movimento de uma bola de basquete de 500 g, arremessada contra o solo. Nesse experimento, as velocidades da bola imediatamente antes e depois da colisão foram determinadas e estão mostradas na figura a seguir. Três afirmações propostas pelo professor acerca da colisão da bola com o chão devem ser analisadas pelos estudantes como verdadeiras (V) ou falsas (F). São elas: ( ) O impulso sobre a bola possui direção vertical e para baixo. ( ) O módulo da variação da quantidade de movimento da bola é igual a 18 kg m/s. ( ) A Terceira Lei de Newton não se aplica nesse caso. [figura] A sequência **CORRETA** encontra-se na alternativa || A) F-V-V | B) V-V-F | C) F-F-V | D) V-F-V | E) F-V-F"
+},
+{
+"id": 116751,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Os campeões olímpicos e paralímpicos, Cesar Cielo e Guizni Li, possuem os recordes na prova de natação nos 50 m livres, fazendo a prova em 21,30 s e 30,73 s, respectivamente. Baseado nesses fatos, assinale a alternativa **CORRETA.** || A) Os dois atletas percorreram distâncias diferentes. | B) A velocidade média de Cesar Cielo é igual à de Guizni Li. | C) A velocidade final dos atletas na prova de natação de 50 metros livres é zero. | D) A velocidade instantânea é proporcional a distância total percorrida. | E) Durante a prova, a energia mecânica dos atletas não é conservada."
+},
+{
+"id": 116752,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "**Text 1** (questions 33, 34, and 35) ***MULTIPLE INTELLIGENCES*** [figura] Howard Gardner believes that a person __________ is good at math is not more intelligent than someone who is good at sports. He believes they are intelligent in a different way. Howard Gardner is a psychologist, and a long time __________ (in 1983) he wrote a book about his theory. In his view there is not just one kind of intelligence – there are multiple intelligences. It‟s possible to be good (or not so good) at one or more of them. You can have trouble __________ wo […]  idea __________ „multiple intelligences‟ is very interesting. It‟s also really useful. People __________ a strong musical intelligence for example, can use songs to help them learn. You can also develop your weaker intelligences to give yourself more choices and to make your life more interesting. Use the words WITH, OF, WHO, WITH, AGO to complete the blanks in the text. The **CORRECT** order is: || A) who / ago / with / of / with | B) ago / with / with / who / of | C) with / who / ago / of / with | D) of / with / who / with / ago | E) who / of / with / ago / with"
+},
+{
+"id": 116753,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "**Text 1** (questions 33, 34, and 35) ***MULTIPLE INTELLIGENCES*** [figura] Howard Gardner believes that a person __________ is good at math is not more intelligent than someone who is good at sports. He believes they are intelligent in a different way. Howard Gardner is a psychologist, and a long time __________ (in 1983) he wrote a book about his theory. In his view there is not just one kind of intelligence – there are multiple intelligences. It‟s possible to be good (or not so good) at one or more of them. You can have trouble __________ wo […] e interesting. After reading the text, mark T (true) or F (false). ( ) Some people are intelligent but others aren‟t. ( ) No one is stupid. Everyone is intelligent. ( ) Different people are intelligent in different ways. ( ) There‟s just one kind of intelligence. ( ) People with a strong musical intelligence can help to learn just songs. Mark the alternative that contains the **CORRECT** sequence. || A) F – T – F – T – T | B) T – F – T – T – F | C) F – F – T – T – F | D) F – T – T – F – F | E) T – T – T – F – F"
+},
+{
+"id": 116754,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "**Text 1** (questions 33, 34, and 35) ***MULTIPLE INTELLIGENCES*** [figura] Howard Gardner believes that a person __________ is good at math is not more intelligent than someone who is good at sports. He believes they are intelligent in a different way. Howard Gardner is a psychologist, and a long time __________ (in 1983) he wrote a book about his theory. In his view there is not just one kind of intelligence – there are multiple intelligences. It‟s possible to be good (or not so good) at one or more of them. You can have trouble __________ wo […] eally good at connecting with other people! The idea __________ „multiple intelligences‟ is very interesting. It‟s also really useful. People __________ a strong musical intelligence for example, can use songs to help them learn. You can also develop your weaker intelligences to give yourself more choices and to make your life more interesting. What‟s _______________ profession? He‟s a __________. || A) Gardner is / mathematician | B) Gardner‟s / psychologist | C) Gardners‟ / player | D) Gardner‟s is / writer | E) Gardners‟ is / musician"
+},
+{
+"id": 116755,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "**Text 2** (questions 36 and 37) [figura] The Voyager Golden Record is a phonographic disc that was included on the Voyager spacecraft in 1977. The twelve-inch gold and copper disc contains sounds and images that show the diversity of life and culture on Earth. The idea behind it is to communicate a story of our world to extraterrestrials. A NASA committee, organized by Carl Sagan of Cornell University, collected 115 images and a series of natural sounds of the planet and added music from different cultures and eras and spoken greetings from pe […] e a ideia que eles apresentam em cada trecho. I. *‗The* <u>*twelve-*</u>*inch gold and copper disc…‘* (paragraph 1). II. *‗collected* <u>*115*</u> *images and a series of natural sounds…‘* (paragraph 1). III. „*and spoken greetings from people in* <u>*fifty-five*</u> *languages…*‟(paragraph 1). IV. *‗It could take* <u>*forty thousand*</u> *years…* (paragraph 3). Assinale a alternativa **CORRETA**. || A) In sentence I, idea of measurement. | B) In sentence II, idea of geographical distance. | C) In sentence III, idea of position or order. | D) In sentences I and IV, idea of time and space. | E) In sentence IV, idea of order or position."
+},
+{
+"id": 116756,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "**Text 2** (questions 36 and 37) [figura] The Voyager Golden Record is a phonographic disc that was included on the Voyager spacecraft in 1977. The twelve-inch gold and copper disc contains sounds and images that show the diversity of life and culture on Earth. The idea behind it is to communicate a story of our world to extraterrestrials. A NASA committee, organized by Carl Sagan of Cornell University, collected 115 images and a series of natural sounds of the planet and added music from different cultures and eras and spoken greetings from pe […] encountered and the record played only if there are advanced civilizations in space. But the launching of this bottle into the cosmic ocean says something very hopeful about life on this planet.‟ A parte destacada em *‗But* <u>*the launching of this bottle into the cosmic ocean*</u> *says something very* *hopeful about life on this planet.‘* apresenta sentido conotativo, do qual se depreende um(a) || A) ironia em relação ao conteúdo diversificado e amplo do disco. | B) alusão a um provável pouso da espaçonave no oceano. | C) exagero no que se refere à diversidade de informação do disco. | D) comparação /alusão a uma prática antiga de envio de mensagens. | E) estranhamento em relação às formas de vida do planeta Terra."
+},
+{
+"id": 116757,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Read this passage which is on the phonographic disc included on the Voyager spacecraft: *―This is a present from a small, distant world, a token of our sounds, our science, our images,* *our music, our thoughts and our feelings. We are attempting to survive our time so we may* *live into __________.‖ (US President Jimmy Carter)* Considering both context and grammar, the **CORRECT** word or phrase to fill in the statement is || A) *your.* | B) *their.* | C) *theirs time.* | D) *yours time.* | E) *yours.*"
+},
+{
+"id": 116759,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Sobre o Mito no mundo atual, considere o texto a seguir: [figura] Os meios de comunicação (televisão, jornais, etc.) utilizam a palavra Mito com um significado diferente, quando se referem a artistas, que, num determinado momento, ganham destaque por causa de um filme ou música de sucesso. Mas, mesmo nesse caso, os “Mitos” do mundo artístico são assim chamados, porque atribuímos a eles qualidades que consideramos dignas de um deus. Assim, é **CORRETO** afirmar que no mundo atual || A) o Mito narra as habilidades divinas, transmitidas aos homens pelos deuses. | B) o Mito retrata tanto a significância quanto a primeira atribuição de sentido ao mundo. | C) o Mito tem importância pelo fato de ser a primeira forma de dar significado ao mundo. | D) o Mito na totalidade do real, não apresenta mais abrangência nem o distintivo existencial que havia na sua ori | E) o Mito possibilita ao homem lutar e viver criticamente contra tudo o que lhe é adverso."
+},
+{
+"id": 116760,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Leia o texto a seguir: O exemplo dos filósofos gregos nos deixou uma grande lição: nunca se conformar com as estruturas existentes como se fossem as únicas possíveis. Quem quer ser criativo no seu momento histórico deve refletir atenta e criticamente: é preciso filosofar. Filosofar é preciso para participar criativamente da luta pela humanização. No tocante ao pensamento grego, assinale a alternativa **CORRETA.** || A) No pensamento grego, o diálogo foi o exercício da filosofia de Sócrates para expandir um projeto de humanizaçã | B) No pensamento grego, a busca pelo bem na vida em sociedade estaria dissociada da criticidade. | C) Filosofar é refletir as estruturas existentes; o bem e a verdade seriam separáveis do ato de humanização. | D) No pensamento grego, o conhecimento deve estar atrelado às impressões sensoriais; ser criativo é permanecer na | E) A dimensão relacional entre o conceito e a realidade tem valor secundário na esfera crítica da filosofia."
+},
+{
+"id": 116761,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Sobre a Condição Humana, analise o texto a seguir: [figura] A natureza é muda. Embora pareça estar expressando algo através de suas formas, suas paisagens, suas tempestades tumultuosas, suas erupções vulcânicas, sua brisa ligeira e seu silêncio – a natureza não responde. Os animais reagem de maneira que têm sentido, mas não falam. Só o homem fala. Só entre os homens, existe essa alternância de discurso e resposta continuamente compreendidos. Só o homem, pelo pensamento, tem consciência de si. No contexto da reflexão sobre a Condição Humana, fica evidente que || A) a dimensão da linguagem simbólica é condição preponderante no homem. | B) a singularidade da cultura é secundária à condição humana. | C) a evolução do homem prescinde da educação para se humanizar. | D) pelo pensamento, a condição humana é essencialmente dissociável. | E) no ato de pensar e na consciência de si, a condição do homem é idêntica à condição animal."
+},
+{
+"id": 116762,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Observe o texto a seguir sobre a gênese do pensamento filosófico. Com a filosofia, novo critério de verdade se impunha: o critério da logicidade. Verdade é aquilo, que concorda com as leis do lógos (pensamento, razão). É a razão, que nos dá garantia da verdade, porque o real é racional. Sobre a gênese do pensamento filosófico, está **CORRETO** afirmar que || A) a evidência da verdade com o crivo da racionalidade tem resposta no mito. | B) o critério da logicidade está presente na adesão à crença e ao mito. | C) a gênese do pensar filosófico e a inspiração criadora de sentidos consistem na fantasia. | D) a origem do pensamento filosófico surge entre os gregos, no século VI aC, na busca por explicação do sobrenatu | E) o despertar da filosofia grega surge na verdade argumentada da razão com o critério da interpretação."
+},
+{
+"id": 116775,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Um grupo com 50 escoteiros vai acampar durante 28 dias. Eles precisam comprar uma quantidade de açúcar suficiente para esses dias e já sabem que a média de consumo por semana, para 10 pessoas é de 3 500 gramas de açúcar. Quantos quilogramas de açúcar são necessários para os 28 dias de acampamento desse grupo? || A) 15, 5 | B) 17,5 | C) 35 | D) 50,5 | E) 70"
+},
+{
+"id": 116776,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Segundo matéria do Caderno Cidades do Jornal do Commercio, publicada em 8 de maio de 2016, um relatório oficial de assaltos a coletivos entre janeiro e abril de 2016 apontou os locais e as linhas de ônibus que mais sofreram esse tipo de violência no período citado. Com base nessas informações, analise o gráfico publicado na referida matéria. [figura] De acordo com o gráfico, a média, a mediana e a moda do número de assaltos por local são respectivamente: || A) 19; 20 e 12. | B) 23; 19,5 e 12. | C) 19; 12 e 46. | D) 23; 12 e 19. | E) 19,5; 12 e 18."
+},
+{
+"id": 116777,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Um cone reto está inscrito num cubo de aresta 8 cm. Se a altura do cone e o diâmetro de sua base têm medidas iguais, qual é a diferença entre as medidas dos seus volumes? Considere π = 3,0 || A) 128 cm<sup>3</sup> | B) 256 cm<sup>3</sup> | C) 384 cm<sup>3</sup> | D) 424 cm<sup>3</sup> | E) 512 cm<sup>3</sup>"
+},
+{
+"id": 116778,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Márcia e Marta juntas ―pesam‖ 115 kg; Marta e Mônica ―pesam‖ juntas 113 kg, e Márcia e Mônica ―pesam‖ juntas 108 kg. Qual é a soma dos ―pesos‖ de Márcia, Marta e Mônica? || A) 205 kg | B) 195 kg | C) 187 kg | D) 175 kg | E) 168 kg"
+},
+{
+"id": 116779,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Quando resolvemos a expressão (**7777)² - (2223)²,** encontramos o seguinte resultado: || A) 5,554.10<sup>0</sup> | B) 5,554.10<sup>2</sup> | C) 5,554.10<sup>4</sup> | D) 5,554.10<sup>7</sup> | E) 5,554.10<sup>8</sup>"
+},
+{
+"id": 116780,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "**FÍSICA** Um aprendiz de cozinheiro colocou 1,0 litro de água em temperatura ambiente (25°C) numa panela sem tampa e a deixou aquecendo em um fogão elétrico, sobre uma boca de potência de 2000 W. Considerando-se que toda a energia fornecida pela boca é absorvida pela água, qual o tempo mínimo aproximado em que toda a água evapora? Dados: || A) 18,2 min calor latente de vaporização da água = 2256 kJ/kg | B) 21,4 min calor específico da água = 4,2 kJ/kg°C | C) 36,0 min densidade da água = 1000 kg/m<sup>3</sup> | D) 42,7 min | E) 53,8 min"
+},
+{
+"id": 116781,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Um estudo do ciclo termodinâmico sobre um gás que está sendo testado para uso em um motor [figura] à combustão no espaço é mostrado no diagrama a seguir. Se ∆Eint representa a variação de energia interna do gás, e Q é o calor associado ao ciclo, analise as alternativas e assinale a **CORRETA**. || A) ∆E<sub>int</sub> = 0, Q > 0 | B) ∆E<sub>int</sub> = 0, Q < 0 | C) ∆E<sub>int</sub> > 0, Q < 0 | D) ∆E<sub>int</sub> < 0, Q > 0 | E) ∆E<sub>int</sub> = 0, Q = 0"
+},
+{
+"id": 116782,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Como funciona o foco automático das câmeras fotográficas? *Existem basicamente dois sistemas: o primeiro é o usado por câmeras do tipo reflex. Apertando* *levemente o botão disparador, alguns fachos de luz entram na máquina e, depois de rebatidos,* *atingem um sensor. Este envia as informações para um microprocessador dentro da máquina, que* *calcula a distância e ajusta o foco por meio de um pequeno motor, que regula a lente na posição* *adequada. O segundo sistema é aquele, que envia raios de luz infravermelha, usado em geral por* *máquinas c […]  de uma sala. Para isso, utilizou-se uma câmera de foco automático, do tipo reflex, instalada no centro da parede AB, e um espelho em toda a parede CD, conforme ilustra a figura a seguir (vista superior da sala). A sala, de formato retangular, possui dimensões 12 m x 4 m x 3 m. Então, para focar **CORRETAMENTE** um objeto no ponto A da sala, na mesma altura da câmera, o foco deverá ser ajustado em || A) 4 m. | B) 6 m. | C) 8 m. | D) 10 m. | E) 16 m."
+},
+{
+"id": 116783,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "O primeiro banho de um recém-nascido só deve acontecer cerca de seis horas após o* *nascimento, quando sua temperatura corporal e suas funções cardiorrespiratórias estiverem* *estáveis. (...) A temperatura ideal da água é entre 36°C e 37°C. É possível medir a temperatura com* *termômetros específicos para o banho ou usando o antebraço. É comum que a temperatura ideal da* *água para o banho do bebê dê a impressão de morna aos adultos. Por isso, testar no antebraço ou* *com o dorso da mão é mais eficiente.* Seguindo as recomendações, uma mãe que vai dar banho em seu filho recém-nascido vai misturar duas porções de água: uma com temperatura de 20°C (fria) e outra mais quente, ambas em uma banheira de 20 litros. A banheira deve estar com água fria em 2/3 de sua capacidade antes de se misturar à porção de água quente. Quantos litros de água a mãe deve ferver a 100º C para misturar com a água fria, visando atingir a temperatura ideal do banho de 36°C ? || A) 0,30 | B) 1,20 | C) 3,33 | D) 16,7 | E) 53,3"
+},
+{
+"id": 116784,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "A Lei 13.290 modifica o Art.40 do Código de Trânsito Brasileiro e diz: ―O condutor manterá acesos os faróis do veículo, utilizando luz baixa durante a noite e durante o dia, nos túneis providos de iluminação pública e nas rodovias;‖. (...) Aumenta mesmo a visibilidade? Sim. Mesmo de dia, a luz faz diferença; afirma-se que, ao acender os faróis, a visibilidade do veículo aumenta em 60%. (...) Em situações de Sol a pino, que criam ―miragens‖ na pista (efeito de pista molhada), é muito difícil distinguir se um veículo está vindo em sua direção ou  […] o são as colisões frontais. Embora sejam apenas 4,1% das ocorrências, causam 33,7% dos óbitos. Essas colisões acontecem, principalmente, em tentativas malsucedidas de ultrapassagem. Já com a luz acesa, o veículo pode ser visto antes, prevenindo quem vem na direção oposta, evitando acidentes. Acerca das informações do texto e dos conhecimentos básicos da óptica geométrica, é **CORRETO** afirmar que || A) a cor de um veículo não influencia na sua visibilidade por parte de outros motoristas. | B) o fenômeno da ―miragem‖ citado no texto pode ser explicado por efeitos decorrentes da refração e reflexão da l | C) o tempo de reação de um motorista – intervalo de tempo entre visualizar um objeto e promover uma intervenção n | D) um total de 4,1% das ocorrências de colisões aconteceram porque os faróis dos veículos estavam apagados. | E) o fenômeno da ressonância luminosa explica, de forma mais completa, a ―miragem‖ observada por motoristas em um"
+},
+{
+"id": 116785,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Fotógrafos amadores e profissionais estão utilizando cada vez mais seus smartphones para tirar suas fotografias. A melhora na qualidade das lentes e dos sensores ópticos desses aparelhos está popularizando rapidamente a prática da fotografia, e o número de acessórios e lentes, que se acoplam aos aparelhos, só cresce. Um experimento foi conduzido a fim de produzir um acessório que consiste de uma lente convexa. A distância d da imagem real formada por um objeto posicionado sobre o eixo da lente, a uma distância D até ela, foi anotada em um gráfico. A figura que representa, de forma **CORRETA**, o resultado do gráfico desse experimento é || A) [figura] | B) [figura] | C) [figura] | D) [figura] | E) [figura]"
+},
+{
+"id": 116786,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Em dias com grandes variações de temperatura, um fenômeno curioso pode ocorrer em alguns copos de vidro: racham, quebram ou explodem sem nenhum impacto ou queda. Com base nas propriedades térmicas do vidro utilizado na fabricação do copo, uma explicação para esse fenômeno é || A) a baixa condutividade térmica. | B) a alta condutividade térmica. | C) o calor específico alto. | D) o baixo ponto de fusão. | E) o alto ponto de fusão."
+},
+{
+"id": 116787,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "As máquinas térmicas são capazes de converter calor em trabalho. Elas funcionam em ciclos e* *utilizam duas fontes de temperaturas diferentes: uma quente, de onde recebe calor, e uma fria, para* *onde o calor rejeitado é direcionado. A respeito das máquinas térmicas, é importante saber que elas* *não transformam todo o calor em trabalho, ou seja, o rendimento de uma máquina térmica é sempre* *inferior a 100%.* Um esquema de máquina térmica eficiente é mostrado na figura a seguir: [figura] No que diz respeito à máquina representada, assinale a alternativa **CORRETA**. || A) Ela é ideal. | B) Pode funcionar como esquematizada, uma vez que não viola as Leis da Termodinâmica. | C) Só pode funcionar entre essas temperaturas, se o calor rejeitado for igual a 12 kJ. | D) Trabalha abaixo da eficiência de Carnot. | E) Não pode funcionar da forma esquematizada."
+},
+{
+"id": 116788,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "**Text 1** (questions 33, 34 and 35) [figura] Everywhere you look you‘ll find surveys and questionnaires in magazines, newspaper articles, best-selling books, TV shows… all giving one clear message: women and men are different. Apparently, we can‘t get along because we communicate too differently. We don‘t understand each other. Women think one thing, men think another. A woman is cooperative, a man is competitive. Women are good communicators, and can relate to people well, whereas men are more action-oriented and driven by results. A woman ca […] ading the text, complete the summary by choosing the correct options below. This article suggests that men and women are __________ from one another. Recent research shows that exaggerated media claims of differences between men and women are __________ by scientific evidence. In fact, the article warns that focusing on gender difference is __________ to women of all ages. The **CORRECT** order is || A) very different / partly supported / useful | B) not very different / fully supported / amusing | C) fairly different / partly supported / harmful | D) not very different / not supported / harmful | E) fairly different / not supported / useful"
+},
+{
+"id": 116789,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "**Text 1** (questions 33, 34 and 35) [figura] Everywhere you look you‘ll find surveys and questionnaires in magazines, newspaper articles, best-selling books, TV shows… all giving one clear message: women and men are different. Apparently, we can‘t get along because we communicate too differently. We don‘t understand each other. Women think one thing, men think another. A woman is cooperative, a man is competitive. Women are good communicators, and can relate to people well, whereas men are more action-oriented and driven by results. A woman ca […] to think that they can succeed in math the same way that many boys are. This is because people often believe media claims that girls aren‘t as good at math as boys. Perhaps it‘s time to celebrate what bring us together, rather than focus on what divides us. The word *THEIR* (paragraph 3) in the sentence ―*… both in the workplace and in their relationships* *with their husbands or boyfriends*‖ is a || A) modal verb. | B) preposition. | C) personal pronoun. | D) possessive pronoun. | E) possessive adjective."
+},
+{
+"id": 116790,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "**Text 1** (questions 33, 34 and 35) [figura] Everywhere you look you‘ll find surveys and questionnaires in magazines, newspaper articles, best-selling books, TV shows… all giving one clear message: women and men are different. Apparently, we can‘t get along because we communicate too differently. We don‘t understand each other. Women think one thing, men think another. A woman is cooperative, a man is competitive. Women are good communicators, and can relate to people well, whereas men are more action-oriented and driven by results. A woman ca […]  the consequences of these claims. For example, girls studying in school are not always encouraged to think that they can succeed in math the same way that many boys are. This is because people often believe media claims that girls aren‘t as good at math as boys. Perhaps it‘s time to celebrate what bring us together, rather than focus on what divides us. The word *BOTH* (paragraph 3) is related to || A) workplace and relationships. | B) men and women. | C) act and communicate. | D) husbands or boyfriends. | E) claims of gender."
+},
+{
+"id": 116791,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "**Texto 2** [figura] Sobre o texto 2, é **CORRETO** afirmar que || A) as irmãs Patty e Mildred Hill, autoras da canção hoje conhecida como *“the birthday song”*, nunca reclamaram s | B) as duas irmãs Hill, verdadeiras compositoras, a princípio, não autorizaram a execução do *“birthday song”* em  | C) as irmãs Hill, duas professoras norte-americanas, compuseram a canção de que fala o texto originalmente com ou | D) as irmãs Hill compuseram ―*the birthday song*‖, para que os professores de escolas nos EUA celebrassem o anive | E) os direitos autorais do ―*birthday song”* foram reclamados por Jessica Hill, irmã das compositoras, mas ela te"
+},
+{
+"id": 116792,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "**Text 2** (questions 36, 37 and 38) [figura] ***BIRTHDAY SONG*** If it‘s your birthday soon, then at least one person will probably congratulate you with a song. Many different songs are sung around the world but *Happy Birthday to You* is one of the most popular (and the most recognized song in the English language). It has been translated into several other languages and it was also the first song that was sung in space – by the Apollo 9 crew in March 1969. Strangely, it is a copyrighted song. The music for the song was written by two school […] e known as ‗the birthday song‘. The story would have ended there if Jessica Hill, Patty and Mildred‘s sister, hadn‘t gone to court: in 1935 she won copyright of the song. Today the copyright is owned by an American company and will expire in 2030. No trecho: ―… *Happy Birthday to You* is one of the most popular (and the most recognized song in the English language)‖ (1º parágrafo), há uma ideia de || A) dúvida, porque não há plena certeza quanto à autoria da letra. | B) comparação, destacando igualdade ou proporcionalidade. | C) comparação, com ocorrência da forma superlativa. | D) condição, porque apresenta duas possibilidades. | E) explicação, justificando o sucesso dessa canção no mundo."
+},
+{
+"id": 116793,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "**Text 2** (questions 36, 37 and 38) [figura] ***BIRTHDAY SONG*** If it‘s your birthday soon, then at least one person will probably congratulate you with a song. Many different songs are sung around the world but *Happy Birthday to You* is one of the most popular (and the most recognized song in the English language). It has been translated into several other languages and it was also the first song that was sung in space – by the Apollo 9 crew in March 1969. Strangely, it is a copyrighted song. The music for the song was written by two school […] ut*‘ (1º parágrafo) e ‗*However*‘ (2º parágrafo) indicam, ambas, uma exemplificação. IV. *probably* (1º parágrafo) e *Strangely* (2º parágrafo) são ‗*discourse markers‟* (ou *„linking* *words‟*) que dão ideia de condição e causa, respectivamente. V. na oração ―*Many different songs are sung around the world”* (1º parágrafo), foi empregada a voz passiva. Está **CORRETO** o que se afirma, apenas, em || A) I, II e IV. | B) II. | C) IV e V. | D) III, IV e V. | E) II e V."
+},
+{
+"id": 116794,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Sobre Filosofia e Reflexão, considere o texto a seguir: Sobre a Filosofia e Reflexão *Exprimir-se-á bem a ideia de que a filosofia é procura e não posse, definindo o trabalho filosófico* *como um trabalho de reflexão. O modelo de reflexão filosófica – e ao mesmo tempo seu exemplo* *mais acessível – é a „ironia‟ socrática.* O autor acima enfatiza o exemplo sobre Filosofia e Reflexão: || A) no ato de interrogar os interlocutores, Sócrates expressava sua atitude reflexiva. | B) a reflexão filosófica se inicia na consciência e na posse do saber. | C) a reflexão filosófica nos faz refletir ao ensinar sua opinião com certeza irrefutável. | D) na reflexão filosófica, Sócrates expressava sua opinião como verdadeira. | E) ao perguntar, Sócrates delimitava o modelo e a posse da sabedoria."
+},
+{
+"id": 116795,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Sobre o pensamento filosófico, leia o texto a seguir: [figura] SARTRE, Jean Paul. O Existencialismo é um Humanismo. O homem apresenta-se como uma escolha a fazer. Muito bem. Antes do mais, ele é a sua existência no momento presente e está fora do determinismo natural; o homem não se define previamente a si próprio, mas em função do seu presente individual. Não há uma natureza humana que se lhe anteponha, mas é-lhe dada uma existência específica num dado momento. Com base no pensamento filosófico de Sartre, considera-se que || A) a essência da natureza humana precede a existência. | B) a natureza humana é um substituto da condição humana. | C) no homem em sua inteireza, a existência precede a essência. | D) o existencialismo dá primazia ao determinismo natural em função do seu presente individual. | E) o homem está fechado em si, sem ter escolha."
+},
+{
+"id": 116796,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Sobre a temática da Filosofia na História, analise o texto a seguir: *Há, pois, uma inseparável conexão entre filosofia e história da filosofia. A filosofia é histórica, e sua* *história lhe pertence essencialmente. E, por outra parte, a história da filosofia não é uma mera* *informação erudita acerca das opiniões dos filósofos. Senão que é a exposição verdadeira do* *conteúdo real da filosofia. É, pois, com todo rigor, filosofia. A filosofia não se esgota em nenhum de* *seus sistemas, senão que consiste na história efetiva de todos eles.* Assim, é **CORRETO** afirmar que, na tradição histórica da filosofia, || A) o racionalismo e o empirismo têm estritas relações com a solução integral do problema da vida na religião. | B) os naturalistas pré-socráticos se preocuparam exclusivamente com a subjetividade e a matéria religiosa. | C) o famoso lema ―conhece-te a ti mesmo – torna-te consciente de tua ignorância‖ caracterizou o pensamento filosó | D) o período da filosofia moderna é conhecido por se preocupar com as verdades reveladas. | E) o período medieval teve como preocupação central a singularidade em relação ao sujeito do conhecimento."
+},
+{
+"id": 116797,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Sobre o problema político e social, atente ao texto a seguir: *O homem verdadeiramente político também goza a reputação de haver estudado a virtude acima de* *todas as coisas, pois que ele deseja fazer com que os seus concidadãos sejam bons e obedientes* *às leis. Mas a virtude que devemos estudar é, fora de qualquer dúvida, a virtude humana; porque* *humano era o bem e humana a felicidade que buscávamos.* Na citação acima, Aristóteles retrata que || A) a virtude humana é a busca da felicidade e não diz respeito à dimensão política que é da esfera do social. | B) o verdadeiro homem prudente no âmbito político busca e faz uso do equilíbrio da vida pessoal e social. | C) os cidadãos são bons e obedientes às leis, isto é, declinam do valor da virtude humana. | D) o homem verdadeiramente político deve buscar o bem e a felicidade na esfera individual. | E) a virtude humana é um projeto individual e indiferente no âmbito da convivência político-social."
+},
+{
+"id": 116831,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Em qual das alternativas a seguir, o ponto P pertence à circunferência ẞ? || A) P(5, 6); ẞ: (x – 3)<sup>2</sup> + (y -6)<sup>2</sup> = 4 | B) P(1, 2); ẞ: (x – 2)<sup>2</sup> + (y – 2)<sup>2</sup> = 5 | C) P(1, 5); ẞ: x<sup>2</sup> + y<sup>2</sup> -8x + 6 = 0 | D) P(1, 3); ẞ: (x + 1)<sup>2</sup> + (y – 2)<sup>2</sup> = 16 | E) P(3, 1); ẞ: x<sup>2</sup> + y<sup>2</sup> – 4x + 2y + 2 = 0"
+},
+{
+"id": 116832,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Analise as sentenças a seguir: \\(\\frac{1}{3}\\) I. Se 2<sup>3a</sup> = 729, o resultado de 2<sup>-a</sup> é igual a II. O resultado da operação (1,25.10<sup>-4</sup> – 1,16.10<sup>-7</sup>) é igual a 1,09.10<sup>-4</sup> III. Se x² = 25<sup>12</sup> ; y<sup>6</sup> = 25<sup>12</sup> ; w<sup>7</sup> = 25<sup>63</sup>. O valor da expressão (x.y.w)<sup>12</sup> é a igual a 25<sup>168</sup> Com base nelas, é **CORRETO** afirmar que || A) apenas I é falsa. | B) apenas II é verdadeira. | C) apenas I e II são verdadeiras. | D) apenas I e III são verdadeiras. | E) I, II e III são falsas."
+},
+{
+"id": 116833,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Countries band together to promote trade, defend human rights, protect the environment and repel threats. They sign treaties and join international groups, and each time they do, they give up a bit of independence. That happened in a big way with the creation of the European Union, a free-trade zone and global political force forged from the fractious states of Europe. The question always was, could this extraordinary experiment hold together? Faced with the choice in a June 23 referendum, the U.K. shocked the world by voting to leave the bloc  […] x of immigrants. Young voters were keen to remain in the EU, while older ones preferred to leave. After reading the text, mark T (true) or F (false). ( ) Countries join to make war against other countries. ( ) UK left EU in 1973. ( ) UK joined EU on June 23. ( ) UK’s exit from EU is called Brexit. ( ) 52 percent voted for leaving the EU. Mark the alternative that contains the **CORRECT** sequence. || A) F – T – T – F – F | B) T – F – F – T – T | C) F – F – F – T – T | D) T – T – T – F – F | E) T – F – T – F – T"
+},
+{
+"id": 116834,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Mark T (true) or F (False) for each sentence below. David Cameron ( ) is a prime minister. ( ) pushed for the UK to continue in the EU. ( ) pushed for the UK to leave the EU. ( ) will resign by October. ( ) warned about some troubles UK will have. Mark the alternative that contains the **CORRECT** sequence. || A) F – F – T – F – F | B) T – T – F – T – T | C) F – T – F – T – F | D) T – F – T – F – T | E) T – T – T – F – F"
+},
+{
+"id": 116835,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "**Texto 2** [figura] Match the paragraphs A – E (text 2) with the questions 1 – 5 below. 1. What do you do in the morning? 2. Do you like Seville? 3. Where do you live? 4. What do you study? 5. What do you have for lunch? The **CORRECT** sequence is || A) What do you have for lunch? / Where do you live? / What do you do in the morning? / What do you study? / Do yo | B) Do you like Seville? / What do you have for lunch? / What do you study? / Where do you live? / What do you do  | C) Where do you live? / What do you study? / Do you like Seville? / What do you do in the morning? / What do you  | D) What do you study? / Where do you live? / What do you do in the morning? / What do you have for lunch? / Do yo | E) What do you do in the morning? / What do you study? / Where do you live? / Do you like Seville? / What do you "
+},
+{
+"id": 116836,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "**Texto 3** **Retrato de Novembro** I Os trabalhadores protestam na rua, Excelência. Não me incomodam! Como?! Não vou sair para essas bandas! Querem avistar-se com Vossa Excelência. Não os conheço! Já estão a fazer barulho. Manda-os embora! Não abalam. Manda-os calar! Não nos escutam, Excelência. Bom, somos um país livre! Mas a gritaria vai-nos incomodar. Fecha as portas e as janelas! Mesmo assim os ouviremos. Tapa os ouvidos! Também não resulta, Excelência. Então, ignora-os! Como?! Finge que não existem! Vai ser difícil, Excelência. Mas não im […] ar todo amor Corromper o polo Estancar a sede que eu tenho doutro ser Vem de flanco, de lado Por cima, por trás Atira Atira Resiste Defende De pé De pé De pé O futuro será de toda a humanidade (Oswald de Andrade) No trecho *‘*<u>*Lend a hand*</u> *with the least fortune of these animals at the Elephant Nature Park* *outside Chiang Mai* …’ (texto 3), a expressão grifada corresponde, em português, a || A) emprestar algo. | B) dar uma mão, ajudar. | C) meter os pés pelas mãos. | D) tomar emprestado. | E) passar a mão, levar sem permissão."
+},
+{
+"id": 116837,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "No texto 5, em: ‘*Commercial fishing, coastal development, humans harvesting eggs, marine* *debris, oil spills: the threats to sea turtles are staggering*.’, há || A) uma sequência de razões para se fomentarem pesquisas sobre o ambiente onde as tartarugas marinhas vivem e se r | B) uma sequência de atitudes que prejudica os voluntários do Caribe onde há maior desova das tartarugas marinhas. | C) diversas e surpreendentes formas de ameaça às tartarugas marinhas. | D) uma série de mitos sobre o berçário das tartarugas marinhas na Costa Rica. | E) incríveis fatos sobre a reprodução das tartarugas marinhas nas areias negras da costa caribenha."
+},
+{
+"id": 116838,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "**Texto 3** **Retrato de Novembro** I Os trabalhadores protestam na rua, Excelência. Não me incomodam! Como?! Não vou sair para essas bandas! Querem avistar-se com Vossa Excelência. Não os conheço! Já estão a fazer barulho. Manda-os embora! Não abalam. Manda-os calar! Não nos escutam, Excelência. Bom, somos um país livre! Mas a gritaria vai-nos incomodar. Fecha as portas e as janelas! Mesmo assim os ouviremos. Tapa os ouvidos! Também não resulta, Excelência. Então, ignora-os! Como?! Finge que não existem! Vai ser difícil, Excelência. Mas não im […]  garrafa de gasolina Atira Eles querem matar todo amor Corromper o polo Estancar a sede que eu tenho doutro ser Vem de flanco, de lado Por cima, por trás Atira Atira Resiste Defende De pé De pé De pé O futuro será de toda a humanidade (Oswald de Andrade) Considerando a gramática e as funções comunicativas da língua, os termos ‘***Explore***’ and ‘***Rescue***’, nos subtítulos dos textos 4 e 5, são || A) substantivos, pois têm a função de denominar. | B) verbo na forma do gerúndio e adjetivo, respectivamente, com função de qualificadores. | C) verbos na forma do particípio, indicando ação realizada. | D) verbo no modo imperativo e substantivo comum, respectivamente. | E) verbos no modo imperativo, com a função de apelar."
+},
+{
+"id": 116839,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Leia o texto a seguir sobre a temática da Lógica: A Aristóteles cabe o mérito de ter iniciado o estudo orgânico das regras da lógica. O mérito principal de Aristóteles é ter fixado, com grande exatidão, as regras da argumentação dedutiva na forma de silogismo. O autor faz algumas considerações acerca da filosofia de Aristóteles, com singularidade no âmbito da lógica. Sobre isso, tem-se como **CORRETO** que || A) o silogismo é expresso pela ligação de dois termos por meio de um terceiro. | B) a argumentação dedutiva chega à conclusão valendo-se da experiência sensível. | C) o silogismo é um tipo de argumento que deve ter um termo maior, nem mais nem menos. | D) o tipo de argumento dedutivo faz uso da analogia sem inferência das premissas. | E) as regras da argumentação dedutiva chegam a uma conclusão, partindo de dados particulares."
+},
+{
+"id": 116879,
+"vest": "SSA",
+"ano": "2018",
+"area": "exatas",
+"texto": "O gráfico a seguir trata de um dos aspectos da violência no Grande Recife, em matéria veiculada no Jornal do Commercio do dia 30 de abril de 2017. [figura] Com base nesse gráfico, analise as sentenças a seguir: I. Só houve queda no número de homicídios no período de 2008 a 2013. II. A média do número de homicídios no período de 2013 a 2016 é superior a 3.700 casos. III. Apesar do crescimento acentuado dos homicídios a partir do ano de 2013, o ano de 2016, em comparação com o ano de 2004, apresentou um aumento aproximado de 7% em relação ao número de casos. É **CORRETO** o que se afirma, apenas, em || A) I | B) II | C) III | D) I e II | E) II e III"
+},
+{
+"id": 116880,
+"vest": "SSA",
+"ano": "2018",
+"area": "exatas",
+"texto": "A população inicial de uma colônia de bactérias, que cresce 40% a cada hora, é de bactérias. Qual é o número aproximado de bactérias dessa colônia ao final de 16 horas? Considere (1,4)<sup>16</sup> = 218 || A) 1,7 ×10<sup>8</sup> | B) 2,2 ×10<sup>5</sup> | C) 1,8 ×10<sup>6</sup> | D) 3,4 ×10<sup>8</sup> | E) 4,6 ×10<sup>5</sup>"
+},
+{
+"id": 116881,
+"vest": "SSA",
+"ano": "2018",
+"area": "exatas",
+"texto": "Qual das alternativas a seguir representa, conjuntamente, os esboços dos gráficos das funções reais f(x) = x² e g(x) = 4x-4? || A) [figura] | B) [figura] | C) [figura] | D) [figura] | E) [figura]"
+},
+{
+"id": 116882,
+"vest": "SSA",
+"ano": "2018",
+"area": "exatas",
+"texto": "Beatriz tem dois carros do tipo *Flex* que podem ser abastecidos com gasolina, álcool ou com os dois combustíveis misturados. Alguns dados sobre o consumo médio de combustível dos dois carros de Beatriz estão representados na tabela a seguir: [figura] Beatriz fez quatro viagens sucessivas para a casa de seus pais, percorrendo, em cada uma delas, a distância de 600 km. Na primeira e na segunda viagem, optou, respectivamente, pelos carros A e B abastecidos com álcool. Na terceira e na quarta viagem, optou por utilizar, respectivamente, os carros  […] eatriz com combustível foi de R$ 14,00 a mais na segunda viagem que na primeira. II. Na terceira e na quarta viagem, a despesa foi de R$ 374,00 com combustível. III. O gasto de Beatriz com combustível foi de R$ 34,00 a menos na terceira viagem que na quarta. IV. Se Beatriz tivesse viajado as quatro vezes no carro A com gasolina, teria economizado R$ 80,00. É **CORRETO** o que se afirma, apenas, em || A) I, II e IV. | B) II e III. | C) III e IV. | D) I, II e III. | E) I e IV."
+},
+{
+"id": 116883,
+"vest": "SSA",
+"ano": "2018",
+"area": "exatas",
+"texto": "Um engenheiro construiu uma piscina em formato de bloco retangular a qual mede 7 m de comprimento, 4 m de largura e 1,5 m de profundidade. Após encher a piscina completamente, o engenheiro abriu um ralo que tem a capacidade de esvaziá-la à razão de 20 litros por minuto. Utilizando esse ralo, em quanto tempo o nível da água dessa piscina vai baixar em 10 centímetros? || A) 40 minutos | B) 1 hora e 40 minutos | C) 1 hora e 58 minutos | D) 2 horas e 20 minutos | E) 2 horas e 46 minutos"
+}
+]

@@ -1,0 +1,702 @@
+[
+{
+"id": 7513,
+"vest": "ENEM",
+"ano": "2025",
+"area": "exatas",
+"texto": "Um pai comprou oito presentes diferentes (dentre os quais, uma bicicleta e um celular) para dar a seus três filhos. Ele pretende distribuir os presentes de modo que o filho mais velho e o mais novo recebam três presentes cada um, e o do meio receba os dois presentes restantes. O mais velho ganhará, entre seus presentes, ou uma bicicleta ou um celular, mas não ambos. De quantas maneiras distintas a distribuição dos presentes pode ser feita? || A) 36 | B) 53 | C) 300 | D) 360 | E) 560"
+},
+{
+"id": 7519,
+"vest": "ENEM",
+"ano": "2025",
+"area": "exatas",
+"texto": "Um relatório sobre a equipe inicial dos estudantes de uma escola, inscritos para uma competição esportiva, informava que a média das alturas desses estudantes era 1,66 m. Após a elaboração desse relatório, houve a inclusão de dois novos estudantes na equipe, cujas alturas eram de 1,75 m e 1,85 m. Com isso, a média das alturas dos estudantes da nova equipe passou a ser 1,67 m. O número de estudantes que formam a nova equipe é || A) 14. | B) 16. | C) 26. | D) 28. | E) 30."
+},
+{
+"id": 7523,
+"vest": "ENEM",
+"ano": "2025",
+"area": "exatas",
+"texto": "Um tipo de bactéria se reproduz rapidamente, formando uma colônia com dois trilhões e quatrocentos e cinquenta bilhões de bactérias. Em notação científica, o número de bactérias dessa colônia é || A) 2,45 × 10<sup>6</sup>. | B) 2,45 × 10<sup>7</sup>. | C) 2,45 × 10<sup>9</sup>. | D) 2,45 × 10<sup>12</sup>. | E) 2,45 × 10<sup>15</sup>."
+},
+{
+"id": 7524,
+"vest": "ENEM",
+"ano": "2025",
+"area": "exatas",
+"texto": "Um vendedor de balões para festas comprou um recipiente cheio de gás hélio, no formato de cilindro circular reto com 40 cm de diâmetro interno da base e 1 m de altura. Ele vai adquirir balões em uma loja que só os vende em pacotes fechados, cada um com 5 balões esféricos que, após enchidos com gás hélio, têm 30 cm de diâmetro. O volume adquirido desse gás, em condições normais de pressão, é igual a 12 vezes o volume do recipiente comprado. No caso dos balões esféricos, o volume de gás hélio no seu interior é igual à capacidade volumétrica desses balões quando cheios. O vendedor pretende encher o maior número possível de balões com o gás comprado. O número mínimo de pacotes de balões que o vendedor deve comprar de forma a utilizar todo o volume de gás hélio adquirido é || A) 11. | B) 12. | C) 22. | D) 24. | E) 25."
+},
+{
+"id": 7529,
+"vest": "ENEM",
+"ano": "2025",
+"area": "exatas",
+"texto": "Uma distribuidora de combustível possui caminhões-tanque com capacidade de 30 000 litros cada. Em qualquer transporte realizado por esses caminhões, um mesmo volume de combustível é descartado, pois fica com muitas impurezas. Esse volume descartado independe da quantidade transportada. Um posto de combustível encomendou 10 000 litros de gasolina dessa distribuidora, que enviou 10 200 litros, considerando o volume descartado no transporte. Mesmo assim, a quantidade de gasolina entregue ao posto foi de 9 900 litros. Em um novo pedido, esse posto solicitou que fosse entregue exatamente o dobro do volume de gasolina encomendado no pedido anterior. Utilizando o mesmo caminhão da entrega anterior, qual é o volume mínimo de gasolina, em litro, que a distribuidora deverá enviar para garantir a entrega da quantidade encomendada nesse novo pedido? || A) 20 100 | B) 20 200 | C) 20 300 | D) 20 400 | E) 20 600"
+},
+{
+"id": 7535,
+"vest": "ENEM",
+"ano": "2025",
+"area": "exatas",
+"texto": "Uma escultura metálica é composta por uma esfera de raio 5 cm e um pedestal em forma de paralelepípedo reto retângulo. O pedestal tem 15 cm de altura e sua base tem forma de quadrado, com lados de medida 8 cm. A fixação da esfera se dá no ponto de interseção das diagonais da face quadrada do pedestal, sendo esse o ponto de tangência entre os dois sólidos que compõem a escultura. O museu responsável pela guarda da escultura deverá transportá-la para um outro local e pretende acondicioná-la em uma caixa perfeitamente ajustada às dimensões da escultura. No estoque do museu, existem cinco tipos de caixa, todos com tampa e em formato de paralelepípedo reto retângulo com estas dimensões: • caixa 1: 8 cm × 8 cm × 25 cm; • caixa 2: 13 cm × 13 cm × 20 cm; • caixa 3: 10 cm × 10 cm × 20 cm; • caixa 4: 10 cm × 10 cm × 25 cm; • caixa 5: 13 cm × 13 cm × 25 cm. A caixa a ser escolhida, para embalar a escultura nas condições pretendidas, é a || A) 1. | B) 2. | C) 3. | D) 4. | E) 5."
+},
+{
+"id": 7542,
+"vest": "ENEM",
+"ano": "2025",
+"area": "exatas",
+"texto": "Uma fábrica utilizou uma impressora 3D para produzir o protótipo de uma peça. O protótipo tem forma de um poliedro convexo, obtido pela justaposição de dois sólidos distintos, um com a forma de um prisma hexagonal regular reto e o outro com a forma de um tronco de pirâmide hexagonal reta. A base maior do tronco de pirâmide coincide com uma das bases do prisma. Após a impressão do protótipo, ele foi encaminhado ao setor de customização para realização da pintura de sua superfície. O critério definido para realização da pintura considera que faces congruentes entre si devem ser pintadas com uma mesma cor, e faces não congruentes entre si devem apresentar cores distintas. Qual é a quantidade de cores utilizadas para pintar o protótipo? || A) 9 | B) 8 | C) 6 | D) 4 | E) 3"
+},
+{
+"id": 7546,
+"vest": "ENEM",
+"ano": "2025",
+"area": "exatas",
+"texto": "Uma loja de artigos esportivos fez a seguinte promoção: para cada compra com valor superior a R$ 500,00 realizada na loja, o cliente retira aleatoriamente uma única ficha de uma urna para receber um brinde. A urna contém 20 fichas brancas, 30 azuis e 50 vermelhas, todas com igual probabilidade de serem retiradas. O gerente dessa loja acrescentará algumas fichas brancas a essa urna, de modo que a probabilidade de a primeira ficha retirada ser branca seja superior a 50%. Qual é a quantidade mínima de fichas brancas que ele acrescentará à urna? || A) 81 | B) 61 | C) 41 | D) 31 | E) 21"
+},
+{
+"id": 7549,
+"vest": "ENEM",
+"ano": "2025",
+"area": "exatas",
+"texto": "Uma pessoa comprará uma tinta especial para pintar, com apenas uma demão, uma parede que tem medida de 320 m<sup>2</sup> de área. Para pintar uma área de 10 m<sup>2</sup>, é necessário exatamente 1 L de tinta. Em uma loja, essa tinta está em promoção e é vendida em latas de diversas capacidades, mas só é possível comprar latas do mesmo tipo. A pessoa tem como objetivo gastar o menor valor possível, em real, com a compra dessa tinta e observa os seguintes dados referentes aos tipos de latas disponíveis: • I: contém 0,6 L de tinta e custa R$ 18,00; • II: contém 0,8 L de tinta e custa R$ 23,00; • III: contém 1,0 L de tinta e custa R$ 29,00; • IV: contém 3,0 L de tinta e custa R$ 85,00; • V: contém 5,0 L de tinta e custa R$ 150,00. Para atingir seu objetivo, essa pessoa deverá comprar latas do tipo || A) I. | B) II. | C) III. | D) IV. | E) V."
+},
+{
+"id": 7551,
+"vest": "ENEM",
+"ano": "2025",
+"area": "exatas",
+"texto": "Uma pessoa necessita armazenar uma quantidade *V* de líquido e possui um recipiente no formato de cilindro circular reto, com raio da base medindo *r*, o qual comporta apenas \\(\\frac{4}{9}\\) dessa quantidade. Essa pessoa comprou, então, um novo recipiente no mesmo formato, com raio da base medindo *R*, mantendo a mesma medida da área lateral do primeiro recipiente, e que comporta exatamente a quantidade *V* de líquido. A razão \\(\\frac{R}{r}\\) entre os raios dos dois recipientes é || A) \\(\\frac{4}{9}\\) | B) \\(\\frac{5}{9}\\) | C) \\(\\frac{5}{4}\\) | D) \\(\\frac{3}{2}\\) | E) \\(\\frac{9}{4}\\)"
+},
+{
+"id": 7553,
+"vest": "ENEM",
+"ano": "2025",
+"area": "exatas",
+"texto": "Uma pessoa pretende comprar peças em formato de bloco retangular, que serão colocadas uma ao lado da outra para montar um armário cujo comprimento seja exatamente 150 cm. Em uma pesquisa na internet, ela encontrou cinco tipos de peças diferentes, de mesma altura e mesma profundidade, com larguras externas medindo: • peça I: 25 cm; • peça II: 35 cm; • peça III: 40 cm; • peça IV: 60 cm; • peça V: 75 cm. Essa pessoa comprará pelo menos dois tipos de peças com larguras diferentes e na menor quantidade, de modo que a soma das medidas das larguras corresponda a 150 cm. Para que seu objetivo seja alcançado, ela deverá comprar quantas peças? || A) 2 | B) 3 | C) 4 | D) 5 | E) 6"
+},
+{
+"id": 7554,
+"vest": "ENEM",
+"ano": "2025",
+"area": "exatas",
+"texto": "Uma pessoa pretende instalar um kit de gás natural veicular (GNV) em seu carro. Na loja que escolheu para realizar a compra e instalação desse kit, havia cinco modelos de cilindro para armazenamento do gás, cujas capacidades, em metro cúbico, eram, respectivamente: 10, 14, 17, 21 e 25. O preço do cilindro é proporcional à sua capacidade. Esse carro rodará 30 km diariamente, 7 dias por semana, e o consumo do GNV é de 1 m<sup>3</sup> a cada 13 km rodados. A pessoa escolherá o modelo de cilindro de menor preço e que garanta apenas um abastecimento semanal. Nessas condições, qual será a capacidade, em metro cúbico, do cilindro escolhido por essa pessoa? || A) 10 | B) 14 | C) 17 | D) 21 | E) 25"
+},
+{
+"id": 7556,
+"vest": "ENEM",
+"ano": "2025",
+"area": "exatas",
+"texto": "Uma piscina com capacidade total de 100 m<sup>3</sup> precisava ser enchida. Inicialmente, prevendo um determinado tempo de enchimento, um registro de vazão constante foi aberto e começou-se a enchê-la a partir de 0 hora. O volume *V* de água dentro da piscina, em metro cúbico, *t* horas após 0 hora, era dado pela função *V*(*t*) = 20 + 5*t*. Às 10 horas, um novo registro, também de vazão constante, foi aberto e passou a funcionar conjuntamente com o anterior, de maneira a diminuir em 4 horas o tempo de enchimento inicialmente previsto. A vazão do novo registro, em metro cúbico por hora, foi de || A) 5. | B) 9. | C) 10. | D) 15. | E) 35."
+},
+{
+"id": 7558,
+"vest": "ENEM",
+"ano": "2025",
+"area": "exatas",
+"texto": "Uma tecelagem oferece para venda diversos tecidos com diferentes espessuras. O preço de venda estabelecido para esses tecidos considera uma grandeza que é diretamente proporcional à sua massa, em quilograma, e à sua área, em metro quadrado. A unidade de medida do tipo de grandeza utilizada por essa tecelagem para estabelecer o preço de venda é || A) m ⋅ kg<sup>−</sup><sup>1</sup> | B) m<sup>2</sup> ⋅ kg<sup>−</sup><sup>1</sup> | C) kg ⋅ m<sup>−</sup><sup>2</sup> | D) kg ⋅ m | E) kg ⋅ m<sup>2</sup>"
+},
+{
+"id": 7559,
+"vest": "ENEM",
+"ano": "2025",
+"area": "exatas",
+"texto": "Uma vacina foi testada em um grupo formado por 15 mulheres e 15 homens. Em testes clínicos realizados ao longo de vários anos, a vacina mostrou-se capaz de imunizar 80% das mulheres e 60% dos homens contra uma doença. Um repórter, pretendendo fazer uma entrevista com uma das pessoas desse grupo, obteve uma listagem com os 30 números de telefone dessas pessoas, porém sem os respectivos nomes. Ele escolheu aleatoriamente um desses números e ligou para agendar a entrevista. A probabilidade de que a pessoa para a qual o repórter telefonou seja um homem ou uma pessoa que tenha adquirido imunidade a essa doença com o uso da vacina é || A) \\(\\frac{1}{20}\\) | B) \\(\\frac{3}{10}\\) | C) \\(\\frac{7}{20}\\) | D) \\(\\frac{8}{10}\\) | E) \\(\\frac{9}{10}\\)"
+},
+{
+"id": 7599,
+"vest": "FPS",
+"ano": "",
+"area": "exatas",
+"texto": "08. Se o raio da base de um cilindro circular aumentar em 20% e a altura aumentar em 25%, o volume do cilindro aumentará em || A) 50%. | B) 40%. | C) 80%. | D) 45%. | E) 5%."
+},
+{
+"id": 7807,
+"vest": "FPS",
+"ano": "2013",
+"area": "exatas",
+"texto": "11.11.12 G A B A R I T O Português Matemática Inglês Física Química Biologia 01 B 11 A 16 C 21 D 29 A 34 E 02 D 12 E 17 E 22 A 30 C 35 C 03 A 13 C 18 A 23 B 31 B 36 E 04 E 14 D 19 D 24 E 32 C 37 D 05 C 15 B 20 B 25 D 33 C 38 C 06 E Espanhol 26 C 39 D 07 A 16 B 27 A 40 E 08 D 17 D 28 B 41 D 09 C 18 E 42 E 10 B 19 A 43 C 20 D COMISSÃO DE PRODCESSOS SELETIVOS E TREINAMENTOS Fone: (0XX81) 3412-0800 Fax: (0XX81) 3412-0805 Vestibular Grupo 3 2013.1 11.11.12 LEIA COM ATENÇÃO 01. Só abra este caderno após ler todas as instruções e quando for autorizado […] nteiro calorias por minuto. Quantas calorias ele consome em mais próximo. uma hora e meia de escalada? JUSTIFICATIVA: JUSTIFICATIVA: Resposta correta: A Resposta correta: D Solução: Solução: Em 90 minutos o alpinista consome 90.12 = 1.080 calorias. Te mos que 3/4 dos homens é igual a 4/5 das mulheres. A fração de casados do condomínio é (3/2)/(1 + 15/16) = 24/31 ≈ 0,774 e a de solteiros é ≈ 0,226. || A) 1.080 calorias | B) 1.070 calorias | C) 1.060 calorias | D) 1.050 calorias | E) 1.040 calorias"
+},
+{
+"id": 7809,
+"vest": "FPS",
+"ano": "2013",
+"area": "exatas",
+"texto": "13. Um teste para tuberculose foi aplicado a 1.000 pessoas, 8% das quais eram portadoras da doença. Quando a pessoa tem tuberculose, o teste detecta a doença em 90% dos casos, é inconclusivo em 6% dos casos e negativo em 4%. Quando a pessoa não tem tuberculose, o teste indica a doença em 5% dos casos, é inconclusivo em 10% dos casos e negativo em 85%. Se uma pessoa é selecionada ao acaso, qual a probabilidade percentual de ela ter tuberculose, se seu resultado foi inconclusivo? Indique o valor inteiro mais próximo. JUSTIFICATIVA: Resposta correta: C Solução: Se a pessoa tem tuberculose, a probabilidade de o teste ser inconclusivo é de 0,08.0,06 = 0,0048 e, se não tem a doença, a probabilidade de o teste ser inconclusivo é de 0,92.0,1 = 0,092. A probabilidade de a pessoa ter tuberculose, quando o resultado do teste é inconclusivo, é de 0,0048/(0,0048+0,092) = 0,0048/0,0968 ≈ 0,049 = 4,9%. || A) 3% | B) 4% | C) 5% | D) 6% | E) 7%"
+},
+{
+"id": 7867,
+"vest": "FPS",
+"ano": "2015",
+"area": "exatas",
+"texto": "12. Júnior toma um comprimido de Diamicron MR de 60 16. Uma partícula pontual descreve uma trajetória retilínea mg, diariamente, às 20:00. O organismo de Júnior com aceleração constante ao longo do eixo horizontal elimina metade da medicação tomada a cada 24 x. Sua velocidade vale 2,0 m/s no instante de tempo horas. A medicação será tomada indefinidamente para inicial t = 0. A figura abaixo representa um instantâneo o controle de diabetes. Qual dos valores a seguir do movimento da partícula no instante de tempo inicial. melhor se aproxima da quantidade de Diamicron MR Sabendo-se que sua posição instantânea, no instante, que se acumulará no organismo de Júnior? de tempo 3s, vale 34 m, a equação horária x(t) que descreve a posição da partícula em qualquer instante || A) 160 mg de tempo t será: | B) 150 mg | C) 140 mg | D) 130 mg | E) 120 mg"
+},
+{
+"id": 7870,
+"vest": "FPS",
+"ano": "2015",
+"area": "exatas",
+"texto": "13. Suponha que o número y de pessoas infectadas por (m) um vírus novo está crescendo exponencialmente, ou seja, y = y(t) = C.ekt, com C e k sendo constantes reais e t representando o tempo em semanas. Suponha que o número de infectados passou de 3.000 para 6.000 em 5 semanas, e que o instante inicial (t = 0) será A) x(t) = 2 + t + 2 · t2 contado quando o número de infectados era 3.000. B) x(t) = 1 - 2 · t + 3 · t2 Quantos serão os infectados depois de 10 semanas? C) x(t) = 1 + 2 · t - 3 · t2 || A) 9.000 D) x(t) = 1 - 2 · t - 3 · t2 | B) 10.000 E) x(t) = 1 + 2 · t + 3 · t2 | C) 11.000 | D) 12.000 | E) 13.000"
+},
+{
+"id": 7874,
+"vest": "FPS",
+"ano": "2015",
+"area": "exatas",
+"texto": "14. Um médico foi chamado para examinar uma criança doente. Na vizinhança onde a criança mora, 90% das crianças estão gripadas e os outros 10% estão com rubéola. Um sintoma comum de rubéola é o aparecimento de manchas vermelhas na pele, o que ocorre com probabilidade de 95%. No caso de gripe, manchas vermelhas na pele aparecem com probabilidade de 8%. Se, depois de examinar a criança, o médico observa que ela tem manchas vermelhas na pele, qual a probabilidade de a criança ter rubéola? Indique o valor inteiro mais próximo do valor obtido. 17. A […] inião nem a prestar esclarecimentos sobre o conteúdo das provas. Cabe única e exclusivamente ao candidato interpretar e decidir. 09. Se a Comissão verificar que a resposta de uma questão é dúbia ou inexistente, a questão será posteriormente anulada, e os pontos a ela correspondentes distribuídos entre as demais. Duração desta prova: 4 horas Nome: Inscrição: Identidade: Órgão Expedidor: Assinatura: || A) 57% 4 m/s, 25 Hz 0,625 cm  =  , P > P U = 0,45 Joule, Q = 0,03 Coulomb 1 ampère | B) 60%  m/s, 40 Hz 6,25 cm A) 3 minutos atrativa e tem módulo F = (q 2q 2) / (4 r2)  >  , P = P U = 0,45 Jo | C) 63%  m/s, 20 Hz 62,5 cm B) 30 minutos repulsiva e tem módulo F = (q 2q 2) / (4 r)  <  , P = P U = 0,90 J | D) 66%  m/s, 25 Hz 6,25 m C) 30 segundos repulsiva e tem módulo F = (q  U = 0,90 Joule, Q = 0,06 Coulomb 3,6 a | E) 69%  m/s, 50 Hz 62,5 m D) 10 minutos 1 hora repulsiva e tem módulo F = (q  U =9 Joule, Q = 6 Coulombs 10 am"
+},
+{
+"id": 7958,
+"vest": "FPS",
+"ano": "2019",
+"area": "exatas",
+"texto": "17. A ilustração a seguir (que não está em escala) representa uma seção transversal de uma artéria que tem a forma de uma coroa circular, com diâmetro externo medindo 1,5 cm. A espessura da parede da artéria é de 1,5 mm. 1,5 cm 1,5 mm Qual a área da região interna da seção transversal da artéria (escurecida na figura)? 6 TIPO A || A) 35π mm2 | B) 34π mm2 | C) 36π mm2 | D) 33π mm2 | E) 32π mm2"
+},
+{
+"id": 7980,
+"vest": "FPS",
+"ano": "2019",
+"area": "exatas",
+"texto": "21. Em um grupo de 30 pacientes de um centro médico, 6 sofrem de enxaquecas. Dois pacientes do grupo de 30 foram selecionados aleatoriamente para participar de uma pesquisa sobre o uso de analgésicos. Qual a probabilidade de os dois pacientes escolhidos sofrerem de enxaquecas? 7 TIPO B || A) 1/30 | B) 1/29 | C) 1/27 | D) 1/26 | E) 1/28"
+},
+{
+"id": 7984,
+"vest": "FPS",
+"ano": "2019",
+"area": "exatas",
+"texto": "22. A ilustração a seguir (que não está em escala) representa uma seção transversal de uma artéria que tem a forma de uma coroa circular, com diâmetro externo medindo 1,5 cm. A espessura da parede da artéria é de 1,5 mm. 1,5 cm 1,5 mm Qual a área da região interna da seção transversal da artéria (escurecida na figura)? 10 || A) 35π mm2 | B) 33π mm2 | C) 34π mm2 | D) 32π mm2 | E) 36π mm2"
+},
+{
+"id": 7987,
+"vest": "FPS",
+"ano": "2019",
+"area": "exatas",
+"texto": "23. Considere as duas tabelas a seguir. A Tabela 1 mostra o número de calorias, dadas em kcal, gastas quando se caminha e quando se corre, de acordo com a massa corporal da pessoa. A Tabela 2 apresenta cinco amigos com suas respectivas massas corporais e sequências de atividades. Tabela 1 Calorias consumidas Calorias consumidas Calorias consumidas Calorias consumidas Atividade (durante por uma pessoa de por uma pessoa de por uma pessoa de por uma pessoa de uma hora) 60 kg 75 kg 85 kg 100 kg Caminhar devagar 150 175 200 240 Caminhar rápido 210 2 […] or 30 minutos Caminha devagar por 30 minutos Helena 60 kg Corre rápido por 20 minutos Caminha devagar por 10 minutos Joana 75 kg Corre rápido por 10 minutos Caminha muito rápido por 20 minutos Jéssica 100 kg Corre rápido por 30 minutos Caminha devagar por 30 minutos Paulo 60 kg Corre devagar por 20 minutos Caminha rápido por 20 minutos Qual dos cinco amigos consumiu a maior quantidade de calorias? || A) Paulo | B) Hildo | C) Jéssica | D) Joana | E) Helena"
+},
+{
+"id": 7994,
+"vest": "FPS",
+"ano": "2019",
+"area": "exatas",
+"texto": "24. Três turmas de Anatomia foram submetidas ao mesmo exame. A Turma 1 obteve média 6,4, a Turma 2 obteve média 6,6 enquanto a Turma 3 obteve média 7,3. A média dos estudantes das três turmas foi 6,8. Se a Turma 1 contém o dobro do número de estudantes da Turma 2, qual das seguintes afirmações é verdadeira? || A) A Turma 3 contém menos estudantes que a Turma 2. | B) A Turma 3 contém o mesmo número de estudantes da Turma 2. | C) A Turma 3 contém mais estudantes que a Turma 2, mas menos que a Turma 1. | D) A Turma 3 contém mais estudantes que a Turma 1. | E) A Turma 3 contém o mesmo número de estudantes da Turma 1."
+},
+{
+"id": 7996,
+"vest": "FPS",
+"ano": "2019",
+"area": "exatas",
+"texto": "25. Uma pessoa ingeriu uma bebida contendo 120 mg de cafeína. A cada hora, a quantidade de cafeína presente no organismo da pessoa diminui 12%. Em quanto tempo restará 10 mg de cafeína no corpo da pessoa? Dados: use as aproximações log (2) ≈ 0,30, log (3) ≈ 0,48 e log (11) ≈ 1,04. || A) 22 horas | B) 17 horas | C) 15 horas | D) 18 horas | E) 16 horas"
+},
+{
+"id": 8000,
+"vest": "FPS",
+"ano": "2019",
+"area": "exatas",
+"texto": "26. Em um grupo de 30 pacientes de um centro médico, 6 sofrem de enxaquecas. Dois pacientes do grupo de 30 foram selecionados aleatoriamente para participar de uma pesquisa sobre o uso de analgésicos. Qual a probabilidade de os dois pacientes escolhidos sofrerem de enxaquecas? 11 || A) 1/26 | B) 1/29 | C) 1/27 | D) 1/28 | E) 1/30"
+},
+{
+"id": 8004,
+"vest": "FPS",
+"ano": "2019",
+"area": "exatas",
+"texto": "27. Os percentuais dos motivos de consultas de homens e de mulheres na rede de atendimento à saúde de um estado, no período de um ano, estão expressos no gráfico abaixo. Percentuais de motivos de consulta 35% 30% 25% 20% 15% 10% 5% 0% Homens Mulheres Admita que o número de homens é igual ao de mulheres nesse estado e que a taxa de consultas, para as mulheres, é de 6.000 em 10.000 mulheres e, para os homens, é de 5.000 em 10.000 homens. Em termos do número de consultas, quais doenças afetam mais homens do que mulheres? || A) Problemas respiratórios e afecções do sistema músculo-esquelético. | B) Somente problemas respiratórios. | C) Somente afecções do sistema músculo-esquelético. | D) Somente afecções de órgãos nervosos e de sentidos. | E) Somente afecções de pele."
+},
+{
+"id": 8006,
+"vest": "FPS",
+"ano": "2019",
+"area": "exatas",
+"texto": "29. Algum sangue foi encontrado na cena de um crime. O policial sabe que o sangue pertence ao criminoso envolvido na ação. Os glóbulos vermelhos presentes no sangue de uma pessoa podem ter o antígeno do tipo A, o do tipo B, os dois tipos ou nenhum dos dois antígenos. Nessa população, é sabido que: - 44% das pessoas têm antígeno do tipo A, mas não têm do tipo B; - 12% das pessoas têm antígeno do tipo B, mas não têm do tipo A e - 40% das pessoas não têm nenhum dos dois tipos de antígenos. Um teste de anticorpos é usado para comprovar que o antígeno do tipo B está presente nos glóbulos vermelhos do sangue da cena do crime. Qual a probabilidade de os glóbulos vermelhos do sangue encontrado na cena do crime conterem ambos os antígenos, A e B? 12 || A) 1/4 | B) 1/8 | C) 1/6 | D) 1/7 | E) 1/5"
+},
+{
+"id": 8032,
+"vest": "FPS",
+"ano": "2022",
+"area": "exatas",
+"texto": "02. Em 2021, um quarto da população de certa cidade 60 relatou ter uma doença limitante a longo prazo ou incapacidade que restringiu suas atividades diárias. Se 50 escolhermos aleatoriamente três pessoas que vivem na cidade, qual a probabilidade de que exatamente duas delas tenham relatado tal doença ou 0 5 10 15 20 25 incapacidade? 06. Um paciente hipertenso usa três medicamentos: comprar uma caixa de Diovan, uma de Atensina e o máximo possível de caixas de Atenolol. Se o preço da caixa de Atenolol é de pelo menos R$ 10,00, qual o || A) 7/64 | B) 9/64 | C) 11/64 | D) 13/64 | E) 15/64"
+},
+{
+"id": 8037,
+"vest": "FPS",
+"ano": "2022",
+"area": "exatas",
+"texto": "03. As massas corporais, em kg, de 5 bebês, ao número máximo de caixas de Atenolol que o paciente nascerem, foram registradas e as medidas obtidas pode comprar? estão na lista abaixo: 3,9; 3,7; 4,0; 3,2; 3,7 B) 6 Admitindo esta lista de dados, qual das alternativas a seguir é incorreta? Dado: use a aproximação 7,6 2,76 mamíferos pode ser medido observando o crescimento das células em uma placa e medindo seu tamanho após um determinado intervalo de tempo. Uma célula, com formato esférico, após um intervalo de tempo na placa, terá raio medindo 4 μm. Se a droga anticâncer || A) 5 A mediana é 3,7 kg 07. O efeito de drogas anticâncer nas células de | B) A moda é 3,7 kg | C) 7 A média das massas corporais é 3,8 kg | D) 8 A variância é 0,076 kg2 | E) 9 O desvio padrão é 0,276 kg"
+},
+{
+"id": 8042,
+"vest": "FPS",
+"ano": "2022",
+"area": "exatas",
+"texto": "04. Um princípio ativo está disponível em soluções com doxorrubicina também for colocada na placa, o volume concentrações de 15% e 24%. Misturando as duas da célula diminuirá em 35%. Qual é o diâmetro final da soluções, pretendemos obter 90 ml de uma terceira célula, se a doxorrubicina for colocada na placa? solução com concentração de 20% do princípio ativo. Observação: 1 μm = 10-6 m. Dado: use a aproximação Quanto deve ser utilizado da solução com 30,65 0,87 concentração de 15%? TIPO: 1 08. A altura de um bebê era de 42 cm e, uma segunda 10. […] e foram desenvolvidos entre os anos de 1912 e 1915, por Wegener e, posteriormente, foram incorporados os conceitos de expansão do assoalho submarino, desenvolvidos nos anos de 1960, com base nos dados do assoalho do oceano Atlântico, obtidos logo após a segunda guerra mundial (Adaptado de Ciclos da Natureza e Dinâmica das Paisagens. UNESP, 2011) 49. A teoria referida no Texto é denominada: TIPO: 1 || A) 32 ml A) 6,96∙10-6 m 43 cm 32 segundo pacote? 4 há no texto uma analogia entre um rio corrente e inspiração, é | B) 34 ml B) 6,94∙10-6 m 44 cm 33 5 segundo o poema, no caso do discurso, trata-se do Modernismo e do Parnasianism | C) 36 ml C) 6,92∙10-6 m 45 cm 34 6 o poema defende que, fora do discurso, a palavra A) O Parnasianismo e seus aut | D) 38 ml D) 6,90∙10-6 m 46 cm 35 7 como o rio não pode perder seu curso, a B) Um traço comum entre parnasianos e  | E) 40 ml E) 6,88∙10-6 m 47 cm Vista lateral 36 8 neste verso: \"para que todos os poços se distancie do modelo lus"
+},
+{
+"id": 8053,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "01. Uma espécie de vírus foi submetida à ação de certa droga e constatou- se que a lei de sobrevivência desses vírus obedecia à seguinte relação: p(t) = at2 + bt + c, em que p(t) designa o número de vírus no tempo t (dado em horas e contado a partir do início da experiência) e a, b e c são parâmetros que dependem da droga ministrada. Sabe-se que, após 33 horas do início da experiência, morreu o último elemento dessa espécie, e que o valor máximo do número de vírus foi 4.410, o que ocorreu para t = 12 horas. Na ilustração a seguir, temos o gráfico de p(t) em termos de t, para t no intervalo [0, 33]: 4000 3000 2000 1000 5 10 15 20 25 30 Passadas 20 horas do início da experiência, qual a população de vírus? || A) 3.730 vírus | B) 3.740 vírus | C) 3.750 vírus | D) 3.760 vírus | E) 3.770 vírus"
+},
+{
+"id": 8057,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "03. Em certo hospital, o corpo clínico da pediatria é composto por 10 profissionais, 4 dos quais são capacitados para atuar junto a crianças com necessidades educacionais especiais. Uma comissão deve ser formada escolhendo 3 profissionais, de tal maneira que pelo menos um deles tenha a capacitação mencionada. Nessas condições, quantas comissões distintas podem ser formadas? TIPO: 1 || A) 80 | B) 90 | C) 100 | D) 110 | E) 120"
+},
+{
+"id": 8059,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "03. Um paciente toma três medicamentos e cada um deles pode provocar um efeito colateral, distinto e independente dos demais medicamentos. A probabilidade de o primeiro medicamento provocar efeito colateral é de 1/5, a do segundo é de 1/6 e a do terceiro é de 1/8. Qual a probabilidade de o paciente sofrer os efeitos colaterais de exatamente dois dos medicamentos? || A) 1/16 | B) 1/12 | C) 1/13 | D) 1/14 | E) 1/15"
+},
+{
+"id": 8061,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "04. No hemocentro de certa cidade, o número de doadores de sangue varia periodicamente ao longo do ano. Admita que, no ano de 2021, o número de milhares de doadores mensais, N(t), seja dado, aproximadamente, por N(t) = c + sen TIPO: 3  π ( 4 6 − t )  , com c sendo uma constante real e, t = 1 correspondendo a janeiro, t = 2 correspondendo a fevereiro, ..., t = 12 correspondendo a dezembro. Se o número de doadores em abril de 2021 foi 2.500, em quais meses do mesmo ano, o número de doadores foi 2.000? || A) maio e setembro. | B) junho e dezembro. | C) janeiro e julho. | D) fevereiro e agosto. | E) março e outubro."
+},
+{
+"id": 8062,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "04. Um determinado plano de saúde planeja aumentar o valor da mensalidade em 10%, a cada início de ano. Um usuário do plano tem mensalidade, em 2022, de R$ 4.000,00, e salário mensal de R$ 12.000,00, que não será corrigido nos anos futuros. Em qual ano o valor da mensalidade do plano de saúde ultrapassará o salário do usuário pela primeira vez? Dados: use as aproximações log 3 ≈ 0,477 e log 11 ≈ 1,041. || A) 2033 | B) 2034 | C) 2035 | D) 2036 | E) 2037"
+},
+{
+"id": 8063,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "04. Um determinado plano de saúde planeja aumentar o valor da mensalidade em 10%, a cada início de ano. Um usuário do plano tem mensalidade, em 2022, de R$ 4.000,00, e salário mensal de R$ 12.000,00, que não será corrigido nos anos futuros. Em qual ano o valor da mensalidade do plano de saúde ultrapassará o salário do usuário pela primeira vez? Dados: use as aproximações log 3 ≈ 0,477 e log 11 ≈ 1,041. TIPO: 2 || A) 2037 | B) 2033 | C) 2034 | D) 2035 | E) 2036"
+},
+{
+"id": 8065,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "05. Biólogos interessados em relacionar o comprimento da cauda da cobra Lampropeltis polyzona ao seu comprimento total produziram a tabela a seguir: Comprimento total Comprimento da cauda 41 cm 5 cm 49 cm 6 cm 81 cm 10 cm 97 cm 12 cm 113 cm 14 cm Se admitirmos que o comprimento total da Lampropeltis polyzona é uma função linear do comprimento de sua cauda, qual será o comprimento total de uma tal cobra com comprimento da cauda medindo 7,5 cm? A seguir, temos um esboço do gráfico do comprimento da Lampropeltis polyzona em termos do comprimento da sua cauda: TIPO: 1 1 0 8 6 4 2 0 0 0 0 0 1 2 4 6 8 1 0 1 2 1 4 || A) 60 cm | B) 60,5 cm | C) 61 cm | D) 61,5 cm | E) 62 cm"
+},
+{
+"id": 8066,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "05. No hemocentro de certa cidade, o número de doadores de sangue varia periodicamente ao longo do ano. Admita que, no ano de 2021, o número de milhares de doadores mensais, N(t), seja dado, aproximadamente, por N(t) = c + sen TIPO: 2  π ( 4 6 − t )  , com c sendo uma constante real e, t = 1 correspondendo a janeiro, t = 2 correspondendo a fevereiro, ..., t = 12 correspondendo a dezembro. Se o número de doadores em abril de 2021 foi 2.500, em quais meses do mesmo ano, o número de doadores foi 2.000? || A) junho e dezembro. | B) janeiro e julho. | C) fevereiro e agosto. | D) março e outubro. | E) maio e setembro."
+},
+{
+"id": 8067,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "06. A tabela a seguir mostra estatísticas sobre mortes no trânsito nos países A e B em 2021: País Número de mortes por População em milhões cada 100.000 habitantes A 13 64 B 15 66 Qual foi a diferença entre o número total de mortes no trânsito, ocorridas nos países B e A, em 2021? || A) 158 | B) 1.580 | C) 1.720 | D) 172 | E) 2.000"
+},
+{
+"id": 8069,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "06. Uma espécie de vírus foi submetida à ação de certa droga e constatou- se que a lei de sobrevivência desses vírus obedecia à seguinte relação: p(t) = at2 + bt + c, em que p(t) designa o número de vírus no tempo t (dado em horas e contado a partir do início da experiência) e a, b e c são parâmetros que dependem da droga ministrada. Sabe-se que, após 33 horas do início da experiência, morreu o último elemento dessa espécie, e que o valor máximo do número de vírus foi 4.410, o que ocorreu para t = 12 horas. Na ilustração a seguir, temos o gráfico de p(t) em termos de t, para t no intervalo [0, 33]: TIPO: 3 4 3 2 1 0 0 0 0 0 0 0 0 0 0 0 0 5 1 0 1 5 2 0 2 5 3 0 Passadas 20 horas do início da experiência, qual a população de vírus? || A) 3.760 vírus | B) 3.770 vírus | C) 3.730 vírus | D) 3.740 vírus | E) 3.750 vírus"
+},
+{
+"id": 8071,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "07. Em certo hospital, o corpo clínico da pediatria é composto por 10 profissionais, 4 dos quais são capacitados para atuar junto a crianças com necessidades educacionais especiais. Uma comissão deve ser formada escolhendo 3 profissionais, de tal maneira que pelo menos um deles tenha a capacitação mencionada. Nessas condições, quantas comissões distintas podem ser formadas? || A) 120 | B) 80 | C) 90 | D) 100 | E) 110"
+},
+{
+"id": 8072,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "07. Uma família composta por 2 adultos e 2 crianças irá desfrutar férias por 33 dias em uma região com risco de contágio por malária. Eles foram aconselhados a tomar comprimidos contra a malária para evitar que desenvolvam a doença. A dose diária para adultos é de um comprimido de 100 mg. Para crianças, comprimidos de 25 mg são dados com base no peso corporal: se uma criança pesa de 5 kg a 20 kg, ela toma um comprimido de 25 mg por dia; se pesa de 21 kg a 30 kg, ela toma dois comprimidos de 25 mg por dia, e, se pesa de 31 kg a 40 kg, ela toma t […] es da chegada na área de risco de malária e, em seguida, continuar diariamente até sete dias após deixar a área de risco. Os comprimidos de 100 mg são vendidos em caixas com 28 comprimidos e os comprimidos de 25 mg vêm em caixas com 30 comprimidos. Se uma criança da família pesa 25 kg e a outra pesa 35 kg, quantas caixas de comprimidos a família precisa no total? 25 mg. 25 mg. 25 mg. 25 mg. 25 mg. || A) 3 caixas de comprimidos de 100 mg e 7 caixas de comprimidos de | B) 3 caixas de comprimidos de 100 mg e 8 caixas de comprimidos de | C) 2 caixas de comprimidos de 100 mg e 9 caixas de comprimidos de | D) 4 caixas de comprimidos de 100 mg e 6 caixas de comprimidos de | E) 4 caixas de comprimidos de 100 mg e 8 caixas de comprimidos de"
+},
+{
+"id": 8074,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "08. No hemocentro de certa cidade, o número de doadores de sangue varia periodicamente ao longo do ano. Admita que, no ano de 2021, o número de milhares de doadores mensais, N(t), seja dado, aproximadamente, por N(t) = c + sen TIPO: 1  π ( 4 6 − t )  , com c sendo uma constante real e, t = 1 correspondendo a janeiro, t = 2 correspondendo a fevereiro, ..., t = 12 correspondendo a dezembro. Se o número de doadores em abril de 2021 foi 2.500, em quais meses do mesmo ano, o número de doadores foi 2.000? || A) janeiro e julho. | B) fevereiro e agosto. | C) março e outubro. | D) maio e setembro. | E) junho e dezembro."
+},
+{
+"id": 8076,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "09. Um cirurgião cobra R$ 3.500,00 por uma cirurgia de remoção de vesícula. O plano de saúde de um paciente reembolsa R$ 1.400,00 pela cirurgia. De qual percentual o valor cobrado pelo cirurgião equivale ao valor reembolsado pelo plano? || A) 250% | B) 150% | C) 36% | D) 25% | E) 2,5%"
+},
+{
+"id": 8077,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "10. Um paciente toma três medicamentos e cada um deles pode provocar um efeito colateral, distinto e independente dos demais medicamentos. A probabilidade de o primeiro medicamento provocar efeito colateral é de 1/5, a do segundo é de 1/6 e a do terceiro é de 1/8. Qual a probabilidade de o paciente sofrer os efeitos colaterais de exatamente dois dos medicamentos? Linguagens e Códigos e suas D) quem analisa os fenômenos que ocorrem no uso corriqueiro da língua, seja na escrita ou na fala, Tecnologias não pode deixar de perceber que falamos e esc […] am diversas demais insistir na relevância do estudo da linguagem em características: ambos buscam a perfeição formal uso. e a “arte pela arte”, além de explorarem temas metafísicos e espirituais. ANTUNES, I. Textualidade: noções básicas e implicações pedagógicas. São Paulo: Parábola, 2017, p.31-32. Adaptado. sua expressão máxima, no Brasil, em Machado de Assis, que produz romances de forte análise || A) 1/12 O Barroco surgiu como reação ao Arcadismo: | B) 1/13 | C) 1/14 | D) 1/15 O romance naturalista ou romance de tese tem | E) 1/16 em nossas ações de linguagem, na escrita ou na"
+},
+{
+"id": 8078,
+"vest": "FPS",
+"ano": "2023",
+"area": "exatas",
+"texto": "10. Um paciente toma três medicamentos e cada um deles pode provocar um efeito colateral, distinto e independente dos demais medicamentos. A probabilidade de o primeiro medicamento provocar efeito colateral é de 1/5, a do segundo é de 1/6 e a do terceiro é de 1/8. Qual a probabilidade de o paciente sofrer os efeitos colaterais de exatamente dois dos medicamentos? Linguagens e Códigos e suas Tecnologias (Português/Literatura) Questões de 11 a 24 (Inglês) Questões de 25 a 32 TEXTO 1 TIPO: 3 TEXTO 2. RETRATO Eu não tinha este rosto de hoje, Assim  […] erdida a minha face? Cecília Meireles. 12. O Texto 2 integra a obra poética de Cecília Meireles. Acerca do poema e de sua autora, assinale a alternativa correta. Cecília Meireles instaurou uma tendência Disponível em: https://br.pinterest.com/aluciaabarreto/charges. feminista na poesia, que, à época, distanciava-se Acesso em 04/09/22 radicalmente da inclinação dos modernistas para temas bucólicos. || A) 1/15 Quando surgiu no cenário da literatura brasileira, | B) 1/16 | C) 1/12 | D) 1/13 | E) 1/14"
+},
+{
+"id": 8098,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "04. Uma amostra de sangue é colocada em uma lâmina retangular com dimensões 18 mm X 18 mm, para se contar o número de glóbulos vermelhos. A espessura ou profundidade da amostra de sangue é de um décimo de milímetro. Qual é o volume de sangue nessa amostra? TIPO 1 || A) 0,324 mm3 | B) 3,24 mm3 | C) 32,4 mm3 | D) 324 mm3 | E) 3,24 cm3"
+},
+{
+"id": 8100,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "04. Uma amostra de sangue é colocada em uma lâmina retangular com dimensões 18 mm X 18 mm, para se contar o número de glóbulos vermelhos. A espessura ou profundidade da amostra de sangue é de um décimo de milímetro. Qual é o volume de sangue nessa amostra? TIPO 3 || A) 3,24 cm3 | B) 324 mm3 | C) 0,324 mm3 | D) 3,24 mm3 | E) 32,4 mm3"
+},
+{
+"id": 8101,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "05. A temperatura, T(t), em graus Celsius, de um paciente com uma doença de 6 dias, é dada, aproximadamente, por T (t) = 38,7° + 1,6°∙ cos(πt/3), onde t é o número de dias passados desde o início da doença. Qual a temperatura do paciente ao final do segundo dia? || A) 37,8°C | B) 37,9°C | C) 38°C | D) 38,1°C | E) 38,2°C"
+},
+{
+"id": 8102,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "05. A temperatura, T(t), em graus Celsius, de um paciente com uma doença de 6 dias, é dada, aproximadamente, por T (t) = 38,7° + 1,6°∙cos(πt/3), onde t é o número de dias passados desde o início da doença. Qual a temperatura do paciente ao final do segundo dia? || A) 37,9°C | B) 37,8°C | C) 38,2°C | D) 38,1°C | E) 38°C"
+},
+{
+"id": 8106,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "06. A massa média de um grupo de N pessoas é de 78 kg. João, Carol e Luís se juntam a esse grupo, sem que ninguém saia. A nova massa média é de 80 kg. Se a massa média de João, Carol e Luís é de 90 kg, qual é o valor de N? || A) 11 | B) 12 | C) 13 | D) 14 | E) 15"
+},
+{
+"id": 8116,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "10. A entropia da informação H, em bits, de uma senha gerada aleatoriamente, que contém L caracteres, é dada por H = 𝐿∙ log 𝑁, onde N é o número de símbolos que podem ser utilizados na senha. Quantos símbolos precisamos para produzir (cid:2870) uma senha de 8 caracteres com entropia de 48 bits? TIPO 2 Linguagens, Códigos e suas Tecnologias Texto 1 Programa Mais Médicos: Bahia é um dos estados brasileiros com maior número de profissionais Daniela Costa A Bahia é um dos estados brasileiros com o maior número de profissionais do Programa Mais Médi […] ecíficos, esses novos profissionais irão reforçar o atendimento como clínicos gerais nas unidades de saúde do estado. A Secretaria de Saúde da Bahia (Sesab) enfatizou que a chegada desses médicos tem como objetivo continuar a ampliação do atendimento e o fortalecimento das equipes de saúde nas áreas mais necessitadas. Disponível em: https://blogdovalente.com.br/. Acesso em: 12 set. 2024. Adaptado. || A) 128 | B) 64 | C) 32 | D) 16 | E) 8"
+},
+{
+"id": 8117,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "10. A entropia da informação H, em bits, de uma senha gerada aleatoriamente, que contém L caracteres, é dada por H = 𝐿∙ log 𝑁, onde N é o número de símbolos que podem ser utilizados na senha. Quantos símbolos precisamos para produzir (cid:2870) uma senha de 8 caracteres com entropia de 48 bits? TIPO 3 Linguagens, Códigos e suas Tecnologias Texto 1 Programa Mais Médicos: Bahia é um dos estados brasileiros com maior número de profissionais Daniela Costa A Bahia é um dos estados brasileiros com o maior número de profissionais do Programa Mais Médi […] ecíficos, esses novos profissionais irão reforçar o atendimento como clínicos gerais nas unidades de saúde do estado. A Secretaria de Saúde da Bahia (Sesab) enfatizou que a chegada desses médicos tem como objetivo continuar a ampliação do atendimento e o fortalecimento das equipes de saúde nas áreas mais necessitadas. Disponível em: https://blogdovalente.com.br/. Acesso em: 12 set. 2024. Adaptado. || A) 8 | B) 128 | C) 64 | D) 32 | E) 16"
+},
+{
+"id": 8118,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "10. A entropia da informação H, em bits, de uma senha gerada aleatoriamente, que contém L caracteres, é dada por H = 𝐿∙ log 𝑁,onde N é o número de símbolos que podem ser utilizados na senha. Quantos símbolos precisamos para produzir (cid:2870) uma senha de 8 caracteres com entropia de 48 bits? TIPO 1 Linguagens, Códigos e suas Tecnologias Texto 1 Programa Mais Médicos: Bahia é um dos estados brasileiros com maior número de profissionais Daniela Costa A Bahia é um dos estados brasileiros com o maior número de profissionais do Programa Mais Médic […] ecíficos, esses novos profissionais irão reforçar o atendimento como clínicos gerais nas unidades de saúde do estado. A Secretaria de Saúde da Bahia (Sesab) enfatizou que a chegada desses médicos tem como objetivo continuar a ampliação do atendimento e o fortalecimento das equipes de saúde nas áreas mais necessitadas. Disponível em: https://blogdovalente.com.br/. Acesso em: 12 set. 2024. Adaptado. || A) 8 | B) 16 | C) 32 | D) 64 | E) 128"
+},
+{
+"id": 8129,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "14. Uma especificidade do poema (Texto 2) em relação às características do Arcadismo é que ele descreve um rio que não atende ao idealizado locus amoenus. Levando em consideração o contexto histórico dessa escola literária no Brasil, que elemento pode ter sido determinante para a caracterização desse rio? Texto 3 Disponível em: https://br.pinterest.com/pin/816558976178076336/. Acesso em: 12 set. 2024. || A) A atividade dos pastores na Criação de Gado. | B) A ambição dos exploradores no Ciclo do Ouro. | C) A exploração das plantações no Ciclo do Café. | D) A extração de materiais no Ciclo da Borracha. | E) A liberação de dejetos no Ciclo da Cana-de-Açúcar."
+},
+{
+"id": 8133,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "16. “Doe aqueles livros que você pegou emprestado dos amigos. [Você não vai devolver mesmo.]”. Qual alternativa apresenta uma reescrita coerente e linguisticamente correta desse trecho do Texto 3? TIPO 1 Texto 4 AZEVEDO, Aluísio. O Cortiço. Adaptação e roteiro de Arnaldo Antonelli. São Paulo: Escala Educacional, 2007. (Literatura Brasileira em Quadrinhos) || A) Doe os livros que seus amigos lhe emprestaram, já que você não vai devolvê-los. | B) Doe aqueles livros cujos amigos te emprestaram, embora você não vá devolver. | C) Doe-os para os amigos que emprestam esses livros, porque você não vai devolver. | D) Doe e devolva aqueles livros que você emprestou aos amigos, mesmo sem querer. | E) Doe esses livros que os amigos te emprestaram, mesmo que você não vá devolver."
+},
+{
+"id": 8134,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "16. “Doe aqueles livros que você pegou emprestado dos amigos. [Você não vai devolver mesmo.]”. Qual alternativa apresenta uma reescrita coerente e linguisticamente correta desse trecho do Texto 3? TIPO 2 Texto 4 AZEVEDO, Aluísio. O Cortiço. Adaptação e roteiro de Arnaldo Antonelli. São Paulo: Escala Educacional, 2007. (Literatura Brasileira em Quadrinhos) || A) Doe os livros que seus amigos lhe emprestaram, já que você não vai devolvê-los. | B) Doe aqueles livros cujos amigos te emprestaram, embora você não vá devolver. | C) Doe-os para os amigos que emprestam esses livros, porque você não vai devolver. | D) Doe e devolva aqueles livros que você emprestou aos amigos, mesmo sem querer. | E) Doe esses livros que os amigos te emprestaram, mesmo que você não vá devolver."
+},
+{
+"id": 8135,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "16. “Doe aqueles livros que você pegou emprestado dos amigos. [Você não vai devolver mesmo.]”. Qual alternativa apresenta uma reescrita coerente e linguisticamente correta desse trecho do Texto 3? TIPO 3 Texto 4 AZEVEDO, Aluísio. O Cortiço. Adaptação e roteiro de Arnaldo Antonelli. São Paulo: Escala Educacional, 2007. (Literatura Brasileira em Quadrinhos) || A) Doe os livros que seus amigos lhe emprestaram, já que você não vai devolvê-los. | B) Doe aqueles livros cujos amigos te emprestaram, embora você não vá devolver. | C) Doe-os para os amigos que emprestam esses livros, porque você não vai devolver. | D) Doe e devolva aqueles livros que você emprestou aos amigos, mesmo sem querer. | E) Doe esses livros que os amigos te emprestaram, mesmo que você não vá devolver."
+},
+{
+"id": 8142,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "19. O Texto 5 explica um pouco da formação sociolinguística do Brasil, a partir da qual se percebe a relação entre || A) os textos literários e as mudanças que os indígenas promoveram no português. | B) a modernização do país e a implantação de outras línguas em nosso território. | C) o papel de indígenas e africanos na sociedade e a criação de uma língua local. | D) a religião e as mudanças que originaram uma variedade de português brasileiro. | E) as mudanças nos usos e variações do português e as decisões políticas no país."
+},
+{
+"id": 8144,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "20. Observe o trecho a seguir, retirado do Texto 5: [...] o Diretório criado pelo marquês de Pombal em 3 de maio de 1757, cujas decisões, aplicadas primeiro ao Pará e ao Maranhão, se estenderam, em 17 de agosto de 1758, a todo o Brasil. Articulando informações do texto, o pronome relativo destacado retoma o antecedente Texto 6 Tilintavam as campainhas da carruagem do Coronel Lula de Holanda Chacon na estrada cheia de gente do Pilar. O povo cortava caminho para deixá-la passar. O mestre pensou na velha doente e amorteceu sua alegria. D. Amélia,  […] a pegado naquele tamborete, como negro no tronco. E foi andando [...]. Na lagoa, a saparia enchia o mundo de um gemer sem fim. E os vaga-lumes rastejavam no chão com medo da lua. Tudo era tão bonito, tão diferente da sua casa. Quis andar para mais longe. E se deixasse a estrada? REGO, José Lins do. Fogo morto. In: REGO, José Lins do. Ficção completa. Rio de Janeiro: Nova Aguilar, 1987. p. 498-499. || A) “marquês de Pombal” e estabelece um valor semântico de comparação. | B) “o Diretório” e estabelece um valor semântico de posse. | C) “3 de maio de 1757” e estabelece um valor semântico de tempo. | D) “a todo o Brasil” e estabelece um valor semântico de explicação. | E) “ao Pará e ao Maranhão” e estabelece um valor semântico de lugar."
+},
+{
+"id": 8147,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "21. No romance Fogo Morto, de José Lins do Rego, a narrativa se desenvolve em três momentos, com foco em diferentes protagonistas e sua relação com a decadência do Engenho Santa Fé. Qual personagem apresenta esse protagonismo no trecho lido no Texto 6? || A) Lula de Holanda Chacon | B) D. Amélia | C) Capitão Tomás | D) Mestre José Amaro | E) Capitão Vitorino"
+},
+{
+"id": 8148,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "22. No Texto 6, percebemos uma cumplicidade entre seu protagonista e a natureza a partir do recurso estilístico do/a TIPO 1 Texto 7 FOLHETO IX O Quarto Império INICIAVA-SE, PORTANTO, o Quarto Império que, como já disse, durou somente um dia, mas teve a vantagem de revelar ao Brasil quem foi seu verdadeiro e real Dom Pedro I, o nosso, e não aquele Português debochado da Casa de Bragança, tão valorizado pelo nosso Promotor, o Doutor Samuel Wandernes. Chegamos, então, ao trecho mais epopeico, bandeiroso e cavalariano da história da Pedra do Reino. […] s vezes Doze Pares de França. Era um inimigo implacável da minha Casa: mas ressalto essa grandeza dele por patriotismo sertanejo e para provar também, logo de entrada, a superioridade do Sertão sobre aquele Reinozinho besta, estrangeirado e mixuruca que é a França. SUASSUNA, Ariano. Romance d’A Pedra do Reino e o Príncipe do Sangue do vai-e-volta. 10. ed. Rio de Janeiro: José Olympio, 2007. p. 81. || A) metáfora, como em “[...] os dias de mocidade do engenho da várzea”. | B) comparação, como no excerto “[...] naquele seu passo de velha”. | C) paralelismo, como no trecho “[...] queria estar só, viver só, sentir tudo só”. | D) personificação, como na passagem “A noite convidava-o para andar”. | E) onomatopeia, como em “[...] saparia enchia o mundo de um gemer sem fim”."
+},
+{
+"id": 8149,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "22. No Texto 6, percebemos uma cumplicidade entre seu protagonista e a natureza a partir do recurso estilístico do/a TIPO 2 Texto 7 FOLHETO IX O Quarto Império INICIAVA-SE, PORTANTO, o Quarto Império que, como já disse, durou somente um dia, mas teve a vantagem de revelar ao Brasil quem foi seu verdadeiro e real Dom Pedro I, o nosso, e não aquele Português debochado da Casa de Bragança, tão valorizado pelo nosso Promotor, o Doutor Samuel Wandernes. Chegamos, então, ao trecho mais epopeico, bandeiroso e cavalariano da história da Pedra do Reino. […] s vezes Doze Pares de França. Era um inimigo implacável da minha Casa: mas ressalto essa grandeza dele por patriotismo sertanejo e para provar também, logo de entrada, a superioridade do Sertão sobre aquele Reinozinho besta, estrangeirado e mixuruca que é a França. SUASSUNA, Ariano. Romance d’A Pedra do Reino e o Príncipe do Sangue do vai-e-volta. 10. ed. Rio de Janeiro: José Olympio, 2007. p. 81. || A) metáfora, como em “[...] os dias de mocidade do engenho da várzea”. | B) comparação, como no excerto “[...] naquele seu passo de velha”. | C) paralelismo, como no trecho “[...] queria estar só, viver só, sentir tudo só”. | D) personificação, como na passagem “A noite convidava-o para andar”. | E) onomatopeia, como em “[...] saparia enchia o mundo de um gemer sem fim”."
+},
+{
+"id": 8150,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "22. No Texto 6, percebemos uma cumplicidade entre seu protagonista e a natureza a partir do recurso estilístico do/a TIPO 3 Texto 7 FOLHETO IX O Quarto Império INICIAVA-SE, PORTANTO, o Quarto Império que, como já disse, durou somente um dia, mas teve a vantagem de revelar ao Brasil quem foi seu verdadeiro e real Dom Pedro I, o nosso, e não aquele Português debochado da Casa de Bragança, tão valorizado pelo nosso Promotor, o Doutor Samuel Wandernes. Chegamos, então, ao trecho mais epopeico, bandeiroso e cavalariano da história da Pedra do Reino. […] s vezes Doze Pares de França. Era um inimigo implacável da minha Casa: mas ressalto essa grandeza dele por patriotismo sertanejo e para provar também, logo de entrada, a superioridade do Sertão sobre aquele Reinozinho besta, estrangeirado e mixuruca que é a França. SUASSUNA, Ariano. Romance d’A Pedra do Reino e o Príncipe do Sangue do vai-e-volta. 10. ed. Rio de Janeiro: José Olympio, 2007. p. 81. || A) metáfora, como em “[...] os dias de mocidade do engenho da várzea”. | B) comparação, como no excerto “[...] naquele seu passo de velha”. | C) paralelismo, como no trecho “[...] queria estar só, viver só, sentir tudo só”. | D) personificação, como na passagem “A noite convidava-o para andar”. | E) onomatopeia, como em “[...] saparia enchia o mundo de um gemer sem fim”."
+},
+{
+"id": 8229,
+"vest": "FPS",
+"ano": "2024",
+"area": "exatas",
+"texto": "50. A população de uma pequena cidade pode ser modelada pela função de tipo exponencial P(t) = 20.000∙1,02t, onde t representa o número de anos passados desde a contagem populacional inicial. Dado: use as aproximações 1,0210 ≈ 1,2 e 1,0220 ≈ 1,5. Considerando essas informações, assinale a alternativa correta. || A) A população inicial da cidade era de 20.400 habitantes. | B) P(t + h) – P(t) = P(t)(1,02h + 1), para todo t real não negativo. | C) P(t)2 = 40.000∙P(2t), para todo t real não negativo. | D) A população projetada para a cidade após 10 anos será de 24.000 habitantes. | E) A população projetada para a cidade após 20 anos será de 28.000 habitantes."
+},
+{
+"id": 8328,
+"vest": "SSA",
+"ano": "",
+"area": "exatas",
+"texto": "Segundo FAO 2009 (The State of Food and Agriculture – E.U.A.), a indústria de carne é responsável por 18% das emissões globais de gases causadores do efeito estufa, ao passo que todos os transportes somados geram 13%**.** Somos quase 7 bilhões de pessoas na Terra e criamos, para produzir carne, mais de 30 bilhões de animais que consomem água, comida e recursos energéticos, demandam espaço, despejam detritos, contaminam os mananciais, causam erosão e geram poluição atmosférica. [figura] Com base no texto e na figura, analise as afirmações a segu […] s de água limpa. II. 30 bilhões de animais consomem 15 000 litros de água limpa. III. Se um bovino gera cerca de 150 kg de carne, para cada um desses animais a emissão de gases do efeito estufa gira em torno de mais de 37 mil km percorridos por um carro. IV. Para cada bilhão de pessoas, 1 milhão de km<sup>2</sup> de florestas pode ser desmatada no mundo. Está **CORRETO** o que se afirma apenas em: || A) I e II | B) I e III | C) I e IV | D) II e III | E) II e IV"
+},
+{
+"id": 8331,
+"vest": "SSA",
+"ano": "",
+"area": "exatas",
+"texto": "[figura] A figura abaixo representa um tanque de combustível de certa marca de caminhão a diesel. Sabendo que esse veículo faz, em média, 3km/L, e, observando o marcador de combustível no início e no final de uma viagem, quantos quilômetros esse caminhão percorreu? || A) 243km | B) 425km | C) 648km | D) 729km | E) 813km"
+},
+{
+"id": 8341,
+"vest": "SSA",
+"ano": "",
+"area": "exatas",
+"texto": "[figura] Dois carros A e B se deslocam com velocidade constante, em avenidas perpendiculares, conforme a figura ao lado. O carro A se desloca a 30 km/h, e o carro B, a 40 km/h. Nessas condições, qual a velocidade relativa entre os dois carros? || A) 10 km/h | B) 35 km/h | C) 50 km/h | D) 60 km/h | E) 70 km/h"
+},
+{
+"id": 8346,
+"vest": "SSA",
+"ano": "",
+"area": "exatas",
+"texto": "16. O Índice de Adiposidade Corporal (IAC), que mede o excesso de gordura no organismo, é calculado utilizando o tamanho da circunferência do quadril e segue a seguinte lógica: quanto maior for o tamanho do quadril, em centímetros, em relação à altura, em metros, mais acima do peso a pessoa está. A fórmula do IAC é a seguinte: ( ) √ A classificação, em função do IAC, para homens e mulheres é diferente. Veja a tabela: Peso normal Sobrepeso Obesidade Homens 8 a 20 21 a 25 Acima de 25 Mulheres 21 a 32 33 a 38 Acima de 38 Se o jovem Enzo tem 2,0 metros de altura e se encontra na classificação obeso por ter um IAC de 32 %, quantos centímetros, no mínimo, ele tem que perder na medida do quadril para passar para a categoria ―peso‖ normal? Adote √ . 14 SSA - 1ª FASE 1º DIA || A) 33,6 cm | B) 36,4 cm | C) 38,2 cm | D) 50,4 cm | E) 67,2 cm"
+},
+{
+"id": 8399,
+"vest": "SSA",
+"ano": "2022",
+"area": "exatas",
+"texto": "21. Um experimento consiste em estudar um fenômeno que cresce exponencialmente. Para uma melhor análise da curva de crescimento, a equipe responsável utilizou um software para representá-la geometricamente. A equação dessa curva é dada por onde k e p são constantes positivas. A partir do software, observaram que f(5) = 15, resultado que divergia em muito da realidade. Após uma análise cuidadosa, perceberam que o gráfico estava posicionado incorretamente e, após alguns cálculos, verificaram que, para corrigir esse erro, seria necessário adicionar 3 unidades ao parâmetro p. Depois de fazer isso, todos os resultados tornaram-se compatíveis. Após o deslocamento que corrigiu a posição da curva, qual o real valor de f (5) obtido pelo software? 17 SSA – 3ª FASE 1º DIA || A) 3375 | B) 960 | C) 750 | D) 35 | E) 18"
+},
+{
+"id": 8402,
+"vest": "SSA",
+"ano": "2022",
+"area": "exatas",
+"texto": "22. A formiga Avelina partiu do vértice A do quadrado ABCD e chegou ao vértice C caminhando sobre os segmentos AG, GH e HC, cujas medidas podem ser observadas na figura ao lado. O seu amigo Belinho também partiu do vértice A, mas este chegou ao vértice C caminhando sobre os lados AB e BC. Considere . Portanto, é CORRETO afirmar que √13 = 3,6 || A) Avelina percorreu 6 cm a mais que Belinho. | B) Avelina percorreu 5 cm a mais que Belinho. | C) Belinho percorreu 6 cm a mais que Avelina. | D) Belinho percorreu 5 cm a mais que Avelina. | E) Avelina e Belinho percorreram a mesma distância."
+},
+{
+"id": 8404,
+"vest": "SSA",
+"ano": "",
+"area": "exatas",
+"texto": "Analise as afirmativas a seguir, relativas à geometria espacial e coloque V nas Verdadeiras e F nas Falsas. ( ) Se uma reta está contida em um plano, então toda reta perpendicular a ela será perpendicular ao plano. ( ) Se dois planos distintos são paralelos, então toda reta perpendicular a um deles é paralela ao outro. ( ) Se dois planos distintos são paralelos a uma reta fora deles, então eles são paralelos entre si. ( ) Se dois planos distintos são paralelos, qualquer reta de um deles é paralela a qualquer reta do outro. Assinale a alternativa que apresenta a sequência **CORRETA**. || A) F – F – V – V | B) F – V – V – F | C) F – F – F – F | D) V – F – F – V | E) V – V – F – F"
+},
+{
+"id": 8723,
+"vest": "SSA",
+"ano": "2008",
+"area": "exatas",
+"texto": "17. Uma montadora de automóveis demora 8 dias para produzir 200 veículos, trabalhando 9 horas por dia. Nessas condições, é CORRETO afirmar que essa montadora, funcionando 12 horas por dia, em 15 dias, montará || A) 350 veículos. | B) 450 veículos. | C) 550 veículos. | D) 500 veículos. | E) 580 veículos."
+},
+{
+"id": 8781,
+"vest": "SSA",
+"ano": "2009",
+"area": "exatas",
+"texto": "13. Considere uma progressão aritmética infinita de números reais da forma a ,a ,a ,(cid:1) com razão r. 1 2 3 Formando a sequência b ,b ,b ,(cid:1) na qual b (cid:1) a n (cid:1)1,2,3,(cid:1) , é CORRETO afirmar que, 1 2 3 n 4n necessariamente, 1 2 3 1 2 3 1 2 3 1 2 3 1 2 3 quanto uma progressão geométrica. || A) b ,b ,b ,(cid:1) forma uma progressão geométrica de razão 4r. | B) b ,b ,b ,(cid:1) forma uma progressão aritmética de razão 4r. | C) b ,b ,b ,(cid:1) forma uma progressão aritmética cuja razão não depende de r. | D) b ,b ,b ,(cid:1) não forma, necessariamente, nem uma progressão aritmética nem uma progressão geométrica. | E) b ,b ,b ,(cid:1) independentemente do valor de r, formam uma sequência que é tanto uma progressão aritmética"
+},
+{
+"id": 8784,
+"vest": "SSA",
+"ano": "2009",
+"area": "exatas",
+"texto": "14. Um relógio de ponteiros (apenas com ponteiro para hora e ponteiro para minuto) foi acertado, exatamente, 2(cid:2) às 3h. Se o ponteiro menor (das horas) tiver percorrido um ângulo de radianos com relação a sua 5 posição inicial, qual a hora que estará indicada pelo relógio, assumindo que a cada hora o ponteiro menor (dos minutos) percorre um ciclo completo e que tanto o movimento do ponteiro menor quanto do ponteiro maior ocorre continuamente com o passar do tempo? || A) 6 horas e 24 minutos. | B) 5 horas e 30 minutos. | C) 3 horas e 12 minutos. | D) 5 horas e 12 minutos. | E) 5 horas e 24 minutos."
+},
+{
+"id": 8874,
+"vest": "SSA",
+"ano": "2015",
+"area": "exatas",
+"texto": "O Banco Dinheiro Fácil movimentou a quantia de 240 bilhões de reais no ano de 2013. Suponhamos que um conjunto de dez cédulas de R$ 50,00 tem massa equivalente a um grama. Qual a massa correspondente ao volume de dinheiro movimentado por esse banco em 2013, considerando que todo o dinheiro movimentado foi em cédulas de R$ 50,00? || A) 4,8.10<sup>8</sup> | B) 4,8.10<sup>7</sup> | C) 4,8.10<sup>6</sup> | D) 2,4.10<sup>8</sup> | E) 2,4.10<sup>7</sup>"
+},
+{
+"id": 8877,
+"vest": "SSA",
+"ano": "2015",
+"area": "exatas",
+"texto": "Três satélites, Alfa, Beta e Gama, percorrem a mesma órbita circular, no sentido horário, em torno do planeta Durão, conforme mostra a figura a seguir: [figura] Para Alfa chegar à posição de Gama, percorre 231 UE (Unidades Espaciais). Para Beta chegar à posição de Alfa, percorre 242 EU, e para Gama chegar à posição de Beta, percorre 281 UE. Nessas condições, quanto mede o comprimento total da órbita? || A) 377 UE | B) 473 UE | C) 512 UE | D) 523 UE | E) 754 UE"
+},
+{
+"id": 8879,
+"vest": "SSA",
+"ano": "2015",
+"area": "exatas",
+"texto": "Um caixa eletrônico estava abastecido com 420 notas de 50 reais e 900 notas de 20 reais. Após algumas pessoas sacarem dinheiro, todos os saques receberam a mesma quantidade de cédulas, deixando o caixa eletrônico vazio. Nessas condições, quantas notas, no máximo, cada pessoa sacou? || A) 36 | B) 45 | C) 50 | D) 60 | E) 90"
+},
+{
+"id": 8881,
+"vest": "SSA",
+"ano": "2015",
+"area": "exatas",
+"texto": "A cisterna de uma casa tem o formato de um prisma retangular com capacidade de 200 000 litros. A sua largura é metade do comprimento da base e a altura desse reservatório igual a 4 metros. Com base nessas informações, qual a medida da área da base dessa cisterna? || A) 20 m<sup>2</sup> | B) 40 m<sup>2</sup> | C) 50 m<sup>2</sup> | D) 80 m<sup>2</sup> | E) 100 m<sup>2</sup>"
+},
+{
+"id": 8884,
+"vest": "SSA",
+"ano": "2015",
+"area": "exatas",
+"texto": "Marta e Paula combinaram se encontrar exatamente às 10h05 no aeroporto, para receber Ricardo que chegava de viagem. O relógio de Marta estava atrasado 7 minutos, embora ela pensasse que ele estivesse adiantado 8 minutos. O relógio de Paula, entretanto, estava adiantado 6 minutos, se bem que ela pensasse que ele estava atrasado 5 minutos. Com base nessas informações, analise as afirmativas a seguir: I. Paula chegou primeiro ao aeroporto. II. Marta chegou ao aeroporto às 10h12. III. Tanto Paula como Marta chegaram ao aeroporto com uma diferença de 26 minutos. Está(ão) **CORRETA**(**S**) || A) I. | B) II. | C) I e II. | D) I e III. | E) II e III."
+},
+{
+"id": 8889,
+"vest": "SSA",
+"ano": "2015",
+"area": "exatas",
+"texto": "18. Utilizando instrumentos de desenho geométrico, Carlos construiu um retângulo, e Joana construiu um paralelogramo, ambos representados pelas figuras a seguir: 4 cm 4 cm 60° 6 cm 6 cm A área do paralelogramo de Joana é, aproximadamente, quanto por cento da área do retângulo de Carlos? Considere √3 = 1,7 || A) 70% | B) 75% | C) 80% | D) 85% | E) 90%"
+},
+{
+"id": 8898,
+"vest": "SSA",
+"ano": "2015",
+"area": "exatas",
+"texto": "Um vazamento na caixa d´água de um edifício provocou a perda de 4 litros de água no primeiro dia. Como não houve conserto, o orifício responsável pela perda foi aumentando, e, no dia seguinte, o vazamento correspondeu ao dobro do dia anterior. A cada dia subsequente, o vazamento dobrou. Nessas condições, quantos litros de água foram desperdiçados após cinco dias de vazamento? || A) 36 | B) 62 | C) 93 | D) 124 | E) 126"
+},
+{
+"id": 8899,
+"vest": "SSA",
+"ano": "2015",
+"area": "exatas",
+"texto": "Uma função afim é tal que f(0) = 4 e f(1985) – f(1953) = 200. Qual é o valor de f(2017) – f(1973)? || A) 198 | B) 220 | C) 248 | D) 275 | E) 375"
+},
+{
+"id": 8900,
+"vest": "SSA",
+"ano": "2015",
+"area": "exatas",
+"texto": "A diretoria de uma empresa multinacional, com sede no Brasil, é composta por sete brasileiros e quatro chilenos. Eles pretendem formar comissões para a visitação de suas filiais na América do Sul. Quantas comissões compostas por três brasileiros e três chilenos podem ser formadas com os membros da diretoria? || A) 28 | B) 63 | C) 84 | D) 140 | E) 260"
+},
+{
+"id": 8903,
+"vest": "SSA",
+"ano": "2015",
+"area": "exatas",
+"texto": "A dona de um café compra caixas, contendo 60 brigadeiros, em uma doceira, ao custo de R$ 30,00 cada caixa. Ela vende, em média, 120 brigadeiros por dia, a R$ 1,20 a unidade. Qual o lucro médio diário que a dona desse café obtém com a venda desses brigadeiros? || A) R$ 24,00 | B) R$ 60,00 | C) R$ 84,00 | D) R$ 90,00 | E) R$ 144,00"
+},
+{
+"id": 8905,
+"vest": "SSA",
+"ano": "2015",
+"area": "exatas",
+"texto": "Numa cidade, 56% dos habitantes são mulheres. Destas, 2,8% têm olhos azuis e 2,2% dos homens, olhos da mesma cor. A probabilidade de uma pessoa nessa cidade, escolhida ao acaso, ter olhos azuis é cerca de || A) 0,6% | B) 1,4% | C) 2,0% | D) 2,5% | E) 4,0%"
+},
+{
+"id": 9024,
+"vest": "SSA",
+"ano": "2016",
+"area": "exatas",
+"texto": "[figura] Um cadeado está protegido pela combinação dos números em três cilindros numerados de 0 a 9 cada um, conforme a figura a seguir. Qual é a probabilidade de, numa única tentativa, se acertar um senha formada apenas por números primos? || A) 6,0% | B) 6,4% | C) 7,2% | D) 7,8% | E) 8,0%"
+},
+{
+"id": 9080,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "No plano cartesiano, a reta s: 4x – 3y +12 = 0 intersecta o eixo das abscissas no ponto A e o eixo das ordenadas no ponto B. Nessas condições, qual é a distância entre os pontos A e B? || A) 5 | B) \\(\\widehat{√5}\\) | C) 2 \\(\\widehat{√2}\\) | D) 2 | E) \\(\\widehat{√2}\\)"
+},
+{
+"id": 9092,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "[figura] No triângulo SRT, representado a seguir, os lados RT e RS tem medidas iguais. Sabendo que o segmento RU mede 6 cm e o segmento ST mede 8√2 cm, a área do triângulo SRU é quantos por cento da área do triângulo SRT? || A) 60% | B) 70% | C) 75% | D) 80% | E) 85%"
+},
+{
+"id": 9099,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "18. Rafael decidiu colocar cerâmicas com a forma de hexágonos regulares no piso da sala de seu escritório. Sabendo que a área do piso do escritório mede 25,5 m², que a cerâmica mede 10 cm de lado, desconsiderando a área ocupada pelos rejuntes, quantas pedras de cerâmica serão necessárias para cobrir todo o piso dessa sala? Considere √3=1,7 || A) 225 | B) 425 | C) 765 | D) 1000 | E) 1250"
+},
+{
+"id": 9102,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "[figura] Num sistema de engrenagens, cada uma tem seu raio, de forma que a engrenagem “A” tem raio com medida **R;** a “B” tem raio com medida igual à metade do raio da engrenagem “A”, e a “C” tem raio com medida igual a um quarto do raio da engrenagem “A”. Sendo a medida do raio de “A” igual a 4 cm, quantas voltas “A” dará, quando “C” percorrer o equivalente a 3600 cm? || A) 2400 | B) 1200 | C) 600 | D) 300 | E) 150"
+},
+{
+"id": 9116,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Uma urna contém 18 bolas vermelhas, 12 amarelas e 20 brancas, sendo todas idênticas. Quantas bolas brancas devem ser retiradas dessa urna, de modo que, ao sortear uma bola, a probabilidade de ela ser branca seja igual a \\(\\frac{1}{6}\\) ? || A) 16 | B) 15 | C) 14 | D) 13 | E) 12"
+},
+{
+"id": 9118,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Qual é a medida da área do quadrilátero limitado pelas retas *(r) y = 4; (s) 3x – y – 2 = 0;* *(t) y = 1* e (*u) 3x + 2y – 20 = 0*? || A) 7,5 | B) 9,0 | C) 10,5 | D) 11 | E) 12"
+},
+{
+"id": 9123,
+"vest": "SSA",
+"ano": "2017",
+"area": "exatas",
+"texto": "Se a função trigonométrica 𝑦 = 𝑎 + 𝑏𝑠𝑒𝑛(𝑝𝑥) tem imagem 𝐼 = [1, 5] e período , qual é o valor \\(\\frac{3}{𝜋}\\) Adote 𝜋=3 da soma 𝑎 + 𝑏 + 𝑝? || A) 5 | B) 6 | C) 8 | D) 10 | E) 11"
+},
+{
+"id": 9290,
+"vest": "SSA",
+"ano": "2018",
+"area": "exatas",
+"texto": "Dona Filó é famosa pelas empadas que vende na cantina de uma escola. No preparo da massa das empadas, para cada copo de leite, ela usa três ovos e, para cada ovo, uma xícara e meia de farinha de trigo. Se Dona Filó preparar a massa das empadas usando três copos de leite, de quantas xícaras de farinha de trigo ela vai precisar? || A) 4,5 | B) 9 | C) 12 | D) 13,5 | E) 27"
+},
+{
+"id": 9294,
+"vest": "SSA",
+"ano": "2018",
+"area": "exatas",
+"texto": "Um químico está tentando produzir um detergente econômico, utilizando sabão concentrado líquido e água. Ele tem 12 litros de sabão concentrado líquido, e retira 4 litros desse volume e os substitui por água. Em seguida, retira 4 litros da mistura obtida e os substitui por água novamente. Efetuando essa operação por 6 vezes consecutivas, quantos litros de sabão concentrado líquido, aproximadamente, sobraram na mistura? || A) 1 | B) 2 | C) 3 | D) 4 | E) 5"
+},
+{
+"id": 9299,
+"vest": "SSA",
+"ano": "2018",
+"area": "exatas",
+"texto": "15. Qual é a capacidade, em litros, de uma cisterna que tem a forma da figura abaixo? || A) 3,2×104 | B) 5,2×103 | C) 6,4×103 | D) 9,6×104 | E) 10,5×104"
+}
+]

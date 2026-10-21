@@ -1,0 +1,6991 @@
+[
+ {
+  "id": "P4138-Q001",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 1,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Blu e Jade, um casal de araras azuis, levou seus filhotes a uma expedição. Blu gosta muito de estudar e está tentando ensinar os filhotes a identificarem os seres vivos.\n\n{{img:1}}\n\n{{fonte:1}}\n\nAjude-os a fazer a identificação **CORRETA**.",
+  "fontes": [
+   "(Disponível em: http://www.100hdwallpapers.com/2014_rio_2_movie-widescreen_wallpapers_pt.html)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "As plantas e os animais pertencem a Filos diferentes por serem autótrofos."
+   },
+   {
+    "letra": "B",
+    "texto": "A rã e a aranha fazem parte do Subfilo Vertebrata."
+   },
+   {
+    "letra": "C",
+    "texto": "O jacaré, a cobra, a rã e as araras pertencem à Classe Carnívora."
+   },
+   {
+    "letra": "D",
+    "texto": "O jacaré e a cobra são répteis de Ordens diferentes."
+   },
+   {
+    "letra": "E",
+    "texto": "Os répteis e as aves pertencem à mesma Família."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q001_img1.png",
+    "pagina": 3,
+    "bbox": [
+     127.2,
+     124.4,
+     468.7,
+     380.9
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   3
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.54,
+     85.30691999999999,
+     547.4794550800003,
+     98.32691999999997
+    ],
+    [
+     42.54039,
+     101.43642999999997,
+     400.1978770807322,
+     112.41642999999999
+    ],
+    [
+     127.23909,
+     124.38,
+     468.72,
+     380.88
+    ],
+    [
+     131.53201,
+     388.00631999999996,
+     464.0918049300001,
+     395.98632
+    ],
+    [
+     70.9189,
+     410.37613999999996,
+     284.81138680000004,
+     421.35614
+    ],
+    [
+     70.9189,
+     435.69602,
+     457.71221485170753,
+     446.67602
+    ],
+    [
+     70.9189,
+     450.21598,
+     338.5018328800002,
+     461.19598
+    ],
+    [
+     70.9189,
+     464.79632,
+     414.7921309200004,
+     475.77632
+    ],
+    [
+     70.9189,
+     479.31627,
+     348.3908484800002,
+     490.29627
+    ],
+    [
+     70.9189,
+     493.83621999999997,
+     337.90146218195605,
+     504.81622
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q001_p3.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q002",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 2,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\nPassaram-se 38 anos desde o surto inicial do vírus, e o mundo está vivendo a pior epidemia de ebola que já ocorreu. Os sintomas incluem febre, diarreia, vômito seguido de sangramento e, por fim, morte.\n\nSerão necessários seis meses para controlar a atual epidemia, que atinge a África Ocidental, disse a chefe da organização Médicos Sem Fronteiras (MSF), em 15 de agosto de 2014.\n\n“Em teoria, deveria ser muito fácil para conter o ebola\", avalia Piot. Na prática, porém, outros fatores dificultam a luta contra um surto. Pessoas que ficam doentes e suas famílias podem ser estigmatizadas pela comunidade, resultando em uma relutância para ajudar. As crenças levam alguns a confundir a doença com bruxaria. Pode haver ainda hostilidade para com os trabalhadores de saúde.\n\n\"Não devemos esquecer que esta é uma doença da pobreza, dos sistemas de saúde deficientes e de desconfiança\", diz Piot. Por isso, informação, comunicação e envolvimento de líderes comunitários são tão importantes quanto a abordagem médica clássica, argumenta.\n\n{{fonte:1}}\n\nPara esse caso do Vírus Ebola, qual alternativa apresenta medidas aplicáveis ao controle do surto?",
+  "fontes": [
+   "Disponível em: http://g1.globo.com/ciencia-e-saude/noticia/2014/08/controle-de-epidemia-de-ebola-levara-6-meses-diz-medicos-sem-fronteiras.html ; http://g1.globo.com/ciencia-e-saude/noticia/2014/07/ebola-virus-que-mata-90-dos-doentes-chegou-a-europa-em-garrafa-termica-em-1976.html. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Evitar ingestão de alimento ou água contaminada pelo vírus, presente nas fezes de uma pessoa doente, e desinfetar os sanitários."
+   },
+   {
+    "letra": "B",
+    "texto": "Implementar medidas de higiene, mecanizar as granjas, reduzindo o contato dos trabalhadores com os animais vetores do vírus, e enterrar as carcaças em fossas profundas."
+   },
+   {
+    "letra": "C",
+    "texto": "Não deixar água parada em vasos, pneus, latas ou qualquer recipiente, pois as fêmeas do vetor colocam seus ovos na água, e deles eclodem larvas, que passam a mosquito."
+   },
+   {
+    "letra": "D",
+    "texto": "Tratar com antibióticos, antitérmicos, anti-inflamatórios e soro caseiro, pois esses vírus são transmitidos por via oral e pelo consumo de carne mal cozida."
+   },
+   {
+    "letra": "E",
+    "texto": "Usar sabão, luvas, isolar pacientes; não reutilizar agulhas e deixar em quarentena os que tiveram contato com as pessoas que estão doentes."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   3,
+   4
+  ],
+  "caixas": {
+   "3": [
+    [
+     42.54,
+     534.04682,
+     173.0929580039024,
+     547.06682
+    ],
+    [
+     42.54,
+     563.25638,
+     547.7358929599999,
+     574.23638
+    ],
+    [
+     42.54,
+     577.83638,
+     484.6086314399992,
+     588.81638
+    ],
+    [
+     42.54,
+     592.35648,
+     547.7304045999991,
+     603.3364799999999
+    ],
+    [
+     42.54,
+     606.9364800000001,
+     390.6168857199996,
+     617.91648
+    ],
+    [
+     42.54,
+     621.45648,
+     547.7567460399988,
+     632.43648
+    ],
+    [
+     42.54,
+     636.03648,
+     547.69528168,
+     647.01648
+    ],
+    [
+     42.54,
+     650.55648,
+     547.5909980165986,
+     661.53648
+    ],
+    [
+     42.54,
+     665.07648,
+     397.1901725599997,
+     676.05648
+    ],
+    [
+     42.54,
+     679.65648,
+     547.7282130399999,
+     690.63648
+    ],
+    [
+     42.54,
+     694.17648,
+     547.6382143199999,
+     705.15648
+    ],
+    [
+     42.54,
+     708.75638,
+     332.74035179999976,
+     719.73638
+    ],
+    [
+     65.52,
+     735.10328,
+     547.45227263,
+     743.0832800000001
+    ],
+    [
+     54.1197,
+     745.6632099999999,
+     549.4584159972013,
+     753.64321
+    ]
+   ],
+   "4": [
+    [
+     60.54,
+     72.39648,
+     546.6180120000002,
+     83.37648000000002
+    ],
+    [
+     60.42032,
+     95.13605999999993,
+     553.0808380000002,
+     106.11605999999995
+    ],
+    [
+     78.24086,
+     112.23631,
+     234.81675800000008,
+     123.21631000000002
+    ],
+    [
+     60.42032,
+     129.33655999999996,
+     553.1028019999999,
+     140.31655999999998
+    ],
+    [
+     78.23976,
+     146.37643000000003,
+     418.2332639999995,
+     157.35643000000005
+    ],
+    [
+     60.41922,
+     163.47668,
+     553.0621719999999,
+     174.45668
+    ],
+    [
+     78.23976,
+     180.51653999999996,
+     441.0584879999999,
+     191.49653999999998
+    ],
+    [
+     60.41922,
+     197.61678999999992,
+     553.1071920000002,
+     208.59678999999994
+    ],
+    [
+     78.23976,
+     214.71704,
+     365.2536659999996,
+     225.69704000000002
+    ],
+    [
+     60.41922,
+     231.75690999999995,
+     552.9622559999999,
+     242.73690999999997
+    ],
+    [
+     78.23976,
+     248.85716000000002,
+     283.434,
+     259.83716000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q002_p3.jpg",
+   "revisao/Q002_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q003",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 3,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Prevenir é melhor que remediar, já diz o ditado popular. No Brasil, constata-se que ações educacionais, com foco na consciência da importância da higiene, têm surtido efeitos positivos, e, em algumas regiões do Brasil, houve significativa diminuição de doenças parasitárias. Algumas medidas podem ser tomadas, entre outras,\n\nI. Lavagem das mãos com água e sabão.  \nII. Lavagem dos alimentos.  \nIII. Uso de calçado.  \nIV. Implementação de infraestrutura sanitária.  \nV. Uso de telas protetoras e combate ao mosquito.\n\nAnalise a alternativa que apresenta a correspondência **CORRETA** entre as medidas de prevenção e a doença.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I – Tétano; II – Febre Tifoide; III – Dermatite do bicho geográfico; IV – Botulismo; V – Malária"
+   },
+   {
+    "letra": "B",
+    "texto": "I – Gastroenterite; II – Febre Tifoide; III – Tétano; IV – Gonorreia; V – Tricomoníase"
+   },
+   {
+    "letra": "C",
+    "texto": "I – Oxiurose; II – Gastroenterite; III – Amarelão ; IV – Ascaridíase; V – Filaríase"
+   },
+   {
+    "letra": "D",
+    "texto": "I – Hepatite infecciosa; II – Varíola; III – Tricomoníase; IV – Amebíase; V – Doença de Chagas"
+   },
+   {
+    "letra": "E",
+    "texto": "I – Gripe; II – Giardíase; III – Dermatite do bicho geográfico; IV – Doença de Chagas; V – Filaríase"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   4
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.54,
+     304.12692000000004,
+     552.7498500000005,
+     317.14692
+    ],
+    [
+     42.53999,
+     320.25643,
+     552.7695990200008,
+     331.23643000000004
+    ],
+    [
+     42.53999,
+     334.83677,
+     552.7454600000003,
+     345.81677
+    ],
+    [
+     42.53999,
+     349.35672999999997,
+     207.65283799999997,
+     360.33673
+    ],
+    [
+     57.42009,
+     374.01671,
+     263.477362,
+     385.05161000000004
+    ],
+    [
+     53.76046,
+     388.59704999999997,
+     190.19464599999992,
+     399.63195
+    ],
+    [
+     50.09972,
+     403.11699999999996,
+     149.80032400000002,
+     414.1519
+    ],
+    [
+     49.50022,
+     417.69734,
+     277.029976,
+     428.73224000000005
+    ],
+    [
+     53.15985,
+     432.21729999999997,
+     305.0487400000001,
+     443.2522
+    ],
+    [
+     70.92,
+     459.39718999999997,
+     551.4816619999999,
+     470.37719
+    ],
+    [
+     70.92,
+     473.97753,
+     128.435436,
+     484.95753
+    ],
+    [
+     70.92,
+     501.15742,
+     543.8527559999994,
+     512.13742
+    ],
+    [
+     70.92,
+     516.99717,
+     498.06835200000046,
+     527.97717
+    ],
+    [
+     70.92,
+     532.77763,
+     477.3216420000005,
+     543.7576300000001
+    ],
+    [
+     70.92,
+     548.6173699999999,
+     551.9592899999992,
+     559.59737
+    ],
+    [
+     70.92,
+     564.39783,
+     526.3703999999994,
+     575.37783
+    ],
+    [
+     92.15971,
+     580.23758,
+     134.380006,
+     591.21758
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q003_p4.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q004",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 4,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Subir a Ilha de Trindade é voltar ao tempo. Distante aproximadamente 1.200 km do Estado do Espírito Santo, possui uma flora bastante peculiar, que, em formação, se assemelha às primeiras florestas do planeta. Dominada por uma espécie endêmica, conhecida como *Cyathea copelandii*, tem porte baixo, cujo tecido lenhoso, denominado caudex, é formado externamente por pecíolos endurecidos das frondes antigas, revestindo o rizoma. A base do caudex está geralmente na horizontal, mas, a partir da metade em diante, a planta é ereta. As folhas divididas em folíolos surgem enroladas, e sua reprodução é sexuada. Por causa da introdução de cabritos na ilha, a espécie quase desapareceu. Depois da retirada dos animais, hoje é possível perceber uma leve recuperação (foto), com algumas árvores adultas e prótalos colonizando o solo desnudo e aumentando, na ilha, a área dessa floresta típica.\n\n{{img:1}}\n\n{{fonte:1}}\n\nEssas características permitem classificar *Cyathea copelandii* em",
+  "fontes": [
+   "(Disponível em: casopis.vesmir.cz/files/obr/id/4092/type.html)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Criptógama vascular e Pteridófita."
+   },
+   {
+    "letra": "B",
+    "texto": "Criptógama avascular e Briófita."
+   },
+   {
+    "letra": "C",
+    "texto": "Fanerógama angiosperma e Dicotiledônea."
+   },
+   {
+    "letra": "D",
+    "texto": "Fanerógama gimnosperma e Conífera."
+   },
+   {
+    "letra": "E",
+    "texto": "Fanerógama angiosperma e Monocotiledônea."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q004_img1.png",
+    "pagina": 5,
+    "bbox": [
+     129.2,
+     70.4,
+     466.6,
+     293.0
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   4,
+   5
+  ],
+  "caixas": {
+   "4": [
+    [
+     42.54,
+     621.58682,
+     552.8958840000005,
+     634.60682
+    ],
+    [
+     42.53999,
+     637.7767200000001,
+     552.7191019999995,
+     648.75672
+    ],
+    [
+     42.53999,
+     652.29667,
+     552.8311,
+     663.27667
+    ],
+    [
+     42.53999,
+     666.87702,
+     552.7827859999999,
+     677.85702
+    ],
+    [
+     42.53999,
+     681.39697,
+     552.7772959999992,
+     692.37697
+    ],
+    [
+     42.53999,
+     695.91692,
+     552.8014519999991,
+     706.89692
+    ],
+    [
+     42.53999,
+     710.49726,
+     552.76412,
+     721.47726
+    ],
+    [
+     42.53999,
+     725.01721,
+     552.7333759999992,
+     735.99721
+    ],
+    [
+     42.53999,
+     739.59756,
+     552.7399533494007,
+     750.57756
+    ],
+    [
+     42.53999,
+     754.11751,
+     71.92686200000001,
+     765.09751
+    ]
+   ],
+   "5": [
+    [
+     129.18,
+     70.38,
+     466.56,
+     293.04
+    ],
+    [
+     197.16,
+     293.86338,
+     398.27095524000015,
+     301.8433799999999
+    ],
+    [
+     70.9218040509756,
+     332.67596999999995,
+     390.00993836000004,
+     343.65596999999997
+    ],
+    [
+     70.91961,
+     356.66699,
+     257.95590320878404,
+     367.64699
+    ],
+    [
+     70.91961,
+     372.50673,
+     248.71554578829603,
+     383.48673
+    ],
+    [
+     70.91961,
+     388.28718999999995,
+     303.07440364000024,
+     399.26718999999997
+    ],
+    [
+     70.91961,
+     404.12694,
+     281.68625192,
+     415.10694
+    ],
+    [
+     70.91961,
+     419.90738999999996,
+     320.24572988390275,
+     430.88739
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q004_p4.jpg",
+   "revisao/Q004_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q005",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 5,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A evolução das angiospermas passa pelo sucesso na conquista do ambiente terrestre, sem depender da água para diversas funções, ainda que esta seja vital para a sobrevivência de qualquer espécie. Mas, para tal sucesso, houve a evolução reprodutiva e, sem dúvida alguma, a redução progressiva da fase haploide foi uma tendência importante.\n\nQuanto ao gametófito, é **CORRETO** afirmar que",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "armazena substâncias nutritivas e se transforma no endosperma primário cuja função é nutrir o embrião durante o desenvolvimento."
+   },
+   {
+    "letra": "B",
+    "texto": "diminui sensivelmente o tempo entre a polinização e a maturação da semente e evita o desperdício na produção de tecidos de reserva, na incerteza de uma fertilização do óvulo."
+   },
+   {
+    "letra": "C",
+    "texto": "aumenta o tempo de contato entre as células espermáticas e a oosfera, conservando o processo de fertilização e viabilizando a formação do zigoto."
+   },
+   {
+    "letra": "D",
+    "texto": "facilita o transporte de anterozoides para perto dos arquegônios, em que os gametas masculinos nadam ativamente nas superfícies umedecidas e penetram nos arquegônios."
+   },
+   {
+    "letra": "E",
+    "texto": "mantém preservados os grãos de pólen por tempo suficiente para que o óvulo amadureça, sincronizando a fase masculina com a fase feminina, garantindo a fertilização."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   5
+  ],
+  "caixas": {
+   "5": [
+    [
+     42.54,
+     466.36692,
+     517.8585052917075,
+     479.38692000000003
+    ],
+    [
+     42.54039,
+     482.55681999999996,
+     532.3100767646342,
+     493.53682
+    ],
+    [
+     42.54039,
+     497.07676999999995,
+     509.6180236000001,
+     508.05677
+    ],
+    [
+     42.54039,
+     511.65711999999996,
+     331.16574320000007,
+     522.63712
+    ],
+    [
+     70.92219404000001,
+     529.95638,
+     305.735278,
+     540.93638
+    ],
+    [
+     70.92,
+     548.97594,
+     552.8684740399988,
+     559.95594
+    ],
+    [
+     92.15998,
+     563.4958899999999,
+     279.2171308,
+     574.4758899999999
+    ],
+    [
+     70.92,
+     578.07623,
+     552.7631082799995,
+     589.05623
+    ],
+    [
+     92.15998,
+     592.59619,
+     530.4650781999993,
+     603.57619
+    ],
+    [
+     70.92,
+     607.11614,
+     552.8179862799989,
+     618.09614
+    ],
+    [
+     92.15998,
+     621.6964800000001,
+     386.24679176000024,
+     632.67648
+    ],
+    [
+     70.92,
+     636.21643,
+     552.7159131999991,
+     647.19643
+    ],
+    [
+     92.15998,
+     650.79677,
+     526.2284965999994,
+     661.7767699999999
+    ],
+    [
+     70.92,
+     665.31673,
+     552.957376399999,
+     676.29673
+    ],
+    [
+     92.15998,
+     679.89707,
+     473.1757389897561,
+     690.87707
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q005_p5.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q006",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 6,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A imagem a seguir corresponde ao Fuleco, mascote da copa da FIFA de 2014, que foi sediada no Brasil. A mascote, cujo nome é a junção das palavras “futebol” e “ecologia”, representa a espécie *Tolypeuteus trincinctus*, conhecida vulgarmente como tatu-bola. Considerada uma espécie que corre alto risco de extinção em médio prazo pelo livro da Biodiversitas (2008), este animal pertence ao Filo Chordata, Classe Mammalia.\n\n{{img:1}}\n\n{{fonte:1}}\n\nCom relação às características dos mamíferos, analise as afirmativas a seguir:\n\nI. Apesar da viviparidade, o embrião se desenvolve por completo, dentro do corpo da mãe e já nasce com formato bem similar ao que será quando adulto. Além de aumentar as chances de sobrevivência dos filhotes, garantindo o sucesso reprodutivo, a viviparidade limita o número de filhotes por gestação e, por isso, é considerada evolutivamente um fator desvantajoso.\n\nII. A presença das glândulas mamárias, sebáceas e sudoríparas, estruturas de origem endodérmicas, juntamente com os pelos de origem ectodérmica, placenta, músculo diafragma e o desenvolvimento intrauterino do filhote são as principais características dos mamíferos.\n\nIII. Podem ser encontrados desde as regiões tropicais até as polares e desde os mares até os desertos mais secos e as florestas mais densas. O sucesso de conseguir viver em ambientes bem diferentes deve-se a uma série de outras características, entre as quais se pode citar: mecanismos de retenção e dissipação de calor, desenvolvimento do encéfalo, heterodontia.\n\nIV. São classificados nas subclasses Eutheria, Metatheria e Prototheria. Os eutérios, conhecidos como placentários, constituem o maior grupo de mamíferos; o tatu-bola se encontra nesse grupo. Os metatérios apresentam marsúpios, a exemplo do gambá, e os prototérios são os mais primitivos, formados, apenas, pela ordem dos monotremados.\n\nV. Todos os mamíferos têm sistema digestório completo, respiração pulmonar, coração com quatro cavidades, circulação fechada, dupla e completa. As hemácias são pequenas, discoidais e nucleadas; os rins são do tipo mesonefrons, e o produto final da excreção é a ureia. Os marsupiais e alguns eutérios podem ter placenta cório-vitelínica, e os demais eutérios, placenta cório-alantoica.\n\nEstão **CORRETAS** apenas",
+  "fontes": [
+   "(Disponível em: http://sacizento.bol.uol.com.br/blog/?p=4900)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, II e V."
+   },
+   {
+    "letra": "B",
+    "texto": "I, III e IV."
+   },
+   {
+    "letra": "C",
+    "texto": "II e V."
+   },
+   {
+    "letra": "D",
+    "texto": "II, III e V."
+   },
+   {
+    "letra": "E",
+    "texto": "III e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q006_img1.png",
+    "pagina": 6,
+    "bbox": [
+     216.0,
+     137.2,
+     362.8,
+     281.6
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   6
+  ],
+  "caixas": {
+   "6": [
+    [
+     42.54,
+     72.64692000000002,
+     549.0665263865855,
+     85.66692
+    ],
+    [
+     42.54039,
+     88.83681999999999,
+     516.9541148046344,
+     99.81682
+    ],
+    [
+     42.54039,
+     103.35676999999998,
+     534.1034938400005,
+     114.33677
+    ],
+    [
+     42.54039,
+     117.87672999999995,
+     534.7345877600003,
+     128.85672999999997
+    ],
+    [
+     42.54039,
+     132.45706999999993,
+     184.2869713199999,
+     143.43706999999995
+    ],
+    [
+     216.0,
+     137.15999999999997,
+     362.82,
+     281.64
+    ],
+    [
+     197.22036,
+     288.64486,
+     398.3065856399998,
+     296.6248599999999
+    ],
+    [
+     70.92,
+     304.71631,
+     454.91343916,
+     315.69631000000004
+    ],
+    [
+     57.36,
+     336.33648,
+     552.8710147517165,
+     347.37138000000004
+    ],
+    [
+     70.92,
+     351.51648,
+     552.6720108000002,
+     362.49648
+    ],
+    [
+     70.92,
+     366.69647999999995,
+     552.7872592000001,
+     377.67647999999997
+    ],
+    [
+     70.92,
+     381.87647999999996,
+     492.8012114400001,
+     392.85648
+    ],
+    [
+     53.70038,
+     397.05633,
+     552.7444388892764,
+     408.09123000000005
+    ],
+    [
+     70.92,
+     412.23618,
+     552.7751582814847,
+     423.21618
+    ],
+    [
+     70.92,
+     427.41603,
+     496.95327039000887,
+     438.39603
+    ],
+    [
+     50.04002,
+     442.59587999999997,
+     552.848715759999,
+     453.63078
+    ],
+    [
+     70.92,
+     457.77572999999995,
+     552.7389619599993,
+     468.75572999999997
+    ],
+    [
+     70.92,
+     472.95558,
+     552.8234646409844,
+     483.93558
+    ],
+    [
+     70.92,
+     488.13543,
+     519.0405677312285,
+     499.11543
+    ],
+    [
+     49.44,
+     503.31638,
+     552.7799170399988,
+     514.3512800000001
+    ],
+    [
+     70.92,
+     518.49648,
+     552.858595999999,
+     529.47648
+    ],
+    [
+     70.92,
+     533.67648,
+     552.8081082400003,
+     544.65648
+    ],
+    [
+     70.92,
+     548.8564799999999,
+     372.9278960239081,
+     559.8364799999999
+    ],
+    [
+     53.10002,
+     564.0363299999999,
+     552.7751660692802,
+     575.07123
+    ],
+    [
+     70.92,
+     579.15579,
+     552.7367668400003,
+     590.13579
+    ],
+    [
+     70.92,
+     594.33564,
+     552.7192058800001,
+     605.31564
+    ],
+    [
+     70.92,
+     609.51549,
+     552.7214010000004,
+     620.49549
+    ],
+    [
+     70.92,
+     624.69534,
+     145.5485922,
+     635.67534
+    ],
+    [
+     70.92,
+     652.59442,
+     203.01271221122,
+     663.57442
+    ],
+    [
+     70.98,
+     675.51648,
+     128.32201976000002,
+     686.55138
+    ],
+    [
+     70.98,
+     691.35648,
+     135.16201672,
+     702.39138
+    ],
+    [
+     70.98,
+     707.25638,
+     119.62275976,
+     718.29128
+    ],
+    [
+     70.98,
+     723.09648,
+     134.87006044,
+     734.13138
+    ],
+    [
+     70.98,
+     738.93648,
+     126.17300008,
+     749.97138
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q006_p6.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q007",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 7,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A figura abaixo corresponde ao ciclo da Hidatidose ou Equinococose.\n\n{{img:1}}\n\n{{fonte:1}}\n\nAssinale a alternativa que está de acordo com esse ciclo.",
+  "fontes": [
+   "(Disponível em: http://veterinariaparatodos.blogspot.com.br/2010_05_01_archive.html. Adaptado.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O ciclo representa uma infecção ciclozoonótica parasitária grave, causada pelos nematelmintos do gênero *Echinococcus sp*. Sua maior incidência em áreas rurais se deve, principalmente, à alimentação dos cães pastores com vísceras cruas, contendo o cisto hidático, à carência de educação sanitária, entre outros."
+   },
+   {
+    "letra": "B",
+    "texto": "No ciclo, os hospedeiros definitivo e intermediário são, respectivamente, o cachorro, representado pela letra “D”, e o carneiro, pela letra “E”. No cachorro, o helminto reproduz-se sexuadamente, enquanto, no carneiro, se reproduz assexuadamente."
+   },
+   {
+    "letra": "C",
+    "texto": "No homem representado pela letra “C”, a transmissão da doença acontece pela ingestão de alimentos e ou água contaminados com a larva das fezes do nematelminto, representada pelo número “2”."
+   },
+   {
+    "letra": "D",
+    "texto": "No ciclo, a letra “A” indica ingestão de cistos pelo cachorro; a letra “B”, a ingestão de ovos, e a letra “C”, o hospedeiro acidental da hidatidose, cuja infecção se dá pelo contato e convívio direto com cães não vermifugados ."
+   },
+   {
+    "letra": "E",
+    "texto": "O número “1” indica o nematelminto na fase adulta, causador da hidatidose que consiste na formação de vesículas em diversos órgãos dos mamíferos domésticos e do homem."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q007_img1.png",
+    "pagina": 7,
+    "bbox": [
+     47.5,
+     107.3,
+     547.9,
+     395.8
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     42.54,
+     72.70691999999997,
+     409.639089258781,
+     85.72691999999995
+    ],
+    [
+     47.52,
+     107.28,
+     547.9200000000001,
+     395.82469
+    ],
+    [
+     139.49799,
+     397.00946,
+     457.8477247993592,
+     404.98946
+    ],
+    [
+     70.9229,
+     433.23366,
+     351.013623818052,
+     444.21366
+    ],
+    [
+     70.9229,
+     458.55354,
+     552.7451546399992,
+     469.53354
+    ],
+    [
+     92.16069,
+     475.64939999999996,
+     552.8812580800002,
+     486.6294
+    ],
+    [
+     92.16069,
+     492.69036,
+     552.8505243999997,
+     503.67036
+    ],
+    [
+     92.16069,
+     509.78621999999996,
+     365.4805690000001,
+     520.76622
+    ],
+    [
+     70.9229,
+     526.82718,
+     552.8121058,
+     537.80718
+    ],
+    [
+     92.16069,
+     543.9230399999999,
+     552.85162196,
+     554.9030399999999
+    ],
+    [
+     92.16069,
+     561.0189,
+     431.3363641200002,
+     571.9989
+    ],
+    [
+     70.9229,
+     578.0598600000001,
+     552.7846667999991,
+     589.03986
+    ],
+    [
+     92.16069,
+     595.15572,
+     553.0063736395164,
+     606.13572
+    ],
+    [
+     92.16069,
+     612.19668,
+     148.9627126690244,
+     623.17668
+    ],
+    [
+     70.9229,
+     629.29254,
+     552.7330816995121,
+     640.2725399999999
+    ],
+    [
+     92.16069,
+     646.3884,
+     552.8757682800003,
+     657.3684000000001
+    ],
+    [
+     92.16069,
+     663.42936,
+     266.3763887999999,
+     674.40936
+    ],
+    [
+     70.9229,
+     680.52522,
+     552.84832528,
+     691.50522
+    ],
+    [
+     92.16069,
+     697.56618,
+     502.93788584000004,
+     708.54618
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q007_p7.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q008",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 8,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a figura a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nEla representa o esquema de um sistema circulatório. Com base nessa figura, leia atentamente as afirmativas a seguir:\n\nI. O esquema corresponde a uma circulação dupla e fechada, respectivamente. Dupla, porque o sangue arterial e o venoso circulam pelo pulmão e coração, e fechada, porque o sangue circula no interior de vasos.\n\nII. O esquema representa o sistema circulatório de um anfíbio, no qual a circulação é incompleta, porque o ventrículo é único e nele o sangue arterial e o venoso se misturam.\n\nIII. O sangue venoso, pobre em oxigênio e rico em gás carbônico, vem dos tecidos do corpo através das veias cava superior e cava inferior e penetra no átrio direito; o sangue arterial, vindo dos pulmões através da veia pulmonar, penetra no átrio esquerdo.\n\nIV. O sistema circulatório consta de um coração, que apresenta dois ventrículos (direito e esquerdo) e uma aurícula. Encontramos um seio venoso que recebe sangue venoso e passa para o ventrículo direito, e o bulbo arterial que constitui uma continuação do ventrículo.\n\nV. O sistema circulatório é de um réptil crocodiliano, no qual o coração é constituído por dois átrios e um ventrículo. O sangue venoso vindo dos tecidos do corpo chega ao átrio direito do coração através da veia cava.\n\nEstão **CORRETAS** apenas",
+  "fontes": [
+   "(Disponível em: http://gabrielrbrunoabioifes.wordpress.com/2011/04/10/sistema-circulatorio-dos-vertebrados. Adaptado.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, III e IV."
+   },
+   {
+    "letra": "B",
+    "texto": "I, IV e V."
+   },
+   {
+    "letra": "C",
+    "texto": "II e III."
+   },
+   {
+    "letra": "D",
+    "texto": "II, III e V."
+   },
+   {
+    "letra": "E",
+    "texto": "II e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q008_img1.png",
+    "pagina": 8,
+    "bbox": [
+     134.0,
+     100.8,
+     444.4,
+     364.4
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   8
+  ],
+  "caixas": {
+   "8": [
+    [
+     42.54,
+     72.70691999999997,
+     197.46866799999995,
+     85.72691999999995
+    ],
+    [
+     133.98,
+     100.79999999999995,
+     444.41999999999996,
+     364.44
+    ],
+    [
+     100.73973,
+     367.84698,
+     491.07427296107477,
+     375.82698
+    ],
+    [
+     42.54,
+     383.91591999999997,
+     523.6005376829366,
+     394.89592
+    ],
+    [
+     42.54,
+     398.43586999999997,
+     140.99771516487996,
+     409.41587
+    ],
+    [
+     57.36035,
+     419.37582999999995,
+     552.7199015814725,
+     430.41073
+    ],
+    [
+     70.91961,
+     435.81618,
+     552.8636937999996,
+     446.79618
+    ],
+    [
+     70.91961,
+     452.25653,
+     154.74026720000003,
+     463.23653
+    ],
+    [
+     53.69999,
+     468.75618,
+     552.7319844,
+     479.79108
+    ],
+    [
+     70.91961,
+     485.19653,
+     444.4401317936588,
+     496.17653
+    ],
+    [
+     50.03963,
+     501.63689,
+     552.7539356000001,
+     512.6717900000001
+    ],
+    [
+     70.91961,
+     518.07724,
+     552.8285614531806,
+     529.05724
+    ],
+    [
+     70.91961,
+     534.5175999999999,
+     374.1973827243961,
+     545.4975999999999
+    ],
+    [
+     49.43926,
+     550.95795,
+     552.9558878800001,
+     561.9928500000001
+    ],
+    [
+     70.91851,
+     567.3983,
+     552.8483002761208,
+     578.3783
+    ],
+    [
+     70.91851,
+     583.83866,
+     409.6990625200003,
+     594.81866
+    ],
+    [
+     53.09853,
+     600.27901,
+     552.6803966399989,
+     611.31391
+    ],
+    [
+     70.91851,
+     616.71937,
+     552.8428377199991,
+     627.69937
+    ],
+    [
+     70.91851,
+     633.15972,
+     174.87939319999995,
+     644.13972
+    ],
+    [
+     70.91961,
+     655.8993,
+     203.01231221122,
+     666.8793000000001
+    ],
+    [
+     70.86,
+     674.85648,
+     134.80242672,
+     685.89138
+    ],
+    [
+     70.86,
+     691.95648,
+     133.67116679999998,
+     702.9913799999999
+    ],
+    [
+     70.86,
+     709.11648,
+     123.83153680000001,
+     720.15138
+    ],
+    [
+     70.86,
+     726.21648,
+     135.88274976,
+     737.25138
+    ],
+    [
+     70.86,
+     743.31648,
+     124.36275672,
+     754.35138
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q008_p8.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q009",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 9,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O texto a seguir refere-se ao sistema urinário humano, e dele foram retiradas palavras que dizem respeito ao processo de excreção.\n\n“A produção da urina é regulada pela região cerebral (hipotálamo) capaz de perceber alterações no equilíbrio osmótico e iônico. Nessa região, há produção do hormônio __1__ responsável pelo aumento da reabsorção de água no túbulo distal e ducto coletor, diminuindo o volume de urina e, assim, a perda de água. O hormônio __2__ também participa dessa regulação, sendo produzido na glândula suprarrenal. Esse hormônio exerce seu efeito nesses túbulos, aumentando a reabsorção de __3__ e a secreção de __4__.\n\nAssinale a alternativa cujos termos preenchem, **CORRETA** e respectivamente, as lacunas acima.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "1- paratormônio 2- hidrocortisona"
+   },
+   {
+    "letra": "B",
+    "texto": "1- antidiurético 2- aldosterona 2- epinefrina"
+   },
+   {
+    "letra": "C",
+    "texto": "1- aldosterona 2- epinefrina"
+   },
+   {
+    "letra": "D",
+    "texto": "1- renina"
+   },
+   {
+    "letra": "E",
+    "texto": "1- hidrocortisona 2- antidiurético"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.54,
+     72.64692000000002,
+     552.7981619999997,
+     85.66692
+    ],
+    [
+     42.53999,
+     88.83681999999999,
+     210.65806053032003,
+     99.81682
+    ],
+    [
+     42.54,
+     109.65647999999999,
+     552.6477420000001,
+     120.63648
+    ],
+    [
+     42.54,
+     124.83647999999994,
+     552.7959720000001,
+     135.81647999999996
+    ],
+    [
+     42.54,
+     140.01648,
+     552.9057720000001,
+     150.99648000000002
+    ],
+    [
+     42.54,
+     155.19647999999995,
+     552.8234219999999,
+     166.17647999999997
+    ],
+    [
+     42.54,
+     170.37648000000002,
+     552.7630360000002,
+     181.35648000000003
+    ],
+    [
+     42.54,
+     185.55647999999997,
+     139.16619600000004,
+     196.53647999999998
+    ],
+    [
+     70.92,
+     206.73648000000003,
+     546.434152,
+     217.71648000000005
+    ],
+    [
+     74.21949,
+     227.31628999999998,
+     278.74724399999997,
+     238.29629
+    ],
+    [
+     74.21949,
+     245.97680000000003,
+     267.53438048940006,
+     256.95680000000004
+    ],
+    [
+     196.78264005654,
+     264.57692,
+     257.96429674992004,
+     275.55692
+    ],
+    [
+     74.21949,
+     264.57692,
+     167.90743626516,
+     275.55692
+    ],
+    [
+     196.81997230908,
+     283.2363399999999,
+     258.00162900246,
+     294.21633999999995
+    ],
+    [
+     74.21949,
+     283.2363399999999,
+     141.05804281416002,
+     294.21633999999995
+    ],
+    [
+     74.21949,
+     301.89575,
+     268.95507,
+     312.87648
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q009_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q010",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 10,
+  "area": "",
+  "texto_base_id": "P4138-T1",
+  "textos_base_ids": [
+   "P4138-T1"
+  ],
+  "enunciado": "Leia o texto a seguir:\n\nDurante um ano, médicos, nutricionistas, psicólogos, educadores físicos e fisioterapeutas de São Paulo acompanharam 77 adolescentes de 14 a 19 anos e peso entre 101 e 120 kg, motivando-os a perderem peso gradativamente, por meio de exercícios físicos e da incorporação de uma dieta mais rica em verduras e frutas e de hábitos de vida mais saudáveis, como dormir mais cedo e pelo menos oito horas, em vez de passar a noite na internet comendo batatinhas fritas. Em adolescentes, perder apenas 8% do excesso de peso, o equivalente a uma redução de 6 a 11 quilogramas (kg) da massa corporal, pode ser o bastante para os níveis de gordura abdominal e de gordura no fígado voltarem ao normal e desfazerem parte das alterações metabólicas causadas pela obesidade. A redução na taxa de leptina favorece o emagrecimento e contribui para a redução do chamado processo inflamatório subclínico, que aumenta o risco para o diabetes, a hipertensão e doenças cardiovasculares, que normalmente acompanham a obesidade.\n\n{{fonte:1}}\n\nSobre isso, é **CORRETO** afirmar que",
+  "fontes": [
+   "Disponível em: http://revistapesquisa.fapesp.br/2013/07/12/grandes-ganhos-com-pequena-perda-de-peso. Adaptado."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "a obesidade deve ser vista como doença crônica multicausal e, portanto, precisa ser tratada de modo integrado, com a adoção dos mesmos objetivos pela equipe, os quais propõem mudanças no estilo de vida para adolescentes e adultos."
+   },
+   {
+    "letra": "B",
+    "texto": "a leptina reduz o risco de problemas no coração e nos vasos sanguíneos, ajudando a regular a ação da adrenalina e a absorção de glicose."
+   },
+   {
+    "letra": "C",
+    "texto": "dois dos indicadores de risco para doenças cardiovasculares, o nível de triglicérides e o colesterol de alta densidade, ambos avaliados por meio de exame de sangue, precisam estar em níveis alto e baixo, respectivamente."
+   },
+   {
+    "letra": "D",
+    "texto": "é importante perder peso rapidamente, para dar tempo ao organismo de restabelecer o equilíbrio perdido, evitando o acúmulo de gordura no coração e no fígado, associado à hipertensão e diabetes."
+   },
+   {
+    "letra": "E",
+    "texto": "além de mudar hábitos alimentares e de sono, a prática de exercícios físicos sob exposição solar favorece a captação de glicose pelas células dos músculos e do fígado."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   9
+  ],
+  "caixas": {
+   "9": [
+    [
+     42.54,
+     339.49897999999996,
+     173.07352799999998,
+     352.51898
+    ],
+    [
+     42.53999,
+     360.54862999999995,
+     547.4179567296001,
+     371.52862999999996
+    ],
+    [
+     42.53999,
+     375.06857999999994,
+     547.3938019999991,
+     386.04857999999996
+    ],
+    [
+     42.53999,
+     389.64892,
+     547.3652570590001,
+     400.62892
+    ],
+    [
+     42.53999,
+     404.16887999999994,
+     547.3356120000002,
+     415.14887999999996
+    ],
+    [
+     42.53999,
+     418.74922,
+     547.3542739999994,
+     429.72922
+    ],
+    [
+     42.53999,
+     433.26917,
+     547.366341898401,
+     444.24917
+    ],
+    [
+     42.53999,
+     447.84950999999995,
+     547.2818059999992,
+     458.82950999999997
+    ],
+    [
+     42.53999,
+     462.36945999999995,
+     547.3652539999991,
+     473.34945999999997
+    ],
+    [
+     42.53999,
+     476.94980999999996,
+     547.2334939999992,
+     487.92981
+    ],
+    [
+     42.53999,
+     491.46975999999995,
+     547.366352,
+     502.44975999999997
+    ],
+    [
+     42.53999,
+     505.98970999999995,
+     242.49676999999997,
+     516.96971
+    ],
+    [
+     174.9,
+     526.33534,
+     547.398422,
+     534.31534
+    ],
+    [
+     70.92001,
+     544.77582,
+     251.86491385726,
+     555.75582
+    ],
+    [
+     70.92001,
+     572.0161,
+     552.7114300000003,
+     582.9961000000001
+    ],
+    [
+     92.15972,
+     586.53605,
+     552.7915820000003,
+     597.51605
+    ],
+    [
+     92.15972,
+     601.056,
+     369.2103740000001,
+     612.0360000000001
+    ],
+    [
+     70.92001,
+     615.63634,
+     552.7663299999999,
+     626.61634
+    ],
+    [
+     92.15972,
+     630.1563,
+     317.1047840000002,
+     641.1363
+    ],
+    [
+     70.92001,
+     644.73664,
+     552.8289160000004,
+     655.71664
+    ],
+    [
+     92.15972,
+     659.25659,
+     552.8102415388398,
+     670.23659
+    ],
+    [
+     92.15972,
+     673.8369299999999,
+     288.401966,
+     684.81693
+    ],
+    [
+     70.92001,
+     688.35688,
+     552.8783240000002,
+     699.3368800000001
+    ],
+    [
+     92.15972,
+     702.93723,
+     552.8409827768004,
+     713.91723
+    ],
+    [
+     92.15972,
+     717.45718,
+     206.51751558439997,
+     728.43718
+    ],
+    [
+     70.92001,
+     732.1572,
+     552.8486673884,
+     743.56542
+    ],
+    [
+     92.16082,
+     746.67715,
+     468.82861389676015,
+     757.65715
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q010_p9.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q011",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 11,
+  "area": "",
+  "texto_base_id": "P4138-T2",
+  "textos_base_ids": [
+   "P4138-T2"
+  ],
+  "enunciado": "Observe o esquema, considerando que se trata de engrenagens, significando que há troca de energia entre elas. O esquema indica uma representação dos processos bioquímicos. Em (I), tem-se o processo de transformação dos alimentos; em (II), tem-se a conversão do difosfato de adenosina (ADP) em trifosfato de adenosina (ATP) a partir da reação com fosfato (P); em (III), tem-se a transformação do ATP em ADP e fosfato; e em (IV), tem-se um processo bioquímico qualquer, necessário à manutenção da vida.\n\n{{img:1}}\n\nConsiderando a variação da energia livre de Gibbs (∆G) de cada processo, assinale a alternativa que apresenta as relações **CORRETAS**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I – ∆G < 0; II – ∆G < 0; III – ∆G > 0;"
+   },
+   {
+    "letra": "B",
+    "texto": "I – ∆G > 0; II – ∆G > 0; III – ∆G < 0;"
+   },
+   {
+    "letra": "C",
+    "texto": "I – ∆G < 0; II – ∆G > 0; III – ∆G < 0;"
+   },
+   {
+    "letra": "D",
+    "texto": "I – ∆G > 0; II – ∆G > 0; III – ∆G < 0;"
+   },
+   {
+    "letra": "E",
+    "texto": "I – ∆G < 0; II – ∆G < 0; III – ∆G > 0;"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q011_img1.png",
+    "pagina": 10,
+    "bbox": [
+     101.6,
+     161.2,
+     528.4,
+     423.6
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   10
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.54,
+     72.64692000000002,
+     552.75104136,
+     85.66692
+    ],
+    [
+     42.5404,
+     88.83681999999999,
+     552.7806781600003,
+     99.81682
+    ],
+    [
+     42.5404,
+     103.35676999999998,
+     552.7806709570802,
+     114.33677
+    ],
+    [
+     42.5404,
+     117.87672999999995,
+     552.75651318148,
+     128.85672999999997
+    ],
+    [
+     42.5404,
+     132.45706999999993,
+     552.6753019731806,
+     143.43706999999995
+    ],
+    [
+     42.5404,
+     146.97701999999992,
+     81.04719504,
+     157.95701999999994
+    ],
+    [
+     101.58,
+     161.16000000000008,
+     528.42,
+     423.6
+    ],
+    [
+     70.92001,
+     441.57919999999996,
+     552.791656,
+     452.5592
+    ],
+    [
+     70.91891,
+     456.09916,
+     268.37104680000004,
+     467.07916
+    ],
+    [
+     70.91891,
+     480.63946,
+     285.84200580000004,
+     491.61946
+    ],
+    [
+     70.91781,
+     497.73971,
+     285.8409158,
+     508.71971
+    ],
+    [
+     70.91671,
+     514.7795699999999,
+     285.8398158,
+     525.7595699999999
+    ],
+    [
+     70.91562,
+     531.87982,
+     285.83871580000005,
+     542.85982
+    ],
+    [
+     70.91452,
+     548.98007,
+     285.8376158,
+     559.96007
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [
+   "há alternativas com texto idêntico — conferir"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q011_p10.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q012",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 12,
+  "area": "",
+  "texto_base_id": "P4138-T3",
+  "textos_base_ids": [
+   "P4138-T3"
+  ],
+  "enunciado": "Na indústria ou no dia a dia das pessoas, é muito comum se utilizarem substâncias para alterar ou controlar a temperatura de sistemas contendo água. Por exemplo:\n\nI. Em sistemas de arrefecimento automotivo, utiliza-se etilenoglicol, C<sub>2</sub>H<sub>6</sub>O<sub>2</sub>.\n\nII. Em bolsas térmicas de emergência para compressa fria, utiliza-se um recipiente de vidro contendo nitrato de amônio (NH<sub>4</sub>NO<sub>3</sub>), envolvido por água. Para utilizá-lo, basta quebrar esse recipiente e permitir o contato com a água.\n\nIII. Em bolsas térmicas de emergência para compressa quente, utiliza-se um recipiente de vidro contendo cloreto de cálcio (CaCl<sub>2</sub>), envolvido por água. Para utilizá-lo, basta quebrar esse recipiente e permitir o contato com a água.\n\nIV. Em bolsas térmicas de uso geral, utiliza-se solução aquosa de cloreto de sódio (NaCl) 0,02% em massa.\n\nAssinale a alternativa que apresenta as propriedades observadas nos casos apresentados.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "(I) – Abaixamento do ponto de congelamento; (II) – Dissolução endotérmica; (III) – Dissolução exotérmica; (IV) – Abaixamento do ponto de congelamento."
+   },
+   {
+    "letra": "B",
+    "texto": "(I) – Abaixamento do ponto de congelamento; (II) – Dissolução exotérmica; (III) – Dissolução endotérmica; (IV) – Abaixamento do ponto de congelamento."
+   },
+   {
+    "letra": "C",
+    "texto": "(I) – Dissolução endotérmica; (II) – Abaixamento do ponto de congelamento; (III) – Abaixamento do ponto de congelamento; (IV) – Dissolução exotérmica."
+   },
+   {
+    "letra": "D",
+    "texto": "(I) – Dissolução exotérmica; (II) – Dissolução endotérmica; (III) – Abaixamento do ponto de congelamento; (IV) – Abaixamento do ponto de congelamento."
+   },
+   {
+    "letra": "E",
+    "texto": "(I) – Abaixamento do ponto de congelamento; (II) – Dissolução exotérmica; (III) – Abaixamento do ponto de congelamento; (IV) – Dissolução endotérmica."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   10,
+   11
+  ],
+  "caixas": {
+   "10": [
+    [
+     42.54,
+     604.24692,
+     553.2262785999989,
+     617.26692
+    ],
+    [
+     42.54039,
+     620.37643,
+     365.2713226400002,
+     631.35643
+    ],
+    [
+     50.34075,
+     641.25648,
+     431.6912168,
+     652.292
+    ],
+    [
+     46.67814,
+     655.83682,
+     553.02537564,
+     666.87172
+    ],
+    [
+     70.91885,
+     670.35648,
+     552.7844478799999,
+     681.33677
+    ],
+    [
+     70.91939,
+     684.87643,
+     219.5004774399999,
+     695.85643
+    ],
+    [
+     43.01941,
+     699.45677,
+     552.8020045200003,
+     710.49167
+    ],
+    [
+     70.92049,
+     713.9763800000001,
+     552.881430303908,
+     724.95673
+    ],
+    [
+     70.91979,
+     728.55672,
+     279.41777079024814,
+     739.53672
+    ],
+    [
+     42.36018,
+     743.07667,
+     552.7508224799997,
+     754.11157
+    ],
+    [
+     70.91979,
+     757.65702,
+     106.36000185122002,
+     768.63702
+    ]
+   ],
+   "11": [
+    [
+     70.92,
+     72.39648,
+     516.0316319999997,
+     83.37648000000002
+    ],
+    [
+     70.85961,
+     96.93678,
+     315.91125000000005,
+     107.97167999999999
+    ],
+    [
+     92.158614,
+     112.77652799999998,
+     239.43115799999995,
+     123.81142799999998
+    ],
+    [
+     92.15861399999999,
+     128.67666599999995,
+     236.376522,
+     139.71156599999995
+    ],
+    [
+     92.15861399999999,
+     144.51641399999994,
+     323.83771199999995,
+     155.55131399999993
+    ],
+    [
+     70.85741399999998,
+     166.715778,
+     315.909054,
+     177.750678
+    ],
+    [
+     92.15641799999997,
+     182.555526,
+     232.71469199999996,
+     193.59042599999998
+    ],
+    [
+     92.15641799999996,
+     198.39527399999997,
+     243.08859599999994,
+     209.43017399999997
+    ],
+    [
+     92.15641799999996,
+     214.29541199999994,
+     323.8355159999999,
+     225.33031199999994
+    ],
+    [
+     70.85521799999997,
+     236.43438600000002,
+     235.75395600000002,
+     247.469286
+    ],
+    [
+     92.15422199999998,
+     252.334524,
+     319.566492,
+     263.369424
+    ],
+    [
+     92.15422199999996,
+     268.174272,
+     323.23381199999994,
+     279.20917199999997
+    ],
+    [
+     92.15422199999996,
+     284.01401999999996,
+     236.97163799999998,
+     295.04891999999995
+    ],
+    [
+     70.85302199999997,
+     306.214482,
+     229.11105600000002,
+     317.24938199999997
+    ],
+    [
+     92.15202599999998,
+     322.05422999999996,
+     239.42456999999993,
+     333.08913
+    ],
+    [
+     92.15202599999996,
+     337.954368,
+     323.231616,
+     348.98926800000004
+    ],
+    [
+     92.15202599999996,
+     353.794116,
+     323.831124,
+     364.829016
+    ],
+    [
+     70.85082599999997,
+     375.99348,
+     315.902466,
+     387.02838
+    ],
+    [
+     92.14982999999998,
+     391.83322799999996,
+     232.708104,
+     402.868128
+    ],
+    [
+     92.14982999999997,
+     407.67297599999995,
+     323.22941999999995,
+     418.707876
+    ],
+    [
+     92.14982999999997,
+     423.51272399999993,
+     243.68151599999993,
+     434.547624
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q012_p10.jpg",
+   "revisao/Q012_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q013",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 13,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O Piroxicam é uma droga utilizada por veterinários para aliviar a dor e tratar alguns tipos de câncer. A cinética de eliminação dessa substância é de primeira ordem, e a meia-vida dele é igual a 48 horas. Um médico veterinário receitou 3 comprimidos de 20mg de Piroxicam, sendo administrado um comprimido a cada dois dias, para tratar um cão de 50kg.\n\nConsiderando a observância ao tratamento recomendado, assinale a alternativa que apresenta a\n\nconcentração plasmática de Piroxicam 48 horas após a administração do último comprimido.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "0,10 mg/kg"
+   },
+   {
+    "letra": "B",
+    "texto": "0,25 mg/kg"
+   },
+   {
+    "letra": "C",
+    "texto": "0,30 mg/kg"
+   },
+   {
+    "letra": "D",
+    "texto": "0,35 mg/kg"
+   },
+   {
+    "letra": "E",
+    "texto": "0,40 mg/kg"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   11
+  ],
+  "caixas": {
+   "11": [
+    [
+     42.54,
+     480.70691999999997,
+     552.7048319999991,
+     493.72692
+    ],
+    [
+     42.53999399999999,
+     497.43593999999996,
+     552.7026360000008,
+     508.41594
+    ],
+    [
+     42.53999399999999,
+     512.61579,
+     552.8278080000005,
+     523.59579
+    ],
+    [
+     42.53999399999999,
+     527.7956399999999,
+     323.2129500000004,
+     538.77564
+    ],
+    [
+     70.92,
+     545.9752259999999,
+     552.7926719999999,
+     556.9552259999999
+    ],
+    [
+     70.91999999999999,
+     561.1550759999999,
+     523.2597660000001,
+     572.1350759999999
+    ],
+    [
+     70.92000000000002,
+     586.3552739999999,
+     146.570004,
+     597.3352739999999
+    ],
+    [
+     70.92000000000002,
+     603.3951359999999,
+     146.570004,
+     614.3751359999999
+    ],
+    [
+     70.92000000000002,
+     620.4953879999999,
+     146.56561200000004,
+     631.475388
+    ],
+    [
+     70.92000000000002,
+     637.59564,
+     146.570004,
+     648.5756399999999
+    ],
+    [
+     70.92000000000002,
+     654.635502,
+     146.570004,
+     665.6155019999999
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q013_p11.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q014",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 14,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O sangue é um sistema tamponado, com o pH variando entre 7,35 e 7,45. Quando alguém, numa crise de ansiedade ou de histeria, respira de modo ofegante, os pulmões perdem muito CO<sub>2</sub>. Isso pode fazer o pH do sangue subir a aproximadamente 7,70 em poucos minutos, estabelecendo um quadro de alcalose, que pode culminar em óbito. Nesses casos, os médicos podem ministrar um calmante para que a respiração volte ao normal. Mas, quando nem isso funciona, é necessária uma intervenção mais radical: injetar uma solução ácida no sangue do paciente.\n\n{{fonte:1}}\n\nAssinale a alternativa que apresenta uma substância que, em meio aquoso, poderia ser utilizada pelo médico, sem prejudicar a saúde do paciente no tratamento da alcalose.",
+  "fontes": [
+   "(Disponível em: www.folha.uol.com.br. Adaptado.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "HCl"
+   },
+   {
+    "letra": "B",
+    "texto": "NaCl"
+   },
+   {
+    "letra": "C",
+    "texto": "NH<sub>4</sub>Cl"
+   },
+   {
+    "letra": "D",
+    "texto": "CaCO<sub>3</sub>"
+   },
+   {
+    "letra": "E",
+    "texto": "H<sub>2</sub>SO<sub>4</sub>"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.54,
+     72.64692000000002,
+     552.8278080000002,
+     85.66692
+    ],
+    [
+     42.53999,
+     90.09622999999999,
+     552.816452,
+     101.07647999999995
+    ],
+    [
+     42.53962,
+     105.87693999999999,
+     552.7637480000001,
+     116.85694000000001
+    ],
+    [
+     42.53962,
+     121.71668,
+     552.8867280000001,
+     132.69668000000001
+    ],
+    [
+     42.53962,
+     137.49713999999994,
+     552.7736319999992,
+     148.47713999999996
+    ],
+    [
+     42.53962,
+     153.33688999999993,
+     323.18842000000035,
+     164.31688999999994
+    ],
+    [
+     388.68,
+     168.58338000000003,
+     554.6320800000001,
+     176.56337999999994
+    ],
+    [
+     70.92,
+     182.91647999999998,
+     552.7783980000002,
+     193.89648
+    ],
+    [
+     70.92,
+     197.49681999999996,
+     443.3341500000003,
+     208.47681999999998
+    ],
+    [
+     70.92,
+     218.31709999999998,
+     110.427138,
+     229.2971
+    ],
+    [
+     70.92,
+     235.41734999999994,
+     116.56825200000002,
+     246.39734999999996
+    ],
+    [
+     70.92,
+     252.51648,
+     122.255238,
+     263.49760000000003
+    ],
+    [
+     70.92044,
+     269.55634,
+     126.54312,
+     280.53634
+    ],
+    [
+     70.92042,
+     286.65648,
+     123.72312,
+     297.63672999999994
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q014_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q015",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 15,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O gás carbônico (CO<sub>2</sub>) é utilizado no envasamento de refrigerantes para realçar o paladar e favorecer uma sensação de frescor ao consumidor. Na produção de refrigerantes, a adição CO<sub>2</sub> é feita aplicando alta pressão e baixa temperatura. Quando o vasilhame é aberto, ao nível do mar, tem-se desprendimento de CO<sub>2</sub>.\n\nConsidere o texto e analise as afirmativas a seguir:\n\nI. A sensação de frescor, mencionada no texto, deve-se ao fato de o desprendimento de CO<sub>2</sub>, na abertura do vasilhame, ser um processo exotérmico.\n\nII. Parte do CO<sub>2</sub> aplicado no envasamento reage com a água, estabelecendo um equilíbrio químico com formação de H<sub>2</sub>CO<sub>3</sub>.\n\nIII. A aplicação de CO<sub>2</sub> é feita com temperaturas abaixo da temperatura ambiente para aumentar a concentração de CO<sub>2</sub> no refrigerante.\n\nIV. O desprendimento de CO<sub>2</sub> observado, ao abrir a latinha, ao nível do mar, deve-se ao fato de a solubilidade do CO<sub>2</sub>, nessas condições, ser menor que a observada no momento do envasamento.\n\nEstão **CORRETAS** apenas",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I e II."
+   },
+   {
+    "letra": "B",
+    "texto": "III e IV."
+   },
+   {
+    "letra": "C",
+    "texto": "I, II e III."
+   },
+   {
+    "letra": "D",
+    "texto": "I, III e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "II, III e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   12
+  ],
+  "caixas": {
+   "12": [
+    [
+     42.54,
+     362.14691999999997,
+     552.8628780000005,
+     375.16692
+    ],
+    [
+     42.53993,
+     378.33648,
+     552.7666192314,
+     389.31682
+    ],
+    [
+     42.54029,
+     392.85643,
+     552.7281860000005,
+     403.83643
+    ],
+    [
+     42.54029,
+     407.43647999999996,
+     163.19243999999998,
+     418.41677
+    ],
+    [
+     56.76001,
+     424.95617,
+     306.2212180000001,
+     435.93617
+    ],
+    [
+     53.99963,
+     449.49647,
+     552.8880839999999,
+     460.53137000000004
+    ],
+    [
+     70.91989,
+     462.15641999999997,
+     327.08438800000016,
+     473.13642
+    ],
+    [
+     50.34007,
+     474.81636,
+     552.7209420000006,
+     485.85126
+    ],
+    [
+     70.91964,
+     487.47637999999995,
+     194.27244,
+     498.45642
+    ],
+    [
+     46.68038,
+     500.13631999999996,
+     552.8653860000002,
+     511.17122
+    ],
+    [
+     70.92025,
+     512.73603,
+     253.30420800000002,
+     523.71648
+    ],
+    [
+     46.02047,
+     525.39642,
+     552.7489560000002,
+     536.43132
+    ],
+    [
+     70.9202,
+     538.05642,
+     552.7418880000001,
+     549.03648
+    ],
+    [
+     70.91972,
+     550.71642,
+     140.031134,
+     561.69642
+    ],
+    [
+     70.91972,
+     572.67642,
+     202.950926,
+     583.65642
+    ],
+    [
+     70.91863,
+     597.21672,
+     118.12274797804001,
+     608.25162
+    ],
+    [
+     70.91863,
+     614.37626,
+     130.01079,
+     625.41116
+    ],
+    [
+     70.91863,
+     631.4765199999999,
+     134.93093,
+     642.51142
+    ],
+    [
+     70.91863,
+     648.57677,
+     139.19117,
+     659.61167
+    ],
+    [
+     70.91863,
+     665.73631,
+     142.54116202196002,
+     676.77121
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q015_p12.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q016",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 16,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe, na charge, como ficou o escritório alguns dias após a última arrumação.\n\n{{img:1}}\n\nAssinale a alternativa que apresenta o mesmo tipo de variação energética trazido na charge, em relação à grandeza termodinâmica destacada.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Liquefação do oxigênio"
+   },
+   {
+    "letra": "B",
+    "texto": "Congelamento do etanol"
+   },
+   {
+    "letra": "C",
+    "texto": "Dissolução do cloreto de sódio em água"
+   },
+   {
+    "letra": "D",
+    "texto": "Formação da ferrugem"
+   },
+   {
+    "letra": "E",
+    "texto": "Obtenção da água a partir de substâncias simples"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q016_img1.png",
+    "pagina": 13,
+    "bbox": [
+     135.6,
+     98.8,
+     473.8,
+     333.4
+    ]
+   }
+  ],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.54,
+     72.64692000000002,
+     469.5219628917077,
+     85.66692
+    ],
+    [
+     135.60001,
+     98.75999999999999,
+     473.76,
+     333.36
+    ],
+    [
+     70.92,
+     344.25467999999995,
+     552.7894497200001,
+     355.23467999999997
+    ],
+    [
+     70.92,
+     358.83612,
+     297.1490672000002,
+     369.81612
+    ],
+    [
+     70.92,
+     383.37642,
+     205.27451472000004,
+     394.35642
+    ],
+    [
+     70.92,
+     400.41738,
+     212.0014599599999,
+     411.39738
+    ],
+    [
+     70.92,
+     417.51324,
+     287.81431940000004,
+     428.49324
+    ],
+    [
+     70.92,
+     434.60909999999996,
+     203.94646711999997,
+     445.5891
+    ],
+    [
+     70.92,
+     451.65006,
+     336.75781248000027,
+     462.63006
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q016_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q017",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 17,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A reação entre os gases hidrogênio (H<sub>2</sub>) e eteno (C<sub>2</sub>H<sub>4</sub>), formando gás etano (C<sub>2</sub>H<sub>6</sub>), acontece de forma muito rápida, na presença de uma superfície de platina ou paládio e praticamente não ocorre na ausência do metal.\n\nSobre o processo apresentado, considere as afirmativas a seguir:\n\nI. A presença da superfície metálica oferece um mecanismo alternativo de reação, na qual a energia de ativação é superior àquela observada na ausência do metal.\n\nII. O processo descrito é um exemplo de catálise heterogênea.\n\nIII. A variação de entalpia da reação não se altera, seja na presença ou na ausência da superfície metálica.\n\nIV. Os subprodutos que contêm platina são mais tóxicos que os correspondentes contendo paládio.\n\nEstão **CORRETAS** apenas",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I e II."
+   },
+   {
+    "letra": "B",
+    "texto": "II e III."
+   },
+   {
+    "letra": "C",
+    "texto": "II e IV."
+   },
+   {
+    "letra": "D",
+    "texto": "III e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   13
+  ],
+  "caixas": {
+   "13": [
+    [
+     42.54,
+     504.40692,
+     552.8095712400001,
+     517.4269200000001
+    ],
+    [
+     42.53307,
+     520.5979199999999,
+     552.7360202541566,
+     531.57792
+    ],
+    [
+     42.53307,
+     535.11348,
+     134.84884160000004,
+     546.09348
+    ],
+    [
+     42.53307,
+     549.6949199999999,
+     362.61449280000045,
+     560.6749199999999
+    ],
+    [
+     57.41599,
+     574.23522,
+     552.8161533999998,
+     585.27012
+    ],
+    [
+     70.91598,
+     588.75078,
+     380.2676562400003,
+     599.73078
+    ],
+    [
+     53.76111,
+     603.33222,
+     364.3694995387807,
+     614.36712
+    ],
+    [
+     50.09526,
+     617.8477800000001,
+     552.7250559200002,
+     628.8826799999999
+    ],
+    [
+     70.91598,
+     632.42922,
+     114.94350184000002,
+     643.40922
+    ],
+    [
+     49.4916,
+     646.94478,
+     539.938487519999,
+     657.97968
+    ],
+    [
+     70.905,
+     671.48508,
+     202.9304932109756,
+     682.46508
+    ],
+    [
+     70.905,
+     696.02538,
+     118.41068680000001,
+     707.06028
+    ],
+    [
+     70.905,
+     710.60682,
+     125.4295878,
+     721.64172
+    ],
+    [
+     70.905,
+     725.24316,
+     126.02556288,
+     736.27806
+    ],
+    [
+     70.905,
+     739.8246,
+     129.68592288,
+     750.8595
+    ],
+    [
+     70.905,
+     754.34016,
+     134.90153288,
+     765.37506
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q017_p13.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q018",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 18,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "{{img:1}}\n\nOs galinhos do tempo são peças decorativas, que mudam de coloração de acordo com as condições climáticas. O efeito é baseado na presença de cloreto de cobalto II, utilizado na tinta que reveste o galo, estabelecendo o seguinte equilíbrio químico: o íon [CoCl<sub>4</sub>]<sup>2-</sup> apresenta a cor azul, ao passo que o íon [Co(H <sub>2</sub>O) <sub>6</sub>] <sup>2+</sup>, a cor rosa.\n\n[**CoCℓ<sub>4</sub>]<sup>2-</sup><sub>(aq)</sub> + 6 H<sub>2</sub>O<sub>(</sub><sub>ℓ</sub><sub>)</sub>**  **[Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup><sub>(aq)</sub> + 4 Cℓ<sup>1-</sup><sub>(aq)</sub>**\n\nSobre isso, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Quando o tempo está seco, o equilíbrio é deslocado para a direita, e o galinho fica rosa."
+   },
+   {
+    "letra": "B",
+    "texto": "Quando o tempo está seco, o equilíbrio é deslocado para a esquerda, e o galinho fica azul."
+   },
+   {
+    "letra": "C",
+    "texto": "Quando o tempo está úmido, o equilíbrio é deslocado para a direita, e o galinho fica azul."
+   },
+   {
+    "letra": "D",
+    "texto": "Quando o tempo está seco, o equilíbrio é deslocado para a esquerda, e o galinho fica rosa."
+   },
+   {
+    "letra": "E",
+    "texto": "Quando o tempo está úmido, o equilíbrio é deslocado para a esquerda, e o galinho fica azul."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q018_img1.png",
+    "pagina": 14,
+    "bbox": [
+     473.2,
+     61.6,
+     556.4,
+     206.0
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.54,
+     78.94691999999998,
+     464.68720349659225,
+     91.96691999999996
+    ],
+    [
+     42.54039,
+     95.13681999999994,
+     464.4973319999996,
+     106.11681999999996
+    ],
+    [
+     42.54039,
+     109.65676999999994,
+     464.59990578687217,
+     120.63676999999996
+    ],
+    [
+     42.54039,
+     124.23712,
+     461.70910224306294,
+     135.21712000000002
+    ],
+    [
+     473.16,
+     61.559999999999945,
+     556.44,
+     206.03999999999996
+    ],
+    [
+     42.53888,
+     138.75643000000002,
+     66.99910216,
+     149.73643000000004
+    ],
+    [
+     110.88018,
+     193.1739,
+     396.4400731,
+     206.27215999999999
+    ],
+    [
+     70.92,
+     246.33637999999996,
+     292.7324868,
+     257.31638
+    ],
+    [
+     70.92,
+     270.93647999999996,
+     521.3706971599993,
+     281.91648
+    ],
+    [
+     70.92,
+     287.97637999999995,
+     536.1712937599992,
+     298.95637999999997
+    ],
+    [
+     70.92,
+     305.07647999999995,
+     526.8804382624487,
+     316.05647999999997
+    ],
+    [
+     70.92,
+     322.11648,
+     537.206282929034,
+     333.09648
+    ],
+    [
+     70.92,
+     339.21648,
+     542.7785947526928,
+     350.19648
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [
+   "PENDENTE: há um trecho desenhado (caractere que o PDF não traduz: chave, parêntese grande ou sinal de fórmula) na linha “[ CoC ℓ 4 ] 2- (aq) + 6 H 2 O ( ℓ )  [C” — transcrever lendo a imagem",
+   "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página",
+   "caractere estranho no texto"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q018_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q019",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 19,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A partir de 1º de janeiro de 2014, começou a valer a obrigatoriedade da presença de *airbag*, dispositivo para proteger condutores e passageiros quando ocorre uma colisão, em carros fabricados no Brasil. Trata-se de um sistema composto basicamente por NaN<sub>3</sub> e KNO<sub>3</sub>. Com o impacto, as substâncias são misturadas e reagem para inflar a bolsa, conforme as seguintes equações químicas:\n\n**2 NaN<sub>3</sub> (s) → 2 Na (s) + 3 N<sub>2</sub> (g)**  \n**10 Na (s) + 2 KNO<sub>3</sub> (s) → K<sub>2</sub>O (s) + 5 Na<sub>2</sub>O (s) + N<sub>2</sub> (g)**\n\nConsiderando que um *airbag* para um determinado tipo de carro precisa de 98,0 litros de nitrogênio, a 25ºC, 1,0 atm, qual a massa de NaN<sub>3</sub> necessária para produzir esse volume?\n\nDados: Massas atômicas (u) – N = 14; O = 16; Na = 23; K = 39. Volume molar (25°C; 1,0 atm) = 24,5 L/mol",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "162,5 g"
+   },
+   {
+    "letra": "B",
+    "texto": "180,0 g"
+   },
+   {
+    "letra": "C",
+    "texto": "202,5 g"
+   },
+   {
+    "letra": "D",
+    "texto": "325,0 g"
+   },
+   {
+    "letra": "E",
+    "texto": "405,0 g"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   14
+  ],
+  "caixas": {
+   "14": [
+    [
+     42.54,
+     424.24692,
+     552.8322568,
+     437.26692
+    ],
+    [
+     42.53929,
+     440.97594,
+     552.9167645999999,
+     451.95594
+    ],
+    [
+     42.53929,
+     456.15578999999997,
+     552.81428824,
+     467.13648
+    ],
+    [
+     42.53889,
+     471.33633,
+     535.9897928399997,
+     482.31633
+    ],
+    [
+     210.66,
+     502.07202,
+     384.804707260888,
+     515.09202
+    ],
+    [
+     145.32067,
+     518.51202,
+     450.04422868,
+     531.53237
+    ],
+    [
+     70.91947,
+     562.4173699999999,
+     552.9118460000003,
+     573.3973699999999
+    ],
+    [
+     70.91947,
+     576.93648,
+     512.226408019028,
+     587.91732
+    ],
+    [
+     297.66,
+     597.78392,
+     554.4732458443881,
+     607.8039200000001
+    ],
+    [
+     297.66,
+     611.10402,
+     475.9267712000001,
+     621.12402
+    ],
+    [
+     70.92,
+     625.95648,
+     128.86238640000002,
+     636.93648
+    ],
+    [
+     70.92,
+     643.05648,
+     128.86238640000002,
+     654.03648
+    ],
+    [
+     70.92,
+     660.09634,
+     128.86238640000002,
+     671.07634
+    ],
+    [
+     70.92,
+     677.19638,
+     128.86238640000002,
+     688.17638
+    ],
+    [
+     70.92,
+     694.23624,
+     128.86238640000002,
+     705.21624
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q019_p14.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q020",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 20,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Uma indústria de bebidas desenvolveu uma linha de refrigerantes com odores específicos de canela e menta, sendo o cinamaldeído (C<sub>9</sub>H<sub>8</sub>O) e a mentona (C<sub>10</sub>H<sub>18</sub>O), respectivamente, os responsáveis por esses odores. Em um teste para saber qual dessas substâncias seria primeiro identificada pelos consumidores, abriram-se, simultaneamente, dois frascos de refrigerantes distintos, para detecção por um sensor.\n\nSobre isso, assinale a alternativa **CORRETA.**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "A mentona é detectada primeiro porque tem massa molar maior que a do cinamaldeído."
+   },
+   {
+    "letra": "B",
+    "texto": "A mentona é detectada primeiro porque se difunde mais lentamente que o cinamaldeído."
+   },
+   {
+    "letra": "C",
+    "texto": "O cinamaldeído é detectado primeiro porque se difunde mais lentamente que a mentona."
+   },
+   {
+    "letra": "D",
+    "texto": "O cinamaldeído é detectado primeiro, pois tem massa molar menor que a da mentona."
+   },
+   {
+    "letra": "E",
+    "texto": "As duas substâncias são detectadas simultaneamente, pois se difundem com a mesma velocidade."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   15
+  ],
+  "caixas": {
+   "15": [
+    [
+     42.54,
+     72.70691999999997,
+     552.803652,
+     85.72691999999995
+    ],
+    [
+     42.539994000000036,
+     89.43647999999996,
+     552.793674,
+     100.41703799999993
+    ],
+    [
+     42.539897999999994,
+     104.61632999999995,
+     552.876024,
+     115.59632999999997
+    ],
+    [
+     42.539897999999994,
+     119.79617999999994,
+     552.7135200000004,
+     130.77617999999995
+    ],
+    [
+     42.539897999999994,
+     134.97602999999992,
+     188.71993199999991,
+     145.95602999999994
+    ],
+    [
+     63.83999999999999,
+     160.17622799999992,
+     285.64149,
+     171.15622799999994
+    ],
+    [
+     63.77960999999999,
+     184.71652799999993,
+     510.8061539999999,
+     195.69652799999994
+    ],
+    [
+     63.77960999999999,
+     201.7563899999999,
+     515.1542339999995,
+     212.73638999999991
+    ],
+    [
+     63.77960999999999,
+     218.85664199999985,
+     516.3367800000004,
+     229.83664199999987
+    ],
+    [
+     63.77960999999999,
+     235.9568939999998,
+     504.67931399999986,
+     246.93689399999982
+    ],
+    [
+     63.77960999999999,
+     252.99675599999978,
+     552.810144,
+     263.9767559999998
+    ],
+    [
+     81.65944199999998,
+     270.09700799999973,
+     137.317062,
+     281.07700799999975
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q020_p15.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q021",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 21,
+  "area": "",
+  "texto_base_id": "P4138-T4",
+  "textos_base_ids": [
+   "P4138-T4"
+  ],
+  "enunciado": "A instalação do aparelho de Estado português no Rio, proclamando a intenção de fundar um grande Império Luso-brasileiro que recuperasse a posição de Portugal no sistema de equilíbrio europeu, deu seguramente inflexão imprevista à emancipação da América Portuguesa.\n\n{{fonte:1}}\n\nSobre a realidade apresentada no texto, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "(MELLO, Evaldo Cabral de. A outra independência: O federalismo pernambucano de 1817 a 1824. São Paulo: Editora 34, 2004, p. 27.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O apoio britânico à coroa portuguesa conseguiu postergar a emancipação da América Portuguesa para a segunda metade do século XIX."
+   },
+   {
+    "letra": "B",
+    "texto": "A crise do sistema colonial já se fazia presente na América Portuguesa antes da chegada da família real ao Brasil, como atestam as conjurações mineira e baiana ainda no século XVIII."
+   },
+   {
+    "letra": "C",
+    "texto": "No processo de transmigração da coroa lusitana para o Brasil, o apoio logístico dos franceses foi essencial para o sucesso da empreitada."
+   },
+   {
+    "letra": "D",
+    "texto": "A Igreja apoiou o movimento emancipacionista, como atesta o movimento pernambucano de 1817."
+   },
+   {
+    "letra": "E",
+    "texto": "A França foi o primeiro país europeu a reconhecer a Independência do Brasil."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.54,
+     79.25471000000005,
+     552.7816919999992,
+     92.27471000000003
+    ],
+    [
+     42.53999,
+     95.44461000000001,
+     552.7157969102007,
+     106.42461000000003
+    ],
+    [
+     42.53999,
+     109.96456,
+     420.9151820000001,
+     120.94456000000002
+    ],
+    [
+     118.14,
+     126.8911700000001,
+     552.8568799999999,
+     134.87117
+    ],
+    [
+     70.92,
+     140.68426999999997,
+     434.09228,
+     151.66427
+    ],
+    [
+     70.92,
+     159.34478000000001,
+     552.7948680000003,
+     170.32478000000003
+    ],
+    [
+     92.15971,
+     176.44502999999997,
+     341.5528370260601,
+     187.42503
+    ],
+    [
+     70.92,
+     193.48488999999995,
+     552.7399680000002,
+     204.46488999999997
+    ],
+    [
+     92.15971,
+     210.58515,
+     538.4593780000006,
+     221.56515000000002
+    ],
+    [
+     70.92,
+     227.68539999999996,
+     552.8519552160001,
+     238.66539999999998
+    ],
+    [
+     92.15971,
+     244.72526000000005,
+     306.76381000000003,
+     255.70526000000007
+    ],
+    [
+     70.92,
+     261.82551,
+     552.6894599999998,
+     272.80551
+    ],
+    [
+     92.15971,
+     278.86537,
+     119.67998200000001,
+     289.84537
+    ],
+    [
+     70.92,
+     295.96563000000003,
+     471.2167620000003,
+     306.94563000000005
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q021_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q022",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 22,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A crise do sistema colonial no Brasil foi marcada pela ocorrência de várias revoltas políticas. Em Pernambuco, podemos destacar a",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Revolução de 1817."
+   },
+   {
+    "letra": "B",
+    "texto": "Confederação do Equador."
+   },
+   {
+    "letra": "C",
+    "texto": "Praieira."
+   },
+   {
+    "letra": "D",
+    "texto": "Guerra de Palmares."
+   },
+   {
+    "letra": "E",
+    "texto": "Sabinada."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.54,
+     350.62692,
+     552.8201220000003,
+     363.64692
+    ],
+    [
+     42.53999,
+     366.81681999999995,
+     210.71625799999995,
+     377.79681999999997
+    ],
+    [
+     70.92,
+     387.69638999999995,
+     190.00578599999994,
+     398.67638999999997
+    ],
+    [
+     70.92,
+     404.73625,
+     224.2524059999999,
+     415.71625
+    ],
+    [
+     70.92,
+     421.8365,
+     133.11621000000002,
+     432.8165
+    ],
+    [
+     70.92,
+     438.87636999999995,
+     194.266026,
+     449.85636999999997
+    ],
+    [
+     70.92,
+     455.97661999999997,
+     141.69598200000001,
+     466.95662
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q022_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q023",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 23,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Na década de 1860, uma nova palavra entrou no vocabulário econômico e político do mundo: “capitalismo”. O triunfo global do capitalismo é o tema mais importante da história nas décadas que se sucederam a 1848.\n\n{{fonte:1}}\n\nSobre a temática e o período histórico apresentado no texto, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "(HOBSBAWM, Eric J. A era do capital (1848-1875). 14. ed. Rio de Janeiro: Paz e Terra, 1996, p. 19. Adaptado.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O marco inicial do período é delimitado pela eclosão da chamada Primavera dos Povos."
+   },
+   {
+    "letra": "B",
+    "texto": "Esse período assistiu à dissolução do Estado-nação, divergente do ideário capitalista."
+   },
+   {
+    "letra": "C",
+    "texto": "As mudanças implantadas na Europa como decorrência das ações de Napoleão Bonaparte foram anuladas nessa época."
+   },
+   {
+    "letra": "D",
+    "texto": "Há uma retomada dos valores mercantilistas com a descrença na livre iniciativa privada."
+   },
+   {
+    "letra": "E",
+    "texto": "Uma das grandes características desse período é a desestruturação da chamada ordem social burguesa."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     42.54,
+     523.90692,
+     552.8157299999996,
+     536.9269200000001
+    ],
+    [
+     42.53999,
+     540.09682,
+     552.6751819999992,
+     551.07682
+    ],
+    [
+     42.53999,
+     554.61677,
+     136.70007800000002,
+     565.59677
+    ],
+    [
+     191.58,
+     568.60328,
+     554.9155757169999,
+     576.5832800000001
+    ],
+    [
+     70.92,
+     591.69604,
+     533.0330600000001,
+     602.6760400000001
+    ],
+    [
+     70.9211,
+     616.65688,
+     521.8828759999998,
+     627.63688
+    ],
+    [
+     70.9211,
+     633.75713,
+     511.00827445838064,
+     644.73713
+    ],
+    [
+     70.9211,
+     650.79699,
+     552.7915667768004,
+     661.77699
+    ],
+    [
+     92.16081,
+     667.89724,
+     236.44569599999994,
+     678.87724
+    ],
+    [
+     70.9211,
+     684.99749,
+     522.6767300000002,
+     695.97749
+    ],
+    [
+     70.9211,
+     702.03736,
+     552.8113307768004,
+     713.01736
+    ],
+    [
+     92.16081,
+     719.13761,
+     172.28406601098,
+     730.11761
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q023_p16.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q024",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 24,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Nação agrícola, escravocrata, montada sobre diferenças entre pessoas dadas pela natureza, com economia montada sobre tais diferenças. Nação para andar na contramão do Iluminismo, que não deveria jamais ceder à tentação de considerar o indivíduo livre como base do sistema político.\n\n{{fonte:1}}\n\nO processo ressaltado no texto, o de consolidação da monarquia no Brasil, foi longo e apenas se firmou no Segundo Reinado. Sobre essa realidade, assinale a alternativa **CORRETA**.",
+  "fontes": [
+   "(CALDEIRA, Jorge. A nação mercantilista: Ensaio sobre o Brasil. São Paulo: Editora 34, 1999, p. 351.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O federalismo político foi adotado pela Constituição de 1823."
+   },
+   {
+    "letra": "B",
+    "texto": "Durante a menoridade de D. Pedro II, o Império do Brasil foi governado por vários regentes."
+   },
+   {
+    "letra": "C",
+    "texto": "O Poder Moderador foi instituído no início do Segundo Reinado."
+   },
+   {
+    "letra": "D",
+    "texto": "O período regencial foi marcado por uma estabilidade política que contribuiu para a consolidação do regime monárquico no Brasil."
+   },
+   {
+    "letra": "E",
+    "texto": "A abdicação de D. Pedro I, em 1824, foi um dos capítulos mais dramáticos do período monárquico brasileiro."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.54,
+     72.64692000000002,
+     552.7926618984005,
+     85.66692
+    ],
+    [
+     42.53999,
+     90.09622999999999,
+     552.8816060000003,
+     101.07623000000001
+    ],
+    [
+     42.53999,
+     105.87667999999996,
+     501.74114794232077,
+     116.85667999999998
+    ],
+    [
+     219.6,
+     124.18338000000006,
+     552.7235059999999,
+     132.16337999999996
+    ],
+    [
+     70.92,
+     144.44823999999994,
+     552.7388596788006,
+     155.42823999999996
+    ],
+    [
+     70.92,
+     158.96818999999994,
+     487.85256,
+     169.94818999999995
+    ],
+    [
+     70.92,
+     185.84832999999992,
+     389.2038480000005,
+     196.82832999999994
+    ],
+    [
+     70.92,
+     202.94857999999988,
+     540.3578219999993,
+     213.9285799999999
+    ],
+    [
+     70.92,
+     219.98843999999997,
+     404.57365200000055,
+     230.96844
+    ],
+    [
+     70.92,
+     237.0886999999999,
+     552.8135340000001,
+     248.06869999999992
+    ],
+    [
+     92.15971,
+     254.18894999999998,
+     317.78552933350005,
+     265.16895
+    ],
+    [
+     70.92,
+     271.22880999999995,
+     552.902472,
+     282.20880999999997
+    ],
+    [
+     92.15971,
+     288.3290599999999,
+     200.43238970518,
+     299.30905999999993
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q024_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q025",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 25,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A base econômica do Segundo Reinado no Brasil foi a produção cafeeira. Sobre essa realidade, assinale a alternativa **CORRETA**.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "O Nordeste foi o grande polo de produção de café no Brasil do século XIX."
+   },
+   {
+    "letra": "B",
+    "texto": "Os grandes produtores de café, chamados de “barões do café”, não participavam da vida política do Império."
+   },
+   {
+    "letra": "C",
+    "texto": "A exportação da produção cafeeira foi a base da economia nacional no Brasil oitocentista."
+   },
+   {
+    "letra": "D",
+    "texto": "O início da utilização de mão de obra imigrante europeia na produção de café, no Brasil, data dos anos de 1830."
+   },
+   {
+    "letra": "E",
+    "texto": "A produção de café no Brasil sofreu uma queda drástica com a abolição da escravatura, em 1888."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": null,
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.54,
+     336.10692,
+     552.8245140000001,
+     349.12692000000004
+    ],
+    [
+     42.53999,
+     352.83594,
+     206.27266,
+     363.81594
+    ],
+    [
+     70.92,
+     383.19563999999997,
+     456.42888992970035,
+     394.17564
+    ],
+    [
+     70.92,
+     400.29589,
+     552.6806759999994,
+     411.27589
+    ],
+    [
+     92.15971,
+     417.33574999999996,
+     185.075764,
+     428.31575
+    ],
+    [
+     70.92,
+     434.43600999999995,
+     531.8395380000004,
+     445.41600999999997
+    ],
+    [
+     70.92,
+     451.53625999999997,
+     552.6861660000001,
+     462.51626
+    ],
+    [
+     92.15971,
+     468.57612,
+     182.65796799999998,
+     479.55612
+    ],
+    [
+     70.92,
+     485.67636999999996,
+     552.7344780000001,
+     496.65637
+    ],
+    [
+     92.15971,
+     502.71623,
+     119.67998200000001,
+     513.69623
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [
+   "sem gabarito"
+  ],
+  "status_revisao": "revisar",
+  "recortes": [
+   "revisao/Q025_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q026",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 26,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Por volta de 1840, os países da Europa continental e, de certa forma, também os Estados Unidos, seguiam lentamente o rumo da industrialização, traçado pela Grã-Bretanha, produzindo muito mais do que tinham produzido no passado, mas sem sequer se aproximarem das cifras daquele país que lhes servia de modelo. Nos dez anos seguintes, porém, o advento das estradas de ferro alteraria a situação.\n\n{{fonte:1}}\n\nNo contexto descrito, o principal impacto socioeconômico dessa inovação se deu por meio da",
+  "fontes": [
+   "(BURNS, Edward McNall. História da Civilização Ocidental. Vol. II. Rio de Janeiro: Ed. Globo, 2005, p. 524.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "expansão do capitalismo de maneira mais rápida e barata."
+   },
+   {
+    "letra": "B",
+    "texto": "incitação de novos movimentos sociais contrários à tecnologia."
+   },
+   {
+    "letra": "C",
+    "texto": "privatização desse setor estratégico mediante políticas estatais."
+   },
+   {
+    "letra": "D",
+    "texto": "alteração das relações sociais por meio de nova legislação trabalhista."
+   },
+   {
+    "letra": "E",
+    "texto": "modernização tecnológica de áreas subdesenvolvidas sem fins comerciais."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     42.54,
+     565.6668199999999,
+     552.8662204320007,
+     578.68682
+    ],
+    [
+     42.53999,
+     582.39694,
+     552.7619240000007,
+     593.37694
+    ],
+    [
+     42.53999,
+     597.5767900000001,
+     552.7706976788006,
+     608.55679
+    ],
+    [
+     42.53999,
+     612.7566400000001,
+     547.5859520000002,
+     623.73664
+    ],
+    [
+     196.02,
+     633.64338,
+     552.711638,
+     641.62338
+    ],
+    [
+     70.92,
+     651.27648,
+     527.4947520000003,
+     662.25648
+    ],
+    [
+     70.92,
+     670.4761100000001,
+     377.7033960000004,
+     681.45611
+    ],
+    [
+     70.92,
+     687.57636,
+     399.0287520000005,
+     698.55636
+    ],
+    [
+     70.92,
+     704.61622,
+     403.37134200000037,
+     715.59622
+    ],
+    [
+     70.92,
+     721.71647,
+     436.43541600000043,
+     732.69647
+    ],
+    [
+     70.92,
+     738.81673,
+     459.0179820000004,
+     749.79673
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q026_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q027",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 27,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Em meados do século XIX, Cuba, a mais rica e povoada das colônias espanholas, começou a vivenciar um processo de problemas econômicos e políticos. O crescimento sustentado na indústria açucareira, iniciado a partir do fim do século XVIII, começava a fraquejar devido à concorrência com o açúcar de beterraba da Europa e dos EUA.\n\n{{fonte:1}}\n\nO contexto descrito termina com a guerra de independência de Cuba. Uma das consequências sociopolíticas desse processo foi a criação da Emenda Platt, que tinha por objetivo",
+  "fontes": [
+   "(BIANCHET JUNIOR, Antonio Battisti. As Relações EUA-America Latina: Cuba e a Guerra com a Espanha. In: http://www.uel.br/eventos/eneimagem/anais2011/trabalhos/pdf/Antonio%20Battisti%20Bianchet%20Junior.pdf. Adaptado.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "libertar a ilha do domínio espanhol, garantindo plena autonomia social e econômica."
+   },
+   {
+    "letra": "B",
+    "texto": "determinar os territórios específicos onde continuaria a colonização e exploração pela Espanha."
+   },
+   {
+    "letra": "C",
+    "texto": "transformar Cuba numa colônia formal dos Estados Unidos com o intuito de ampliar a exploração de trigo."
+   },
+   {
+    "letra": "D",
+    "texto": "garantir os direitos de exploração de terras pela Espanha mesmo com a independência formal de Cuba."
+   },
+   {
+    "letra": "E",
+    "texto": "autorizar os Estados Unidos a intervir em Cuba quando o interesse de ambos estiver ameaçado."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.54,
+     72.70691999999997,
+     552.7498500000003,
+     85.72691999999995
+    ],
+    [
+     42.53999,
+     89.43704000000002,
+     552.827808,
+     100.41704000000004
+    ],
+    [
+     42.53999,
+     104.61689000000001,
+     552.8146280000003,
+     115.59689000000003
+    ],
+    [
+     42.53999,
+     119.79674,
+     253.51190599999995,
+     130.77674000000002
+    ],
+    [
+     189.42,
+     140.44338000000005,
+     552.758182,
+     148.42337999999995
+    ],
+    [
+     156.72035,
+     149.6235700000001,
+     554.8397894885998,
+     157.60357
+    ],
+    [
+     70.92,
+     171.69592,
+     552.8080480000003,
+     182.67592000000002
+    ],
+    [
+     70.92,
+     186.87577,
+     474.9785011281604,
+     197.85577
+    ],
+    [
+     70.92,
+     208.05619000000002,
+     502.4328927987605,
+     219.03619000000003
+    ],
+    [
+     70.92,
+     225.15643999999998,
+     552.8794117804,
+     236.13644
+    ],
+    [
+     92.16081,
+     242.19629999999995,
+     138.64354123139998,
+     253.17629999999997
+    ],
+    [
+     70.9211,
+     259.29655,
+     552.6499339999997,
+     270.27655000000004
+    ],
+    [
+     92.16081,
+     276.33641,
+     188.793594,
+     287.31641
+    ],
+    [
+     70.9211,
+     293.43666999999994,
+     552.6400519999993,
+     304.41666999999995
+    ],
+    [
+     92.16081,
+     310.53692,
+     136.786824,
+     321.51692
+    ],
+    [
+     70.9211,
+     327.57678,
+     552.7860860000005,
+     338.55678
+    ],
+    [
+     92.16081,
+     344.67703,
+     146.55792599999998,
+     355.65703
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q027_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q028",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 28,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A inexistência de uma forma especificamente alemã incomodava determinados músicos, como Richard Wagner e, até mesmo, Robert Schumann, uma vez que tais autores identificavam a igualdade de temas, porém a indefinição de formas composicionais para um público basicamente homogêneo.\n\n{{fonte:1}}\n\nO texto está conectado a uma fase da história europeia, identificada como Romantismo. Sobre a obra de Richard Wagner, assinale a alternativa **CORRETA.**",
+  "fontes": [
+   "(RICON, Leandro Couto Carreira. A Emergência de uma Ópera Alemã no Primeiro Escrito de Richard Wagner. p. 05 In: https://revistahistoriauft.files.wordpress.com/2012/04/artigo-4.pdf. Adaptado.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Sob uma forte influência judaica, Wagner proporcionou um retorno à mitologia dessa cultura."
+   },
+   {
+    "letra": "B",
+    "texto": "Inspirou-se nos ideais da unidade alemã para defender os princípios do socialismo e a questão judaica."
+   },
+   {
+    "letra": "C",
+    "texto": "Grande parte de sua obra esteve ligada a movimentos estéticos, como o impressionismo e o expressionismo."
+   },
+   {
+    "letra": "D",
+    "texto": "Realizou a maior abertura musical da Alemanha, cuja grande influência era o modelo de arte francesa."
+   },
+   {
+    "letra": "E",
+    "texto": "Caracterizou-se pelo conceito de ‘arte total’, pelo nacionalismo e pela adoção de mitologias alemãs como ponto de partida."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   18
+  ],
+  "caixas": {
+   "18": [
+    [
+     42.54,
+     399.58691999999996,
+     552.806942,
+     412.60692
+    ],
+    [
+     42.53999,
+     417.03623,
+     552.7772959999991,
+     428.01623
+    ],
+    [
+     42.53999,
+     432.87597999999997,
+     530.9128219999996,
+     443.85598
+    ],
+    [
+     165.0,
+     451.12338,
+     552.899018409,
+     459.10338
+    ],
+    [
+     303.59983,
+     460.36341999999996,
+     554.80936511866,
+     468.34342
+    ],
+    [
+     70.92,
+     476.07648,
+     552.8958839999997,
+     487.05648
+    ],
+    [
+     70.92,
+     490.59643,
+     360.58557607686,
+     501.57643
+    ],
+    [
+     70.92,
+     519.51665,
+     544.6224539999993,
+     530.49665
+    ],
+    [
+     70.92,
+     536.55652,
+     552.8629479999998,
+     547.53652
+    ],
+    [
+     92.16081,
+     553.65677,
+     172.29175201098002,
+     564.6367700000001
+    ],
+    [
+     70.9211,
+     570.6966299999999,
+     552.9178460000003,
+     581.6766299999999
+    ],
+    [
+     92.16081,
+     587.79688,
+     171.58793400000002,
+     598.77688
+    ],
+    [
+     70.9211,
+     604.8971300000001,
+     552.8783179999994,
+     615.87713
+    ],
+    [
+     92.16081,
+     621.937,
+     137.444526,
+     632.917
+    ],
+    [
+     70.9211,
+     639.03725,
+     552.7125200000003,
+     650.01725
+    ],
+    [
+     92.16081,
+     656.07711,
+     243.1841219999999,
+     667.05711
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q028_p18.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q029",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 29,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Sobre o período da abolição da escravidão no Brasil, analise as afirmativas a seguir:\n\nI. Teve como um de seus patronos Joaquim Nabuco, considerado um dos maiores defensores da liberdade dos escravos.\n\nII. Tomou força na segunda metade do século XIX, por meio do movimento abolicionista, que defendia o fim da escravidão.\n\nIII. A primeira etapa desse processo ocorreu com a proibição do tráfico de escravos mediante a vinda da família real para a colônia, em 1808.\n\nIV. Várias instituições se manifestaram contrárias ao fim da escravidão, dentre as mais importantes, estão os periódicos *O Abolicionista* e *Revista Ilustrada*.\n\nV. A Guerra da Tríplice Fronteira, também conhecida como Guerra do Paraguai, foi de fundamental importância para o crescimento do movimento abolicionista.\n\nEstão **CORRETAS**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "II, III e IV."
+   },
+   {
+    "letra": "B",
+    "texto": "III, IV e V."
+   },
+   {
+    "letra": "C",
+    "texto": "I, II e V."
+   },
+   {
+    "letra": "D",
+    "texto": "I, II e III."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.54,
+     72.70691999999997,
+     483.7163940000004,
+     85.72691999999995
+    ],
+    [
+     49.6199,
+     93.21744999999999,
+     552.8991780000001,
+     104.25234999999998
+    ],
+    [
+     70.9189,
+     107.79778999999996,
+     187.112554,
+     118.77778999999998
+    ],
+    [
+     49.6188,
+     122.31774999999993,
+     552.703734,
+     133.35264999999993
+    ],
+    [
+     70.9189,
+     136.89809000000002,
+     214.56365200000005,
+     147.87809000000004
+    ],
+    [
+     49.6188,
+     151.41804000000002,
+     552.7926699999994,
+     162.45294
+    ],
+    [
+     70.9189,
+     165.99838,
+     264.15701799999994,
+     176.97838000000002
+    ],
+    [
+     49.6188,
+     180.51833,
+     552.8552540000003,
+     191.55322999999999
+    ],
+    [
+     70.9178,
+     195.03828999999996,
+     339.35026,
+     206.01828999999998
+    ],
+    [
+     49.6177,
+     209.61862999999994,
+     552.7805858089199,
+     220.65352999999993
+    ],
+    [
+     70.9178,
+     224.13857999999993,
+     363.23614400000037,
+     235.11857999999995
+    ],
+    [
+     70.9178,
+     254.01845000000003,
+     163.73393607685998,
+     264.99845000000005
+    ],
+    [
+     70.85741,
+     278.97929,
+     142.47995202196,
+     290.01419
+    ],
+    [
+     70.85741,
+     296.13883,
+     143.080558,
+     307.17373
+    ],
+    [
+     70.85851,
+     313.23907999999994,
+     131.501048,
+     324.27397999999994
+    ],
+    [
+     70.85851,
+     330.39862999999997,
+     134.56227196706,
+     341.43353
+    ],
+    [
+     70.85851,
+     347.49888,
+     135.16068202196,
+     358.53378000000004
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q029_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q030",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 30,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O novo local de trabalho exigia um esforço penoso de Maheu e seus companheiros. Aquele trecho do veio Filonnière era tão estreito que os britadores, espremidos entre o muro e o teto, esfolavam os cotovelos durante o abate. Além disso, era cada vez mais úmido, receava-se que a qualquer momento, a água jorrasse, numa dessas bruscas torrentes que rebentam as rochas e arrastam os homens. Na véspera, quando Etienne trabalhava metendo violentamente sua picareta na hulha, ao retirá-la, recebeu um jacto de água no rosto. Foi como um toque de alerta, e o recinto ficou simplesmente mais molhado e insalubre.\n\n{{fonte:1}}\n\nO famoso romance *Germinal* de Émile Zola, publicado em 1885, relata a saga de um grupo de trabalhadores de uma mina na França do século XIX. O trecho citado ilustra",
+  "fontes": [
+   "(ZOLA, Émile. Germinal. São Paulo: Martin Claret, 2006, pp. 162-163.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "o cotidiano de um trabalhador na época da primeira fase da Revolução Industrial."
+   },
+   {
+    "letra": "B",
+    "texto": "os elementos de opressão social como responsáveis pela paralisação moral da sociedade."
+   },
+   {
+    "letra": "C",
+    "texto": "a ideia naturalista de que a conduta humana é determinada pela herança genética e pelo ambiente."
+   },
+   {
+    "letra": "D",
+    "texto": "as condições subumanas de vida e de trabalho da classe trabalhadora europeia do século XIX."
+   },
+   {
+    "letra": "E",
+    "texto": "a organização do trabalho na sociedade francesa, na era napoleônica."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   19
+  ],
+  "caixas": {
+   "19": [
+    [
+     42.54,
+     411.04692,
+     552.9002760000001,
+     424.06692000000004
+    ],
+    [
+     42.53999,
+     428.49622999999997,
+     552.7322780000007,
+     439.47623
+    ],
+    [
+     42.53999,
+     444.27668,
+     552.7586299999991,
+     455.25668
+    ],
+    [
+     42.53999,
+     460.11643,
+     552.7454539999992,
+     471.09643
+    ],
+    [
+     42.53999,
+     475.89689,
+     552.7729039999991,
+     486.87689
+    ],
+    [
+     42.53999,
+     491.73663999999997,
+     552.6620059999992,
+     502.71664
+    ],
+    [
+     42.53999,
+     507.51709,
+     90.276638,
+     518.4970900000001
+    ],
+    [
+     320.46,
+     522.76338,
+     553.0067760000001,
+     530.74338
+    ],
+    [
+     70.92,
+     543.93648,
+     552.8168211924002,
+     554.91648
+    ],
+    [
+     70.92,
+     558.45643,
+     441.3797100000003,
+     569.43643
+    ],
+    [
+     70.92,
+     582.9967300000001,
+     489.0559680000003,
+     593.97673
+    ],
+    [
+     70.92,
+     600.09698,
+     535.5134364693606,
+     611.07698
+    ],
+    [
+     70.92,
+     617.19724,
+     552.8365919999999,
+     628.17724
+    ],
+    [
+     92.15971,
+     634.2371,
+     140.443162,
+     645.2171
+    ],
+    [
+     70.92,
+     651.33735,
+     552.7849763376005,
+     662.31735
+    ],
+    [
+     92.15971,
+     668.37721,
+     112.8537163294,
+     679.35721
+    ],
+    [
+     70.92,
+     685.4774600000001,
+     435.81504600000045,
+     696.45746
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q030_p19.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q031",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 31,
+  "area": "",
+  "texto_base_id": "P4138-T5",
+  "textos_base_ids": [
+   "P4138-T5"
+  ],
+  "enunciado": "Leia o texto a seguir:\n\n*Trata-se de uma área de primeira grandeza espacial, avaliada em aproximadamente 2 milhões de* *km<sup>2</sup>. A precipitação que nela ocorre tem uma variação de 1.300 e 1.800mm, concentrada no verão e* *relativamente baixa no inverno. O verão é definido por estação úmida, e o inverno, por estação seca.* *O relevo apresenta o predomínio de morfoestruturas tabulares horizontais*.\n\nEssa caracterização geográfica aplica-se **CORRETAMENTE** à seguinte porção do território brasileiro:",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Região da foz do Amazonas."
+   },
+   {
+    "letra": "B",
+    "texto": "Centro-Oeste."
+   },
+   {
+    "letra": "C",
+    "texto": "Tabuleiros Costeiros nordestinos."
+   },
+   {
+    "letra": "D",
+    "texto": "Campos do Rio Grande do Sul."
+   },
+   {
+    "letra": "E",
+    "texto": "Coxilhas Gaúchas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.54,
+     72.64692000000002,
+     173.0929580039024,
+     85.66692
+    ],
+    [
+     49.62,
+     92.67647999999997,
+     552.7239430399997,
+     103.65647999999999
+    ],
+    [
+     49.62,
+     107.19647999999995,
+     552.7671301599989,
+     118.17647999999997
+    ],
+    [
+     49.62,
+     121.77647999999999,
+     552.8007722399997,
+     132.75648
+    ],
+    [
+     49.62,
+     136.23648000000003,
+     413.4523568,
+     147.21648000000005
+    ],
+    [
+     70.92,
+     157.11648000000002,
+     522.6844751600001,
+     168.09648000000004
+    ],
+    [
+     70.92,
+     171.63648,
+     118.66386,
+     182.61648000000002
+    ],
+    [
+     70.92,
+     192.51715000000002,
+     236.50009678585369,
+     203.49715000000003
+    ],
+    [
+     70.92,
+     208.35689000000002,
+     161.20418804,
+     219.33689000000004
+    ],
+    [
+     70.92,
+     224.13734999999997,
+     256.05532324,
+     235.11735
+    ],
+    [
+     70.92,
+     239.97709999999995,
+     244.96338187999984,
+     250.95709999999997
+    ],
+    [
+     70.92,
+     255.75754999999992,
+     184.50538683999997,
+     266.73754999999994
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q031_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q032",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 32,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "A estruturação da rede hidrográfica instalada sob qualquer domínio morfoclimático reflete a estrutura geológica, as condições climáticas e os solos. A imagem, a seguir, de uma parte da Região Norte do Brasil, demonstra esse fato citado. Observe-a.\n\n{{img:1}}\n\nA partir das características observadas na imagem, em que categoria de rede de drenagem\n\nesses cursos d’água se enquadram **CORRETAMENTE**?",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Drenagem Sazonal intermitente"
+   },
+   {
+    "letra": "B",
+    "texto": "Drenagem Arreica"
+   },
+   {
+    "letra": "C",
+    "texto": "Drenagem Endorreica"
+   },
+   {
+    "letra": "D",
+    "texto": "Drenagem Retangular"
+   },
+   {
+    "letra": "E",
+    "texto": "Drenagem Meândrico-entrelaçada"
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q032_img1.png",
+    "pagina": 20,
+    "bbox": [
+     136.8,
+     348.0,
+     458.6,
+     589.7
+    ]
+   }
+  ],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     42.54,
+     300.94692,
+     552.7971326400002,
+     313.96691999999996
+    ],
+    [
+     42.54039,
+     317.07642999999996,
+     552.7685949999984,
+     328.05643
+    ],
+    [
+     42.54039,
+     331.65677,
+     320.0112409200001,
+     342.63677
+    ],
+    [
+     136.8,
+     348.0,
+     458.64000000000004,
+     589.6800000000001
+    ],
+    [
+     70.9211,
+     603.81694,
+     517.78497108,
+     614.79694
+    ],
+    [
+     70.9211,
+     619.59739,
+     346.5447536,
+     630.57739
+    ],
+    [
+     70.9211,
+     647.73803,
+     246.86106215756402,
+     658.71803
+    ],
+    [
+     70.9211,
+     664.83829,
+     181.466243664392,
+     675.8182899999999
+    ],
+    [
+     70.9211,
+     681.93854,
+     199.79659289512404,
+     692.91854
+    ],
+    [
+     70.9211,
+     698.9784,
+     200.427689895124,
+     709.9584
+    ],
+    [
+     70.9211,
+     716.07865,
+     259.125197487808,
+     727.05865
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q032_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q033",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 33,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "As afirmativas a seguir abordam assuntos relacionados ao tema **Os impactos das atividades econômicas no Brasil**. Analise-as.\n\nI. O impacto ambiental das atividades energéticas e mineradoras é, em geral, intenso, pontual, limitado e preciso em termos de localização, como é o caso da mineração de gipsita, no Nordeste brasileiro, ou de uma usina hidrelétrica.\n\nII. O impacto ambiental das atividades urbano-industriais é, em geral, de intensidade variada; ele pode ser pontual ou difuso, conforme acontece na Região Metropolitana de São Paulo.\n\nIII. Os impactos que as atividades agrícolas causam, em geral, são praticamente independentes de fatores físico-geográficos, pouco controláveis, e atingem, apenas, pequenas áreas de forma precisa.\n\nIV. Para compreender-se tecnicamente o caso do impacto ambiental do plantio da cana-de-açúcar, é necessária uma compreensão de sua inserção nas especificidades da avaliação de impacto ambiental da agricultura.\n\nV. Na atividade de mineração, quando existe a presença de substâncias químicas nocivas, como a argila, o nióbio, o calcário e o mercúrio na fase de beneficiamento do minério, isso pode representar um grave problema do ponto de vista ambiental.\n\nEstão **CORRETAS**",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I e IV, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "II e V, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "I, II e IV, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "III, IV e V, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II, III, IV e V."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "C",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.54,
+     72.64692000000002,
+     535.0533859999999,
+     85.66692
+    ],
+    [
+     42.53999,
+     88.83681999999999,
+     219.881268,
+     99.81682
+    ],
+    [
+     57.36,
+     109.65647999999999,
+     552.8116419999992,
+     120.69137999999998
+    ],
+    [
+     70.92,
+     124.23648000000003,
+     552.7125076788006,
+     135.21648000000005
+    ],
+    [
+     70.92,
+     138.75648,
+     262.9470239999999,
+     149.73648000000003
+    ],
+    [
+     53.70007,
+     153.33682,
+     552.866242,
+     164.37171999999998
+    ],
+    [
+     70.92,
+     167.85676999999998,
+     495.1926899999999,
+     178.83677
+    ],
+    [
+     50.04043,
+     182.43711999999994,
+     552.8618500000003,
+     193.47201999999993
+    ],
+    [
+     70.9211,
+     196.95706999999993,
+     552.82781,
+     207.93706999999995
+    ],
+    [
+     70.9211,
+     211.47701999999992,
+     109.47737000000001,
+     222.45701999999994
+    ],
+    [
+     49.44092,
+     226.05736000000002,
+     552.7783940000003,
+     237.09226
+    ],
+    [
+     70.9211,
+     240.57731,
+     552.7805960000001,
+     251.55731000000003
+    ],
+    [
+     70.9211,
+     255.15765999999996,
+     191.36840599999994,
+     266.13766
+    ],
+    [
+     53.10056,
+     269.67760999999996,
+     552.7597126279995,
+     280.71250999999995
+    ],
+    [
+     70.9211,
+     284.25794999999994,
+     552.6982459999996,
+     295.23794999999996
+    ],
+    [
+     70.9211,
+     298.77789999999993,
+     365.63198600000027,
+     309.75789999999995
+    ],
+    [
+     70.9211,
+     335.31824,
+     163.73723607685997,
+     346.29824
+    ],
+    [
+     70.9211,
+     357.27824,
+     164.91429313257999,
+     368.31314000000003
+    ],
+    [
+     70.92,
+     374.01835,
+     164.91429313257999,
+     385.05325000000005
+    ],
+    [
+     70.92,
+     390.81885,
+     177.76089,
+     401.85375000000005
+    ],
+    [
+     70.9189,
+     407.55895999999996,
+     185.37991,
+     418.59386
+    ],
+    [
+     70.9189,
+     424.29907,
+     165.47098,
+     435.33397
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q033_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q034",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 34,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia a matéria jornalística a seguir:\n\n“INFLAÇÃO (NO BRASIL) FECHA JUNHO COM ALTA DE 0,40%  \nA inflação de junho trouxe sinais de que a alta dos preços neste ano pode ser menos intensa do que se previa, e um dos motivos para isso não é positivo.”\n\n{{fonte:1}}\n\nÉ **CORRETO** afirmar que o fato abordado é resultado",
+  "fontes": [
+   "Jornal Folha de São Paulo, 9 de julho de 2014"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "da ação política de grupos que agem em manifestações públicas, de maneira violenta."
+   },
+   {
+    "letra": "B",
+    "texto": "do esfriamento acelerado da atividade econômica."
+   },
+   {
+    "letra": "C",
+    "texto": "da expansão do crédito ao consumidor."
+   },
+   {
+    "letra": "D",
+    "texto": "da diminuição dos juros nas compras realizadas a prazo."
+   },
+   {
+    "letra": "E",
+    "texto": "do decréscimo do preço das passagens de ônibus nas Regiões Metropolitanas."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   21
+  ],
+  "caixas": {
+   "21": [
+    [
+     42.45326,
+     470.38692703123996,
+     240.51215399999992,
+     483.40692703124
+    ],
+    [
+     49.61977,
+     492.87604999999996,
+     373.57149334119975,
+     503.85605
+    ],
+    [
+     49.61977,
+     507.45639,
+     552.7145859999999,
+     518.4363900000001
+    ],
+    [
+     49.61977,
+     523.23685,
+     311.89244200000036,
+     534.21685
+    ],
+    [
+     405.71983784040003,
+     538.54338,
+     552.930082818,
+     546.52338
+    ],
+    [
+     70.91988,
+     555.9369099999999,
+     332.5699839999999,
+     566.9169099999999
+    ],
+    [
+     70.92098,
+     585.03721,
+     514.0584080000003,
+     596.01721
+    ],
+    [
+     70.92098,
+     602.13746,
+     338.0039900000001,
+     613.1174599999999
+    ],
+    [
+     70.92098,
+     619.23771,
+     287.835272,
+     630.21771
+    ],
+    [
+     70.92098,
+     636.27757,
+     369.68897600000037,
+     647.25757
+    ],
+    [
+     70.92098,
+     653.37783,
+     479.83704200000034,
+     664.35783
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q034_p21.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q035",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 35,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "“Entre os vários fenômenos atmosféricos que ocorrem no Brasil, a geada é um dos que causam muitos prejuízos, principalmente com relação à agricultura e à economia do país. Muitas vezes, o impacto social e econômico pelos danos das geadas é significativo, uma vez que envolve fatores, tais como a produção e o preço de alimentos.”\n\n(ALGARVE, Viviane Regina. **Geadas no Brasil**. São José dos Campos: INPE, CPTEC, S/D.)\n\nSobre esse tema, analise as afirmativas a seguir:\n\nI. As geadas ocorrem em qualquer época do ano, desde que haja uma inversão térmica de forte intensidade agindo na Região Sudeste do Brasil.\n\nII. Geralmente, a massa de ar frio polar começa a atingir o sul do Brasil no mês de abril, prolongando-se até o mês de outubro, embora, em algumas localidades serranas do Rio Grande do Sul e Santa Catarina, possam ocorrer geadas em outros meses.\n\nIII. A geada caracteriza-se pela ocorrência de temperaturas do ar abaixo de 0°C, com a formação de gelo nas superfícies expostas, como pode acontecer no Agreste de Pernambuco e até nas áreas mais elevadas do Sertão do São Francisco.\n\nIV. A intensidade de uma geada varia e pode ser forte quando resulta da associação da incursão da massa Polar Atlântica sobre o continente, seguida de perda noturna de energia pela superfície por causa da emissão de radiação infravermelha para o espaço.\n\nEstá(ão) **CORRETA**(**S**) apenas",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I."
+   },
+   {
+    "letra": "B",
+    "texto": "I e II."
+   },
+   {
+    "letra": "C",
+    "texto": "II e III."
+   },
+   {
+    "letra": "D",
+    "texto": "II e IV."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   22
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.54,
+     72.64692000000002,
+     552.7509480000006,
+     85.66692
+    ],
+    [
+     42.54,
+     88.83647999999994,
+     552.860754,
+     99.81647999999996
+    ],
+    [
+     42.54,
+     103.35647999999992,
+     552.7454640000001,
+     114.33647999999994
+    ],
+    [
+     42.54,
+     117.87648000000002,
+     248.5643279999999,
+     128.85648000000003
+    ],
+    [
+     244.68,
+     131.92338000000007,
+     552.7622620000001,
+     139.90337999999997
+    ],
+    [
+     70.92,
+     153.99688000000003,
+     311.09322600000013,
+     164.97688000000005
+    ],
+    [
+     49.6199,
+     172.59699999999998,
+     530.0475979999993,
+     183.63189999999997
+    ],
+    [
+     70.92,
+     187.17733999999996,
+     314.9307308174401,
+     198.15733999999998
+    ],
+    [
+     49.62,
+     201.69647999999995,
+     552.9344160000003,
+     212.73137999999994
+    ],
+    [
+     70.92,
+     216.27648,
+     552.7685160000001,
+     227.25648
+    ],
+    [
+     70.92,
+     230.79647999999997,
+     399.8566440000003,
+     241.77648
+    ],
+    [
+     49.62,
+     245.37648000000002,
+     552.7960659999999,
+     256.41138
+    ],
+    [
+     70.92,
+     259.89648,
+     552.7608299999999,
+     270.87648
+    ],
+    [
+     70.92,
+     274.41648,
+     283.765104,
+     285.39648
+    ],
+    [
+     49.6199,
+     288.99681999999996,
+     552.8025457886007,
+     300.03171999999995
+    ],
+    [
+     70.92,
+     303.51676999999995,
+     552.6565094592006,
+     314.49676999999997
+    ],
+    [
+     70.92,
+     318.09712,
+     365.63088600000015,
+     329.07712000000004
+    ],
+    [
+     77.9999,
+     345.75683,
+     230.8063638902,
+     356.73683
+    ],
+    [
+     76.56152,
+     370.71767,
+     98.57313200000002,
+     381.75257000000005
+    ],
+    [
+     163.02244,
+     370.71767,
+     203.20703797804,
+     381.75257000000005
+    ],
+    [
+     255.18416200000001,
+     370.71767,
+     302.62764196706,
+     381.75257000000005
+    ],
+    [
+     361.505704,
+     370.71767,
+     409.60578202196,
+     381.75257000000005
+    ],
+    [
+     460.805522,
+     370.71767,
+     518.27594,
+     381.75257000000005
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q035_p22.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q036",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 36,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Considere o texto a seguir e analise os itens correspondentes à condição geográfica atual do processo de envelhecimento da população no mundo.\n\n**Segurança, poder econômico e independência no envelhecimento**\n\nQualquer representação que se faça do envelhecimento em um mundo de 7 bilhões terá de ser necessariamente caleidoscópica – para refletir os vários imperativos culturais, fatores sociais, níveis de desenvolvimento e disponibilidade de recursos que definem um país ou uma sociedade.\n\n{{fonte:1}}\n\nI. Na China, o percentual de idosos da população nacional aumenta constante e rapidamente. Isso é resultado da combinação entre baixas taxas de fecundidade, oriundas da política de planejamento familiar, e de uma vida mais saudável que favoreceu o aumento do número de idosos.\n\nII. A Finlândia, tal como inúmeras nações europeias, o Japão e a República da Coreia viram sua população envelhecer rapidamente, resultado, dentre outros fatores, de uma fecundidade muito baixa.\n\nIII. Todo país, rico ou pobre, industrial ou ainda em desenvolvimento, apresenta uma população que envelhece. Na maior parte das sociedades, as mulheres, em razão de viverem mais tempo que os homens, formam a maioria da população idosa.\n\nIV. Em seis décadas, as mudanças no perfil demográfico dos países demonstram que a expectativa de vida ao nascer diminuiu em 11 anos, entre 1950 e 2010, nos mais desenvolvidos. Por outro lado, nas regiões menos desenvolvidas, a expectativa de vida diminuiu em 26 anos, no mesmo período.\n\nEstá(ão) **CORRETO**(**S**)",
+  "fontes": [
+   "Fonte: UNESCO, 2011."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "I, apenas."
+   },
+   {
+    "letra": "B",
+    "texto": "I e II, apenas."
+   },
+   {
+    "letra": "C",
+    "texto": "II e IV, apenas."
+   },
+   {
+    "letra": "D",
+    "texto": "I, II e III, apenas."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II, III e IV."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   22,
+   23
+  ],
+  "caixas": {
+   "22": [
+    [
+     42.54,
+     408.22692,
+     552.8069460000003,
+     421.24692000000005
+    ],
+    [
+     42.53999,
+     424.41682,
+     306.6529100000001,
+     435.39682
+    ],
+    [
+     124.68028,
+     444.45642,
+     470.7446260000003,
+     455.43642
+    ],
+    [
+     42.54,
+     468.99647999999996,
+     552.888202902,
+     479.97648
+    ],
+    [
+     42.54,
+     483.51648,
+     552.8519719999999,
+     494.49648
+    ],
+    [
+     42.54,
+     498.09637999999995,
+     472.44433199999986,
+     509.07638
+    ],
+    [
+     476.4,
+     512.14338,
+     552.9680999999999,
+     520.12338
+    ],
+    [
+     57.36,
+     534.3364799999999,
+     552.7468496788005,
+     545.37138
+    ],
+    [
+     70.9203,
+     548.85643,
+     552.7512376788007,
+     559.8364300000001
+    ],
+    [
+     70.9203,
+     563.43677,
+     491.62668600000046,
+     574.41677
+    ],
+    [
+     53.70037,
+     586.29604,
+     552.8314060000007,
+     597.33094
+    ],
+    [
+     70.9203,
+     600.81599,
+     552.7852860000002,
+     611.79599
+    ],
+    [
+     70.9203,
+     615.39633,
+     100.25337,
+     626.37633
+    ],
+    [
+     50.04073,
+     638.25559,
+     552.7688017886006,
+     649.29049
+    ],
+    [
+     70.9214,
+     652.77554,
+     552.8412859999996,
+     663.75554
+    ],
+    [
+     70.9214,
+     667.35589,
+     303.36690200000015,
+     678.3358900000001
+    ],
+    [
+     49.44122,
+     690.21515,
+     552.7644151688,
+     701.25005
+    ],
+    [
+     70.9214,
+     704.7351,
+     552.8061500000005,
+     715.7151
+    ],
+    [
+     70.9214,
+     719.31544,
+     552.743564,
+     730.29544
+    ],
+    [
+     70.9214,
+     733.83539,
+     111.28388,
+     744.81539
+    ]
+   ],
+   "23": [
+    [
+     70.92,
+     72.39648,
+     185.1551448,
+     83.37648000000002
+    ],
+    [
+     70.92,
+     99.33700999999996,
+     141.1001778,
+     110.37190999999996
+    ],
+    [
+     70.92,
+     115.23714999999993,
+     160.6597978,
+     126.27204999999992
+    ],
+    [
+     70.92,
+     131.07688999999993,
+     168.2713776,
+     142.11178999999993
+    ],
+    [
+     70.9189,
+     146.91664000000003,
+     177.17368364,
+     157.95154000000002
+    ],
+    [
+     70.9178,
+     162.81678,
+     152.02968679999998,
+     173.85168
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q036_p22.jpg",
+   "revisao/Q036_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q037",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 37,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "O Estado de Pernambuco foi dividido em diversas mesorregiões, cada uma englobando várias microrregiões. O mapa a seguir configura uma das Mesorregiões do Estado de Pernambuco.\n\n{{img:1}}\n\nAssinale a alternativa que apresenta a denominação **CORRETA** correspondente, respectivamente, ao conjunto das microrregiões dessa área geográfica.",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "Itamaracá, Recife, Suape, Fernando de Noronha."
+   },
+   {
+    "letra": "B",
+    "texto": "Recife, Suape, Médio Capibaribe, Mata Meridional."
+   },
+   {
+    "letra": "C",
+    "texto": "Suape, Recife, Mata Setentrional, Itamaracá."
+   },
+   {
+    "letra": "D",
+    "texto": "Recife, Itamaracá, Baixo Capibaribe, Fernando de Noronha."
+   },
+   {
+    "letra": "E",
+    "texto": "Fernando de Noronha, Recife, Médio Capibaribe, Suape."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q037_img1.png",
+    "pagina": 23,
+    "bbox": [
+     41.6,
+     260.0,
+     558.8,
+     560.0
+    ]
+   }
+  ],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   23
+  ],
+  "caixas": {
+   "23": [
+    [
+     42.54,
+     226.36681999999996,
+     552.7982302,
+     239.38681999999994
+    ],
+    [
+     42.54039,
+     242.49632999999994,
+     496.12242584,
+     253.47632999999996
+    ],
+    [
+     41.58,
+     259.98,
+     558.84,
+     560.04
+    ],
+    [
+     70.92,
+     579.63613,
+     552.80810612,
+     590.61613
+    ],
+    [
+     70.9189,
+     594.15609,
+     420.09115067682956,
+     605.13609
+    ],
+    [
+     70.9189,
+     618.57561,
+     333.06561820000013,
+     629.55561
+    ],
+    [
+     70.9189,
+     635.61547,
+     341.00426968000005,
+     646.59547
+    ],
+    [
+     70.9189,
+     652.71572,
+     311.67527135999995,
+     663.6957199999999
+    ],
+    [
+     70.9189,
+     669.75558,
+     385.0350842000002,
+     680.73558
+    ],
+    [
+     70.9189,
+     686.85583,
+     370.4089936034202,
+     697.83583
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q037_p23.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q038",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 38,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\n*...Para muitos moradores das megacidades, sejam eles ricos ou pobres, a qualidade de vida é* *habitualmente reduzida. A poluição do ar, da água e dos solos, as deficiências nos abastecimentos de* *água e de energia, o congestionamento do tráfego, os problemas de saúde ambiental, a exiguidade dos* *espaços verdes, a pobreza e a má nutrição, a segurança social e os problemas de segurança pública e* *social resultam em várias preocupações e restrições aos habitantes.*\n\n{{fonte:1}}\n\nAssocia-se, **CORRETAMENTE**, ao conteúdo do texto a afirmação indicada na alternativa",
+  "fontes": [
+   "Fonte: Os desafios das megacidades. Revista Planeta, 2009."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "As megacidades proporcionam novas dinâmicas e uma diferente complexidade e simultaneidade de fenômenos e processos físicos, sociais e econômicos."
+   },
+   {
+    "letra": "B",
+    "texto": "As concentrações absolutas do capital humano tornam as megacidades grandes obstáculos de crescimento e inovação. Elas fogem ao conjunto característico da globalização."
+   },
+   {
+    "letra": "C",
+    "texto": "As megacidades caracterizam-se pela unicidade demográfica e reúnem problemas voltados à falta de polarização social e à ausência de coexistência entre grupos de várias etnias."
+   },
+   {
+    "letra": "D",
+    "texto": "A expansão descontrolada das megacidades pode gerar a diminuição da concentração industrial e a regulação dos mercados imobiliários, além de aumentar o planejamento ambiental."
+   },
+   {
+    "letra": "E",
+    "texto": "A densidade populacional nas megacidades diminui a vulnerabilidade relativa a fenômenos físicos, com potencial destrutivo, naturais ou antrópicos."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   24
+  ],
+  "caixas": {
+   "24": [
+    [
+     42.54,
+     72.64692000000002,
+     173.07352799999998,
+     85.66692
+    ],
+    [
+     42.53999399999999,
+     100.35703799999999,
+     552.7827899999997,
+     111.337038
+    ],
+    [
+     42.54,
+     115.53647999999998,
+     552.837695999999,
+     126.51648
+    ],
+    [
+     42.54,
+     130.71647999999993,
+     552.7586399999991,
+     141.69647999999995
+    ],
+    [
+     42.54,
+     145.89648,
+     552.7311899999987,
+     156.87648000000002
+    ],
+    [
+     42.54,
+     161.07647999999995,
+     376.38690000000054,
+     172.05647999999997
+    ],
+    [
+     361.8,
+     185.68338000000006,
+     552.953718,
+     193.66337999999996
+    ],
+    [
+     70.92,
+     208.29647999999997,
+     506.0903400000002,
+     219.27648
+    ],
+    [
+     70.92109799999997,
+     232.83677999999998,
+     552.819024,
+     243.81678
+    ],
+    [
+     92.16080999999994,
+     247.35673199999997,
+     449.15135400000037,
+     258.336732
+    ],
+    [
+     70.92109799999994,
+     262.89672599999994,
+     552.7674179999992,
+     273.87672599999996
+    ],
+    [
+     92.16080999999994,
+     277.4770679999999,
+     495.0126180000004,
+     288.45706799999994
+    ],
+    [
+     70.92109799999994,
+     293.0170619999999,
+     552.817926,
+     303.9970619999999
+    ],
+    [
+     92.16080999999994,
+     307.5370139999999,
+     510.9434999999999,
+     318.5170139999999
+    ],
+    [
+     70.92109799999994,
+     323.07700799999986,
+     552.8058479999994,
+     334.0570079999999
+    ],
+    [
+     92.16080999999994,
+     337.65734999999984,
+     552.8102400000001,
+     348.63734999999986
+    ],
+    [
+     92.16080999999991,
+     352.1773019999998,
+     142.9004879999999,
+     363.15730199999985
+    ],
+    [
+     70.92109799999992,
+     367.7172959999998,
+     552.7740060000003,
+     378.6972959999998
+    ],
+    [
+     92.16080999999991,
+     382.2976379999998,
+     365.5507320000004,
+     393.2776379999998
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q038_p24.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q039",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 39,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Analise o texto a seguir:\n\n*Morar na periferia é se condenar duas vezes à pobreza. À pobreza gerada pelo modelo econômico,* *segmentador do mercado de trabalho e das classes sociais, superpõe-se a pobreza gerada pelo modelo* *territorial.*\n\n{{fonte:1}}\n\nConsiderando o texto e seus conhecimentos acerca do assunto, é **INCORRETO** afirmar que o modelo territorial referido pelo autor apresenta como característica",
+  "fontes": [
+   "Fonte: SANTOS, Milton. O espaço do cidadão. 1996."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "bens sociais existentes apenas na forma mercantil."
+   },
+   {
+    "letra": "B",
+    "texto": "condição estrutural que favorece a reprodução da pobreza."
+   },
+   {
+    "letra": "C",
+    "texto": "condição de cidadania de uma pessoa que varia conforme sua posição no território da cidade."
+   },
+   {
+    "letra": "D",
+    "texto": "exercício de direitos de cidadania, independentemente de sua localização no território."
+   },
+   {
+    "letra": "E",
+    "texto": "existência de assentamentos precários, na sua maioria periféricos, em áreas consideradas de risco muito alto."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   24
+  ],
+  "caixas": {
+   "24": [
+    [
+     42.54,
+     437.20691999999997,
+     188.32145399999996,
+     450.22692
+    ],
+    [
+     42.53999399999999,
+     464.91594,
+     552.7037339999991,
+     475.89594
+    ],
+    [
+     42.54,
+     479.43647999999996,
+     552.7191119999989,
+     490.41648
+    ],
+    [
+     42.54,
+     494.01648,
+     88.31781600000001,
+     504.99648
+    ],
+    [
+     381.12,
+     508.00327999999996,
+     552.9469559999999,
+     515.9832799999999
+    ],
+    [
+     70.92,
+     536.19593,
+     552.8234160000001,
+     547.17593
+    ],
+    [
+     70.918902,
+     550.776272,
+     395.6315400000004,
+     561.756272
+    ],
+    [
+     70.918902,
+     575.316572,
+     341.5780980000001,
+     586.296572
+    ],
+    [
+     70.918902,
+     593.3764759999999,
+     380.68117200000023,
+     604.3564759999999
+    ],
+    [
+     70.918902,
+     611.43638,
+     551.3916239999993,
+     622.4163799999999
+    ],
+    [
+     70.918902,
+     629.5566739999999,
+     514.0870740000001,
+     640.536674
+    ],
+    [
+     70.91890200000003,
+     647.6165779999999,
+     552.864042,
+     658.5965779999999
+    ],
+    [
+     92.15861400000003,
+     664.71683,
+     169.20198,
+     675.69683
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q039_p24.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q040",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 40,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "De acordo com o Ipea (2013), 60,4% dos agricultores familiares de baixa renda e dos agricultores assentados em projetos de reforma agrária vivem na região Nordeste, especialmente no Semiárido.\n\nSobre esse assunto, considere as seguintes afirmativas:\n\nI. As disputas políticas no semiárido brasileiro sempre naturalizaram essa região como um espaço de exclusão, no qual fome e pobreza são resultados naturais de um meio ambiente bastante hostil.\n\nII. O regime regular de chuvas, que, não raro, submete a população a anos seguidos de estiagem, é um problema essencial dos grandes espaços sociais do sertão.\n\nIII. De um modo geral, os solos do semiárido brasileiro são perfeitamente adequados à atividade agrícola, tanto do ponto de vista físico quanto do geoquímico (solos parcialmente salinos ou carbonáticos).\n\nEstá(ão) **CORRETA**(**S**)",
+  "fontes": [],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "apenas I."
+   },
+   {
+    "letra": "B",
+    "texto": "apenas II."
+   },
+   {
+    "letra": "C",
+    "texto": "apenas I e II."
+   },
+   {
+    "letra": "D",
+    "texto": "apenas II e III."
+   },
+   {
+    "letra": "E",
+    "texto": "I, II e III."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "A",
+  "anulada": false,
+  "paginas": [
+   25
+  ],
+  "caixas": {
+   "25": [
+    [
+     42.54,
+     72.64692000000002,
+     552.7366739999995,
+     85.66692
+    ],
+    [
+     42.53999,
+     88.83681999999999,
+     529.1670020000007,
+     99.81682
+    ],
+    [
+     45.602312000000005,
+     109.35734000000002,
+     320.7160940000002,
+     120.33734000000004
+    ],
+    [
+     57.3597,
+     133.89764000000002,
+     552.8848977886004,
+     144.93254000000002
+    ],
+    [
+     70.92,
+     148.47798999999998,
+     552.7805940000003,
+     159.45799
+    ],
+    [
+     70.92,
+     162.99793999999997,
+     99.71175600000001,
+     173.97794
+    ],
+    [
+     53.70007,
+     178.53792999999996,
+     552.6718959999994,
+     189.57282999999995
+    ],
+    [
+     70.92,
+     193.11826999999994,
+     380.21122800000035,
+     204.09826999999996
+    ],
+    [
+     50.04043,
+     208.65827000000002,
+     552.776198,
+     219.69317
+    ],
+    [
+     70.9211,
+     223.17822,
+     552.7827820082007,
+     234.15822000000003
+    ],
+    [
+     70.9211,
+     237.69817,
+     140.00176857259999,
+     248.67817000000002
+    ],
+    [
+     78.001,
+     260.61781999999994,
+     191.63851,
+     271.59781999999996
+    ],
+    [
+     78.0021,
+     284.01839999999993,
+     145.13382,
+     295.0532999999999
+    ],
+    [
+     78.001,
+     299.61878,
+     148.48491797804,
+     310.65368
+    ],
+    [
+     78.001,
+     315.21916999999996,
+     162.530534,
+     326.25406999999996
+    ],
+    [
+     78.001,
+     330.81955,
+     169.843214,
+     341.85445000000004
+    ],
+    [
+     78.001,
+     346.41994,
+     139.8425536706,
+     357.45484000000005
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q040_p25.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q041",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 41,
+  "area": "",
+  "texto_base_id": "P4138-T6",
+  "textos_base_ids": [
+   "P4138-T6"
+  ],
+  "enunciado": "Observe a imagem a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nO processo de mecanização no capitalismo industrial revolucionou o modo de produzir mercadorias, pois",
+  "fontes": [
+   "(Disponível em: http://cead.unimontes.br/cadernos/uab/geografia/3periodo/geografiadaenergiaeindustria/files/search/searchtext.xml)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "não permitiu uma maior cooperação entre as pessoas e um acesso aos vários produtos de necessidade essencial para a vida em sociedade."
+   },
+   {
+    "letra": "B",
+    "texto": "possibilitou o controle da jornada de trabalho em todos os países onde não se podia passar de quatro horas por dia, em todas as ocupações e profissões."
+   },
+   {
+    "letra": "C",
+    "texto": "contribuiu para a socialização dos indivíduos por meio da divisão social do trabalho, uma vez que, nesse processo produtivo, a divisão das riquezas é igualitária."
+   },
+   {
+    "letra": "D",
+    "texto": "adotou o trabalho especializado, acelerando a produção e aumentando a quantidade de produtos no mercado consumidor, por meio do processo de exploração do trabalhador."
+   },
+   {
+    "letra": "E",
+    "texto": "transformou as fábricas em um lugar de produção acelerada e em massa, permitindo a consolidação do capitalismo por meio da mais-valia, que representa um trabalho lucrativo e igualitário quanto à distribuição dos excedentes."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q041_img1.png",
+    "pagina": 26,
+    "bbox": [
+     57.7,
+     96.8,
+     540.0,
+     404.6
+    ]
+   }
+  ],
+  "gabarito": "D",
+  "anulada": false,
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     42.54,
+     72.64692000000002,
+     209.11377959999996,
+     85.66692
+    ],
+    [
+     57.703949,
+     96.77998350000007,
+     540.0,
+     404.64
+    ],
+    [
+     84.42,
+     413.80338,
+     510.86554938000006,
+     421.78338
+    ],
+    [
+     70.92,
+     438.75647999999995,
+     493.9558434800002,
+     449.73648
+    ],
+    [
+     70.92,
+     453.27203999999995,
+     157.7205326,
+     464.25203999999997
+    ],
+    [
+     70.92,
+     477.81233999999995,
+     552.8564008799991,
+     488.79233999999997
+    ],
+    [
+     92.157786,
+     494.90819999999997,
+     334.7953752000002,
+     505.8882
+    ],
+    [
+     70.92,
+     514.9467,
+     552.8256691999994,
+     525.9267
+    ],
+    [
+     92.157786,
+     532.04256,
+     393.6410546000002,
+     543.02256
+    ],
+    [
+     70.92,
+     552.14694,
+     552.8201814,
+     563.12694
+    ],
+    [
+     92.157786,
+     569.1878999999999,
+     419.25810500000046,
+     580.1678999999999
+    ],
+    [
+     70.92,
+     589.29228,
+     552.7433521999999,
+     600.2722799999999
+    ],
+    [
+     92.157786,
+     606.3332399999999,
+     517.0671644000001,
+     617.31324
+    ],
+    [
+     70.92,
+     626.4376199999999,
+     552.9903032000002,
+     637.4176199999999
+    ],
+    [
+     92.157786,
+     643.5334799999999,
+     552.7916448400002,
+     654.51348
+    ],
+    [
+     92.157786,
+     660.57444,
+     326.9094066000001,
+     671.55444
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q041_p26.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q042",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 42,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Observe a charge a seguir:\n\n{{img:1}}\n\n{{fonte:1}}\n\nA relação de produção existente no modo de produção capitalista é bastante criticada por alguns sociólogos, pois torna o trabalhador",
+  "fontes": [
+   "(Fonte: Jornal do Brasil, 19 de fevereiro de 1997.)"
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "crítico."
+   },
+   {
+    "letra": "B",
+    "texto": "alienado."
+   },
+   {
+    "letra": "C",
+    "texto": "produtivo."
+   },
+   {
+    "letra": "D",
+    "texto": "socialista."
+   },
+   {
+    "letra": "E",
+    "texto": "não transformador."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/Q042_img1.png",
+    "pagina": 27,
+    "bbox": [
+     42.0,
+     96.8,
+     558.1,
+     234.0
+    ]
+   }
+  ],
+  "gabarito": "B",
+  "anulada": false,
+  "paginas": [
+   27
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.54,
+     72.64692000000002,
+     203.56231837609997,
+     85.66692
+    ],
+    [
+     42.0,
+     96.77999999999997,
+     558.0752,
+     234.0
+    ],
+    [
+     217.5,
+     235.78338000000008,
+     377.94652650329994,
+     243.76337999999998
+    ],
+    [
+     70.9229,
+     264.15642,
+     543.5212605536585,
+     275.13642000000004
+    ],
+    [
+     70.9229,
+     278.67197999999996,
+     245.1890866039024,
+     289.65198
+    ],
+    [
+     70.9229,
+     303.26717999999994,
+     124.62431568000001,
+     314.24717999999996
+    ],
+    [
+     70.9229,
+     320.30814,
+     136.85771943999998,
+     331.28814
+    ],
+    [
+     70.9229,
+     337.404,
+     140.45442356,
+     348.384
+    ],
+    [
+     70.9229,
+     354.44496,
+     140.50710644,
+     365.42496
+    ],
+    [
+     70.9229,
+     371.54082,
+     185.11304239999998,
+     382.52082
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q042_p27.jpg"
+  ]
+ },
+ {
+  "id": "P4138-Q043",
+  "prova_id": "P4138",
+  "idioma": null,
+  "vestibular": "SSA",
+  "ano": "2015",
+  "edicao": "regular",
+  "fase_etapa": "SSA 2",
+  "dia": "2",
+  "caderno": "",
+  "numero": 43,
+  "area": "",
+  "texto_base_id": null,
+  "textos_base_ids": [],
+  "enunciado": "Leia o texto a seguir:\n\nÉ no tatame de uma escola estadual de Garanhuns, Agreste, bairro da Boa Vista, que o professor de história Pedro Henrique de Melo Teixeira, 30, ensina a alunos e moradores de comunidades carentes o significado da palavra cidadania. Durante as aulas de jiu-jítsu, cerca de 25 jovens exercitam a concentração, o respeito ao próximo e a disciplina. Eles estão preparados para competir. No entanto, falta o quimono, roupa exigida pelos torneios no Estado. (...). Inicialmente, apenas alunos da escola podiam participar. Em pouco tempo, o projeto se espalhou pelas comunidades e cidades vizinhas. “O efeito das aulas está repercutindo de maneira muito positiva no desempenho escolar deles. A direção do colégio elogia o comportamento deles, que aprenderam a ouvir o professor e aproveitar mais o conteúdo ensinado”, comemorou Pedro Henrique. “Para os que não são alunos da unidade, o efeito também é positivo. Os convidados ajudam a preservar a escola e o ambiente de treino”, completou.\n\n{{fonte:1}}\n\nO grupo social descrito no texto pode ser classificado como",
+  "fontes": [
+   "CARVALHO, Danielle. Respeito e disciplina através do jiu-jítsu. Jornal do Commercio, Educação, 15/08/2010."
+  ],
+  "alternativas": [
+   {
+    "letra": "A",
+    "texto": "formal."
+   },
+   {
+    "letra": "B",
+    "texto": "primário."
+   },
+   {
+    "letra": "C",
+    "texto": "secundário."
+   },
+   {
+    "letra": "D",
+    "texto": "estereótipo."
+   },
+   {
+    "letra": "E",
+    "texto": "intermediário."
+   }
+  ],
+  "apos_alternativas": "",
+  "imagens": [],
+  "gabarito": "E",
+  "anulada": false,
+  "paginas": [
+   27
+  ],
+  "caixas": {
+   "27": [
+    [
+     42.54,
+     437.98692,
+     173.0929580039024,
+     451.00692000000004
+    ],
+    [
+     42.5371,
+     464.13678,
+     552.9431097200002,
+     475.11678
+    ],
+    [
+     42.5371,
+     479.32212,
+     552.7093294400001,
+     490.30212
+    ],
+    [
+     42.5371,
+     494.50746,
+     552.7598172000002,
+     505.48746
+    ],
+    [
+     42.5371,
+     509.6928,
+     552.6533538800002,
+     520.6728
+    ],
+    [
+     42.5371,
+     524.87814,
+     552.8937195199998,
+     535.85814
+    ],
+    [
+     42.5371,
+     540.06348,
+     552.77957328,
+     551.04348
+    ],
+    [
+     42.5371,
+     555.24882,
+     552.6698172800001,
+     566.22882
+    ],
+    [
+     42.5371,
+     570.43416,
+     552.7126221200001,
+     581.41416
+    ],
+    [
+     42.5371,
+     585.6195,
+     552.8640853999999,
+     596.5995
+    ],
+    [
+     42.5371,
+     600.85974,
+     528.5586191999992,
+     611.83974
+    ],
+    [
+     194.22,
+     617.32338,
+     552.8197300300001,
+     625.3033800000001
+    ],
+    [
+     70.92,
+     638.49648,
+     361.35193696000033,
+     649.47648
+    ],
+    [
+     70.92,
+     659.073,
+     125.75080492000001,
+     670.053
+    ],
+    [
+     70.92,
+     677.1351,
+     134.92201628,
+     688.1151
+    ],
+    [
+     70.92,
+     695.1972000000001,
+     149.08163783999996,
+     706.1772
+    ],
+    [
+     70.92,
+     713.3142,
+     149.68639340000001,
+     724.2942
+    ],
+    [
+     70.92,
+     731.3763,
+     158.79943408000003,
+     742.3563
+    ]
+   ]
+  },
+  "arquivo_origem": "O Mapa Mentoria/SSA MATERIAL/SUPER COMBO SSA2/PROVAS ANTIGAS/SSA 2 2015/PROVA SSA 2 - 2 Dia.pdf",
+  "gabarito_origem": [
+   "P4135"
+  ],
+  "alertas": [],
+  "status_revisao": "automático ok",
+  "recortes": [
+   "revisao/Q043_p27.jpg"
+  ]
+ }
+]

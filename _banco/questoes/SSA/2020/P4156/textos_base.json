@@ -1,0 +1,107 @@
+[
+ {
+  "id": "P4156-T1",
+  "texto": "Ensaio de Ballet – Edgar Degas  \nrepresentação do movimento romântico do\n\nb)\n\nd)\n\nEnterro em Ornans – Gustave Courbet",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   17
+  ],
+  "caixas": {
+   "17": [
+    [
+     64.025,
+     689.47416,
+     205.99,
+     699.50416
+    ],
+    [
+     318.1590080000001,
+     46.107000000000085,
+     547.025008,
+     57.107000000000085
+    ],
+    [
+     298.5,
+     90.53616000000011,
+     308.356,
+     101.53616000000011
+    ],
+    [
+     298.5,
+     333.18616000000003,
+     308.363,
+     344.18616000000003
+    ],
+    [
+     319.1,
+     480.22916000000004,
+     491.03,
+     490.25916000000007
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4156-Q028"
+  ],
+  "recortes": [
+   "revisao/T1_p17.jpg"
+  ]
+ },
+ {
+  "id": "P4156-T2",
+  "texto": "**GEOGRAFIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   20
+  ],
+  "caixas": {
+   "20": [
+    [
+     262.08,
+     44.107000000000085,
+     328.751,
+     55.107000000000085
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4156-Q031"
+  ],
+  "recortes": [
+   "revisao/T2_p20.jpg"
+  ]
+ },
+ {
+  "id": "P4156-T3",
+  "texto": "**SOCIOLOGIA**",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   26
+  ],
+  "caixas": {
+   "26": [
+    [
+     259.27,
+     44.70700000000011,
+     329.549,
+     55.70700000000011
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P4156-Q041"
+  ],
+  "recortes": [
+   "revisao/T3_p26.jpg"
+  ]
+ }
+]
