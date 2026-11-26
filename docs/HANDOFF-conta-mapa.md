@@ -455,6 +455,16 @@ catálogo com códigos novos a partir de `P4238` (`origem: DRIVE2`, `caminho: DR
   existiam. 185/185 gabaritos iguais ao oficial; 3 anuladas (115, 121, 178). PR no `Banco-de-questoes`, ramo
   `claude/enem-completo-2025` (PR #18, merge feito em 26/11 a pedido do Matheus, para testar na plataforma).
 
+- **2025 completo, sem duplicadas** (PR #21, substitui #19 e #20): regular, PPL e Belém, 555 questões. O banco antigo
+  (ids < 10000, vindos de site) já tinha 374 delas: o PR #18 criou 110 cópias, que o #21 retira. Desde então o
+  `integra.py` compara também com o banco antigo (qualquer aplicação do mesmo ano) e o `publica.py` dá às antigas o
+  texto e as imagens do PDF oficial (mantendo id, comentário e classificação).
+- Gabarito corrigido pelo oficial: 7369 (B → D), em `final/comentarios_a_refazer_2026-11.json`.
+
+**Sessões paralelas (26/11):** a pedido do Matheus, uma sessão por ano (2024, 2023, 2022, 2021, 2020), cada uma com
+ids, parte, códigos de PDF e ramos próprios. Manual: `docs/enem/SESSAO_ANO.md`. A sessão mestre (conta pessoal) acompanha
+e consolida o HANDOFF. Catálogo do Drive novo por ano em `_banco/catalogo_drive2/<ano>.json`.
+
 **Pendências desta frente:**
 - As questões novas estão sem comentário ("Comentário em produção"): falta o lote do Gemini.
 - A plataforma ainda não usa os campos `prova_completa*`: falta o prompt do Lovable para "fazer a prova inteira".

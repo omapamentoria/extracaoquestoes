@@ -3,8 +3,10 @@
 # Saida: {"casadas":[{novo,id_banco,sim,...}], "novas":[registro no formato do banco sem id], "banco_sem_par":[ids]}
 import json,glob,re,sys,os,difflib,collections
 P,D,OUT=sys.argv[1:4]
+sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import corr as _corr
+CORR=_corr.carrega(sys.argv[4]) if len(sys.argv)>4 else {}
 R="/home/user/extracaoquestoes"
-CAT={d["id"]:d for d in json.load(open(R+"/_banco/catalogo_debug.json"))}
+from catalogo import CAT
 pid=os.path.basename(D.rstrip("/")); c=CAT[pid]
 qs=json.load(open(D+"/questoes.json"))
 bases={t["id"]:t for t in json.load(open(D+"/textos_base.json"))} if os.path.exists(D+"/textos_base.json") else {}
@@ -21,26 +23,33 @@ def monta(q):
         if k==len(partes)-1: ult=sub
     alts=[{"letra":a["letra"],"texto":ult(a["texto"])} for a in q["alternativas"]]
     return "\n\n".join(txt).strip(),alts,ult(q.get("apos_alternativas","")),fontes,imgs
-norm=lambda s:re.sub(r"\s+"," ",re.sub(r"<[^>]+>|\{\{[^}]+\}\}|[*_\\]","",s or "").lower()).strip()
-chave=lambda st,al:norm(st)+" || "+" | ".join(norm(a["texto"]) for a in al)
-banco=[q for f in sorted(glob.glob(P+"/*.json")) for q in json.load(open(f))
-       if q.get("vestibular")=="ENEM" and q.get("tipo_prova")!="simulado" and str(q.get("ano"))==str(c["ano"])
-       and str(q.get("dia"))==str(c["dia"]) and (q.get("edicao") or "")==c["edicao"]]
+norm=lambda s:re.sub(r"\W+","",re.sub(r"<[^>]+>|\{\{[^}]+\}\}|\\[()]","",s or "").lower())   # so letras e numeros: ignora espacos, grudadas e marcacao
+chave=lambda st,al:norm(st)[-1500:]+"|"+"|".join(norm(a["texto"]) for a in al)
+PROPRIO_DESDE=121560   # ids criados por esta frente (provas completas): numa nova rodada sao refeitos, nao casados
+def candidato(q):
+    if q["id"]>=PROPRIO_DESDE and (q.get("origem_texto") or "").startswith(pid+"-"): return False
+    if q["id"]<10000:   # banco antigo (FPS/SSA/ENEM de site), sem vestibular/edicao: mesmo ano, qualquer aplicacao
+        return q.get("exam")=="ENEM" and str(q.get("ano"))==str(c["ano"])
+    return (q.get("vestibular")=="ENEM" and q.get("tipo_prova")!="simulado" and str(q.get("ano"))==str(c["ano"])
+            and str(q.get("dia"))==str(c["dia"]) and (q.get("edicao") or "")==c["edicao"])
+banco=[q for f in sorted(glob.glob(P+"/*.json")) for q in json.load(open(f)) if candidato(q)]
 reg=[]
 for q in qs:
     st,al,apos,fo,im=monta(q)
     reg.append({"origem_texto":q["id"],"numero":q["numero"],"idioma":q.get("idioma"),"statement":st,"alternativas":al,"apos_alternativas":apos,
                 "fontes":fo,"imagens_src":im,"gabarito":"anulada" if q.get("anulada") else q["gabarito"],"area_prova":q.get("area") or "",
                 "alertas":q.get("alertas",[])})
+    if q["id"] in CORR: import copy; rr=copy.deepcopy(reg[-1]); _corr.aplica(rr,CORR); reg[-1]["_chave"]=(rr["statement"],rr["alternativas"])
 # casamento guloso pela maior semelhanca (pares unicos)
 cand=[]
+def grams(k): return {k[i:i+6] for i in range(0,max(1,len(k)-5),3)}
+BK={q["id"]:chave(q["statement"],q["alternativas"]) for q in banco}; BG={i:grams(k) for i,k in BK.items()}
 for i,r in enumerate(reg):
-    kr=chave(r["statement"],r["alternativas"])
-    for q in banco:
+    kr=chave(*r.get("_chave",(r["statement"],r["alternativas"]))); gr=grams(kr)
+    pre=sorted(banco,key=lambda q:-len(gr&BG[q["id"]])/max(1,len(gr|BG[q["id"]])))[:4]   # 4 mais parecidas pelos pedacos de texto
+    for q in pre:
         if r["idioma"] and q.get("idioma") and r["idioma"]!=q["idioma"]: continue
-        s=difflib.SequenceMatcher(None,kr,chave(q["statement"],q["alternativas"]),autojunk=False)
-        if s.real_quick_ratio()<0.5 or s.quick_ratio()<0.6: continue
-        cand.append((s.ratio(),i,q["id"]))
+        cand.append((difflib.SequenceMatcher(None,kr,BK[q["id"]],autojunk=False).ratio(),i,q["id"]))
 cand.sort(reverse=True); usado_r,usado_b,par={}, set(),{}
 B={q["id"]:q for q in banco}
 for s,i,b in cand:
@@ -54,9 +63,10 @@ for i,r in enumerate(reg):
                         "gab_oficial":r["gabarito"],"gab_banco":q["gabarito"],"tem_coment":bool(q.get("analise_correta_texto")),
                         "imgs_novo":len(r["imagens_src"]),"imgs_banco":len(q.get("imagens") or []),"registro":r})
     else: novas.append(r)
-json.dump({"pid":pid,"cor":c["caderno"],"casadas":casadas,"novas":novas,"banco_sem_par":sorted(set(B)-usado_b)},open(OUT,"w"),ensure_ascii=False,indent=0)
-print(pid,c["arquivo"],"| extraidas",len(reg),"| no banco",len(banco),"| casadas",len(casadas),"| novas",len(novas),"| banco sem par",len(B)-len(usado_b))
+antigos_sem_par=sorted(i for i in set(B)-usado_b if i<10000); novos_sem_par=sorted(i for i in set(B)-usado_b if i>=10000)
+json.dump({"pid":pid,"cor":c["caderno"],"casadas":casadas,"novas":novas,"banco_sem_par":novos_sem_par,"antigos_sem_par":antigos_sem_par},open(OUT,"w"),ensure_ascii=False,indent=0)
+print(pid,c["arquivo"],"| extraidas",len(reg),"| candidatas no banco",len(banco),"| casadas",len(casadas),"(do banco antigo",sum(x["id_banco"]<10000 for x in casadas),") | novas",len(novas),"| sem par (extração nova)",len(novos_sem_par))
 print("  gabarito diferente do banco:",[(x["numero"],x["id_banco"],x["gab_banco"],"->",x["gab_oficial"]) for x in casadas if x["gab_banco"]!=x["gab_oficial"]])
 print("  semelhanca < 0.97:",[(x["numero"],x["id_banco"],x["sim"]) for x in casadas if x["sim"]<0.97])
 print("  numero de imagens diferente:",[(x["numero"],x["id_banco"],x["imgs_banco"],x["imgs_novo"]) for x in casadas if x["imgs_banco"]!=x["imgs_novo"]])
-print("  banco sem par:",sorted(set(B)-usado_b))
+print("  sem par (extração nova, mesma aplicação):",novos_sem_par)

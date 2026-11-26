@@ -1,0 +1,65 @@
+{
+ "P4242-Q033": {
+  "motivo": "trecho desenhado no título do LP, transcrito lendo a página 14",
+  "statement_sub": [
+   [
+    "\\*U\\ m\\ banda\\ um\\*",
+    "*Um banda um*"
+   ]
+  ]
+ },
+ "P4244-Q104": {
+  "motivo": "seta de equilíbrio e sinal desenhados, transcritos lendo a página 5",
+  "statement_sub": [
+   [
+    "CHCl<sub>3</sub>\\ \\(g\\)\\ \\+\\ Cl<sub>2</sub>\\ \\(g\\)\\ \\ CCl<sub>4</sub>\\ \\(g\\)\\ \\+\\ HCl\\ \\(g\\)\\ Δ\\*H\\*\\ \\(cid:29\\)\\ 0",
+    "CHCl<sub>3</sub> (g) + Cl<sub>2</sub> (g) ⇌ CCl<sub>4</sub> (g) + HCl (g)   \\( \\Delta H < 0 \\)"
+   ]
+  ]
+ },
+ "P4244-Q109": {
+  "motivo": "seta de equilíbrio e carga do íon desenhadas, transcritas lendo a página 7 (a 'densidade da água: 1 g/mol' está assim no PDF)",
+  "statement_sub": [
+   [
+    "H<sub>2</sub>SO<sub>4</sub>\\ \\(aq\\)\\ 2\\ H<sup>\\+</sup>\\ \\(aq\\)\\ \\+\\ SO<sup>2</sup><sub>4</sub><sup>\\-</sup>\\ \\(aq\\)",
+    "H<sub>2</sub>SO<sub>4</sub> (aq) ⇌ 2 H<sup>+</sup> (aq) + SO<sub>4</sub><sup>2−</sup> (aq)"
+   ],
+   [
+    "\n\n\n\n",
+    "\n\n"
+   ]
+  ]
+ },
+ "P4244-Q180": {
+  "motivo": "alternativas desenhadas (sinais não traduzidos), transcritas lendo a página 31",
+  "alternativas": {
+   "A": "\\( \\sigma_{1} = \\frac{V_{T}}{2}\\left(V_{T} + 100\\right) \\)",
+   "B": "\\( \\sigma_{1} = \\frac{V_{T}}{2}\\left(V_{T} - 100\\right) \\)",
+   "C": "\\( \\sigma_{1} = \\frac{2V_{T}}{V_{T} - 100} \\)",
+   "D": "\\( \\sigma_{1} = \\frac{2V_{T}}{V_{T} + 100} \\)",
+   "E": "\\( \\sigma_{1} = \\frac{V_{T}}{V_{T} - 50} \\)"
+  }
+ },
+ "P4246-Q041": {
+  "motivo": "versalete lido como 'teXto'",
+  "statement_sub": [
+   [
+    "\\*\\*teXto I\\*\\*",
+    "**TEXTO I**"
+   ],
+   [
+    "\\*\\*teXto II\\*\\*",
+    "**TEXTO II**"
+   ]
+  ]
+ },
+ "_area": {
+  "P4246": [
+   [
+    46,
+    90,
+    "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS"
+   ]
+  ]
+ }
+}

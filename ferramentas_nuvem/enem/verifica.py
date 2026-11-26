@@ -3,7 +3,7 @@
 # Uso: verifica.py <Banco-de-questoes> <pid_prova>...
 import json,glob,sys,os,collections,re
 sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); from gab_enem import le
-R="/home/user/extracaoquestoes"; CAT={d["id"]:d for d in json.load(open(R+"/_banco/catalogo_debug.json"))}
+R="/home/user/extracaoquestoes"; from catalogo import CAT
 DEST=sys.argv[1]; ok=True
 Q=[q for f in glob.glob(DEST+"/final/partes/*.json") for q in json.load(open(f))]
 for pid in sys.argv[2:]:

@@ -21,10 +21,9 @@ class Espacos:
         def tr(m):
             nonlocal n
             tok=m.group(0); core=re.sub(r"[*_]","",tok)
-            if "*" in tok or "_" in tok: return tok         # trecho com marcacao: deixa para revisao
             sp=self.espaçado(core)
             if sp and " " in sp and sp.replace(" ","")==core: n+=1; return sp
             return tok
-        out=re.sub(r"(?<![\\{\w])[^\s{}\\]{%d,}"%minimo,lambda m:tr(m) if re.search(r"[a-zà-ú]{3}[A-Za-zÀ-ú]*[a-zà-ú]{3}",m.group(0)) else m.group(0),texto)
+        out=re.sub(r"(?<![\\{\w])[^\s{}\\*_]{%d,}"%minimo,lambda m:tr(m) if re.search(r"[a-zà-ú]{3}[A-Za-zÀ-ú]*[a-zà-ú]{3}",m.group(0)) else m.group(0),texto)
         return out,n
 def grudadas(texto): return re.findall(r"[A-Za-zÀ-ÿ]{22,}",texto)

@@ -12,6 +12,8 @@ import cv2
 RAIZ = os.path.expanduser("~/mnt/BM"); B = os.path.join(RAIZ, "_banco")
 PID = sys.argv[1]; PERFIL = sys.argv[2] if len(sys.argv) > 2 else "auto"   # auto: o proprio codigo reconhece o formato da prova
 CAT = {d["id"]: d for d in json.load(open(os.path.join(B, "catalogo_debug.json"), encoding="utf-8"))}
+import glob as _g   # catalogo do Drive novo, um arquivo por ano (ferramentas_nuvem/enem): evita conflito entre sessoes
+for _f in sorted(_g.glob(os.path.join(B, "catalogo_drive2", "*.json"))): CAT.update({d["id"]: d for d in json.load(open(_f, encoding="utf-8"))})
 P = CAT[PID]
 PDF = os.path.join(RAIZ, P["caminho"])
 # prova com texto ruim no PDF (digitalizada / fonte sem traducao): se existe o PDF com a camada de OCR
