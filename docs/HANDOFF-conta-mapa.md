@@ -455,7 +455,7 @@ catálogo com códigos novos a partir de `P4238` (`origem: DRIVE2`, `caminho: DR
   existiam. 185/185 gabaritos iguais ao oficial; 3 anuladas (115, 121, 178). PR no `Banco-de-questoes`, ramo
   `claude/enem-completo-2025` (PR #18, merge feito em 26/11 a pedido do Matheus, para testar na plataforma).
 
-- **2025 completo, sem duplicadas** (PR #21, substitui #19 e #20): regular, PPL e Belém, 555 questões. O banco antigo
+- **2025 completo, sem duplicadas** (PR #21, merge em 26/11 com aprovação do Matheus; substitui #19 e #20): regular, PPL e Belém, 555 questões. O banco antigo
   (ids < 10000, vindos de site) já tinha 374 delas: o PR #18 criou 110 cópias, que o #21 retira. Desde então o
   `integra.py` compara também com o banco antigo (qualquer aplicação do mesmo ano) e o `publica.py` dá às antigas o
   texto e as imagens do PDF oficial (mantendo id, comentário e classificação).
