@@ -4,7 +4,7 @@ def carrega(caminhos):
     corr={}
     for _c in caminhos.split(","):
         for k,v in json.load(open(_c)).items():
-            if k=="_area": corr.setdefault("_area",{}).update(v)
+            if k in ("_area","_pares"): corr.setdefault(k,{}).update(v)
             else: corr[k]=v
     return corr
 def aplica(r,corr):
@@ -18,4 +18,5 @@ def aplica(r,corr):
     for L,t in c.get("alternativas",{}).items():
         for x in r["alternativas"]:
             if x["letra"]==L: x["texto"]=t
+    if "fontes" in c: r["fontes"]=c["fontes"]
     r["alertas"]=[]
