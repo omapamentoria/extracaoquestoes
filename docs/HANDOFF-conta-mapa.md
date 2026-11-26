@@ -453,7 +453,7 @@ catálogo com códigos novos a partir de `P4238` (`origem: DRIVE2`, `caminho: DR
 **Feito:**
 - **2025 regular** (dia 1 azul `P4238`, dia 2 amarelo `P4240`): 117 questões novas (121560–121676) + 68 que já
   existiam. 185/185 gabaritos iguais ao oficial; 3 anuladas (115, 121, 178). PR no `Banco-de-questoes`, ramo
-  `claude/enem-completo-2025`.
+  `claude/enem-completo-2025` (PR #18, merge feito em 26/11 a pedido do Matheus, para testar na plataforma).
 
 **Pendências desta frente:**
 - As questões novas estão sem comentário ("Comentário em produção"): falta o lote do Gemini.
