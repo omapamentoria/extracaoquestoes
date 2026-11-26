@@ -52,6 +52,10 @@ for i,r in enumerate(reg):
         cand.append((difflib.SequenceMatcher(None,kr,BK[q["id"]],autojunk=False).ratio(),i,q["id"]))
 cand.sort(reverse=True); usado_r,usado_b,par={}, set(),{}
 B={q["id"]:q for q in banco}
+# par forcado (correcoes "_par": {"<questao extraida>": id_no_banco}): questao do banco com texto vazio, que nao casa pelo texto
+for i,r in enumerate(reg):
+    b=CORR.get("_par",{}).get(r["origem_texto"])
+    if b in B and b not in usado_b: usado_r[i]=1; usado_b.add(b); par[i]=(b,1.0)
 for s,i,b in cand:
     if s<0.80 or i in usado_r or b in usado_b: continue
     usado_r[i]=1; usado_b.add(b); par[i]=(b,s)

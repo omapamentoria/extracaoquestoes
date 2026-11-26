@@ -95,11 +95,13 @@ def letra_alt(l):
         for b in BOLHAS[l["pg"]]:
             if b[4] != "?" and min(b[3], l["bottom"]) - max(b[1], l["top"]) > 0.4 * (b[3] - b[1]) and -2 <= w0["x0"] - b[2] <= 3 * w0["size"]:
                 return b[4]
-    if ALT_NEGRITO and re.fullmatch(r"[A-E]", w0["text"]) and w0["bold"] and len(l["ws"]) > 1:
+    if (ALT_NEGRITO or LETRA_CIRCULO) and re.fullmatch(r"[A-E]", w0["text"]) and w0["bold"] and len(l["ws"]) > 1:
         w1 = sorted(l["ws"], key=lambda w: w["x0"])[1]
         if not w1["bold"] and w1["x0"] - w0["x1"] > 0.4 * w0["size"]: return w0["text"]
     return None
 ALT_NEGRITO = False
+# ENEM 2020 digital: letra da alternativa em negrito dentro de bolinha desenhada (curvas), sem fonte de simbolos
+LETRA_CIRCULO = bool(os.environ.get("ENEM_LETRA_CIRCULO"))
 def eh_codigo_tok(x):
     """codigo interno de questao de simulado (ex.: "R387", "196SE02BIO2019II", "BAN_027SE01FIS2018I")"""
     return re.fullmatch(r"[A-Z0-9_]{4,}", x) is not None and re.search(r"\d", x) is not None and re.search(r"[A-Z]", x) is not None
@@ -563,6 +565,8 @@ def fracoes(page, ws):
         if len(indice) == 1 and len(no_gancho) == 1: no_gancho = []
         else: indice = []
         if not dentro or no_gancho: continue
+        # ENEM 2020 digital: a bolinha da letra da alternativa e desenhada com o mesmo formato; letra A-E sozinha nao e raiz
+        if os.environ.get("ENEM_LETRA_CIRCULO") and len(dentro) == 1 and re.fullmatch(r"[A-E]", dentro[0]["text"]): continue
         graf_usados.add(o["_k"])
         for w in dentro + indice: usadas.add(ws.index(w))
         w0 = max(dentro, key=lambda w: w["size"])
@@ -1560,6 +1564,7 @@ def detecta_figuras(pg):
         ws_l = sorted([w for w in l["ws"] if not w["sup"] and not w["sub"]], key=lambda w: w["x0"])
         for a_, b_ in zip(ws_l, ws_l[1:]):
             if b_["x0"] - a_["x1"] < 0.5 * l["size"]: continue
+            if LETRA_CIRCULO and a_ is ws_l[0] and letra_alt(l): continue   # bolinha desenhada da alternativa (ENEM 2020 digital)
             y0_, y1_ = int((l["top"] + 0.2 * (l["bottom"] - l["top"])) * s), int((l["bottom"] - 0.1 * (l["bottom"] - l["top"])) * s)
             x0_, x1_ = int(a_["x1"] * s) + 2, int(b_["x0"] * s) - 1
             if x1_ > x0_ and resto[y0_:y1_, x0_:x1_].sum() >= 12:
@@ -2266,6 +2271,7 @@ def monta(bloco, prefixo, eh_questao):
                 la = letra_alt(l)
                 if la and (alt_atual is not None or la == "A") and (not alts or ord(la) == ord(alts[-1]["letra"]) + 1):
                     letra = la; md = re.sub(r"^\**\(?[a-eA-E][).]\**\s*", "", md)
+                    if LETRA_CIRCULO and l["ws"][0]["text"] == la: md = md_linha({"ws": l["ws"][1:]}) if len(l["ws"]) > 1 else ""
         if letra:
             flush(); alt_atual = {"letra": letra, "md": [], "pg": it["pg"], "pos": (it["pg"], pl["x0"], pl["top"])}; alts.append(alt_atual); par = md; prev = l
             marcada.append((GAB_RAZAO.get((it["pg"], round(l["ws"][0]["top"])), 0), letra))

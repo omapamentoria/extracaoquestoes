@@ -1,0 +1,797 @@
+{
+ "P5406-Q105": {
+  "motivo": "alternativas são gráficos (letra em bolinha desenhada): recortadas da pág. 19; índices SiO2, Tfusão, Tebulição lendo a imagem da página",
+  "enunciado_sub": [
+   [
+    "\\(SiO \\), principal componente do vidro\\. Para isso, submeteu uma amostra\\n\\n2  \\ndesse óxido",
+    "(SiO<sub>2</sub>), principal componente do vidro. Para isso, submeteu uma amostra desse óxido"
+   ],
+   [
+    "Dados do SiO : T = 1 600 °C; T  \\n= 2 230 °C\\.  \\n2 fusão  \\nebulição",
+    "Dados do SiO<sub>2</sub>: T<sub>fusão</sub> = 1 600 °C; T<sub>ebulição</sub> = 2 230 °C."
+   ],
+   [
+    "\\n\\n\\*\\*D A\\*\\*[\\s\\S]*$",
+    ""
+   ]
+  ],
+  "imagens": [],
+  "alt_imagens": "auto"
+ },
+ "P5406-Q114": {
+  "motivo": "alternativas são gráficos: recortadas da pág. 29",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [],
+  "alt_imagens": "auto"
+ },
+ "P5406-Q135": {
+  "motivo": "alternativas são fórmulas estruturais: recortadas da pág. 50; a imagem do título da pág. 51 saiu; gabarito C do gabarito oficial amarelo (P5407)",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\*\\*A\\*\\*[\\s\\S]*$",
+    ""
+   ]
+  ],
+  "imagens": [
+   1
+  ],
+  "alt_imagens": "auto",
+  "gabarito_oficial": "C"
+ },
+ "P5406-Q139": {
+  "motivo": "alternativas (frações desenhadas) lendo a imagem da página 54",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\*\\*A\\*\\*[\\s\\S]*$",
+    ""
+   ]
+  ],
+  "imagens": [],
+  "alternativas": {
+   "A": "\\( \\frac{1}{4} \\)",
+   "B": "\\( \\frac{3}{2} \\)",
+   "C": "\\( \\frac{3}{4} \\)",
+   "D": "\\( \\frac{5}{17} \\)",
+   "E": "\\( \\frac{7}{17} \\)"
+  }
+ },
+ "P5406-Q152": {
+  "motivo": "alternativas (fórmulas desenhadas) lendo a imagem da página 67",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [],
+  "alternativas": {
+   "A": "\\( T(x) = -x^{2} + 16x + 57 \\)",
+   "B": "\\( T(x) = -\\frac{11}{16}x^{2} + 11x + 72 \\)",
+   "C": "\\( T(x) = \\frac{3}{5}x^{2} - \\frac{24}{5}x + \\frac{381}{5} \\)",
+   "D": "\\( T(x) = -x^{2} - 16x + 87 \\)",
+   "E": "\\( T(x) = \\frac{11}{16}x^{2} - \\frac{11}{2}x + 72 \\)"
+  }
+ },
+ "P5406-Q160": {
+  "motivo": "frações do enunciado e das alternativas desenhadas; enunciado e alternativas lendo a imagem da página 75",
+  "enunciado": "Com base na Lei Universal da Gravitação, proposta por Isaac Newton, o peso de um objeto na superfície de um planeta aproximadamente esférico é diretamente proporcional à massa do planeta e inversamente proporcional ao quadrado do raio desse planeta. A massa do planeta Mercúrio é, aproximadamente, \\( \\frac{1}{20} \\) da massa da Terra e seu raio é, aproximadamente, \\( \\frac{2}{5} \\) do raio da Terra. Considere um objeto que, na superfície da Terra, tenha peso *P*.\n\nO peso desse objeto na superfície de Mercúrio será igual a",
+  "imagens": [],
+  "alternativas": {
+   "A": "\\( \\frac{5P}{16} \\)",
+   "B": "\\( \\frac{5P}{2} \\)",
+   "C": "\\( \\frac{25P}{4} \\)",
+   "D": "\\( \\frac{P}{8} \\)",
+   "E": "\\( \\frac{P}{20} \\)"
+  }
+ },
+ "P5406-Q161": {
+  "motivo": "alternativas são desenhos (vistas): recortadas da pág. 77",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:2\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [
+   1
+  ],
+  "alt_imagens": "auto"
+ },
+ "P5406-Q163": {
+  "motivo": "alternativas (potências desenhadas) lendo a imagem da página 79",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:2\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [
+   1
+  ],
+  "alternativas": {
+   "A": "\\( 4^{5} - 4^{4} - 4^{3} \\)",
+   "B": "\\( 4^{5} + 4^{4} + 4^{3} \\)",
+   "C": "\\( 4^{5} \\times 4^{4} \\times 4^{3} \\)",
+   "D": "\\( (4!)^{5} \\)",
+   "E": "\\( 4^{5} \\)"
+  }
+ },
+ "P5406-Q164": {
+  "motivo": "alternativas (frações desenhadas) lendo a imagem da página 80",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [],
+  "alternativas": {
+   "A": "\\( \\frac{1}{8} \\)",
+   "B": "\\( \\frac{2}{5} \\)",
+   "C": "\\( \\frac{3}{5} \\)",
+   "D": "\\( \\frac{3}{4} \\)",
+   "E": "\\( \\frac{4}{5} \\)"
+  }
+ },
+ "P5406-Q166": {
+  "motivo": "alternativas (cálculos desenhados) lendo a imagem da página 82",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [],
+  "alternativas": {
+   "A": "0,3 = 3 meses = 3 × 30 dias",
+   "B": "0,3 × 1 ano = 0,3 × 365 dias",
+   "C": "0,3 × 1 ano = 0,3 × 12 meses = 3,6 × 30 dias",
+   "D": "0,3 × 1 ano = \\( \\frac{1}{3} \\) × 12 × 30 dias = \\( \\frac{1}{3} \\) × 360 dias",
+   "E": "0,3 × 1 ano = 0,3 × 12 meses = 3,6 meses = 3 × 30 dias + 6 dias"
+  }
+ },
+ "P5406-Q177": {
+  "motivo": "alternativas são gráficos (letra em bolinha desenhada): recortadas da pág. 93",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\*\\*A\\*\\*[\\s\\S]*$",
+    ""
+   ]
+  ],
+  "imagens": [
+   1
+  ],
+  "alt_imagens": "auto"
+ },
+ "P5406-Q180": {
+  "motivo": "frações do enunciado e das alternativas desenhadas lendo a imagem da página 96",
+  "enunciado_sub": [
+   [
+    "O vencedor foi o\\n\\naluno que recebeu as cartas com as frações:\\n\\n\\{\\{img:1\\}\\}",
+    "O vencedor foi o aluno que recebeu as cartas com as frações: \\( \\frac{3}{5} \\), \\( \\frac{1}{4} \\), \\( \\frac{2}{3} \\) e \\( \\frac{5}{9} \\)."
+   ],
+   [
+    "\\n\\n\\*\\*A\\*\\*[\\s\\S]*$",
+    ""
+   ]
+  ],
+  "imagens": [],
+  "alternativas": {
+   "A": "\\( \\frac{1}{4} \\); \\( \\frac{5}{9} \\); \\( \\frac{3}{5} \\); \\( \\frac{2}{3} \\)",
+   "B": "\\( \\frac{1}{4} \\); \\( \\frac{2}{3} \\); \\( \\frac{3}{5} \\); \\( \\frac{5}{9} \\)",
+   "C": "\\( \\frac{2}{3} \\); \\( \\frac{1}{4} \\); \\( \\frac{3}{5} \\); \\( \\frac{5}{9} \\)",
+   "D": "\\( \\frac{5}{9} \\); \\( \\frac{1}{4} \\); \\( \\frac{3}{5} \\); \\( \\frac{2}{3} \\)",
+   "E": "\\( \\frac{2}{3} \\); \\( \\frac{3}{5} \\); \\( \\frac{1}{4} \\); \\( \\frac{5}{9} \\)"
+  }
+ },
+ "P5402-Q113": {
+  "motivo": "o gráfico da alternativa A tinha ficado no enunciado (lendo a imagem da página 7 do caderno amarelo (P5421, mesmo texto))",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "{{img:1}}",
+   "B": "{{img:2}}",
+   "C": "{{img:3}}",
+   "D": "{{img:4}}",
+   "E": "{{img:5}}"
+  }
+ },
+ "P5402-Q149": {
+  "motivo": "fórmula da lei de Zipf e alternativas desenhadas, lendo a imagem da página 24 do caderno amarelo (P5421, mesmo texto)",
+  "enunciado_sub": [
+   [
+    "Ela é dada por\\n\\n<u>\\*A\\*</u>\\n\\n\\*f\\*\\n\\n\\*B\\* \\.  \\n\\*r\\*\\n\\nO ranking da palavra= é",
+    "Ela é dada por \\( f = \\frac{A}{r^{B}} \\).\n\nO ranking da palavra é"
+   ]
+  ],
+  "imagens": [],
+  "alternativas": {
+   "A": "\\( Y = \\log(A) - B \\cdot X \\)",
+   "B": "\\( Y = \\frac{\\log(A)}{X + \\log(B)} \\)",
+   "C": "\\( Y = \\frac{\\log(A)}{B} - X \\)",
+   "D": "\\( Y = \\frac{\\log(A)}{B \\cdot X} \\)",
+   "E": "\\( Y = \\frac{\\log(A)}{X^{B}} \\)"
+  }
+ },
+ "P5402-Q155": {
+  "motivo": "potências de 1/2 com parênteses desenhados, lendo a imagem da página 27 do caderno amarelo (P5421, mesmo texto)",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\(cid:31\\) \\(cid:28\\)<sup>100</sup>$",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "\\( \\left(\\frac{1}{2}\\right)^{100} \\)",
+   "B": "\\( \\left(\\frac{1}{2}\\right)^{99} \\)",
+   "C": "\\( \\left(\\frac{1}{2}\\right)^{97} \\)",
+   "D": "\\( \\left(\\frac{1}{2}\\right)^{-98} \\)",
+   "E": "\\( \\left(\\frac{1}{2}\\right)^{-99} \\)"
+  }
+ },
+ "P5402-Q163": {
+  "motivo": "sinal × e frações desenhados, lendo a imagem da página 28 do caderno amarelo (P5421, mesmo texto)",
+  "alternativas": {
+   "A": "9!",
+   "B": "4! 5!",
+   "C": "2 × 4! 5!",
+   "D": "\\( \\frac{9!}{2} \\)",
+   "E": "\\( \\frac{4!\\,5!}{2} \\)"
+  }
+ },
+ "P5402-Q177": {
+  "motivo": "legendas das figuras tinham ido para as alternativas e as letras das figuras ficaram trocadas (duas colunas), lendo a imagem da página 25 do caderno amarelo (P5421, mesmo texto)",
+  "enunciado": "A Figura 1 apresenta uma casa e a planta do seu telhado, em que as setas indicam o sentido do escoamento da água de chuva. Um pedreiro precisa fazer a planta do escoamento da água de chuva de um telhado que tem três caídas de água, como apresentado na Figura 2.\n\n{{img:1}}\n\n(a) Casa (b) Planta do telhado\n\nFigura 1\n\n{{img:2}}\n\nFigura 2\n\nA figura que representa a planta do telhado da Figura 2 com o escoamento da água de chuva que o pedreiro precisa fazer é",
+  "alternativas": {
+   "A": "{{img:3}}",
+   "B": "{{img:5}}",
+   "C": "{{img:7}}",
+   "D": "{{img:4}}",
+   "E": "{{img:6}}"
+  }
+ },
+ "_faixas": [
+  "P5400",
+  "P5402",
+  "P5410",
+  "P5418"
+ ],
+ "P5410-Q092": {
+  "motivo": "frações das alternativas desenhadas e legenda do heredograma (símbolos desenhados) separada da figura: figura recortada de novo com a legenda, lendo a imagem da página 2",
+  "enunciado": "Em um grupo de roedores, a presença de um gene dominante (A) determina indivíduos com pelagem na cor amarela. Entretanto, em homozigose é letal, ou seja, provoca a morte dos indivíduos no útero. Já o alelo recessivo (a) não é letal e determina a presença de pelos pretos. Com base nessas informações, considere o heredograma:\n\n{{img:9}}\n\nQual é a probabilidade de, na próxima ninhada do casal de roedores que está representado na figura pelos números 7 e 8, nascer uma fêmea de pelagem amarela (representada pelo número 11)?",
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 9,
+    "pagina": 2,
+    "bbox": [
+     120,
+     288,
+     478,
+     390
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "\\( \\frac{1}{4} \\) (25%)",
+   "B": "\\( \\frac{1}{3} \\) (33%)",
+   "C": "\\( \\frac{1}{2} \\) (50%)",
+   "D": "\\( \\frac{2}{3} \\) (66%)",
+   "E": "\\( \\frac{3}{4} \\) (75%)"
+  }
+ },
+ "P5410-Q143": {
+  "motivo": "símbolo π desenhado, lendo a imagem da página 17",
+  "enunciado_sub": [
+   [
+    "constante matemática com precisão",
+    "constante matemática π com precisão"
+   ],
+   [
+    "dígitos de calculado",
+    "dígitos de π calculado"
+   ]
+  ],
+  "alternativas": {
+   "A": "3.",
+   "B": "6.",
+   "C": "9.",
+   "D": "12.",
+   "E": "15."
+  }
+ },
+ "P5410-Q160": {
+  "motivo": "π e alternativas (raiz e frações) desenhados, lendo a imagem da página 23",
+  "enunciado_sub": [
+   [
+    "aproximação para \\.",
+    "aproximação para π."
+   ]
+  ],
+  "alternativas": {
+   "A": "\\( \\sqrt{30} - 5 \\)",
+   "B": "\\( \\frac{\\sqrt{30} - 5}{2} \\)",
+   "C": "\\( \\sqrt{5} \\)",
+   "D": "\\( \\frac{5}{2} \\)",
+   "E": "\\( \\frac{15}{2} \\)"
+  }
+ },
+ "P5410-Q161": {
+  "motivo": "sinais × e + desenhados nas alternativas, lendo a imagem da página 23",
+  "alternativas": {
+   "A": "*C* × 0,0365",
+   "B": "2*C* × 0,0365",
+   "C": "*C* × 1,0365<sup>2</sup>",
+   "D": "*C* × (1 + 2 × 0,0365)",
+   "E": "2*C* × 0,0365 + *C* × 0,0365<sup>2</sup>"
+  }
+ },
+ "P5410-Q170": {
+  "motivo": "frações das alternativas desenhadas, lendo a imagem da página 26",
+  "enunciado_sub": [
+   [
+    "medida do\\n\\nângulo",
+    "medida do ângulo"
+   ]
+  ],
+  "imagens": [
+   2
+  ],
+  "alternativas": {
+   "A": "\\( R_{2} - R_{1} \\)",
+   "B": "\\( \\frac{1}{R_{1}} - \\frac{1}{R_{2}} \\)",
+   "C": "\\( \\frac{1}{R_{2}} - \\frac{1}{R_{1}} \\)",
+   "D": "\\( \\frac{1}{R_{2} - R_{1}} \\)",
+   "E": "\\( \\frac{1}{R_{1}} + \\frac{1}{R_{2}} \\)"
+  }
+ },
+ "P5410-Q173": {
+  "motivo": "fórmulas das alternativas desenhadas; a figura tinha só o círculo: recortada de novo com o quadrado, lendo a imagem da página 27",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\*L\\*\\n\\n\\{\\{img:2\\}\\}",
+    "\n\n{{img:9}}"
+   ]
+  ],
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 9,
+    "pagina": 27,
+    "bbox": [
+     165,
+     448,
+     402,
+     556
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "\\( R = \\frac{L}{\\sqrt{\\pi}} \\)",
+   "B": "\\( R = \\frac{L}{\\sqrt{2\\pi}} \\)",
+   "C": "\\( R = \\frac{L^{2}}{2\\pi} \\)",
+   "D": "\\( R = \\sqrt{\\frac{2L}{\\pi}} \\)",
+   "E": "\\( R = 2\\sqrt{\\frac{L}{\\pi}} \\)"
+  }
+ },
+ "P5410-Q175": {
+  "motivo": "potências das alternativas desenhadas, lendo a imagem da página 28",
+  "enunciado_sub": [
+   [
+    "\\n\\n14$",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "\\( 6 \\times 10^{-14} \\)",
+   "B": "\\( 6 \\times 10^{-\\frac{5}{9}} \\)",
+   "C": "\\( 6 \\times 10^{\\frac{5}{9}} \\)",
+   "D": "\\( 6 \\times 10^{4} \\)",
+   "E": "\\( 6 \\times 10^{45} \\)"
+  }
+ },
+ "P5410-Q176": {
+  "motivo": "símbolo π desenhado, lendo a imagem da página 29",
+  "enunciado_sub": [
+   [
+    "e 3 para \\)\\.",
+    "e 3 para π)."
+   ]
+  ]
+ },
+ "P5410-Q177": {
+  "motivo": "potências das alternativas desenhadas, lendo a imagem da página 29",
+  "enunciado_sub": [
+   [
+    "\\n\\n2\\n\\n2$",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "\\( 10^{-2} \\times 60^{-2} \\)",
+   "B": "\\( 10^{-2} \\times 60^{-1} \\)",
+   "C": "\\( 10^{-2} \\times 60 \\)",
+   "D": "\\( 10^{-3} \\times 60^{-1} \\)",
+   "E": "\\( 10^{-3} \\times 60 \\)"
+  }
+ },
+ "P5406-Q102": {
+  "motivo": "índices/expoentes químicos e matemáticos saíram soltos (PDF do digital), lendo a imagem da página 16; um trecho do enunciado tinha virado fonte",
+  "enunciado": "A combustão completa de combustíveis fósseis produz água e dióxido de carbono (CO<sub>2</sub>, massa molar 44 g mol<sup>−1</sup>). A União Europeia estabeleceu, desde 2012, limite de emissão veicular de 130 g de CO<sub>2</sub> por quilômetro rodado (valor aplicável a uma média de veículos de um mesmo fabricante), tendo como penalidade multa, caso o fabricante ultrapasse a meta. A gasolina é uma mistura de hidrocarbonetos com cerca de oito carbonos em sua composição, incluindo isômeros do octano (C<sub>8</sub>H<sub>18</sub>). Considere que em uma cidade o consumo médio diário dos carros de um fabricante seja de 10 km L<sup>−1</sup> de gasolina, formada apenas por octano (massa molar 114 g mol<sup>−1</sup>) e que sua densidade seja 0,70 kg L<sup>−1</sup>.\n\nA diferença de emissão de CO<sub>2</sub> dos carros desse fabricante em relação ao limite estabelecido na União Europeia é",
+  "fontes": []
+ },
+ "P5406-Q106": {
+  "motivo": "índices/expoentes químicos e matemáticos saíram soltos (PDF do digital), lendo a imagem da página 20",
+  "alternativas": {
+   "A": "N<sub>2</sub> em NH<sub>3</sub>.",
+   "B": "NO<sub>3</sub><sup>−</sup> em N<sub>2</sub>.",
+   "C": "NH<sub>3</sub> em NH<sub>4</sub><sup>+</sup>.",
+   "D": "NO<sub>2</sub><sup>−</sup> em NO<sub>3</sub><sup>−</sup>.",
+   "E": "NH<sub>4</sub><sup>+</sup> em NO<sub>2</sub><sup>−</sup>."
+  }
+ },
+ "P5406-Q110": {
+  "motivo": "índices/expoentes químicos e matemáticos saíram soltos (PDF do digital), lendo a imagem da página 24",
+  "enunciado_sub": [
+   [
+    "\\(MnO mais NH Cl ou KOH\\), contido em uma massa úmida com\\n\\n2  \\n4  \\ncarbono",
+    "(MnO<sub>2</sub> mais NH<sub>4</sub>Cl ou KOH), contido em uma massa úmida com carbono"
+   ]
+  ]
+ },
+ "P5406-Q119": {
+  "motivo": "índices/expoentes químicos e matemáticos saíram soltos (PDF do digital), lendo a imagem da página 34",
+  "enunciado_sub": [
+   [
+    "\\(Ag S\\), que é\\n\\n2  \\nescuro",
+    "(Ag<sub>2</sub>S), que é escuro"
+   ],
+   [
+    "3 Ag S \\(s\\) \\+ 2 Al \\(s\\) \\+ 8 NaOH \\(aq\\) → 6 Ag \\(s\\) \\+ 3 Na S \\(aq\\) \\+ 2 NaAlO \\(aq\\) \\+ 4 H O \\(l\\)\\n\\n2  \\n2  \\n2  \\n2",
+    "3 Ag<sub>2</sub>S (s) + 2 Al (s) + 8 NaOH (aq) → 6 Ag (s) + 3 Na<sub>2</sub>S (aq) + 2 NaAlO<sub>2</sub> (aq) + 4 H<sub>2</sub>O (l)"
+   ]
+  ]
+ },
+ "P5406-Q127": {
+  "motivo": "índices/expoentes químicos e matemáticos saíram soltos (PDF do digital), lendo a imagem da página 42",
+  "enunciado_sub": [
+   [
+    "CH COONa, NH Cl, NaBr, NaOH e KCl\\.\\n\\n3  \\n4",
+    "CH<sub>3</sub>COONa, NH<sub>4</sub>Cl, NaBr, NaOH e KCl."
+   ]
+  ],
+  "alternativas": {
+   "A": "CH<sub>3</sub>COONa.",
+   "B": "NH<sub>4</sub>Cl.",
+   "C": "NaBr.",
+   "D": "NaOH.",
+   "E": "KCl."
+  }
+ },
+ "P5406-Q128": {
+  "motivo": "índices/expoentes químicos e matemáticos saíram soltos (PDF do digital), lendo a imagem da página 43",
+  "alternativas": {
+   "A": "sal de Na<sub>2</sub>[Zn(OH)<sub>4</sub>] na presença de hemoglobina.",
+   "B": "água produzida pela decomposição da água oxigenada.",
+   "C": "hemoglobina presente na reação com a água oxigenada.",
+   "D": "gás oxigênio produzido pela decomposição da água oxigenada.",
+   "E": "gás hidrogênio produzido na reação do zinco com hidróxido de sódio."
+  }
+ },
+ "P5406-Q146": {
+  "motivo": "índices/expoentes químicos e matemáticos saíram soltos (PDF do digital), lendo a imagem da página 61",
+  "enunciado_sub": [
+   [
+    "formam o triângulo \\*T\\* e que os pontos \\*A\\*, \\*D\\* 1  \\ne \\*E\\*, na posição 2, formam o triângulo \\*T\\* , os quais podem ser classificados em obtusângulo,\\n\\n2  \\nretângulo",
+    "formam o triângulo *T*<sub>1</sub> e que os pontos *A*, *D* e *E*, na posição 2, formam o triângulo *T*<sub>2</sub>, os quais podem ser classificados em obtusângulo, retângulo"
+   ],
+   [
+    "os triângulos \\*T\\* e \\*T\\* são identificados, respectivamente,\\n\\n1 2  \\ncomo",
+    "os triângulos *T*<sub>1</sub> e *T*<sub>2</sub> são identificados, respectivamente, como"
+   ]
+  ]
+ },
+ "P5406-Q159": {
+  "motivo": "índices/expoentes químicos e matemáticos saíram soltos (PDF do digital), lendo a imagem da página 74",
+  "enunciado_sub": [
+   [
+    "^[\\s\\S]*?(?=\\n\\n\\{\\{img:1\\}\\})",
+    "Uma empresa avaliou os cinco aparelhos de celulares (T<sub>1</sub>, T<sub>2</sub>, T<sub>3</sub>, T<sub>4</sub> e T<sub>5</sub>) mais vendidos no último ano, nos itens: câmera, custo-benefício, design, desempenho da bateria e tela, representados por I<sub>1</sub>, I<sub>2</sub>, I<sub>3</sub>, I<sub>4</sub> e I<sub>5</sub>, respectivamente. A empresa atribuiu notas de 0 a 10 para cada item avaliado e organizou essas notas em uma matriz *A*, em que cada elemento a<sub>ij</sub> significa a nota dada pela empresa ao aparelho T<sub>i</sub> no item I<sub>j</sub>. A empresa considera que o melhor aparelho de celular é aquele que obtém a maior soma das notas obtidas nos cinco itens avaliados."
+   ]
+  ],
+  "alternativas": {
+   "A": "T<sub>1</sub>.",
+   "B": "T<sub>2</sub>.",
+   "C": "T<sub>3</sub>.",
+   "D": "T<sub>4</sub>.",
+   "E": "T<sub>5</sub>."
+  }
+ },
+ "P5402-Q142": {
+  "motivo": "frações das alternativas lidas como sinal sobre o número (traço de fração desenhado), lendo a imagem da página 26 do caderno amarelo (P5421, mesmo texto)",
+  "enunciado_sub": [
+   [
+    "\\n\\n1$",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "\\( \\frac{1}{12} \\)",
+   "B": "\\( \\frac{7}{12} \\)",
+   "C": "\\( \\frac{1}{8} \\)",
+   "D": "\\( \\frac{5}{6} \\)",
+   "E": "\\( \\frac{1}{4} \\)"
+  }
+ },
+ "P5402-Q147": {
+  "motivo": "frações das alternativas lidas como sinal sobre o número (traço de fração desenhado), lendo a imagem da página 18 do caderno amarelo (P5421, mesmo texto)",
+  "alternativas": {
+   "A": "*X* · 100",
+   "B": "\\( \\frac{X}{100} \\)",
+   "C": "\\( \\frac{100}{X} \\)",
+   "D": "\\( \\frac{1}{X} \\)",
+   "E": "1 · *X*"
+  }
+ },
+ "P5402-Q157": {
+  "motivo": "frações das alternativas lidas como sinal sobre o número (traço de fração desenhado), lendo a imagem da página 19 do caderno amarelo (P5421, mesmo texto)",
+  "enunciado_sub": [
+   [
+    "\\n\\n1$",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "\\( \\frac{1}{5} \\)",
+   "B": "\\( \\frac{1}{45} \\)",
+   "C": "\\( \\frac{1}{50} \\)",
+   "D": "\\( \\frac{1}{90} \\)",
+   "E": "\\( \\frac{1}{100} \\)"
+  }
+ },
+ "P5402-Q161": {
+  "motivo": "frações das alternativas lidas como sinal sobre o número (traço de fração desenhado), lendo a imagem da página 28 do caderno amarelo (P5421, mesmo texto)",
+  "enunciado_sub": [
+   [
+    "\\s*\\n\\*R\\*$",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "\\( \\frac{R}{2} \\)",
+   "B": "2*R*",
+   "C": "4*R*",
+   "D": "5*R*",
+   "E": "16*R*"
+  }
+ },
+ "P5402-Q170": {
+  "motivo": "frações das alternativas lidas como sinal sobre o número (traço de fração desenhado), lendo a imagem da página 30 do caderno amarelo (P5421, mesmo texto)",
+  "enunciado_sub": [
+   [
+    "\\s*\\n1$",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "\\( \\frac{1}{2} \\)",
+   "B": "\\( \\frac{1}{3} \\)",
+   "C": "\\( \\frac{1}{9} \\)",
+   "D": "\\( \\frac{2}{3} \\)",
+   "E": "\\( \\frac{4}{3} \\)"
+  }
+ },
+ "P5410-Q171": {
+  "motivo": "frações do enunciado e das alternativas lidas como sinal sobre o número, lendo a imagem da página 26",
+  "enunciado": "Foi feita uma pesquisa sobre a escolaridade dos funcionários de uma empresa. Verificou-se que \\( \\frac{1}{4} \\) dos homens que ali trabalham têm o ensino médio completo, enquanto \\( \\frac{2}{3} \\) das mulheres que trabalham na empresa têm o ensino médio completo. Constatou-se, também, que entre todos os que têm o ensino médio completo, metade são homens.\n\nA fração que representa o número de funcionários homens em relação ao total de funcionários dessa empresa é",
+  "alternativas": {
+   "A": "\\( \\frac{1}{8} \\)",
+   "B": "\\( \\frac{3}{11} \\)",
+   "C": "\\( \\frac{11}{24} \\)",
+   "D": "\\( \\frac{2}{3} \\)",
+   "E": "\\( \\frac{8}{11} \\)"
+  }
+ },
+ "P5410-Q172": {
+  "motivo": "frações das alternativas lidas como sinal sobre o número (traço de fração desenhado), lendo a imagem da página 27",
+  "enunciado_sub": [
+   [
+    "\\s*60$",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "\\( \\frac{60}{402} \\)",
+   "B": "\\( \\frac{60}{239} \\)",
+   "C": "\\( \\frac{60}{100} \\)",
+   "D": "\\( \\frac{100}{239} \\)",
+   "E": "\\( \\frac{279}{402} \\)"
+  }
+ },
+ "P5410-Q168": {
+  "motivo": "a figura da alternativa D (segmento com os pontos) tinha virado só as letras: recortada de novo, lendo a imagem da página 25",
+  "imagens_novas": [
+   {
+    "id": 9,
+    "pagina": 25,
+    "bbox": [
+     48,
+     608,
+     152,
+     640
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:2}}",
+   "B": "{{img:3}}",
+   "C": "{{img:4}}",
+   "D": "{{img:9}}",
+   "E": "{{img:5}}"
+  }
+ },
+ "P5402-Q094": {
+  "motivo": "rótulos da figura tinham ido para o texto: figura recortada de novo inteira, e os números (1) e (2) das estruturas tinham grudado no enunciado, lendo a imagem da página 6 do caderno amarelo (P5421, mesmo texto)",
+  "enunciado_sub": [
+   [
+    "poli-insaturada\\*\\*<sup>\\(1\\)</sup>\\*\\*\\s*e hidroxila em carbono\\*\\*<sup>\\(2\\)</sup>\\*\\* terminal",
+    "poli-insaturada e hidroxila em carbono terminal"
+   ],
+   [
+    "estas estruturas químicas:[\\s\\S]*\\{\\{img:3\\}\\}",
+    "estas estruturas químicas:\n\n{{img:9}}"
+   ]
+  ],
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 9,
+    "pagina": 6,
+    "bbox": [
+     55,
+     571,
+     508,
+     660
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "5"
+  }
+ },
+ "P5402-Q119": {
+  "motivo": "rótulos da figura tinham ido para o texto: figura recortada de novo inteira, lendo a imagem da página 9 do caderno amarelo (P5421, mesmo texto)",
+  "enunciado_sub": [
+   [
+    "gráfico:\\s*14[\\s\\S]*?\\*\\*Pontos de amostragem\\*\\*\\s*",
+    "gráfico:\n\n{{img:9}}\n\n"
+   ]
+  ],
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 9,
+    "pagina": 9,
+    "bbox": [
+     38,
+     214,
+     282,
+     377
+    ]
+   }
+  ]
+ },
+ "P5402-Q150": {
+  "motivo": "fórmula do decaimento desenhada, lendo a imagem da página 24 do caderno amarelo (P5421, mesmo texto)",
+  "enunciado_sub": [
+   [
+    "fórmula para\\s*\\*t\\* saber a idade de um fóssil encontrado: [\\s\\S]*?no ser vivo correspondente\\.",
+    "fórmula para saber a idade de um fóssil encontrado: \\( Q(t) = Q_{0} \\cdot 2^{-\\frac{t}{5730}} \\) em que *t* é o tempo, medido em ano, *Q*(*t*) é a quantidade de carbono 14 medida no instante *t* e *Q*<sub>0</sub> é a quantidade de carbono 14 no ser vivo correspondente."
+   ]
+  ]
+ },
+ "P5402-Q152": {
+  "motivo": "fração c/2 desenhada, lendo a imagem da página 20 do caderno amarelo (P5421, mesmo texto)",
+  "enunciado_sub": [
+   [
+    "prismas retos de bases\\s*retangulares, sendo que a base de T1 tem comprimento \\*c\\* e\\s*\\*c\\*\\s*largura L, e a base de T2 tem comprimento e largura 2L\\.\\s*\\\\\\(\\\\widehat\\{2\\}\\\\\\)",
+    "prismas retos de bases retangulares, sendo que a base de T1 tem comprimento *c* e largura L, e a base de T2 tem comprimento \\( \\frac{c}{2} \\) e largura 2L."
+   ]
+  ]
+ },
+ "P5402-Q174": {
+  "motivo": "rótulos da figura tinham ido para o texto: figura recortada de novo inteira, lendo a imagem da página 23 do caderno amarelo (P5421, mesmo texto)",
+  "enunciado_sub": [
+   [
+    "\\s*30 m\\s*\\{\\{img:1\\}\\}\\s*Legenda:\\s*Andando em uma\\s*ou\\s*mesma direção\\s*\\{\\{img:2\\}\\}",
+    "\n\n{{img:9}}"
+   ]
+  ],
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 9,
+    "pagina": 23,
+    "bbox": [
+     25,
+     283,
+     532,
+     437
+    ]
+   }
+  ]
+ },
+ "P5410-Q093": {
+  "motivo": "rótulos da figura tinham ido para o texto: figura recortada de novo inteira, lendo a imagem da página 2",
+  "enunciado_sub": [
+   [
+    "\\s*\\{\\{img:2\\}\\}[\\s\\S]*\\{\\{img:4\\}\\}",
+    "\n\n{{img:9}}"
+   ]
+  ],
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 9,
+    "pagina": 2,
+    "bbox": [
+     160,
+     598,
+     405,
+     656
+    ]
+   }
+  ]
+ },
+ "P5410-Q179": {
+  "motivo": "frações 4/5 e 1/5 desenhadas, lendo a imagem da página 30",
+  "enunciado_sub": [
+   [
+    "Cada receita é 1\\s*4\\s*composta de de quilograma de amendoim e de quilograma de açúcar\\.\\s*\\\\\\(\\\\widehat\\{5\\}\\\\\\)\\s*\\\\\\(\\\\widehat\\{5\\}\\\\\\)",
+    "Cada receita é composta de \\( \\frac{4}{5} \\) de quilograma de amendoim e \\( \\frac{1}{5} \\) de quilograma de açúcar."
+   ]
+  ]
+ },
+ "P5406-Q120": {
+  "motivo": "símbolos ε e ε’ fora do lugar, lendo a imagem da página 35",
+  "enunciado_sub": [
+   [
+    "A figura ε\\s*mostra uma pilha e um motor acoplados, em que representa a força eletromotriz \\(FEM\\) da\\s*ε\\s*pilha, ’ representa",
+    "A figura mostra uma pilha e um motor acoplados, em que ε representa a força eletromotriz (FEM) da pilha, ε’ representa"
+   ]
+  ]
+ },
+ "P5418-Q030": {
+  "motivo": "enunciado e pintura não tinham sido extraídos (estava vazia também no banco): pintura recortada e texto transcrito lendo a imagem da página 14",
+  "enunciado": "{{img:9}}\n\n{{fonte:1}}\n\nAs vanguardas europeias trouxeram novas perspectivas para as artes plásticas brasileiras. Na obra *O mamoeiro*, a pintora Tarsila do Amaral valoriza",
+  "fontes": [
+   "AMARAL, T. **O mamoeiro**, 1925, óleo sobre tela. IEB/USP."
+  ],
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 9,
+    "pagina": 14,
+    "bbox": [
+     32,
+     90,
+     278,
+     312
+    ]
+   }
+  ]
+ }
+}
