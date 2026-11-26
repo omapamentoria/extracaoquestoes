@@ -18,4 +18,12 @@ def aplica(r,corr):
     for L,t in c.get("alternativas",{}).items():
         for x in r["alternativas"]:
             if x["letra"]==L: x["texto"]=t
+    if "remove_imagens" in c:   # imagem que e pedaco de formula ja transcrita: sai e as outras sao renumeradas
+        fica=[k for k in range(1,len(r["imagens_src"])+1) if k not in c["remove_imagens"]]; nova={str(k):str(j) for j,k in enumerate(fica,1)}
+        r["imagens_src"]=[r["imagens_src"][k-1] for k in fica]
+        ren=lambda t:re.sub(r"\{\{img:(\d+)\}\}",lambda m:"{{img:%s}}"%nova[m.group(1)] if m.group(1) in nova else "",t)
+        r["statement"]=ren(r["statement"]); r["apos_alternativas"]=ren(r.get("apos_alternativas",""))
+        for x in r["alternativas"]: x["texto"]=ren(x["texto"])
+    if "apos_alternativas" in c: r["apos_alternativas"]=c["apos_alternativas"]
+    if "fontes" in c: r["fontes"]=c["fontes"]
     r["alertas"]=[]
