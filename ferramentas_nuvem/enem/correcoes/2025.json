@@ -1,0 +1,45 @@
+{
+ "P4238-Q045": {
+  "motivo": "título da área seguinte grudado na alternativa E",
+  "alt_sub": {
+   "E": [
+    "\\s*\\*\\*CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS Questões de 46 a 90\\*\\*",
+    ""
+   ]
+  }
+ },
+ "P4240-Q115": {
+  "motivo": "fórmula desenhada (fonte sem tradução), transcrita lendo a página 9 do PDF",
+  "statement_sub": [
+   [
+    "\\(cid:30\\) \\(cid:27\\)\\n\\n\\*n\\* = 10 log<sub>10</sub> \\(cid:28\\) \\\\\\(\\\\frac\\{I\\}\\{I_\\{0\\}\\}\\\\\\) \\(cid:25\\)\\n\\n\\(cid:29\\) \\(cid:26\\)",
+    "\\\\( n = 10 \\\\log_{10}\\\\left(\\\\frac{I}{I_{0}}\\\\right) \\\\)"
+   ]
+  ]
+ },
+ "P4240-Q159": {
+  "motivo": "alternativas desenhadas (fonte sem tradução), transcritas lendo a página 25 do PDF",
+  "statement_sub": [
+   [
+    "\\n\\n\\(cid:22\\) \\(cid:28\\)\\n\\n\\(cid:25\\)\\(cid:19\\)\\s*$",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "\\( D = 2{,}5 + \\mathrm{tg}\\left[30\\left(T - \\frac{5 - 2\\pi}{2}\\right)\\right] \\)",
+   "B": "\\( D = 4 + \\mathrm{tg}\\left[30\\left(T + \\frac{5}{2}\\right)\\right] \\)",
+   "C": "\\( D = 4 + \\mathrm{tg}\\left[2{,}5\\left(T + \\frac{5 + 2\\pi}{2}\\right)\\right] \\)",
+   "D": "\\( D = 30 + \\mathrm{tg}\\left[\\frac{1}{2}(T - 5)\\right] \\)",
+   "E": "\\( D = 30 + \\mathrm{tg}\\left[\\frac{1}{2}\\left(T - \\frac{5}{2}\\right)\\right] \\)"
+  }
+ },
+ "_area": {
+  "P4238": [
+   [
+    46,
+    90,
+    "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS"
+   ]
+  ]
+ }
+}

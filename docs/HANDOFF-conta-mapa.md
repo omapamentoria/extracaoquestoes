@@ -61,7 +61,7 @@ alunos sinalizam erros ──► reports/AAAA-MM/*.json no GitHub ──► roti
 | `Banco-de-questoes` | `comentarios-gemini` | Trabalho do Gemini: `comentarios/` (lotes e respostas), `comentarios/refazer_2026-10/` (75 lotes a refazer), `estilos/` (estilos de questão, feito pelo Luiz) |
 | `extracaoquestoes` (**público**) | **`claude/relaxed-brown-a22e9w`** (o mais atual) | Ferramentas e documentação: `ferramentas_nuvem/` (scripts), `ferramentas_nuvem/avisos/` (rotina dos avisos), `docs/`, `_banco/catalogo_debug.json` (catálogo dos 4.237 PDFs), `ferramentas_nuvem/mapa_drive.json` (código da prova → ID no Drive), `unificacao/` (classificação, pares etc.) |
 | `omapa` (privado) | `main` | Código da plataforma (Lovable): `supabase/functions/question-bank-sync/index.ts` etc. **Quem altera é o Lovable**; o Claude só lê para entender. |
-| `banco-vestibulares`, `banco-simulados`, `banco-demais` (privados) | `main` | Saída bruta da extração por grupo de provas (histórico) |
+| `banco-vestibulares`, `banco-simulados`, `banco-demais` (privados) | **`claude/magical-edison-fi62ix`** (o `main` deles só tem o README; ainda não foi feito o merge) | Saída da extração por caderno: `questoes/<grupo>/<ano>/<Pxxxx>/questoes.json` + imagens + `revisao/`. Somam 855 cadernos extraídos (420 + 217 + 218), e o `extracaoquestoes/_banco/questoes/` tem mais 116 |
 
 > Atenção: o `extracaoquestoes` é **público** e contém os IDs do Drive. Vale sugerir ao Matheus torná-lo privado
 > (GitHub → Settings → Danger Zone → Change visibility). Isso não quebra nada.
@@ -324,6 +324,74 @@ Não altere nenhum outro arquivo.
 
 ---
 
+## 9A. Extração de questões (para extrair mais e reconferir o que já existe)
+
+Todo o código e os dados da extração estão no GitHub; nada ficou só na conta antiga. O ramo principal (`main`) do
+`extracaoquestoes` já tem tudo.
+
+### Onde está cada coisa
+
+- **Catálogo de todos os PDFs:** `_banco/catalogo_debug.json`, também em `catalogo.csv` e `catalogo.xlsx`.
+  - São 4.237 PDFs, cada um com código `Pxxxx`, caminho, papel (prova, gabarito, resolução), `gabarito_ids` e status.
+  - Por status: 1.834 "a extrair", 1.291 de apoio (gabaritos e resoluções), 618 sem questões e 494 duplicatas.
+  - Os PDFs estão em duas pastas do Drive: "O Mapa Mentoria" (694) e "DRIVE ENEM + VEST - SIGAM @WAGNERNAMED" (3.543).
+- **Código da extração:** `_banco/codigo/`.
+  - Etapas do catálogo: `01_inventario.py`, `02_classificar.py`, `03_texto.py`, `04_similaridade.py`, `05_planilha.py`.
+  - Extrator principal: `06_extrair.py` (versão 138).
+  - Página de revisão: `07_pacote_revisao.py`.
+  - Glifos de fórmulas: `glifos_t3.py`, `_banco/glifos_ref.json` e `_banco/cid_unicode.json`.
+  - Vocabulário: `_banco/vocab.json.gz`.
+  - Transcrições feitas por visão: `_banco/transcricoes/`.
+- **Ferramentas para rodar na nuvem:** `ferramentas_nuvem/`.
+  - `drive_sync.py`: lista e baixa pastas públicas do Drive.
+  - `lote.py <nome> Pxxxx...`: baixa a prova e os arquivos da mesma pasta, extrai e escreve a triagem em `docs/lotes/`.
+  - `todas_fases.sh`, `fases_3a5.sh`, `continua.sh`: rodam em lote, de forma retomável.
+  - `refaz_*.sh`/`.py`: refazem falhas e gabaritos.
+  - `ocr_pdf.py` e `grupos_ocr.py`: PDFs sem texto.
+  - `varre_falhas.py`.
+  - `docs/lotes/fora_do_banco.txt`: provas que o Matheus decidiu deixar de fora.
+- **Manual detalhado da extração:** `docs/banco-questoes-como-continuar.md`, com o fluxo, os limites, os pilotos, a
+  transcrição por visão e as pegadinhas. Também `docs/banco-questoes-plano.md` e `docs/banco-questoes-produto-final.md`.
+  As partes sobre o notebook e o `device_bash` são da época antiga e não valem mais: hoje tudo roda na nuvem.
+- **Do caderno extraído ao banco publicado:**
+  1. `ferramentas_nuvem/unifica.py`: junta, tira duplicadas e filtra alertas.
+  2. `ferramentas_nuvem/converte.py`: gera as partes.
+  3. Classificação: `classif_*.py` e `grava_classificacao.py`.
+  4. Comentários: lotes do Gemini e `confere_comentarios.py`.
+  5. PR no `Banco-de-questoes`.
+  - A estratégia está em `docs/estrategia-banco-unificado.md`.
+
+### Situação
+
+- **Extraídos:** cerca de 971 cadernos. Destes, 453 entraram no banco publicado.
+- **Ficaram de fora:** os outros caíram nos filtros (texto ruim, sem gabarito, duplicados ou alertas).
+- **Sobram cerca de 860** cadernos do catálogo "a extrair" que ainda não foram extraídos, ou falharam.
+  - Muitos precisam de OCR ou visão: 210 arquivos com texto ruim.
+  - O que falta de acervo está em `docs/banco-questoes-pendencias.md`: SSA 2022–2024, FPS, gabaritos definitivos etc.
+
+### Para extrair mais (inclusive de um Drive novo)
+
+1. **Drive novo:** a pasta precisa estar compartilhada como "qualquer pessoa com o link".
+   - Liste a pasta com `drive_sync.py listar <folder_id>`.
+   - Acrescente ao catálogo com as etapas 01–05, gerando códigos `P` novos que não colidam com os antigos, e atualize
+     `mapa_drive.json`.
+2. Rode a extração por lotes com `lote.py`, primeiro num piloto pequeno, e confira a triagem.
+3. Rode a auditoria de gabarito (seção 5): o gabarito tem que ser o oficial **da própria prova**. Nunca aceite a
+   ligação de gabarito do catálogo sem conferir o conteúdo; foi assim que surgiram os erros do SAS e da FATEC.
+4. Unifique, converta, classifique e comente. A publicação é **mudança grande**: abra o PR e espere o Matheus aprovar.
+
+### Para reconferir todas as questões que já estão no banco
+
+Use os mesmos detectores e verificadores da rodada de outubro (`ferramentas_nuvem/avisos/`), no banco inteiro:
+
+- `audita_gab.py` e `localiza.py`: gabarito contra o oficial (há cerca de 130 cadernos em formatos ainda não lidos);
+- detectores de texto: "Note e adote", alternativas deslocadas, letras repetidas, rodapés, justificativa vazando e
+  texto-base faltando (cerca de 260 questões);
+- duplicadas (312 grupos de texto igual);
+- imagens faltando (`tem_imagem` sem imagem, "Figura 1" sem `{{img}}`).
+
+Corrija em lotes por padrão de erro. Cada lote grande vira um PR para o Matheus aprovar.
+
 ## 9. Como operar no GitHub e no ambiente
 
 - **Merge:** use `gh api` (é o cliente embutido do Claude Code). Merge de PR:
@@ -337,8 +405,9 @@ Não altere nenhum outro arquivo.
 
 ## 10. Primeira coisa a fazer na conta nova
 
-1. **Conferir o acesso** aos repositórios `omapamentoria/Banco-de-questoes`, `omapamentoria/extracaoquestoes` e
-   `omapamentoria/omapa` (leitura). Se faltar acesso, explique ao Matheus como conectar o GitHub (veja abaixo).
+1. **Conferir o acesso** aos repositórios `omapamentoria/Banco-de-questoes`, `omapamentoria/extracaoquestoes`,
+   `omapamentoria/omapa` (leitura) e, para a extração, `banco-simulados`, `banco-vestibulares` e `banco-demais`
+   (o trabalho deles está no ramo `claude/magical-edison-fi62ix`; pergunte ao Matheus se pode fazer o merge no `main`). Se faltar acesso, explique ao Matheus como conectar o GitHub (veja abaixo).
 2. Ler `ferramentas_nuvem/avisos/ROTINA.md` e `Banco-de-questoes/docs/avisos-2026-10.md`.
 3. Recriar a rotina diária (seção 7) e testá-la.
 4. Perguntar ao Matheus se ele já mandou os 2 prompts do Lovable (seção 8) e se quer começar pelo texto-base
@@ -351,3 +420,42 @@ Não altere nenhum outro arquivo.
   `github.com` e `api.github.com`), porque os PDFs são baixados do Drive.
 - **Opcional:** conectar o Google Drive da empresa, se os PDFs forem copiados para lá. Hoje eles estão no Drive pessoal,
   compartilhados por link, e o download funciona sem login.
+
+---
+
+## 11. ENEM completo, prova por prova (conta pessoal, a partir de 26/11/2026)
+
+**Pedido do Matheus:** extração INTEGRAL de todas as provas, para o aluno poder fazer a prova inteira na plataforma.
+Começa pelo ENEM, do mais recente para o mais antigo. Cada prova tem **uma cor** e o gabarito oficial **dessa cor**,
+com as 90 questões do dia (no dia 1, mais as 5 do outro idioma). A classificação por assunto continua como estava.
+Cada ano vira um PR no `Banco-de-questoes` (mudança grande, espera aprovação).
+
+**Drive novo, mais organizado:** pasta `1XaHPSOkJqjAYt3CifEZ71jopiWGWEjT8` (3.928 PDFs; ENEM de 2000 a 2025 em
+`Públicas/ENEM/<ano>/`). Lista: `python3 ferramentas_nuvem/drive_sync.py listar <pasta> lista.json`. Os PDFs entram no
+catálogo com códigos novos a partir de `P4238` (`origem: DRIVE2`, `caminho: DRIVE NOVO/...`; na sessão, `DRIVE NOVO`
+é um link para a pasta baixada, e `~/mnt/BM` aponta para o repositório).
+
+**Ferramentas (`ferramentas_nuvem/enem/`):**
+1. `_banco/codigo/06_extrair.py <PID>`: extração (o mesmo extrator de sempre; precisa de `opencv-python-headless`).
+2. `gab_enem.py`: segunda leitura, independente, da tabela de gabarito do INEP (tem que bater 100% com a extração).
+3. `integra.py`: monta cada questão no formato do banco (texto-base junto) e casa com o que já está publicado
+   **pelo texto**, não pelo número (outra cor muda o número).
+4. `correcoes/<ano>.json`: o que foi corrigido à mão, com o motivo (fórmula desenhada lida pela imagem da página,
+   título de área grudado, faixa de área errada).
+5. `publica.py`: questão que já existia mantém id, texto, comentário e classificação e ganha `number`, `prova`,
+   `origem_texto` da cor escolhida e os campos novos `prova_completa`, `prova_completa_cor`, `prova_completa_ordem`
+   (gabarito diferente do oficial da cor: vale o oficial e o comentário sai). Questão nova: id novo, imagens em
+   WebP, `final/partes/banco_parte_28.json`. Também recoloca espaços de palavras grudadas (`espacos.py`, copiando do
+   `pdftotext`).
+6. `classif/<ano>.txt` + `grava_classif.py`: subassunto de cada questão nova.
+7. `verifica.py`: garante a prova inteira (todas as questões, sem repetição, gabarito = oficial relido do PDF).
+
+**Feito:**
+- **2025 regular** (dia 1 azul `P4238`, dia 2 amarelo `P4240`): 117 questões novas (121560–121676) + 68 que já
+  existiam. 185/185 gabaritos iguais ao oficial; 3 anuladas (115, 121, 178). PR no `Banco-de-questoes`, ramo
+  `claude/enem-completo-2025` (PR #18, merge feito em 26/11 a pedido do Matheus, para testar na plataforma).
+
+**Pendências desta frente:**
+- As questões novas estão sem comentário ("Comentário em produção"): falta o lote do Gemini.
+- A plataforma ainda não usa os campos `prova_completa*`: falta o prompt do Lovable para "fazer a prova inteira".
+- Palavras grudadas também existem em questões antigas de outros anos: corrigir ano a ano com `espacos.py`.
