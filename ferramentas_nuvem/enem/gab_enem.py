@@ -4,7 +4,7 @@ import re,sys,json,subprocess
 def le(pdf):
     t=subprocess.run(["pdftotext","-layout",pdf,"-"],capture_output=True,text=True).stdout
     g={}
-    TOK=r"(\d{1,3})\s+((?:[A-E]|Anulad[oa]|ANULAD[OA])(?:\s+(?:[A-E]|Anulad[oa]|ANULAD[OA]))?)"
+    TOK=r"(\d{1,3})\s+((?:[A-E]|[Aa]nulad[oa]|ANULAD[OA])(?:\s+(?:[A-E]|[Aa]nulad[oa]|ANULAD[OA]))?)"
     for L in t.split("\n"):
         for m in re.finditer(TOK+r"(?=\s|$)",L):
             n=int(m.group(1)); v=m.group(2).split()
