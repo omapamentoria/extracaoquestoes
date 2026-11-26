@@ -83,7 +83,7 @@ arquivo pode mentir). Arquivo de gabarito com nome repetido: salve com sufixo e 
    ramo `claude/enem-<ano>-completo`, PR para `claude/busy-tesla-cibdm3` com a tabela por prova (cor, questões, do banco
    antigo, já existentes, novas, gabarito = oficial, gabaritos corrigidos, comentários a refazer). **Não faça merge.**
    Push do seu ramo `claude/enem-<ano>` do extracaoquestoes (catálogo do ano, correções, classificação, extração em
-   `_banco/questoes/ENEM/<ano>/P5xxx` com `git add -f`, sem a pasta `revisao`).
+   `_banco/questoes/ENEM/<ano>/P5xxx` com `git add -f _banco/questoes/ENEM/<ano>/P5xxx/{questoes.json,textos_base.json,img}` — nunca a pasta `revisao`).
 9. **Conflito:** se o ramo padrão mudar (outra sessão teve o PR aprovado) e o seu PR ficar com conflito, NÃO resolva na
    mão: crie o ramo de novo a partir do padrão mais novo e rode de novo os passos 4–7 (é rápido e dá o mesmo resultado;
    os ids das suas questões novas se mantêm). Use um nome de ramo novo (`-v2`) e abra outro PR, citando o anterior.
