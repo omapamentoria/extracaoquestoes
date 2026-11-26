@@ -1171,7 +1171,8 @@ def detecta_figuras(pg):
     # decoracao do cabecalho da questao (caixa preta com o numero, faixa/linha ao lado de "QUESTAO 12"): nao e figura
     def enfeite_cab(f):
         if (f[3] - f[1]) > 2.6 * CORPO: return False
-        return any((eh_cabecalho(l) is not None or (linha_estrutural(l) and not letra_alt(l))) and l["top"] >= f[1] - 3 and l["bottom"] <= f[3] + 3
+        return any((eh_cabecalho(l) is not None or (linha_estrutural(l) and not letra_alt(l))) and ((l["top"] >= f[1] - 3 and l["bottom"] <= f[3] + 3)
+                        or l["top"] - 1 <= (f[1] + f[3]) / 2 <= l["bottom"] + 1)   # faixa um pouco mais baixa que o texto (ENEM 2023 2a aplicacao)
                    and min(l["x1"], f[2]) - max(l["x0"], f[0]) > -15 for l in linhas)
     figs = [f for f in figs if not enfeite_cab(f)]
     def larg_col(l): return l["col"][1] - l["col"][0]
