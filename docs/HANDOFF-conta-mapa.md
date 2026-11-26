@@ -420,3 +420,42 @@ Corrija em lotes por padrão de erro. Cada lote grande vira um PR para o Matheus
   `github.com` e `api.github.com`), porque os PDFs são baixados do Drive.
 - **Opcional:** conectar o Google Drive da empresa, se os PDFs forem copiados para lá. Hoje eles estão no Drive pessoal,
   compartilhados por link, e o download funciona sem login.
+
+---
+
+## 11. ENEM completo, prova por prova (conta pessoal, a partir de 26/11/2026)
+
+**Pedido do Matheus:** extração INTEGRAL de todas as provas, para o aluno poder fazer a prova inteira na plataforma.
+Começa pelo ENEM, do mais recente para o mais antigo. Cada prova tem **uma cor** e o gabarito oficial **dessa cor**,
+com as 90 questões do dia (no dia 1, mais as 5 do outro idioma). A classificação por assunto continua como estava.
+Cada ano vira um PR no `Banco-de-questoes` (mudança grande, espera aprovação).
+
+**Drive novo, mais organizado:** pasta `1XaHPSOkJqjAYt3CifEZ71jopiWGWEjT8` (3.928 PDFs; ENEM de 2000 a 2025 em
+`Públicas/ENEM/<ano>/`). Lista: `python3 ferramentas_nuvem/drive_sync.py listar <pasta> lista.json`. Os PDFs entram no
+catálogo com códigos novos a partir de `P4238` (`origem: DRIVE2`, `caminho: DRIVE NOVO/...`; na sessão, `DRIVE NOVO`
+é um link para a pasta baixada, e `~/mnt/BM` aponta para o repositório).
+
+**Ferramentas (`ferramentas_nuvem/enem/`):**
+1. `_banco/codigo/06_extrair.py <PID>`: extração (o mesmo extrator de sempre; precisa de `opencv-python-headless`).
+2. `gab_enem.py`: segunda leitura, independente, da tabela de gabarito do INEP (tem que bater 100% com a extração).
+3. `integra.py`: monta cada questão no formato do banco (texto-base junto) e casa com o que já está publicado
+   **pelo texto**, não pelo número (outra cor muda o número).
+4. `correcoes/<ano>.json`: o que foi corrigido à mão, com o motivo (fórmula desenhada lida pela imagem da página,
+   título de área grudado, faixa de área errada).
+5. `publica.py`: questão que já existia mantém id, texto, comentário e classificação e ganha `number`, `prova`,
+   `origem_texto` da cor escolhida e os campos novos `prova_completa`, `prova_completa_cor`, `prova_completa_ordem`
+   (gabarito diferente do oficial da cor: vale o oficial e o comentário sai). Questão nova: id novo, imagens em
+   WebP, `final/partes/banco_parte_28.json`. Também recoloca espaços de palavras grudadas (`espacos.py`, copiando do
+   `pdftotext`).
+6. `classif/<ano>.txt` + `grava_classif.py`: subassunto de cada questão nova.
+7. `verifica.py`: garante a prova inteira (todas as questões, sem repetição, gabarito = oficial relido do PDF).
+
+**Feito:**
+- **2025 regular** (dia 1 azul `P4238`, dia 2 amarelo `P4240`): 117 questões novas (121560–121676) + 68 que já
+  existiam. 185/185 gabaritos iguais ao oficial; 3 anuladas (115, 121, 178). PR no `Banco-de-questoes`, ramo
+  `claude/enem-completo-2025`.
+
+**Pendências desta frente:**
+- As questões novas estão sem comentário ("Comentário em produção"): falta o lote do Gemini.
+- A plataforma ainda não usa os campos `prova_completa*`: falta o prompt do Lovable para "fazer a prova inteira".
+- Palavras grudadas também existem em questões antigas de outros anos: corrigir ano a ano com `espacos.py`.
