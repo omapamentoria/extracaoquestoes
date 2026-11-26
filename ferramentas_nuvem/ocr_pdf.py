@@ -8,6 +8,8 @@ import cv2, numpy as np
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BM = os.path.expanduser("~/mnt/BM")
 CAT = {d["id"]: d for d in json.load(open(os.path.join(R, "_banco", "catalogo_debug.json"), encoding="utf-8"))}
+import glob as _g   # catalogo do Drive novo (um arquivo por ano)
+for _f in sorted(_g.glob(os.path.join(R, "_banco", "catalogo_drive2", "*.json"))): CAT.update({d["id"]: d for d in json.load(open(_f, encoding="utf-8"))})
 SAIDA = os.path.join(BM, "_ocr")
 DPI = 300
 
