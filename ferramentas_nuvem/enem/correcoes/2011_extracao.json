@@ -224,5 +224,202 @@
    "D": "{{img:13}}",
    "E": "{{img:14}}"
   }
+ },
+ "P7547-Q105": {
+  "motivo": "errata oficial do caderno amarelo (última página do caderno): referência bibliográfica correta da questão 105",
+  "fontes": [
+   "CARREIRO, E. A. *In*: DARIDO, S.C.; RANGEL, I.C.A. (orgs.). **Educação Física na escola**: implicações para a prática pedagógica. Rio de Janeiro: Guanabara Koogan, 2005 (fragmento)."
+  ]
+ },
+ "P7547-Q120": {
+  "motivo": "errata oficial do caderno amarelo (última página do caderno): referência bibliográfica correta da questão 120",
+  "fontes": [
+   "Antonio Cicero. *In*: MORICONI, I. (org.). **Os cem melhores poemas brasileiros do século**. Rio de Janeiro: Objetiva, 2001."
+  ]
+ },
+ "P7547-Q136": {
+  "motivo": "itens a) e b) do enunciado lidos como alternativas: remontado pela página 21",
+  "enunciado": "Um mecânico de uma equipe de corrida necessita que as seguintes medidas realizadas em um carro sejam obtidas em metros:\n\na) distância **a** entre os eixos dianteiro e traseiro;\n\nb) altura **b** entre o solo e o encosto do piloto.\n\n{{img:1}}\n\nAo optar pelas medidas **a** e **b** em metros, obtêm-se, respectivamente,",
+  "alternativas": {
+   "A": "0,23 e 0,16.",
+   "B": "2,3 e 1,6.",
+   "C": "23 e 16.",
+   "D": "230 e 160.",
+   "E": "2 300 e 1 600."
+  }
+ },
+ "P7547-Q145": {
+  "motivo": "fração desenhada (1/5), lida na página 23",
+  "enunciado_sub": [
+   [
+    "aumentando\\n\\n1  \\no consumo em do que foi consumido no ano anterior\\.\\n\\n5  \\n",
+    "aumentando o consumo em \\( \\frac{1}{5} \\) do que foi consumido no ano anterior.\n\n"
+   ]
+  ]
+ },
+ "P7547-Q151": {
+  "motivo": "alternativas são gráficos (letras desenhadas): recortadas uma a uma da página 24",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}\\n\\n\\{\\{img:2\\}\\}\\n\\n\\{\\{img:3\\}\\}\\n\\n\\{\\{img:4\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 10,
+    "pagina": 24,
+    "bbox": [
+     314,
+     240,
+     432,
+     327
+    ]
+   },
+   {
+    "id": 11,
+    "pagina": 24,
+    "bbox": [
+     314,
+     327,
+     432,
+     446
+    ]
+   },
+   {
+    "id": 12,
+    "pagina": 24,
+    "bbox": [
+     314,
+     446,
+     432,
+     545
+    ]
+   },
+   {
+    "id": 13,
+    "pagina": 24,
+    "bbox": [
+     314,
+     545,
+     432,
+     662
+    ]
+   },
+   {
+    "id": 14,
+    "pagina": 24,
+    "bbox": [
+     314,
+     662,
+     432,
+     750
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:10}}",
+   "B": "{{img:11}}",
+   "C": "{{img:12}}",
+   "D": "{{img:13}}",
+   "E": "{{img:14}}"
+  }
+ },
+ "P7547-Q180": {
+  "motivo": "alternativas são gráficos (letras desenhadas): recortadas uma a uma da página 31; a errata do caderno (pág. 33) que tinha entrado no fim da questão sai (aplicada às questões 105 e 120)",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}\\n\\n\\{\\{img:2\\}\\}\\n\\nErrata[\\s\\S]*$",
+    ""
+   ]
+  ],
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 10,
+    "pagina": 31,
+    "bbox": [
+     315,
+     447,
+     421,
+     541
+    ]
+   },
+   {
+    "id": 11,
+    "pagina": 31,
+    "bbox": [
+     315,
+     546,
+     421,
+     637
+    ]
+   },
+   {
+    "id": 12,
+    "pagina": 31,
+    "bbox": [
+     315,
+     646,
+     421,
+     735
+    ]
+   },
+   {
+    "id": 13,
+    "pagina": 31,
+    "bbox": [
+     438,
+     447,
+     540,
+     541
+    ]
+   },
+   {
+    "id": 14,
+    "pagina": 31,
+    "bbox": [
+     438,
+     546,
+     540,
+     637
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:10}}",
+   "B": "{{img:11}}",
+   "C": "{{img:12}}",
+   "D": "{{img:13}}",
+   "E": "{{img:14}}"
+  }
+ },
+ "P7547-Q158": {
+  "motivo": "letra grega α (fonte de símbolos lida como U), ângulo e alternativas com raízes desenhadas, lidos na página 26",
+  "enunciado_sub": [
+   [
+    "ângulo visual U fazendo",
+    "ângulo visual α fazendo"
+   ],
+   [
+    "ângulo visual 2U\\.",
+    "ângulo visual 2α."
+   ],
+   [
+    "medido o ângulo\\n\\n\\{\\{img:2\\}\\}\\n\\ne, ao chegar",
+    "medido o ângulo **α = 30°** e, ao chegar"
+   ]
+  ],
+  "imagens": [
+   1
+  ],
+  "alternativas": {
+   "A": "1 000 m.",
+   "B": "1 000\\( \\sqrt{3} \\) m.",
+   "C": "2 000 \\( \\frac{\\sqrt{3}}{3} \\) m.",
+   "D": "2 000 m.",
+   "E": "2 000\\( \\sqrt{3} \\) m."
+  }
  }
 }
