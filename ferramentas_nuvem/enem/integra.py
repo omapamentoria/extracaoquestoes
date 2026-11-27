@@ -60,6 +60,12 @@ for i,r in enumerate(reg):
         cand=[c_ for c_ in cand if c_[1]!=i and c_[2]!=b]+[(2+difflib.SequenceMatcher(None,kr,BK[b],autojunk=False).ratio(),i,b)]
 cand.sort(reverse=True); usado_r,usado_b,par={}, set(),{}
 B={q["id"]:q for q in banco}
+# pares forcados a mao (correcoes/<ano>.json, "_pares": {"Pxxxx-Qnnn": id_banco}), quando o banco antigo tem alternativas trocadas
+for i,r in enumerate(reg):
+    b=(CORR.get("_pares") or {}).get(r["origem_texto"])
+    if b is not None and b in B:
+        kr=chave(*r.get("_chave",(r["statement"],r["alternativas"])))
+        usado_r[i]=1; usado_b.add(b); par[i]=(b,difflib.SequenceMatcher(None,kr,BK[b],autojunk=False).ratio())
 for s,i,b in cand:
     if s<0.80 or i in usado_r or b in usado_b: continue
     usado_r[i]=1; usado_b.add(b); par[i]=(b,s-2 if s>=2 else s)

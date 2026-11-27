@@ -2504,9 +2504,9 @@ def le_gabarito(ids=None):
                 if P["caderno"].lower()[:4] in norm_c: cor_col = (norm_c.index(P["caderno"].lower()[:4]), len(norm_c))
                 break
         for linha in (t.splitlines() if not eh_res else []):   # leitura solta de linha: so em arquivo de gabarito
-            toks = re.findall(r"(?<![\w,])\d{1,3}(?![\w,])|Anulad[ao]|ANULAD[AO]|(?<![A-Za-zÀ-ÿ])[A-E](?![A-Za-zÀ-ÿ])", linha)
+            toks = re.findall(r"(?<![\w,])\d{1,3}(?![\w,])|[Aa]nulad[ao]|ANULAD[AO]|(?<![A-Za-zÀ-ÿ])[A-E](?![A-Za-zÀ-ÿ])", linha)
             if cor_col:
-                pares_c = re.findall(r"(?<![\w,])(\d{1,3})\s+([A-E]|Anulad[ao]|ANULAD[AO])(?![A-Za-zÀ-ÿ])", linha)
+                pares_c = re.findall(r"(?<![\w,])(\d{1,3})\s+([A-E]|[Aa]nulad[ao]|ANULAD[AO])(?![A-Za-zÀ-ÿ])", linha)
                 if len(pares_c) == cor_col[1]:
                     gab.setdefault(int(pares_c[cor_col[0]][0]), pares_c[cor_col[0]][1])
                 continue
