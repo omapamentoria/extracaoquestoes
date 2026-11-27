@@ -1174,6 +1174,7 @@ def detecta_figuras(pg):
         fina = (f[3] - f[1]) < 0.9 * CORPO   # faixa fina ao lado de "QUESTAO 113" (ENEM 2024): mais baixa que a propria linha
         return any((eh_cabecalho(l) is not None or (linha_estrutural(l) and not letra_alt(l)))
                    and ((l["top"] >= f[1] - 3 and l["bottom"] <= f[3] + 3)
+                        or l["top"] - 1 <= (f[1] + f[3]) / 2 <= l["bottom"] + 1   # faixa um pouco mais baixa que o texto (ENEM 2023 2a aplicacao)
                         or (fina and eh_cabecalho(l) is not None and min(l["bottom"], f[3]) - max(l["top"], f[1]) > 0.5 * (f[3] - f[1])))
                    and min(l["x1"], f[2]) - max(l["x0"], f[0]) > -max(15, 1.2 * CORPO) for l in linhas)
     figs = [f for f in figs if not enfeite_cab(f)]

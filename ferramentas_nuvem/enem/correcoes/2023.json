@@ -1,0 +1,85 @@
+{
+ "P5102-Q145": {
+  "motivo": "trecho desenhado (α =) transcrito lendo a página 19",
+  "statement_sub": [
+   [
+    "medida\\ do\\ ângulo\\ \\\\\\(\\\\widehat\\{AQ_\\{1\\}B\\}\\\\\\)\\.",
+    "medida do ângulo \\( \\alpha = \\widehat{AQ_{1}B} \\)."
+   ]
+  ]
+ },
+ "P5102-Q160": {
+  "motivo": "asterisco desenhado na lista de caracteres especiais, transcrito lendo a página 23",
+  "statement_sub": [
+   [
+    "!,\\ @,\\ \\#,\\ \\$,\\ ,\\ \\&\\.",
+    "!, @, #, $, \\( \\ast \\), &."
+   ]
+  ]
+ },
+ "P5106-Q141": {
+  "motivo": "frações das alternativas C e E desenhadas (sinais não traduzidos), transcritas lendo a página 19",
+  "alternativas": {
+   "C": "\\( \\frac{J}{s \\cdot m} \\)",
+   "E": "\\( \\frac{J}{s \\cdot m^{2}} \\)"
+  }
+ },
+ "P5106-Q173": {
+  "motivo": "parênteses e π desenhados na função, transcritos lendo a página 29",
+  "statement_sub": [
+   [
+    "variou\\ de\\ acordo\\\n\\\n\\(cid:29\\)\\ \\(cid:26\\)\\\n\\\ncom\\ a\\ função\\ \\*T\\*\\(\\*x\\*\\)\\ =\\ 20\\ −\\ 10\\*sen\\*\\ \\(cid:27\\)\\ =\\ •\\ \\\\\\(\\\\frac\\{x\\}\\{4\\}\\\\\\)\\ \\(cid:24\\)\\ ,\\ em\\ que\\ \\*x\\*\\\n\\\n\\(cid:28\\)\\ \\(cid:25\\)\\\n\\\né\\ medido",
+    "variou de acordo com a função \\( T(x) = 20 - 10\\,sen\\left(\\pi \\cdot \\frac{x}{4}\\right) \\), em que *x* é medido"
+   ]
+  ]
+ },
+ "P5106-Q176": {
+  "motivo": "matrizes das alternativas desenhadas (parênteses não traduzidos), transcritas lendo a página 30",
+  "alternativas": {
+   "A": "\\( \\begin{pmatrix} 52 & 37 & 43 \\end{pmatrix} \\)",
+   "B": "\\( \\begin{pmatrix} 46 \\\\ 46 \\\\ 43 \\end{pmatrix} \\)",
+   "C": "\\( \\begin{pmatrix} 66 \\\\ 46 \\\\ 20 \\end{pmatrix} \\)",
+   "D": "\\( \\begin{pmatrix} 27 & 12 & 7 \\\\ 24 & 14 & 8 \\\\ 27 & 10 & 6 \\end{pmatrix} \\)",
+   "E": "\\( \\begin{pmatrix} 27 & 18 & 21 \\\\ 16 & 14 & 16 \\\\ 9 & 5 & 6 \\end{pmatrix} \\)"
+  }
+ },
+ "P5104-Q074": {
+  "motivo": "a figura da alternativa A foi lida como figura do enunciado; conferido na página 27 (as 5 alternativas são figuras)",
+  "statement_sub": [
+   [
+    "\\{\\{fonte:1\\}\\}\\\n\\\n\\{\\{img:1\\}\\}\\\n\\\nConforme",
+    "{{fonte:1}}\n\nConforme"
+   ]
+  ],
+  "alternativas": {
+   "A": "{{img:1}}"
+  }
+ },
+ "P5104-Q023": {
+  "motivo": "o índice do CO2 caiu no fim da linha seguinte; conferido na página 11 (\"excesso de CO2 jogado\")",
+  "statement_sub": [
+   [
+    "excesso\\ de\\ CO\\ jogado\\ anualmente\\ na\\ atmosfera\\.\\ “Provavelmente\\ não\\ estarei<sup>2</sup>\\\n\\\naqui",
+    "excesso de CO<sub>2</sub> jogado anualmente na atmosfera. “Provavelmente não estarei aqui"
+   ]
+  ]
+ },
+ "_casa": {
+  "P5104-Q001-ESP": [
+   6280,
+   "mesma questão (texto, alternativas e gabarito E iguais); o banco antigo não tem a tabela do texto, por isso a semelhança ficou em 0,65"
+  ]
+ },
+ "_reextrai": {
+  "P5104": "a faixa azul ao lado de 'QUESTÃO N' é uma imagem neste PDF e foi publicada como figura 1 das questões desta prova; a extração nova (filtro do extrator ajustado) não a tem"
+ },
+ "P5106-Q146": {
+  "motivo": "o recorte da figura (página 20) cortava a cota e o rótulo 'Diâmetro externo', que saiu como texto solto; a imagem foi recortada de novo com o rótulo (img/Q146_img1.png) e o texto solto retirado",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\nDiâmetro\\ externo\\\n\\\n",
+    "{{img:1}}\n\n"
+   ]
+  ]
+ }
+}

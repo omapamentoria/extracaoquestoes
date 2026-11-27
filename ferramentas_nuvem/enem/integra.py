@@ -42,7 +42,7 @@ for q in qs:
     if q["id"] in CORR: import copy; rr=copy.deepcopy(reg[-1]); _corr.aplica(rr,CORR); reg[-1]["_chave"]=(rr["statement"],rr["alternativas"])
 # casamento guloso pela maior semelhanca (pares unicos)
 cand=[]
-def grams(k): return {k[i:i+6] for i in range(0,max(1,len(k)-5),3)}
+def grams(k): return {k[i:i+6] for i in range(0,max(1,len(k)-5))}   # todos os pedacos: amostrar de 3 em 3 falhava quando um titulo a mais deslocava o texto
 BK={q["id"]:chave(q["statement"],q["alternativas"]) for q in banco}; BG={i:grams(k) for i,k in BK.items()}
 for i,r in enumerate(reg):
     kr=chave(*r.get("_chave",(r["statement"],r["alternativas"]))); gr={kr[i:i+6] for i in range(max(1,len(kr)-5))}
@@ -51,11 +51,18 @@ for i,r in enumerate(reg):
     for q in pre:
         if r["idioma"] and q.get("idioma") and r["idioma"]!=q["idioma"]: continue
         cand.append((difflib.SequenceMatcher(None,kr,BK[q["id"]],autojunk=False).ratio(),i,q["id"]))
+# casamento manual (correcoes: "_casa": {"<id da extracao>": [id_banco, "motivo"]}), para quando o texto antigo e
+# incompleto (ex.: site sem a tabela) e a semelhanca fica abaixo do corte
+FORCA={k:v[0] for k,v in CORR.get("_casa",{}).items()}
+for i,r in enumerate(reg):
+    if r["origem_texto"] in FORCA and FORCA[r["origem_texto"]] in BK:
+        b=FORCA[r["origem_texto"]]; kr=chave(*r.get("_chave",(r["statement"],r["alternativas"])))
+        cand=[c_ for c_ in cand if c_[1]!=i and c_[2]!=b]+[(2+difflib.SequenceMatcher(None,kr,BK[b],autojunk=False).ratio(),i,b)]
 cand.sort(reverse=True); usado_r,usado_b,par={}, set(),{}
 B={q["id"]:q for q in banco}
 for s,i,b in cand:
     if s<0.80 or i in usado_r or b in usado_b: continue
-    usado_r[i]=1; usado_b.add(b); par[i]=(b,s)
+    usado_r[i]=1; usado_b.add(b); par[i]=(b,s-2 if s>=2 else s)
 casadas=[];novas=[]
 for i,r in enumerate(reg):
     if i in par:
