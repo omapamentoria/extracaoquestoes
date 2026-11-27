@@ -1,0 +1,103 @@
+{
+ "P5202-Q103": {
+  "motivo": "vetores (setas sobre F, P, N e f_e) desenhados, transcritos lendo a página 6",
+  "statement_sub": [
+   [
+    "contra\\ o\\ piso\\\n\\\n\\ \\ \\\ncom\\ uma\\ força\\ F,",
+    "contra o piso com uma força \\( \\vec{F} \\),"
+   ],
+   [
+    "Mantendo\\-se\\ a\\ força\\ F\\ paralela",
+    "Mantendo-se a força \\( \\vec{F} \\) paralela"
+   ],
+   [
+    "aplicação,\\\n\\\n\\ \\ \\\n\\ \\ \\\n\\(\\ \\)\\\n\\\n\\(cid:31\\)\\ \\(cid:30\\)\\ da\\ direção\\ e\\ do\\ sentido\\ das\\ forças\\ peso\\ P\\ ,\\ normal\\ N\\ e\\\n\\\n\\ \\ \\\n\\(cid:30\\)\\ \\(cid:29\\)\\ \\ \\\nde\\ atrito\\ estático\\ \\(cid:31\\)\\*<sub>e</sub>\\*\\ \\.",
+    "aplicação, da direção e do sentido das forças peso \\( \\left(\\vec{P}\\right) \\), normal \\( \\left(\\vec{N}\\right) \\) e de atrito estático \\( \\left(\\vec{f}_{e}\\right) \\)."
+   ]
+  ]
+ },
+ "P5202-Q116": {
+  "motivo": "símbolo de grau desenhado na unidade do calor específico, transcrito lendo a página 11",
+  "statement_sub": [
+   [
+    "\\\\\\(\\\\frac\\{J\\}\\{g\\(cid:31\\)\\(cid:30\\)C\\}\\\\\\)",
+    "\\(\\frac{J}{g\\,^{\\circ}\\mathrm{C}}\\)"
+   ]
+  ]
+ },
+ "P5202-Q144": {
+  "motivo": "esquema dos dígitos N1 N2 N3 N4 – N5 desenhado em caixas: a imagem passou a ser a figura inteira (recortada da página 19) e saiu a linha solta 'N N N N 1 2 3'",
+  "statement_sub": [
+   [
+    "\\\n\\\nN\\ N\\ N\\ N\\ 1\\ 2\\ 3\\\n\\\n\\{\\{img:1\\}\\}",
+    "\n\n{{img:1}}"
+   ]
+  ]
+ },
+ "P5202-Q155": {
+  "motivo": "alternativas D e E com parênteses grandes desenhados, transcritas lendo a página 23",
+  "alternativas": {
+   "D": "9×\\(\\frac{2!}{(2\\,−\\,2)!×2!}\\)",
+   "E": "9×\\(\\left(\\frac{8!}{(8\\,−\\,2)!×2!}−1\\right)\\)"
+  }
+ },
+ "P5202-Q157": {
+  "motivo": "chaves e sinais ≤ e > desenhados nas alternativas C, D e E, transcritos lendo a página 25; espaço que faltava em 'q é'",
+  "statement_sub": [
+   [
+    "\\*q\\*é",
+    "*q* é"
+   ]
+  ],
+  "alternativas": {
+   "C": "*S*(*q*) = 675 + 7*q*",
+   "D": "\\( S(q)=\\begin{cases} 625 + 5q, & \\text{se } q \\le 50 \\\\ 925 + 7q, & \\text{se } q > 50 \\end{cases} \\)",
+   "E": "\\( S(q)=\\begin{cases} 625 + 5q, & \\text{se } q \\le 50 \\\\ 575 + 7q, & \\text{se } q > 50 \\end{cases} \\)"
+  }
+ },
+ "P5202-Q168": {
+  "motivo": "a figura (malha de ruas com o caminho destacado, página 28) tinha sido lida como tabela vazia: a tabela foi trocada pela imagem recortada da página",
+  "statement_sub": [
+   [
+    "\\n\\n(?:\\|[^\\n]*\\n)+\\n",
+    "\n\n{{img:1}}\n\n"
+   ]
+  ]
+ },
+ "P5202-Q111": {
+  "motivo": "rótulos do gráfico ('Energia') tinham ficado soltos no texto: a imagem foi recortada de novo da página 9 com o gráfico inteiro",
+  "statement_sub": [
+   [
+    "\\\n\\\nEnergia\\\n\\\n\\{\\{img:2\\}\\}",
+    "\n\n{{img:2}}"
+   ]
+  ]
+ },
+ "P5202-Q162": {
+  "motivo": "rótulos do gráfico (18 000, 10, 20, 30, Dias) tinham ficado soltos no texto: a imagem foi recortada de novo da página 26 com o gráfico inteiro",
+  "statement_sub": [
+   [
+    "\\\n\\\n18\\ 000\\\n\\\n\\{\\{img:1\\}\\}\\\n\\\n10\\\n\\\n30\\\n\\\n20\\ \\ \\\nDias\\\n\\\n",
+    "\n\n{{img:1}}\n\n"
+   ]
+  ]
+ },
+ "P5202-Q134": {
+  "motivo": "rótulo 'L' da figura tinha ficado solto no texto: a imagem foi recortada de novo da página 16 com o rótulo",
+  "statement_sub": [
+   [
+    "\\\n\\\nL\\\n\\\n\\{\\{img:1\\}\\}",
+    "\n\n{{img:1}}"
+   ]
+  ]
+ },
+ "P5202-Q141": {
+  "motivo": "títulos da Figura 1 ('Preenchimento em linha/coluna/diagonal') tinham ficado soltos e cortados no texto: a imagem foi recortada de novo da página 18 com os títulos",
+  "statement_sub": [
+   [
+    "\\\n\\\nPreenchimento\\ Preenchimento\\ Preenchimento\\\n\\\n\\{\\{img:1\\}\\}",
+    "\n\n{{img:1}}"
+   ]
+  ]
+ }
+}
