@@ -66,6 +66,10 @@ for i,r in enumerate(reg):
     if b is not None and b in B:
         kr=chave(*r.get("_chave",(r["statement"],r["alternativas"])))
         usado_r[i]=1; usado_b.add(b); par[i]=(b,difflib.SequenceMatcher(None,kr,BK[b],autojunk=False).ratio())
+# par forcado (correcoes "_par": {"<questao extraida>": id_no_banco}): questao do banco com texto vazio, que nao casa pelo texto
+for i,r in enumerate(reg):
+    b=CORR.get("_par",{}).get(r["origem_texto"])
+    if b in B and b not in usado_b and i not in usado_r: usado_r[i]=1; usado_b.add(b); par[i]=(b,1.0)
 for s,i,b in cand:
     if s<0.80 or i in usado_r or b in usado_b: continue
     usado_r[i]=1; usado_b.add(b); par[i]=(b,s-2 if s>=2 else s)

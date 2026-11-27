@@ -38,6 +38,7 @@ def defeitos(q,imgs=None):
     if re.search(r"E SUAS TECNOLOGIAS\s+Questões",t): d.append("título de área no texto")
     if len(alts)!=5 or [a["letra"] for a in alts]!=list("ABCDE"): d.append("alternativas fora do padrão")
     if any(not a["texto"].strip() for a in alts): d.append("alternativa vazia")
+    if not re.sub(r"\{\{[^}]+\}\}","",q["statement"]).strip() and not (imgs if imgs is not None else q.get("imagens")): d.append("enunciado vazio")
     if any(re.search(r"(^|\n)\s*\(?[A-E]\)\s+\S",a["texto"]) for a in alts): d.append("alternativa com outra alternativa dentro")
     if re.search(r"\n\s*\(?A\)\s.+\n\s*\(?B\)\s",q["statement"]): d.append("alternativas dentro do enunciado")
     n=len(q.get("imagens") or []) if imgs is None else imgs

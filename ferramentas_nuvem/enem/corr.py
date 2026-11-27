@@ -4,7 +4,7 @@ def carrega(caminhos):
     corr={}
     for _c in caminhos.split(","):
         for k,v in json.load(open(_c)).items():
-            if k in ("_area","_casa","_pares"): corr.setdefault(k,{}).update(v)
+            if k in ("_area","_casa","_pares","_par"): corr.setdefault(k,{}).update(v)
             else: corr[k]=v
     return corr
 def aplica(r,corr):
