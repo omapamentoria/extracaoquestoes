@@ -295,7 +295,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P8819",
+  "gabarito_ids": "P8822",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -309,11 +309,13 @@
   "md5": "a1ee1bde9005b4991bdc88621bb60c59",
   "texto": "ok",
   "paginas_sem_texto": 2,
-  "questoes_faixa": "1-56",
-  "questoes_estimadas": 52,
-  "gabarito_confere": "sim",
-  "cor_triagem": "verde",
-  "triagem_motivos": []
+  "questoes_faixa": "1-60",
+  "questoes_estimadas": 58,
+  "gabarito_confere": "?",
+  "cor_triagem": "vermelho",
+  "triagem_motivos": [
+   "gabarito sem leitura automática (formato novo)"
+  ]
  },
  {
   "id": "P8824",

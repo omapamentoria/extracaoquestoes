@@ -933,7 +933,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P7532",
+  "gabarito_ids": "P7536",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -949,9 +949,11 @@
   "paginas_sem_texto": 3,
   "questoes_faixa": "1-90",
   "questoes_estimadas": 90,
-  "gabarito_confere": "sim",
-  "cor_triagem": "verde",
-  "triagem_motivos": []
+  "gabarito_confere": "?",
+  "cor_triagem": "vermelho",
+  "triagem_motivos": [
+   "gabarito sem leitura automática (formato novo)"
+  ]
  },
  {
   "id": "P7538",
@@ -993,7 +995,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P7534",
+  "gabarito_ids": "",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -1008,10 +1010,11 @@
   "texto": "ok",
   "paginas_sem_texto": 0,
   "questoes_faixa": "91-180",
-  "questoes_estimadas": 89,
-  "gabarito_confere": "sim",
-  "cor_triagem": "verde",
-  "triagem_motivos": []
+  "questoes_estimadas": 90,
+  "cor_triagem": "vermelho",
+  "triagem_motivos": [
+   "sem gabarito ligado"
+  ]
  },
  {
   "id": "P7540",

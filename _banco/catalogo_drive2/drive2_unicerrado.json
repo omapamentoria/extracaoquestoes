@@ -184,7 +184,7 @@
   "papel": "prova",
   "gabarito_ids": "",
   "resolucao_ids": "",
-  "padrao_ids": "P7398",
+  "padrao_ids": "",
   "duplicata_de": "",
   "paginas": 12,
   "tamanho_mb": 1.51,
@@ -200,8 +200,7 @@
   "questoes_estimadas": 10,
   "cor_triagem": "discursiva",
   "triagem_motivos": [
-   "prova discursiva (fica fora das três cores)",
-   "com padrão de resposta"
+   "prova discursiva (fica fora das três cores)"
   ]
  },
  {

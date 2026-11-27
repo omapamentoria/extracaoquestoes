@@ -227,7 +227,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P9836",
+  "gabarito_ids": "",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -244,10 +244,9 @@
   "paginas_sem_texto": 0,
   "questoes_faixa": "1-20",
   "questoes_estimadas": 20,
-  "gabarito_confere": "contém",
-  "cor_triagem": "amarelo",
+  "cor_triagem": "vermelho",
   "triagem_motivos": [
-   "gabarito cobre mais que a prova (outro dia/caderno junto)"
+   "sem gabarito ligado"
   ]
  },
  {
@@ -666,7 +665,7 @@
   "papel": "prova",
   "gabarito_ids": "P9851",
   "resolucao_ids": "",
-  "padrao_ids": "P9855",
+  "padrao_ids": "",
   "duplicata_de": "",
   "paginas": 12,
   "tamanho_mb": 0.93,
@@ -696,7 +695,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P9851",
+  "gabarito_ids": "",
   "resolucao_ids": "",
   "padrao_ids": "P9854",
   "duplicata_de": "",
@@ -711,11 +710,12 @@
   "ja_no_drive_antigo": "P2295",
   "texto": "parcial",
   "paginas_sem_texto": 4,
-  "questoes_faixa": "1-25",
-  "questoes_estimadas": 25,
-  "gabarito_confere": "sim",
-  "cor_triagem": "verde",
-  "triagem_motivos": []
+  "questoes_faixa": "2-27",
+  "questoes_estimadas": 26,
+  "cor_triagem": "vermelho",
+  "triagem_motivos": [
+   "discursiva (só padrão de resposta)"
+  ]
  },
  {
   "id": "P9854",
@@ -873,7 +873,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P9856",
+  "gabarito_ids": "",
   "resolucao_ids": "",
   "padrao_ids": "P9858",
   "duplicata_de": "",
@@ -888,11 +888,12 @@
   "ja_no_drive_antigo": "P2298",
   "texto": "parcial",
   "paginas_sem_texto": 4,
-  "questoes_faixa": "1-25",
-  "questoes_estimadas": 25,
-  "gabarito_confere": "sim",
-  "cor_triagem": "verde",
-  "triagem_motivos": []
+  "questoes_faixa": "2-27",
+  "questoes_estimadas": 26,
+  "cor_triagem": "vermelho",
+  "triagem_motivos": [
+   "discursiva (só padrão de resposta)"
+  ]
  },
  {
   "id": "P9860",
@@ -993,7 +994,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P9861",
+  "gabarito_ids": "",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -1009,10 +1010,9 @@
   "paginas_sem_texto": 0,
   "questoes_faixa": "1-20",
   "questoes_estimadas": 20,
-  "gabarito_confere": "contém",
-  "cor_triagem": "amarelo",
+  "cor_triagem": "vermelho",
   "triagem_motivos": [
-   "gabarito cobre mais que a prova (outro dia/caderno junto)"
+   "sem gabarito ligado"
   ]
  },
  {
@@ -1125,7 +1125,7 @@
   "papel": "prova",
   "gabarito_ids": "",
   "resolucao_ids": "",
-  "padrao_ids": "P9868",
+  "padrao_ids": "",
   "duplicata_de": "",
   "paginas": 1,
   "tamanho_mb": 0.32,
@@ -1141,7 +1141,7 @@
   "questoes_estimadas": 25,
   "cor_triagem": "vermelho",
   "triagem_motivos": [
-   "discursiva (só padrão de resposta)"
+   "sem gabarito ligado"
   ]
  },
  {

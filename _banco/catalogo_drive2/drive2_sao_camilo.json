@@ -216,7 +216,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P7114",
+  "gabarito_ids": "",
   "resolucao_ids": "",
   "padrao_ids": "P7112",
   "duplicata_de": "",
@@ -230,12 +230,11 @@
   "md5": "b983218922e8cdd48942a326c899f0a5",
   "texto": "parcial",
   "paginas_sem_texto": 3,
-  "questoes_faixa": "1-50",
-  "questoes_estimadas": 50,
-  "gabarito_confere": "sim",
-  "cor_triagem": "amarelo",
+  "questoes_faixa": "1-90",
+  "questoes_estimadas": 73,
+  "cor_triagem": "vermelho",
   "triagem_motivos": [
-   "prova parece ter mais questões que o gabarito (parte discursiva?)"
+   "discursiva (só padrão de resposta)"
   ]
  },
  {
@@ -529,8 +528,7 @@
   "gabarito_confere": "não",
   "cor_triagem": "vermelho",
   "triagem_motivos": [
-   "número de questões não bate com o gabarito",
-   "dois gabaritos possíveis"
+   "número de questões não bate com o gabarito"
   ]
  },
  {
@@ -631,7 +629,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P7129",
+  "gabarito_ids": "P7128",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -645,11 +643,13 @@
   "md5": "77dc9eafb1d4542260aaec5ad01df8fe",
   "texto": "parcial",
   "paginas_sem_texto": 3,
-  "questoes_faixa": "1-20",
-  "questoes_estimadas": 19,
-  "gabarito_confere": "sim",
-  "cor_triagem": "verde",
-  "triagem_motivos": []
+  "questoes_faixa": "2-27",
+  "questoes_estimadas": 26,
+  "gabarito_confere": "contém",
+  "cor_triagem": "amarelo",
+  "triagem_motivos": [
+   "gabarito cobre mais que a prova (outro dia/caderno junto)"
+  ]
  },
  {
   "id": "P7128",
@@ -718,7 +718,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P7128",
+  "gabarito_ids": "P7129",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -734,9 +734,11 @@
   "paginas_sem_texto": 3,
   "questoes_faixa": "1-50",
   "questoes_estimadas": 50,
-  "gabarito_confere": "sim",
-  "cor_triagem": "verde",
-  "triagem_motivos": []
+  "gabarito_confere": "não",
+  "cor_triagem": "vermelho",
+  "triagem_motivos": [
+   "número de questões não bate com o gabarito"
+  ]
  },
  {
   "id": "P7131",
@@ -927,7 +929,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P7138",
+  "gabarito_ids": "",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -943,11 +945,9 @@
   "paginas_sem_texto": 3,
   "questoes_faixa": "2-11",
   "questoes_estimadas": 10,
-  "gabarito_confere": "contém",
-  "cor_triagem": "amarelo",
+  "cor_triagem": "vermelho",
   "triagem_motivos": [
-   "gabarito cobre mais que a prova (outro dia/caderno junto)",
-   "3 páginas sem texto"
+   "sem gabarito ligado"
   ]
  },
  {
@@ -1598,7 +1598,7 @@
   "papel": "prova",
   "gabarito_ids": "P7158",
   "resolucao_ids": "",
-  "padrao_ids": "P7161",
+  "padrao_ids": "",
   "duplicata_de": "",
   "paginas": 12,
   "tamanho_mb": 1.42,

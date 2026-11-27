@@ -38,7 +38,7 @@
   "fase_etapa": "1",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P8840",
+  "gabarito_ids": "",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -52,12 +52,11 @@
   "md5": "2a0cfadd154b43d2a2d20787a5eeaa72",
   "texto": "ok",
   "paginas_sem_texto": 1,
-  "questoes_faixa": "1-31",
-  "questoes_estimadas": 31,
-  "gabarito_confere": "sim",
-  "cor_triagem": "amarelo",
+  "questoes_faixa": "1-9",
+  "questoes_estimadas": 9,
+  "cor_triagem": "vermelho",
   "triagem_motivos": [
-   "prova parece ter mais questões que o gabarito (parte discursiva?)"
+   "sem gabarito ligado"
   ]
  },
  {
@@ -71,7 +70,7 @@
   "fase_etapa": "2",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P8840",
+  "gabarito_ids": "",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -85,12 +84,11 @@
   "md5": "85e31f0f76c8ec060c2494098411d548",
   "texto": "ok",
   "paginas_sem_texto": 1,
-  "questoes_faixa": "1-31",
-  "questoes_estimadas": 31,
-  "gabarito_confere": "sim",
-  "cor_triagem": "amarelo",
+  "questoes_faixa": "1-9",
+  "questoes_estimadas": 9,
+  "cor_triagem": "vermelho",
   "triagem_motivos": [
-   "prova parece ter mais questões que o gabarito (parte discursiva?)"
+   "sem gabarito ligado"
   ]
  },
  {

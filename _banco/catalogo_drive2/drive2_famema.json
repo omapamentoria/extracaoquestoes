@@ -785,7 +785,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P7768",
+  "gabarito_ids": "",
   "resolucao_ids": "",
   "padrao_ids": "P7766",
   "duplicata_de": "",
@@ -802,11 +802,9 @@
   "paginas_sem_texto": 3,
   "questoes_faixa": "2-11",
   "questoes_estimadas": 10,
-  "gabarito_confere": "contém",
-  "cor_triagem": "amarelo",
+  "cor_triagem": "vermelho",
   "triagem_motivos": [
-   "gabarito cobre mais que a prova (outro dia/caderno junto)",
-   "3 páginas sem texto"
+   "discursiva (só padrão de resposta)"
   ]
  },
  {

@@ -962,7 +962,7 @@
   "fase_etapa": "2",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P7948",
+  "gabarito_ids": "P7946",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -978,9 +978,11 @@
   "paginas_sem_texto": 0,
   "questoes_faixa": "1-20",
   "questoes_estimadas": 20,
-  "gabarito_confere": "sim",
-  "cor_triagem": "verde",
-  "triagem_motivos": []
+  "gabarito_confere": "contém",
+  "cor_triagem": "amarelo",
+  "triagem_motivos": [
+   "gabarito cobre mais que a prova (outro dia/caderno junto)"
+  ]
  },
  {
   "id": "P7939",
@@ -993,7 +995,7 @@
   "fase_etapa": "2",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P7948",
+  "gabarito_ids": "P7946",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -1009,9 +1011,11 @@
   "paginas_sem_texto": 0,
   "questoes_faixa": "1-20",
   "questoes_estimadas": 20,
-  "gabarito_confere": "sim",
-  "cor_triagem": "verde",
-  "triagem_motivos": []
+  "gabarito_confere": "contém",
+  "cor_triagem": "amarelo",
+  "triagem_motivos": [
+   "gabarito cobre mais que a prova (outro dia/caderno junto)"
+  ]
  },
  {
   "id": "P7940",
@@ -1119,7 +1123,7 @@
   "fase_etapa": "2",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P7948",
+  "gabarito_ids": "P7946",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -1135,9 +1139,11 @@
   "paginas_sem_texto": 0,
   "questoes_faixa": "1-20",
   "questoes_estimadas": 20,
-  "gabarito_confere": "sim",
-  "cor_triagem": "verde",
-  "triagem_motivos": []
+  "gabarito_confere": "contém",
+  "cor_triagem": "amarelo",
+  "triagem_motivos": [
+   "gabarito cobre mais que a prova (outro dia/caderno junto)"
+  ]
  },
  {
   "id": "P7944",
@@ -1150,7 +1156,7 @@
   "fase_etapa": "2",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P7948",
+  "gabarito_ids": "P7946",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -1165,10 +1171,12 @@
   "texto": "ok",
   "paginas_sem_texto": 0,
   "questoes_faixa": "1-20",
-  "questoes_estimadas": 20,
-  "gabarito_confere": "sim",
-  "cor_triagem": "verde",
-  "triagem_motivos": []
+  "questoes_estimadas": 18,
+  "gabarito_confere": "contém",
+  "cor_triagem": "amarelo",
+  "triagem_motivos": [
+   "gabarito cobre mais que a prova (outro dia/caderno junto)"
+  ]
  },
  {
   "id": "P7945",

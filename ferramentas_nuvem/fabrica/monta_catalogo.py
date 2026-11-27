@@ -148,7 +148,8 @@ def candidatos(p, papel):
         if r["papel"] != papel or r.get("duplicata_de_gid"): continue
         if r["pasta"] == p["pasta"]: rel = 0
         elif r["pasta"].startswith(p["pasta"] + "/"): rel = 1
-        elif os.path.dirname(r["pasta"]) == os.path.dirname(p["pasta"]) and r["pasta"] != p["pasta"]: rel = 2
+        elif os.path.dirname(r["pasta"]) == os.path.dirname(p["pasta"]) and r["pasta"] != p["pasta"] \
+                and re.search(r"gabarit|resolu|respost|coment|corre", sa(os.path.basename(r["pasta"]))): rel = 2
         elif p["pasta"].startswith(r["pasta"] + "/"): rel = 2
         else: continue
         ap, ar = ANO.findall(p["path"]), ANO.findall(r["path"])

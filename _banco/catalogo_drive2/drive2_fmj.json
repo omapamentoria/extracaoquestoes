@@ -300,7 +300,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P6310",
+  "gabarito_ids": "",
   "resolucao_ids": "",
   "padrao_ids": "P6308",
   "duplicata_de": "",
@@ -314,12 +314,11 @@
   "md5": "522caec11d881640fd750997446605a1",
   "texto": "parcial",
   "paginas_sem_texto": 4,
-  "questoes_faixa": "1-86",
-  "questoes_estimadas": 86,
-  "gabarito_confere": "sim",
-  "cor_triagem": "amarelo",
+  "questoes_faixa": "1-111",
+  "questoes_estimadas": 89,
+  "cor_triagem": "vermelho",
   "triagem_motivos": [
-   "prova parece ter mais questões que o gabarito (parte discursiva?)"
+   "discursiva (só padrão de resposta)"
   ]
  },
  {
@@ -363,7 +362,7 @@
   "papel": "prova",
   "gabarito_ids": "P6310",
   "resolucao_ids": "",
-  "padrao_ids": "P6308",
+  "padrao_ids": "",
   "duplicata_de": "",
   "paginas": 28,
   "tamanho_mb": 1.17,
@@ -1010,7 +1009,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P6335",
+  "gabarito_ids": "",
   "resolucao_ids": "",
   "padrao_ids": "P6332",
   "duplicata_de": "",
@@ -1026,10 +1025,9 @@
   "paginas_sem_texto": 3,
   "questoes_faixa": "1-27",
   "questoes_estimadas": 27,
-  "gabarito_confere": "contém",
-  "cor_triagem": "amarelo",
+  "cor_triagem": "vermelho",
   "triagem_motivos": [
-   "gabarito cobre mais que a prova (outro dia/caderno junto)"
+   "discursiva (só padrão de resposta)"
   ]
  },
  {

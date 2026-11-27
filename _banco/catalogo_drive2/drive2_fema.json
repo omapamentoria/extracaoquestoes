@@ -10,7 +10,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P6270",
+  "gabarito_ids": "",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -26,9 +26,10 @@
   "paginas_sem_texto": 2,
   "questoes_faixa": "1-60",
   "questoes_estimadas": 60,
-  "gabarito_confere": "sim",
-  "cor_triagem": "verde",
-  "triagem_motivos": []
+  "cor_triagem": "vermelho",
+  "triagem_motivos": [
+   "sem gabarito ligado"
+  ]
  },
  {
   "id": "P6269",
@@ -41,7 +42,7 @@
   "fase_etapa": "",
   "caderno": "",
   "papel": "prova",
-  "gabarito_ids": "P6270",
+  "gabarito_ids": "",
   "resolucao_ids": "",
   "padrao_ids": "",
   "duplicata_de": "",
@@ -57,9 +58,10 @@
   "paginas_sem_texto": 2,
   "questoes_faixa": "1-60",
   "questoes_estimadas": 60,
-  "gabarito_confere": "sim",
-  "cor_triagem": "verde",
-  "triagem_motivos": []
+  "cor_triagem": "vermelho",
+  "triagem_motivos": [
+   "sem gabarito ligado"
+  ]
  },
  {
   "id": "P6270",
