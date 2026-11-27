@@ -29,7 +29,7 @@ for pn,pg in enumerate(r.pages,1):
         # fonte CID do Arial (Identity-H, CID = GID do Arial: ENEM 2014) sem ToUnicode: todos os GIDs conhecidos
         if str(f.get("/Subtype"))=="/Type0" and str(enc)=="/Identity-H" and "Arial" in str(f.get("/BaseFont")):
             d_=f["/DescendantFonts"][0].get_object()
-            if str(d_.get("/CIDToGIDMap"))=="/Identity":
+            if str(d_.get("/CIDToGIDMap","/Identity"))=="/Identity":   # ausente = Identity (padrao do PDF)
                 cob,tu=cobertos(f)
                 m={str(g):T.get(str(g)) or chr(g+29) for g in set(range(3,98))|{int(k) for k in T if k.isdigit()} if g not in cob}
                 m["_tu"]=tu; out["%d|%s"%(pn,str(f.get("/BaseFont"))[1:])]=m; n_+=len(m)-1

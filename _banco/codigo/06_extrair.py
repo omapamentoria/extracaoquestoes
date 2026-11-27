@@ -225,6 +225,7 @@ def cid_por_tabela(chars):
     CID_TAB_USO[PID] += len(alvo)
 def palavras(page):
     page_orig = page
+    if CID_PROVA: cid_por_prova(page_orig.chars, page_orig.page_number)   # no proprio objeto: tabelas (extract_table) tambem leem traduzido
     page = page.dedupe_chars(tolerance=1)     # caractere impresso 2x no mesmo lugar (ex.: "CaCl2··2H2O")
     chars = [dict(c) for c in page.chars]
     cid_por_prova(chars, page_orig.page_number)                    # "(cid:N)" traduzido pelo nome do glifo (tabela da prova)
