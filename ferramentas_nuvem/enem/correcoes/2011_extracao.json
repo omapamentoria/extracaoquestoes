@@ -1,0 +1,112 @@
+{
+ "P7541-Q085": {
+  "motivo": "alternativas são pares de setas desenhadas (sem texto no PDF): transcritas com o sentido de cada seta, lendo a página 29",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:2\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [
+   1
+  ],
+  "alternativas": {
+   "A": "→ e ←",
+   "B": "↓ e ↑",
+   "C": "→ e ↓",
+   "D": "↑ e ←",
+   "E": "↓ e ←"
+  }
+ },
+ "P7541-Q090": {
+  "motivo": "alternativas são esquemas (figuras), conferidas na página 31: a A é um esquema baixo, não texto desenhado"
+ },
+ "P7543-Q141": {
+  "motivo": "as cinco alternativas numa linha só no PDF: separadas pelas letras",
+  "alternativas": {
+   "A": "7,4.",
+   "B": "3,7.",
+   "C": "3,4.",
+   "D": "1,9.",
+   "E": "1,7."
+  }
+ },
+ "P7543-Q148": {
+  "motivo": "frações desenhadas, lidas na página 23",
+  "enunciado_sub": [
+   [
+    "reservou das vagas para as\\n\\npessoas que residem na capital do estado de São Paulo,\\n\\npara as que moram",
+    "reservou \\( \\frac{2}{5} \\) das vagas para as pessoas que residem na capital do estado de São Paulo, \\( \\frac{3}{8} \\) para as que moram"
+   ]
+  ]
+ },
+ "P7543-Q153": {
+  "motivo": "fórmula desenhada lida na página 24; alternativas são gráficos: recortadas da página",
+  "enunciado_sub": [
+   [
+    "femininos\\.\\n\\n[\\s\\S]*?\\n\\na altura do salto",
+    "femininos.\n\nTal expressão é dada por \\( A = Q \\times \\left( 12 + \\frac{3T}{8} \\right) \\), onde *A* é a altura do salto"
+   ],
+   [
+    "\\n\\n\\{\\{img:1\\}\\}\\n\\nDos gráficos",
+    "\n\nDos gráficos"
+   ]
+  ],
+  "imagens": [],
+  "alt_imagens": "auto"
+ },
+ "P7543-Q163": {
+  "motivo": "alternativas (números e frações desenhadas) lidas na página 27",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}\\n\\nNessas",
+    "\n\nNessas"
+   ]
+  ],
+  "imagens": [],
+  "alternativas": {
+   "A": "2",
+   "B": "1",
+   "C": "\\( \\frac{1}{2} \\)",
+   "D": "\\( \\frac{1}{4} \\)",
+   "E": "\\( \\frac{1}{8} \\)"
+  }
+ },
+ "P7543-Q167": {
+  "motivo": "alternativas (equações com frações desenhadas) lidas na página 28",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}\\n\\nQual equação",
+    "\n\nQual equação"
+   ]
+  ],
+  "imagens": [],
+  "alternativas": {
+   "A": "\\( I = \\frac{C}{10} - 70 \\)",
+   "B": "\\( I = \\frac{C}{10} + 36,5 \\)",
+   "C": "\\( I = \\frac{C}{10} - 328 \\)",
+   "D": "\\( I = 10C - 3\\,280 \\)",
+   "E": "\\( I = 10C - 70 \\)"
+  }
+ },
+ "P7543-Q176": {
+  "motivo": "fórmulas dos volumes desenhadas, lidas na página 30",
+  "enunciado_sub": [
+   [
+    "obter é\\n\\n[\\s\\S]*$",
+    "obter é\n\n\\( \\left( V_{cilindro} = \\pi R^{2} h \\ \\text{ e } \\ V_{cone} = \\frac{\\pi R^{2} h}{3} \\right) \\)"
+   ]
+  ]
+ },
+ "P7543-Q180": {
+  "motivo": "alternativas são gráficos: recortadas da página 31",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}\\n\\nQual dos",
+    "\n\nQual dos"
+   ]
+  ],
+  "imagens": [],
+  "alt_imagens": "auto"
+ }
+}

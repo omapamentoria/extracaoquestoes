@@ -1,0 +1,28 @@
+{
+ "P7533-Q062": {
+  "motivo": "seta de equilíbrio desenhada em fonte de símbolos, lida na página 20",
+  "enunciado_sub": [
+   [
+    "O<sub>\\(l\\)</sub> \\uf083 H<sub>2</sub>CO",
+    "O<sub>(l)</sub> ⇌ H<sub>2</sub>CO"
+   ]
+  ]
+ },
+ "P7533-Q075": {
+  "motivo": "seta de equilíbrio em fonte de símbolos sem tradução, lida na página 24",
+  "enunciado_sub": [
+   [
+    "O<sub>\\(l\\)</sub> \\(cid:85\\) HCO",
+    "O<sub>(l)</sub> ⇌ HCO"
+   ]
+  ]
+ },
+ "P7535-Q120": {
+  "motivo": "gabarito oficial (2ª aplicação, 2º dia): no texto do PDF a letra fica fora da linha do número; lido na imagem do gabarito",
+  "gabarito_oficial": "C"
+ },
+ "P7535-Q121": {
+  "motivo": "gabarito oficial (2ª aplicação, 2º dia): no texto do PDF a letra fica fora da linha do número; lido na imagem do gabarito",
+  "gabarito_oficial": "C"
+ }
+}

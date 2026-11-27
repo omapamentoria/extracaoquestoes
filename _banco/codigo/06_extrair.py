@@ -6,6 +6,16 @@
 # recortadas da pagina; nada e inventado. Tudo o que o codigo nao consegue garantir vira "alerta" para revisao.
 import os, sys, re, json, gzip, subprocess, collections, unicodedata, shutil, hashlib
 import pdfplumber
+# codigo cru de cada caractere (cid) nos chars do pdfplumber: a traducao por prova (cid_unicode/<PID>.json) usa o codigo,
+# nunca a letra que o PDF mostra (fonte com ToUnicode parcial: o "+" pode ser o codigo cru do "b" ou um "+" de verdade)
+import pdfminer.converter as _pmc, pdfplumber.page as _ppg
+_rc_orig = _pmc.PDFLayoutAnalyzer.render_char
+def _rc_cid(self, matrix, font, fontsize, scaling, rise, cid, ncs, graphicstate):
+    adv = _rc_orig(self, matrix, font, fontsize, scaling, rise, cid, ncs, graphicstate)
+    self.cur_item._objs[-1].cid = cid
+    return adv
+_pmc.PDFLayoutAnalyzer.render_char = _rc_cid
+_ppg.ALL_ATTRS = set(_ppg.ALL_ATTRS) | {"cid"}
 import numpy as np
 import cv2
 
@@ -13,7 +23,7 @@ RAIZ = os.path.expanduser("~/mnt/BM"); B = os.path.join(RAIZ, "_banco")
 PID = sys.argv[1]; PERFIL = sys.argv[2] if len(sys.argv) > 2 else "auto"   # auto: o proprio codigo reconhece o formato da prova
 CAT = {d["id"]: d for d in json.load(open(os.path.join(B, "catalogo_debug.json"), encoding="utf-8"))}
 import glob as _g   # catalogo do Drive novo, um arquivo por ano (ferramentas_nuvem/enem): evita conflito entre sessoes
-for _f in sorted(_g.glob(os.path.join(B, "catalogo_drive2", "*.json"))): CAT.update({d["id"]: d for d in json.load(open(_f, encoding="utf-8"))})
+for _f in sorted(_g.glob(os.path.join(B, "catalogo_drive2", "*.json")), key=lambda f: (os.path.basename(f)[0].isdigit(), f)): CAT.update({d["id"]: d for d in json.load(open(_f, encoding="utf-8"))})
 P = CAT[PID]
 PDF = os.path.join(RAIZ, P["caminho"])
 # prova com texto ruim no PDF (digitalizada / fonte sem traducao): se existe o PDF com a camada de OCR
@@ -24,6 +34,13 @@ if OCR:
     PDF = os.path.join(RAIZ, "_ocr", PID + ".pdf"); print("modo OCR:", PDF)
     _bj = os.path.join(RAIZ, "_ocr", PID + ".bolhas.json")
     if os.path.exists(_bj): BOLHAS = {int(k): v for k, v in json.load(open(_bj)).items()}
+else:
+    # PDF com MediaBox fora da origem (ENEM PPL 2010 1o dia): o pdfplumber e o pdftoppm desalinham; le a copia
+    # normalizada (ferramentas_nuvem/enem/normaliza_pdf.py -> _norm/<PID>.pdf, mesmo conteudo, origem em 0,0)
+    if os.path.exists(os.path.join(RAIZ, "_norm", PID + ".pdf")): PDF = os.path.join(RAIZ, "_norm", PID + ".pdf"); print("PDF normalizado:", PDF)
+    # letras das alternativas como imagens embutidas (ENEM 2012 regular): caixas achadas por ferramentas_nuvem/enem/bolhas_img.py
+    _bj = os.path.join(B, "bolhas", PID + ".json")
+    if os.path.exists(_bj): BOLHAS = {int(k): v for k, v in json.load(open(_bj)).items()}; print("bolinhas-imagem:", _bj)
 OUT = os.path.join(B, "questoes", P["vestibular"] or "outros", P["ano"] or "sem_ano", PID)
 os.makedirs(os.path.join(OUT, "img"), exist_ok=True); os.makedirs(os.path.join(OUT, "revisao"), exist_ok=True)
 DPI_FIG = 300; DPI_DET = 100
@@ -91,7 +108,7 @@ def letra_alt(l):
     # "A preocupação..." com a letra em negrito e espaco largo antes do texto normal (simulados MD) - so na prova que usa
     # PDF do OCR: bolinha de alternativa do ENEM achada na imagem (ocr_pdf.py, com a letra lida sozinha) logo a
     # esquerda do comeco da linha. (A letra que o tesseract leu dentro da bolinha ja saiu das palavras.)
-    if OCR and BOLHAS.get(l.get("pg")):
+    if BOLHAS.get(l.get("pg")):
         for b in BOLHAS[l["pg"]]:
             if b[4] != "?" and min(b[3], l["bottom"]) - max(b[1], l["top"]) > 0.4 * (b[3] - b[1]) and -2 <= w0["x0"] - b[2] <= 3 * w0["size"]:
                 return b[4]
@@ -171,6 +188,17 @@ INVISIVEIS = {}
 _CID_P = os.path.join(B, "cid_unicode.json")
 CID_TAB = json.load(open(_CID_P, encoding="utf-8")) if os.path.exists(_CID_P) else {}
 CID_TAB_USO = collections.Counter()
+# tabela por prova (ferramentas_nuvem/enem/cid_difs.py): codigo -> texto pelo nome do glifo na /Differences da fonte
+_CIDP = os.path.join(B, "cid_unicode", PID + ".json")
+CID_PROVA = json.load(open(_CIDP, encoding="utf-8")) if os.path.exists(_CIDP) else {}
+def cid_por_prova(chars, pn):
+    # codigo fora do ToUnicode: o pdfplumber le "(cid:N)" ou a letra do proprio codigo ("!" = 33); a tabela da prova
+    # (por pagina e fonte) so tem esses codigos
+    for c in chars:
+        t_ = CID_PROVA.get("%d|%s" % (pn, c["fontname"]))
+        if not t_: continue
+        k_ = str(c["cid"]) if c.get("cid") is not None else None
+        if k_ in t_: c["text"] = t_[k_]
 def cid_por_tabela(chars):
     base_ = lambda n: re.sub(r"-Identity-[HV]$", "", re.sub(r"^[A-Z]{6}\+", "", n))
     alvo = []
@@ -196,6 +224,7 @@ def palavras(page):
     page_orig = page
     page = page.dedupe_chars(tolerance=1)     # caractere impresso 2x no mesmo lugar (ex.: "CaCl2··2H2O")
     chars = [dict(c) for c in page.chars]
+    cid_por_prova(chars, page_orig.page_number)                    # "(cid:N)" traduzido pelo nome do glifo (tabela da prova)
     cid_por_tabela(chars)                     # "(cid:N)" de Arial sem ToUnicode (ENEM 2017-2018): tabela da numeracao original
     glifos_t3(page_orig, chars)               # glifos de fonte Type3 (imagem) reconhecidos viram texto
     glifos_cid(page_orig, chars)              # "(cid:N)" de fonte sem tabela de texto: reconhecido pela forma
@@ -205,6 +234,19 @@ def palavras(page):
     # microtexto de seguranca ("ENEM2024ENEM2024..." a 1-2 pt entre as colunas e no pe da pagina): ilegivel, nao e prova
     chars = [c for c in chars if c.get("size", 10) >= 2.5]
     ws = WordExtractor(extra_attrs=["fontname", "size"], keep_blank_chars=False, x_tolerance=1.2, y_tolerance=2).extract_words(chars)
+    # numero partido por um espaco fora de ordem no PDF ("9" "1" encostados, com o espaco depois: "Questao 91" do ENEM
+    # PPL 2010): digitos colados (vao < 0,1 corpo) na mesma linha sao um numero so
+    _dig = [w for w in ws if re.fullmatch(r"\d+", w["text"])]
+    for u in sorted(_dig, key=lambda w: -w["x0"]):        # da direita para a esquerda: "1" entra no "9" antes
+        for w in _dig:
+            if (w is not u and not w.get("_junto") and not u.get("_junto") and abs(u["top"] - w["top"]) < 1
+                    and -0.5 <= u["x0"] - w["x1"] < 0.1 * u["size"] and u["fontname"] == w["fontname"]):
+                w.update(text=w["text"] + u["text"], x1=u["x1"], bottom=max(u["bottom"], w["bottom"])); u["_junto"] = True; break
+    ws = [w for w in ws if not w.get("_junto")]
+    # numero de lista escondido debaixo do titulo "QUESTAO N" (ENEM 2012: "5." no mesmo lugar do "QUESTAO 94"): nao e texto
+    _cab = [w for w in ws if re.fullmatch(r"(?i)quest[ãa]o", w["text"])]
+    ws = [w for w in ws if not (re.fullmatch(r"\d{1,2}\.", w["text"]) and any(c["x0"] - 1 <= w["x0"] and w["x1"] <= c["x1"] + 1
+                                and abs(c["top"] - w["top"]) < 4.5 for c in _cab))]
     # texto invisivel (camada oculta, ex.: resolucao escondida no caderno do Bernoulli; texto branco sobre branco):
     # a pagina renderizada nao tem tinta nenhuma na caixa da palavra -> nao e texto da prova
     try:
@@ -522,6 +564,9 @@ def fracoes(page, ws):
         dir_ = [w for w in na_linha if o["x1"] - 3 <= w["x0"] <= o["x1"] + 25]
         if not esq or not dir_: continue
         if any(w["x1"] > o["x0"] + 3 and w["x0"] < o["x1"] - 3 for w in na_linha): continue
+        # moldura do titulo "Questao N" (ENEM 2009) encostada no fim da linha da outra coluna: nao e seta
+        if any(re.fullmatch(r"(?i)quest[ãa]o", w["text"]) and w["x0"] >= o["x0"] - 3 and w["x1"] <= o["x1"] + 3
+               and abs((w["top"] + w["bottom"]) / 2 - y) < 6 for w in livres()): continue
         par_ = [p for p in horiz if p is not o and p["_k"] not in graf_usados and 1 <= abs((p["top"] + p["bottom"]) / 2 - y) <= 5
                 and min(p["x1"], o["x1"]) - max(p["x0"], o["x0"]) > 0.6 * (o["x1"] - o["x0"])]
         def ponta_em(lin, x):
@@ -536,6 +581,7 @@ def fracoes(page, ws):
         elif pd_: simb = "\u2192"
         elif pe_: simb = "\u2190"
         else: continue                # sem ponta: nao da para ter certeza que e seta
+        if os.environ.get("DEBUGSETA"): print("SETA", simb, [w["text"] for w in esq], [w["text"] for w in dir_], round(o["x0"]), round(o["x1"]), round(y))
         for u in usados_o: graf_usados.add(u["_k"])
         x0_ = min(u["x0"] for u in usados_o); x1_ = max(u["x1"] for u in usados_o)
         y0_ = min(u["top"] for u in usados_o); y1_ = max(u["bottom"] for u in usados_o)
@@ -677,10 +723,17 @@ corpo_global = collections.Counter()
 for pg in paginas:
     for w in pg["ws"]: corpo_global[round(w["size"], 1)] += len(w["text"])
 CORPO = corpo_global.most_common(1)[0][0]
+_COLP = os.path.join(B, "colunas", PID + ".json")
+COLUNAS = json.load(open(_COLP)) if os.path.exists(_COLP) else {}
 def regioes(ws, W, H, page=None):
     """Divide a pagina em faixas horizontais: faixa de largura total (texto atravessa o meio) ou faixa com 2 colunas.
     Devolve lista de (x0, x1, y0, y1) na ordem de leitura."""
     meio = W / 2
+    # divisa das colunas fora do meio da pagina (coluna da esquerda mais larga; ENEM 2009): _banco/colunas/<PID>.json
+    # e faixa de largura total que o texto nao mostra (tirinha larga sem palavra atravessando o meio): {"pag": {"total": [[y0, y1]]}}
+    cfg_c = COLUNAS.get(str(page.page_number), {}) if page is not None else {}
+    if isinstance(cfg_c, (int, float)): cfg_c = {"meio": cfg_c}
+    meio = cfg_c.get("meio", meio)
     corpo = [w for w in ws if w["size"] >= 0.8 * CORPO and 0.06 * H < w["top"] < 0.95 * H]
     todos = [w for w in ws if w["size"] >= 0.6 * CORPO and 0.06 * H < w["top"] < 0.95 * H]
     cruz = [[w["top"] - 2, w["bottom"] + 2] for w in todos if w["x0"] < meio - 3 and w["x1"] > meio + 3]
@@ -696,6 +749,10 @@ def regioes(ws, W, H, page=None):
         a, b = a - 0.2 * CORPO, b + 0.35 * CORPO
         if faixas and a <= faixas[-1][1] + 1.5 * CORPO: faixas[-1][1] = max(faixas[-1][1], b)
         else: faixas.append([a, b])
+    for a, b in cfg_c.get("total", []):
+        sobre = [f_ for f_ in faixas if f_[0] <= b and a <= f_[1]]
+        for f_ in sobre: faixas.remove(f_); a, b = min(a, f_[0]), max(b, f_[1])
+        faixas.append([a, b]); faixas.sort()
     graf = []
     if page is not None:
         for o in page.rects + page.curves + page.images + page.lines:
@@ -985,6 +1042,15 @@ def detecta_figuras(pg):
             tinta[max(0, int((l_["top"] - fz) * s)):int((l_["bottom"] + fz) * s) + 1, max(0, int((l_["x0"] - fz) * s)):int((l_["x1"] + fz) * s) + 1] = 0
     for b_ in BOLHAS.get(pg["n"], []):      # OCR: bolinha de alternativa e marcador, nao figura
         tinta[max(0, int((b_[1] - 1) * s)):int((b_[3] + 1) * s) + 1, max(0, int((b_[0] - 1) * s)):int((b_[2] + 1) * s) + 1] = 0
+    # faixa decorativa (imagem baixa e comprida) na altura do titulo "QUESTAO N", logo a direita dele, ou o fio duplo
+    # que fecha a questao (ENEM 2012 regular, prova com as letras em imagem): nao e figura
+    for im_ in page.images:
+        if (im_["bottom"] - im_["top"]) < 25 and (im_["x1"] - im_["x0"]) > 4 * (im_["bottom"] - im_["top"]) and (any(
+                re.fullmatch(r"(?i)quest[ãa]o", w["text"]) and im_["top"] - 3 <= (w["top"] + w["bottom"]) / 2 <= im_["bottom"] + 3
+                and w["x1"] <= im_["x0"] + 5 and im_["x0"] - w["x1"] < 80 for w in pg["ws"]) or (BOLHAS and not OCR
+                and (im_["x1"] - im_["x0"]) > 200 and not any(im_["x0"] <= w["x0"] and w["x1"] <= im_["x1"] and im_["top"] <= w["top"]
+                                                                  and w["bottom"] <= im_["bottom"] for w in pg["ws"]))):
+            tinta[max(0, int((im_["top"] - 1) * s)):int((im_["bottom"] + 1) * s) + 1, max(0, int((im_["x0"] - 1) * s)):int((im_["x1"] + 1) * s) + 1] = 0
     Hp, Wp = tinta.shape
     tinta[: int(0.075 * Hp)] = 0; tinta[int(0.935 * Hp):] = 0       # faixa de cabecalho/rodape
     for L_ in LOGOS:       # logotipo repetido nas paginas: nao e figura (nem se junta com a figura vizinha)
@@ -1027,6 +1093,11 @@ def detecta_figuras(pg):
     # fotos embutidas no PDF entram com a caixa inteira (a parte clara da foto nao aparece como "tinta" e o recorte sairia cortado)
     for im_ in page.images:
         x0_, y0_, x1_, y1_ = max(0, im_["x0"]), max(0, im_["top"]), min(page.width, im_["x1"]), min(page.height, im_["bottom"])
+        if any(abs(b_[0] - x0_) < 1 and abs(b_[1] - y0_) < 1 for b_ in BOLHAS.get(pg["n"], [])): continue   # bolinha da alternativa
+        # faixa decorativa ao lado do titulo "QUESTAO N" (imagem baixa na mesma altura do titulo; ENEM 2012): nao e figura
+        if (y1_ - y0_) < 25 and (x1_ - x0_) > 4 * (y1_ - y0_) and (any(re.fullmatch(r"(?i)quest[ãa]o", w["text"]) and y0_ - 3 <= (w["top"] + w["bottom"]) / 2 <= y1_ + 3
+                                                                     and w["x1"] <= x0_ + 5 for w in pg["ws"]) or (BOLHAS and not OCR and (x1_ - x0_) > 200
+                and not any(x0_ <= w["x0"] and w["x1"] <= x1_ and y0_ <= w["top"] and w["bottom"] <= y1_ for w in pg["ws"]))): continue
         if (x1_ - x0_) < 10 or (y1_ - y0_) < 10 or (x1_ - x0_) * (y1_ - y0_) > 0.6 * page.width * page.height: continue
         if y0_ < 0.06 * page.height or y1_ > 0.95 * page.height: continue
         n_w = sum(1 for w in pg["ws"] if x0_ <= (w["x0"] + w["x1"]) / 2 <= x1_ and y0_ <= (w["top"] + w["bottom"]) / 2 <= y1_)

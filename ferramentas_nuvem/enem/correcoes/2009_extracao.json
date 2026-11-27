@@ -1,0 +1,70 @@
+{
+ "P7527-Q109": {
+  "motivo": "gabarito oficial (2ª aplicação, 2º dia): no texto do PDF a letra fica uma linha acima do número; lido na imagem do gabarito",
+  "gabarito_oficial": "E"
+ },
+ "P7527-Q110": {
+  "motivo": "gabarito oficial (2ª aplicação, 2º dia): no texto do PDF a letra fica uma linha acima do número; lido na imagem do gabarito",
+  "gabarito_oficial": "D"
+ },
+ "P7527-Q111": {
+  "motivo": "gabarito oficial (2ª aplicação, 2º dia): no texto do PDF a letra fica uma linha acima do número; lido na imagem do gabarito",
+  "gabarito_oficial": "B"
+ },
+ "P7527-Q112": {
+  "motivo": "gabarito oficial (2ª aplicação, 2º dia): no texto do PDF a letra fica uma linha acima do número; lido na imagem do gabarito",
+  "gabarito_oficial": "D"
+ },
+ "P7527-Q113": {
+  "motivo": "gabarito oficial (2ª aplicação, 2º dia): no texto do PDF a letra fica uma linha acima do número; lido na imagem do gabarito",
+  "gabarito_oficial": "C"
+ },
+ "P7527-Q114": {
+  "motivo": "gabarito oficial (2ª aplicação, 2º dia): no texto do PDF a letra fica uma linha acima do número; lido na imagem do gabarito",
+  "gabarito_oficial": "D"
+ },
+ "P7527-Q160": {
+  "motivo": "alternativas com raiz quarta e frações desenhadas, transcritas lendo a página 29",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\*a a\\*$",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "\\( \\frac{a}{\\sqrt[4]{p}} < \\frac{a}{\\sqrt[4]{q}} \\)",
+   "B": "\\( \\frac{a}{\\sqrt[4]{p}} > \\frac{a}{\\sqrt[4]{q}} \\)",
+   "C": "\\( \\frac{a}{\\sqrt[4]{p}} = \\frac{a}{\\sqrt[4]{q}} \\)",
+   "D": "\\( \\frac{a}{p^{4}} < \\frac{a}{q^{4}} \\)",
+   "E": "\\( \\frac{a}{p^{4}} = \\frac{a}{q^{4}} \\)"
+  }
+ },
+ "P7527-Q170": {
+  "motivo": "sinal de raiz desenhado, lido na página 32",
+  "enunciado_sub": [
+   [
+    "e que 3 = 1,7",
+    "e que \\( \\sqrt{3} \\) = 1,7"
+   ]
+  ]
+ },
+ "P7527-Q179": {
+  "motivo": "alternativas com raízes e frações desenhadas, transcritas lendo a página 35",
+  "alternativas": {
+   "A": "\\( \\sqrt{3} \\) m.",
+   "B": "\\( \\sqrt{3} + 1 \\) m.",
+   "C": "\\( \\frac{2\\sqrt{3}}{3} \\) m.",
+   "D": "\\( \\sqrt{3} + 2 \\) m.",
+   "E": "\\( \\frac{2\\sqrt{3} + 3}{3} \\) m."
+  }
+ },
+ "P7531-Q164": {
+  "motivo": "fração com raiz desenhada, lida na página 27",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\\\\\(\\\\overline\\{3\\}\\\\\\)  \\n\\(considere = 0,58\\)\\n\\n3$",
+    "\n\n(considere \\( \\frac{\\sqrt{3}}{3} = 0,58 \\))"
+   ]
+  ]
+ }
+}

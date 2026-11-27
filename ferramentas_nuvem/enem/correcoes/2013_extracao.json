@@ -1,0 +1,59 @@
+{
+ "P7559-Q136": {
+  "motivo": "gráfico desenhado (vetorial) recortado de novo da página 19 (o recorte do extrator pegou o texto e as alternativas); pergunta e alternativas copiadas do texto do PDF",
+  "enunciado": "Observe no gráfico alguns dados a respeito da produção e do destino do lixo no Brasil no ano de 2010.\n\n{{img:4}}\n\n{{fonte:1}}\n\nA partir desses dados, supondo que todo o lixo brasileiro, com exceção dos recicláveis, é destinado aos aterros ou aos lixões, quantos milhões de toneladas de lixo vão para os lixões?",
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 4,
+    "pagina": 19,
+    "bbox": [
+     58,
+     175,
+     311,
+     281
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "5,9",
+   "B": "7,6",
+   "C": "10,9",
+   "D": "42,7",
+   "E": "76,8"
+  }
+ },
+ "P7559-Q141": {
+  "motivo": "alternativas com raízes e fração desenhadas, lidas na página 20",
+  "alternativas": {
+   "A": "r’ = \\( \\sqrt{r} \\)",
+   "B": "r’ = \\( \\frac{r}{2} \\)",
+   "C": "r’ = r",
+   "D": "r’ = 2r",
+   "E": "r’ = \\( \\sqrt[3]{2} \\)"
+  }
+ },
+ "P7559-Q158": {
+  "motivo": "raiz e π desenhados (a palavra \"da\" tinha ido para uma fração falsa), lidos na página 25",
+  "enunciado_sub": [
+   [
+    "mais aproximado área do terreno iluminada pelas lâmpadas é\\n\\n[\\s\\S]*$",
+    "mais aproximado da área do terreno iluminada pelas lâmpadas é\n\n(Aproxime \\( \\sqrt{3} \\) para 1,7 e π para 3.)"
+   ]
+  ]
+ },
+ "P7561-Q071": {
+  "motivo": "setas de equilíbrio desenhadas, lidas na página 24",
+  "enunciado_sub": [
+   [
+    "\\(l\\) HClO \\(aq\\)",
+    "(l) ⇌ HClO (aq)"
+   ],
+   [
+    "\\n\\n\\{\\{img:1\\}\\}\\n\\nHClO \\(aq\\) \\+ H<sub>2</sub>O \\(l\\) H<sub>3</sub>",
+    "\n\nHClO (aq) + H<sub>2</sub>O (l) ⇌ H<sub>3</sub>"
+   ]
+  ],
+  "imagens": []
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "P7551-Q104": {
+  "motivo": "seta do eixo do gráfico lida como texto no início da questão (página 9): sai",
+  "enunciado_sub": [
+   [
+    "^←\\n\\n",
+    ""
+   ]
+  ]
+ }
+}
