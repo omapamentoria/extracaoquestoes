@@ -1,0 +1,45 @@
+{
+"P7599-Q121": {
+"motivo": "quadro com setas, cargas e sinais desenhados, transcrito lendo a página 11 (alternativas são desenhos de pilhas: ficam como imagem)",
+"stmt_re": [
+[
+"(?s)\\| \\*\\*Semirreação de redução\\*\\* \\|.*?\\(cid:16\\)0,76 \\|",
+"| **Semirreação de redução** | ***E***<sup>⦵</sup> **(V)** |\n|---|---|\n| Ce<sup>4+</sup> (aq) + e<sup>−</sup> → Ce<sup>3+</sup> (aq) | +1,61 |\n| Cr<sub>2</sub>O<sub>7</sub><sup>2−</sup> (aq) + 14 H<sup>+</sup> (aq) + 6 e<sup>−</sup> → 2 Cr<sup>3+</sup> (aq) + 7 H<sub>2</sub>O (l) | +1,33 |\n| Ni<sup>2+</sup> (aq) + 2 e<sup>−</sup> → Ni (s) | −0,25 |\n| Zn<sup>2+</sup> (aq) + 2 e<sup>−</sup> → Zn (s) | −0,76 |"
+]
+]
+},
+"P7599-Q124": {
+"motivo": "setas das equações desenhadas e linhas partidas, transcritas lendo a página 12",
+"stmt_re": [
+[
+"(?s)^.*com o CO \\(gasoso\\) é$",
+"O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (α-Fe<sub>2</sub>O<sub>3</sub>), a magnetita (Fe<sub>3</sub>O<sub>4</sub>) e a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão de minérios de ferro em altos fornos em condições adequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para reduzir o FeO (sólido), conforme a equação química:\n\nFeO (s) + CO (g) → Fe (s) + CO<sub>2</sub> (g)\n\nConsidere as seguintes equações termoquímicas:\n\nFe<sub>2</sub>O<sub>3</sub> (s) + 3 CO (g) → 2 Fe (s) + 3 CO<sub>2</sub> (g)   Δ<sub>r</sub>*H*<sup>⦵</sup> = −25 kJ/mol de Fe<sub>2</sub>O<sub>3</sub>\n\n3 FeO (s) + CO<sub>2</sub> (g) → Fe<sub>3</sub>O<sub>4</sub> (s) + CO (g)   Δ<sub>r</sub>*H*<sup>⦵</sup> = −36 kJ/mol de CO<sub>2</sub>\n\n2 Fe<sub>3</sub>O<sub>4</sub> (s) + CO<sub>2</sub> (g) → 3 Fe<sub>2</sub>O<sub>3</sub> (s) + CO (g)   Δ<sub>r</sub>*H*<sup>⦵</sup> = +47 kJ/mol de CO<sub>2</sub>\n\nO valor mais próximo de Δ<sub>r</sub>*H*<sup>⦵</sup>, em kJ/mol de FeO, para a reação indicada do FeO (sólido) com o CO (gasoso) é"
+]
+]
+},
+"P7599-Q130": {
+"motivo": "γ desenhado, transcrito lendo a página 14",
+"subs": [
+[
+"(cid:74)",
+"γ"
+]
+]
+},
+"P7599-Q136": {
+"motivo": "fórmulas das alternativas (frações e colchetes grandes) desenhadas, transcritas lendo a página 16",
+"stmt_re": [
+[
+"(?s)empréstimo é\\n\\n.*$",
+"empréstimo é"
+]
+],
+"alts": {
+"A": "\\( P\\left[1+\\frac{1}{\\left(1+\\frac{i}{100}\\right)}+\\frac{1}{\\left(1+\\frac{i}{100}\\right)^{2}}\\right] \\)",
+"B": "\\( P\\left[1+\\frac{1}{\\left(1+\\frac{i}{100}\\right)}+\\frac{1}{\\left(1+\\frac{2i}{100}\\right)}\\right] \\)",
+"C": "\\( P\\left[1+\\frac{1}{\\left(1+\\frac{i}{100}\\right)^{2}}+\\frac{1}{\\left(1+\\frac{i}{100}\\right)^{2}}\\right] \\)",
+"D": "\\( P\\left[\\frac{1}{\\left(1+\\frac{i}{100}\\right)}+\\frac{1}{\\left(1+\\frac{2i}{100}\\right)}+\\frac{1}{\\left(1+\\frac{3i}{100}\\right)}\\right] \\)",
+"E": "\\( P\\left[\\frac{1}{\\left(1+\\frac{i}{100}\\right)}+\\frac{1}{\\left(1+\\frac{i}{100}\\right)^{2}}+\\frac{1}{\\left(1+\\frac{i}{100}\\right)^{3}}\\right] \\)"
+}
+}
+}

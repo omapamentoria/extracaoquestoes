@@ -1,0 +1,238 @@
+{
+ "_area": {
+  "P7617": [
+   [
+    1,
+    45,
+    "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS"
+   ],
+   [
+    46,
+    90,
+    "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS"
+   ]
+  ],
+  "P7619": [
+   [
+    91,
+    135,
+    "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS"
+   ],
+   [
+    136,
+    180,
+    "MATEMÁTICA E SUAS TECNOLOGIAS"
+   ]
+  ]
+ },
+ "P7617-Q007": {
+  "motivo": "imagem 1 era o enfeite (linha pontilhada e faixa) do cabeçalho da página; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7617-Q043": {
+  "motivo": "carta de jogo (texto da questão, em imagem) não recortada pelo extrator: recortada da página 19",
+  "statement_sub": [
+   [
+    "^\\{\\{fonte:1\\}\\}",
+    "{{imgx:1}}\n\n{{fonte:1}}"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2019/P7617/img/Q043_manual_1.png"
+  ]
+ },
+ "P7617-Q044": {
+  "motivo": "alternativas cortadas pela metade e 5 imagens vazias (largura negativa) no lugar do resto: transcritas lendo a página 19; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "A": "ajuda a localizar o enredo num ambiente estático.",
+   "B": "auxilia na caracterização física do personagem principal.",
+   "C": "acrescenta informações modificadoras às ações dos personagens.",
+   "D": "alterna os tempos da narrativa, fazendo progredir as ideias do texto.",
+   "E": "está a serviço do projeto poético, auxiliando na distinção dos referentes."
+  },
+  "remove_imagens": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "P7617-Q061": {
+  "motivo": "versos, trechos do texto, fonte e comando recortados como imagem (cortados): transcritos lendo a página 25; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "\\{\\{img:2\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "\\{\\{img:3\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "\\{\\{img:4\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "(?s)^.*$",
+    "**TEXTO I**\n\nOuve o barulho do rio, meu filho  \nDeixa esse som te embalar  \nAs folhas que caem no rio, meu filho  \nTerminam nas águas do mar  \nQuando amanhã por acaso faltar  \nUma alegria no seu coração  \nLembra do som dessas águas de lá  \nFaz desse rio a sua oração.\n\n{{fonte:1}}\n\n**TEXTO II**\n\nO atrativo ecoturístico não é somente o banho de cachoeira, sentar e caminhar pela praia, cavalgar, mas conhecer a biodiversidade, às vezes supostamente em extinção. Observar baleias, nadar com o golfinho, tocar em corais, sair ao encontro de dezenas de jacarés em seu hábitat natural são símbolos que fascinam um ecoturista. A natureza é transformada em espetáculo diferente da vida urbana moderna.\n\n{{fonte:2}}\n\nSão identificadas nos textos, respectivamente, as seguintes posturas em relação à natureza:"
+   ]
+  ],
+  "fontes": [
+   "MONTE, M. et al. O rio. In: **Infinito particular**. Rio de Janeiro: Sony; Universal Music, 2006 (fragmento).",
+   "SANTANA, P. V. **Ecoturismo**: uma indústria sem chaminé? São Paulo: Labur Edições, 2008."
+  ],
+  "remove_imagens": [
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ "P7617-Q062": {
+  "motivo": "título da obra na fonte recortado como imagem (cortado): fonte transcrita lendo a página 25; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "fontes": [
+   "REGO, L. F.; FONSECA, D. P. R.; GIACOMINI, S. M. **Cartografia social de terreiros no Rio de Janeiro**. Rio de Janeiro: PUC-Rio, 2014."
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7617-Q063": {
+  "motivo": "trechos dos textos I e II recortados como imagem (cortados): transcritos lendo a página 25; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "\\{\\{img:2\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "(?s)^.*$",
+    "**TEXTO I**\n\nA centralização econômica, o protecionismo e a expansão ultramarina engrandeceram o Estado, embora beneficiassem a burguesia incipiente.\n\n{{fonte:1}}\n\n**TEXTO II**\n\nAs interferências da legislação e das práticas exclusivistas restringem a operação benéfica da lei natural na esfera das relações econômicas.\n\n{{fonte:2}}\n\nEntre os séculos XVI e XIX, diferentes concepções sobre as relações entre Estado e economia foram formuladas. Tais concepções, associadas a cada um dos textos, confrontam-se, respectivamente, na oposição entre as práticas de"
+   ]
+  ],
+  "alternativas": {
+   "A": "valorização do pacto colonial — combate à livre-iniciativa."
+  },
+  "fontes": [
+   "ANDERSON, P. In: DEYON, P. **O mercantilismo**. Lisboa: Gradiva, 1989 (adaptado).",
+   "SMITH, A. **A riqueza das Nações**. São Paulo: Abril Cultural, 1983 (adaptado)."
+  ],
+  "remove_imagens": [
+   1,
+   2
+  ]
+ },
+ "P7617-Q064": {
+  "motivo": "alternativa A desenhada (sem texto no PDF), transcrita lendo a página 25; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "A": "Falsificação de teses."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7617-Q077": {
+  "motivo": "fotografia não recortada pelo extrator: recortada da página 29",
+  "statement_sub": [
+   [
+    "^Fala-se aqui",
+    "{{imgx:1}}\n\nFala-se aqui"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2019/P7617/img/Q077_manual_1.png"
+  ]
+ },
+ "P7617-Q079": {
+  "motivo": "4 imagens vazias (largura negativa, pedaços da linha entre colunas) retiradas; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "A": "Controle da terra.",
+   "B": "Liberdade de culto.",
+   "C": "Igualdade de gênero.",
+   "D": "Exclusão dos militares."
+  },
+  "remove_imagens": [
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ "P7619-Q109": {
+  "motivo": "π e índices das frações desenhados, transcritos lendo a página 8",
+  "alternativas": {
+   "A": "\\( \\frac{qBt}{2\\pi N} \\)",
+   "B": "\\( \\frac{qBt}{\\pi N} \\)",
+   "C": "\\( \\frac{2qBt}{\\pi N} \\)"
+  }
+ },
+ "P7619-Q137": {
+  "motivo": "alternativas desenhadas (combinações), transcritas lendo a página 17; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "A": "\\( C_{12}^{4} \\times C_{12}^{3} \\times C_{12}^{3} \\times C_{12}^{2} \\)",
+   "B": "\\( C_{12}^{4} + C_{8}^{3} + C_{5}^{3} + C_{2}^{2} \\)",
+   "C": "\\( C_{12}^{4} \\times 2 \\times C_{8}^{3} \\times C_{5}^{2} \\)",
+   "D": "\\( C_{12}^{4} + 2 \\times C_{12}^{3} + C_{12}^{2} \\)",
+   "E": "\\( C_{12}^{4} \\times C_{8}^{3} \\times C_{5}^{3} \\times C_{2}^{2} \\)"
+  },
+  "remove_imagens": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ]
+ },
+ "P7619-Q158": {
+  "motivo": "índice s de Mₛ deslocado, transcrito lendo a página 23",
+  "statement_sub": [
+   [
+    "\\(M\\ \\)\\ de\\ um\\ terremoto\\ que\\ é\\ utilizada\\\n\\\ns\\ \\ \\\npara\\ descrevê\\-lo\\.",
+    "(M<sub>s</sub>) de um terremoto que é utilizada para descrevê-lo."
+   ],
+   [
+    "fórmula\\ M\\ =\\ 3,30",
+    "fórmula M<sub>s</sub> = 3,30"
+   ],
+   [
+    "amplitude\\\n\\\ns\\ \\ \\\nmáxima",
+    "amplitude máxima"
+   ],
+   [
+    "(?s)\\| \\*\\*Descrição\\*\\* \\|.*?\\| Extremo \\| M ≥ 10,0 s \\|",
+    "| **Descrição** | **Magnitude local (M<sub>s</sub>) (µm ⋅ Hz)** |\n|---|---|\n| Pequeno | 0 ≤ M<sub>s</sub> ≤ 3,9 |\n| Ligeiro | 4,0 ≤ M<sub>s</sub> ≤ 4,9 |\n| Moderado | 5,0 ≤ M<sub>s</sub> ≤ 5,9 |\n| Grande | 6,0 ≤ M<sub>s</sub> ≤ 9,9 |\n| Extremo | M<sub>s</sub> ≥ 10,0 |"
+   ]
+  ]
+ },
+ "P7619-Q180": {
+  "motivo": "função desenhada e figuras fora de ordem, transcritas lendo a página 31",
+  "statement_sub": [
+   [
+    "(?s)^\\{\\{img:2\\}\\}\\n\\nUm grupo.*?A função \\*h\\*\\(\\*t\\*\\) 4 4\\*sen\\* descreve",
+    "Um grupo de engenheiros está projetando um motor cujo esquema de deslocamento vertical do pistão dentro da câmara de combustão está representado na figura.\n\n{{img:1}}\n\n{{img:2}}\n\nA função \\( h(t) = 4 + 4\\,\\mathrm{sen}\\left(\\frac{\\beta t}{2} - \\frac{\\pi}{2}\\right) \\) definida para \\( t \\geq 0 \\) descreve"
+   ]
+  ]
+ }
+}

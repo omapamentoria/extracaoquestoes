@@ -1,0 +1,33 @@
+{
+"P7597-Q059": {
+"motivo": "Figuras 1 (climograma) e 2 (mapa) não recortadas pelo extrator: recortadas da página 23",
+"subs": [
+[
+"**Figura 1**",
+"{{imgx:1}}"
+]
+],
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2017/P7597/img/Q059_manual_1.png"
+]
+}
+},
+"P7595-Q163": {
+"motivo": "figura (folhas A0, A1, A2) recortada só em parte, rótulos soltos: recortada inteira da página 26",
+"remove": [
+1
+],
+"stmt_re": [
+[
+"A2\\n\\n118,9 cm",
+"{{imgx:1}}"
+]
+],
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2016/P7595/img/Q163_manual_1.png"
+]
+}
+}
+}

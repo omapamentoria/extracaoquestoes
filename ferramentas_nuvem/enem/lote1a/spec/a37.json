@@ -1,0 +1,45 @@
+{
+"P7581-Q064": {
+"motivo": "última palavra da alternativa E recortada como imagem junto com o enfeite: transcrita lendo a página 22",
+"remove": [
+1
+],
+"alts": {
+"E": "locomoção por membros anteriores e posteriores desenvolvidos."
+}
+},
+"P7583-Q093-ING": {
+"motivo": "última palavra da alternativa E recortada como imagem junto com o enfeite: transcrita lendo a página 3",
+"remove": [
+2
+],
+"alts": {
+"E": "as duas amigas atribuem sentidos diferentes à palavra *season*."
+}
+},
+"P7583-Q105": {
+"motivo": "últimas palavras da alternativa E recortadas como imagem junto com o enfeite: transcritas lendo a página 9",
+"remove": [
+1
+],
+"alts": {
+"E": "aferir a capacidade intelectual do candidato na resolução de problemas."
+}
+},
+"P7577-Q042": {
+"motivo": "fonte do texto recortada como imagem junto com o enfeite: transcrita lendo a página 14",
+"remove": [
+1,
+2
+],
+"subs": [
+[
+"cidadão.\n\nO trabalho braçal",
+"cidadão.\n\n{{fonte:1}}\n\nO trabalho braçal"
+]
+],
+"fontes": [
+"ARISTÓTELES. **Política**. Brasília: UnB, 1985."
+]
+}
+}

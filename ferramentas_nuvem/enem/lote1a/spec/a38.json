@@ -1,0 +1,44 @@
+{
+"P7579-Q161": {
+"motivo": "figura recortada em pedaços com o rótulo x solto: recortada inteira da página 26",
+"remove": [
+1,
+2
+],
+"stmt_re": [
+[
+"\\*x\\*\\n\\n\\{\\{fonte:1\\}\\}",
+"{{imgx:1}}\n\n{{fonte:1}}"
+]
+],
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2015/P7579/img/Q161_manual_1.png"
+]
+}
+},
+"P7587-Q142": {
+"motivo": "imagens 2 a 4 eram pedaços do quadro da questão seguinte, retiradas",
+"remove": [
+2,
+3,
+4
+]
+},
+"P7595-Q152": {
+"motivo": "quadro desmontado (pedaços recortados como imagem e números soltos), transcrito lendo a página 23",
+"remove": [
+1,
+2,
+3,
+4,
+5
+],
+"stmt_re": [
+[
+"(?s)\\*\\*1º\\*\\* \\*\\*\\*set\\*\\*\\*.*?16(?=\\n\\nNessa partida)",
+"| | **1º *set*** | **2º *set*** | **3º *set*** | **4º *set*** | **5º *set*** |\n|---|---|---|---|---|---|\n| Brasil | 25 | 25 | 24 | 25 | 18 |\n| Itália | 16 | 20 | 26 | 27 | 16 |"
+]
+]
+}
+}

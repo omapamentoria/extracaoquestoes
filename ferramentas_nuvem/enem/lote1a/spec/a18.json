@@ -1,0 +1,76 @@
+{
+"P7595-Q109": {
+"motivo": "ê desenhado; imagem 1 era a faixa do cabeçalho da página, com o título do texto, que passa a texto (página 9)",
+"remove": [
+1
+],
+"subs": [
+[
+"*Trinta e tr(cid:114)s regras",
+"**Parestesia não, formigamento**\n\n*Trinta e três regras"
+]
+]
+},
+"P7595-Q123": {
+"motivo": "ê desenhado, transcrito lendo a página 14",
+"subs": [
+[
+"mant(cid:114)m",
+"mantêm"
+]
+]
+},
+"P7595-Q141": {
+"motivo": "sinais ≤ e < e expoentes negativos desenhados, transcritos lendo a página 20",
+"subs": [
+[
+"(cid:100)",
+"≤"
+],
+[
+"(cid:31)",
+"<"
+]
+],
+"alts": {
+"A": "2,6 × 10<sup>−10</sup>",
+"B": "2,6 × 10<sup>−9</sup>"
+}
+},
+"P7595-Q149": {
+"motivo": "π desenhado, transcrito lendo a página 22",
+"subs": [
+[
+"(cid:83)",
+"π"
+]
+]
+},
+"P7595-Q170": {
+"motivo": "raízes das alternativas desenhadas; figura com o rótulo x recortada inteira da página 28",
+"remove": [
+1,
+2,
+3,
+4
+],
+"subs": [
+[
+"*x*\n\nA área",
+"{{imgx:1}}\n\nA área"
+]
+],
+"alts": {
+"A": "\\( 2y\\sqrt{x^{2}+\\frac{y^{2}}{4}} \\)",
+"B": "\\( 2y\\sqrt{x^{2}+\\frac{y^{2}}{2}} \\)",
+"C": "\\( 4y\\sqrt{x^{2}+y^{2}} \\)",
+"D": "\\( 4\\sqrt{x^{2}+\\frac{y^{2}}{4}} \\)",
+"E": "\\( 4\\sqrt{x^{2}+\\frac{y^{2}}{2}} \\)"
+},
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2016/P7595/img/Q170_manual_1.png"
+]
+}
+}
+}

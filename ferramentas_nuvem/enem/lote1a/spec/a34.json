@@ -1,0 +1,110 @@
+{
+"P7617-Q043": {
+"motivo": "carta de jogo (texto da questão, em imagem) não recortada pelo extrator: recortada da página 19",
+"stmt_re": [
+[
+"^\\{\\{fonte:1\\}\\}",
+"{{imgx:1}}\n\n{{fonte:1}}"
+]
+],
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2019/P7617/img/Q043_manual_1.png"
+]
+}
+},
+"P7617-Q044": {
+"motivo": "alternativas cortadas pela metade e 5 imagens vazias (largura negativa) no lugar do resto: transcritas lendo a página 19",
+"remove": [
+1,
+2,
+3,
+4,
+5
+],
+"alts": {
+"A": "ajuda a localizar o enredo num ambiente estático.",
+"B": "auxilia na caracterização física do personagem principal.",
+"C": "acrescenta informações modificadoras às ações dos personagens.",
+"D": "alterna os tempos da narrativa, fazendo progredir as ideias do texto.",
+"E": "está a serviço do projeto poético, auxiliando na distinção dos referentes."
+}
+},
+"P7617-Q079": {
+"motivo": "4 imagens vazias (largura negativa, pedaços da linha entre colunas) retiradas",
+"remove": [
+1,
+2,
+3,
+4
+]
+},
+"P7617-Q077": {
+"motivo": "fotografia não recortada pelo extrator: recortada da página 29",
+"stmt_re": [
+[
+"^Fala-se aqui",
+"{{imgx:1}}\n\nFala-se aqui"
+]
+],
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2019/P7617/img/Q077_manual_1.png"
+]
+}
+},
+"P7609-Q050": {
+"motivo": "fotografias (Figuras 1 e 2) não recortadas pelo extrator: recortadas da página 21",
+"stmt_re": [
+[
+"^\\{\\{fonte:1\\}\\}",
+"{{imgx:1}}\n\n{{fonte:1}}"
+]
+],
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2018/P7609/img/Q050_manual_1.png"
+]
+}
+},
+"P7615-Q175": {
+"motivo": "nuvem de palavras recortada só em parte (palavras soltas no texto): figura recortada inteira da página 29",
+"remove": [
+1
+],
+"stmt_re": [
+[
+"(?s)\\*\\*MÚSICA MANGÁS FÉ\\*\\*.*?\\*\\*HQ\\*\\*",
+"{{imgx:1}}"
+]
+],
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2018/P7615/img/Q175_manual_1.png"
+]
+}
+},
+"P7619-Q158": {
+"motivo": "índice s de Mₛ deslocado, transcrito lendo a página 23",
+"subs": [
+[
+"(M ) de um terremoto que é utilizada\n\ns  \npara descrevê-lo.",
+"(M<sub>s</sub>) de um terremoto que é utilizada para descrevê-lo."
+],
+[
+"fórmula M = 3,30",
+"fórmula M<sub>s</sub> = 3,30"
+],
+[
+"amplitude\n\ns  \nmáxima",
+"amplitude máxima"
+]
+],
+"stmt_re": [
+[
+"(?s)\\| \\*\\*Descrição\\*\\* \\|.*?\\| Extremo \\| M ≥ 10,0 s \\|",
+"| **Descrição** | **Magnitude local (M<sub>s</sub>) (µm ⋅ Hz)** |\n|---|---|\n| Pequeno | 0 ≤ M<sub>s</sub> ≤ 3,9 |\n| Ligeiro | 4,0 ≤ M<sub>s</sub> ≤ 4,9 |\n| Moderado | 5,0 ≤ M<sub>s</sub> ≤ 5,9 |\n| Grande | 6,0 ≤ M<sub>s</sub> ≤ 9,9 |\n| Extremo | M<sub>s</sub> ≥ 10,0 |"
+]
+]
+}
+}

@@ -1,0 +1,1811 @@
+{
+ "_casa": {
+  "P7581-Q078": [
+   2662,
+   "mesma questão (coroa-de-cristo/esquistossomose, gabarito E): texto do banco antigo veio do site com a fonte em outro lugar"
+  ],
+  "P7577-Q070": [
+   2721,
+   "mesma questão (alumínio, cátodo/ânodo; gabarito A): alternativas transcritas em fórmula, o texto do site é diferente"
+  ]
+ },
+ "_area": {
+  "P7577": [
+   [
+    1,
+    45,
+    "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS"
+   ],
+   [
+    46,
+    90,
+    "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS"
+   ]
+  ],
+  "P7579": [
+   [
+    91,
+    135,
+    "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS"
+   ],
+   [
+    136,
+    180,
+    "MATEMÁTICA E SUAS TECNOLOGIAS"
+   ]
+  ],
+  "P7581": [
+   [
+    1,
+    45,
+    "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS"
+   ],
+   [
+    46,
+    90,
+    "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS"
+   ]
+  ],
+  "P7583": [
+   [
+    91,
+    135,
+    "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS"
+   ],
+   [
+    136,
+    180,
+    "MATEMÁTICA E SUAS TECNOLOGIAS"
+   ]
+  ]
+ },
+ "P7577-Q012": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "instalação de sistemas de irrigação."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7577-Q014": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "pendularismo."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7577-Q027": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "as libertações nacionais, ocorridas na segunda metade do século XX."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7577-Q031": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "mercantilização da força de trabalho."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7577-Q037": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "dissociado de revoluções na realidade socioespacial."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7577-Q039": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "minimização do papel do Estado em detrimento das organizações não governamentais."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7577-Q040": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "crescimento econômico e flexibilização dos processos seletivos."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7577-Q042": {
+  "motivo": "fonte do texto recortada como imagem junto com o enfeite: transcrita lendo a página 14; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "cidadão\\.\\\n\\\nO\\ trabalho\\ braçal",
+    "cidadão.\n\n{{fonte:1}}\n\nO trabalho braçal"
+   ]
+  ],
+  "alternativas": {
+   "E": "mecanismo de aperfeiçoamento do trabalho por meio da experiência."
+  },
+  "fontes": [
+   "ARISTÓTELES. **Política**. Brasília: UnB, 1985."
+  ],
+  "remove_imagens": [
+   1,
+   2
+  ]
+ },
+ "P7577-Q044": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "diminuição dos gastos operacionais de transporte, para superação da distância do continente."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7577-Q045": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "implantação de linhas de montagem."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7577-Q046": {
+  "motivo": "λ desenhado, transcrito lendo a página 16; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\(\\(cid:540\\)\\)",
+    "(λ)"
+   ],
+   [
+    "e\\ onda\\ \\(cid:540\\)\\*<sub>A",
+    "e onda λ*<sub>A"
+   ],
+   [
+    "e\\ onda\\ \\(cid:540\\)\\*<sub>B",
+    "e onda λ*<sub>B"
+   ],
+   [
+    "a\\ \\(cid:540\\)\\*<",
+    "a λ*<"
+   ],
+   [
+    "e\\ \\(cid:540\\)\\*<",
+    "e λ*<"
+   ],
+   [
+    "ub>\\*\\ >\\ \\(cid:540\\)\\*<sub>B",
+    "ub>* > λ*<sub>B"
+   ],
+   [
+    "\\(cid:540\\)",
+    "λ"
+   ]
+  ],
+  "alternativas": {
+   "E": "\\(\\frac{6L}{8}\\)"
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7577-Q048": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "5."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7577-Q049": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "3X."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7577-Q051": {
+  "motivo": "seta com Δ da equação desenhada, transcrita lendo a página 17",
+  "statement_sub": [
+   [
+    "\\(cid:39\\)\\ \\ \\\nCu<sub>2</sub>S\\ \\(s\\)\\ \\+\\ O<sub>2</sub>\\ \\(g\\)\\ 2\\ Cu\\ \\(l\\)\\ \\+\\ SO<sub>2</sub>\\ \\(g\\)",
+    "\\( \\mathrm{Cu_2S\\ (s) + O_2\\ (g) \\xrightarrow{\\Delta} 2\\ Cu\\ (l) + SO_2\\ (g)} \\)"
+   ]
+  ]
+ },
+ "P7577-Q061": {
+  "motivo": "índices e setas das equações desenhados/deslocados, transcritos lendo a página 21; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "(?s)\\(SO \\), um importante.*?Sal de cálcio",
+    "(SO<sub>2</sub>), um importante poluente atmosférico. As reações envolvidas no processo são a ativação do calcário, por meio de calcinação, e a fixação do SO<sub>2</sub> com a formação de um sal de cálcio, como ilustrado pelas equações químicas simplificadas.\n\n\\( \\mathrm{CaCO_3 \\xrightarrow{calor} CaO + CO_2} \\)\n\n\\( \\mathrm{CaO + SO_2 + \\frac{1}{2}\\,O_2 \\longrightarrow Sal\\ de\\ cálcio} \\)"
+   ]
+  ],
+  "alternativas": {
+   "E": "CaS<sub>2</sub>O<sub>7</sub>."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7577-Q063": {
+  "motivo": "π desenhado, transcrito lendo a página 21",
+  "alternativas": {
+   "A": "\\(\\frac{4\\pi ^{2}R^{2}}{GT^{2}}\\).",
+   "B": "\\(\\frac{\\pi ^{2}R^{3}}{2GT^{2}}\\).",
+   "C": "\\(\\frac{2\\pi ^{2}R^{3}}{GT^{2}}\\).",
+   "D": "\\(\\frac{4\\pi ^{2}R^{3}}{GT^{2}}\\).",
+   "E": "\\(\\frac{\\pi ^{2}R^{5}}{GT^{2}}\\)."
+  }
+ },
+ "P7577-Q066": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "75%"
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7577-Q067": {
+  "motivo": "μ desenhado, transcrito lendo a página 23",
+  "statement_sub": [
+   [
+    "e\\ \\(cid:80\\)<s",
+    "e μ<s"
+   ],
+   [
+    "\\(cid:80\\)",
+    "μ"
+   ]
+  ]
+ },
+ "P7577-Q070": {
+  "motivo": "setas e chaves das equações desenhadas, transcritas lendo a página 24",
+  "statement_sub": [
+   [
+    "→  \\n2 Al<sub>2</sub>O<sub>3</sub> \\(l\\) \\+ 3 C \\(s\\) 4 Al",
+    "2 Al<sub>2</sub>O<sub>3</sub> (l) + 3 C (s) → 4 Al"
+   ],
+   [
+    "(?s)são:\\n\\n→  \\ncátodo.*$",
+    "são:"
+   ]
+  ],
+  "alternativas": {
+   "A": "\\( \\text{cátodo: } \\mathrm{Al^{3+} + 3\\,e^- \\longrightarrow Al} \\)\n\n\\( \\text{ânodo} \\begin{cases} \\mathrm{2\\,O^{2-} \\longrightarrow O_2 + 4\\,e^-} \\\\ \\mathrm{C + O_2 \\longrightarrow CO_2} \\end{cases} \\)",
+   "B": "\\( \\text{cátodo} \\begin{cases} \\mathrm{2\\,O^{2-} \\longrightarrow O_2 + 4\\,e^-} \\\\ \\mathrm{C + O_2 \\longrightarrow CO_2} \\end{cases} \\)\n\n\\( \\text{ânodo: } \\mathrm{Al^{3+} + 3\\,e^- \\longrightarrow Al} \\)",
+   "C": "\\( \\text{cátodo} \\begin{cases} \\mathrm{Al^{3+} + 3\\,e^- \\longrightarrow Al} \\\\ \\mathrm{2\\,O^{2-} \\longrightarrow O_2 + 4\\,e^-} \\end{cases} \\)\n\n\\( \\text{ânodo: } \\mathrm{C + O_2 \\longrightarrow CO_2} \\)",
+   "D": "\\( \\text{cátodo} \\begin{cases} \\mathrm{Al^{3+} + 3\\,e^- \\longrightarrow Al} \\\\ \\mathrm{C + O_2 \\longrightarrow CO_2} \\end{cases} \\)\n\n\\( \\text{ânodo: } \\mathrm{2\\,O^{2-} \\longrightarrow O_2 + 4\\,e^-} \\)",
+   "E": "\\( \\text{cátodo: } \\mathrm{2\\,O^{2-} \\longrightarrow O_2 + 4\\,e^-} \\)\n\n\\( \\text{ânodo} \\begin{cases} \\mathrm{Al^{3+} + 3\\,e^- \\longrightarrow Al} \\\\ \\mathrm{C + O_2 \\longrightarrow CO_2} \\end{cases} \\)"
+  }
+ },
+ "P7577-Q075": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "necessidade de combate a ervas daninhas."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7577-Q076": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "geração de centelhas na camada de alumínio, que pode levar à queima da camada de papel e de polietileno."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7577-Q077": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "18 m e 75 m"
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7577-Q078": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "os sangramentos observados ocorrem em função da linfocitose, uma vez que os linfócitos são responsáveis pela manutenção da integridade dos vasos sanguíneos."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7577-Q084": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "Maleabilidade."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7577-Q086": {
+  "motivo": "θ e raízes desenhados, transcritos lendo a página 30",
+  "statement_sub": [
+   [
+    "a\\ \\(cid:84\\)<s",
+    "a θ<s"
+   ],
+   [
+    "o\\ de\\ refração\\ \\(cid:84\\)<sub>r</sub>\\ e",
+    "o de refração θ<sub>r</sub> e"
+   ],
+   [
+    "\\(cid:84\\)",
+    "θ"
+   ]
+  ],
+  "alternativas": {
+   "A": "\\(\\sqrt{3}\\)",
+   "B": "\\(\\frac{\\sqrt{3}}{3}\\)",
+   "E": "\\(\\frac{\\sqrt{3}}{2}\\)"
+  }
+ },
+ "P7577-Q088": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "anêmonas."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7577-Q089": {
+  "motivo": "quadro com frações desmontado, transcrito lendo a página 31",
+  "statement_sub": [
+   [
+    "(?s)\\| \\*\\*Pêndulo\\*\\* \\|.*?Quais pêndulos",
+    "| **Pêndulo** | **Massa** | **Comprimento do barbante** |\n|---|---|---|\n| A | *M* | *L* |\n| 1 | *M* | *L* |\n| 2 | \\(\\frac{M}{2}\\) | 2*L* |\n| 3 | 2*M* | \\(\\frac{L}{2}\\) |\n| 4 | \\(\\frac{M}{2}\\) | \\(\\frac{L}{2}\\) |\n| 5 | 2*M* | *L* |\n\nQuais pêndulos"
+   ]
+  ]
+ },
+ "P7579-Q091-ESP": {
+  "motivo": "ü desenhado, transcrito lendo a página 4; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "ling\\(cid:129\\)ísticos",
+    "lingüísticos"
+   ]
+  ],
+  "alternativas": {
+   "E": "tendência à substituição dos meios de comunicação tradicionais por ferramentas digitais."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q092-ING": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q094-ESP": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q094-ING": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:2\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7579-Q095-ING": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "custo dos alimentos."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7579-Q096": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q100": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:2\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7579-Q102": {
+  "motivo": "infográfico em cinco partes recortado em pedaços (títulos e começos como imagem, trechos perdidos): transcrito lendo a página 8; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "\\{\\{img:2\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "\\{\\{img:3\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "\\{\\{img:4\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "\\{\\{img:5\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "(?s)^.*?(?=\\{\\{fonte:1\\}\\})",
+    "**1 Conecte-se**\n\nEstabeleça relações com as pessoas a sua volta. Os relacionamentos são a base da vida diária e investir tempo neles enriquecerá seu dia e garantirá apoio quando precisar. As pesquisas mostram que quem tem menos de três pessoas em sua rede de contatos próxima — entre família e amigos — tem mais chance de desenvolver uma doença mental.\n\n**2 Seja ativo**\n\nCaminhe ou corra, ande de bicicleta, pratique um esporte, dance. Os exercícios fazem as pessoas se sentirem bem — o importante é cada pessoa achar a atividade que lhe dá prazer e que é adequada a seus limites. Estudos de longo prazo sugerem que a prática de uma atividade física previne o declínio das capacidades mentais e protege contra a ansiedade e a depressão.\n\n**3 Preste atenção**\n\nSeja curioso, saboreie os momentos da vida e tome consciência de como se sente. Refletir sobre suas experiências ajuda a descobrir o que realmente importa e garantir que você viva o presente. Uma pesquisa mostrou que pessoas treinadas a prestar atenção em seus sentimentos durante oito a 12 semanas apresentaram melhora no bem-estar por anos.\n\n**4 Continue aprendendo**\n\nTente algo novo, matricule-se em um curso, faça uma nova tarefa no trabalho. Tente consertar algo em casa. Aprenda a tocar um instrumento ou a cozinhar. Escolha um desafio que você vai gostar de perseguir. Os estudos sugerem que o bem-estar está ligado a ter metas — desde que elas sejam estabelecidas pelos próprios indivíduos e tenham a ver com seus valores pessoais.\n\n**5 Doe-se**\n\nAgradeça a alguém, ajude um amigo ou um estranho. Sorria, faça trabalho voluntário, junte-se à associação do bairro. Olhe para fora, além de olhar para dentro de si. Fazer parte de uma comunidade traz benefícios — entre eles relações sociais mais significativas. As pesquisas mostram que as pessoas que têm um interesse maior pelo outro tendem a se considerar mais felizes.\n\n"
+   ]
+  ],
+  "remove_imagens": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "P7579-Q105": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q110": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q116": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q118": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q123": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q125": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q131": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q138": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "janeiro."
+  },
+  "remove_imagens": [
+   1,
+   3
+  ]
+ },
+ "P7579-Q139": {
+  "motivo": "sinal × desenhado, transcrito lendo a página 20; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "\\(cid:3\\)\\(cid:117\\)\\(cid:3\\)",
+    " × "
+   ],
+   [
+    "o\\(cid:117\\)\\ ",
+    "o× "
+   ],
+   [
+    "a\\ \\(cid:117\\)\\ a",
+    "a × a"
+   ],
+   [
+    "\\ cm\\ \\(cid:117\\)\\ 9,0",
+    " cm × 9,0"
+   ],
+   [
+    "cm\\ \\(cid:117\\)\\ 11",
+    "cm × 11"
+   ],
+   [
+    "cm\\ \\(cid:117\\)\\ 15",
+    "cm × 15"
+   ],
+   [
+    "cm\\ \\(cid:117\\)\\ 8,",
+    "cm × 8,"
+   ],
+   [
+    "m\\ \\(cid:117\\)\\ 1",
+    "m × 1"
+   ],
+   [
+    "m\\ \\(cid:117\\)\\ 7",
+    "m × 7"
+   ],
+   [
+    "cm\\ \\(cid:117\\)\\ 9,",
+    "cm × 9,"
+   ],
+   [
+    "m\\ \\(cid:117\\)\\ 8",
+    "m × 8"
+   ],
+   [
+    "\\(cid:117\\)",
+    "×"
+   ]
+  ],
+  "alternativas": {
+   "E": "V."
+  },
+  "remove_imagens": [
+   1,
+   3
+  ]
+ },
+ "P7579-Q143": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "432 : 1"
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q144": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q146": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "E": "E."
+  },
+  "remove_imagens": [
+   1,
+   3
+  ]
+ },
+ "P7579-Q149": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "E": "7 613."
+  },
+  "remove_imagens": [
+   1,
+   6
+  ]
+ },
+ "P7579-Q150": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q151": {
+  "motivo": "π desenhado fora do lugar, transcrito lendo a página 24",
+  "statement_sub": [
+   [
+    "em\\\n\\\n\\(cid:83\\)\\\n\\\numa\\ sessão\\?\\ Use\\ 3,0\\ como\\ aproximação\\ para\\ \\.",
+    "em uma sessão? Use 3,0 como aproximação para π."
+   ]
+  ]
+ },
+ "P7579-Q152": {
+  "motivo": "raiz desenhada, transcrita lendo a página 24; figura (folhas A0, A1, A2) não recortada pelo extrator: recortada da página 24",
+  "statement_sub": [
+   [
+    "1\\ :\\\\\\(\\\\overline\\{\\(cid:165\\)2\\}\\\\\\)\\ \\.",
+    "1 : \\(\\sqrt{2}\\)."
+   ],
+   [
+    "A2\\ \\ \\\nA0\\ \\ \\\nA1",
+    "{{imgx:1}}"
+   ]
+  ],
+  "alternativas": {
+   "E": "336,0 × 475,2"
+  },
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2015/P7579/img/Q152_manual_1.png"
+  ]
+ },
+ "P7579-Q154": {
+  "motivo": "sinal ≤ desenhado, transcrito lendo a página 25; malha com os pontos não recortada pelo extrator (rótulos soltos): recortada da página 25; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "\\(cid:148\\)",
+    "≤"
+   ],
+   [
+    "(?s)\\*y\\*\\n\\n\\*A\\*\\n\\n\\*C\\*\\n\\n\\*B\\*\\n\\n\\*x\\*\\n\\n\\*D\\*\\n\\n",
+    "{{imgx:1}}\n\n"
+   ]
+  ],
+  "alternativas": {
+   "E": "*B*, *C* e *D*."
+  },
+  "remove_imagens": [
+   1,
+   2
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2015/P7579/img/Q154_manual_1.png"
+  ]
+ },
+ "P7579-Q155": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q158": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q161": {
+  "motivo": "figura recortada em pedaços com o rótulo x solto: recortada inteira da página 26; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "\\{\\{img:2\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "\\*x\\*\\n\\n\\{\\{fonte:1\\}\\}",
+    "{{imgx:1}}\n\n{{fonte:1}}"
+   ]
+  ],
+  "remove_imagens": [
+   1,
+   2
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2015/P7579/img/Q161_manual_1.png"
+  ]
+ },
+ "P7579-Q164": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q165": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "*G*."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7579-Q166": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q171": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q172": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "*V*(*x*) = 900 - 30*x* − *2*x²"
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q173": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7579-Q179": {
+  "motivo": "função com π e parênteses grandes e sinal ≤ desenhados, transcritos lendo a página 31; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "varia\\ de\\\n\\\n\\(\\\n\\\n\\)\\ acordo\\ com\\ a\\ função\\ \\*T\\*\\ \\(\\*h\\*\\)\\ =\\ \\*A\\*\\ \\+\\ \\*B\\ sen\\*\\ \\\\\\(\\\\frac\\{\\(cid:83\\)\\}\\{12\\}\\\\\\)\\(\\*h\\*\\ \\-\\(cid:3\\)12\\)\\ ,",
+    "varia de acordo com a função \\( T(h) = A + B\\,\\mathrm{sen}\\left(\\frac{\\pi}{12}(h - 12)\\right) \\),"
+   ],
+   [
+    "\\(0\\ <u><</u>\\ \\*h\\*\\ <\\ 24\\)",
+    "(0 ≤ *h* < 24)"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q002": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "os mecanismos de convergência tecnológica."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q006": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "domínio das línguas universaliza o conhecimento."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q008": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "definição de áreas prioritárias para a exploração econômica."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q010": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "estabilização da fertilidade do solo."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q014": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "segurança dos dados."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q015": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "bravura e loucura."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q020": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "exerciam a solidariedade."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q024": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "Automatização dos processos fabris e aumento dos níveis de desemprego."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q030": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "Expandiu a participação com o fim do critério censitário."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q032": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "conclamar as populações negras de diferentes países a apoiar as lutas por igualdade e independência."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q035": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "estabilidade das estruturas políticas."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q037": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "as ideias têm como fonte específica o sentimento cujos dados são colhidos na empiria."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q041": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "uso de agrotóxicos nas plantações."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7581-Q043": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "dificuldade experimentada pelos portugueses no aprendizado da língua nativa."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q045": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "austeridade fiscal dos países em desenvolvimento."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q046": {
+  "motivo": "λ e números circulados desenhados, transcritos lendo a página 16",
+  "statement_sub": [
+   [
+    "\\(cid:540\\)",
+    "λ"
+   ],
+   [
+    "\\ 1\\ reflete",
+    " ① reflete"
+   ],
+   [
+    "fase\\ 2\\ ,",
+    "fase ②,"
+   ],
+   [
+    "feixe\\ 3\\ incide",
+    "feixe ③ incide"
+   ],
+   [
+    "fase\\ 4\\ \\.",
+    "fase ④."
+   ],
+   [
+    "raios\\ 2\\ e\\ 5\\ ,",
+    "raios ② e ⑤,"
+   ],
+   [
+    "em\\ 3\\ e\\ 4\\ corresponde",
+    "em ③ e ④ corresponde"
+   ]
+  ],
+  "alternativas": {
+   "A": "\\(\\frac{λ}{4}\\).",
+   "B": "\\(\\frac{λ}{2}\\).",
+   "C": "\\(\\frac{3λ}{4}\\) .",
+   "D": "λ.",
+   "E": "2λ."
+  }
+ },
+ "P7581-Q048": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "diminuição da quantidade de hemácias."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q049": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "aumento da quantidade de gases dissolvidos."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q051": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "temperatura no interior da geladeira é inferior ao valor existente antes de ela ser aberta."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q052": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "3,2×10<sup>4</sup> J."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q054": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "um cromossomo da espécie humana."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q057": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "−16,4."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7581-Q058": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "cristalino."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7581-Q059": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "4."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q062": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "3 Cu<sup>2</sup><sup>+</sup> (aq) + 2 Fe (s) → 3 Cu (s) + 2 Fe<sup>3</sup><sup>+</sup> (aq)."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7581-Q064": {
+  "motivo": "última palavra da alternativa E recortada como imagem junto com o enfeite: transcrita lendo a página 22; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "locomoção por membros anteriores e posteriores desenvolvidos."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q068": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "presença de hidroxilas nas cadeias."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q070": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "manutenção do fluxo gênico entre as raças."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q074": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "terem um número distinto de cromossomos."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q075": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "Cinco."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7581-Q081": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "5"
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7581-Q082": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "E"
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7581-Q084": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "reduziu a reabsorção de glicose e aminoácidos."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q085": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "ácido carboxílico e amida."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7581-Q087": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "protocooperação com microrganismos fixadores de nitrogênio."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7581-Q088": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "I."
+  },
+  "remove_imagens": [
+   3
+  ]
+ },
+ "P7583-Q091-ESP": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "valorização da cultura indígena observada entre as comunidades locais."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q092-ING": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q093-ING": {
+  "motivo": "última palavra da alternativa E recortada como imagem junto com o enfeite: transcrita lendo a página 3; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "as duas amigas atribuem sentidos diferentes à palavra *season*."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7583-Q094-ESP": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "facilitar a locomoção de cadeirantes em estacionamentos."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7583-Q094-ING": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q095-ESP": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "E": "carência de pesquisas científicas sobre a influência do espanhol na cultura norte-americana."
+  },
+  "remove_imagens": [
+   1,
+   2
+  ]
+ },
+ "P7583-Q095-ING": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "interferência dos meios de comunicação."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q099": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q105": {
+  "motivo": "últimas palavras da alternativa E recortadas como imagem junto com o enfeite: transcritas lendo a página 9; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "aferir a capacidade intelectual do candidato na resolução de problemas."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q106": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "E": "o reconhecimento e a legitimação da importância da fala como meio de comunicação."
+  },
+  "remove_imagens": [
+   1,
+   2
+  ]
+ },
+ "P7583-Q107": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q111": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q113": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q118": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q120": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q124": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q126": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q131": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q133": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q138": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q139": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "E": "7"
+  },
+  "remove_imagens": [
+   1,
+   3
+  ]
+ },
+ "P7583-Q140": {
+  "motivo": "raiz desenhada, transcrita lendo a página 20",
+  "statement_sub": [
+   [
+    "\\\\\\(\\\\overline\\{\\(cid:165\\)3\\}\\\\\\)\\ \\.",
+    "\\(\\sqrt{3}\\)."
+   ]
+  ]
+ },
+ "P7583-Q143": {
+  "motivo": "Figura 2 (desenho) não recortada pelo extrator, rótulos soltos e linhas partidas: figura recortada da página 21; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "(?s)\\{\\{img:2\\}\\}\\n\\nÁrea para.*?\\*\\*Figura 2\\*\\*\\n\\nDe acordo com as normas desse porto, os contêineres  \\ndeverão ser empilhados de forma a não sobrarem espaços  \\nnem ultrapassarem a área delimitada\\.\\n\\nApós o empilhamento total da carga e atendendo à norma  \\ndo porto, a altura mínima a ser atingida por essa pilha de  \\ncontêineres é",
+    "{{img:2}}\n\n{{imgx:1}}\n\nDe acordo com as normas desse porto, os contêineres deverão ser empilhados de forma a não sobrarem espaços nem ultrapassarem a área delimitada.\n\nApós o empilhamento total da carga e atendendo à norma do porto, a altura mínima a ser atingida por essa pilha de contêineres é"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2015/P7583/img/Q143_manual_1.png"
+  ]
+ },
+ "P7583-Q144": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q148": {
+  "motivo": "Figura 1 (desenho) não recortada pelo extrator e rótulos soltos: Figuras 1 e 2 recortadas juntas da página 23; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "(?s)\\*C D\\*.*?\\*\\*Figura 1\\*\\*\\n\\n",
+    "{{imgx:1}}\n\n"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2015/P7583/img/Q148_manual_1.png"
+  ]
+ },
+ "P7583-Q149": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q151": {
+  "motivo": "π desenhado, transcrito lendo a página 24; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "8π.",
+   "B": "12π.",
+   "C": "16π.",
+   "D": "32π.",
+   "E": "64π."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q157": {
+  "motivo": "sinais ≤ e < desenhados, transcritos lendo a página 25; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "A": "R$ 0,50 ≤ *p* < R$ 1,50",
+   "B": "R$ 1,50 ≤ *p* < R$ 2,50",
+   "C": "R$ 2,50 ≤ *p* < R$ 3,50",
+   "D": "R$ 3,50 ≤ *p* < R$ 4,50",
+   "E": "R$ 4,50 ≤ *p* < R$ 5,50"
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q158": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q159": {
+  "motivo": "sinal ≥ e expoentes desenhados, transcritos lendo a página 25",
+  "statement_sub": [
+   [
+    "\\*t\\*\\ \\(cid:116\\)1\\?",
+    "*t* ≥ 1?"
+   ]
+  ],
+  "alternativas": {
+   "A": "\\( P(t) = 0{,}5 \\cdot t^{-1} + 8\\,000 \\)",
+   "B": "\\( P(t) = 50 \\cdot t^{-1} + 8\\,000 \\)",
+   "C": "\\( P(t) = 4\\,000 \\cdot t^{-1} + 8\\,000 \\)",
+   "D": "\\( P(t) = 8\\,000 \\cdot (0{,}5)^{t-1} \\)",
+   "E": "\\( P(t) = 8\\,000 \\cdot (1{,}5)^{t-1} \\)"
+  }
+ },
+ "P7583-Q160": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q163": {
+  "motivo": "π desenhado, transcrito lendo a página 26; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\(cid:83\\)",
+    "π"
+   ]
+  ],
+  "alternativas": {
+   "E": "8,0"
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q164": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "octógono."
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7583-Q165": {
+  "motivo": "fórmulas das alternativas desenhadas (raiz e parênteses grandes), transcritas lendo a página 27; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "\\s*\\(\\s*\\)\\s*\\(\\s*\\)\\s*$",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "\\( \\log\\left(\\frac{n+\\sqrt{n^{2}+4}}{2}\\right) - \\log\\left(\\frac{n-\\sqrt{n^{2}+4}}{2}\\right) \\)",
+   "B": "\\( \\log\\left(1+\\frac{n}{2}\\right) - \\log\\left(1-\\frac{n}{2}\\right) \\)",
+   "C": "\\( \\log\\left(1+\\frac{n}{2}\\right) + \\log\\left(1-\\frac{n}{2}\\right) \\)",
+   "D": "\\( \\log\\left(\\frac{n+\\sqrt{n^{2}+4}}{2}\\right) \\)",
+   "E": "\\( 2\\log\\left(\\frac{n+\\sqrt{n^{2}+4}}{2}\\right) \\)"
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q166": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q167": {
+  "motivo": "π desenhado, transcrito lendo a página 28; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\(cid:83\\)",
+    "π"
+   ]
+  ],
+  "alternativas": {
+   "E": "324,0."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q170": {
+  "motivo": "sinal × desenhado, transcrito lendo a página 29; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "B": "\\(\\frac{9!}{7!\\,\\times\\,2!}\\)",
+   "E": "\\(\\frac{5!}{4!}\\) × \\(\\frac{4!}{3!}\\)"
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7583-Q171": {
+  "motivo": "π desenhado, transcrito lendo a página 29; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "\\(cid:83\\)",
+    "π"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q173": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q174": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "E": "16 000."
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7583-Q176": {
+  "motivo": "função com π e parênteses grandes desenhados, transcrita lendo a página 30",
+  "statement_sub": [
+   [
+    "sazonal\\\n\\\n\\(\\\n\\\n\\)\\ pode\\ ser\\ descrito\\ pela\\ função\\ \\*P\\*\\(\\*x\\*\\)\\ =\\ 8\\ \\+\\ 5\\*cos\\*\\ \\\\\\(\\\\frac\\{\\(cid:83\\)x\\\\,\\-\\(cid:3\\)\\(cid:83\\)\\}\\{6\\}\\\\\\)\\ ,",
+    "sazonal pode ser descrito pela função \\( P(x) = 8 + 5\\cos\\left(\\frac{\\pi x - \\pi}{6}\\right) \\),"
+   ]
+  ]
+ },
+ "P7583-Q178": {
+  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:2\\}\\}\\\n\\\n",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   2
+  ]
+ }
+}

@@ -1,0 +1,60 @@
+{
+"P7611-Q125": {
+"motivo": "símbolo ⦵ do potencial-padrão desenhado, transcrito lendo a página 12",
+"subs": [
+[
+"*E* (Fe<sup>2</sup><sup>+</sup>|Fe)",
+"*E*<sup>⦵</sup>(Fe<sup>2+</sup>|Fe)"
+],
+[
+"*E* (H<sup>+</sup>|H<sub>2</sub>)",
+"*E*<sup>⦵</sup>(H<sup>+</sup>|H<sub>2</sub>)"
+],
+[
+"*E* (Cu<sup>2</sup><sup>+</sup>|Cu)",
+"*E*<sup>⦵</sup>(Cu<sup>2+</sup>|Cu)"
+]
+]
+},
+"P7611-Q136": {
+"motivo": "sinal < desenhado, transcrito lendo a página 16",
+"subs": [
+[
+"(cid:31)",
+"<"
+]
+]
+},
+"P7611-Q165": {
+"motivo": "fórmula com expoente e parênteses desenhada, transcrita lendo a página 25",
+"stmt_re": [
+[
+"pela fórmula  \\n\\*n\\*\\n\\n\\*V\\* = \\*P\\* ⋅ 1\\+ \\*i\\*",
+"pela fórmula\n\n\\( V = P \\cdot (1+i)^{n} \\)"
+]
+],
+"subs": [
+[
+"In \\(\\frac{4}{3}\\)",
+"ln \\(\\left(\\frac{4}{3}\\right)\\)"
+],
+[
+"In (1,0132)",
+"ln (1,0132)"
+],
+[
+"30<u><sup>a</sup></u>",
+"30<sup>a</sup>"
+]
+]
+},
+"P7615-Q110": {
+"motivo": "seta da equação nuclear desenhada fora do lugar, transcrita lendo a página 8",
+"subs": [
+[
+"→\n\n<sup>230</sup><sub>90</sub>Th (cid:3)<sup>226</sup>",
+"<sup>230</sup><sub>90</sub>Th → <sup>226</sup>"
+]
+]
+}
+}

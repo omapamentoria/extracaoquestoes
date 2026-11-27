@@ -1,0 +1,69 @@
+{
+"P7579-Q139": {
+"motivo": "sinal × desenhado, transcrito lendo a página 20",
+"subs": [
+[
+"(cid:3)(cid:117)(cid:3)",
+" × "
+],
+[
+"(cid:117)",
+"×"
+]
+]
+},
+"P7579-Q151": {
+"motivo": "π desenhado fora do lugar, transcrito lendo a página 24",
+"subs": [
+[
+"em\n\n(cid:83)\n\numa sessão? Use 3,0 como aproximação para .",
+"em uma sessão? Use 3,0 como aproximação para π."
+]
+]
+},
+"P7579-Q152": {
+"motivo": "raiz desenhada, transcrita lendo a página 24; figura (folhas A0, A1, A2) não recortada pelo extrator: recortada da página 24",
+"subs": [
+[
+"1 :\\(\\overline{(cid:165)2}\\) .",
+"1 : \\(\\sqrt{2}\\)."
+],
+[
+"×(cid:3) ",
+"× "
+],
+[
+"A2  \nA0  \nA1",
+"{{imgx:1}}"
+]
+],
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2015/P7579/img/Q152_manual_1.png"
+]
+}
+},
+"P7579-Q154": {
+"motivo": "sinal ≤ desenhado, transcrito lendo a página 25; malha com os pontos não recortada pelo extrator (rótulos soltos): recortada da página 25",
+"subs": [
+[
+"(cid:148)",
+"≤"
+]
+],
+"remove": [
+1
+],
+"stmt_re": [
+[
+"(?s)\\*y\\*\\n\\n\\*A\\*\\n\\n\\*C\\*\\n\\n\\*B\\*\\n\\n\\*x\\*\\n\\n\\*D\\*\\n\\n",
+"{{imgx:1}}\n\n"
+]
+],
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2015/P7579/img/Q154_manual_1.png"
+]
+}
+}
+}

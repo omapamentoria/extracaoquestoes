@@ -1,0 +1,53 @@
+{
+"P7595-Q154": {
+"motivo": "raiz desenhada, transcrita lendo a página 23",
+"alts": {
+"B": "*R* = *r*\\(\\sqrt{2}\\)"
+}
+},
+"P7595-Q161": {
+"motivo": "raiz desenhada, transcrita lendo a página 26",
+"subs": [
+[
+"\\(\\overline{(cid:151)\\,5}\\)",
+"\\(\\sqrt{5}\\)"
+]
+]
+},
+"P7595-Q162": {
+"motivo": "π desenhado, transcrito lendo a página 26",
+"subs": [
+[
+"(cid:83)",
+"π"
+]
+]
+},
+"P7595-Q164": {
+"motivo": "ρ desenhado e rótulos do gráfico soltos no texto: gráfico recortado inteiro da página 27",
+"remove": [
+1
+],
+"subs": [
+[
+"((cid:85))",
+"(ρ)"
+],
+[
+"(cid:85)(cid:3)= \\(\\frac{m}{v}\\)",
+"\\( \\rho = \\frac{m}{v} \\)"
+]
+],
+"stmt_re": [
+[
+"(?s)\\*\\*B A\\*\\*.*?\\(cm<sup>3</sup>\\)",
+"{{imgx:1}}"
+]
+],
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2016/P7595/img/Q164_manual_1.png"
+]
+}
+}
+}

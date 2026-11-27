@@ -1,0 +1,99 @@
+{
+"P7607-Q113": {
+"motivo": "reações do quadro em fonte sem tradução e índices fora do lugar, transcritas lendo a página 9",
+"stmt_re": [
+[
+"(?s)\\| \\*\\*Combustível\\*\\* \\|.*?4 10 2 2 2 \\|",
+"| **Combustível** | **Massa molar (g/mol)** | **Reação de combustão (não balanceada)** |\n|---|---|---|\n| Metano | 16 | CH<sub>4</sub> (g) + O<sub>2</sub> (g) → CO<sub>2</sub> (g) + H<sub>2</sub>O (g) |\n| Acetileno | 26 | C<sub>2</sub>H<sub>2</sub> (g) + O<sub>2</sub> (g) → CO<sub>2</sub> (g) + H<sub>2</sub>O (g) |\n| Etano | 30 | C<sub>2</sub>H<sub>6</sub> (g) + O<sub>2</sub> (g) → CO<sub>2</sub> (g) + H<sub>2</sub>O (g) |\n| Propano | 44 | C<sub>3</sub>H<sub>8</sub> (g) + O<sub>2</sub> (g) → CO<sub>2</sub> (g) + H<sub>2</sub>O (g) |\n| Butano | 58 | C<sub>4</sub>H<sub>10</sub> (g) + O<sub>2</sub> (g) → CO<sub>2</sub> (g) + H<sub>2</sub>O (g) |"
+]
+]
+},
+"P7607-Q159": {
+"motivo": "quadro desenhado (parte como imagem, parte solta no texto) e símbolo f desenhado, transcritos lendo a página 23",
+"remove": [
+2
+],
+"subs": [
+[
+"(cid:103)",
+"*f*"
+]
+],
+"stmt_re": [
+[
+"(?s)Registrado \\(pelos aparelhos\\), mas não.*?no subsolo\\.",
+"| **Magnitude (Grau)** | **Efeitos do terremoto segundo a escala Richter** |\n|---|---|\n| M ≤ 3,5 | Registrado (pelos aparelhos), mas não perceptível pelas pessoas. |\n| 3,5 < M ≤ 5,4 | Percebido, com pequenos tremores notados pelas pessoas. |\n| 5,4 < M ≤ 6,0 | Destrutivo, com consequências significativas em edificações pouco estruturadas. |\n| 6,0 < M ≤ 6,9 | Destrutivo, com consequências significativas para todo tipo de edificação. |\n| 6,9 < M ≤ 7,9 | Destrutivo, retiram os edifícios de suas fundações, causam fendas no solo e danificam as tubulações contidas no subsolo. |"
+]
+]
+},
+"P7607-Q092": {
+"motivo": "setas das equações desenhadas fora do lugar, transcritas lendo a página 2",
+"stmt_re": [
+[
+"(?s)→\\(cid:3\\)\\n\\n\\*\\*Equação 1:\\*\\* 2 SO<sub>2</sub> \\+ O<sub>2</sub> 2 SO<sub>3</sub>\\n\\n→\\(cid:3\\)\\n\\n\\*\\*Equação 2:\\*\\* SO<sub>3</sub> \\+ H<sub>2</sub>O H<sub>2</sub>SO<sub>4</sub>",
+"**Equação 1:** 2 SO<sub>2</sub> + O<sub>2</sub> → 2 SO<sub>3</sub>\n\n**Equação 2:** SO<sub>3</sub> + H<sub>2</sub>O → H<sub>2</sub>SO<sub>4</sub>"
+]
+]
+},
+"P7607-Q095": {
+"motivo": "α e setas das equações desenhados, transcritos lendo a página 3",
+"subs": [
+[
+"(cid:302)",
+"α"
+]
+],
+"stmt_re": [
+[
+"(?s)\\*\\*Entre 200 °C e 700 °C:\\*\\*.*?2 C \\+ O<sub>2</sub> 2 CO",
+"**Entre 200 °C e 700 °C:**\n\n3 Fe<sub>2</sub>O<sub>3</sub> + CO → 2 Fe<sub>3</sub>O<sub>4</sub> + CO<sub>2</sub>\n\nCaCO<sub>3</sub> → CaO + CO<sub>2</sub>\n\nFe<sub>3</sub>O<sub>4</sub> + CO → 3 FeO + CO<sub>2</sub>\n\n**Entre 700 °C e 1 200 °C:**\n\nC + CO<sub>2</sub> → 2 CO\n\nFeO + CO → Fe + CO<sub>2</sub>\n\n**Entre 1 200 °C e 2 000 °C:**\n\nFerro impuro se funde\n\nFormação de escória fundida (CaSiO<sub>3</sub>)\n\n2 C + O<sub>2</sub> → 2 CO"
+]
+]
+},
+"P7607-Q103": {
+"motivo": "ö desenhado no nome do autor da fonte, transcrito lendo a página 5",
+"subs": [
+[
+"WINDM(cid:103)LLER",
+"WINDMÖLLER"
+]
+]
+},
+"P7607-Q127": {
+"motivo": "ρ desenhado, transcrito lendo a página 13",
+"subs": [
+[
+"*(cid:545)*",
+"*ρ*"
+]
+]
+},
+"P7607-Q143": {
+"motivo": "sinais > e < desenhados e linhas partidas, transcritos lendo a página 19",
+"subs": [
+[
+"(cid:33)",
+">"
+],
+[
+"(cid:31)",
+"<"
+]
+],
+"stmt_re": [
+[
+"(?s)^.*expressa por$",
+"Um motorista de um carro *flex* (bicombustível) calcula que, abastecido com 45 litros de gasolina ou com 60 litros de etanol, o carro percorre a mesma distância.\n\nChamando de *x* o valor do litro de gasolina e de *y* o valor do litro de etanol, a situação em que abastecer com gasolina é economicamente mais vantajosa do que abastecer com etanol é expressa por"
+]
+]
+},
+"P7609-Q037": {
+"motivo": "í desenhado, transcrito lendo a página 16",
+"subs": [
+[
+"l(cid:116)ngua",
+"língua"
+]
+]
+}
+}

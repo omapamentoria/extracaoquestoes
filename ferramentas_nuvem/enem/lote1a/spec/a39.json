@@ -1,0 +1,18 @@
+{
+"P7579-Q102": {
+"motivo": "infográfico em cinco partes recortado em pedaços (títulos e começos como imagem, trechos perdidos): transcrito lendo a página 8",
+"remove": [
+1,
+2,
+3,
+4,
+5
+],
+"stmt_re": [
+[
+"(?s)^.*?(?=\\{\\{fonte:1\\}\\})",
+"**1 Conecte-se**\n\nEstabeleça relações com as pessoas a sua volta. Os relacionamentos são a base da vida diária e investir tempo neles enriquecerá seu dia e garantirá apoio quando precisar. As pesquisas mostram que quem tem menos de três pessoas em sua rede de contatos próxima — entre família e amigos — tem mais chance de desenvolver uma doença mental.\n\n**2 Seja ativo**\n\nCaminhe ou corra, ande de bicicleta, pratique um esporte, dance. Os exercícios fazem as pessoas se sentirem bem — o importante é cada pessoa achar a atividade que lhe dá prazer e que é adequada a seus limites. Estudos de longo prazo sugerem que a prática de uma atividade física previne o declínio das capacidades mentais e protege contra a ansiedade e a depressão.\n\n**3 Preste atenção**\n\nSeja curioso, saboreie os momentos da vida e tome consciência de como se sente. Refletir sobre suas experiências ajuda a descobrir o que realmente importa e garantir que você viva o presente. Uma pesquisa mostrou que pessoas treinadas a prestar atenção em seus sentimentos durante oito a 12 semanas apresentaram melhora no bem-estar por anos.\n\n**4 Continue aprendendo**\n\nTente algo novo, matricule-se em um curso, faça uma nova tarefa no trabalho. Tente consertar algo em casa. Aprenda a tocar um instrumento ou a cozinhar. Escolha um desafio que você vai gostar de perseguir. Os estudos sugerem que o bem-estar está ligado a ter metas — desde que elas sejam estabelecidas pelos próprios indivíduos e tenham a ver com seus valores pessoais.\n\n**5 Doe-se**\n\nAgradeça a alguém, ajude um amigo ou um estranho. Sorria, faça trabalho voluntário, junte-se à associação do bairro. Olhe para fora, além de olhar para dentro de si. Fazer parte de uma comunidade traz benefícios — entre eles relações sociais mais significativas. As pesquisas mostram que as pessoas que têm um interesse maior pelo outro tendem a se considerar mais felizes.\n\n"
+]
+]
+}
+}

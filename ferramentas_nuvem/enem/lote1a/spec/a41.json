@@ -1,0 +1,19 @@
+{
+"P7593-Q085": {
+"motivo": "figura das bandas de DNA recortada só em parte (rótulos soltos no texto): recortada inteira da página 30",
+"remove": [
+1
+],
+"stmt_re": [
+[
+"(?s)\\*\\*Garoto Mãe 1º 2º\\*\\*.*?\\*\\*5º\\*\\*",
+"{{imgx:1}}"
+]
+],
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2016/P7593/img/Q085_manual_1.png"
+]
+}
+}
+}

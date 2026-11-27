@@ -13,7 +13,7 @@ from catalogo import CAT
 corr={}
 for _c in CORR.split(","):
     for k,v in json.load(open(_c)).items():
-        if k in ("_area","_casa","_reextrai"): corr.setdefault(k,{}).update(v)
+        if k in ("_area","_casa","_reextrai","_edicao_banco"): corr.setdefault(k,{}).update(v)
         else: corr[k]=v
 PARTES=sorted(glob.glob(DEST+"/final/partes/banco_parte_*.json"))
 dados={f:json.load(open(f)) for f in PARTES}
@@ -89,6 +89,8 @@ for ij in INTS:
         f,q=idx[x["id_banco"]]; r=x["registro"]
         q.update(campos(r)); rel["atualizadas"]+=1; mexidos.add(f)
         if r["area_prova"] and q.get("area_prova")!=r["area_prova"]: rel["area_prova corrigida"]+=1; q["area_prova"]=r["area_prova"]
+        if q["id"]>=10000 and (q.get("edicao") or "")!=c["edicao"] and (q.get("edicao") or "") in corr.get("_edicao_banco",{}).get(d["pid"],[]):
+            q["edicao"]=c["edicao"]; rel["edição corrigida (estava trocada no banco)"]+=1
         n_esp=esp(q); dv=defeitos(q); limpa(r); dn=defeitos(r,len(r["imagens_src"]))
         # prova marcada em correcoes "_reextrai" (ex.: enfeite do cabecalho publicado como figura): a publicada com imagem
         # a mais que a extracao nova passa a ter o texto e as imagens da extracao nova

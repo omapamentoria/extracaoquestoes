@@ -1,0 +1,30 @@
+{
+"P7609-Q051": {
+"motivo": "primeira palavra das alternativas recortada como imagem (cortada): alternativas transcritas lendo a página 21",
+"remove": [
+1,
+2,
+3,
+4,
+5
+],
+"alts": {
+"A": "reiterar a ortodoxia religiosa contra os heréticos.",
+"B": "sustentar racionalmente doutrina alicerçada na fé.",
+"C": "explicar as virtudes teologais pela demonstração.",
+"D": "flexibilizar a interpretação oficial dos textos sagrados.",
+"E": "justificar pragmaticamente crença livre de dogmas."
+}
+},
+"P7609-Q052": {
+"motivo": "primeira palavra das alternativas A e B recortada como imagem (cortada): transcritas lendo a página 21",
+"remove": [
+1,
+2
+],
+"alts": {
+"A": "predisposição ao conhecimento.",
+"B": "submissão ao transcendente."
+}
+}
+}

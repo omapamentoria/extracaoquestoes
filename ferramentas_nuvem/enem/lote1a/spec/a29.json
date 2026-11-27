@@ -1,0 +1,39 @@
+{
+"P7615-Q098": {
+"motivo": "espaços desenhados, transcritos lendo a página 4",
+"subs": [
+[
+"(cid:3)",
+" "
+]
+]
+},
+"P7615-Q130": {
+"motivo": "ligações (traços simples, duplos e triplos) desenhadas, transcritas lendo a página 14",
+"alts": {
+"A": "C—C",
+"B": "C—N",
+"C": "C=C",
+"D": "C=N",
+"E": "C≡N"
+}
+},
+"P7615-Q159": {
+"motivo": "π desenhado, transcrito lendo a página 24",
+"subs": [
+[
+"3(cid:83)(cid:3)metros",
+"3π metros"
+]
+]
+},
+"P7617-Q064": {
+"motivo": "alternativa A desenhada (sem texto no PDF), transcrita lendo a página 25",
+"remove": [
+1
+],
+"alts": {
+"A": "Falsificação de teses."
+}
+}
+}

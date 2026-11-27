@@ -1,0 +1,79 @@
+{
+"P7611-Q099": {
+"motivo": "π desenhado, transcrito lendo a página 4",
+"subs": [
+[
+"(cid:83)(cid:3)",
+"π "
+]
+]
+},
+"P7611-Q100": {
+"motivo": "sinais de menos e números do quadro em fonte sem tradução, transcritos lendo a página 4",
+"subs": [
+[
+"(g mL(cid:237)1)",
+"(g mL<sup>−1</sup>)"
+],
+[
+"(kcal g(cid:237)1)",
+"(kcal g<sup>−1</sup>)"
+],
+[
+"(cid:237)(cid:25)",
+"−6"
+],
+[
+"(cid:19)(cid:15)(cid:26)",
+"0,7"
+],
+[
+"(cid:237)(cid:20)(cid:19)",
+"−10"
+]
+]
+},
+"P7611-Q109": {
+"motivo": "número do quadro em fonte sem tradução (código deslocado), transcrito lendo a página 6",
+"cesar": true
+},
+"P7611-Q113": {
+"motivo": "ν e setas desenhados, reações e rótulos da figura desmontados: figura recortada inteira e reações transcritas lendo a página 8",
+"remove": [
+2
+],
+"subs": [
+[
+"(*h(cid:542)*)",
+"(*hν*)"
+]
+],
+"stmt_re": [
+[
+"(?s)\\*\\*Eletrodo de TiO<sub>2</sub>\\*\\*.*?\\{\\{fonte:2\\}\\}",
+"{{imgx:1}}\n\nTiO<sub>2</sub>|S + *hν* → TiO<sub>2</sub>|S*   (1)\n\nTiO<sub>2</sub>|S* → TiO<sub>2</sub>|S<sup>+</sup> + e<sup>−</sup>   (2)\n\nTiO<sub>2</sub>|S<sup>+</sup> + \\(\\frac{3}{2}\\) I<sup>−</sup> → TiO<sub>2</sub>|S + \\(\\frac{1}{2}\\) I<sub>3</sub><sup>−</sup>   (3)\n\n\\(\\frac{1}{2}\\) I<sub>3</sub><sup>−</sup> + e<sup>−</sup> → \\(\\frac{3}{2}\\) I<sup>−</sup>   (4)\n\n{{fonte:1}}"
+]
+],
+"fontes": [
+"LONGO, C.; DE PAOLI, M.-A. Dye-Sensitized Solar Cells: A Successful Combination of Materials. **Journal of the Brazilian Chemical Society**, n. 6, 2003 (adaptado)."
+],
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2018/P7611/img/Q113_manual_1.png"
+]
+}
+},
+"P7611-Q131": {
+"motivo": "sinais > e < desenhados, transcritos lendo a página 14",
+"subs": [
+[
+"(cid:33)",
+">"
+],
+[
+"(cid:31)",
+"<"
+]
+]
+}
+}
