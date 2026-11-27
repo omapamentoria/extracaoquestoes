@@ -465,6 +465,13 @@ catálogo com códigos novos a partir de `P4238` (`origem: DRIVE2`, `caminho: DR
 ids, parte, códigos de PDF e ramos próprios. Manual: `docs/enem/SESSAO_ANO.md`. A sessão mestre (conta pessoal) acompanha
 e consolida o HANDOFF. Catálogo do Drive novo por ano em `_banco/catalogo_drive2/<ano>.json`.
 
+- **2020 a 2024 completos** (PR #27, merge em 27/11 com aprovação do Matheus; junta os PRs #22–#26 das sessões, que
+  foram fechados). 18 provas inteiras, gabarito = oficial da cor em todas. 410 questões novas (partes 29–33), sem
+  comentário. Gabarito corrigido: 5601 (C → B). Relatórios por ano em `docs/enem/<ano>.md`. Como juntar ramos que
+  mexem nas mesmas partes de uma linha só: `ferramentas_nuvem/enem/junta_json.py` (merge de 3 vias por id).
+- Pendentes: PPL 2021 e 2022 (só no Drive antigo); espanhol do 2020 digital; simulados marcados como prova oficial.
+- **Próxima fase aprovada:** a "fábrica" para o Drive inteiro, em `docs/enem/PROXIMA_FASE.md`.
+
 **Pendências desta frente:**
 - As questões novas estão sem comentário ("Comentário em produção"): falta o lote do Gemini.
 - A plataforma ainda não usa os campos `prova_completa*`: falta o prompt do Lovable para "fazer a prova inteira".
