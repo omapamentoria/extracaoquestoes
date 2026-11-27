@@ -1,0 +1,2714 @@
+{
+ "arquivos": 3928,
+ "ja_catalogados_enem": 42,
+ "codigos": "P6000-P9885",
+ "dica": "para recomeçar a numeração, apague os drive2_*.json antes",
+ "por_papel": {
+  "redacao": 159,
+  "prova": 2452,
+  "gabarito": 1127,
+  "padrao_resposta": 178,
+  "erro": 1,
+  "auxiliar": 2,
+  "resolucao": 2,
+  "nao_pdf": 7
+ },
+ "repetidos": 38,
+ "ja_no_drive_antigo": 429,
+ "instituicoes": {
+  "UEM": {
+   "arquivos": 207,
+   "provas": 177,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 116,
+   "gabarito_confere": 0,
+   "verde": 0,
+   "amarelo": 0,
+   "vermelho": 173,
+   "discursiva": 4,
+   "motivos": [
+    [
+     "gabarito sem leitura automática (formato novo)",
+     115
+    ],
+    [
+     "sem gabarito ligado",
+     57
+    ],
+    [
+     "símbolos desenhados/fonte sem mapa",
+     7
+    ],
+    [
+     "prova discursiva (fica fora das três cores)",
+     4
+    ],
+    [
+     "dois gabaritos possíveis",
+     2
+    ],
+    [
+     "questões não numeradas/encontradas",
+     1
+    ]
+   ]
+  },
+  "PUC-CAMP": {
+   "arquivos": 182,
+   "provas": 116,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 71,
+   "gabarito_confere": 50,
+   "verde": 40,
+   "amarelo": 16,
+   "vermelho": 60,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     45
+    ],
+    [
+     "gabarito sem leitura automática (formato novo)",
+     11
+    ],
+    [
+     "gabarito escaneado",
+     8
+    ],
+    [
+     "dois gabaritos possíveis",
+     7
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     6
+    ],
+    [
+     "escaneado (sem texto)",
+     4
+    ],
+    [
+     "3 páginas sem texto",
+     3
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     3
+    ]
+   ]
+  },
+  "UECE": {
+   "arquivos": 181,
+   "provas": 136,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 102,
+   "gabarito_confere": 93,
+   "verde": 43,
+   "amarelo": 50,
+   "vermelho": 43,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     48
+    ],
+    [
+     "sem gabarito ligado",
+     34
+    ],
+    [
+     "dois gabaritos possíveis",
+     30
+    ],
+    [
+     "gabarito sem leitura automática (formato novo)",
+     9
+    ]
+   ]
+  },
+  "UFRGS": {
+   "arquivos": 174,
+   "provas": 154,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 121,
+   "gabarito_confere": 17,
+   "verde": 14,
+   "amarelo": 45,
+   "vermelho": 95,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "escaneado (sem texto)",
+     55
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     42
+    ],
+    [
+     "sem gabarito ligado",
+     33
+    ],
+    [
+     "questões não numeradas/encontradas",
+     6
+    ],
+    [
+     "símbolos desenhados/fonte sem mapa",
+     3
+    ],
+    [
+     "número de questões não bate com o gabarito",
+     3
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     2
+    ],
+    [
+     "gabarito escaneado",
+     2
+    ]
+   ]
+  },
+  "PUC-RS": {
+   "arquivos": 170,
+   "provas": 152,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 117,
+   "gabarito_confere": 8,
+   "verde": 7,
+   "amarelo": 101,
+   "vermelho": 44,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     100
+    ],
+    [
+     "sem gabarito ligado",
+     35
+    ],
+    [
+     "símbolos desenhados/fonte sem mapa",
+     9
+    ],
+    [
+     "gabarito sem leitura automática (formato novo)",
+     6
+    ],
+    [
+     "gabarito escaneado",
+     6
+    ],
+    [
+     "número de questões não bate com o gabarito",
+     3
+    ]
+   ]
+  },
+  "ENEM": {
+   "arquivos": 162,
+   "provas": 57,
+   "reserva_outra_cor": 24,
+   "ja_no_drive_antigo": 28,
+   "com_gabarito": 57,
+   "gabarito_confere": 57,
+   "verde": 56,
+   "amarelo": 1,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito escaneado",
+     1
+    ]
+   ]
+  },
+  "UEL": {
+   "arquivos": 150,
+   "provas": 108,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 27,
+   "com_gabarito": 34,
+   "gabarito_confere": 24,
+   "verde": 13,
+   "amarelo": 11,
+   "vermelho": 55,
+   "discursiva": 29,
+   "motivos": [
+    [
+     "questões não numeradas/encontradas",
+     50
+    ],
+    [
+     "sem gabarito ligado",
+     45
+    ],
+    [
+     "prova discursiva (fica fora das três cores)",
+     29
+    ],
+    [
+     "gabarito escaneado",
+     10
+    ],
+    [
+     "símbolos desenhados/fonte sem mapa",
+     1
+    ]
+   ]
+  },
+  "UFU": {
+   "arquivos": 149,
+   "provas": 79,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 29,
+   "com_gabarito": 53,
+   "gabarito_confere": 34,
+   "verde": 25,
+   "amarelo": 16,
+   "vermelho": 34,
+   "discursiva": 4,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     22
+    ],
+    [
+     "questões não numeradas/encontradas",
+     15
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     8
+    ],
+    [
+     "gabarito sem leitura automática (formato novo)",
+     8
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     7
+    ],
+    [
+     "prova discursiva (fica fora das três cores)",
+     4
+    ],
+    [
+     "com padrão de resposta",
+     2
+    ],
+    [
+     "2 páginas sem texto",
+     1
+    ]
+   ]
+  },
+  "UFPR (sem gabarito)": {
+   "arquivos": 144,
+   "provas": 126,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 77,
+   "gabarito_confere": 27,
+   "verde": 12,
+   "amarelo": 63,
+   "vermelho": 51,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     47
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     46
+    ],
+    [
+     "símbolos desenhados/fonte sem mapa",
+     19
+    ],
+    [
+     "dois gabaritos possíveis",
+     15
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     9
+    ],
+    [
+     "1 páginas sem texto",
+     9
+    ],
+    [
+     "escaneado (sem texto)",
+     3
+    ],
+    [
+     "número de questões não bate com o gabarito",
+     2
+    ],
+    [
+     "gabarito dentro da própria prova (conferir à parte)",
+     2
+    ],
+    [
+     "2 páginas sem texto",
+     1
+    ]
+   ]
+  },
+  "UFSC": {
+   "arquivos": 121,
+   "provas": 64,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 61,
+   "gabarito_confere": 2,
+   "verde": 2,
+   "amarelo": 1,
+   "vermelho": 61,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito sem leitura automática (formato novo)",
+     55
+    ],
+    [
+     "dois gabaritos possíveis",
+     19
+    ],
+    [
+     "símbolos desenhados/fonte sem mapa",
+     13
+    ],
+    [
+     "gabarito escaneado",
+     4
+    ],
+    [
+     "sem gabarito ligado",
+     3
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     1
+    ],
+    [
+     "questões não numeradas/encontradas",
+     1
+    ],
+    [
+     "15 páginas sem texto",
+     1
+    ],
+    [
+     "número de questões não bate com o gabarito",
+     1
+    ],
+    [
+     "9 páginas sem texto",
+     1
+    ],
+    [
+     "escaneado (sem texto)",
+     1
+    ]
+   ]
+  },
+  "UERJ": {
+   "arquivos": 104,
+   "provas": 64,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 35,
+   "com_gabarito": 20,
+   "gabarito_confere": 20,
+   "verde": 7,
+   "amarelo": 13,
+   "vermelho": 44,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     36
+    ],
+    [
+     "dois gabaritos possíveis",
+     13
+    ],
+    [
+     "discursiva (só padrão de resposta)",
+     8
+    ],
+    [
+     "escaneado (sem texto)",
+     2
+    ],
+    [
+     "questões não numeradas/encontradas",
+     1
+    ]
+   ]
+  },
+  "Unesp": {
+   "arquivos": 94,
+   "provas": 51,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 5,
+   "com_gabarito": 22,
+   "gabarito_confere": 17,
+   "verde": 17,
+   "amarelo": 5,
+   "vermelho": 16,
+   "discursiva": 13,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     13
+    ],
+    [
+     "sem gabarito ligado",
+     8
+    ],
+    [
+     "discursiva (só padrão de resposta)",
+     8
+    ],
+    [
+     "com padrão de resposta",
+     8
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     5
+    ],
+    [
+     "questões não numeradas/encontradas",
+     3
+    ]
+   ]
+  },
+  "FASM - SANTA MARCELINA": {
+   "arquivos": 76,
+   "provas": 38,
+   "reserva_outra_cor": 1,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 30,
+   "gabarito_confere": 28,
+   "verde": 19,
+   "amarelo": 12,
+   "vermelho": 0,
+   "discursiva": 7,
+   "motivos": [
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     8
+    ],
+    [
+     "prova discursiva (fica fora das três cores)",
+     7
+    ],
+    [
+     "com padrão de resposta",
+     6
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     2
+    ],
+    [
+     "5 páginas sem texto",
+     1
+    ],
+    [
+     "gabarito dentro da própria prova (conferir à parte)",
+     1
+    ]
+   ]
+  },
+  "FUVEST": {
+   "arquivos": 70,
+   "provas": 44,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 25,
+   "com_gabarito": 42,
+   "gabarito_confere": 7,
+   "verde": 7,
+   "amarelo": 16,
+   "vermelho": 21,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito sem leitura automática (formato novo)",
+     17
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     16
+    ],
+    [
+     "escaneado (sem texto)",
+     3
+    ],
+    [
+     "4 páginas sem texto",
+     2
+    ],
+    [
+     "14 páginas sem texto",
+     2
+    ],
+    [
+     "15 páginas sem texto",
+     2
+    ],
+    [
+     "17 páginas sem texto",
+     1
+    ],
+    [
+     "sem gabarito ligado",
+     1
+    ],
+    [
+     "5 páginas sem texto",
+     1
+    ],
+    [
+     "16 páginas sem texto",
+     1
+    ],
+    [
+     "discursiva (só padrão de resposta)",
+     1
+    ]
+   ]
+  },
+  "PUC-SP": {
+   "arquivos": 69,
+   "provas": 38,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 29,
+   "gabarito_confere": 24,
+   "verde": 24,
+   "amarelo": 6,
+   "vermelho": 8,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "questões não numeradas/encontradas",
+     6
+    ],
+    [
+     "gabarito dentro da própria prova (conferir à parte)",
+     5
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     4
+    ],
+    [
+     "sem gabarito ligado",
+     4
+    ],
+    [
+     "número de questões não bate com o gabarito",
+     1
+    ]
+   ]
+  },
+  "FMJ": {
+   "arquivos": 66,
+   "provas": 29,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 16,
+   "gabarito_confere": 15,
+   "verde": 11,
+   "amarelo": 5,
+   "vermelho": 4,
+   "discursiva": 9,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     9
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     4
+    ],
+    [
+     "sem gabarito ligado",
+     4
+    ],
+    [
+     "com padrão de resposta",
+     4
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     1
+    ],
+    [
+     "questões não numeradas/encontradas",
+     1
+    ]
+   ]
+  },
+  "HUMANITAS": {
+   "arquivos": 65,
+   "provas": 33,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 22,
+   "gabarito_confere": 16,
+   "verde": 15,
+   "amarelo": 7,
+   "vermelho": 4,
+   "discursiva": 7,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     7
+    ],
+    [
+     "com padrão de resposta",
+     7
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     6
+    ],
+    [
+     "3 páginas sem texto",
+     6
+    ],
+    [
+     "sem gabarito ligado",
+     4
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     1
+    ]
+   ]
+  },
+  "São Camilo": {
+   "arquivos": 61,
+   "provas": 31,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 20,
+   "gabarito_confere": 17,
+   "verde": 13,
+   "amarelo": 6,
+   "vermelho": 9,
+   "discursiva": 3,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     7
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     3
+    ],
+    [
+     "prova discursiva (fica fora das três cores)",
+     3
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     2
+    ],
+    [
+     "3 páginas sem texto",
+     2
+    ],
+    [
+     "com padrão de resposta",
+     2
+    ],
+    [
+     "número de questões não bate com o gabarito",
+     1
+    ],
+    [
+     "dois gabaritos possíveis",
+     1
+    ],
+    [
+     "5 páginas sem texto",
+     1
+    ],
+    [
+     "discursiva (só padrão de resposta)",
+     1
+    ],
+    [
+     "questões não numeradas/encontradas",
+     1
+    ]
+   ]
+  },
+  "UFJF": {
+   "arquivos": 60,
+   "provas": 37,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 37,
+   "gabarito_confere": 32,
+   "verde": 30,
+   "amarelo": 3,
+   "vermelho": 4,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "número de questões não bate com o gabarito",
+     4
+    ],
+    [
+     "dois gabaritos possíveis",
+     3
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     1
+    ]
+   ]
+  },
+  "Fameca": {
+   "arquivos": 59,
+   "provas": 34,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 17,
+   "gabarito_confere": 17,
+   "verde": 12,
+   "amarelo": 5,
+   "vermelho": 14,
+   "discursiva": 3,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     12
+    ],
+    [
+     "questões não numeradas/encontradas",
+     9
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     5
+    ],
+    [
+     "prova discursiva (fica fora das três cores)",
+     3
+    ],
+    [
+     "com padrão de resposta",
+     3
+    ],
+    [
+     "discursiva (só padrão de resposta)",
+     2
+    ]
+   ]
+  },
+  "UNEMAT": {
+   "arquivos": 59,
+   "provas": 34,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 33,
+   "com_gabarito": 34,
+   "gabarito_confere": 16,
+   "verde": 16,
+   "amarelo": 1,
+   "vermelho": 17,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "número de questões não bate com o gabarito",
+     9
+    ],
+    [
+     "gabarito sem leitura automática (formato novo)",
+     8
+    ],
+    [
+     "dois gabaritos possíveis",
+     2
+    ],
+    [
+     "4 páginas sem texto",
+     2
+    ],
+    [
+     "5 páginas sem texto",
+     2
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     1
+    ]
+   ]
+  },
+  "UNIFIMES": {
+   "arquivos": 58,
+   "provas": 29,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 21,
+   "gabarito_confere": 16,
+   "verde": 12,
+   "amarelo": 9,
+   "vermelho": 0,
+   "discursiva": 8,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     8
+    ],
+    [
+     "com padrão de resposta",
+     6
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     5
+    ],
+    [
+     "dois gabaritos possíveis",
+     2
+    ],
+    [
+     "3 páginas sem texto",
+     1
+    ],
+    [
+     "símbolos desenhados/fonte sem mapa",
+     1
+    ]
+   ]
+  },
+  "UEA": {
+   "arquivos": 58,
+   "provas": 24,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 19,
+   "gabarito_confere": 19,
+   "verde": 17,
+   "amarelo": 2,
+   "vermelho": 5,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     5
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     2
+    ],
+    [
+     "5 páginas sem texto",
+     1
+    ],
+    [
+     "questões não numeradas/encontradas",
+     1
+    ]
+   ]
+  },
+  "Famema": {
+   "arquivos": 54,
+   "provas": 26,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 13,
+   "com_gabarito": 11,
+   "gabarito_confere": 5,
+   "verde": 5,
+   "amarelo": 1,
+   "vermelho": 11,
+   "discursiva": 9,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     9
+    ],
+    [
+     "com padrão de resposta",
+     8
+    ],
+    [
+     "sem gabarito ligado",
+     6
+    ],
+    [
+     "escaneado (sem texto)",
+     5
+    ],
+    [
+     "questões não numeradas/encontradas",
+     2
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     1
+    ],
+    [
+     "3 páginas sem texto",
+     1
+    ]
+   ]
+  },
+  "Famerp": {
+   "arquivos": 54,
+   "provas": 29,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 19,
+   "com_gabarito": 12,
+   "gabarito_confere": 11,
+   "verde": 10,
+   "amarelo": 1,
+   "vermelho": 8,
+   "discursiva": 10,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     10
+    ],
+    [
+     "sem gabarito ligado",
+     6
+    ],
+    [
+     "com padrão de resposta",
+     4
+    ],
+    [
+     "questões não numeradas/encontradas",
+     3
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     1
+    ],
+    [
+     "discursiva (só padrão de resposta)",
+     1
+    ]
+   ]
+  },
+  "Unifesp": {
+   "arquivos": 51,
+   "provas": 28,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 16,
+   "com_gabarito": 12,
+   "gabarito_confere": 10,
+   "verde": 10,
+   "amarelo": 2,
+   "vermelho": 6,
+   "discursiva": 10,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     10
+    ],
+    [
+     "sem gabarito ligado",
+     4
+    ],
+    [
+     "com padrão de resposta",
+     3
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     2
+    ],
+    [
+     "questões não numeradas/encontradas",
+     2
+    ],
+    [
+     "discursiva (só padrão de resposta)",
+     2
+    ]
+   ]
+  },
+  "Einstein": {
+   "arquivos": 50,
+   "provas": 27,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 15,
+   "gabarito_confere": 14,
+   "verde": 13,
+   "amarelo": 2,
+   "vermelho": 4,
+   "discursiva": 8,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     8
+    ],
+    [
+     "sem gabarito ligado",
+     3
+    ],
+    [
+     "com padrão de resposta",
+     3
+    ],
+    [
+     "questões não numeradas/encontradas",
+     2
+    ],
+    [
+     "discursiva (só padrão de resposta)",
+     1
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     1
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     1
+    ]
+   ]
+  },
+  "Santa Casa": {
+   "arquivos": 50,
+   "provas": 24,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 14,
+   "gabarito_confere": 10,
+   "verde": 10,
+   "amarelo": 4,
+   "vermelho": 2,
+   "discursiva": 8,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     8
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     4
+    ],
+    [
+     "com padrão de resposta",
+     3
+    ],
+    [
+     "sem gabarito ligado",
+     2
+    ],
+    [
+     "questões não numeradas/encontradas",
+     1
+    ]
+   ]
+  },
+  "UEMG": {
+   "arquivos": 47,
+   "provas": 23,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 23,
+   "gabarito_confere": 11,
+   "verde": 8,
+   "amarelo": 13,
+   "vermelho": 2,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     10
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     3
+    ],
+    [
+     "gabarito sem leitura automática (formato novo)",
+     2
+    ],
+    [
+     "gabarito escaneado",
+     2
+    ],
+    [
+     "dois gabaritos possíveis",
+     1
+    ]
+   ]
+  },
+  "UEPG": {
+   "arquivos": 43,
+   "provas": 27,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 27,
+   "gabarito_confere": 0,
+   "verde": 0,
+   "amarelo": 0,
+   "vermelho": 27,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito sem leitura automática (formato novo)",
+     27
+    ]
+   ]
+  },
+  "USCS": {
+   "arquivos": 42,
+   "provas": 25,
+   "reserva_outra_cor": 1,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 18,
+   "gabarito_confere": 11,
+   "verde": 10,
+   "amarelo": 9,
+   "vermelho": 2,
+   "discursiva": 4,
+   "motivos": [
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     7
+    ],
+    [
+     "prova discursiva (fica fora das três cores)",
+     4
+    ],
+    [
+     "gabarito escaneado",
+     4
+    ],
+    [
+     "com padrão de resposta",
+     3
+    ],
+    [
+     "gabarito dentro da própria prova (conferir à parte)",
+     1
+    ],
+    [
+     "4 páginas sem texto",
+     1
+    ],
+    [
+     "sem gabarito ligado",
+     1
+    ],
+    [
+     "questões não numeradas/encontradas",
+     1
+    ],
+    [
+     "discursiva (só padrão de resposta)",
+     1
+    ]
+   ]
+  },
+  "UPE": {
+   "arquivos": 39,
+   "provas": 18,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 4,
+   "com_gabarito": 18,
+   "gabarito_confere": 18,
+   "verde": 16,
+   "amarelo": 2,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "9 páginas sem texto",
+     1
+    ],
+    [
+     "10 páginas sem texto",
+     1
+    ]
+   ]
+  },
+  "Unisa (Santo Amaro)": {
+   "arquivos": 38,
+   "provas": 18,
+   "reserva_outra_cor": 1,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 11,
+   "gabarito_confere": 9,
+   "verde": 7,
+   "amarelo": 4,
+   "vermelho": 3,
+   "discursiva": 4,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     4
+    ],
+    [
+     "com padrão de resposta",
+     4
+    ],
+    [
+     "3 páginas sem texto",
+     3
+    ],
+    [
+     "discursiva (só padrão de resposta)",
+     3
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     2
+    ],
+    [
+     "dois gabaritos possíveis",
+     1
+    ]
+   ]
+  },
+  "FACISB": {
+   "arquivos": 36,
+   "provas": 17,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 17,
+   "gabarito_confere": 17,
+   "verde": 12,
+   "amarelo": 5,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     5
+    ]
+   ]
+  },
+  "UNIMES": {
+   "arquivos": 36,
+   "provas": 20,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 13,
+   "gabarito_confere": 11,
+   "verde": 8,
+   "amarelo": 6,
+   "vermelho": 2,
+   "discursiva": 4,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     4
+    ],
+    [
+     "3 páginas sem texto",
+     3
+    ],
+    [
+     "com padrão de resposta",
+     3
+    ],
+    [
+     "sem gabarito ligado",
+     2
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     2
+    ],
+    [
+     "dois gabaritos possíveis",
+     1
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     1
+    ],
+    [
+     "gabarito dentro da própria prova (conferir à parte)",
+     1
+    ]
+   ]
+  },
+  "FCM-MG": {
+   "arquivos": 33,
+   "provas": 15,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 15,
+   "gabarito_confere": 11,
+   "verde": 11,
+   "amarelo": 2,
+   "vermelho": 2,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     2
+    ],
+    [
+     "escaneado (sem texto)",
+     2
+    ]
+   ]
+  },
+  "ANHEMBI MORUMBI": {
+   "arquivos": 32,
+   "provas": 21,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 13,
+   "gabarito_confere": 10,
+   "verde": 6,
+   "amarelo": 8,
+   "vermelho": 5,
+   "discursiva": 2,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     5
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     3
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     3
+    ],
+    [
+     "4 páginas sem texto",
+     2
+    ],
+    [
+     "prova discursiva (fica fora das três cores)",
+     2
+    ],
+    [
+     "gabarito dentro da própria prova (conferir à parte)",
+     1
+    ]
+   ]
+  },
+  "UNICAMP": {
+   "arquivos": 32,
+   "provas": 17,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 4,
+   "com_gabarito": 13,
+   "gabarito_confere": 13,
+   "verde": 9,
+   "amarelo": 4,
+   "vermelho": 4,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     4
+    ],
+    [
+     "símbolos desenhados/fonte sem mapa",
+     3
+    ],
+    [
+     "gabarito escaneado",
+     1
+    ]
+   ]
+  },
+  "PUC-PR": {
+   "arquivos": 31,
+   "provas": 29,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 0,
+   "gabarito_confere": 0,
+   "verde": 0,
+   "amarelo": 12,
+   "vermelho": 17,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     17
+    ],
+    [
+     "gabarito dentro da própria prova (conferir à parte)",
+     12
+    ],
+    [
+     "3 páginas sem texto",
+     1
+    ]
+   ]
+  },
+  "PUC-MG": {
+   "arquivos": 30,
+   "provas": 18,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 18,
+   "gabarito_confere": 17,
+   "verde": 5,
+   "amarelo": 12,
+   "vermelho": 1,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "dois gabaritos possíveis",
+     8
+    ],
+    [
+     "gabarito escaneado",
+     5
+    ],
+    [
+     "gabarito sem leitura automática (formato novo)",
+     1
+    ]
+   ]
+  },
+  "PUC-RJ": {
+   "arquivos": 30,
+   "provas": 22,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 5,
+   "gabarito_confere": 5,
+   "verde": 0,
+   "amarelo": 15,
+   "vermelho": 7,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito dentro da própria prova (conferir à parte)",
+     13
+    ],
+    [
+     "dois gabaritos possíveis",
+     5
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     5
+    ],
+    [
+     "questões não numeradas/encontradas",
+     4
+    ],
+    [
+     "sem gabarito ligado",
+     4
+    ],
+    [
+     "símbolos desenhados/fonte sem mapa",
+     3
+    ]
+   ]
+  },
+  "UNB": {
+   "arquivos": 30,
+   "provas": 14,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 10,
+   "gabarito_confere": 0,
+   "verde": 0,
+   "amarelo": 0,
+   "vermelho": 14,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito sem leitura automática (formato novo)",
+     8
+    ],
+    [
+     "dois gabaritos possíveis",
+     7
+    ],
+    [
+     "sem gabarito ligado",
+     4
+    ],
+    [
+     "questões não numeradas/encontradas",
+     4
+    ]
+   ]
+  },
+  "UNIOESTE": {
+   "arquivos": 28,
+   "provas": 14,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 14,
+   "gabarito_confere": 0,
+   "verde": 0,
+   "amarelo": 0,
+   "vermelho": 14,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito sem leitura automática (formato novo)",
+     14
+    ],
+    [
+     "dois gabaritos possíveis",
+     4
+    ]
+   ]
+  },
+  "URCA": {
+   "arquivos": 28,
+   "provas": 12,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 12,
+   "gabarito_confere": 10,
+   "verde": 8,
+   "amarelo": 2,
+   "vermelho": 2,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "escaneado (sem texto)",
+     2
+    ],
+    [
+     "dois gabaritos possíveis",
+     1
+    ],
+    [
+     "símbolos desenhados/fonte sem mapa",
+     1
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     1
+    ]
+   ]
+  },
+  "UFAM": {
+   "arquivos": 22,
+   "provas": 11,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 11,
+   "gabarito_confere": 11,
+   "verde": 1,
+   "amarelo": 10,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "dois gabaritos possíveis",
+     6
+    ],
+    [
+     "5 páginas sem texto",
+     4
+    ],
+    [
+     "6 páginas sem texto",
+     1
+    ],
+    [
+     "4 páginas sem texto",
+     1
+    ]
+   ]
+  },
+  "UFPEL": {
+   "arquivos": 22,
+   "provas": 15,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 12,
+   "gabarito_confere": 11,
+   "verde": 8,
+   "amarelo": 4,
+   "vermelho": 3,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     3
+    ],
+    [
+     "sem gabarito ligado",
+     3
+    ],
+    [
+     "escaneado (sem texto)",
+     2
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     1
+    ]
+   ]
+  },
+  "FMABC": {
+   "arquivos": 21,
+   "provas": 9,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 8,
+   "gabarito_confere": 8,
+   "verde": 8,
+   "amarelo": 0,
+   "vermelho": 1,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     1
+    ],
+    [
+     "questões não numeradas/encontradas",
+     1
+    ]
+   ]
+  },
+  "Unicerrado": {
+   "arquivos": 20,
+   "provas": 10,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 6,
+   "gabarito_confere": 5,
+   "verde": 5,
+   "amarelo": 1,
+   "vermelho": 0,
+   "discursiva": 4,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     4
+    ],
+    [
+     "com padrão de resposta",
+     3
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     1
+    ]
+   ]
+  },
+  "UNIFUNEC": {
+   "arquivos": 19,
+   "provas": 12,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 6,
+   "gabarito_confere": 4,
+   "verde": 4,
+   "amarelo": 3,
+   "vermelho": 3,
+   "discursiva": 2,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     3
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     2
+    ],
+    [
+     "3 páginas sem texto",
+     2
+    ],
+    [
+     "prova discursiva (fica fora das três cores)",
+     2
+    ],
+    [
+     "com padrão de resposta",
+     2
+    ],
+    [
+     "gabarito dentro da própria prova (conferir à parte)",
+     1
+    ],
+    [
+     "6 páginas sem texto",
+     1
+    ]
+   ]
+  },
+  "UFMS": {
+   "arquivos": 19,
+   "provas": 12,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 2,
+   "com_gabarito": 10,
+   "gabarito_confere": 2,
+   "verde": 1,
+   "amarelo": 2,
+   "vermelho": 9,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito sem leitura automática (formato novo)",
+     7
+    ],
+    [
+     "sem gabarito ligado",
+     2
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     1
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     1
+    ],
+    [
+     "11 páginas sem texto",
+     1
+    ]
+   ]
+  },
+  "Unisul": {
+   "arquivos": 18,
+   "provas": 8,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 6,
+   "gabarito_confere": 5,
+   "verde": 4,
+   "amarelo": 2,
+   "vermelho": 0,
+   "discursiva": 2,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     2
+    ],
+    [
+     "com padrão de resposta",
+     2
+    ],
+    [
+     "4 páginas sem texto",
+     1
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     1
+    ]
+   ]
+  },
+  "UNITINS": {
+   "arquivos": 18,
+   "provas": 9,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 9,
+   "gabarito_confere": 7,
+   "verde": 7,
+   "amarelo": 2,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     2
+    ]
+   ]
+  },
+  "UNILUS": {
+   "arquivos": 16,
+   "provas": 7,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 5,
+   "gabarito_confere": 3,
+   "verde": 3,
+   "amarelo": 1,
+   "vermelho": 1,
+   "discursiva": 2,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     2
+    ],
+    [
+     "escaneado (sem texto)",
+     1
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     1
+    ],
+    [
+     "3 páginas sem texto",
+     1
+    ],
+    [
+     "com padrão de resposta",
+     1
+    ]
+   ]
+  },
+  "UFLA": {
+   "arquivos": 16,
+   "provas": 7,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 7,
+   "gabarito_confere": 7,
+   "verde": 4,
+   "amarelo": 3,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "símbolos desenhados/fonte sem mapa",
+     2
+    ],
+    [
+     "dois gabaritos possíveis",
+     1
+    ]
+   ]
+  },
+  "UFT": {
+   "arquivos": 16,
+   "provas": 10,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 6,
+   "gabarito_confere": 2,
+   "verde": 2,
+   "amarelo": 1,
+   "vermelho": 7,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     4
+    ],
+    [
+     "número de questões não bate com o gabarito",
+     3
+    ],
+    [
+     "símbolos desenhados/fonte sem mapa",
+     2
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     1
+    ]
+   ]
+  },
+  "UNIMONTES": {
+   "arquivos": 16,
+   "provas": 11,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 11,
+   "gabarito_confere": 1,
+   "verde": 0,
+   "amarelo": 8,
+   "vermelho": 3,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "dois gabaritos possíveis",
+     10
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     7
+    ],
+    [
+     "gabarito sem leitura automática (formato novo)",
+     3
+    ]
+   ]
+  },
+  "SÍRIO LIBANÊS": {
+   "arquivos": 15,
+   "provas": 6,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 4,
+   "gabarito_confere": 3,
+   "verde": 3,
+   "amarelo": 1,
+   "vermelho": 0,
+   "discursiva": 2,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     2
+    ],
+    [
+     "com padrão de resposta",
+     2
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     1
+    ],
+    [
+     "3 páginas sem texto",
+     1
+    ]
+   ]
+  },
+  "UEG": {
+   "arquivos": 15,
+   "provas": 7,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 7,
+   "gabarito_confere": 1,
+   "verde": 1,
+   "amarelo": 0,
+   "vermelho": 6,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "número de questões não bate com o gabarito",
+     6
+    ]
+   ]
+  },
+  "Clarentiano": {
+   "arquivos": 14,
+   "provas": 8,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 4,
+   "gabarito_confere": 4,
+   "verde": 4,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 4,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     4
+    ],
+    [
+     "com padrão de resposta",
+     1
+    ]
+   ]
+  },
+  "UFSM": {
+   "arquivos": 14,
+   "provas": 7,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 7,
+   "gabarito_confere": 7,
+   "verde": 1,
+   "amarelo": 6,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     6
+    ],
+    [
+     "dois gabaritos possíveis",
+     4
+    ]
+   ]
+  },
+  "Insper": {
+   "arquivos": 13,
+   "provas": 4,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 4,
+   "gabarito_confere": 4,
+   "verde": 4,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": []
+  },
+  "UNICID": {
+   "arquivos": 12,
+   "provas": 6,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 6,
+   "gabarito_confere": 6,
+   "verde": 5,
+   "amarelo": 1,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "dois gabaritos possíveis",
+     1
+    ],
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     1
+    ]
+   ]
+  },
+  "UEMA": {
+   "arquivos": 12,
+   "provas": 6,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 6,
+   "gabarito_confere": 6,
+   "verde": 4,
+   "amarelo": 2,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "dois gabaritos possíveis",
+     2
+    ]
+   ]
+  },
+  "UFG": {
+   "arquivos": 12,
+   "provas": 6,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 6,
+   "gabarito_confere": 0,
+   "verde": 0,
+   "amarelo": 0,
+   "vermelho": 6,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito sem leitura automática (formato novo)",
+     6
+    ],
+    [
+     "dois gabaritos possíveis",
+     4
+    ]
+   ]
+  },
+  "UESB": {
+   "arquivos": 11,
+   "provas": 7,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 3,
+   "gabarito_confere": 3,
+   "verde": 3,
+   "amarelo": 4,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito dentro da própria prova (conferir à parte)",
+     4
+    ]
+   ]
+  },
+  "FEMA": {
+   "arquivos": 10,
+   "provas": 6,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 6,
+   "gabarito_confere": 6,
+   "verde": 6,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": []
+  },
+  "UniCEUB": {
+   "arquivos": 10,
+   "provas": 5,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 5,
+   "gabarito_confere": 5,
+   "verde": 5,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": []
+  },
+  "Unifadra": {
+   "arquivos": 10,
+   "provas": 6,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 3,
+   "gabarito_confere": 3,
+   "verde": 3,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 3,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     3
+    ],
+    [
+     "com padrão de resposta",
+     1
+    ]
+   ]
+  },
+  "UERR": {
+   "arquivos": 10,
+   "provas": 5,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 5,
+   "gabarito_confere": 1,
+   "verde": 1,
+   "amarelo": 0,
+   "vermelho": 4,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "escaneado (sem texto)",
+     2
+    ],
+    [
+     "número de questões não bate com o gabarito",
+     1
+    ],
+    [
+     "gabarito sem leitura automática (formato novo)",
+     1
+    ]
+   ]
+  },
+  "UNEB": {
+   "arquivos": 10,
+   "provas": 5,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 4,
+   "gabarito_confere": 4,
+   "verde": 3,
+   "amarelo": 1,
+   "vermelho": 1,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "6 páginas sem texto",
+     1
+    ],
+    [
+     "sem gabarito ligado",
+     1
+    ]
+   ]
+  },
+  "FASEH": {
+   "arquivos": 9,
+   "provas": 8,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 2,
+   "gabarito_confere": 1,
+   "verde": 1,
+   "amarelo": 1,
+   "vermelho": 6,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     6
+    ],
+    [
+     "gabarito cobre mais que a prova (outro dia/caderno junto)",
+     1
+    ]
+   ]
+  },
+  "Faculdade Moinhos de Ventos": {
+   "arquivos": 9,
+   "provas": 4,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 2,
+   "gabarito_confere": 2,
+   "verde": 2,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 2,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     2
+    ],
+    [
+     "com padrão de resposta",
+     2
+    ]
+   ]
+  },
+  "UNAERP": {
+   "arquivos": 9,
+   "provas": 5,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 5,
+   "gabarito_confere": 4,
+   "verde": 4,
+   "amarelo": 0,
+   "vermelho": 1,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "questões não numeradas/encontradas",
+     1
+    ]
+   ]
+  },
+  "UniFACEF": {
+   "arquivos": 9,
+   "provas": 4,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 4,
+   "gabarito_confere": 4,
+   "verde": 4,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": []
+  },
+  "Uniube": {
+   "arquivos": 9,
+   "provas": 8,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 1,
+   "gabarito_confere": 1,
+   "verde": 1,
+   "amarelo": 0,
+   "vermelho": 7,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     7
+    ]
+   ]
+  },
+  "UFGD": {
+   "arquivos": 9,
+   "provas": 4,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 3,
+   "com_gabarito": 4,
+   "gabarito_confere": 0,
+   "verde": 0,
+   "amarelo": 0,
+   "vermelho": 4,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "número de questões não bate com o gabarito",
+     4
+    ]
+   ]
+  },
+  "PUC GOIÁS": {
+   "arquivos": 8,
+   "provas": 4,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 4,
+   "gabarito_confere": 0,
+   "verde": 0,
+   "amarelo": 0,
+   "vermelho": 4,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito sem leitura automática (formato novo)",
+     4
+    ]
+   ]
+  },
+  "Unifev": {
+   "arquivos": 7,
+   "provas": 3,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 1,
+   "gabarito_confere": 1,
+   "verde": 1,
+   "amarelo": 0,
+   "vermelho": 1,
+   "discursiva": 1,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     1
+    ],
+    [
+     "sem gabarito ligado",
+     1
+    ]
+   ]
+  },
+  "UEMS": {
+   "arquivos": 7,
+   "provas": 3,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 3,
+   "gabarito_confere": 0,
+   "verde": 0,
+   "amarelo": 0,
+   "vermelho": 3,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "gabarito sem leitura automática (formato novo)",
+     3
+    ],
+    [
+     "gabarito escaneado",
+     2
+    ]
+   ]
+  },
+  "FAMINAS": {
+   "arquivos": 6,
+   "provas": 4,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 2,
+   "gabarito_confere": 0,
+   "verde": 0,
+   "amarelo": 0,
+   "vermelho": 4,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     2
+    ],
+    [
+     "gabarito sem leitura automática (formato novo)",
+     2
+    ],
+    [
+     "6 páginas sem texto",
+     1
+    ]
+   ]
+  },
+  "UNIP - MEDICINA": {
+   "arquivos": 6,
+   "provas": 3,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 3,
+   "gabarito_confere": 3,
+   "verde": 3,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": []
+  },
+  "UNIVAS  (Pouso Alegre)": {
+   "arquivos": 6,
+   "provas": 3,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 3,
+   "gabarito_confere": 3,
+   "verde": 3,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": []
+  },
+  "Beneficência Portuguesa": {
+   "arquivos": 5,
+   "provas": 2,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 1,
+   "gabarito_confere": 1,
+   "verde": 1,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 1,
+   "motivos": [
+    [
+     "prova discursiva (fica fora das três cores)",
+     1
+    ],
+    [
+     "com padrão de resposta",
+     1
+    ]
+   ]
+  },
+  "FAI": {
+   "arquivos": 4,
+   "provas": 3,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 1,
+   "gabarito_confere": 1,
+   "verde": 1,
+   "amarelo": 0,
+   "vermelho": 2,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     2
+    ]
+   ]
+  },
+  "Faculdade Bela Vista": {
+   "arquivos": 4,
+   "provas": 2,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 2,
+   "gabarito_confere": 2,
+   "verde": 2,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": []
+  },
+  "UNIVAG - VUNESP": {
+   "arquivos": 4,
+   "provas": 2,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 2,
+   "gabarito_confere": 2,
+   "verde": 2,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": []
+  },
+  "ESPCEX": {
+   "arquivos": 4,
+   "provas": 2,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 2,
+   "gabarito_confere": 2,
+   "verde": 2,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": []
+  },
+  "UNIFAL": {
+   "arquivos": 4,
+   "provas": 2,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 1,
+   "gabarito_confere": 0,
+   "verde": 0,
+   "amarelo": 0,
+   "vermelho": 2,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     1
+    ],
+    [
+     "gabarito sem leitura automática (formato novo)",
+     1
+    ]
+   ]
+  },
+  "Univesp": {
+   "arquivos": 4,
+   "provas": 2,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 2,
+   "gabarito_confere": 2,
+   "verde": 1,
+   "amarelo": 1,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "prova parece ter mais questões que o gabarito (parte discursiva?)",
+     1
+    ]
+   ]
+  },
+  "Regional São Paulo (Anhembi + São Judas)": {
+   "arquivos": 3,
+   "provas": 3,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 0,
+   "gabarito_confere": 0,
+   "verde": 0,
+   "amarelo": 0,
+   "vermelho": 3,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     3
+    ]
+   ]
+  },
+  "SÃO JUDAS": {
+   "arquivos": 3,
+   "provas": 2,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 1,
+   "gabarito_confere": 1,
+   "verde": 1,
+   "amarelo": 0,
+   "vermelho": 1,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     1
+    ]
+   ]
+  },
+  "UnP": {
+   "arquivos": 3,
+   "provas": 2,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 1,
+   "gabarito_confere": 1,
+   "verde": 0,
+   "amarelo": 1,
+   "vermelho": 1,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     1
+    ],
+    [
+     "4 páginas sem texto",
+     1
+    ]
+   ]
+  },
+  "Unifae": {
+   "arquivos": 3,
+   "provas": 3,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 0,
+   "gabarito_confere": 0,
+   "verde": 0,
+   "amarelo": 0,
+   "vermelho": 3,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     3
+    ]
+   ]
+  },
+  "BARRO BRANCO": {
+   "arquivos": 3,
+   "provas": 1,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 1,
+   "gabarito_confere": 1,
+   "verde": 1,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": []
+  },
+  "Casper": {
+   "arquivos": 2,
+   "provas": 1,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 1,
+   "gabarito_confere": 1,
+   "verde": 1,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": []
+  },
+  "Coletânea Redações VUNESP": {
+   "arquivos": 1,
+   "provas": 0,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 0,
+   "gabarito_confere": 0,
+   "verde": 0,
+   "amarelo": 0,
+   "vermelho": 0,
+   "discursiva": 0,
+   "motivos": []
+  },
+  "UNITAU": {
+   "arquivos": 1,
+   "provas": 1,
+   "reserva_outra_cor": 0,
+   "ja_no_drive_antigo": 0,
+   "com_gabarito": 0,
+   "gabarito_confere": 0,
+   "verde": 0,
+   "amarelo": 0,
+   "vermelho": 1,
+   "discursiva": 0,
+   "motivos": [
+    [
+     "sem gabarito ligado",
+     1
+    ]
+   ]
+  }
+ }
+}

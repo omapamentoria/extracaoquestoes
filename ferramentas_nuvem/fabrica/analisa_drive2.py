@@ -54,7 +54,7 @@ def mede(item):
         data = open(alvo, "rb").read()
         r["bytes"] = len(data); r["md5"] = hashlib.md5(data).hexdigest()
         cab = data[:8]
-        r["tipo"] = ("pdf" if cab.startswith(b"%PDF") else "html" if data[:200].lower().lstrip().startswith((b"<!doctype html", b"<html"))
+        r["tipo"] = ("pdf" if b"%PDF" in data[:1024] else "html" if data[:200].lower().lstrip().startswith((b"<!doctype html", b"<html"))
                      else "zip" if cab.startswith(b"PK") else "outro")
         del data
         if r["tipo"] == "pdf":
