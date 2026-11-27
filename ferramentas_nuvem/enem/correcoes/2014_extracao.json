@@ -1,0 +1,96 @@
+{
+ "P7567-Q148": {
+  "motivo": "frações desenhadas lidas na página 23; rosa dos ventos recortada de novo com os nomes das direções; alternativas são malhas quadriculadas: recortadas da página",
+  "enunciado": "Cleber precisava ir a uma papelaria. Sabia a localização do ponto de ônibus em que deveria descer.\n\nQuando desceu do ônibus, andou \\( \\frac{1}{2} \\) de 1 km para o Sul, depois 2 km para o Leste, em seguida 3 mil metros para o Norte e por fim \\( \\frac{10}{4} \\) de 1 km para Oeste.\n\nObserve a rosa dos ventos a seguir.\n\n{{img:10}}\n\nConsidere uma malha quadriculada formada por quadrados cujos lados medem 500 m.\n\nSe a localização inicial de Cleber é dada pelo ponto A e a localização final é dada pelo ponto B, qual malha representa as localizações inicial e final de Cleber, de acordo com a descrição?",
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 10,
+    "pagina": 23,
+    "bbox": [
+     70,
+     598,
+     270,
+     745
+    ]
+   },
+   {
+    "id": 11,
+    "pagina": 23,
+    "bbox": [
+     320,
+     138,
+     447,
+     265
+    ]
+   },
+   {
+    "id": 12,
+    "pagina": 23,
+    "bbox": [
+     320,
+     271,
+     447,
+     396
+    ]
+   },
+   {
+    "id": 13,
+    "pagina": 23,
+    "bbox": [
+     320,
+     399,
+     446,
+     525
+    ]
+   },
+   {
+    "id": 14,
+    "pagina": 23,
+    "bbox": [
+     320,
+     528,
+     446,
+     652
+    ]
+   },
+   {
+    "id": 15,
+    "pagina": 23,
+    "bbox": [
+     320,
+     654,
+     445,
+     780
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:11}}",
+   "B": "{{img:12}}",
+   "C": "{{img:13}}",
+   "D": "{{img:14}}",
+   "E": "{{img:15}}"
+  }
+ },
+ "P7567-Q154": {
+  "motivo": "itens (a) e (b) das regras lidos como alternativa e uma linha em fonte sem tradução: enunciado remontado pelo texto da página 25",
+  "enunciado": "Um jogo entre dois jogadores tem as seguintes regras: (a) o primeiro jogador pensa em uma forma geométrica, desenha apenas uma parte da forma e fornece uma dica para que o segundo jogador termine o desenho; (b) se o segundo jogador conseguir concluir o desenho, ganha um ponto; caso contrário, quem ganha um ponto é o primeiro jogador. Dois amigos, Alberto e Dora, estão jogando o referido jogo. Alberto desenhou a figura a seguir e deu a seguinte dica a Dora: “a forma em que pensei é a planificação de um prisma reto”.\n\n{{img:1}}\n\nDora completou o desenho com",
+  "alternativas": {
+   "A": "um pentágono e um retângulo.",
+   "B": "um pentágono e quatro retângulos.",
+   "C": "um pentágono e cinco retângulos.",
+   "D": "dois pentágonos e quatro retângulos.",
+   "E": "dois pentágonos e cinco retângulos."
+  }
+ },
+ "P7567-Q174": {
+  "motivo": "π em fonte de símbolos, lido na página 31",
+  "enunciado_sub": [
+   [
+    "Volume do cilindro = \\(cid:83\\) •",
+    "Volume do cilindro = π •"
+   ]
+  ]
+ }
+}

@@ -201,6 +201,7 @@ def cid_por_prova(chars, pn):
         t_ = CID_PROVA.get("%d|%s" % (pn, c["fontname"]))
         if not t_: continue
         k_ = str(c["cid"]) if c.get("cid") is not None else None
+        if t_.get("_so_cid") and not c["text"].startswith("(cid:"): continue
         if k_ in t_: c["text"] = t_[k_]
 def cid_por_tabela(chars):
     base_ = lambda n: re.sub(r"-Identity-[HV]$", "", re.sub(r"^[A-Z]{6}\+", "", n))

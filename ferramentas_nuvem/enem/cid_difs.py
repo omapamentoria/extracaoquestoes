@@ -32,7 +32,10 @@ for pn,pg in enumerate(r.pages,1):
             if str(d_.get("/CIDToGIDMap","/Identity"))=="/Identity":   # ausente = Identity (padrao do PDF)
                 cob,tu=cobertos(f)
                 m={str(g):T.get(str(g)) or chr(g+29) for g in set(range(3,98))|{int(k) for k in T if k.isdigit()} if g not in cob}
-                m["_tu"]=tu; out["%d|%s"%(pn,str(f.get("/BaseFont"))[1:])]=m; n_+=len(m)-1
+                m["_tu"]=tu; m["_so_cid"]=1   # so "(cid:N)": outra fonte da pagina pode ter o mesmo nome sem o "-Identity-H"
+                n_+=len(m)-1
+                # o pdfplumber da o nome da fonte descendente (com prefixo de subconjunto) ou o do Type0 sem "-Identity-H"
+                for nm in {re.sub(r"-Identity-[HV]$","",str(f.get("/BaseFont"))[1:]),str(d_.get("/BaseFont"))[1:]}: out["%d|%s"%(pn,nm)]=m   # o pdfplumber tira o "-Identity-H" do nome
             continue
         if not hasattr(enc,"get") or "/Differences" not in enc: continue
         nome=str(f.get("/BaseFont"))[1:]
