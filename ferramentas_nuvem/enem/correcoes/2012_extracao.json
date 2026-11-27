@@ -7,5 +7,441 @@
     ""
    ]
   ]
+ },
+ "P7553-Q046": {
+  "motivo": "o PDF não traz as bolinhas das letras nesta questão (página 17): as cinco linhas finais são as alternativas, na ordem A–E",
+  "enunciado_sub": [
+   [
+    "\\n\\num dínamo\\.  \\num freio de automóvel\\.  \\num motor a combustão\\.  \\numa usina hidroelétrica\\.  \\numa atiradeira \\(estilingue\\)\\.$",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "um dínamo.",
+   "B": "um freio de automóvel.",
+   "C": "um motor a combustão.",
+   "D": "uma usina hidroelétrica.",
+   "E": "uma atiradeira (estilingue)."
+  }
+ },
+ "P7553-Q075": {
+  "motivo": "o PDF não traz as bolinhas das letras nesta questão (página 26): as cinco linhas finais são as alternativas, na ordem A–E",
+  "enunciado_sub": [
+   [
+    "\\n\\nbaixa intensidade\\.  \\nbaixa frequência\\.  \\num espectro contínuo\\.  \\namplitude inadequada\\.  \\ncurto comprimento de onda\\.$",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "baixa intensidade.",
+   "B": "baixa frequência.",
+   "C": "um espectro contínuo.",
+   "D": "amplitude inadequada.",
+   "E": "curto comprimento de onda."
+  }
+ },
+ "P7553-Q059": {
+  "motivo": "alternativas são figuras (letras em imagem): recortadas uma por letra da página 20",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:2\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [
+   1
+  ],
+  "alt_imagens": "auto"
+ },
+ "P7553-Q061": {
+  "motivo": "alternativas são figuras (letras em imagem): recortadas uma por letra da página 21",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [],
+  "alt_imagens": "auto"
+ },
+ "P7553-Q066": {
+  "motivo": "alternativas são figuras (letras em imagem): recortadas uma por letra da página 23",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}\\n\\n\\{\\{img:2\\}\\}\\n\\n\\{\\{img:3\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [],
+  "alt_imagens": "auto"
+ },
+ "P7553-Q073": {
+  "motivo": "alternativas são figuras (letras em imagem): recortadas uma por letra da página 25",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:2\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [
+   1
+  ],
+  "alt_imagens": "auto"
+ },
+ "P7553-Q086": {
+  "motivo": "alternativas são figuras (letras em imagem): recortadas uma por letra da página 29",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [],
+  "alt_imagens": "auto"
+ },
+ "P7553-Q080": {
+  "motivo": "letra l de HCl desenhada sem texto, lida na página 27",
+  "enunciado_sub": [
+   [
+    "libera-se HC \\(g\\)",
+    "libera-se HCl (g)"
+   ]
+  ]
+ },
+ "P7553-Q084": {
+  "motivo": "letra l de NaCl desenhada sem texto, lida na página 28",
+  "enunciado_sub": [
+   [
+    "de NaC \\(cloreto",
+    "de NaCl (cloreto"
+   ],
+   [
+    "de NaC tem,",
+    "de NaCl tem,"
+   ]
+  ]
+ },
+ "P7555-Q140": {
+  "motivo": "a frase final da questão 141 (outra coluna) tinha entrado no começo, a tabela saiu partida e os gráficos da 141 tinham vindo como figura: enunciado remontado e tabela transcrita lendo a página 21",
+  "enunciado": "Uma pesquisa realizada por estudantes da Faculdade de Estatística mostra, em horas por dia, como os jovens entre 12 e 18 anos gastam seu tempo, tanto durante a semana (de segunda-feira a sexta-feira), como no fim de semana (sábado e domingo). A seguinte tabela ilustra os resultados da pesquisa.\n\n| **Rotina Juvenil** | **Durante a semana** | **No fim de semana** |\n|---|---|---|\n| Assistir à televisão | 3 | 3 |\n| Atividades domésticas | 1 | 1 |\n| Atividades escolares | 5 | 1 |\n| Atividades de lazer | 2 | 4 |\n| Descanso, higiene e alimentação | 10 | 12 |\n| Outras atividades | 3 | 3 |\n\nDe acordo com esta pesquisa, quantas horas de seu tempo gasta um jovem entre 12 e 18 anos, na semana inteira (de segunda-feira a domingo), nas atividades escolares?",
+  "imagens": []
+ },
+ "P7555-Q141": {
+  "motivo": "a frase final (outra coluna) tinha ido para a questão 140; alternativas são gráficos (letras em imagem): recortadas uma a uma da página 21",
+  "enunciado_sub": [
+   [
+    "produto vendido\\.$",
+    "produto vendido.\n\nCom essas informações, o gráfico que melhor representa a relação entre salário e o número de produtos vendidos é"
+   ]
+  ],
+  "imagens_novas": [
+   {
+    "id": 10,
+    "pagina": 21,
+    "bbox": [
+     315,
+     99.0,
+     561,
+     233.0
+    ]
+   },
+   {
+    "id": 11,
+    "pagina": 21,
+    "bbox": [
+     315,
+     237.0,
+     561,
+     371.0
+    ]
+   },
+   {
+    "id": 12,
+    "pagina": 21,
+    "bbox": [
+     315,
+     375.0,
+     561,
+     509.0
+    ]
+   },
+   {
+    "id": 13,
+    "pagina": 21,
+    "bbox": [
+     315,
+     513.0,
+     561,
+     647.0
+    ]
+   },
+   {
+    "id": 14,
+    "pagina": 21,
+    "bbox": [
+     315,
+     651.0,
+     561,
+     785.0
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:10}}",
+   "B": "{{img:11}}",
+   "C": "{{img:12}}",
+   "D": "{{img:13}}",
+   "E": "{{img:14}}"
+  }
+ },
+ "P7555-Q142": {
+  "motivo": "alternativas são figuras (letras em imagem): recortadas uma a uma da página 22",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:2\\}\\}\\n\\n\\{\\{img:3\\}\\}\\n\\n\\{\\{img:4\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [
+   1
+  ],
+  "imagens_novas": [
+   {
+    "id": 10,
+    "pagina": 22,
+    "bbox": [
+     48,
+     361.0,
+     175,
+     505.0
+    ]
+   },
+   {
+    "id": 11,
+    "pagina": 22,
+    "bbox": [
+     189,
+     361.0,
+     292,
+     505.0
+    ]
+   },
+   {
+    "id": 12,
+    "pagina": 22,
+    "bbox": [
+     48,
+     509.5,
+     175,
+     652.5
+    ]
+   },
+   {
+    "id": 13,
+    "pagina": 22,
+    "bbox": [
+     189,
+     509.0,
+     292,
+     653.0
+    ]
+   },
+   {
+    "id": 14,
+    "pagina": 22,
+    "bbox": [
+     48,
+     656.5,
+     175,
+     799.5
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:10}}",
+   "D": "{{img:11}}",
+   "B": "{{img:12}}",
+   "E": "{{img:13}}",
+   "C": "{{img:14}}"
+  }
+ },
+ "P7555-Q163": {
+  "motivo": "alternativas são figuras (letras em imagem): recortadas uma a uma da página 27",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:2\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [
+   1
+  ],
+  "imagens_novas": [
+   {
+    "id": 10,
+    "pagina": 27,
+    "bbox": [
+     316,
+     96.0,
+     455,
+     166.0
+    ]
+   },
+   {
+    "id": 11,
+    "pagina": 27,
+    "bbox": [
+     469,
+     96.0,
+     561,
+     166.0
+    ]
+   },
+   {
+    "id": 12,
+    "pagina": 27,
+    "bbox": [
+     316,
+     170.0,
+     455,
+     240.0
+    ]
+   },
+   {
+    "id": 13,
+    "pagina": 27,
+    "bbox": [
+     469,
+     170.0,
+     561,
+     240.0
+    ]
+   },
+   {
+    "id": 14,
+    "pagina": 27,
+    "bbox": [
+     316,
+     244.0,
+     455,
+     314.0
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:10}}",
+   "D": "{{img:11}}",
+   "B": "{{img:12}}",
+   "E": "{{img:13}}",
+   "C": "{{img:14}}"
+  }
+ },
+ "P7555-Q167": {
+  "motivo": "alternativas são gráficos (letras em imagem): recortadas uma a uma da página 28",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 10,
+    "pagina": 28,
+    "bbox": [
+     317,
+     234.5,
+     437,
+     339.5
+    ]
+   },
+   {
+    "id": 11,
+    "pagina": 28,
+    "bbox": [
+     451,
+     236.0,
+     561,
+     340.0
+    ]
+   },
+   {
+    "id": 12,
+    "pagina": 28,
+    "bbox": [
+     317,
+     344.0,
+     437,
+     448.0
+    ]
+   },
+   {
+    "id": 13,
+    "pagina": 28,
+    "bbox": [
+     451,
+     344.0,
+     561,
+     448.0
+    ]
+   },
+   {
+    "id": 14,
+    "pagina": 28,
+    "bbox": [
+     317,
+     452.0,
+     437,
+     556.0
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:10}}",
+   "D": "{{img:11}}",
+   "B": "{{img:12}}",
+   "E": "{{img:13}}",
+   "C": "{{img:14}}"
+  }
+ },
+ "P7555-Q166": {
+  "motivo": "tabela recortada de novo da página 28 (a palavra Matemática tinha saído dela) e alternativas (matrizes desenhadas) lidas na página",
+  "enunciado_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\n\\nMatemática\\n\\n\\{\\{img:2\\}\\}",
+    "{{img:10}}"
+   ]
+  ],
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 10,
+    "pagina": 28,
+    "bbox": [
+     35,
+     414,
+     292,
+     498
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "\\( \\begin{bmatrix} \\frac{1}{2} & \\frac{1}{2} & \\frac{1}{2} & \\frac{1}{2} \\end{bmatrix} \\)",
+   "B": "\\( \\begin{bmatrix} \\frac{1}{4} & \\frac{1}{4} & \\frac{1}{4} & \\frac{1}{4} \\end{bmatrix} \\)",
+   "C": "\\( \\begin{bmatrix} 1 \\\\ 1 \\\\ 1 \\\\ 1 \\end{bmatrix} \\)",
+   "D": "\\( \\begin{bmatrix} \\frac{1}{2} \\\\ \\frac{1}{2} \\\\ \\frac{1}{2} \\\\ \\frac{1}{2} \\end{bmatrix} \\)",
+   "E": "\\( \\begin{bmatrix} \\frac{1}{4} \\\\ \\frac{1}{4} \\\\ \\frac{1}{4} \\\\ \\frac{1}{4} \\end{bmatrix} \\)"
+  }
+ },
+ "P7555-Q178": {
+  "motivo": "a alternativa E (5) estava fora da coluna das outras no PDF; conferida na página 31",
+  "alternativas": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "5"
+  }
  }
 }

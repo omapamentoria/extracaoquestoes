@@ -14,7 +14,7 @@ def letras(page,pid=None):
     bj=os.path.join(R,"_banco","bolhas",(pid or "")+".json")
     if pid and os.path.exists(bj):
         bl=json.load(open(bj)).get(str(page.page_number),[])
-        if bl: return [{"text":b[4],"x0":b[0],"top":b[1],"x1":b[2],"bottom":b[3]} for b in bl]
+        if bl: return [{"text":b[4],"x0":b[0],"top":b[1],"x1":b[2],"bottom":b[3],"_bolha":True} for b in bl]
     ws=page.extract_words(extra_attrs=["fontname","size"])
     # letra em negrito ou em fonte de bolinha do ENEM (BundesbahnPi, dingbats)
     return [w for w in ws if re.fullmatch(r"[A-E]",w["text"]) and ("Bold" in w["fontname"] or re.search(r"(?i)bundesbahn|dingbat|zapf",w["fontname"]))]
@@ -56,6 +56,16 @@ def recorta(pid,q,d):
             acima=[v["top"] for v in ls if abs(v["x0"]-w["x0"])<3 and v["top"]<w["top"]-5]
             if acima: y1=max(y1,min(w["top"]+(w["top"]-max(acima))-3,p.height-8))   # alternativas da coluna tem a mesma altura
         x0=w["x1"]+4; y0=w["top"]-4
+        if w.get("_bolha"):
+            # letra em imagem (ENEM 2012): a figura da alternativa fica centrada na bolinha; a caixa vai do meio do
+            # caminho ate a letra de cima ao meio do caminho ate a de baixo (mesma altura para a ultima da coluna)
+            cs=sorted((v["top"]+v["bottom"])/2 for v in ls if abs(v["x0"]-w["x0"])<3); c=(w["top"]+w["bottom"])/2; i=cs.index(c)
+            dd=(cs[i+1]-c)/2 if i+1<len(cs) else (c-cs[i-1])/2 if i>0 else 40
+            y0=c-dd+2; y1=c+dd-2
+            # sem passar da figura que o extrator achou em volta (texto acima, fio decorativo abaixo)
+            for i_ in q.get("_imgs_orig",[]):
+                bb=i_["bbox"]
+                if i_.get("pagina")==pg and bb[1]-15<=c<=bb[3]+15 and bb[0]<x1 and bb[2]>w["x1"]: y0=max(y0,bb[1]-2); y1=min(y1,bb[3]+2)
         arq="img/%s_alt%s.png"%(q["id"].split("-",1)[1],L)
         im=p.crop((x0,y0,x1,y1)).to_image(resolution=200); im.save(os.path.join(d,arq))
         # tira a margem branca
