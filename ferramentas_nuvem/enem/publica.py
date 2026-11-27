@@ -13,7 +13,7 @@ from catalogo import CAT
 corr={}
 for _c in CORR.split(","):
     for k,v in json.load(open(_c)).items():
-        if k in ("_area","_casa","_reextrai","_fora"): corr.setdefault(k,{}).update(v)
+        if k in ("_area","_casa","_reextrai","_fora","_substitui"): corr.setdefault(k,{}).update(v)
         else: corr[k]=v
 PARTES=sorted(glob.glob(DEST+"/final/partes/banco_parte_*.json"))
 dados={f:json.load(open(f)) for f in PARTES}
@@ -97,6 +97,8 @@ for ij in INTS:
         # prova marcada em correcoes "_reextrai" (ex.: enfeite do cabecalho publicado como figura): a publicada com imagem
         # a mais que a extracao nova passa a ter o texto e as imagens da extracao nova
         if d["pid"] in corr.get("_reextrai",{}) and x["imgs_banco"]>x["imgs_novo"]: dv=dv+["imagem a mais (enfeite do cabeçalho)"]
+        # questao publicada com texto embaralhado que nao da para detectar sozinho (colunas misturadas): correcoes "_substitui"
+        if r["origem_texto"] in corr.get("_substitui",{}): dv=dv+["texto embaralhado: "+corr["_substitui"][r["origem_texto"]]]
         substituidos.add(r["origem_texto"])
         if q["id"]<10000:
             # banco antigo (texto copiado de site, sem PDF): passa a ter o texto e as imagens do PDF oficial da cor escolhida
@@ -110,6 +112,10 @@ for ij in INTS:
             q.update({"statement":r["statement"],"alternativas":r["alternativas"],"apos_alternativas":r["apos_alternativas"],"fontes":r["fontes"],
                       "imagens":imgs,"tem_imagem":"sim" if imgs else "nao"})
             rel["antigas reextraídas"]+=1; reextraidas.append((q["id"],dv))
+            if r["origem_texto"] in corr.get("_substitui",{}) and q.get("analise_correta_texto") and q["gabarito"]==r["gabarito"]:
+                # o comentario foi escrito sobre o texto embaralhado: sai e vai para a lista a refazer
+                refazer.append({"id":q["id"],"gabarito":r["gabarito"],"gabarito_antigo":q["gabarito"],"motivo":"texto_corrigido","fonte":f"texto do {nome}","tinha_comentario":True})
+                q.update(json.loads(json.dumps(VAZIO))); rel["comentário apagado (texto embaralhado corrigido)"]+=1
         elif n_esp: rel["publicadas com palavras grudadas corrigidas"]+=1; espacadas.append(q["id"])
         if dv and dn: rel["antigas com defeito e extração nova também (ver à mão)"]+=1; ver.append((q["id"],dv,dn))
         if q["gabarito"]!=r["gabarito"]:

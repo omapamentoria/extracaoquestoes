@@ -1,1 +1,56 @@
-{}
+{
+ "_area": {
+  "P7541": [
+   [
+    1,
+    45,
+    "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS"
+   ],
+   [
+    46,
+    90,
+    "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS"
+   ]
+  ],
+  "P7543": [
+   [
+    91,
+    135,
+    "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS"
+   ],
+   [
+    136,
+    180,
+    "MATEMÁTICA E SUAS TECNOLOGIAS"
+   ]
+  ],
+  "P7545": [
+   [
+    1,
+    45,
+    "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS"
+   ],
+   [
+    46,
+    90,
+    "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS"
+   ]
+  ],
+  "P7547": [
+   [
+    91,
+    135,
+    "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS"
+   ],
+   [
+    136,
+    180,
+    "MATEMÁTICA E SUAS TECNOLOGIAS"
+   ]
+  ]
+ },
+ "_motivo_area": "faixas de área do formato 2009-2016 (dia 1: Humanas e Natureza; dia 2: Linguagens e Matemática), conferidas na capa de cada caderno; nome padrão do banco",
+ "_fora": {
+  "P7543-Q163": "gabarito do arquivo oficial da 2ª aplicação (2º dia) diz B (= 1), mas o conteúdo dá D (1/4): razão entre os volumes de C1 e C2 com o raio dobrado = 1/4. As vizinhas 161, 162 e 165 conferem com o mesmo gabarito, então não é troca de cor. Incerto: a questão fica fora da prova completa e mantém o que já está publicado (id 1042, gabarito D); o Matheus decide."
+ }
+}

@@ -1,1 +1,62 @@
-{}
+{
+ "_area": {
+  "P7525": [
+   [
+    1,
+    45,
+    "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS"
+   ],
+   [
+    46,
+    90,
+    "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS"
+   ]
+  ],
+  "P7527": [
+   [
+    91,
+    135,
+    "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS"
+   ],
+   [
+    136,
+    180,
+    "MATEMÁTICA E SUAS TECNOLOGIAS"
+   ]
+  ],
+  "P7529": [
+   [
+    1,
+    45,
+    "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS"
+   ],
+   [
+    46,
+    90,
+    "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS"
+   ]
+  ],
+  "P7531": [
+   [
+    91,
+    135,
+    "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS"
+   ],
+   [
+    136,
+    180,
+    "MATEMÁTICA E SUAS TECNOLOGIAS"
+   ]
+  ]
+ },
+ "_motivo_area": "faixas de área do formato 2009-2016 (dia 1: Humanas e Natureza; dia 2: Linguagens e Matemática), conferidas na capa de cada caderno; nome padrão do banco",
+ "_casa": {
+  "P7529-Q014": [
+   100226,
+   "a questão publicada (extraída antes do mesmo caderno amarelo, P2491-Q014) saiu com as colunas da página 5 misturadas (pedaços da questão 13 no meio); passa a ter o texto da extração nova, mantendo id, gabarito, comentário e classificação"
+  ]
+ },
+ "_substitui": {
+  "P7529-Q014": "a questão publicada (extraída antes do mesmo caderno amarelo, P2491-Q014) saiu com as colunas da página 5 misturadas (pedaços da questão 13 no meio); passa a ter o texto da extração nova, mantendo id, gabarito, comentário e classificação"
+ }
+}

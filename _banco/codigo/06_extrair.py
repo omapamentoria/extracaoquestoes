@@ -118,7 +118,10 @@ def letra_alt(l):
     return None
 ALT_NEGRITO = False
 # ENEM 2020 digital: letra da alternativa em negrito dentro de bolinha desenhada (curvas), sem fonte de simbolos
-LETRA_CIRCULO = bool(os.environ.get("ENEM_LETRA_CIRCULO"))
+# letra da alternativa em negrito dentro de bolinha desenhada: ENEM 2020 digital (variavel de ambiente) ou provas
+# listadas em _banco/colunas/_letra_circulo.json (ENEM 2013 e 2014 regulares)
+_LCP = os.path.join(B, "colunas", "_letra_circulo.json")
+LETRA_CIRCULO = bool(os.environ.get("ENEM_LETRA_CIRCULO")) or (os.path.exists(_LCP) and PID in json.load(open(_LCP)))
 def eh_codigo_tok(x):
     """codigo interno de questao de simulado (ex.: "R387", "196SE02BIO2019II", "BAN_027SE01FIS2018I")"""
     return re.fullmatch(r"[A-Z0-9_]{4,}", x) is not None and re.search(r"\d", x) is not None and re.search(r"[A-Z]", x) is not None
@@ -612,7 +615,7 @@ def fracoes(page, ws):
         else: indice = []
         if not dentro or no_gancho: continue
         # ENEM 2020 digital: a bolinha da letra da alternativa e desenhada com o mesmo formato; letra A-E sozinha nao e raiz
-        if os.environ.get("ENEM_LETRA_CIRCULO") and len(dentro) == 1 and re.fullmatch(r"[A-E]", dentro[0]["text"]): continue
+        if LETRA_CIRCULO and len(dentro) == 1 and re.fullmatch(r"[A-E]", dentro[0]["text"]): continue
         graf_usados.add(o["_k"])
         for w in dentro + indice: usadas.add(ws.index(w))
         w0 = max(dentro, key=lambda w: w["size"])
@@ -1042,6 +1045,12 @@ def detecta_figuras(pg):
             tinta[max(0, int((l_["top"] - fz) * s)):int((l_["bottom"] + fz) * s) + 1, max(0, int((l_["x0"] - fz) * s)):int((l_["x1"] + fz) * s) + 1] = 0
     for b_ in BOLHAS.get(pg["n"], []):      # OCR: bolinha de alternativa e marcador, nao figura
         tinta[max(0, int((b_[1] - 1) * s)):int((b_[3] + 1) * s) + 1, max(0, int((b_[0] - 1) * s)):int((b_[2] + 1) * s) + 1] = 0
+    # marcador lateral na borda da pagina (aba preta do caderno, ENEM 2013-2014): fora da area do texto, nao e figura
+    _wsx = [w for w in pg["ws"] if w["size"] >= 0.8 * CORPO]
+    if len(_wsx) > 50:
+        _xe = min(w["x0"] for w in _wsx) - 8; _xd = max(w["x1"] for w in _wsx) + 8
+        if _xe > 0: tinta[:, :max(0, int(_xe * s))] = 0
+        tinta[:, int(_xd * s):] = 0
     # faixa decorativa (imagem baixa e comprida) na altura do titulo "QUESTAO N", logo a direita dele, ou o fio duplo
     # que fecha a questao (ENEM 2012 regular, prova com as letras em imagem): nao e figura
     for im_ in page.images:
@@ -1094,6 +1103,7 @@ def detecta_figuras(pg):
     for im_ in page.images:
         x0_, y0_, x1_, y1_ = max(0, im_["x0"]), max(0, im_["top"]), min(page.width, im_["x1"]), min(page.height, im_["bottom"])
         if any(abs(b_[0] - x0_) < 1 and abs(b_[1] - y0_) < 1 for b_ in BOLHAS.get(pg["n"], [])): continue   # bolinha da alternativa
+        if (x1_ - x0_) < 45 and (x0_ > 0.93 * page.width or x1_ < 0.07 * page.width): continue   # aba lateral na borda da pagina
         # faixa decorativa ao lado do titulo "QUESTAO N" (imagem baixa na mesma altura do titulo; ENEM 2012): nao e figura
         if (y1_ - y0_) < 25 and (x1_ - x0_) > 4 * (y1_ - y0_) and (any(re.fullmatch(r"(?i)quest[ãa]o", w["text"]) and y0_ - 3 <= (w["top"] + w["bottom"]) / 2 <= y1_ + 3
                                                                      and w["x1"] <= x0_ + 5 for w in pg["ws"]) or (BOLHAS and not OCR and (x1_ - x0_) > 200
