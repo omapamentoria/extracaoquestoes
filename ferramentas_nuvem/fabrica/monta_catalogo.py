@@ -1,13 +1,24 @@
 # Fábrica, etapa 1b: monta o catálogo do Drive novo a partir das medidas (analisa_drive2.py), sem IA.
 # Separa prova / gabarito / resolução, liga prova ao gabarito (pasta, nome e número de questões),
 # marca repetidos e dá a cor de triagem. Grava um arquivo por instituição em _banco/catalogo_drive2/.
-# Uso: python3 monta_catalogo.py <medidas.jsonl> [ID_INICIAL=6000]
-import json, os, re, sys, glob, unicodedata, collections, difflib
+# Uso: python3 monta_catalogo.py <medidas.jsonl> <pasta_textos> [ID_INICIAL=6000]
+import json, os, re, sys, glob, gzip, unicodedata, collections, difflib
 
 R = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 OUT = os.path.join(R, "_banco", "catalogo_drive2")
 med = [json.loads(L) for L in open(sys.argv[1])]
-ID0 = int(sys.argv[2]) if len(sys.argv) > 2 else 6000
+TXT = sys.argv[2]
+ID0 = int(sys.argv[3]) if len(sys.argv) > 3 else 6000
+INI = re.compile(r"^\s*(?:QUEST[ÃA]O\s*[-–:]?\s*)?0*(\d{1,3})\s*(?:[\.\)\-–:]|$|\s)", re.M | re.I)
+_cache = {}
+def numeros_prova(r):
+    """números que aparecem como início de questão no texto da prova"""
+    if r["gid"] not in _cache:
+        f = os.path.join(TXT, r["gid"] + ".txt.gz"); s = set()
+        if os.path.exists(f):
+            s = {int(x) for x in INI.findall(gzip.open(f, "rt").read()) if 0 < int(x) <= 300}
+        _cache[r["gid"]] = s
+    return _cache[r["gid"]]
 
 def sa(s):
     return "".join(c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c)).lower()
@@ -29,6 +40,7 @@ def papel_nome(nome, pasta):
     if re.search(r"folha de reda|cartao[- ]resp|modelo gab|modelo folha|errata|edital|manual|instruc|calendario|relatorio|"
                  r"matriz de ref|guia do|conteudo program|programa de|lista de obras", n): return "auxiliar"
     if re.search(r"\((com|sem)\s+gabarito\)|com gabarito", n): return "prova"
+    if re.search(r"redac", n) and not re.search(r"gab|objetiv|prova [i1]\b|testes?\b", n): return "redacao"
     if re.search(r"criterio|grade de correcao|expectativa|padrao de resposta|padroes de resposta|respostas? esperadas?|"
                  r"chave de corre", n): return "padrao_resposta"
     if re.search(r"resolu|coment|correcao|^res[_ ]|_res_|cmtd|solucao|solucoes|resolvid", n): return "resolucao"
@@ -60,8 +72,9 @@ def chaves(nome):
     dia = re.search(r"(?:dia|d)\s*0?([12])\b|([12])\s*[ºo°]?\s*dia", n)
     fase = re.search(r"([123])\s*[ªaº°o]?\s*(?:fase|etapa)|(?:fase|etapa)\s*0?([123])", n)
     cor = next((c for c in CORES if c in n), "")
+    ver = re.search(r"versao\s*0?(\d)|tipo\s*([a-d1-4])\b|caderno\s*0?(\d)\b|modelo\s*([a-d1-4])\b", n)
     return {"dia": (dia.group(1) or dia.group(2)) if dia else "", "fase": (fase.group(1) or fase.group(2)) if fase else "",
-            "cor": cor, "ano": (ANO.findall(n) or [""])[0]}
+            "cor": cor, "versao": next(x for x in ver.groups() if x) if ver else "", "ano": (ANO.findall(n) or [""])[0]}
 
 def base_nome(nome):
     n = sa(os.path.splitext(nome)[0])
@@ -115,6 +128,8 @@ def candidatos(p, papel):
         elif os.path.dirname(r["pasta"]) == os.path.dirname(p["pasta"]) and r["pasta"] != p["pasta"]: rel = 2
         elif p["pasta"].startswith(r["pasta"] + "/"): rel = 2
         else: continue
+        ap, ar = ANO.findall(p["path"]), ANO.findall(r["path"])
+        if ap and ar and ap[-1] != ar[-1]: continue      # ano diferente: nunca liga
         out.append((rel, r))
     return out
 
@@ -124,23 +139,36 @@ for r in regs: por_pasta_papel[(r["pasta"], r["papel"])].append(r)
 def pontua(p, g, rel):
     kp, kg = chaves(p["nome"]), chaves(g["nome"])
     s = 3 - rel
-    for k in ("dia", "fase", "cor", "ano"):
+    for k in ("dia", "fase", "cor", "versao", "ano"):
         if kp[k] and kg[k]:
             if kp[k] == kg[k]: s += 2
             else: s -= 6
     s += 4 * difflib.SequenceMatcher(None, base_nome(p["nome"]), base_nome(g["nome"])).ratio()
-    # conteúdo: número de questões batendo
-    q, gg = p.get("q", (0, 0, 0)), g.get("g", (0, 0, 0))
-    bate = "?"
-    if q[2] >= 5 and gg[2] >= 5:
-        if (q[0], q[1]) == (gg[0], gg[1]) or (q[1] - q[0] == gg[1] - gg[0] and abs(q[2] - gg[2]) <= 2): bate = "sim"; s += 5
-        elif gg[0] <= q[0] and gg[1] >= q[1]: bate = "contém"; s += 1   # gabarito de vários dias/cadernos
-        else: bate = "não"; s -= 3
+    # conteúdo: cada número do gabarito tem que aparecer como início de questão na prova
+    gg = g.get("g", (0, 0, 0)); bate = "?"
+    if gg[2] >= 5:
+        P = numeros_prova(p); faixa_g = range(gg[0], gg[1] + 1)
+        cov = sum(1 for n in faixa_g if n in P) / len(faixa_g)
+        kq = faixa(p.get("q_quest"))   # "QUESTÃO N": se existe, a prova não pode ir além do gabarito
+        if cov >= 0.9 and not (kq[2] >= 5 and (kq[1] > gg[1] + 1 or kq[0] < gg[0] - 1)):
+            bate = "sim"; s += 5
+        elif kq[2] >= 5 and kq[0] >= gg[0] and kq[1] <= gg[1]:
+            bate = "contém"; s += 1    # gabarito de vários dias/cadernos juntos
+        elif cov >= 0.9:
+            bate = "não"; s -= 1       # prova tem mais questões que o gabarito
+        else:
+            bate = "não"; s -= 3
+        p.setdefault("_cov", {})[g["gid"]] = round(cov, 2)
     return s, bate
 
+DISC = re.compile(r"discursiv|dissertativ|questoes abertas|analitico-discursiv|resposta construida")
+for r in regs:
+    if r["papel"] == "prova":
+        r["discursiva"] = bool(DISC.search(sa(r["path"])))
 provas = [r for r in regs if r["papel"] == "prova" and not r.get("duplicata_de_gid")]
 for p in provas:
-    for papel, campo in (("gabarito", "gab"), ("resolucao", "res"), ("padrao_resposta", "pad")):
+    for papel, campo in ((("padrao_resposta", "pad"), ("resolucao", "res")) if p["discursiva"] else
+                         (("gabarito", "gab"), ("resolucao", "res"), ("padrao_resposta", "pad"))):
         cs = []
         for rel, g in candidatos(p, papel):
             s, bate = pontua(p, g, rel)
@@ -150,23 +178,32 @@ for p in provas:
             p[campo] = cs[0][2]; p[campo + "_bate"] = cs[0][1]; p[campo + "_pontos"] = round(cs[0][0], 1)
             # empate: dois candidatos quase iguais -> dúvida
             if len(cs) > 1 and cs[1][0] >= cs[0][0] - 0.5: p[campo + "_duvida"] = True
+    if not p.get("gab") and re.search(r"com gabarito", sa(p["nome"])):
+        p["gab_embutido"] = True
     # resolução que traz o gabarito dentro serve de apoio, mas não é "gabarito oficial"
 
 # ---------- cor de triagem
 def triagem(p):
     mot = []
     q = p["q"]
+    if p["discursiva"]:
+        return "discursiva", ["prova discursiva (fica fora das três cores)"] + (["com padrão de resposta"] if p.get("pad") else [])
     if p["escaneado"]: mot.append("escaneado (sem texto)")
     if p.get("pad") and not p.get("gab"): mot.append("discursiva (só padrão de resposta)")
+    elif p.get("gab_embutido"): mot.append("gabarito dentro da própria prova (conferir à parte)")
     elif not p.get("gab"): mot.append("sem gabarito ligado")
-    if q[2] < 5 and not p["escaneado"]: mot.append("questões não numeradas/encontradas")
-    if mot: return "vermelho", mot
+    if q[2] < 5 and not p["escaneado"] and p.get("gab_bate") != "sim": mot.append("questões não numeradas/encontradas")
+    if mot and not (p.get("gab_embutido") and len(mot) == 1): return "vermelho", mot
     if p.get("gab_bate") == "não": mot.append("número de questões não bate com o gabarito")
     if p.get("gab_bate") == "?": mot.append("gabarito sem leitura automática (formato novo)")
     if p.get("gab_bate") == "contém": mot.append("gabarito cobre mais que a prova (outro dia/caderno junto)")
     if p.get("gab_duvida"): mot.append("dois gabaritos possíveis")
+    if p.get("gab_bate") == "sim":
+        gg = p["gab"]["g"]; P = numeros_prova(p)
+        alem = sum(1 for n in range(gg[1] + 1, gg[1] + 21) if n in P)
+        if alem >= 15: mot.append("prova parece ter mais questões que o gabarito (parte discursiva?)")
     if p.get("gab", {}).get("escaneado"): mot.append("gabarito escaneado")
-    if p["frac_sem_texto"] > 0.1: mot.append(f"{p['pag_sem_texto']} páginas sem texto")
+    if p["frac_sem_texto"] > 0.2: mot.append(f"{p['pag_sem_texto']} páginas sem texto")
     if p.get("cid", 0) > 20 or p.get("pua", 0) > 50 or p.get("repl", 0) > 50: mot.append("símbolos desenhados/fonte sem mapa")
     if mot:
         grave = any(m.startswith(("número", "gabarito sem")) for m in mot)
@@ -177,15 +214,21 @@ for p in provas:
     p["cor_triagem"], p["triagem_motivos"] = triagem(p)
 
 # ---------- códigos P6000+ e saída por instituição
-gid2pid = {}
-k = ID0
+# códigos estáveis: quem já tem código num drive2_*.json mantém; novos continuam do maior
+gid2pid = {}; usados = {}
+for f in glob.glob(os.path.join(OUT, "drive2_*.json")):
+    for d in json.load(open(f)): usados[d["drive_id"]] = d["id"]
+k = max([ID0] + [int(v[1:]) + 1 for v in usados.values()])
+for r in regs:
+    if r["gid"] in usados: gid2pid[r["gid"]] = usados[r["gid"]]
 for r in sorted(regs, key=lambda r: r["path"]):
     if r["path"] in drive2_cam or r.get("md5") in drive2_md5:
         gid2pid[r["gid"]] = drive2_cam.get(r["path"]) or drive2_md5[r["md5"]]; r["ja_catalogado"] = True; continue
+    if r["gid"] in gid2pid: continue
     gid2pid[r["gid"]] = f"P{k}"; k += 1
 
 STATUS = {"prova": "a extrair", "gabarito": "apoio (usado com a prova)", "resolucao": "apoio (usado com a prova)",
-          "padrao_resposta": "apoio (usado com a prova)", "auxiliar": "ignorar (sem questões)",
+          "padrao_resposta": "apoio (usado com a prova)", "redacao": "ignorar (redação)", "auxiliar": "ignorar (sem questões)",
           "nao_pdf": "ignorar (não é PDF)", "erro": "erro no download"}
 saida = collections.defaultdict(list)
 for r in sorted(regs, key=lambda r: r["path"]):
@@ -206,6 +249,7 @@ for r in sorted(regs, key=lambda r: r["path"]):
         e["texto"] = "escaneado" if r["escaneado"] else ("parcial" if r["frac_sem_texto"] > 0.1 else "ok")
         e["paginas_sem_texto"] = r["pag_sem_texto"]
         q = r["q"] if r["papel"] == "prova" else r["g"]
+        if r["papel"] == "prova" and r.get("gab_bate") == "sim": q = r["gab"]["g"]
         e["questoes_faixa"] = f"{q[0]}-{q[1]}" if q[2] else ""; e["questoes_estimadas"] = q[2] or ""
     if r["papel"] == "prova" and not r.get("duplicata_de_gid"):
         for campo, alvo in (("gab", "gabarito_ids"), ("res", "resolucao_ids"), ("pad", "padrao_ids")):
@@ -223,7 +267,7 @@ for inst, lst in saida.items():
 
 # ---------- resumo
 res = {"arquivos": len(regs), "ja_catalogados_enem": sum(1 for r in regs if r.get("ja_catalogado")),
-       "codigos": f"P{ID0}-P{k-1}", "por_papel": collections.Counter(r["papel"] for r in regs),
+       "codigos": f"P{ID0}-P{k-1}", "dica": "para recomeçar a numeração, apague os drive2_*.json antes", "por_papel": collections.Counter(r["papel"] for r in regs),
        "repetidos": sum(1 for r in regs if r.get("duplicata_de_gid")),
        "ja_no_drive_antigo": sum(1 for r in regs if r.get("md5") in antigo_md5),
        "instituicoes": {}}
@@ -235,10 +279,11 @@ for inst, lst in sorted(saida.items(), key=lambda x: -len(x[1])):
         "verde": sum(1 for e in pv if e["cor_triagem"] == "verde"),
         "amarelo": sum(1 for e in pv if e["cor_triagem"] == "amarelo"),
         "vermelho": sum(1 for e in pv if e["cor_triagem"] == "vermelho"),
+        "discursiva": sum(1 for e in pv if e["cor_triagem"] == "discursiva"),
         "motivos": collections.Counter(m for e in pv for m in e["triagem_motivos"]).most_common()}
 os.makedirs(os.path.join(OUT, "resumo"), exist_ok=True)
 json.dump(res, open(os.path.join(OUT, "resumo", "resumo_drive2.json"), "w"), ensure_ascii=False, indent=1)
 print(json.dumps({k: v for k, v in res.items() if k != "instituicoes"}, ensure_ascii=False))
 for inst, v in res["instituicoes"].items():
     print(f"{inst[:30]:30} arq {v['arquivos']:4} provas {v['provas']:4} gab {v['com_gabarito']:4} confere {v['gabarito_confere']:4} "
-          f"V {v['verde']:4} A {v['amarelo']:4} R {v['vermelho']:4}")
+          f"verde {v['verde']:4} amar {v['amarelo']:4} verm {v['vermelho']:4} disc {v['discursiva']:4}")
