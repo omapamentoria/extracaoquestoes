@@ -1,0 +1,121 @@
+{
+ "P5002-Q121": {
+  "motivo": "alternativas são setas (figuras), já recortadas como imagem; conferido na página 10: não há texto a transcrever"
+ },
+ "P5002-Q170": {
+  "motivo": "fórmula com parênteses desenhados, transcrita lendo a página 27",
+  "statement_sub": [
+   [
+    "\\(cid:29\\) \\(cid:26\\)[\\s\\S]*?\\(cid:28\\) \\(cid:25\\)",
+    "\\( M_{2} - M_{1} = \\frac{2}{3}\\log\\left(\\frac{E_{2}}{E_{1}}\\right) \\)"
+   ]
+  ]
+ },
+ "P5002-Q180": {
+  "motivo": "alternativas com parênteses desenhados, transcritas lendo a página 31",
+  "alternativas": {
+   "A": "\\( \\frac{7!}{4!} \\times \\frac{6!}{4!} \\)",
+   "B": "\\( \\frac{7!}{3! \\times 4!} \\times \\frac{6!}{2! \\times 4!} \\)",
+   "C": "\\( \\frac{7!}{3! \\times 4!} + \\frac{6!}{2! \\times 4!} + \\frac{5!}{1! \\times 4!} \\)",
+   "D": "\\( \\left(\\frac{7!}{3! \\times 4!} + \\frac{6!}{2! \\times 4!}\\right) \\times \\left(\\frac{7!}{4! \\times 3!} + \\frac{6!}{1! \\times 5!}\\right) \\times \\left(\\frac{7!}{5! \\times 2!} + \\frac{6!}{0! \\times 6!}\\right) \\)",
+   "E": "\\( \\left(\\frac{7!}{3! \\times 4!} \\times \\frac{6!}{2! \\times 4!}\\right) + \\left(\\frac{7!}{4! \\times 3!} \\times \\frac{6!}{1! \\times 5!}\\right) + \\left(\\frac{7!}{5! \\times 2!} \\times \\frac{6!}{0! \\times 6!}\\right) \\)"
+  }
+ },
+ "P5006-Q114": {
+  "motivo": "fórmulas com parênteses e letra υ desenhados (o extrator ainda trocou o denominador da 2ª fórmula), transcritas lendo a página 9",
+  "statement_sub": [
+   [
+    "\\(cid:27\\)\\s*\\n\\(cid:24\\)[\\s\\S]*?substância moderadora<sup>n</sup>",
+    "\\( \\upsilon_{nf} = \\left(\\frac{m_{n} - m_{s}}{m_{n} + m_{s}}\\right)\\upsilon_{0} \\)\n\n\\( \\upsilon_{sf} = \\left(\\frac{2m_{n}}{m_{n} + m_{s}}\\right)\\upsilon_{0} \\)\n\nem que m<sub>n</sub> é a massa do nêutron, m<sub>s</sub> é a massa da substância moderadora e υ<sub>0</sub> é a velocidade inicial do nêutron."
+   ]
+  ]
+ },
+ "P5006-Q178": {
+  "motivo": "fórmula com parênteses desenhados, transcrita lendo a página 30",
+  "statement_sub": [
+   [
+    "\\(cid:30\\) \\(cid:27\\)[\\s\\S]*?\\(cid:29\\) \\(cid:26\\)",
+    "\\( n = 20\\log\\left(\\frac{P}{P_{0}}\\right) \\),"
+   ]
+  ]
+ },
+ "P5004-Q045": {
+  "motivo": "prova ampliada: as páginas da redação (37–39) ficam entre as questões 45 e 46 e o extrator colou os textos motivadores na alternativa E e depois dela; conferido na página 36, a questão termina na alternativa E",
+  "statement_sub": [
+   [
+    "\\n\\n\\{\\{fonte:2\\}\\}\\n\\n\\{\\{fonte:3\\}\\}",
+    ""
+   ]
+  ],
+  "alt_sub": {
+   "E": [
+    "(esporte\\.)[\\s\\S]*$",
+    "esporte."
+   ]
+  },
+  "apos_alternativas": "",
+  "fontes": [
+   "Disponível em: http://observatoriodoesporte.mg.gov.br. Acesso em: 22 jun. 2019 (adaptado)."
+  ]
+ },
+ "P5002-Q092": {
+  "motivo": "setas das equações desenhadas (o extrator jogou a seta para o fim da linha); transcritas lendo a página 2",
+  "statement_sub": [
+   [
+    "\\s*→\\s*$",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "CH<sub>3</sub>COO<sup>−</sup> (aq) + O<sub>2</sub> (g) ⟶ 2 CO<sub>2</sub> (g) + 3 H<sup>+</sup> (aq)",
+   "B": "CO<sub>2</sub> (g) + O<sub>2</sub> (g) + H<sup>+</sup> (aq) ⟶ H<sub>2</sub>O (l) + CH<sub>3</sub>COO<sup>−</sup> (aq)",
+   "C": "CH<sub>3</sub>COO<sup>−</sup> (aq) + H<sup>+</sup> (aq) + 2 O<sub>2</sub> (g) ⟶ 2 CO<sub>2</sub> (g) + 2 H<sub>2</sub>O (l)",
+   "D": "CH<sub>3</sub>COO<sup>−</sup> (aq) + 6 H<sub>2</sub>O (l) ⟶ 2 CO<sub>2</sub> (g) + 2 O<sub>2</sub> (g) + 15 H<sup>+</sup> (aq)",
+   "E": "2 CO<sub>2</sub> (g) + 11 H<sup>+</sup> (aq) + O<sub>2</sub> (g) ⟶ CH<sub>3</sub>COO<sup>−</sup> (aq) + 4 H<sub>2</sub>O (l)"
+  }
+ },
+ "P5002-Q142": {
+  "motivo": "figuras (carinhas) dentro do quadro não foram recortadas; transcritas como 🙂 lendo a página 18 (3, 6 e 12 figuras)",
+  "statement_sub": [
+   [
+    "figuras do tipo no visor",
+    "figuras do tipo 🙂 no visor"
+   ],
+   [
+    "(?<=da mensagem; \\|)\\s+\\|",
+    " 🙂🙂🙂 |"
+   ],
+   [
+    "(?<=ao lado; \\|)\\s+\\|",
+    " 🙂🙂🙂🙂🙂🙂 |"
+   ],
+   [
+    "(?<=colou ao lado\\. \\|)\\s+\\|",
+    " 🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂 |"
+   ]
+  ]
+ },
+ "P5002-Q166": {
+  "motivo": "parênteses desenhados das alternativas lidos fora do lugar; transcritas lendo a página 25",
+  "alternativas": {
+   "A": "\\( d(Q) = \\frac{1}{4}\\,d(R) \\)",
+   "B": "\\( d(Q) = \\frac{1}{2}\\,d(R) \\)",
+   "C": "\\( d(Q) = \\frac{3}{4}\\,d(R) \\)",
+   "D": "\\( d(Q) = \\frac{3}{2}\\,d(R) \\)",
+   "E": "\\( d(Q) = \\frac{2}{3}\\,d(R) \\)"
+  }
+ },
+ "P5006-Q116": {
+  "motivo": "frações compostas das alternativas C, D e E desenhadas (um pedaço virou imagem); transcritas lendo a página 9",
+  "remove_imagens": [
+   1
+  ],
+  "alternativas": {
+   "A": "\\( \\frac{1}{2} \\)",
+   "B": "\\( \\frac{1}{20} \\)",
+   "C": "\\( \\frac{\\frac{R}{20} + r}{\\frac{R}{40} + r} \\)",
+   "D": "\\( \\frac{\\frac{R}{40} + r}{\\frac{R}{20} + r} \\)",
+   "E": "\\( \\frac{R}{40} + r \\)"
+  }
+ }
+}

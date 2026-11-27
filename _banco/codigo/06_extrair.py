@@ -1171,8 +1171,11 @@ def detecta_figuras(pg):
     # decoracao do cabecalho da questao (caixa preta com o numero, faixa/linha ao lado de "QUESTAO 12"): nao e figura
     def enfeite_cab(f):
         if (f[3] - f[1]) > 2.6 * CORPO: return False
-        return any((eh_cabecalho(l) is not None or (linha_estrutural(l) and not letra_alt(l))) and l["top"] >= f[1] - 3 and l["bottom"] <= f[3] + 3
-                   and min(l["x1"], f[2]) - max(l["x0"], f[0]) > -15 for l in linhas)
+        fina = (f[3] - f[1]) < 0.9 * CORPO   # faixa fina ao lado de "QUESTAO 113" (ENEM 2024): mais baixa que a propria linha
+        return any((eh_cabecalho(l) is not None or (linha_estrutural(l) and not letra_alt(l)))
+                   and ((l["top"] >= f[1] - 3 and l["bottom"] <= f[3] + 3)
+                        or (fina and eh_cabecalho(l) is not None and min(l["bottom"], f[3]) - max(l["top"], f[1]) > 0.5 * (f[3] - f[1])))
+                   and min(l["x1"], f[2]) - max(l["x0"], f[0]) > -max(15, 1.2 * CORPO) for l in linhas)
     figs = [f for f in figs if not enfeite_cab(f)]
     def larg_col(l): return l["col"][1] - l["col"][0]
     esq_col = {}
@@ -2271,7 +2274,8 @@ def monta(bloco, prefixo, eh_questao):
             marcada.append((GAB_RAZAO.get((it["pg"], round(l["ws"][0]["top"])), 0), letra))
             continue
         # fonte / citacao (fonte pequena)
-        if l.get("pequena") or l["size"] < 0.85 * CORPO:
+        # prova ampliada (corpo 18 pt, fonte/credito 16 pt): a razao 0.85 nao pega a fonte -> 0.92 quando o corpo e grande
+        if l.get("pequena") or l["size"] < (0.92 if CORPO >= 16 else 0.85) * CORPO:
             t = txt_puro(l)
             # referencia no estilo "Autor. *Obra*, 260-265." (letra pequena, com titulo em italico ou numero)
             ref = re.match(r"^[A-ZÁÉÍÓÚÂÊÔ][\wÀ-ú\-]+(\s[A-ZÁÉÍÓÚÂÊÔ][\wÀ-ú\-]+)*[.,]\s", t) and (any(w.get("ital") for w in l["ws"]) or re.search(r"\d", t))

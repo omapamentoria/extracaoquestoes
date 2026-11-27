@@ -45,8 +45,9 @@ cand=[]
 def grams(k): return {k[i:i+6] for i in range(0,max(1,len(k)-5),3)}
 BK={q["id"]:chave(q["statement"],q["alternativas"]) for q in banco}; BG={i:grams(k) for i,k in BK.items()}
 for i,r in enumerate(reg):
-    kr=chave(*r.get("_chave",(r["statement"],r["alternativas"]))); gr=grams(kr)
-    pre=sorted(banco,key=lambda q:-len(gr&BG[q["id"]])/max(1,len(gr|BG[q["id"]])))[:4]   # 4 mais parecidas pelos pedacos de texto
+    kr=chave(*r.get("_chave",(r["statement"],r["alternativas"]))); gr={kr[i:i+6] for i in range(max(1,len(kr)-5))}
+    # pedacos do novo em todas as posicoes (um titulo a mais no inicio desalinha os pedacos de 3 em 3 e a questao sumia do filtro)
+    pre=sorted(banco,key=lambda q:-len(gr&BG[q["id"]])/max(1,len(BG[q["id"]])))[:4]   # 4 mais parecidas pelos pedacos de texto
     for q in pre:
         if r["idioma"] and q.get("idioma") and r["idioma"]!=q["idioma"]: continue
         cand.append((difflib.SequenceMatcher(None,kr,BK[q["id"]],autojunk=False).ratio(),i,q["id"]))
