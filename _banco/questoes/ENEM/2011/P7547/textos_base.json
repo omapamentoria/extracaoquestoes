@@ -1,0 +1,197 @@
+[
+ {
+  "id": "P7547-T1",
+  "texto": "**Texto para as questões 122 e 123**\n\n{{img:1}}\n\nNós adoraríamos dizer que somos perfeitos. Que somos infalíveis. Que não cometemos nem mesmo o menor deslize. E só não falamos isso por um pequeno detalhe: seria uma mentira.Aliás, em vez de usar a palavra “mentira”, como acabamos de fazer, poderíamos optar por um eufemismo. “Meia-verdade”, por exemplo, seria um termo muito menos agressivo. Mas nós não usamos esta palavra simplesmente porque não acreditamos que exista uma “Meia-verdade”. Para o Conar, Conselho Nacional de Autorregulamentação Publicitária, existem a verdade e a mentira. Existem a honestidade e a desonestidade. Absolutamente nada no meio. O Conar nasceu há 29 anos (viu só? não arredondamos para 30) com a missão de zelar pela ética na publicidade. Não fazemos isso porque somos bonzinhos (gostaríamos de dizer isso, mas, mais uma vez, seria mentira). Fazemos isso porque é a única forma da propaganda ter o máximo de credibilidade. E, cá entre nós, para que serviria a propaganda se o consumidor não acreditasse nela?\n\nQualquer pessoa que se sinta enganada por uma peça publicitária pode fazer uma reclamação ao Conar. Ele analisa cuidadosamente todas as denúncias e, quando é o caso, aplica a punição.\n\n{{fonte:1}}",
+  "fontes": [
+   "Anúncio veiculado na Revista **Veja.** São Paulo: Abril. Ed. 2120, ano 42, nº 27, 8 jul. 2009."
+  ],
+  "imagens": [
+   {
+    "id": 1,
+    "arquivo": "img/T1_img1.png",
+    "pagina": 16,
+    "bbox": [
+     49.7,
+     128.9,
+     288.0,
+     182.9
+    ]
+   }
+  ],
+  "alertas": [],
+  "paginas": [
+   16
+  ],
+  "caixas": {
+   "16": [
+    [
+     44.19938232024,
+     110.09929276040009,
+     201.86919225229082,
+     120.09928876039999
+    ],
+    [
+     49.68,
+     128.88,
+     288.0,
+     182.88
+    ],
+    [
+     61.207475517,
+     191.31326027479997,
+     292.22745310897204,
+     201.31325627479998
+    ],
+    [
+     44.197282321080024,
+     205.31325467480008,
+     292.22733310902015,
+     215.3132506748001
+    ],
+    [
+     44.197282321080024,
+     219.31324907480007,
+     292.2072061170709,
+     229.31324507480008
+    ],
+    [
+     44.197282321080024,
+     233.31324347480006,
+     292.20712311710406,
+     243.31323947480007
+    ],
+    [
+     44.197282321080024,
+     247.31323787480005,
+     292.2272131090681,
+     257.31323387480006
+    ],
+    [
+     44.197282321080024,
+     261.31323227480004,
+     292.2169451131753,
+     271.31322827480005
+    ],
+    [
+     44.197282321080024,
+     275.31322667480003,
+     292.216800813233,
+     285.31322267480004
+    ],
+    [
+     44.197282321080024,
+     289.3132210748,
+     292.2271631090881,
+     299.31321707480004
+    ],
+    [
+     44.197282321080024,
+     303.3132154748,
+     292.20725311705206,
+     313.3132114748
+    ],
+    [
+     44.197282321080024,
+     317.3132098748,
+     292.22717310908405,
+     327.3132058748
+    ],
+    [
+     44.197282321080024,
+     331.3132042748,
+     292.2371731050841,
+     341.3132002748
+    ],
+    [
+     44.197282321080024,
+     345.31319867480005,
+     292.2172576130502,
+     355.31319467480006
+    ],
+    [
+     44.197282321080024,
+     359.31319307480004,
+     292.23719810507407,
+     369.31318907480005
+    ],
+    [
+     44.197282321080024,
+     373.31318747480003,
+     292.22719310907604,
+     383.31318347480004
+    ],
+    [
+     44.197282321080024,
+     387.3131818748,
+     292.2171661130869,
+     397.31317787480003
+    ],
+    [
+     44.197282321080024,
+     401.3131762748,
+     292.2172124130684,
+     411.3131722748
+    ],
+    [
+     44.197282321080024,
+     415.3131706748,
+     292.21712311310415,
+     425.3131666748
+    ],
+    [
+     44.197282321080024,
+     429.3131650748,
+     292.20732391702376,
+     439.3131610748
+    ],
+    [
+     44.197282321080024,
+     443.31315947480005,
+     274.31719027308003,
+     453.31315547480006
+    ],
+    [
+     61.20727551708003,
+     462.98335160672,
+     292.20719311707603,
+     472.98334760672003
+    ],
+    [
+     44.19728232108001,
+     476.78334608672003,
+     292.2170861131189,
+     486.78334208672004
+    ],
+    [
+     44.19728232108001,
+     490.5833405667201,
+     292.2072231170641,
+     500.5833365667201
+    ],
+    [
+     44.19728232108001,
+     504.3833350467201,
+     198.73722050508005,
+     514.3833310467201
+    ],
+    [
+     54.876578049360006,
+     522.885127646,
+     292.22422691026253,
+     528.8851252459999
+    ]
+   ]
+  },
+  "faixa_questoes": [
+   122,
+   123
+  ],
+  "questoes": [
+   "P7547-Q122",
+   "P7547-Q123"
+  ],
+  "recortes": [
+   "revisao/T1_p16.jpg"
+  ]
+ }
+]

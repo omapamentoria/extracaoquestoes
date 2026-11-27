@@ -345,5 +345,159 @@
     "π •"
    ]
   ]
+ },
+ "P7571-Q137": {
+  "motivo": "a figura da alternativa A tinha ido para o enunciado (página 19)",
+  "enunciado_sub": [
+   [
+    "\\n*\\{\\{img:2\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "alternativas": {
+   "A": "{{img:2}}",
+   "B": "{{img:3}}",
+   "C": "{{img:4}}",
+   "D": "{{img:5}}",
+   "E": "{{img:6}}"
+  }
+ },
+ "P7571-Q138": {
+  "motivo": "alternativas são figuras e o extrator juntou duas: recortadas de novo, uma por letra, da página 20",
+  "imagens": [
+   1
+  ],
+  "imagens_novas": [
+   {
+    "id": 20,
+    "pagina": 20,
+    "bbox": [
+     85,
+     310,
+     216,
+     377
+    ]
+   },
+   {
+    "id": 21,
+    "pagina": 20,
+    "bbox": [
+     85,
+     382,
+     216,
+     454
+    ]
+   },
+   {
+    "id": 22,
+    "pagina": 20,
+    "bbox": [
+     85,
+     459,
+     216,
+     564
+    ]
+   },
+   {
+    "id": 23,
+    "pagina": 20,
+    "bbox": [
+     85,
+     568,
+     216,
+     662
+    ]
+   },
+   {
+    "id": 24,
+    "pagina": 20,
+    "bbox": [
+     85,
+     667,
+     216,
+     764
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:20}}",
+   "B": "{{img:21}}",
+   "C": "{{img:22}}",
+   "D": "{{img:23}}",
+   "E": "{{img:24}}"
+  }
+ },
+ "P7573-Q064": {
+  "motivo": "alternativas são figuras e o extrator juntou duas: recortadas de novo, uma por letra, da página 22",
+  "imagens": [
+   1
+  ],
+  "imagens_novas": [
+   {
+    "id": 20,
+    "pagina": 22,
+    "bbox": [
+     345,
+     303,
+     516,
+     394
+    ]
+   },
+   {
+    "id": 21,
+    "pagina": 22,
+    "bbox": [
+     345,
+     397,
+     516,
+     488
+    ]
+   },
+   {
+    "id": 22,
+    "pagina": 22,
+    "bbox": [
+     345,
+     490,
+     516,
+     581
+    ]
+   },
+   {
+    "id": 23,
+    "pagina": 22,
+    "bbox": [
+     345,
+     584,
+     516,
+     675
+    ]
+   },
+   {
+    "id": 24,
+    "pagina": 22,
+    "bbox": [
+     345,
+     677,
+     516,
+     768
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:20}}",
+   "B": "{{img:21}}",
+   "C": "{{img:22}}",
+   "D": "{{img:23}}",
+   "E": "{{img:24}}"
+  }
  }
 }

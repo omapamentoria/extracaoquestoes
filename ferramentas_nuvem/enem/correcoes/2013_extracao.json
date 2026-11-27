@@ -55,5 +55,127 @@
    ]
   ],
   "imagens": []
+ },
+ "P7561-Q057": {
+  "motivo": "alternativas são fórmulas estruturais e a da A tinha ido para o enunciado: recortadas de novo, uma por letra, da página 18",
+  "enunciado_sub": [
+   [
+    "\\n*\\{\\{img:2\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [
+   1
+  ],
+  "imagens_novas": [
+   {
+    "id": 20,
+    "pagina": 18,
+    "bbox": [
+     345,
+     374,
+     500,
+     430
+    ]
+   },
+   {
+    "id": 21,
+    "pagina": 18,
+    "bbox": [
+     345,
+     452,
+     500,
+     505
+    ]
+   },
+   {
+    "id": 22,
+    "pagina": 18,
+    "bbox": [
+     345,
+     530,
+     500,
+     584
+    ]
+   },
+   {
+    "id": 23,
+    "pagina": 18,
+    "bbox": [
+     345,
+     610,
+     500,
+     674
+    ]
+   },
+   {
+    "id": 24,
+    "pagina": 18,
+    "bbox": [
+     345,
+     697,
+     500,
+     753
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:20}}",
+   "B": "{{img:21}}",
+   "C": "{{img:22}}",
+   "D": "{{img:23}}",
+   "E": "{{img:24}}"
+  }
+ },
+ "P7561-Q068": {
+  "motivo": "a figura da alternativa A tinha ido para o enunciado (página 23)",
+  "enunciado_sub": [
+   [
+    "\\n*\\{\\{img:2\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "alternativas": {
+   "A": "{{img:2}}",
+   "B": "{{img:3}}",
+   "C": "{{img:4}}",
+   "D": "{{img:5}}",
+   "E": "{{img:6}}"
+  }
+ },
+ "P7563-Q143": {
+  "motivo": "as figuras das alternativas A e D tinham ido para o enunciado (página 21)",
+  "enunciado_sub": [
+   [
+    "\\n*\\{\\{img:1\\}\\}",
+    ""
+   ],
+   [
+    "\\n*\\{\\{img:2\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "alternativas": {
+   "A": "{{img:1}}",
+   "B": "{{img:4}}",
+   "C": "{{img:5}}",
+   "D": "{{img:2}}",
+   "E": "{{img:3}}"
+  }
  }
 }

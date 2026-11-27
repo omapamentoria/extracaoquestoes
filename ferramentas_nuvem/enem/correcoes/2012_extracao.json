@@ -443,5 +443,90 @@
    "D": "4",
    "E": "5"
   }
+ },
+ "P7549-Q049": {
+  "motivo": "a figura da alternativa A tinha ido para o enunciado (página 16)",
+  "enunciado_sub": [
+   [
+    "\\n*\\{\\{img:1\\}\\}",
+    ""
+   ]
+  ],
+  "alternativas": {
+   "A": "{{img:1}}",
+   "B": "{{img:2}}",
+   "C": "{{img:3}}",
+   "D": "{{img:4}}",
+   "E": "{{img:5}}"
+  }
+ },
+ "P7549-Q050": {
+  "motivo": "alternativas são fórmulas de polímeros e o extrator juntou/perdeu algumas: recortadas de novo, uma por letra, da página 16",
+  "enunciado_sub": [
+   [
+    "\\n*\\{\\{img:1\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 20,
+    "pagina": 16,
+    "bbox": [
+     345,
+     312,
+     562,
+     348
+    ]
+   },
+   {
+    "id": 21,
+    "pagina": 16,
+    "bbox": [
+     345,
+     368,
+     562,
+     403
+    ]
+   },
+   {
+    "id": 22,
+    "pagina": 16,
+    "bbox": [
+     345,
+     422,
+     562,
+     459
+    ]
+   },
+   {
+    "id": 23,
+    "pagina": 16,
+    "bbox": [
+     345,
+     476,
+     562,
+     530
+    ]
+   },
+   {
+    "id": 24,
+    "pagina": 16,
+    "bbox": [
+     345,
+     547,
+     562,
+     590
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:20}}",
+   "B": "{{img:21}}",
+   "C": "{{img:22}}",
+   "D": "{{img:23}}",
+   "E": "{{img:24}}"
+  }
  }
 }

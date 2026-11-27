@@ -421,5 +421,86 @@
    "D": "2 000 m.",
    "E": "2 000\\( \\sqrt{3} \\) m."
   }
+ },
+ "P7547-Q153": {
+  "motivo": "raízes em fonte de fórmula sem tradução (Cambria Math), lidas na página 25",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\(Use [\\s\\S]*$",
+    "\n\n(Use \\( \\sqrt{3} = 1,7 \\) e \\( \\sqrt{1,7} = 1,3 \\))"
+   ]
+  ]
+ },
+ "P7547-Q168": {
+  "motivo": "π em fonte de símbolos sem tradução, lido na página 28",
+  "enunciado_sub": [
+   [
+    "\\(utilize [^)]*\\)$",
+    "(utilize π = 3)"
+   ]
+  ]
+ },
+ "P7543-Q168": {
+  "motivo": "alternativas são gráficos e o extrator juntou dois: recortados de novo, um por letra, da página 28",
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 20,
+    "pagina": 28,
+    "bbox": [
+     345,
+     356,
+     432,
+     436
+    ]
+   },
+   {
+    "id": 21,
+    "pagina": 28,
+    "bbox": [
+     345,
+     445,
+     432,
+     519
+    ]
+   },
+   {
+    "id": 22,
+    "pagina": 28,
+    "bbox": [
+     345,
+     522,
+     432,
+     605
+    ]
+   },
+   {
+    "id": 23,
+    "pagina": 28,
+    "bbox": [
+     345,
+     609,
+     432,
+     684
+    ]
+   },
+   {
+    "id": 24,
+    "pagina": 28,
+    "bbox": [
+     345,
+     685,
+     432,
+     760
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:20}}",
+   "B": "{{img:21}}",
+   "C": "{{img:22}}",
+   "D": "{{img:23}}",
+   "E": "{{img:24}}"
+  }
  }
 }
