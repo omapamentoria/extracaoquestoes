@@ -59,6 +59,28 @@
    ]
   ]
  },
+ "P7597-Q021": {
+  "motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 10 do PDF oficial; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "A": "{{imgx:1}}",
+   "B": "{{imgx:2}}",
+   "C": "{{imgx:3}}",
+   "D": "{{imgx:4}}",
+   "E": "{{imgx:5}}"
+  },
+  "remove_imagens": [
+   3,
+   4,
+   5
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2017/P7597/img/Q021_altA.png",
+   "_banco/questoes/ENEM/2017/P7597/img/Q021_altB.png",
+   "_banco/questoes/ENEM/2017/P7597/img/Q021_altC.png",
+   "_banco/questoes/ENEM/2017/P7597/img/Q021_altD.png",
+   "_banco/questoes/ENEM/2017/P7597/img/Q021_altE.png"
+  ]
+ },
  "P7597-Q059": {
   "motivo": "Figuras 1 (climograma) e 2 (mapa) não recortadas pelo extrator: recortadas da página 23",
   "statement_sub": [
@@ -420,15 +442,33 @@
   ]
  },
  "P7599-Q152": {
-  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 21 do PDF oficial; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
   "statement_sub": [
    [
     "\\{\\{img:1\\}\\}\\\n\\\n",
     ""
    ]
   ],
+  "alternativas": {
+   "A": "{{imgx:1}}",
+   "B": "{{imgx:2}}",
+   "C": "{{imgx:3}}",
+   "D": "{{imgx:4}}",
+   "E": "{{imgx:5}}"
+  },
   "remove_imagens": [
-   1
+   1,
+   4,
+   5,
+   6,
+   7
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2017/P7599/img/Q152_manual_1.png",
+   "_banco/questoes/ENEM/2017/P7599/img/Q152_manual_2.png",
+   "_banco/questoes/ENEM/2017/P7599/img/Q152_manual_3.png",
+   "_banco/questoes/ENEM/2017/P7599/img/Q152_manual_4.png",
+   "_banco/questoes/ENEM/2017/P7599/img/Q152_manual_5.png"
   ]
  },
  "P7599-Q153": {
@@ -756,15 +796,33 @@
   ]
  },
  "P7607-Q096": {
-  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 3 do PDF oficial; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
   "statement_sub": [
    [
     "\\{\\{img:1\\}\\}\\\n\\\n",
     ""
    ]
   ],
+  "alternativas": {
+   "A": "{{imgx:1}}",
+   "B": "{{imgx:2}}",
+   "C": "{{imgx:3}}",
+   "D": "{{imgx:4}}",
+   "E": "{{imgx:5}}"
+  },
   "remove_imagens": [
-   1
+   1,
+   3,
+   4,
+   5,
+   6
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2017/P7607/img/Q096_altA.png",
+   "_banco/questoes/ENEM/2017/P7607/img/Q096_altB.png",
+   "_banco/questoes/ENEM/2017/P7607/img/Q096_altC.png",
+   "_banco/questoes/ENEM/2017/P7607/img/Q096_altD.png",
+   "_banco/questoes/ENEM/2017/P7607/img/Q096_altE.png"
   ]
  },
  "P7607-Q097": {
@@ -1142,6 +1200,29 @@
   ],
   "remove_imagens": [
    1
+  ]
+ },
+ "P7607-Q175": {
+  "motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 29 do PDF oficial; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "A": "{{imgx:1}}",
+   "B": "{{imgx:2}}",
+   "C": "{{imgx:3}}",
+   "D": "{{imgx:4}}",
+   "E": "{{imgx:5}}"
+  },
+  "remove_imagens": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2017/P7607/img/Q175_altA.png",
+   "_banco/questoes/ENEM/2017/P7607/img/Q175_altB.png",
+   "_banco/questoes/ENEM/2017/P7607/img/Q175_altC.png",
+   "_banco/questoes/ENEM/2017/P7607/img/Q175_altD.png",
+   "_banco/questoes/ENEM/2017/P7607/img/Q175_altE.png"
   ]
  },
  "P7607-Q176": {

@@ -1,0 +1,44 @@
+{
+"P7595-Q140": {
+"motivo": "acentos circunflexos dos ângulos desenhados, transcritos lendo a página 20",
+"subs": [
+[
+"x = EAD, y = EDA e z = \\(\\widehat{AE}\\)D",
+"\\( x = E\\hat{A}D \\), \\( y = E\\hat{D}A \\) e \\( z = A\\hat{E}D \\)"
+]
+]
+},
+"P7595-Q172": {
+"motivo": "gráfico recortado sem os eixos (rótulos soltos no texto): recortado inteiro da página 29",
+"remove": [
+1
+],
+"stmt_re": [
+[
+"(?s)\\\\\\(\\\\widehat\\{60\\}\\\\\\)\\n\\n.*?\\*\\*Distância percorrida \\(km\\)\\*\\*",
+"{{imgx:1}}"
+]
+],
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2016/P7595/img/Q172_manual_1.png"
+]
+}
+},
+"P7615-Q161": {
+"motivo": "fórmulas das alternativas (parênteses grandes, índices) desenhadas e desmontadas, transcritas lendo a página 24",
+"stmt_re": [
+[
+"\\s*⎛ ⎞  \\n⎛ ⎞\\s*$",
+""
+]
+],
+"alts": {
+"A": "\\( C = \\left(\\frac{T}{2}\\right)\\cdot P_{A} + \\left(\\frac{T}{4}\\right)\\cdot P_{B} \\)",
+"B": "\\( C = \\left(\\frac{T}{2}\\right)\\cdot P_{A} + 18 + \\left(\\frac{T}{4}\\right)\\cdot P_{B}\\cdot 12 \\)",
+"C": "\\( C = \\left(\\frac{T}{2}\\right)\\cdot P_{A} + 15 + \\left(\\frac{T}{4}\\right)\\cdot P_{B}\\cdot 15 \\)",
+"D": "\\( C = \\left(\\frac{T}{2}\\right)\\cdot P_{B} + \\left(\\frac{T}{4}\\right)\\cdot P_{B} \\)",
+"E": "\\( C = \\left(\\frac{T}{2}\\right)\\cdot P_{B}\\cdot 12 + \\left(\\frac{T}{4}\\right)\\cdot P_{A}\\cdot 18 \\)"
+}
+}
+}

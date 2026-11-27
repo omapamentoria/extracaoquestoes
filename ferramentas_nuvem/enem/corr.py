@@ -15,6 +15,8 @@ def aplica(r,corr):
     for L,(a,b) in c.get("alt_sub",{}).items():
         for x in r["alternativas"]:
             if x["letra"]==L: n=re.subn(a,lambda m,b=b:b,x["texto"]); assert n[1]==1,(r["origem_texto"],L); x["texto"]=n[0]
+    if "alternativas_lista" in c:   # lista inteira (quando o extrator criou alternativas a mais, ex.: itens a), b), c) do texto)
+        r["alternativas"]=[{"letra":L,"texto":t} for L,t in c["alternativas_lista"]]
     for L,t in c.get("alternativas",{}).items():
         for x in r["alternativas"]:
             if x["letra"]==L: x["texto"]=t

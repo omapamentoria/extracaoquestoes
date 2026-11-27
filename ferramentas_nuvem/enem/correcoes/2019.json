@@ -226,6 +226,28 @@
    ]
   ]
  },
+ "P7619-Q163": {
+  "motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 25 do PDF oficial; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "A": "{{imgx:1}}",
+   "B": "{{imgx:2}}",
+   "C": "{{imgx:3}}",
+   "D": "{{imgx:4}}",
+   "E": "{{imgx:5}}"
+  },
+  "remove_imagens": [
+   2,
+   3,
+   4
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2019/P7619/img/Q163_manual_1.png",
+   "_banco/questoes/ENEM/2019/P7619/img/Q163_manual_2.png",
+   "_banco/questoes/ENEM/2019/P7619/img/Q163_manual_3.png",
+   "_banco/questoes/ENEM/2019/P7619/img/Q163_manual_4.png",
+   "_banco/questoes/ENEM/2019/P7619/img/Q163_manual_5.png"
+  ]
+ },
  "P7619-Q180": {
   "motivo": "função desenhada e figuras fora de ordem, transcritas lendo a página 31",
   "statement_sub": [

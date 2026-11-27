@@ -1,0 +1,244 @@
+{
+"P7583-Q138": {
+"motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 19 do PDF oficial",
+"remove": [],
+"alts": {
+"A": "{{imgx:1}}",
+"B": "{{imgx:2}}",
+"C": "{{imgx:3}}",
+"D": "{{imgx:4}}",
+"E": "{{imgx:5}}"
+},
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2015/P7583/img/Q138_altA.png",
+"_banco/questoes/ENEM/2015/P7583/img/Q138_altB.png",
+"_banco/questoes/ENEM/2015/P7583/img/Q138_altC.png",
+"_banco/questoes/ENEM/2015/P7583/img/Q138_altD.png",
+"_banco/questoes/ENEM/2015/P7583/img/Q138_altE.png"
+]
+}
+},
+"P7585-Q017": {
+"motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 7 do PDF oficial",
+"remove": [
+2,
+3,
+4,
+5
+],
+"alts": {
+"A": "{{imgx:1}}",
+"B": "{{imgx:2}}",
+"C": "{{imgx:3}}",
+"D": "{{imgx:4}}",
+"E": "{{imgx:5}}"
+},
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2016/P7585/img/Q017_altA.png",
+"_banco/questoes/ENEM/2016/P7585/img/Q017_altB.png",
+"_banco/questoes/ENEM/2016/P7585/img/Q017_altC.png",
+"_banco/questoes/ENEM/2016/P7585/img/Q017_altD.png",
+"_banco/questoes/ENEM/2016/P7585/img/Q017_altE.png"
+]
+}
+},
+"P7585-Q085": {
+"motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 30 do PDF oficial",
+"remove": [
+2,
+3,
+4,
+5
+],
+"alts": {
+"A": "{{imgx:1}}",
+"B": "{{imgx:2}}",
+"C": "{{imgx:3}}",
+"D": "{{imgx:4}}",
+"E": "{{imgx:5}}"
+},
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2016/P7585/img/Q085_manual_1.png",
+"_banco/questoes/ENEM/2016/P7585/img/Q085_manual_2.png",
+"_banco/questoes/ENEM/2016/P7585/img/Q085_manual_3.png",
+"_banco/questoes/ENEM/2016/P7585/img/Q085_manual_4.png",
+"_banco/questoes/ENEM/2016/P7585/img/Q085_manual_5.png"
+]
+}
+},
+"P7591-Q150": {
+"motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 22 do PDF oficial",
+"remove": [
+1,
+2,
+3,
+4
+],
+"alts": {
+"A": "{{imgx:1}}",
+"B": "{{imgx:2}}",
+"C": "{{imgx:3}}",
+"D": "{{imgx:4}}",
+"E": "{{imgx:5}}"
+},
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2016/P7591/img/Q150_altA.png",
+"_banco/questoes/ENEM/2016/P7591/img/Q150_altB.png",
+"_banco/questoes/ENEM/2016/P7591/img/Q150_altC.png",
+"_banco/questoes/ENEM/2016/P7591/img/Q150_altD.png",
+"_banco/questoes/ENEM/2016/P7591/img/Q150_altE.png"
+]
+}
+},
+"P7597-Q021": {
+"motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 10 do PDF oficial",
+"remove": [
+3,
+4,
+5
+],
+"alts": {
+"A": "{{imgx:1}}",
+"B": "{{imgx:2}}",
+"C": "{{imgx:3}}",
+"D": "{{imgx:4}}",
+"E": "{{imgx:5}}"
+},
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2017/P7597/img/Q021_altA.png",
+"_banco/questoes/ENEM/2017/P7597/img/Q021_altB.png",
+"_banco/questoes/ENEM/2017/P7597/img/Q021_altC.png",
+"_banco/questoes/ENEM/2017/P7597/img/Q021_altD.png",
+"_banco/questoes/ENEM/2017/P7597/img/Q021_altE.png"
+]
+}
+},
+"P7599-Q152": {
+"motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 21 do PDF oficial",
+"remove": [
+4,
+5,
+6,
+7
+],
+"alts": {
+"A": "{{imgx:1}}",
+"B": "{{imgx:2}}",
+"C": "{{imgx:3}}",
+"D": "{{imgx:4}}",
+"E": "{{imgx:5}}"
+},
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2017/P7599/img/Q152_manual_1.png",
+"_banco/questoes/ENEM/2017/P7599/img/Q152_manual_2.png",
+"_banco/questoes/ENEM/2017/P7599/img/Q152_manual_3.png",
+"_banco/questoes/ENEM/2017/P7599/img/Q152_manual_4.png",
+"_banco/questoes/ENEM/2017/P7599/img/Q152_manual_5.png"
+]
+}
+},
+"P7607-Q096": {
+"motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 3 do PDF oficial",
+"remove": [
+3,
+4,
+5,
+6
+],
+"alts": {
+"A": "{{imgx:1}}",
+"B": "{{imgx:2}}",
+"C": "{{imgx:3}}",
+"D": "{{imgx:4}}",
+"E": "{{imgx:5}}"
+},
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2017/P7607/img/Q096_altA.png",
+"_banco/questoes/ENEM/2017/P7607/img/Q096_altB.png",
+"_banco/questoes/ENEM/2017/P7607/img/Q096_altC.png",
+"_banco/questoes/ENEM/2017/P7607/img/Q096_altD.png",
+"_banco/questoes/ENEM/2017/P7607/img/Q096_altE.png"
+]
+}
+},
+"P7607-Q175": {
+"motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 29 do PDF oficial",
+"remove": [
+2,
+3,
+4,
+5
+],
+"alts": {
+"A": "{{imgx:1}}",
+"B": "{{imgx:2}}",
+"C": "{{imgx:3}}",
+"D": "{{imgx:4}}",
+"E": "{{imgx:5}}"
+},
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2017/P7607/img/Q175_altA.png",
+"_banco/questoes/ENEM/2017/P7607/img/Q175_altB.png",
+"_banco/questoes/ENEM/2017/P7607/img/Q175_altC.png",
+"_banco/questoes/ENEM/2017/P7607/img/Q175_altD.png",
+"_banco/questoes/ENEM/2017/P7607/img/Q175_altE.png"
+]
+}
+},
+"P7615-Q177": {
+"motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 30 do PDF oficial",
+"remove": [
+2,
+3,
+4
+],
+"alts": {
+"A": "{{imgx:1}}",
+"B": "{{imgx:2}}",
+"C": "{{imgx:3}}",
+"D": "{{imgx:4}}",
+"E": "{{imgx:5}}"
+},
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2018/P7615/img/Q177_altA.png",
+"_banco/questoes/ENEM/2018/P7615/img/Q177_altB.png",
+"_banco/questoes/ENEM/2018/P7615/img/Q177_altC.png",
+"_banco/questoes/ENEM/2018/P7615/img/Q177_altD.png",
+"_banco/questoes/ENEM/2018/P7615/img/Q177_altE.png"
+]
+}
+},
+"P7619-Q163": {
+"motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 25 do PDF oficial",
+"remove": [
+2,
+3,
+4
+],
+"alts": {
+"A": "{{imgx:1}}",
+"B": "{{imgx:2}}",
+"C": "{{imgx:3}}",
+"D": "{{imgx:4}}",
+"E": "{{imgx:5}}"
+},
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2019/P7619/img/Q163_manual_1.png",
+"_banco/questoes/ENEM/2019/P7619/img/Q163_manual_2.png",
+"_banco/questoes/ENEM/2019/P7619/img/Q163_manual_3.png",
+"_banco/questoes/ENEM/2019/P7619/img/Q163_manual_4.png",
+"_banco/questoes/ENEM/2019/P7619/img/Q163_manual_5.png"
+]
+}
+}
+}

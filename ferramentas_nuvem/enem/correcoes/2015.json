@@ -1496,15 +1496,29 @@
   ]
  },
  "P7583-Q138": {
-  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 19 do PDF oficial; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
   "statement_sub": [
    [
     "\\{\\{img:1\\}\\}\\\n\\\n",
     ""
    ]
   ],
+  "alternativas": {
+   "A": "{{imgx:1}}",
+   "B": "{{imgx:2}}",
+   "C": "{{imgx:3}}",
+   "D": "{{imgx:4}}",
+   "E": "{{imgx:5}}"
+  },
   "remove_imagens": [
    1
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2015/P7583/img/Q138_altA.png",
+   "_banco/questoes/ENEM/2015/P7583/img/Q138_altB.png",
+   "_banco/questoes/ENEM/2015/P7583/img/Q138_altC.png",
+   "_banco/questoes/ENEM/2015/P7583/img/Q138_altD.png",
+   "_banco/questoes/ENEM/2015/P7583/img/Q138_altE.png"
   ]
  },
  "P7583-Q139": {

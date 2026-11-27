@@ -149,6 +149,29 @@
    1
   ]
  },
+ "P7585-Q017": {
+  "motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 7 do PDF oficial; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "A": "{{imgx:1}}",
+   "B": "{{imgx:2}}",
+   "C": "{{imgx:3}}",
+   "D": "{{imgx:4}}",
+   "E": "{{imgx:5}}"
+  },
+  "remove_imagens": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2016/P7585/img/Q017_altA.png",
+   "_banco/questoes/ENEM/2016/P7585/img/Q017_altB.png",
+   "_banco/questoes/ENEM/2016/P7585/img/Q017_altC.png",
+   "_banco/questoes/ENEM/2016/P7585/img/Q017_altD.png",
+   "_banco/questoes/ENEM/2016/P7585/img/Q017_altE.png"
+  ]
+ },
  "P7585-Q019": {
   "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
   "statement_sub": [
@@ -416,6 +439,29 @@
    1
   ]
  },
+ "P7585-Q085": {
+  "motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 30 do PDF oficial; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "A": "{{imgx:1}}",
+   "B": "{{imgx:2}}",
+   "C": "{{imgx:3}}",
+   "D": "{{imgx:4}}",
+   "E": "{{imgx:5}}"
+  },
+  "remove_imagens": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2016/P7585/img/Q085_manual_1.png",
+   "_banco/questoes/ENEM/2016/P7585/img/Q085_manual_2.png",
+   "_banco/questoes/ENEM/2016/P7585/img/Q085_manual_3.png",
+   "_banco/questoes/ENEM/2016/P7585/img/Q085_manual_4.png",
+   "_banco/questoes/ENEM/2016/P7585/img/Q085_manual_5.png"
+  ]
+ },
  "P7585-Q088": {
   "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
   "alternativas": {
@@ -521,6 +567,37 @@
   ],
   "remove_imagens": [
    1
+  ]
+ },
+ "P7587-Q116": {
+  "motivo": "itens a), b), c) do poema foram lidos como alternativas (8 alternativas): texto e alternativas refeitos lendo a página 11",
+  "statement_sub": [
+   [
+    "(?s)^.*$",
+    "**Primeira lição**\n\nOs gêneros de poesia são: lírico, satírico, didático, épico, ligeiro.  \nO gênero lírico compreende o lirismo.  \nLirismo é a tradução de um sentimento subjetivo, sincero e pessoal.  \nÉ a linguagem do coração, do amor.  \nO lirismo é assim denominado porque em outros tempos os versos sentimentais eram declamados ao som da lira.  \nO lirismo pode ser:  \na) Elegíaco, quando trata de assuntos tristes, quase sempre a morte.  \nb) Bucólico, quando versa sobre assuntos campestres.  \nc) Erótico, quando versa sobre o amor.  \nO lirismo elegíaco compreende a elegia, a nênia, a endecha, o epitáfio e o epicédio.  \nElegia é uma poesia que trata de assuntos tristes.  \nNênia é uma poesia em homenagem a uma pessoa morta.  \nEra declamada junto à fogueira onde o cadáver era incinerado.  \nEndecha é uma poesia que revela as dores do coração.  \nEpitáfio é um pequeno verso gravado em pedras tumulares.  \nEpicédio é uma poesia onde o poeta relata a vida de uma pessoa morta.\n\n{{fonte:1}}\n\nNo poema de Ana Cristina Cesar, a relação entre as definições apresentadas e o processo de construção do texto indica que o(a)"
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "caráter descritivo dos versos assinala uma concepção irônica de lirismo."
+   ],
+   [
+    "B",
+    "tom explicativo e contido constitui uma forma peculiar de expressão poética."
+   ],
+   [
+    "C",
+    "seleção e o recorte do tema revelam uma visão pessimista da criação artística."
+   ],
+   [
+    "D",
+    "enumeração de distintas manifestações líricas produz um efeito de impessoalidade."
+   ],
+   [
+    "E",
+    "referência a gêneros poéticos clássicos expressa a adesão do eu lírico às tradições literárias."
+   ]
   ]
  },
  "P7587-Q117": {
@@ -1155,6 +1232,29 @@
    1
   ]
  },
+ "P7591-Q150": {
+  "motivo": "alternativas desenhadas recortadas incompletas pelo extrator (alguma ficou vazia): as cinco recortadas da página 22 do PDF oficial; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "alternativas": {
+   "A": "{{imgx:1}}",
+   "B": "{{imgx:2}}",
+   "C": "{{imgx:3}}",
+   "D": "{{imgx:4}}",
+   "E": "{{imgx:5}}"
+  },
+  "remove_imagens": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2016/P7591/img/Q150_altA.png",
+   "_banco/questoes/ENEM/2016/P7591/img/Q150_altB.png",
+   "_banco/questoes/ENEM/2016/P7591/img/Q150_altC.png",
+   "_banco/questoes/ENEM/2016/P7591/img/Q150_altD.png",
+   "_banco/questoes/ENEM/2016/P7591/img/Q150_altE.png"
+  ]
+ },
  "P7591-Q151": {
   "motivo": "espaço desenhado, transcrito lendo a página 23",
   "alternativas": {
@@ -1345,44 +1445,44 @@
     "Metano"
    ],
    [
-    "\\(cid:16\\)\\(cid:20\\)\\(cid:25\\)\\(cid:21\\)",
-    "−162"
+    "\\(cid:16\\)\\(cid:20\\)\\(cid:20\\)\\(cid:21\\)",
+    "−112"
    ],
    [
     "\\(cid:16\\)\\(cid:20\\)\\(cid:22\\)\\(cid:24\\)",
     "−135"
    ],
    [
-    "\\(cid:16\\)\\(cid:20\\)\\(cid:27\\)\\(cid:22\\)",
-    "−183"
-   ],
-   [
-    "\\(cid:16\\)\\(cid:20\\)\\(cid:20\\)\\(cid:21\\)",
-    "−112"
+    "\\(cid:16\\)\\(cid:20\\)\\(cid:25\\)\\(cid:21\\)",
+    "−162"
    ],
    [
     "\\(cid:16\\)\\(cid:19\\)\\(cid:15\\)\\(cid:24\\)",
     "−0,5"
    ],
    [
-    "\\(cid:16\\)\\(cid:28\\)\\(cid:27\\)",
-    "−98"
+    "\\(cid:16\\)\\(cid:20\\)\\(cid:27\\)\\(cid:22\\)",
+    "−183"
    ],
    [
-    "\\(cid:20\\)\\(cid:21\\)\\(cid:25\\)",
-    "126"
+    "\\(cid:16\\)\\(cid:28\\)\\(cid:27\\)",
+    "−98"
    ],
    [
     "\\(cid:16\\)\\(cid:24\\)\\(cid:26\\)",
     "−57"
    ],
    [
-    "\\(cid:26\\)\\(cid:27\\)",
-    "78"
+    "\\(cid:20\\)\\(cid:21\\)\\(cid:25\\)",
+    "126"
    ],
    [
     "\\(cid:25\\)\\(cid:24\\)",
     "65"
+   ],
+   [
+    "\\(cid:26\\)\\(cid:27\\)",
+    "78"
    ]
   ]
  },
@@ -1427,24 +1527,24 @@
     "Densidade (g/cm³)"
    ],
    [
-    "\\(cid:19\\)\\(cid:15\\)\\(cid:27\\)\\(cid:27\\)\\(cid:23\\)",
-    "0,884"
+    "\\(cid:19\\)\\(cid:15\\)\\(cid:28\\)\\(cid:21\\)\\(cid:21\\)",
+    "0,922"
    ],
    [
     "\\(cid:19\\)\\(cid:15\\)\\(cid:27\\)\\(cid:27\\)\\(cid:19\\)",
     "0,880"
    ],
    [
-    "\\(cid:19\\)\\(cid:15\\)\\(cid:28\\)\\(cid:21\\)\\(cid:21\\)",
-    "0,922"
-   ],
-   [
-    "\\(cid:22\\)\\(cid:26\\)\\(cid:15\\)\\(cid:19\\)",
-    "37,0"
+    "\\(cid:19\\)\\(cid:15\\)\\(cid:27\\)\\(cid:27\\)\\(cid:23\\)",
+    "0,884"
    ],
    [
     "\\(cid:22\\)\\(cid:27\\)\\(cid:15\\)\\(cid:22\\)",
     "38,3"
+   ],
+   [
+    "\\(cid:22\\)\\(cid:26\\)\\(cid:15\\)\\(cid:19\\)",
+    "37,0"
    ],
    [
     "\\(cid:22\\)\\(cid:25\\)\\(cid:15\\)\\(cid:28\\)",
@@ -1692,11 +1792,15 @@
   ]
  },
  "P7595-Q140": {
-  "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "motivo": "acentos circunflexos dos ângulos desenhados, transcritos lendo a página 20; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
   "statement_sub": [
    [
     "\\{\\{img:1\\}\\}\\\n\\\n",
     ""
+   ],
+   [
+    "x\\ =\\ EAD,\\ y\\ =\\ EDA\\ e\\ z\\ =\\ \\\\\\(\\\\widehat\\{AE\\}\\\\\\)D",
+    "\\( x = E\\hat{A}D \\), \\( y = E\\hat{D}A \\) e \\( z = A\\hat{E}D \\)"
    ]
   ],
   "remove_imagens": [
@@ -1732,44 +1836,48 @@
     "2,65"
    ],
    [
-    "\\(cid:23\\)\\(cid:19\\)\\(cid:24\\)",
-    "405"
-   ],
-   [
     "\\(cid:23\\)\\(cid:22\\)\\(cid:21\\)",
     "432"
-   ],
-   [
-    "\\(cid:23\\)\\(cid:20\\)\\(cid:19\\)",
-    "410"
    ],
    [
     "\\(cid:23\\)\\(cid:20\\)\\(cid:24\\)",
     "415"
    ],
    [
+    "\\(cid:23\\)\\(cid:19\\)\\(cid:24\\)",
+    "405"
+   ],
+   [
+    "\\(cid:23\\)\\(cid:20\\)\\(cid:19\\)",
+    "410"
+   ],
+   [
     "\\(cid:23\\)\\(cid:19\\)\\(cid:19\\)",
     "400"
    ],
    [
-    "\\(cid:26\\)\\(cid:21\\)",
-    "72"
-   ],
-   [
-    "\\(cid:26\\)\\(cid:26\\)",
-    "77"
-   ],
-   [
-    "\\(cid:27\\)\\(cid:25\\)",
-    "86"
+    "\\(cid:26\\)\\(cid:23\\)",
+    "74"
    ],
    [
     "\\(cid:27\\)\\(cid:23\\)",
     "84"
    ],
    [
-    "\\(cid:26\\)\\(cid:23\\)",
-    "74"
+    "\\(cid:27\\)\\(cid:25\\)",
+    "86"
+   ],
+   [
+    "\\(cid:26\\)\\(cid:26\\)",
+    "77"
+   ],
+   [
+    "\\(cid:26\\)\\(cid:21\\)",
+    "72"
+   ],
+   [
+    "\\(cid:24\\)",
+    "5"
    ],
    [
     "\\(cid:22\\)",
@@ -1778,10 +1886,6 @@
    [
     "\\(cid:23\\)",
     "4"
-   ],
-   [
-    "\\(cid:24\\)",
-    "5"
    ]
   ]
  },
@@ -2079,6 +2183,25 @@
    "_banco/questoes/ENEM/2016/P7595/img/Q170_manual_1.png"
   ]
  },
+ "P7595-Q172": {
+  "motivo": "gráfico recortado sem os eixos (rótulos soltos no texto): recortado inteiro da página 29; imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\\n\\\n",
+    ""
+   ],
+   [
+    "(?s)\\\\\\(\\\\widehat\\{60\\}\\\\\\)\\n\\n.*?\\*\\*Distância percorrida \\(km\\)\\*\\*",
+    "{{imgx:1}}"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2016/P7595/img/Q172_manual_1.png"
+  ]
+ },
  "P7595-Q173": {
   "motivo": "imagem de enfeite (barra hachurada/◇◇◇ ou faixa cinza da margem) retirada",
   "statement_sub": [
@@ -2107,20 +2230,20 @@
     "Colchão"
    ],
    [
-    "\\(cid:22\\)\\(cid:24\\)\\(cid:19\\)\\(cid:15\\)\\(cid:19\\)\\(cid:19\\)",
-    "350,00"
-   ],
-   [
     "\\(cid:23\\)\\(cid:24\\)\\(cid:19\\)\\(cid:15\\)\\(cid:19\\)\\(cid:19\\)",
     "450,00"
+   ],
+   [
+    "\\(cid:23\\)\\(cid:19\\)\\(cid:19\\)\\(cid:15\\)\\(cid:19\\)\\(cid:19\\)",
+    "400,00"
    ],
    [
     "\\(cid:22\\)\\(cid:19\\)\\(cid:19\\)\\(cid:15\\)\\(cid:19\\)\\(cid:19\\)",
     "300,00"
    ],
    [
-    "\\(cid:23\\)\\(cid:19\\)\\(cid:19\\)\\(cid:15\\)\\(cid:19\\)\\(cid:19\\)",
-    "400,00"
+    "\\(cid:22\\)\\(cid:24\\)\\(cid:19\\)\\(cid:15\\)\\(cid:19\\)\\(cid:19\\)",
+    "350,00"
    ]
   ],
   "remove_imagens": [
