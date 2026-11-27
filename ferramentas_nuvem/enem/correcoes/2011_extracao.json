@@ -41,7 +41,7 @@
   ]
  },
  "P7543-Q153": {
-  "motivo": "fórmula desenhada lida na página 24; alternativas são gráficos: recortadas da página",
+  "motivo": "fórmula desenhada lida na página 24; alternativas são gráficos (letras desenhadas): recortadas uma a uma da página 24",
   "enunciado_sub": [
    [
     "femininos\\.\\n\\n[\\s\\S]*?\\n\\na altura do salto",
@@ -53,7 +53,65 @@
    ]
   ],
   "imagens": [],
-  "alt_imagens": "auto"
+  "imagens_novas": [
+   {
+    "id": 10,
+    "pagina": 24,
+    "bbox": [
+     330,
+     324,
+     430,
+     428
+    ]
+   },
+   {
+    "id": 11,
+    "pagina": 24,
+    "bbox": [
+     330,
+     428,
+     430,
+     528
+    ]
+   },
+   {
+    "id": 12,
+    "pagina": 24,
+    "bbox": [
+     330,
+     528,
+     430,
+     615
+    ]
+   },
+   {
+    "id": 13,
+    "pagina": 24,
+    "bbox": [
+     453,
+     324,
+     545,
+     428
+    ]
+   },
+   {
+    "id": 14,
+    "pagina": 24,
+    "bbox": [
+     453,
+     428,
+     545,
+     528
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:10}}",
+   "B": "{{img:11}}",
+   "C": "{{img:12}}",
+   "D": "{{img:13}}",
+   "E": "{{img:14}}"
+  }
  },
  "P7543-Q163": {
   "motivo": "alternativas (números e frações desenhadas) lidas na página 27",
@@ -99,7 +157,7 @@
   ]
  },
  "P7543-Q180": {
-  "motivo": "alternativas são gráficos: recortadas da página 31",
+  "motivo": "alternativas são gráficos (letras desenhadas): recortadas uma a uma da página 31",
   "enunciado_sub": [
    [
     "\\n\\n\\{\\{img:1\\}\\}\\n\\nQual dos",
@@ -107,6 +165,64 @@
    ]
   ],
   "imagens": [],
-  "alt_imagens": "auto"
+  "imagens_novas": [
+   {
+    "id": 10,
+    "pagina": 31,
+    "bbox": [
+     330,
+     295,
+     522,
+     382
+    ]
+   },
+   {
+    "id": 11,
+    "pagina": 31,
+    "bbox": [
+     330,
+     382,
+     522,
+     478
+    ]
+   },
+   {
+    "id": 12,
+    "pagina": 31,
+    "bbox": [
+     330,
+     478,
+     522,
+     568
+    ]
+   },
+   {
+    "id": 13,
+    "pagina": 31,
+    "bbox": [
+     330,
+     568,
+     522,
+     658
+    ]
+   },
+   {
+    "id": 14,
+    "pagina": 31,
+    "bbox": [
+     330,
+     658,
+     522,
+     747
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:10}}",
+   "B": "{{img:11}}",
+   "C": "{{img:12}}",
+   "D": "{{img:13}}",
+   "E": "{{img:14}}"
+  }
  }
 }

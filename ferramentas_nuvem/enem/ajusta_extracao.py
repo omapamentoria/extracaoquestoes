@@ -23,7 +23,7 @@ def recorta(pid,q,d):
     for pg in q["paginas"]:
         p=pdf.pages[pg-1]; ls=letras(p,pid)
         # so as letras dentro da area da questao nesta pagina (caixas de texto + figuras): outra questao na mesma pagina fica fora
-        bx=[c for c in q.get("caixas",{}).get(str(pg),[])]+[i["bbox"] for i in q["imagens"] if i.get("pagina")==pg]
+        bx=[c for c in q.get("caixas",{}).get(str(pg),[])]+[i["bbox"] for i in q.get("_imgs_orig",q["imagens"]) if i.get("pagina")==pg]
         if bx:
             X0=min(b_[0] for b_ in bx)-25; X1=max(b_[2] for b_ in bx); Y0=min(b_[1] for b_ in bx)-5; Y1=max(b_[3] for b_ in bx)+20
             ls=[w for w in ls if X0<=w["x0"]<=X1 and Y0<=w["top"]<=Y1]
@@ -96,6 +96,7 @@ for pid,ks in por_pid.items():
         for x,y in a.get("enunciado_sub",[]):
             q["enunciado"],n=re.subn(x,lambda m,y=y:y,q["enunciado"]); assert n==1,(k,x)
         if "fontes" in a: q["fontes"]=a["fontes"]
+        q["_imgs_orig"]=list(q["imagens"])   # area da questao para achar as letras (recorta), antes de tirar imagens
         if "imagens" in a: q["imagens"]=[i for i in q["imagens"] if i["id"] in a["imagens"]]
         for n_ in a.get("imagens_novas",[]):   # figura recortada de novo da pagina (a do extrator saiu incompleta)
             src_=q["texto_de"].split()[0] if q.get("texto_de") else pid   # prova montada com o texto de outra cor: recorta do PDF com texto
@@ -111,6 +112,7 @@ for pid,ks in por_pid.items():
             assert sorted(alts)==list("ABCDE"),k
             q["alternativas"]=[{"letra":L,"texto":alts[L]} for L in "ABCDE"]
         if "gabarito_oficial" in a: q["gabarito"]=a["gabarito_oficial"]   # conferido depois pelo gab_enem.py (leitura independente)
+        q.pop("_imgs_orig",None)
         q["formato"]="objetiva"; q["gabarito_discursivo"]=None; q["itens"]=[]
         usados={int(m) for m in re.findall(r"\{\{img:(\d+)\}\}",q["enunciado"]+" ".join(x["texto"] for x in q["alternativas"])+q.get("apos_alternativas",""))}
         assert usados=={i["id"] for i in q["imagens"]},(k,"imagens",usados,[i["id"] for i in q["imagens"]])

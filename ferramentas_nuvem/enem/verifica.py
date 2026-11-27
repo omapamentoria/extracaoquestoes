@@ -16,12 +16,18 @@ for pid in sys.argv[2:]:
     def chave(q): return (q["prova_completa_ordem"],q.get("idioma") if d1 and q["prova_completa_ordem"] in fi else None)
     nums=collections.Counter(chave(q) for q in qs)
     esperado={(n,None) for n in faixa if not (d1 and n in fi)}|({(n,l) for n in fi for l in ("inglês","espanhol")} if d1 else set())
-    falta=sorted(esperado-set(nums),key=str); rep=[k for k,v in nums.items() if v>1]; sobra=sorted(set(nums)-esperado,key=str)
+    # questoes postas fora da prova completa de proposito (correcoes "_fora", com motivo): nao contam como falta
+    fora=set()
+    for cf in glob.glob(R+"/ferramentas_nuvem/enem/correcoes/*.json"):
+        for k in json.load(open(cf)).get("_fora",{}):
+            if k.startswith(pid+"-"):
+                m_=re.match(r".*-Q(\d+)(?:-(ING|ESP))?$",k); fora.add((int(m_.group(1)),{"ING":"inglês","ESP":"espanhol"}.get(m_.group(2)) if d1 and int(m_.group(1)) in fi else None))
+    falta=sorted(esperado-set(nums)-fora,key=str); rep=[k for k,v in nums.items() if v>1]; sobra=sorted(set(nums)-esperado,key=str)
     gab=[(k,q["gabarito"],g.get(k)) for q in qs for k in [chave(q)] if q["gabarito"]!=g.get(k)]
     sem5=[q["id"] for q in qs if len(q["alternativas"])!=5]
     vaz=[q["id"] for q in qs if not q["statement"].strip() or any(not a["texto"].strip() for a in q["alternativas"])]
     sub=[q["id"] for q in qs if not q.get("subassunto_codigo")]
     nomes={q.get("prova_completa") for q in qs}
     st="OK" if not (falta or rep or sobra or gab or sem5 or vaz or sub) and len(nomes)==1 else "FALHA"; ok&=st=="OK"
-    print(f"{st} {pid} {list(nomes)} questões {len(qs)}/{len(esperado)} | faltam {falta} | repetidas {rep} | sobram {sobra} | gabarito ≠ oficial {gab} | sem 5 alt {sem5} | texto vazio {vaz} | sem classificação {sub} | anuladas {sum(q['gabarito']=='anulada' for q in qs)}")
+    print(f"{st} {pid} {list(nomes)} questões {len(qs)}/{len(esperado)} | fora (explicadas) {sorted(fora,key=str)} | faltam {falta} | repetidas {rep} | sobram {sobra} | gabarito ≠ oficial {gab} | sem 5 alt {sem5} | texto vazio {vaz} | sem classificação {sub} | anuladas {sum(q['gabarito']=='anulada' for q in qs)}")
 sys.exit(0 if ok else 1)

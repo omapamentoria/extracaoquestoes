@@ -13,7 +13,7 @@ from catalogo import CAT
 corr={}
 for _c in CORR.split(","):
     for k,v in json.load(open(_c)).items():
-        if k in ("_area","_casa","_reextrai"): corr.setdefault(k,{}).update(v)
+        if k in ("_area","_casa","_reextrai","_fora"): corr.setdefault(k,{}).update(v)
         else: corr[k]=v
 PARTES=sorted(glob.glob(DEST+"/final/partes/banco_parte_*.json"))
 dados={f:json.load(open(f)) for f in PARTES}
@@ -55,12 +55,16 @@ nova_parte=DEST+"/final/partes/banco_parte_%s.json"%os.environ.get("PARTE","28")
 if nova_parte not in dados: dados[nova_parte]=[]; fmt[nova_parte]=True
 proprios={q.get("origem_texto"):(f,q) for f in dados for q in dados[f] if q["id"]>=PROPRIO_DESDE and q.get("prova_completa")}
 rel=collections.Counter(); refazer=[]; novos_ids=[]; mexidos={nova_parte}; substituidos=set(); espacadas=[]; reextraidas=[]; ver=[]
+FORA=corr.get("_fora",{})   # questao que fica fora da prova completa (incerta: gabarito oficial contra o conteudo), com motivo
 for ij in INTS:
     d=json.load(open(ij)); c=CAT[d["pid"]]; ESP=Espacos(R+"/"+c["caminho"])
     for a,b,nome_area in corr.get("_area",{}).get(d["pid"],[]):
         for r in d["novas"]+[x["registro"] for x in d["casadas"]]:
             if a<=r["numero"]<=b: r["area_prova"]=nome_area
     cont=collections.Counter(r["area_prova"] for r in d["novas"]+[x["registro"] for x in d["casadas"]])
+    fora_=[r for r in d["novas"]+[x["registro"] for x in d["casadas"]] if r["origem_texto"] in FORA]
+    if fora_: print(d["pid"],"fora da prova completa (ver motivo em _fora):",[r["origem_texto"] for r in fora_]); rel["fora da prova completa (incertas)"]+=len(fora_)
+    d["novas"]=[r for r in d["novas"] if r["origem_texto"] not in FORA]; d["casadas"]=[x for x in d["casadas"] if x["origem_texto"] not in FORA]
     assert all(v in (45,50) for v in cont.values()), ("áreas com contagem estranha",d["pid"],cont)
     def esp(q):
         k=0
