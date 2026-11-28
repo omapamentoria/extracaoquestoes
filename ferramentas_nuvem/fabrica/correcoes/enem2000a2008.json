@@ -1,1 +1,514 @@
-{}
+{
+ "P7507-Q003": {
+  "motivo": "recorte: alternativa E termina em 'higroscópicas que diminuem naturalmente a temperatura da água.' (o '4' solto é o número da questão seguinte); o texto abaixo da E pertence à questão 4",
+  "alt_sub": {
+   "E": [
+    "\\s*\\*\\*4\\*\\*\\s*",
+    " "
+   ]
+  },
+  "apos_alternativas": ""
+ },
+ "P7507-Q031": {
+  "motivo": "recorte: o texto de Millôr Fernandes abaixo da alternativa E é o texto-base da questão 32, não desta; a frase 'O autor do texto abaixo critica...' também sai da alternativa E",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*O autor do texto abaixo.*$",
+    ""
+   ]
+  },
+  "apos_alternativas": ""
+ },
+ "P7507-Q032": {
+  "motivo": "o texto-base (Millôr Fernandes) estava no fim da questão 31; recorte confere o texto e a frase de abertura",
+  "statement_sub": [
+   [
+    "\\A",
+    "O autor do texto abaixo critica, ainda que em linguagem metafórica, a sociedade contemporânea em relação aos seus hábitos alimentares.\n\n*“Vocês que têm mais de 15 anos, se lembram quando a gente comprava leite em garrafa, na leiteria da esquina? (...) Mas vocês não se lembram de nada, pô! Vai ver nem sabem o que é vaca. Nem o que é leite. Estou falando isso porque agora mesmo peguei um pacote de leite – leite em pacote, imagina, Tereza! – na porta dos fundos e estava escrito que é pasterizado, ou pasteurizado, sei lá, tem vitamina, é garantido pela embromatologia, foi enriquecido e o escambau. Será que isso é mesmo leite? No dicionário diz que leite é outra coisa: ‘Líquido branco, contendo água, proteína, açúcar e sais minerais’. Um alimento pra ninguém botar defeito. O ser humano o usa há mais de 5.000 anos. É o único alimento só alimento. A carne serve pro animal andar, a fruta serve pra fazer outra fruta, o ovo serve pra fazer outra galinha (...) O leite é só leite. Ou toma ou bota fora. Esse aqui examinando bem, é só pra botar fora. Tem chumbo, tem benzina, tem mais água do que leite, tem serragem, sou capaz de jurar que nem vaca tem por trás desse negócio. Depois o pessoal ainda acha estranho que os meninos não gostem de leite. Mas, como não gostam? Não gostam como? Nunca tomaram! Múúúúúúú!”*\n\n(FERNANDES, Millôr. *O Estado de S. Paulo*, 22 de agosto de 1999)\n\n"
+   ]
+  ]
+ },
+ "P7507-Q038": {
+  "motivo": "recorte: o texto do apostador e as 3 opções abaixo da alternativa E são o enunciado-base da questão 39",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*Um apostador.*$",
+    ""
+   ]
+  },
+  "apos_alternativas": ""
+ },
+ "P7507-Q039": {
+  "motivo": "o enunciado-base (apostador e 3 opções) estava no fim da questão 38; conferido no recorte",
+  "statement_sub": [
+   [
+    "\\A",
+    "Um apostador tem três opções para participar de certa modalidade de jogo, que consiste no sorteio aleatório de um número dentre dez.\n\n1<u><sup>a</sup></u> opção: comprar três números para um único sorteio.\n\n2<u><sup>a</sup></u> opção: comprar dois números para um sorteio e um número para um segundo sorteio.\n\n3<u><sup>a</sup></u> opção: comprar um número para cada sorteio, num total de três sorteios.\n\n"
+   ]
+  ]
+ },
+ "P7507-Q046": {
+  "motivo": "recorte: alternativas D e E estavam cortadas; lidas inteiras (fonte de E: Machado de Assis, Obra completa, Nova Aguilar, 1986 — grafia do PDF 'Aguillar')",
+  "alternativas": {
+   "D": "Vou contar para vocês um caso que sucedeu na Paraíba do Norte com um homem que se chamava Pedro João Boa-Morte, lavrador de Chapadinha: talvez tenha morte boa porque vida ele não tinha. (GULLAR, Ferreira. *Toda poesia*. Rio de Janeiro: Civilização Brasileira, 1983)",
+   "E": "Trago-te flores, – restos arrancados Da terra que nos viu passar E ora mortos nos deixa e separados. (ASSIS, Machado de. *Obra completa*. Rio de Janeiro: Nova Aguillar, 1986)"
+  },
+  "apos_alternativas": ""
+ },
+ "P7509-Q029": {
+  "motivo": "recorte: alternativas A–E conferidas (os '**' soltos e o texto I de Hobbes na alternativa E eram da questão 30)",
+  "alternativas": {
+   "A": "um quarto da probabilidade de ele viajar num ônibus da empresa BOMPASSEIO.",
+   "B": "um terço da probabilidade de ele viajar num ônibus da empresa BOMPASSEIO.",
+   "C": "metade da probabilidade de ele viajar num ônibus da empresa BOMPASSEIO.",
+   "D": "duas vezes maior do que a probabilidade de ele viajar num ônibus da empresa BOMPASSEIO.",
+   "E": "três vezes maior do que a probabilidade de ele viajar num ônibus da empresa BOMPASSEIO."
+  },
+  "apos_alternativas": ""
+ },
+ "P7509-Q030": {
+  "motivo": "os textos I (Hobbes) e II (Bobbio) estavam no fim da questão 29; transcritos do recorte da página",
+  "statement_sub": [
+   [
+    "\\A",
+    "**I** - Para o filósofo inglês Thomas Hobbes (1588-1679), o *estado de natureza* é um *estado de guerra* universal e perpétua. Contraposto ao estado de natureza, entendido como estado de guerra, o *estado de paz* é a sociedade civilizada.\n\nDentre outras tendências que dialogam com as idéias de Hobbes, destaca-se a definida pelo texto abaixo.\n\n**II** - *Nem todas as guerras são injustas e correlativamente, nem toda paz é justa, razão pela qual a guerra nem sempre é um desvalor, e a paz nem sempre um valor.*\n\nBOBBIO, N. MATTEUCCI, N PASQUINO, G. *Dicionário de Política*, 5ª ed. Brasília: Universidade de Brasília; São Paulo: Imprensa Oficial do Estado, 2000.\n\n"
+   ]
+  ]
+ },
+ "P7511-Q009": {
+  "motivo": "recorte: o parágrafo 'Nativas do Brasil...' (Ciência Hoje, 2000) é o texto-base da questão 10; fica só a fonte de Lobato nesta",
+  "statement_sub": [
+   [
+    "\\n\\n\\{\\{fonte:2\\}\\}",
+    ""
+   ]
+  ],
+  "fontes": [
+   "LOBATO, Monteiro. Reinações de Narizinho. São Paulo: Brasiliense, 1947."
+  ],
+  "apos_alternativas": ""
+ },
+ "P7511-Q010": {
+  "motivo": "o texto-base 'Nativas do Brasil...' estava no fim da questão 9; conferido no recorte",
+  "statement_sub": [
+   [
+    "\\A",
+    "Nativas do Brasil, as várias espécies das plantas conhecidas como fava-d’anta têm lugar garantido no mercado mundial de produtos cosméticos e farmacêuticos. Elas praticamente não têm concorrentes, pois apenas uma outra planta chinesa produz os elementos cobiçados pela indústria mundial. As plantas acham-se dispersas no cerrado e a sua exploração é feita pela coleta manual das favas ou, ainda, com instrumentos rústicos (garfos e forquilhas) que retiram os frutos das pontas dos galhos. Alguns catadores quebram galhos ou arbustos para facilitar a coleta. Depois da coleta, as vagens são vendidas aos atacadistas locais que as revendem a atacadistas regionais, estes sim, os revendedores de fava para as indústrias. Depois de processados, os produtos são exportados. Embora os moradores da região tenham um vasto conhecimento sobre hábitos e usos da fauna e flora locais, pouco ou nada sabem sobre a produção de mudas de espécies nativas e, ainda, sobre o destino e o aproveitamento da matéria-prima extraída da fava d’anta.\n\n{{fonte:1}}\n\n"
+   ]
+  ],
+  "fontes": [
+   "Adaptado de: Extrativismo e biodiversidade: o caso da fava-d’anta. Ciência Hoje, junho, 2000."
+  ]
+ },
+ "P7513-Q009": {
+  "motivo": "recorte: o poema 'Epígrafe' (Eugênio de Castro) abaixo da alternativa E é o texto-base das questões 10 e 11",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*<u>Instruções:</u>.*$",
+    ""
+   ]
+  },
+  "apos_alternativas": ""
+ },
+ "P7513-Q010": {
+  "motivo": "o poema 'Epígrafe' (texto-base das questões 10 e 11) estava no fim da questão 9; transcrito/conferido no recorte",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Instruções:** As questões de números 10 e 11 referem-se ao poema abaixo.\n\n*Epígrafe*\\*\n\nMurmúrio de água na clepsidra\\*\\* gotejante,  \nLentas gotas de som no relógio da torre,  \nFio de areia na ampulheta vigilante,  \nLeve sombra azulando a pedra do quadrante\\*\\*\\*  \nAssim se escoa a hora, assim se vive e morre...\n\nHomem, que fazes tu? Para que tanta lida,  \nTão doidas ambições, tanto ódio e tanta ameaça?  \nProcuremos somente a Beleza, que a vida  \nÉ um punhado infantil de areia ressequida,  \nUm som de água ou de bronze e uma sombra que passa...  \n(Eugênio de Castro. *Antologia pessoal da poesia portuguesa*)\n\n(\\*) **Epígrafe**: inscrição colocada no ponto mais alto; tema.  \n(\\*\\*) **Clepsidra**: relógio de água.  \n(\\*\\*\\*) **Pedra do quadrante**: parte superior de um relógio de sol.\n\n"
+   ]
+  ]
+ },
+ "P7513-Q011": {
+  "motivo": "o poema 'Epígrafe' (texto-base das questões 10 e 11) estava no fim da questão 9; transcrito/conferido no recorte",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Instruções:** As questões de números 10 e 11 referem-se ao poema abaixo.\n\n*Epígrafe*\\*\n\nMurmúrio de água na clepsidra\\*\\* gotejante,  \nLentas gotas de som no relógio da torre,  \nFio de areia na ampulheta vigilante,  \nLeve sombra azulando a pedra do quadrante\\*\\*\\*  \nAssim se escoa a hora, assim se vive e morre...\n\nHomem, que fazes tu? Para que tanta lida,  \nTão doidas ambições, tanto ódio e tanta ameaça?  \nProcuremos somente a Beleza, que a vida  \nÉ um punhado infantil de areia ressequida,  \nUm som de água ou de bronze e uma sombra que passa...  \n(Eugênio de Castro. *Antologia pessoal da poesia portuguesa*)\n\n(\\*) **Epígrafe**: inscrição colocada no ponto mais alto; tema.  \n(\\*\\*) **Clepsidra**: relógio de água.  \n(\\*\\*\\*) **Pedra do quadrante**: parte superior de um relógio de sol.\n\n"
+   ]
+  ]
+ },
+ "P7515-Q019": {
+  "motivo": "recorte: o poema 'Brasil' (Oswald de Andrade) abaixo da alternativa E é o texto-base das questões 20 e 21",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*<u>\\*\\*Instruções:\\*\\*</u>.*$",
+    ""
+   ]
+  },
+  "apos_alternativas": ""
+ },
+ "P7515-Q020": {
+  "motivo": "o poema 'Brasil' (texto-base das questões 20 e 21) estava no fim da questão 19; conferido no recorte",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Instruções:** As questões de números 20 e 21 referem-se ao poema abaixo.\n\n***Brasil***\n\n*O Zé Pereira chegou de caravela*  \n*E preguntou pro guarani da mata virgem*  \n*― Sois cristão?*  \n*― Não. Sou bravo, sou forte, sou filho da Morte*  \n*Teterê tetê Quizá Quizá Quecê!*  \n*Lá longe a onça resmungava Uu! ua! uu!*  \n*O negro zonzo saído da fornalha*  \n*Tomou a palavra e respondeu*  \n*― Sim pela graça de Deus*  \n*Canhem Babá Canhem Babá Cum Cum!*\n\n*E fizeram o Carnaval*\n\n(Oswald de Andrade)\n\n"
+   ]
+  ]
+ },
+ "P7515-Q021": {
+  "motivo": "o poema 'Brasil' (texto-base das questões 20 e 21) estava no fim da questão 19; conferido no recorte",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Instruções:** As questões de números 20 e 21 referem-se ao poema abaixo.\n\n***Brasil***\n\n*O Zé Pereira chegou de caravela*  \n*E preguntou pro guarani da mata virgem*  \n*― Sois cristão?*  \n*― Não. Sou bravo, sou forte, sou filho da Morte*  \n*Teterê tetê Quizá Quizá Quecê!*  \n*Lá longe a onça resmungava Uu! ua! uu!*  \n*O negro zonzo saído da fornalha*  \n*Tomou a palavra e respondeu*  \n*― Sim pela graça de Deus*  \n*Canhem Babá Canhem Babá Cum Cum!*\n\n*E fizeram o Carnaval*\n\n(Oswald de Andrade)\n\n"
+   ]
+  ]
+ },
+ "P7515-Q025": {
+  "motivo": "recorte: o poema 'Cidade grande' (Drummond) abaixo da alternativa E é o texto-base das questões 26 e 27",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*<u>\\*\\*Instruções:\\*\\*</u>.*$",
+    ""
+   ]
+  },
+  "apos_alternativas": ""
+ },
+ "P7515-Q026": {
+  "motivo": "o poema 'Cidade grande' (texto-base das questões 26 e 27) estava no fim da questão 25; conferido no recorte",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Instruções:** As questões de números 26 e 27 referem-se ao poema abaixo.\n\n**Cidade grande**\n\n*Que beleza, Montes Claros.*  \n*Como cresceu Montes Claros.*  \n*Quanta indústria em Montes Claros.*  \n*Montes Claros cresceu tanto,*  \n*ficou urbe tão notória,*  \n*prima-rica do Rio de Janeiro,*  \n*que já tem cinco favelas*  \n*por enquanto, e mais promete.*\n\n(Carlos Drummond de Andrade)\n\n"
+   ]
+  ]
+ },
+ "P7515-Q027": {
+  "motivo": "o poema 'Cidade grande' (texto-base das questões 26 e 27) estava no fim da questão 25; conferido no recorte",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Instruções:** As questões de números 26 e 27 referem-se ao poema abaixo.\n\n**Cidade grande**\n\n*Que beleza, Montes Claros.*  \n*Como cresceu Montes Claros.*  \n*Quanta indústria em Montes Claros.*  \n*Montes Claros cresceu tanto,*  \n*ficou urbe tão notória,*  \n*prima-rica do Rio de Janeiro,*  \n*que já tem cinco favelas*  \n*por enquanto, e mais promete.*\n\n(Carlos Drummond de Andrade)\n\n"
+   ]
+  ]
+ },
+ "P7517-Q050": {
+  "motivo": "recorte: '(Fonte: Raquel Aguiar, Ciência Hoje on-line 13/05/02.)' é a fonte da figura desta questão; enunciado reflowed (sem quebras de coluna)",
+  "statement_sub": [
+   [
+    "(?s)\\{\\{img:1\\}\\}\\s*\\n\\s*Foi proposto.*aproximadamente\\s*$",
+    "{{img:1}}\n\n(Fonte: Raquel Aguiar, *Ciência Hoje on-line* 13/05/02.)\n\nFoi proposto um novo modelo de evolução dos primatas elaborado por matemáticos e biólogos. Nesse modelo o grupo de primatas pode ter tido origem quando os dinossauros ainda habitavam a Terra, e não há 65 milhões de anos, como é comumente aceito.\nExaminando esta árvore evolutiva podemos dizer que a divergência entre os macacos do Velho Mundo e o grupo dos grandes macacos e de humanos ocorreu há aproximadamente"
+   ]
+  ],
+  "apos_alternativas": ""
+ },
+ "P7523-Q047": {
+  "motivo": "recorte: a figura de mortalidade (INDICADORES BÁSICOS PARA A SAÚDE) e seu título pertencem às questões 48 e 49; na 47 ficam só o texto de Agnolo di Tura e a fonte dele",
+  "statement_sub": [
+   [
+    "\\n\\n\\{\\{fonte:2\\}\\}\\n\\n\\{\\{fonte:3\\}\\}",
+    ""
+   ]
+  ],
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*\\*\\*Figura para as questões 48 e 49\\*\\*.*$",
+    ""
+   ]
+  },
+  "fontes": [
+   "Agnolo di Tura. **The Plague in Siena: An Italian Chronicle**. *In*: William M. Bowsky. **The Black Death: a turning point in history?** New York: HRW, 1971 (com adaptações)."
+  ],
+  "remove_imagens": [
+   1
+  ],
+  "apos_alternativas": ""
+ },
+ "P7523-Q048": {
+  "motivo": "a figura das questões 48 e 49 (gráfico de mortalidade proporcional) estava no fim da questão 47; lida no recorte da página",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Figura para as questões 48 e 49**\n\nA figura abaixo apresenta dados percentuais que integram os Indicadores Básicos para a Saúde, relativos às principais causas de mortalidade de pessoas do sexo masculino.\n\n**Mortalidade proporcional em relação às principais causas (%), no sexo masculino, em faixas etárias selecionadas. Brasil, 2004.**\n\n{{imgx:1}}\n\nFonte: Ministério da Saúde/SUS.\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2008/P7523/img/Q047_img1.png"
+  ]
+ },
+ "P7523-Q049": {
+  "motivo": "a figura das questões 48 e 49 (gráfico de mortalidade proporcional) estava no fim da questão 47; lida no recorte da página",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Figura para as questões 48 e 49**\n\nA figura abaixo apresenta dados percentuais que integram os Indicadores Básicos para a Saúde, relativos às principais causas de mortalidade de pessoas do sexo masculino.\n\n**Mortalidade proporcional em relação às principais causas (%), no sexo masculino, em faixas etárias selecionadas. Brasil, 2004.**\n\n{{imgx:1}}\n\nFonte: Ministério da Saúde/SUS.\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2008/P7523/img/Q047_img1.png"
+  ]
+ },
+ "P7515-Q001": {
+  "motivo": "recorte: enunciado transcrito do PDF; o gráfico 'Distribuição das Medalhas de Ouro, Olimpíadas de Sydney - 2000' foi recortado à mão da página 3 (Q001_manual_1.png). Conferência do conteúdo: EUA 40 + Rússia 32 + China 28 = 100 de 300 = um terço (alternativa B, igual ao gabarito oficial)",
+  "statement_sub": [
+   [
+    "\\A",
+    "As Olimpíadas são uma oportunidade para o congraçamento de um grande número de países, sem discriminação política ou racial, ainda que seus resultados possam refletir características culturais, socioeconômicas e étnicas. Em 2000, nos Jogos Olímpicos de Sydney, o total de 300 medalhas de ouro conquistadas apresentou a seguinte distribuição entre os 196 países participantes como mostra o gráfico.\n\n{{imgx:1}}\n\nEsses resultados mostram que, na distribuição das medalhas de ouro em 2000,"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2004/P7515/img/Q001_manual_1.png"
+  ]
+ },
+ "P7519-Q046": {
+  "motivo": "recorte: as 5 alternativas estavam em uma linha só (I.; II.; III.; I e II.; II e III.) e o extrator não as achou; itens I–III reunidos em um parágrafo cada. Letra oficial (coluna Amarela do gabarito) = A: conferido pelo gráfico, só o item I é verdadeiro (cerca de -24% de 2005 a 2008; II e III falsos)",
+  "statement_sub": [
+   [
+    "\\nI Ações educativas de prevenção da transmissão do vírus\\n\\nHIV",
+    "\\n**I** Ações educativas de prevenção da transmissão do vírus HIV"
+   ],
+   [
+    "\\nII Ações educativas relativas à utilização de preservativos\\n\\nnas",
+    "\\n**II** Ações educativas relativas à utilização de preservativos nas"
+   ],
+   [
+    "\\nIII Sem o aumento de medidas de prevenção primária,\\n\\nestima-se",
+    "\\n**III** Sem o aumento de medidas de prevenção primária, estima-se"
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "I."
+   ],
+   [
+    "B",
+    "II."
+   ],
+   [
+    "C",
+    "III."
+   ],
+   [
+    "D",
+    "I e II."
+   ],
+   [
+    "E",
+    "II e III."
+   ]
+  ]
+ },
+ "_fora": {
+  "P7507-Q004": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)",
+  "P7509-Q060": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)",
+  "P7511-Q055": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)",
+  "P7519-Q020": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)",
+  "P7519-Q062": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)",
+  "P7519-Q063": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)",
+  "P7521-Q019": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)",
+  "P7521-Q021": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)",
+  "P7521-Q053": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)",
+  "P7523-Q041": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)",
+  "P7523-Q057": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)"
+ },
+ "P7511-Q020": {
+  "motivo": "recorte: as alternativas são cinco quadros de Picasso (figura 2 já extraída, com legendas); transcritos os títulos das legendas (A–E)",
+  "alternativas_lista": [
+   [
+    "A",
+    "*Os amantes*"
+   ],
+   [
+    "B",
+    "*Retrato de Françoise*"
+   ],
+   [
+    "C",
+    "*Os pobres na praia*"
+   ],
+   [
+    "D",
+    "*Os dois saltimbancos*"
+   ],
+   [
+    "E",
+    "*Marie-Thérèse apoiada no cotovelo*"
+   ]
+  ]
+ },
+ "P7511-Q022": {
+  "motivo": "recorte da página 11: as cinco alternativas são desenhos de divisão do terreno (A–E), recortados à mão da página (Q022_altA–E.png); enunciado e figura 1 já estavam certos",
+  "alternativas_lista": [
+   [
+    "A",
+    "{{imgx:1}}"
+   ],
+   [
+    "B",
+    "{{imgx:2}}"
+   ],
+   [
+    "C",
+    "{{imgx:3}}"
+   ],
+   [
+    "D",
+    "{{imgx:4}}"
+   ],
+   [
+    "E",
+    "{{imgx:5}}"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2002/P7511/img/Q022_altA.png",
+   "_banco/questoes/ENEM/2002/P7511/img/Q022_altB.png",
+   "_banco/questoes/ENEM/2002/P7511/img/Q022_altC.png",
+   "_banco/questoes/ENEM/2002/P7511/img/Q022_altD.png",
+   "_banco/questoes/ENEM/2002/P7511/img/Q022_altE.png"
+  ]
+ },
+ "P7519-Q022": {
+  "motivo": "questão inteira lida na página 9 (enunciado vazio no extrator): enunciado, mapas 'Guerra Fria (1945-1989)' e 'Pós-Guerra Fria' (recorte à mão Q022_manual_1.png) e alternativas A–E transcritas",
+  "statement_sub": [
+   [
+    "\\A",
+    "Os mapas a seguir revelam como as fronteiras e suas representações gráficas são mutáveis.\n\n{{imgx:1}}\n\nEssas significativas mudanças nas fronteiras de países da Europa Oriental nas duas últimas décadas do século XX, direta ou indiretamente, resultaram"
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "do fortalecimento geopolítico da URSS e de seus países aliados, na ordem internacional."
+   ],
+   [
+    "B",
+    "da crise do capitalismo na Europa, representada principalmente pela queda do muro de Berlim."
+   ],
+   [
+    "C",
+    "da luta de antigas e tradicionais comunidades nacionais e religiosas oprimidas por Estados criados antes da Segunda Guerra Mundial."
+   ],
+   [
+    "D",
+    "do avanço do capitalismo e da ideologia neoliberal no mundo ocidental."
+   ],
+   [
+    "E",
+    "da necessidade de alguns países subdesenvolvidos ampliarem seus territórios."
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2006/P7519/img/Q022_manual_1.png"
+  ]
+ },
+ "P7519-Q035": {
+  "motivo": "recorte da página 12: as alternativas A–E são cinco tabelas (condição climática × horas do dia); recortadas à mão (Q035_altA–E.png); a imagem 2 (as 5 tabelas juntas) e as letras soltas saem do enunciado",
+  "statement_sub": [
+   [
+    "\\n\\nA\\n\\nB\\n\\nC\\n\\nD\\n\\n\\{\\{img:2\\}\\}\\n\\nE$",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   2
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "{{imgx:1}}"
+   ],
+   [
+    "B",
+    "{{imgx:2}}"
+   ],
+   [
+    "C",
+    "{{imgx:3}}"
+   ],
+   [
+    "D",
+    "{{imgx:4}}"
+   ],
+   [
+    "E",
+    "{{imgx:5}}"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2006/P7519/img/Q035_altA.png",
+   "_banco/questoes/ENEM/2006/P7519/img/Q035_altB.png",
+   "_banco/questoes/ENEM/2006/P7519/img/Q035_altC.png",
+   "_banco/questoes/ENEM/2006/P7519/img/Q035_altD.png",
+   "_banco/questoes/ENEM/2006/P7519/img/Q035_altE.png"
+  ]
+ },
+ "P7519-Q057": {
+  "motivo": "recorte da página 18: as alternativas A–E são cinco pequenos gráficos de projeção 2002–2010; recortados à mão (Q057_altA–E.png); a imagem 2 (os 5 juntos) e as letras soltas saem do enunciado",
+  "statement_sub": [
+   [
+    "\\n\\nA\\n\\n\\{\\{img:2\\}\\}\\n\\nD$",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   2
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "{{imgx:1}}"
+   ],
+   [
+    "B",
+    "{{imgx:2}}"
+   ],
+   [
+    "C",
+    "{{imgx:3}}"
+   ],
+   [
+    "D",
+    "{{imgx:4}}"
+   ],
+   [
+    "E",
+    "{{imgx:5}}"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2006/P7519/img/Q057_altA.png",
+   "_banco/questoes/ENEM/2006/P7519/img/Q057_altB.png",
+   "_banco/questoes/ENEM/2006/P7519/img/Q057_altC.png",
+   "_banco/questoes/ENEM/2006/P7519/img/Q057_altD.png",
+   "_banco/questoes/ENEM/2006/P7519/img/Q057_altE.png"
+  ]
+ },
+ "P7521-Q052": {
+  "motivo": "questão inteira lida na página 17 (enunciado vazio no extrator); foto do rastro recortada à mão (Q052_manual_1.png); texto e alternativas A–E transcritos",
+  "statement_sub": [
+   [
+    "\\A",
+    "Uma equipe de paleontólogos descobriu um rastro de dinossauro carnívoro e nadador, no norte da Espanha.\n\n{{imgx:1}}\n\nO rastro completo tem comprimento igual a 15 metros e consiste de vários pares simétricos de duas marcas de três arranhões cada uma, conservadas em arenito.\n\nO espaço entre duas marcas consecutivas mostra uma pernada de 2,5 metros. O rastro difere do de um dinossauro não-nadador: “são as unhas que penetram no barro — e não a pisada —, o que demonstra que o animal estava nadando sobre a água: só tocava o solo com as unhas, não pisava”, afirmam os paleontólogos.\n\nInternet: <www.noticias.uol.com.br> (com adaptações).\n\nQual dos seguintes fragmentos do texto, considerado isoladamente, é variável relevante para se estimar o tamanho do dinossauro nadador mencionado?"
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "“O rastro completo tem 15 metros de comprimento”"
+   ],
+   [
+    "B",
+    "“O espaço entre duas marcas consecutivas mostra uma pernada de 2,5 metros”"
+   ],
+   [
+    "C",
+    "“O rastro difere do de um dinossauro não-nadador”"
+   ],
+   [
+    "D",
+    "“são as unhas que penetram no barro — e não a pisada”"
+   ],
+   [
+    "E",
+    "“o animal estava nadando sobre a água: só tocava o solo com as unhas”"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2007/P7521/img/Q052_manual_1.png"
+  ]
+ }
+}

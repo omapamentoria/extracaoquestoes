@@ -106,7 +106,7 @@ def gabarito():
         # letra oficial diferente da extraida (ou oficial ausente) = numeracao/cor errada: prova VERMELHA. Ja a questao que o
         # extrator nao leu direito (sem letra, ex.: virou "discursiva" por falta de alternativas) so vira pendente
         sem_letra={o for o,ofi,ext in melhor[1] if ext is None and ofi is not None}
-        P[pid]["sem_letra"]=sorted(sem_letra); graves=[x for x in melhor[1] if x[0] not in sem_letra]
+        P[pid]["sem_letra"]=sorted(sem_letra); P[pid]["sem_letra_oficial"]={o:ofi for o,ofi,ext in melhor[1] if o in sem_letra}; graves=[x for x in melhor[1] if x[0] not in sem_letra]
         if graves: P[pid].update(estado="vermelha",motivo=f"gabarito: {len(graves)} divergência(s) entre o PDF oficial e a extração")
 
 # ---------------------------------------------------------------- 4. casa com o banco
@@ -173,7 +173,8 @@ def recorte(pid,q,dest):
     cv2.imwrite(dest,np.vstack(partes)); return True
 @etapa("separa")
 def separa():
-    for f in glob.glob(PEND+"/*"): os.remove(f)   # a lista de pendentes e refeita a cada rodada
+    for f in glob.glob(PEND+"/*"):
+        if os.path.isfile(f): os.remove(f)   # a lista de pendentes e refeita a cada rodada
     for pid in PIDS:
         st=P[pid]; st.update(prontas=[],pendentes={},novas=0,casadas=0,do_banco_antigo=0,gab_corrigido=[])
         if st["estado"]!="verde" or not A.banco:
@@ -183,6 +184,11 @@ def separa():
         d=json.load(open(f"{TMP}/int_{pid}.json")); qs={q["id"]:q for q in json.load(open(pasta(pid)+"/questoes.json"))}
         regs=[(r,None) for r in d["novas"]]+[(x["registro"],x) for x in d["casadas"]]
         for r,x in regs:
+            # questao que o extrator leu sem letra (ex.: alternativas numa linha so) e que foi corrigida a mao olhando o recorte:
+            # o gabarito passa a ser o do PDF oficial (leitura independente), nunca outro
+            o_=r["origem_texto"]
+            if o_ in st.get("sem_letra_oficial",{}) and o_ in CORR and o_ not in CORR.get("_fora",{}) and r.get("gabarito") is None and st["sem_letra_oficial"][o_] in list("ABCDE"):
+                r["gabarito"]=st["sem_letra_oficial"][o_]; st["sem_letra"]=[x for x in st["sem_letra"] if x!=o_]
             m=problemas(r)
             if r["origem_texto"] in st.get("sem_letra",[]): m.append(("gabarito","o extrator não leu a letra desta questão (o oficial tem)"))
             if x and x["sim"]<0.97 and r["origem_texto"] not in CORR.get("_casa",{}): m.append(("casamento",f"semelhança {x['sim']} com a questão {x['id_banco']} do banco"))
