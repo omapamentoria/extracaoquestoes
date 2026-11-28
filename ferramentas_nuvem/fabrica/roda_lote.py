@@ -97,10 +97,12 @@ def gabarito():
                 k=(x["numero"],x.get("idioma")) if (x["numero"],x.get("idioma")) in gg else (x["numero"],None)
                 o=gg.get(k); b="anulada" if x.get("anulada") else x.get("gabarito")
                 if o is None or o!=b: dif.append((x["id"],o,b))
-            if melhor is None or len(dif)<len(melhor[1]): melhor=(nome,dif,len(gg))
+            if melhor is None or len(dif)<len(melhor[1]): melhor=(nome,dif,len(gg),sorted({k[0] for k in gg}))
             if not dif: break
         if not melhor: P[pid].update(estado="vermelha",motivo="gabarito oficial não lido"); continue
         P[pid]["gabarito"]={"leitor":melhor[0],"chaves":melhor[2],"conferidas":len(qs),"divergencias":melhor[1][:20]}
+        # questoes que o gabarito oficial tem e o extrator nao achou: pendentes "não extraída" (a prova nao fica completa)
+        P[pid]["nao_extraidas"]=sorted(set(melhor[3])-{x["numero"] for x in qs})
         if melhor[1]: P[pid].update(estado="vermelha",motivo=f"gabarito: {len(melhor[1])} divergência(s) entre o PDF oficial e a extração")
 
 # ---------------------------------------------------------------- 4. casa com o banco
@@ -192,6 +194,10 @@ def separa():
                        "recorte":os.path.basename(img) if ok else None,"statement":r["statement"],"alternativas":r["alternativas"],
                        "apos_alternativas":r.get("apos_alternativas",""),"imagens":[os.path.relpath(i,R) for i in r["imagens_src"]],"gabarito":r["gabarito"]},
                       open(f"{PEND}/{o}.json","w"),ensure_ascii=False,indent=1)
+        for n in st.get("nao_extraidas",[]):
+            o=f"{pid}-Q{n:03d}"; st["pendentes"][o]=[("não extraída","o extrator não achou o cabeçalho desta questão no PDF")]
+            json.dump({"origem":o,"prova":pid,"arquivo":CAT[pid]["caminho"],"paginas":None,"motivos":[{"tipo":"não extraída","texto":"o extrator não achou o cabeçalho desta questão no PDF"}],
+                       "recorte":None,"statement":"","alternativas":[],"apos_alternativas":"","imagens":[],"gabarito":None},open(f"{PEND}/{o}.json","w"),ensure_ascii=False,indent=1)
         # int_*.json para o publica.py: pendentes de fora; prova_completa so com a prova inteira pronta
         d["pendentes"]=sorted(st["pendentes"]); d["prova_completa"]=not st["pendentes"]
         json.dump(d,open(f"{TMP}/int_{pid}.json","w"),ensure_ascii=False)

@@ -822,13 +822,15 @@ for pg in paginas:
     W, H = pg["page"].width, pg["page"].height
     # ENEM 2006-2008: "Questão" em letra miuda e o numero maior logo a direita, com o topo um pouco desencontrado: o
     # numero passa a ter a altura e o estilo do rotulo (senao vira outra linha, ou expoente, e a questao some)
+    # (o numero entra na mesma palavra do rotulo: "Questão 10"; assim nenhuma etapa depois o separa do rotulo)
+    _tira = []
     for w in pg["ws"]:
-        if re.fullmatch(r"(?i)quest[ãa]o", w["text"]):
+        if re.fullmatch(r"(?i)quest[ãa]o", w["text"]) and w["size"] < 0.8 * CORPO:
             yc = (w["top"] + w["bottom"]) / 2
             nums = [o for o in pg["ws"] if re.fullmatch(r"\d{1,3}", o["text"]) and -1 <= o["x0"] - w["x1"] < 14 and abs((o["top"] + o["bottom"]) / 2 - yc) < 4]
-            if len(nums) == 1 and abs(nums[0]["top"] - w["top"]) > 0.3:
-                o = nums[0]; o["top"], o["bottom"], o["size"] = w["top"], w["bottom"], w["size"]
-                if "bold" in w: o["bold"] = w["bold"]
+            if len(nums) == 1:
+                o = nums[0]; w["text"] = w["text"] + " " + o["text"]; w["x1"] = o["x1"]; _tira.append(id(o))
+    if _tira: pg["ws"] = [w for w in pg["ws"] if id(w) not in _tira]
     pg["regs"] = regioes(pg["ws"], W, H, pg["page"])
     # protecao: nenhuma faixa da pagina pode ficar sem regiao (senao o texto dali some sem aviso)
     faixas_r = sorted({(r[2], r[3]) for r in pg["regs"]})
@@ -847,7 +849,7 @@ for pg in paginas:
         sub = [w for w in pg["ws"] if r[0] <= (w["x0"] + w["x1"]) / 2 < r[1] and r[2] <= (w["top"] + w["bottom"]) / 2 < r[3]]
         for l in agrupa_linhas(sub, CORPO):
             l["col"] = (r[0], r[1]); l["reg"] = ri; l["pg"] = pg["n"]; pg["linhas"].append(l)
-RE_CAB_Q = re.compile(r"^((?i:quest[ãa]o)(\s*\d|\s*$)|\{\s*\d{1,3}\s*\})")   # cabecalho de questao nunca e cabecalho/rodape da pagina
+RE_CAB_Q = re.compile(r"^((?i:quest[ãa]o)(\s*\d|\s*$)|\{\s*\d{1,3}\s*\}|\d{1,3}\.$)")   # "24." sozinho no alto da pagina (ENEM 2004)   # cabecalho de questao nunca e cabecalho/rodape da pagina
 def chave_rep(l):
     return (frozenset(re.sub(r"\d+", "", w["text"]) for w in l["ws"]) - {""}, round(l["top"] / 10))
 rep = collections.Counter()
@@ -2144,6 +2146,7 @@ for i_it, it in enumerate(itens):
                     l["uso"] = "antes do início das questões (capa/instruções)"
                     continue
             n_cab = eh_cabecalho(l)
+            if os.environ.get("DEBUGFLUXO") and re.match(r"(?i)\W*quest", t): print("FLX", l["pg"], repr(t[:40]), n_cab, esperado, [w["text"] for w in l["ws"][:3]])
             # linha so com o numero esperado ("21." e a figura embaixo, SSA 2018): tambem e cabecalho
             m_so = re.fullmatch(r"0*(\d{1,3})\s*[.)]", t) if ESTILO_Q == "ponto" and esperado is not None else None
             if n_cab is None and m_so and int(m_so.group(1)) == esperado: n_cab = esperado
