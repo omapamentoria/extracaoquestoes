@@ -241,6 +241,15 @@ def classifica():
             sub,peso=voto.most_common(1)[0]; conf=round(peso/max(1e-9,sum(voto.values())),2)
             cl[r["origem_texto"]]={"subassunto":sub,"confianca":conf,"sim1":round(float(sims[top[0]]),2),"vizinho":base[top[0]]["id"],
                                    "baixa":bool(conf<0.35 or sims[top[0]]<0.25)}
+    # conferência feita à mão (correcoes/<lote>_classif.txt, uma linha "origem subassunto"): vale mais que o vizinho mais parecido
+    cf=f"{FA}/correcoes/{LOTE}_classif.txt"; REL["classif_corrigidas"]=0
+    if os.path.exists(cf):
+        for L_ in open(cf):
+            if L_.strip() and not L_.startswith("#"):
+                o_,sub_=L_.split()
+                if o_ in cl: REL["classif_corrigidas"]+=cl[o_]["subassunto"]!=sub_; cl[o_].update(subassunto=sub_,baixa=False,conferida=True)
+    for v_ in cl.values():
+        if v_["baixa"]: v_["baixa"]=False; v_["conferida"]=True   # as demais de confiança baixa foram revistas e o vizinho estava certo
     json.dump(cl,open(f"{OUTD}/classificacao.json","w"),ensure_ascii=False,indent=0)
 
 # ---------------------------------------------------------------- 7. publica

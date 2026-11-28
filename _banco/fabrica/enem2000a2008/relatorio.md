@@ -1,6 +1,6 @@
 # Fábrica v2 — lote enem2000a2008
 
-Gerado por `ferramentas_nuvem/fabrica/roda_lote.py` em 28/11/2026 14:53 (sem IA).
+Gerado por `ferramentas_nuvem/fabrica/roda_lote.py` em 28/11/2026 14:57 (sem IA).
 
 | Prova | Arquivo | Estado | Questões | Prontas | Pendentes | Novas | Já no banco (antigo) | Gabaritos corrigidos | Prova completa |
 |---|---|---|---|---|---|---|---|---|---|
@@ -25,18 +25,18 @@ Recortes, texto extraído e motivo de cada pendente: `_banco/pendentes/enem2000a
 
 ## Classificação automática (vizinho mais parecido)
 
-- classificadas: 476; confiança baixa (para confirmar): 443
+- classificadas: 476; confiança baixa (para confirmar): 0
 
 ## Tempo de cada etapa
 
 - baixa: 0.1 s
 - extrai: 0.0 s
-- gabarito: 1.1 s
-- casa: 6.0 s
+- gabarito: 1.3 s
+- casa: 6.5 s
 - separa: 0.3 s
-- classifica: 17.4 s
-- publica: 10.2 s
-- verifica: 2.9 s
+- classifica: 22.8 s
+- publica: 11.0 s
+- verifica: 3.1 s
 
 ## Verificação
 
