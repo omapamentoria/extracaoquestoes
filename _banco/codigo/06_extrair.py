@@ -91,7 +91,7 @@ def junta_hifen(a, b):
 def estilo(fontname):
     f = fontname.lower()
     # ("-BdCn", "-Bd": negrito abreviado, ex. HelveticaNeueLTStd-BdCn da UNESP)
-    return ("bold" in f or "black" in f or "heavy" in f or "semibold" in f or re.search(r"[-,](bd|bdcn|bdit)\b|[-,]bd[a-z]{0,2}$|[a-z](600|700|800|900)", f) is not None,
+    return ("bold" in f or "black" in f or "heavy" in f or "semibold" in f or re.search(r"[-,](bd|bdcn|bdit)\b|[-,]bd[a-z]{0,2}$|[a-z](600|700|800|900)|[a-z]bd(cn|it)?bt$", f) is not None,
             "italic" in f or "oblique" in f)
 ALT_PONTO = False      # a prova marca as alternativas com "A." (definido depois de ler todas as paginas)
 ESTILO_Q = None        # como a prova numera as questoes: "questao" (QUESTAO 91), "ponto" (10. texto), "solto" (numero sozinho na linha)
@@ -139,7 +139,8 @@ def cand_cabecalho(l):
     if m and (len(ws) <= 3 or re.match(r"\s*[-–—]\s", t_j[m.end():])): out.append(("questao_nb", int(m.group(1))))
     m = RE_Q_NUM.match(t)
     if m and not l.get("pequena"): out.append(("ponto", int(m.group(1))))
-    if len(ws) == 1 and re.fullmatch(r"0*\d{1,3}", t) and ws[0]["bold"] and 0.85 * CORPO <= l["size"] <= 2 * CORPO: out.append(("solto", int(t)))
+    # (ou "24." sozinho na linha, ENEM 2004)
+    if len(ws) == 1 and re.fullmatch(r"0*\d{1,3}\.?", t) and ws[0]["bold"] and 0.85 * CORPO <= l["size"] <= 2 * CORPO: out.append(("solto", int(t.rstrip("."))))
     # numero entre chaves "{ 02 }" em negrito (FUVEST 2025-2026)
     m = re.match(r"\{\s*0*(\d{1,3})\s*\}(\s|$)", t)
     if m and any(w["bold"] for w in ws): out.append(("chave", int(m.group(1))))
@@ -819,6 +820,15 @@ def regioes(ws, W, H, page=None):
     return regs or [(0, W, 0, H + 1)]
 for pg in paginas:
     W, H = pg["page"].width, pg["page"].height
+    # ENEM 2006-2008: "Questão" em letra miuda e o numero maior logo a direita, com o topo um pouco desencontrado: o
+    # numero passa a ter a altura e o estilo do rotulo (senao vira outra linha, ou expoente, e a questao some)
+    for w in pg["ws"]:
+        if re.fullmatch(r"(?i)quest[ãa]o", w["text"]):
+            yc = (w["top"] + w["bottom"]) / 2
+            nums = [o for o in pg["ws"] if re.fullmatch(r"\d{1,3}", o["text"]) and -1 <= o["x0"] - w["x1"] < 14 and abs((o["top"] + o["bottom"]) / 2 - yc) < 4]
+            if len(nums) == 1 and abs(nums[0]["top"] - w["top"]) > 0.3:
+                o = nums[0]; o["top"], o["bottom"], o["size"] = w["top"], w["bottom"], w["size"]
+                if "bold" in w: o["bold"] = w["bold"]
     pg["regs"] = regioes(pg["ws"], W, H, pg["page"])
     # protecao: nenhuma faixa da pagina pode ficar sem regiao (senao o texto dali some sem aviso)
     faixas_r = sorted({(r[2], r[3]) for r in pg["regs"]})
@@ -2590,6 +2600,9 @@ def le_gabarito(ids=None):
         cor_col = None
         for linha in t.splitlines():
             cores_l = re.findall(r"(?i)gab_(azul|amarel[oa]|branc[oa]|rosa|cinza|verde|laranja)", linha)
+            # ENEM 1998-2008: cabecalho so com os nomes das cores ("Amarela  Branca  Rosa  Verde", "PROVA 1 - AMARELA ...")
+            if len(cores_l) < 2 and not re.search(r"\d\s*[–—-]?\s*[A-E](?![A-Za-zÀ-ÿ])", linha):
+                cores_l = re.findall(r"(?i)(amarel[oa]|branc[oa]|rosa|cinza|verde|laranja|azul)", linha)
             if len(cores_l) >= 2 and P.get("caderno"):
                 norm_c = [c_.lower()[:4] for c_ in cores_l]
                 if P["caderno"].lower()[:4] in norm_c: cor_col = (norm_c.index(P["caderno"].lower()[:4]), len(norm_c))
@@ -2597,9 +2610,14 @@ def le_gabarito(ids=None):
         for linha in (t.splitlines() if not eh_res else []):   # leitura solta de linha: so em arquivo de gabarito
             toks = re.findall(r"(?<![\w,])\d{1,3}(?![\w,])|[Aa]nulad[ao]|ANULAD[AO]|(?<![A-Za-zÀ-ÿ])[A-E](?![A-Za-zÀ-ÿ])", linha)
             if cor_col:
-                pares_c = re.findall(r"(?<![\w,])(\d{1,3})\s+([A-E]|[Aa]nulad[ao]|ANULAD[AO])(?![A-Za-zÀ-ÿ])", linha)
+                pares_c = re.findall(r"(?<![\w,])(\d{1,3})\s*[–—-]?\s*([A-E]|[Aa]nulad[ao]|ANULAD[AO])(?![A-Za-zÀ-ÿ])", linha)
                 if len(pares_c) == cor_col[1]:
                     gab.setdefault(int(pares_c[cor_col[0]][0]), pares_c[cor_col[0]][1])
+                # linha "Q1   A   D   D   A" (numero e uma letra por cor; ENEM 2000-2005)
+                m_l = re.match(r"^\s*Q?\.?\s*(\d{1,3})((?:\s+(?:[A-E]|\*|[Aa]nulad[ao]|ANULAD[AO])){%d})\s*$" % cor_col[1], linha)
+                if m_l:
+                    v_ = m_l.group(2).split()[cor_col[0]]
+                    if v_ != "*": gab.setdefault(int(m_l.group(1)), v_)
                 continue
             n = None; letras = []
             def fecha():

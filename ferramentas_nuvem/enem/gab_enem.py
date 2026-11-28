@@ -6,6 +6,7 @@ import re,sys,json,subprocess
 def le(pdf,cor=None):
     t=subprocess.run(["pdftotext","-layout",pdf,"-"],capture_output=True,text=True).stdout
     g={}
+    cols=None
     TOK=r"(\d{1,3})\s+\*?((?:[A-E]|[Aa]nulad[oa]|ANULAD[OA])(?:\s+\*?(?:[A-E]|[Aa]nulad[oa]|ANULAD[OA]))?)"
     for L in t.split("\n"):
         cs=[c.lower()[:4] for c in re.findall(r"(?i)gab_(azul|amarel[oa]|branc[oa]|rosa|cinza|verde)",L)]

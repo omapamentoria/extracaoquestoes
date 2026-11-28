@@ -53,7 +53,10 @@ def webp(src,nome):
     assert cv2.imwrite(alvo,im,[cv2.IMWRITE_WEBP_QUALITY,85]); return nome
 nova_parte=DEST+"/final/partes/banco_parte_%s.json"%os.environ.get("PARTE","28")
 if nova_parte not in dados: dados[nova_parte]=[]; fmt[nova_parte]=True
-proprios={q.get("origem_texto"):(f,q) for f in dados for q in dados[f] if q["id"]>=PROPRIO_DESDE and q.get("prova_completa")}
+# questoes desta frente ja publicadas: as de prova completa e, na fabrica v2, as publicadas antes de a prova ficar completa
+# (mesma prova destes int_*.json): numa nova rodada mantem o id
+PIDS={json.load(open(ij))["pid"] for ij in INTS}
+proprios={q.get("origem_texto"):(f,q) for f in dados for q in dados[f] if q["id"]>=PROPRIO_DESDE and (q.get("prova_completa") or (q.get("origem_texto") or "").split("-")[0] in PIDS)}
 rel=collections.Counter(); refazer=[]; novos_ids=[]; mexidos={nova_parte}; substituidos=set(); espacadas=[]; reextraidas=[]; ver=[]
 FORA=corr.get("_fora",{})   # questao que fica fora da prova completa (incerta: gabarito oficial contra o conteudo), com motivo
 for ij in INTS:
@@ -64,8 +67,13 @@ for ij in INTS:
     cont=collections.Counter(r["area_prova"] for r in d["novas"]+[x["registro"] for x in d["casadas"]])
     fora_=[r for r in d["novas"]+[x["registro"] for x in d["casadas"]] if r["origem_texto"] in FORA]
     if fora_: print(d["pid"],"fora da prova completa (ver motivo em _fora):",[r["origem_texto"] for r in fora_]); rel["fora da prova completa (incertas)"]+=len(fora_)
-    d["novas"]=[r for r in d["novas"] if r["origem_texto"] not in FORA]; d["casadas"]=[x for x in d["casadas"] if x["origem_texto"] not in FORA]
-    assert all(v in (45,50) for v in cont.values()), ("áreas com contagem estranha",d["pid"],cont)
+    # fabrica v2 (roda_lote.py): questoes pendentes (com alerta do extrator) nao sao publicadas; a prova so ganha os campos
+    # prova_completa* quando nao ha nenhuma pendente ("prova_completa": false no int_*.json)
+    PEND=set(d.get("pendentes",[])); COMPLETA=d.get("prova_completa",True)
+    if PEND: rel["pendentes (não publicadas)"]+=len(PEND)
+    d["novas"]=[r for r in d["novas"] if r["origem_texto"] not in FORA|PEND]; d["casadas"]=[x for x in d["casadas"] if x["origem_texto"] not in FORA|PEND]
+    # ENEM 2009+: areas de 45 questoes (ou 50 no dia com idioma); ENEM 1998-2008: prova unica de 63, sem area no caderno
+    if int(c["ano"])>=2009: assert all(v in (45,50) for v in cont.values()), ("áreas com contagem estranha",d["pid"],cont)
     def esp(q):
         k=0
         for campo in ("statement","apos_alternativas"):
@@ -73,10 +81,10 @@ for ij in INTS:
             q[campo],n=re.subn(r"\bteXto\b","TEXTO",q[campo]); k+=n     # versalete lido errado
         for a in q["alternativas"]: a["texto"],n=ESP.corrige(a["texto"]); k+=n
         return k
-    nome=f"ENEM {c['ano']} {c['edicao']} - dia {c['dia']} - caderno {c['caderno']}"
+    nome=f"ENEM {c['ano']} {c['edicao']} - dia {c['dia']} - caderno {c['caderno']}" if str(c.get("dia") or "") else f"ENEM {c['ano']} {c['edicao']} - caderno {c['caderno']}"
     def num(r): return f"{r['numero']}-{'ING' if r['idioma']=='inglês' else 'ESP'}" if r["idioma"] else str(r["numero"])
-    def campos(r): return {"number":num(r),"prova":c["arquivo"],"origem_texto":r["origem_texto"],"prova_completa":nome,
-                           "prova_completa_cor":c["caderno"],"prova_completa_ordem":r["numero"]}
+    def campos(r): return {"number":num(r),"prova":c["arquivo"],"origem_texto":r["origem_texto"],**({"prova_completa":nome,
+                           "prova_completa_cor":c["caderno"],"prova_completa_ordem":r["numero"]} if COMPLETA else {})}
     def limpa(r):
         aplica(r); esp(r)
         TIT=r"\s*\*\*(?:LINGUAGENS|CIÊNCIAS|MATEMÁTICA)[^*]{0,60}TECNOLOGIAS\s+Questões de \d+ a \d+\*\*"
