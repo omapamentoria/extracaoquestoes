@@ -471,6 +471,13 @@ e consolida o HANDOFF. Catálogo do Drive novo por ano em `_banco/catalogo_drive
   mexem nas mesmas partes de uma linha só: `ferramentas_nuvem/enem/junta_json.py` (merge de 3 vias por id).
 - Pendentes: PPL 2021 e 2022 (só no Drive antigo); espanhol do 2020 digital; simulados marcados como prova oficial.
 - **Próxima fase aprovada:** a "fábrica" para o Drive inteiro, em `docs/enem/PROXIMA_FASE.md`.
+- **Fábrica, etapa 1 (27/11):** catálogo automático do Drive novo em `_banco/catalogo_drive2/drive2_*.json` (P6000–P9885;
+  2.385 provas; 659 verdes, 527 amarelas, 1.030 vermelhas, 169 discursivas). Scripts em `ferramentas_nuvem/fabrica/`.
+- **Lote 1 (ENEM 2009–2019, 28/11):** PR #28 (2015–2019: 20 provas, 304 novas, parte 34) e PR #29 (2009–2014: 24 provas,
+  549 novas, parte 35), merge feito com aprovação do Matheus (o #29 juntado com `junta_json.py`). Banco: 27.601 questões.
+  Pendentes: 2010 regular (sem gabarito oficial nos Drives), id 1042 (gabarito do arquivo B, conta dá D: Matheus decide),
+  PPL 2019 (fora do Drive novo), ENEM 2000–2008. Custo: ~US$ 93 por 44 provas (~US$ 2/prova): caro demais para o Drive
+  inteiro; o Matheus pediu outra estratégia (script faz tudo; só questões com alerta vão para modelo barato).
 
 **Pendências desta frente:**
 - As questões novas estão sem comentário ("Comentário em produção"): falta o lote do Gemini.
