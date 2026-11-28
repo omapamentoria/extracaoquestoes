@@ -1,0 +1,123 @@
+{
+ "P7533-Q062": {
+  "motivo": "seta de equilíbrio desenhada em fonte de símbolos, lida na página 20",
+  "enunciado_sub": [
+   [
+    "O<sub>\\(l\\)</sub> \\uf083 H<sub>2</sub>CO",
+    "O<sub>(l)</sub> ⇌ H<sub>2</sub>CO"
+   ]
+  ]
+ },
+ "P7533-Q075": {
+  "motivo": "seta de equilíbrio em fonte de símbolos sem tradução, lida na página 24",
+  "enunciado_sub": [
+   [
+    "O<sub>\\(l\\)</sub> \\(cid:85\\) HCO",
+    "O<sub>(l)</sub> ⇌ HCO"
+   ]
+  ]
+ },
+ "P7535-Q120": {
+  "motivo": "gabarito oficial (2ª aplicação, 2º dia): no texto do PDF a letra fica fora da linha do número; lido na imagem do gabarito",
+  "gabarito_oficial": "C"
+ },
+ "P7535-Q121": {
+  "motivo": "travessão em fonte sem tradução, lido na página 15; gabarito oficial C (no texto do PDF do gabarito a letra fica fora da linha do número; lido na imagem)",
+  "enunciado_sub": [
+   [
+    "extinção \\(cid:151\\) mais",
+    "extinção — mais"
+   ]
+  ],
+  "gabarito_oficial": "C"
+ },
+ "P7535-Q146": {
+  "motivo": "alternativas (equações com fração desenhada) lidas na página 22",
+  "imagens": [
+   1
+  ],
+  "alternativas": {
+   "A": "y = 2x",
+   "B": "y = \\( \\frac{1}{2} \\)x",
+   "C": "y = 60x",
+   "D": "y = 60x + 1",
+   "E": "y = 80x + 50"
+  }
+ },
+ "P7535-Q153": {
+  "motivo": "π em fonte de símbolos, lido na página 24",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\(cid:2\\) \\(cid:2\\)\\(cid:3\\)  \\nUtilizando\\n\\n3, no período",
+    "\n\nUtilizando π = 3, no período"
+   ]
+  ]
+ },
+ "P7535-Q159": {
+  "motivo": "π em fonte de símbolos, lido na página 26",
+  "enunciado_sub": [
+   [
+    "\\(considere \\(cid:2\\)\\(cid:3\\)\\(cid:2\\)\\(cid:3\\)3\\)",
+    "(considere π = 3)"
+   ]
+  ]
+ },
+ "P7535-Q160": {
+  "motivo": "fração desenhada (2/3), lida na página 26",
+  "enunciado_sub": [
+   [
+    "chegam a\\n\\n£  \\ncobrir até \\(cid:4\\)da área pantaneira\\.\\n\\n⁄\\n\\n",
+    "chegam a cobrir até \\( \\frac{2}{3} \\) da área pantaneira.\n\n"
+   ]
+  ]
+ },
+ "P7535-Q164": {
+  "motivo": "medidas com raiz e alternativas (raízes) desenhadas, lidas na página 27; a imagem do alto (pedaço da questão 163) sai",
+  "enunciado_sub": [
+   [
+    "medem,\\n\\nm e o lado da base da\\n\\nm, então",
+    "medem, respectivamente, 24 m e \\( 6\\sqrt{2} \\) m e o lado da base da plataforma mede \\( 19\\sqrt{2} \\) m, então"
+   ],
+   [
+    "^\\{\\{img:2\\}\\}\\n\\n",
+    ""
+   ]
+  ],
+  "imagens": [
+   1
+  ],
+  "alternativas": {
+   "A": "\\( \\sqrt{288} \\)",
+   "B": "\\( \\sqrt{313} \\)",
+   "C": "\\( \\sqrt{328} \\)",
+   "D": "\\( \\sqrt{400} \\)",
+   "E": "\\( \\sqrt{505} \\)"
+  }
+ },
+ "P7535-Q168": {
+  "motivo": "π e sinal de igual em fonte de símbolos, lidos na página 28; alternativas numa linha só, separadas pelas letras",
+  "enunciado_sub": [
+   [
+    "considerando ¤ \\(cid:2\\) 3,14",
+    "considerando π = 3,14"
+   ]
+  ],
+  "alternativas": {
+   "A": "3 m.",
+   "B": "4 m.",
+   "C": "5 m.",
+   "D": "9 m.",
+   "E": "16 m."
+  }
+ },
+ "P7535-Q180": {
+  "motivo": "alternativas numa linha só no PDF: separadas pelas letras",
+  "alternativas": {
+   "A": "5,8 mil.",
+   "B": "13,9 mil.",
+   "C": "22,5 mil.",
+   "D": "51,5 mil.",
+   "E": "94,4 mil."
+  }
+ }
+}

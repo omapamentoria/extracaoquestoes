@@ -10,6 +10,7 @@ for p in "$@"; do
   echo "== $p"; grep -E "questões \(|PENDENTES|Traceback|Error" $L/r_$p.log
   d=$(ls -d _banco/questoes/*/*/$p 2>/dev/null | head -1)
   g=$(python3 -c "import sys;sys.path.insert(0,'ferramentas_nuvem/enem');from catalogo import CAT as c;print(c[c['$p']['gabarito_ids'].split()[0]]['caminho'])")
-  [ -n "$d" ] && python3 ferramentas_nuvem/enem/gab_enem.py "$g" $d/questoes.json | tail -4
+  cor=$(python3 -c "import sys;sys.path.insert(0,'ferramentas_nuvem/enem');from catalogo import CAT as c;print(c['$p'].get('caderno',''))")
+  [ -n "$d" ] && python3 ferramentas_nuvem/enem/gab_enem.py "$g" $d/questoes.json $cor | tail -4
 done
 echo FIM

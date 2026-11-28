@@ -13,7 +13,7 @@ from catalogo import CAT
 corr={}
 for _c in CORR.split(","):
     for k,v in json.load(open(_c)).items():
-        if k in ("_area","_casa","_reextrai"): corr.setdefault(k,{}).update(v)
+        if k in ("_area","_casa","_reextrai","_fora","_substitui"): corr.setdefault(k,{}).update(v)
         else: corr[k]=v
 PARTES=sorted(glob.glob(DEST+"/final/partes/banco_parte_*.json"))
 dados={f:json.load(open(f)) for f in PARTES}
@@ -55,12 +55,16 @@ nova_parte=DEST+"/final/partes/banco_parte_%s.json"%os.environ.get("PARTE","28")
 if nova_parte not in dados: dados[nova_parte]=[]; fmt[nova_parte]=True
 proprios={q.get("origem_texto"):(f,q) for f in dados for q in dados[f] if q["id"]>=PROPRIO_DESDE and q.get("prova_completa")}
 rel=collections.Counter(); refazer=[]; novos_ids=[]; mexidos={nova_parte}; substituidos=set(); espacadas=[]; reextraidas=[]; ver=[]
+FORA=corr.get("_fora",{})   # questao que fica fora da prova completa (incerta: gabarito oficial contra o conteudo), com motivo
 for ij in INTS:
     d=json.load(open(ij)); c=CAT[d["pid"]]; ESP=Espacos(R+"/"+c["caminho"])
     for a,b,nome_area in corr.get("_area",{}).get(d["pid"],[]):
         for r in d["novas"]+[x["registro"] for x in d["casadas"]]:
             if a<=r["numero"]<=b: r["area_prova"]=nome_area
     cont=collections.Counter(r["area_prova"] for r in d["novas"]+[x["registro"] for x in d["casadas"]])
+    fora_=[r for r in d["novas"]+[x["registro"] for x in d["casadas"]] if r["origem_texto"] in FORA]
+    if fora_: print(d["pid"],"fora da prova completa (ver motivo em _fora):",[r["origem_texto"] for r in fora_]); rel["fora da prova completa (incertas)"]+=len(fora_)
+    d["novas"]=[r for r in d["novas"] if r["origem_texto"] not in FORA]; d["casadas"]=[x for x in d["casadas"] if x["origem_texto"] not in FORA]
     assert all(v in (45,50) for v in cont.values()), ("áreas com contagem estranha",d["pid"],cont)
     def esp(q):
         k=0
@@ -93,6 +97,8 @@ for ij in INTS:
         # prova marcada em correcoes "_reextrai" (ex.: enfeite do cabecalho publicado como figura): a publicada com imagem
         # a mais que a extracao nova passa a ter o texto e as imagens da extracao nova
         if d["pid"] in corr.get("_reextrai",{}) and x["imgs_banco"]>x["imgs_novo"]: dv=dv+["imagem a mais (enfeite do cabeçalho)"]
+        # questao publicada com texto embaralhado que nao da para detectar sozinho (colunas misturadas): correcoes "_substitui"
+        if r["origem_texto"] in corr.get("_substitui",{}): dv=dv+["texto embaralhado: "+corr["_substitui"][r["origem_texto"]]]
         substituidos.add(r["origem_texto"])
         if q["id"]<10000:
             # banco antigo (texto copiado de site, sem PDF): passa a ter o texto e as imagens do PDF oficial da cor escolhida
@@ -106,6 +112,10 @@ for ij in INTS:
             q.update({"statement":r["statement"],"alternativas":r["alternativas"],"apos_alternativas":r["apos_alternativas"],"fontes":r["fontes"],
                       "imagens":imgs,"tem_imagem":"sim" if imgs else "nao"})
             rel["antigas reextraídas"]+=1; reextraidas.append((q["id"],dv))
+            if r["origem_texto"] in corr.get("_substitui",{}) and q.get("analise_correta_texto") and q["gabarito"]==r["gabarito"]:
+                # o comentario foi escrito sobre o texto embaralhado: sai e vai para a lista a refazer
+                refazer.append({"id":q["id"],"gabarito":r["gabarito"],"gabarito_antigo":q["gabarito"],"motivo":"texto_corrigido","fonte":f"texto do {nome}","tinha_comentario":True})
+                q.update(json.loads(json.dumps(VAZIO))); rel["comentário apagado (texto embaralhado corrigido)"]+=1
         elif n_esp: rel["publicadas com palavras grudadas corrigidas"]+=1; espacadas.append(q["id"])
         if dv and dn: rel["antigas com defeito e extração nova também (ver à mão)"]+=1; ver.append((q["id"],dv,dn))
         if q["gabarito"]!=r["gabarito"]:

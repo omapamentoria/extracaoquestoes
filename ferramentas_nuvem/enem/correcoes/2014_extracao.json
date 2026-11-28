@@ -1,0 +1,503 @@
+{
+ "P7567-Q148": {
+  "motivo": "frações desenhadas lidas na página 23; rosa dos ventos recortada de novo com os nomes das direções; alternativas são malhas quadriculadas: recortadas da página",
+  "enunciado": "Cleber precisava ir a uma papelaria. Sabia a localização do ponto de ônibus em que deveria descer.\n\nQuando desceu do ônibus, andou \\( \\frac{1}{2} \\) de 1 km para o Sul, depois 2 km para o Leste, em seguida 3 mil metros para o Norte e por fim \\( \\frac{10}{4} \\) de 1 km para Oeste.\n\nObserve a rosa dos ventos a seguir.\n\n{{img:10}}\n\nConsidere uma malha quadriculada formada por quadrados cujos lados medem 500 m.\n\nSe a localização inicial de Cleber é dada pelo ponto A e a localização final é dada pelo ponto B, qual malha representa as localizações inicial e final de Cleber, de acordo com a descrição?",
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 10,
+    "pagina": 23,
+    "bbox": [
+     70,
+     598,
+     270,
+     745
+    ]
+   },
+   {
+    "id": 11,
+    "pagina": 23,
+    "bbox": [
+     320,
+     138,
+     447,
+     265
+    ]
+   },
+   {
+    "id": 12,
+    "pagina": 23,
+    "bbox": [
+     320,
+     271,
+     447,
+     396
+    ]
+   },
+   {
+    "id": 13,
+    "pagina": 23,
+    "bbox": [
+     320,
+     399,
+     446,
+     525
+    ]
+   },
+   {
+    "id": 14,
+    "pagina": 23,
+    "bbox": [
+     320,
+     528,
+     446,
+     652
+    ]
+   },
+   {
+    "id": 15,
+    "pagina": 23,
+    "bbox": [
+     320,
+     654,
+     445,
+     780
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:11}}",
+   "B": "{{img:12}}",
+   "C": "{{img:13}}",
+   "D": "{{img:14}}",
+   "E": "{{img:15}}"
+  }
+ },
+ "P7567-Q154": {
+  "motivo": "itens (a) e (b) das regras lidos como alternativa e uma linha em fonte sem tradução: enunciado remontado pelo texto da página 25",
+  "enunciado": "Um jogo entre dois jogadores tem as seguintes regras: (a) o primeiro jogador pensa em uma forma geométrica, desenha apenas uma parte da forma e fornece uma dica para que o segundo jogador termine o desenho; (b) se o segundo jogador conseguir concluir o desenho, ganha um ponto; caso contrário, quem ganha um ponto é o primeiro jogador. Dois amigos, Alberto e Dora, estão jogando o referido jogo. Alberto desenhou a figura a seguir e deu a seguinte dica a Dora: “a forma em que pensei é a planificação de um prisma reto”.\n\n{{img:1}}\n\nDora completou o desenho com",
+  "alternativas": {
+   "A": "um pentágono e um retângulo.",
+   "B": "um pentágono e quatro retângulos.",
+   "C": "um pentágono e cinco retângulos.",
+   "D": "dois pentágonos e quatro retângulos.",
+   "E": "dois pentágonos e cinco retângulos."
+  }
+ },
+ "P7567-Q174": {
+  "motivo": "π em fonte de símbolos, lido na página 31",
+  "enunciado_sub": [
+   [
+    "Volume do cilindro = \\(cid:83\\) •",
+    "Volume do cilindro = π •"
+   ]
+  ]
+ },
+ "P7569-Q085": {
+  "motivo": "letra Δ em fonte sem tradução, lida na página 29",
+  "enunciado_sub": [
+   [
+    "\\(l\\) \\(cid:507\\)H = \\+40,94",
+    "(l)   ΔH = +40,94"
+   ]
+  ]
+ },
+ "P7573-Q062": {
+  "motivo": "letra Δ em fonte sem tradução, lida na página 21",
+  "enunciado_sub": [
+   [
+    "em valores \\(cid:507\\)h,",
+    "em valores Δh,"
+   ]
+  ]
+ },
+ "P7573-Q059": {
+  "motivo": "quadro com índices e setas de equilíbrio desenhados saiu partido: transcrito lendo a página 20",
+  "enunciado_sub": [
+   [
+    "\\| \\*\\*Semirreação de redução\\*\\*[\\s\\S]*?\\n\\n\\{\\{fonte:1\\}\\}",
+    "| **Semirreação de redução** | ***E*°** **(V)** |\n|---|---|\n| Ag(S<sub>2</sub>O<sub>3</sub>)<sub>2</sub><sup>3−</sup> (aq) + e<sup>−</sup> ⇌ Ag (s) + 2 S<sub>2</sub>O<sub>3</sub><sup>2−</sup> (aq) | +0,02 |\n| Cu<sup>2+</sup> (aq) + 2 e<sup>−</sup> ⇌ Cu (s) | +0,34 |\n| Pt<sup>2+</sup> (aq) + 2 e<sup>−</sup> ⇌ Pt (s) | +1,20 |\n| Al<sup>3+</sup> (aq) + 3 e<sup>−</sup> ⇌ Al (s) | −1,66 |\n| Sn<sup>2+</sup> (aq) + 2 e<sup>−</sup> ⇌ Sn (s) | −0,14 |\n| Zn<sup>2+</sup> (aq) + 2 e<sup>−</sup> ⇌ Zn (s) | −0,76 |\n\n{{fonte:1}}"
+   ]
+  ]
+ },
+ "P7573-Q065": {
+  "motivo": "alternativas são fórmulas estruturais (figuras): recortadas de novo, uma por letra, da página 23 (a da A tinha saído partida)",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}\\n\\nO grupo",
+    "\n\nO grupo"
+   ]
+  ],
+  "imagens": [],
+  "imagens_novas": [
+   {
+    "id": 10,
+    "pagina": 23,
+    "bbox": [
+     91,
+     221,
+     168,
+     289
+    ]
+   },
+   {
+    "id": 11,
+    "pagina": 23,
+    "bbox": [
+     91,
+     310,
+     157,
+     388
+    ]
+   },
+   {
+    "id": 12,
+    "pagina": 23,
+    "bbox": [
+     92,
+     409,
+     161,
+     472
+    ]
+   },
+   {
+    "id": 13,
+    "pagina": 23,
+    "bbox": [
+     92,
+     496,
+     161,
+     554
+    ]
+   },
+   {
+    "id": 14,
+    "pagina": 23,
+    "bbox": [
+     92,
+     575,
+     165,
+     643
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:10}}",
+   "B": "{{img:11}}",
+   "C": "{{img:12}}",
+   "D": "{{img:13}}",
+   "E": "{{img:14}}"
+  }
+ },
+ "P7575-Q137": {
+  "motivo": "π em fonte de símbolos, lido na página 19",
+  "alternativas": {
+   "A": "π *d*",
+   "B": "2 π *d*",
+   "C": "4 π *d*",
+   "D": "5 π *d*",
+   "E": "10 π *d*"
+  },
+  "enunciado_sub": [
+   [
+    "\\n\\n\\(cid:83\\)$",
+    ""
+   ]
+  ]
+ },
+ "P7575-Q158": {
+  "motivo": "π em fonte de símbolos, lido na página 26",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\(cid:83\\)  \\nUse 3 como valor aproximado para \\.",
+    "\n\nUse 3 como valor aproximado para π."
+   ]
+  ]
+ },
+ "P7575-Q165": {
+  "motivo": "espaço em fonte de símbolos sem tradução depois do sinal de multiplicação (página 28)",
+  "enunciado_sub": [
+   [
+    "2\\*<sup>x</sup>\\* •\\(cid:3\\)5\\*<sup>y</sup>\\* •\\(cid:3\\)7\\*<sup>z</sup>\\*",
+    "2*<sup>x</sup>* • 5*<sup>y</sup>* • 7*<sup>z</sup>*"
+   ]
+  ],
+  "alternativas": {
+   "A": "*x* • *y* • *z*",
+   "B": "(*x* + 1) • (*y* + 1)",
+   "C": "*x* • *y* • *z* − 1",
+   "D": "(*x* + 1) • (*y* + 1) • *z*",
+   "E": "(*x* + 1) • (*y* + 1) • (*z* + 1) − 1"
+  }
+ },
+ "P7575-Q167": {
+  "motivo": "raízes desenhadas, lidas na página 28",
+  "alternativas": {
+   "A": "\\( f(x) = -\\sqrt{2 - x^{2}} \\)",
+   "B": "\\( f(x) = \\sqrt{2 - x^{2}} \\)",
+   "C": "\\( f(x) = x^{2} - 2 \\)",
+   "D": "\\( f(x) = -\\sqrt{4 - x^{2}} \\)",
+   "E": "\\( f(x) = \\sqrt{4 - x^{2}} \\)"
+  }
+ },
+ "P7575-Q170": {
+  "motivo": "tabela saiu partida: transcrita lendo a página 29",
+  "enunciado_sub": [
+   [
+    "\\*\\*Candidatos Português Matemática Direito Informática\\*\\*[\\s\\S]*?\\n\\nSegundo o edital",
+    "| **Candidatos** | **Português** | **Matemática** | **Direito** | **Informática** |\n|---|---|---|---|---|\n| K | 33 | 33 | 33 | 34 |\n| L | 32 | 39 | 33 | 34 |\n| M | 35 | 35 | 36 | 34 |\n| N | 24 | 37 | 40 | 35 |\n| P | 36 | 16 | 26 | 41 |\n\nSegundo o edital"
+   ]
+  ]
+ },
+ "P7571-Q141": {
+  "motivo": "quadro dos cardápios saiu partido (e uma célula em fonte sem tradução): transcrito lendo a página 21",
+  "enunciado_sub": [
+   [
+    "<u>\\*\\*\\*CARDÁPIO 1\\*\\*\\*</u>[\\s\\S]*?\\n\\n\\{\\{fonte:1\\}\\}",
+    "| <u>***CARDÁPIO 1***</u> | <u>***CARDÁPIO 2***</u> | <u>***CARDÁPIO 3***</u> |\n|---|---|---|\n| ***2 porções de feijão carioca*** | ***2 copos de caldo de cana*** | ***2 porções de lentilha*** |\n| ***1 porção de coração de frango*** | ***1 porção de sardinha em conserva*** | ***3 porções de filé de frango*** |\n| ***1 porção de amêndoa*** | ***2 porções de feijão carioca*** | ***2 porções de batata doce*** |\n\n{{fonte:1}}"
+   ]
+  ]
+ },
+ "P7571-Q146": {
+  "motivo": "π em fonte de símbolos, lido na página 22",
+  "enunciado_sub": [
+   [
+    "\\n\\n\\(cid:83\\)  \\nUse 3 como aproximação para \\.",
+    "\n\nUse 3 como aproximação para π."
+   ]
+  ]
+ },
+ "P7571-Q148": {
+  "motivo": "raiz em fonte de símbolos, lida na página 23",
+  "enunciado_sub": [
+   [
+    "para \\*\\*\\(cid:165\\)\\*\\* 8 \\.",
+    "para \\( \\sqrt{8} \\)."
+   ]
+  ]
+ },
+ "P7571-Q152": {
+  "motivo": "itens a) e b) lidos como alternativas e sinal ≥ em fonte sem tradução: enunciado remontado lendo a página 24",
+  "enunciado": "Um construtor precisa revestir o piso de uma sala retangular. Para essa tarefa, ele dispõe de dois tipos de cerâmicas:\n\na) cerâmica em forma de quadrado de lado 20 cm, que custa R$ 8,00 por unidade;\n\nb) cerâmica em forma de triângulo retângulo isósceles de catetos com 20 cm, que custa R$ 6,00 por unidade.\n\nA sala tem largura de 5 m e comprimento de 6 m.\n\nO construtor deseja gastar a menor quantia possível com a compra de cerâmica. Sejam *x* o número de peças de cerâmica de forma quadrada e *y* o número de peças de cerâmica de forma triangular.\n\nIsso significa, então, encontrar valores para *x* e *y* tais que 0,04*x* + 0,02*y* ≥ 30 e que tornem o menor possível valor de",
+  "alternativas": {
+   "A": "8*x* + 6*y*.",
+   "B": "6*x* + 8*y*.",
+   "C": "0,32*x* + 0,12*y*.",
+   "D": "0,32*x* + 0,02*y*.",
+   "E": "0,04*x* + 0,12*y*."
+  }
+ },
+ "P7571-Q154": {
+  "motivo": "frações com raiz desenhadas, lidas na página 24",
+  "alternativas": {
+   "A": "\\( \\frac{1}{16} \\)",
+   "B": "\\( \\frac{\\sqrt{3}}{16} \\)",
+   "C": "\\( \\frac{1}{8} \\)",
+   "D": "\\( \\frac{\\sqrt{3}}{8} \\)",
+   "E": "\\( \\frac{\\sqrt{3}}{4} \\)"
+  }
+ },
+ "P7571-Q158": {
+  "motivo": "espaço em fonte de símbolos sem tradução, página 25",
+  "enunciado_sub": [
+   [
+    "\\*a\\* •\\(cid:3\\) sen",
+    "*a* • sen"
+   ]
+  ]
+ },
+ "P7571-Q163": {
+  "motivo": "potências e espaço em fonte de símbolos, lidos na página 27",
+  "alternativas": {
+   "A": "2<sup>−2</sup> · 10<sup>5</sup>",
+   "B": "2<sup>−1</sup> · 10<sup>5</sup>",
+   "C": "2<sup>2</sup> · 10<sup>5</sup>",
+   "D": "2<sup>3</sup> · 10<sup>5</sup>",
+   "E": "2<sup>4</sup> · 10<sup>5</sup>"
+  }
+ },
+ "P7571-Q166": {
+  "motivo": "π em fonte de símbolos, lido na página 27",
+  "enunciado_sub": [
+   [
+    "•\\(cid:83\\)•r<sup>3</sup>",
+    "• π • *r*<sup>3</sup>"
+   ],
+   [
+    "aproxime \\(cid:83\\)\\(cid:3\\)para 3",
+    "aproxime π para 3"
+   ]
+  ]
+ },
+ "P7571-Q176": {
+  "motivo": "letra ρ e π em fontes sem tradução, lidos na página 30",
+  "enunciado_sub": [
+   [
+    "densidade \\*\\(cid:545\\)\\*, massa",
+    "densidade *ρ*, massa"
+   ],
+   [
+    "por \\*\\(cid:545\\)\\* =",
+    "por *ρ* ="
+   ],
+   [
+    "\\(cid:83\\)\\(cid:3\\)•",
+    "π •"
+   ]
+  ]
+ },
+ "P7571-Q137": {
+  "motivo": "a figura da alternativa A tinha ido para o enunciado (página 19)",
+  "enunciado_sub": [
+   [
+    "\\n*\\{\\{img:2\\}\\}",
+    ""
+   ]
+  ],
+  "imagens": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "alternativas": {
+   "A": "{{img:2}}",
+   "B": "{{img:3}}",
+   "C": "{{img:4}}",
+   "D": "{{img:5}}",
+   "E": "{{img:6}}"
+  }
+ },
+ "P7571-Q138": {
+  "motivo": "alternativas são figuras e o extrator juntou duas: recortadas de novo, uma por letra, da página 20",
+  "imagens": [
+   1
+  ],
+  "imagens_novas": [
+   {
+    "id": 20,
+    "pagina": 20,
+    "bbox": [
+     85,
+     310,
+     216,
+     377
+    ]
+   },
+   {
+    "id": 21,
+    "pagina": 20,
+    "bbox": [
+     85,
+     382,
+     216,
+     454
+    ]
+   },
+   {
+    "id": 22,
+    "pagina": 20,
+    "bbox": [
+     85,
+     459,
+     216,
+     564
+    ]
+   },
+   {
+    "id": 23,
+    "pagina": 20,
+    "bbox": [
+     85,
+     568,
+     216,
+     662
+    ]
+   },
+   {
+    "id": 24,
+    "pagina": 20,
+    "bbox": [
+     85,
+     667,
+     216,
+     764
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:20}}",
+   "B": "{{img:21}}",
+   "C": "{{img:22}}",
+   "D": "{{img:23}}",
+   "E": "{{img:24}}"
+  }
+ },
+ "P7573-Q064": {
+  "motivo": "alternativas são figuras e o extrator juntou duas: recortadas de novo, uma por letra, da página 22",
+  "imagens": [
+   1
+  ],
+  "imagens_novas": [
+   {
+    "id": 20,
+    "pagina": 22,
+    "bbox": [
+     345,
+     303,
+     516,
+     394
+    ]
+   },
+   {
+    "id": 21,
+    "pagina": 22,
+    "bbox": [
+     345,
+     397,
+     516,
+     488
+    ]
+   },
+   {
+    "id": 22,
+    "pagina": 22,
+    "bbox": [
+     345,
+     490,
+     516,
+     581
+    ]
+   },
+   {
+    "id": 23,
+    "pagina": 22,
+    "bbox": [
+     345,
+     584,
+     516,
+     675
+    ]
+   },
+   {
+    "id": 24,
+    "pagina": 22,
+    "bbox": [
+     345,
+     677,
+     516,
+     768
+    ]
+   }
+  ],
+  "alternativas": {
+   "A": "{{img:20}}",
+   "B": "{{img:21}}",
+   "C": "{{img:22}}",
+   "D": "{{img:23}}",
+   "E": "{{img:24}}"
+  }
+ }
+}

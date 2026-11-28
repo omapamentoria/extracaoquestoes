@@ -9,13 +9,24 @@ import pdfplumber,cv2
 sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); from catalogo import CAT
 R="/home/user/extracaoquestoes"; BM=os.path.expanduser("~/mnt/BM")
 AJ=json.load(open(sys.argv[1]))
-def letras(page):
+def letras(page,pid=None):
+    # letras das alternativas como imagens (ENEM 2012 regular): caixas de _banco/bolhas/<PID>.json (bolhas_img.py)
+    bj=os.path.join(R,"_banco","bolhas",(pid or "")+".json")
+    if pid and os.path.exists(bj):
+        bl=json.load(open(bj)).get(str(page.page_number),[])
+        if bl: return [{"text":b[4],"x0":b[0],"top":b[1],"x1":b[2],"bottom":b[3],"_bolha":True} for b in bl]
     ws=page.extract_words(extra_attrs=["fontname","size"])
-    return [w for w in ws if re.fullmatch(r"[A-E]",w["text"]) and "Bold" in w["fontname"]]
+    # letra em negrito ou em fonte de bolinha do ENEM (BundesbahnPi, dingbats)
+    return [w for w in ws if re.fullmatch(r"[A-E]",w["text"]) and ("Bold" in w["fontname"] or re.search(r"(?i)bundesbahn|dingbat|zapf",w["fontname"]))]
 def recorta(pid,q,d):
     pdf=pdfplumber.open(os.path.join(BM,CAT[pid]["caminho"])); achou={}
     for pg in q["paginas"]:
-        p=pdf.pages[pg-1]; ls=letras(p)
+        p=pdf.pages[pg-1]; ls=letras(p,pid)
+        # so as letras dentro da area da questao nesta pagina (caixas de texto + figuras): outra questao na mesma pagina fica fora
+        bx=[c for c in q.get("caixas",{}).get(str(pg),[])]+[i["bbox"] for i in q.get("_imgs_orig",q["imagens"]) if i.get("pagina")==pg]
+        if bx:
+            X0=min(b_[0] for b_ in bx)-25; X1=max(b_[2] for b_ in bx); Y0=min(b_[1] for b_ in bx)-5; Y1=max(b_[3] for b_ in bx)+20
+            ls=[w for w in ls if X0<=w["x0"]<=X1 and Y0<=w["top"]<=Y1]
         # so as letras que comecam alternativa: em coluna (mesmo x0 de outra letra) e abaixo do enunciado
         for w in ls:
             if w["text"] in achou: continue
@@ -45,6 +56,16 @@ def recorta(pid,q,d):
             acima=[v["top"] for v in ls if abs(v["x0"]-w["x0"])<3 and v["top"]<w["top"]-5]
             if acima: y1=max(y1,min(w["top"]+(w["top"]-max(acima))-3,p.height-8))   # alternativas da coluna tem a mesma altura
         x0=w["x1"]+4; y0=w["top"]-4
+        if w.get("_bolha"):
+            # letra em imagem (ENEM 2012): a figura da alternativa fica centrada na bolinha; a caixa vai do meio do
+            # caminho ate a letra de cima ao meio do caminho ate a de baixo (mesma altura para a ultima da coluna)
+            cs=sorted((v["top"]+v["bottom"])/2 for v in ls if abs(v["x0"]-w["x0"])<3); c=(w["top"]+w["bottom"])/2; i=cs.index(c)
+            dd=(cs[i+1]-c)/2 if i+1<len(cs) else (c-cs[i-1])/2 if i>0 else 40
+            y0=c-dd+2; y1=c+dd-2
+            # sem passar da figura que o extrator achou em volta (texto acima, fio decorativo abaixo)
+            for i_ in q.get("_imgs_orig",[]):
+                bb=i_["bbox"]
+                if i_.get("pagina")==pg and bb[1]-15<=c<=bb[3]+15 and bb[0]<x1 and bb[2]>w["x1"]: y0=max(y0,bb[1]-2); y1=min(y1,bb[3]+2)
         arq="img/%s_alt%s.png"%(q["id"].split("-",1)[1],L)
         im=p.crop((x0,y0,x1,y1)).to_image(resolution=200); im.save(os.path.join(d,arq))
         # tira a margem branca
@@ -67,7 +88,14 @@ def tira_faixas(q):
     q["imagens"]=[i for i in q["imagens"] if i not in fx]
     return len(fx)
 for pid,ks in por_pid.items():
-    d=glob.glob(f"{R}/_banco/questoes/*/*/{pid}")[0]; f=d+"/questoes.json"; qs=json.load(open(f)); idx={q["id"]:q for q in qs}
+    d=glob.glob(f"{R}/_banco/questoes/*/*/{pid}")[0]; f=d+"/questoes.json"; qs=json.load(open(f))
+    # pode rodar de novo: guarda a extracao crua (sem ajuste) e sempre parte dela; extracao nova (sem nenhum
+    # "ajuste à mão") substitui a copia guardada
+    cru=d+"/revisao/questoes_sem_ajuste.json"
+    if any(a_.startswith("ajuste à mão") for q in qs for a_ in q.get("alertas",[])):
+        assert os.path.exists(cru),(pid,"ajustada sem copia crua: extrair de novo"); qs=json.load(open(cru))
+    else: os.makedirs(d+"/revisao",exist_ok=True); json.dump(qs,open(cru,"w"),ensure_ascii=False)
+    idx={q["id"]:q for q in qs}
     for a_,b_,idi in AJ.get("_idioma",{}).get(pid,[]):   # caderno so com uma lingua estrangeira (digital 2020: so ingles), sem marca de idioma
         for q in qs:
             if a_<=q["numero"]<=b_ and not q.get("idioma"): q["idioma"]=idi
@@ -78,6 +106,7 @@ for pid,ks in por_pid.items():
         for x,y in a.get("enunciado_sub",[]):
             q["enunciado"],n=re.subn(x,lambda m,y=y:y,q["enunciado"]); assert n==1,(k,x)
         if "fontes" in a: q["fontes"]=a["fontes"]
+        q["_imgs_orig"]=list(q["imagens"])   # area da questao para achar as letras (recorta), antes de tirar imagens
         if "imagens" in a: q["imagens"]=[i for i in q["imagens"] if i["id"] in a["imagens"]]
         for n_ in a.get("imagens_novas",[]):   # figura recortada de novo da pagina (a do extrator saiu incompleta)
             src_=q["texto_de"].split()[0] if q.get("texto_de") else pid   # prova montada com o texto de outra cor: recorta do PDF com texto
@@ -93,6 +122,7 @@ for pid,ks in por_pid.items():
             assert sorted(alts)==list("ABCDE"),k
             q["alternativas"]=[{"letra":L,"texto":alts[L]} for L in "ABCDE"]
         if "gabarito_oficial" in a: q["gabarito"]=a["gabarito_oficial"]   # conferido depois pelo gab_enem.py (leitura independente)
+        q.pop("_imgs_orig",None)
         q["formato"]="objetiva"; q["gabarito_discursivo"]=None; q["itens"]=[]
         usados={int(m) for m in re.findall(r"\{\{img:(\d+)\}\}",q["enunciado"]+" ".join(x["texto"] for x in q["alternativas"])+q.get("apos_alternativas",""))}
         assert usados=={i["id"] for i in q["imagens"]},(k,"imagens",usados,[i["id"] for i in q["imagens"]])
