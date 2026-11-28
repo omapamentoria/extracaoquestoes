@@ -1,0 +1,42 @@
+{
+ "origem": "P7507-Q038",
+ "prova": "P7507",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2000/ENEM_2000.pdf",
+ "paginas": [
+  9,
+  10
+ ],
+ "motivos": [
+  {
+   "tipo": "texto depois das alternativas",
+   "texto": "há texto depois das alternativas (“1<u><sup>a</sup></u> opção: comprar três números p”): conferir se é desta questão"
+  }
+ ],
+ "recorte": "P7507-Q038.png",
+ "statement": "No processo de produção do ferro, a sílica é removida do minério por reação com calcário (CaCO<sub>3</sub>). Sabe-se, teoricamente (cálculo estequiométrico), que são necessários 100 g de calcário para reagir com 60 g de sílica.\n\nDessa forma, pode-se prever que, para a remoção de toda a sílica presente em 200 toneladas do minério na região 1, a massa de calcário necessária é, aproximadamente, em toneladas, igual a:",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "1,9."
+  },
+  {
+   "letra": "B",
+   "texto": "3,2."
+  },
+  {
+   "letra": "C",
+   "texto": "5,1."
+  },
+  {
+   "letra": "D",
+   "texto": "6,4."
+  },
+  {
+   "letra": "E",
+   "texto": "8,0. Um apostador tem três opções para participar de certa modalidade de jogo, que consiste no sorteio aleatório de um número dentre dez."
+  }
+ ],
+ "apos_alternativas": "1<u><sup>a</sup></u> opção: comprar três números para um único sorteio.\n\n2<u><sup>a</sup></u> opção: comprar dois números para um sorteio e um número para um segundo sorteio.\n\n3<u><sup>a</sup></u> opção: comprar um número para cada sorteio, num total de três sorteios.",
+ "imagens": [],
+ "gabarito": "B"
+}

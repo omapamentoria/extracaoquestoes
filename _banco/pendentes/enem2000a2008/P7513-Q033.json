@@ -1,0 +1,43 @@
+{
+ "origem": "P7513-Q033",
+ "prova": "P7513",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2003/ENEM_2003.pdf",
+ "paginas": [
+  12
+ ],
+ "motivos": [
+  {
+   "tipo": "figura",
+   "texto": "imagem 1 tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto"
+  }
+ ],
+ "recorte": "P7513-Q033.png",
+ "statement": "Visando adotar um sistema de reutilização de água, uma indústria testou cinco sistemas com diferentes fluxos de entrada de água suja e fluxos de saída de água purificada.\n\n{{img:1}}\n\nSupondo que o custo por litro de água purificada seja o mesmo, obtém-se maior eficiência na purificação por meio do sistema",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "I"
+  },
+  {
+   "letra": "B",
+   "texto": "II"
+  },
+  {
+   "letra": "C",
+   "texto": "III"
+  },
+  {
+   "letra": "D",
+   "texto": "IV"
+  },
+  {
+   "letra": "E",
+   "texto": "V"
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2003/P7513/img/Q033_img1.png"
+ ],
+ "gabarito": "D"
+}

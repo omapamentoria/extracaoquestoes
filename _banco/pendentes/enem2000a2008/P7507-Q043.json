@@ -1,0 +1,48 @@
+{
+ "origem": "P7507-Q043",
+ "prova": "P7507",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2000/ENEM_2000.pdf",
+ "paginas": [
+  10
+ ],
+ "motivos": [
+  {
+   "tipo": "alternativas",
+   "texto": "4 alternativas encontradas (esperado 5)"
+  },
+  {
+   "tipo": "alternativas",
+   "texto": "alternativas fora do padrão A–E"
+  }
+ ],
+ "recorte": "P7507-Q043.png",
+ "statement": "Uma empresa de transporte armazena seu combustível em um reservatório cilíndrico enterrado horizontalmente. Seu conteúdo é medido com uma vara graduada em vinte intervalos, de modo que a distância entre duas graduações consecutivas representa sempre o mesmo volume.\n\n{{img:1}}\n\nA ilustração que melhor representa a distribuição das graduações na vara é:",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "{{img:3}}"
+  },
+  {
+   "letra": "B",
+   "texto": "(E)\n\n{{img:4}}"
+  },
+  {
+   "letra": "C",
+   "texto": "{{img:5}}"
+  },
+  {
+   "letra": "D",
+   "texto": "{{img:2}}\n\n{{img:6}}"
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2000/P7507/img/Q043_img1.png",
+  "_banco/questoes/ENEM/2000/P7507/img/Q043_img2.png",
+  "_banco/questoes/ENEM/2000/P7507/img/Q043_img3.png",
+  "_banco/questoes/ENEM/2000/P7507/img/Q043_img4.png",
+  "_banco/questoes/ENEM/2000/P7507/img/Q043_img5.png",
+  "_banco/questoes/ENEM/2000/P7507/img/Q043_img6.png"
+ ],
+ "gabarito": "A"
+}

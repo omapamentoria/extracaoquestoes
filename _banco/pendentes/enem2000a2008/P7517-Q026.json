@@ -1,0 +1,41 @@
+{
+ "origem": "P7517-Q026",
+ "prova": "P7517",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2005/ENEM_2005.pdf",
+ "paginas": [
+  11
+ ],
+ "motivos": [
+  {
+   "tipo": "tabela",
+   "texto": "tabela transcrita automaticamente — conferir"
+  }
+ ],
+ "recorte": "P7517-Q026.png",
+ "statement": "Podemos estimar o consumo de energia elétrica de uma casa considerando as principais fontes desse consumo. Pense na situação em que apenas os aparelhos que constam da tabela abaixo fossem utilizados diariamente da mesma forma.\n\nTabela: A tabela fornece a potência e o tempo efetivo  \nde uso diário de cada aparelho doméstico.\n\n| **Aparelho** | **Potência (KW)** | **Tempo de uso diário (horas)** |\n|---|---|---|\n| Ar condicionado | 1,5 | 8 |\n| Chuveiro elétrico | 3,3 | 1/3 |\n| Freezer | 0,2 | 10 |\n| Geladeira | 0,35 | 10 |\n| Lâmpadas | 0,10 | 6 |\n\nSupondo que o mês tenha 30 dias e que o custo de 1 KWh é  \nde R$ 0,40, o consumo de energia elétrica mensal dessa casa, é de aproximadamente",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "R$ 135."
+  },
+  {
+   "letra": "B",
+   "texto": "R$ 165."
+  },
+  {
+   "letra": "C",
+   "texto": "R$ 190."
+  },
+  {
+   "letra": "D",
+   "texto": "R$ 210."
+  },
+  {
+   "letra": "E",
+   "texto": "R$ 230."
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [],
+ "gabarito": "E"
+}

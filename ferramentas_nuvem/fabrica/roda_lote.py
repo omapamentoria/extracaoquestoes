@@ -103,7 +103,11 @@ def gabarito():
         P[pid]["gabarito"]={"leitor":melhor[0],"chaves":melhor[2],"conferidas":len(qs),"divergencias":melhor[1][:20]}
         # questoes que o gabarito oficial tem e o extrator nao achou: pendentes "não extraída" (a prova nao fica completa)
         P[pid]["nao_extraidas"]=sorted(set(melhor[3])-{x["numero"] for x in qs})
-        if melhor[1]: P[pid].update(estado="vermelha",motivo=f"gabarito: {len(melhor[1])} divergência(s) entre o PDF oficial e a extração")
+        # letra oficial diferente da extraida (ou oficial ausente) = numeracao/cor errada: prova VERMELHA. Ja a questao que o
+        # extrator nao leu direito (sem letra, ex.: virou "discursiva" por falta de alternativas) so vira pendente
+        sem_letra={o for o,ofi,ext in melhor[1] if ext is None and ofi is not None}
+        P[pid]["sem_letra"]=sorted(sem_letra); graves=[x for x in melhor[1] if x[0] not in sem_letra]
+        if graves: P[pid].update(estado="vermelha",motivo=f"gabarito: {len(graves)} divergência(s) entre o PDF oficial e a extração")
 
 # ---------------------------------------------------------------- 4. casa com o banco
 @etapa("casa")
@@ -126,7 +130,7 @@ TIPOS=[  # (tipo, regex do alerta) — o primeiro que casar da o tipo; alerta "a
     ("figura",r"pode estar cortada|tem texto dentro|texto curto solto junto da imagem|figura na pág"),
     ("texto depois das alternativas",r"há texto depois das alternativas"),
     ("hífen",r"hífen incerto"),
-    ("alternativas",r"alternativa vazia|alternativas com texto idêntico|alternativas fora"),
+    ("alternativas",r"alternativa vazia|alternativas com texto idêntico|alternativas fora|alternativas encontradas|letras fora de ordem|alternativas em tabela"),
     ("gabarito",r"sem gabarito"),
 ]
 def tipo_alerta(a):
@@ -180,6 +184,7 @@ def separa():
         regs=[(r,None) for r in d["novas"]]+[(x["registro"],x) for x in d["casadas"]]
         for r,x in regs:
             m=problemas(r)
+            if r["origem_texto"] in st.get("sem_letra",[]): m.append(("gabarito","o extrator não leu a letra desta questão (o oficial tem)"))
             if x and x["sim"]<0.97 and r["origem_texto"] not in CORR.get("_casa",{}): m.append(("casamento",f"semelhança {x['sim']} com a questão {x['id_banco']} do banco"))
             if m: st["pendentes"][r["origem_texto"]]=m
             else: st["prontas"].append(r["origem_texto"])
@@ -228,7 +233,7 @@ def classifica():
             for i in top: voto[base[i]["subassunto_codigo"]]+=sims[i]
             sub,peso=voto.most_common(1)[0]; conf=round(peso/max(1e-9,sum(voto.values())),2)
             cl[r["origem_texto"]]={"subassunto":sub,"confianca":conf,"sim1":round(float(sims[top[0]]),2),"vizinho":base[top[0]]["id"],
-                                   "baixa":bool(conf<0.5 or sims[top[0]]<0.30)}
+                                   "baixa":bool(conf<0.35 or sims[top[0]]<0.25)}
     json.dump(cl,open(f"{OUTD}/classificacao.json","w"),ensure_ascii=False,indent=0)
 
 # ---------------------------------------------------------------- 7. publica

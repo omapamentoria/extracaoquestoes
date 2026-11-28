@@ -1,0 +1,52 @@
+{
+ "origem": "P7509-Q059",
+ "prova": "P7509",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2001/ENEM_2001.pdf",
+ "paginas": [
+  11,
+  12
+ ],
+ "motivos": [
+  {
+   "tipo": "figura",
+   "texto": "figura na pág. 12 depois da alternativa E foi descartada (não faz parte da questão) — conferir"
+  },
+  {
+   "tipo": "texto depois das alternativas",
+   "texto": "há texto depois das alternativas (“Adaptado Atlas Nacional do Brasil, IBGE, 1992/ htt”): conferir se é desta questão"
+  },
+  {
+   "tipo": "figura",
+   "texto": "texto curto solto junto da imagem (“Agricultura”): pode ser rótulo da figura — conferir"
+  }
+ ],
+ "recorte": "P7509-Q059.png",
+ "statement": "**O gráfico mostra a porcentagem da força de trabalho brasileira em 40 anos, com relação aos setores agrícola, de serviços e industrial/mineral.**\n\n{{img:1}}\n\nAgricultura\n\nServiços Indústria/mineração\n\n**A leitura do gráfico permite constatar que:**",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "Em 40 anos, o Brasil deixou de ser essencialmente agrícola para se tornar uma sociedade quase que exclusivamente industrial.**"
+  },
+  {
+   "letra": "B",
+   "texto": "A variação da força de trabalho agrícola foi mais acentuada no período de 1940 a 1960.**"
+  },
+  {
+   "letra": "C",
+   "texto": "Por volta de 1970, a força de trabalho agrícola tornou-se equivalente à industrial e de mineração.**"
+  },
+  {
+   "letra": "D",
+   "texto": "Em 1980, metade dos trabalhadores brasileiros constituía a força de trabalho do setor agrícola.**"
+  },
+  {
+   "letra": "E",
+   "texto": "De 1960 a 1980, foi equivalente o crescimento percentual de trabalhadores nos setores industrial/mineral e de serviços. 60 A Mata Atlântica, que originalmente se estendia por todo o litoral brasileiro, do Ceará ao Rio Grande do Sul, ostenta hoje o triste título de uma das florestas mais devastadas do mundo. Com mais de 1 milhão de quilômetros quadrados, hoje restam apenas 5% da vegetação original, como mostram as figuras.**"
+  }
+ ],
+ "apos_alternativas": "Adaptado Atlas Nacional do Brasil, IBGE, 1992/ http://www.sosmatatlantica.org.br\n\n**Considerando as características histórico-geográficas do Brasil e a partir da análise das figuras é correto afirmar que**\n\n**(A) as transformações climáticas, especialmente na Região Nordeste, interferiram**\n\n**fortemente na diminuição dessa floresta úmida.**\n\n**(B) nas três últimas décadas, o grau de desenvolvimento regional impediu que a**\n\n**devastação da Mata Atlântica fosse maior do que a registrada.**\n\n**(C) as atividades agrícolas, aliadas ao extrativismo vegetal, têm se constituído, desde o**\n\n**período colonial, na principal causa da devastação da Mata Atlântica.**\n\n**(D) a taxa de devastação dessa floresta tem seguido o sentido oposto ao do crescimento**\n\n**populacional de cada uma das Regiões afetadas.**\n\n**(E) o crescimento industrial, na década de 50, foi o principal fator de redução da cobertura**\n\n**vegetal na faixa litorânea do Brasil, especialmente da região Nordeste.**",
+ "imagens": [
+  "_banco/questoes/ENEM/2001/P7509/img/Q059_img1.png"
+ ],
+ "gabarito": "E"
+}

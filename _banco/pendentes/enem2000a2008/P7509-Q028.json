@@ -1,0 +1,43 @@
+{
+ "origem": "P7509-Q028",
+ "prova": "P7509",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2001/ENEM_2001.pdf",
+ "paginas": [
+  7
+ ],
+ "motivos": [
+  {
+   "tipo": "figura",
+   "texto": "imagem 1 tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto"
+  }
+ ],
+ "recorte": "P7509-Q028.png",
+ "statement": "{{img:1}}\n\n**O aspecto** <u>**biológico,**</u> **ressaltado a partir da leitura do gráfico, que pode ser considerado o melhor argumento para que o produtor não retome o uso do veneno é:**",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "A densidade populacional das larvas e dos parasitas não é afetada pelo uso do veneno.**"
+  },
+  {
+   "letra": "B",
+   "texto": "A população de larvas não consegue se estabilizar durante o uso do veneno.**"
+  },
+  {
+   "letra": "C",
+   "texto": "As populações mudam o tipo de interação estabelecida ao longo do tempo.**"
+  },
+  {
+   "letra": "D",
+   "texto": "As populações associadas mantêm um comportamento estável durante todo o período.**"
+  },
+  {
+   "letra": "E",
+   "texto": "Os efeitos das interações negativas diminuem ao longo do tempo, estabilizando as populações.**"
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2001/P7509/img/Q028_img1.png"
+ ],
+ "gabarito": "E"
+}

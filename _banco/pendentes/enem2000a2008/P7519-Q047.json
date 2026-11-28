@@ -1,0 +1,36 @@
+{
+ "origem": "P7519-Q047",
+ "prova": "P7519",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2006/ENEM_2006.pdf",
+ "paginas": [
+  15
+ ],
+ "motivos": [
+  {
+   "tipo": "alternativas",
+   "texto": "2 alternativas encontradas (esperado 5)"
+  },
+  {
+   "tipo": "alternativas",
+   "texto": "alternativas fora do padrão A–E"
+  }
+ ],
+ "recorte": "P7519-Q047.png",
+ "statement": "{{img:1}}\n\n{{img:2}}\n\nA partir desses dados, foram feitas as afirmações abaixo.\n\nI As famílias brasileiras, em 30 anos, aumentaram muito\n\no consumo de proteínas e grãos, que, por seu alto valor calórico, não são recomendáveis.\n\nII O aumento do consumo de alimentos muito calóricos\n\ndeve ser considerado indicador de alerta para a saúde, já que a obesidade pode reduzir a expectativa de vida humana.\n\nIII Doenças cardiovasculares podem ser desencadeadas\n\npela obesidade decorrente das novas dietas alimentares.\n\nÉ correto apenas o que se afirma em",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "I."
+  },
+  {
+   "letra": "B",
+   "texto": "II. C III. D I e II. E II e III."
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2006/P7519/img/Q047_img1.png",
+  "_banco/questoes/ENEM/2006/P7519/img/Q047_img2.png"
+ ],
+ "gabarito": "E"
+}

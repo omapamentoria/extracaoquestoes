@@ -1,0 +1,41 @@
+{
+ "origem": "P7507-Q003",
+ "prova": "P7507",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2000/ENEM_2000.pdf",
+ "paginas": [
+  3
+ ],
+ "motivos": [
+  {
+   "tipo": "texto depois das alternativas",
+   "texto": "há texto depois das alternativas (“*“Somos servos da lei para podermos ser livres.”* ”): conferir se é desta questão"
+  }
+ ],
+ "recorte": "P7507-Q003.png",
+ "statement": "Ainda hoje, é muito comum as pessoas utilizarem vasilhames de barro (moringas ou potes de cerâmica não esmaltada) para conservar água a uma temperatura menor do que a do ambiente. Isso ocorre porque:",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "o barro isola a água do ambiente, mantendo-a sempre a uma temperatura menor que a dele, como se fosse isopor."
+  },
+  {
+   "letra": "B",
+   "texto": "o barro tem poder de “gelar” a água pela sua composição química. Na reação, a água perde calor."
+  },
+  {
+   "letra": "C",
+   "texto": "o barro é poroso, permitindo que a água passe através dele. Parte dessa água evapora, tomando calor da moringa e do restante da água, que são assim resfriadas."
+  },
+  {
+   "letra": "D",
+   "texto": "o barro é poroso, permitindo que a água se deposite na parte de fora da moringa. A água de fora sempre está a uma temperatura maior que a de dentro."
+  },
+  {
+   "letra": "E",
+   "texto": "a moringa é uma espécie de geladeira natural, liberando substâncias **4** higroscópicas que diminuem naturalmente a temperatura da água."
+  }
+ ],
+ "apos_alternativas": "*“Somos servos da lei para podermos ser livres.”*\n\nCícero\n\n*“O que apraz ao príncipe tem força de lei.”*\n\nUlpiano\n\nAs frases acima são de dois cidadãos da Roma Clássica que viveram praticamente no mesmo século, quando ocorreu a transição da República (Cícero) para o Império (Ulpiano).\n\nTendo como base as sentenças acima, considere as afirmações:\n\n**I** A diferença nos significados da lei é apenas aparente, uma vez que os\n\nromanos não levavam em consideração as normas jurídicas.\n\n**II** Tanto na República como no Império, a lei era o resultado de discussões\n\nentre os representantes escolhidos pelo povo romano.\n\n**III** A lei republicana definia que os direitos de um cidadão acabavam\n\nquando começavam os direitos de outro cidadão.\n\n**IV** Existia, na época imperial, um poder acima da legislação romana.\n\nEstão corretas, apenas:\n\n(A) I e II.  \n(B) I e III.  \n(C) II e III.  \n(D) II e IV.  \n(E) III e IV.",
+ "imagens": [],
+ "gabarito": "C"
+}

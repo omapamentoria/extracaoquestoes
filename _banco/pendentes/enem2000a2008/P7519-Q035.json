@@ -1,0 +1,35 @@
+{
+ "origem": "P7519-Q035",
+ "prova": "P7519",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2006/ENEM_2006.pdf",
+ "paginas": [
+  12
+ ],
+ "motivos": [
+  {
+   "tipo": "transcrição",
+   "texto": "PENDENTE: o texto deste trecho precisa ser transcrito lendo a imagem da página"
+  },
+  {
+   "tipo": "alternativas",
+   "texto": "0 alternativas encontradas (esperado 5)"
+  },
+  {
+   "tipo": "figura",
+   "texto": "texto curto solto junto da imagem (“E”): pode ser rótulo da figura — conferir"
+  },
+  {
+   "tipo": "alternativas",
+   "texto": "alternativas fora do padrão A–E"
+  }
+ ],
+ "recorte": "P7519-Q035.png",
+ "statement": "Na transpiração, as plantas perdem água na forma de vapor através dos estômatos. Quando os estômatos estão fechados, a transpiração torna-se desprezível. Por essa razão, a abertura dos estômatos pode funcionar como indicador do tipo de ecossistema e da estação do ano em que as plantas estão sendo observadas. A tabela a seguir mostra como se comportam os estômatos de uma planta da caatinga em diferentes condições climáticas e horas do dia.\n\n{{img:1}}\n\nLegenda: 0 = estômatos completamente fechados  \n1 = estômatos parcialmente abertos  \n2 = estômatos completamente abertos\n\nConsiderando a mesma legenda dessa tabela, assinale a opção que melhor representa o comportamento dos estômatos de uma planta típica da Mata Atlântica.\n\nA\n\nB\n\nC\n\nD\n\n{{img:2}}\n\nE",
+ "alternativas": [],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2006/P7519/img/Q035_img1.png",
+  "_banco/questoes/ENEM/2006/P7519/img/Q035_img2.png"
+ ],
+ "gabarito": "E"
+}

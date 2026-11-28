@@ -1,0 +1,61 @@
+{
+ "origem": "P7515-Q014",
+ "prova": "P7515",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2004/ENEM_2004.pdf",
+ "paginas": [
+  7
+ ],
+ "motivos": [
+  {
+   "tipo": "figura",
+   "texto": "imagem 1 tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto"
+  },
+  {
+   "tipo": "figura",
+   "texto": "imagem 1 pode estar cortada (o desenho continua fora do recorte) — conferir"
+  },
+  {
+   "tipo": "figura",
+   "texto": "imagem 2 pode estar cortada (o desenho continua fora do recorte) — conferir"
+  },
+  {
+   "tipo": "figura",
+   "texto": "imagem 4 pode estar cortada (o desenho continua fora do recorte) — conferir"
+  }
+ ],
+ "recorte": "P7515-Q014.png",
+ "statement": "{{img:1}}\n\n{{img:2}}\n\n**DIFERENÇA**  \n**(L <sub>I</sub> - L <sub>II</sub>) (cm)**\n\n75  \n-25  \n55\n\nAo preencher completamente a tabela, o mestre-de-obras determinou o seguinte perfil para o terreno:",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "{{img:3}}"
+  },
+  {
+   "letra": "B",
+   "texto": "{{img:4}}"
+  },
+  {
+   "letra": "C",
+   "texto": "{{img:5}}"
+  },
+  {
+   "letra": "D",
+   "texto": "{{img:6}}"
+  },
+  {
+   "letra": "E",
+   "texto": "{{img:7}}"
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2004/P7515/img/Q014_img1.png",
+  "_banco/questoes/ENEM/2004/P7515/img/Q014_img2.png",
+  "_banco/questoes/ENEM/2004/P7515/img/Q014_img3.png",
+  "_banco/questoes/ENEM/2004/P7515/img/Q014_img4.png",
+  "_banco/questoes/ENEM/2004/P7515/img/Q014_img5.png",
+  "_banco/questoes/ENEM/2004/P7515/img/Q014_img6.png",
+  "_banco/questoes/ENEM/2004/P7515/img/Q014_img7.png"
+ ],
+ "gabarito": "A"
+}

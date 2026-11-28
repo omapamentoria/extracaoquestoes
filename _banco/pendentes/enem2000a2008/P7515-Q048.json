@@ -1,0 +1,43 @@
+{
+ "origem": "P7515-Q048",
+ "prova": "P7515",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2004/ENEM_2004.pdf",
+ "paginas": [
+  17
+ ],
+ "motivos": [
+  {
+   "tipo": "figura",
+   "texto": "imagem 1 tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto"
+  }
+ ],
+ "recorte": "P7515-Q048.png",
+ "statement": "No verão de 2000 foram realizadas, para análise, duas coletas do lixo deixado pelos freqüentadores em uma praia no litoral brasileiro. O lixo foi pesado, separado e classificado. Os resultados das coletas feitas estão na tabela a seguir.\n\n{{img:1}}\n\nAdaptado de *Ciência Hoje*\n\nEmbora fosse grande a venda de bebidas em latas nessa praia, não se encontrou a quantidade esperada dessas embalagens  \nno lixo coletado, o que foi atribuído à existência de um bom mercado para a reciclagem de alumínio. Considerada essa hipótese, para reduzir o lixo nessa praia, a iniciativa que mais diretamente atende à variedade de interesses envolvidos, respeitando a  \npreservação ambiental, seria",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "proibir o consumo de bebidas e de outros alimentos nas praias."
+  },
+  {
+   "letra": "B",
+   "texto": "realizar a coleta de lixo somente no período noturno."
+  },
+  {
+   "letra": "C",
+   "texto": "proibir a comercialização apenas de produtos com embalagem."
+  },
+  {
+   "letra": "D",
+   "texto": "substituir embalagens plásticas por embalagens de vidro."
+  },
+  {
+   "letra": "E",
+   "texto": "incentivar a reciclagem de plásticos, estimulando seu recolhimento."
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2004/P7515/img/Q048_img1.png"
+ ],
+ "gabarito": "E"
+}

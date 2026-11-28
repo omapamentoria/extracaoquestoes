@@ -1,0 +1,47 @@
+{
+ "origem": "P7517-Q061",
+ "prova": "P7517",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2005/ENEM_2005.pdf",
+ "paginas": [
+  23
+ ],
+ "motivos": [
+  {
+   "tipo": "alternativas",
+   "texto": "alternativa vazia"
+  },
+  {
+   "tipo": "alternativas",
+   "texto": "alternativa vazia"
+  }
+ ],
+ "recorte": "P7517-Q061.png",
+ "statement": "Os três recipientes da figura têm formas diferentes, mas a mesma altura e o mesmo diâmetro da boca. Neles são colocados líquido até a metade de sua altura, conforme indicado nas figuras. Representando por V<sub>1</sub>, V<sub>2</sub> e V<sub>3</sub> o volume de líquido em cada um dos recipientes, tem-se\n\n{{img:1}}\n\nV<sub>1</sub> = V<sub>2</sub> = V<sub>3</sub>  \nV<sub>1</sub> < V<sub>3</sub> < V<sub>2</sub>  \nV<sub>1</sub> = V<sub>3</sub> < V<sub>2</sub>  \nV<sub>3</sub> < V<sub>1</sub> < V<sub>2</sub>\n\nV<sub>1</sub> < V<sub>2</sub> = V<sub>3</sub>",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": ""
+  },
+  {
+   "letra": "B",
+   "texto": ""
+  },
+  {
+   "letra": "C",
+   "texto": ""
+  },
+  {
+   "letra": "D",
+   "texto": ""
+  },
+  {
+   "letra": "E",
+   "texto": ""
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2005/P7517/img/Q061_img1.png"
+ ],
+ "gabarito": "B"
+}

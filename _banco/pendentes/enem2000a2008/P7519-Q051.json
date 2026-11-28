@@ -1,0 +1,37 @@
+{
+ "origem": "P7519-Q051",
+ "prova": "P7519",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2006/ENEM_2006.pdf",
+ "paginas": [
+  16,
+  17
+ ],
+ "motivos": [
+  {
+   "tipo": "alternativas",
+   "texto": "2 alternativas encontradas (esperado 5)"
+  },
+  {
+   "tipo": "alternativas",
+   "texto": "alternativas fora do padrão A–E"
+  }
+ ],
+ "recorte": "P7519-Q051.png",
+ "statement": "Na avaliação da eficiência de usinas quanto à produção e aos impactos ambientais, utilizam-se vários critérios, tais como: razão entre produção efetiva anual de energia elétrica e potência instalada ou razão entre potência instalada e área inundada pelo reservatório. No quadro seguinte, esses parâmetros são aplicados às duas maiores hidrelétricas do mundo: Itaipu, no Brasil, e Três Gargantas, na China.\n\n{{img:1}}\n\nInternet: <www.itaipu.gov.br>.\n\nCom base nessas informações, avalie as afirmativas que se seguem.\n\nI A energia elétrica gerada anualmente e a capacidade\n\nnominal máxima de geração da hidrelétrica de Itaipu são maiores que as da hidrelétrica de Três Gargantas.\n\nII Itaipu é mais eficiente que Três Gargantas no uso da\n\npotência instalada na produção de energia elétrica.\n\nIII A razão entre potência instalada e área inundada pelo\n\nreservatório é mais favorável na hidrelétrica Três Gargantas do que em Itaipu.\n\nÉ correto apenas o que se afirma em",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "I."
+  },
+  {
+   "letra": "B",
+   "texto": "II. C III. D I e III. E II e III. Texto para as questões 52 e 53 O carneiro hidráulico ou aríete, dispositivo usado para bombear água, não requer combustível ou energia elétrica para funcionar, visto que usa a energia da vazão de água de uma fonte. A figura a seguir ilustra uma instalação típica de carneiro em um sítio, e a tabela apresenta dados de seu funcionamento.\n\nA eficiência energética de um carneiro pode ser obtida pela expressão: ε = \\(\\frac{H}{h}\\)× \\(\\frac{V_{b}}{V_{f}}\\) ,\n\ncujas variáveis estão definidas na tabela e na figura.\n\n{{img:2}}"
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2006/P7519/img/Q051_img1.png",
+  "_banco/questoes/ENEM/2006/P7519/img/Q051_img2.png"
+ ],
+ "gabarito": "E"
+}

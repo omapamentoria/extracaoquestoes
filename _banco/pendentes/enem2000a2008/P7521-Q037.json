@@ -1,0 +1,53 @@
+{
+ "origem": "P7521-Q037",
+ "prova": "P7521",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2007/ENEM_2007.pdf",
+ "paginas": [
+  13
+ ],
+ "motivos": [
+  {
+   "tipo": "tabela",
+   "texto": "tabela transcrita automaticamente — conferir"
+  },
+  {
+   "tipo": "fórmula",
+   "texto": "imagem 3 é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição"
+  }
+ ],
+ "recorte": "P7521-Q037.png",
+ "statement": "A diversidade de formas geométricas espaciais criadas pelo homem, ao mesmo tempo em que traz benefícios, causa dificuldades em algumas situações. Suponha, por exemplo, que um cozinheiro precise utilizar exatamente 100 mL de azeite de uma lata que contenha 1.200 mL e queira guardar o restante do azeite em duas garrafas, com capacidade para 500 mL e 800 mL cada, deixando cheia a garrafa maior. Considere que ele não disponha de instrumento de medida e decida resolver o problema utilizando apenas a lata e as duas garrafas. As etapas do procedimento utilizado por ele estão ilustradas nas figuras a seguir, tendo sido omitida a 5.<sup>a</sup> etapa.\n\n| 1.200 mL AZEITE 1.ª etapa | 400 mL AZEITE 2.ª etapa | 400 mL300 mL AZEITE 3.ª etapa |\n|---|---|---|\n| 900 mL 300 mL AZEITE 4.ª etapa | AZEITE ? ? ? 5.ª etapa | 100 mL 300 mL AZEITE 6.ª etapa |\n\nQual das situações ilustradas a seguir corresponde à 5.<sup>a</sup> etapa do procedimento?",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "{{img:1}}"
+  },
+  {
+   "letra": "B",
+   "texto": "{{img:3}}\n\n{{img:5}}"
+  },
+  {
+   "letra": "C",
+   "texto": "{{img:7}}"
+  },
+  {
+   "letra": "D",
+   "texto": "{{img:2}}"
+  },
+  {
+   "letra": "E",
+   "texto": "{{img:4}}\n\n{{img:6}}"
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2007/P7521/img/Q037_img1.png",
+  "_banco/questoes/ENEM/2007/P7521/img/Q037_img2.png",
+  "_banco/questoes/ENEM/2007/P7521/img/Q037_img3.png",
+  "_banco/questoes/ENEM/2007/P7521/img/Q037_img4.png",
+  "_banco/questoes/ENEM/2007/P7521/img/Q037_img5.png",
+  "_banco/questoes/ENEM/2007/P7521/img/Q037_img6.png",
+  "_banco/questoes/ENEM/2007/P7521/img/Q037_img7.png"
+ ],
+ "gabarito": "D"
+}

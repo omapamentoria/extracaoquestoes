@@ -1,0 +1,75 @@
+{
+ "origem": "P7523-Q040",
+ "prova": "P7523",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2008/ENEM_2008.pdf",
+ "paginas": [
+  13
+ ],
+ "motivos": [
+  {
+   "tipo": "figura",
+   "texto": "imagem 1 pode estar cortada (o desenho continua fora do recorte) — conferir"
+  },
+  {
+   "tipo": "alternativas",
+   "texto": "10 alternativas encontradas (esperado 5)"
+  },
+  {
+   "tipo": "alternativas",
+   "texto": "letras fora de ordem: AABBCCDDEE"
+  },
+  {
+   "tipo": "alternativas",
+   "texto": "alternativas fora do padrão A–E"
+  }
+ ],
+ "recorte": "P7523-Q040.png",
+ "statement": "{{img:1}}\n\npara o mar pela força dos ventos do noroeste.\n\nII O argumento embasado na influência dos ventos do noroeste nas cheias do Nilo sustenta-se no fato de que, quando os ventos param, o rio Nilo não sobe.\n\nIII A explicação de alguns gregos para as cheias do\n\nNilo baseava-se no fato de que fenômeno igual ocorria com rios de menor porte que seguiam na mesma direção dos ventos.\n\nÉ correto apenas o que se afirma em\n\nEntre os seguintes ditos populares, qual deles melhor corresponde à figura acima?",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "Com perseverança, tudo se alcança."
+  },
+  {
+   "letra": "A",
+   "texto": "I."
+  },
+  {
+   "letra": "B",
+   "texto": "Cada macaco no seu galho."
+  },
+  {
+   "letra": "B",
+   "texto": "II."
+  },
+  {
+   "letra": "C",
+   "texto": "Nem tudo que balança cai."
+  },
+  {
+   "letra": "C",
+   "texto": "I e II."
+  },
+  {
+   "letra": "D",
+   "texto": "Quem tudo quer, tudo perde."
+  },
+  {
+   "letra": "D",
+   "texto": "I e III."
+  },
+  {
+   "letra": "E",
+   "texto": "Deus ajuda quem cedo madruga."
+  },
+  {
+   "letra": "E",
+   "texto": "II e III."
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2008/P7523/img/Q040_img1.png"
+ ],
+ "gabarito": "A"
+}

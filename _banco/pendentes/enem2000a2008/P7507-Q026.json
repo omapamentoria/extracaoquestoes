@@ -1,0 +1,43 @@
+{
+ "origem": "P7507-Q026",
+ "prova": "P7507",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2000/ENEM_2000.pdf",
+ "paginas": [
+  7
+ ],
+ "motivos": [
+  {
+   "tipo": "figura",
+   "texto": "texto curto solto junto da imagem (“7”): pode ser rótulo da figura — conferir"
+  }
+ ],
+ "recorte": "P7507-Q026.png",
+ "statement": "A tabela abaixo apresenta**a l g u m a s** das principais causas de mortes no Brasil, distribuídas por região.\n\n{{img:1}}\n\n7\n\n4 Fonte: Ministério da Saúde, 1996\n\nSão conhecidas ainda as seguintes informações sobre as causas de óbitos:\n\n**-** A dificuldade na obtenção de informações, a falta de notificação e o acesso\n\nprecário aos serviços de saúde são fatores relevantes na contabilização dos óbitos por causas mal definidas.\n\n**-** O aumento da esperança de vida faz com que haja cada vez mais pessoas\n\ncom maiores chances de desenvolver algum tipo de câncer.\n\n**-** As mortes por doenças do aparelho respiratório estão estreitamente\n\nassociadas à poluição nos grandes centros urbanos.\n\n**-** Os acidentes de trânsito e os assassinatos representam a quase totalidade\n\ndas mortes por causas externas.\n\n**-** A região Norte é a única que apresenta todas as taxas por 10.000\n\nhabitantes abaixo da taxa média brasileira.\n\nLevando em consideração essas informações e o panorama social, econômico e ambiental do Brasil, pode-se concluir que as regiões K, X, W, Y e Z da tabela indicam, respectivamente, as regiões:",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "Sul, Norte, Nordeste, Sudeste e Centro-Oeste."
+  },
+  {
+   "letra": "B",
+   "texto": "Centro-Oeste, Sudeste, Norte, Nordeste e Sul."
+  },
+  {
+   "letra": "C",
+   "texto": "Centro-Oeste, Nordeste, Norte, Sul e Sudeste."
+  },
+  {
+   "letra": "D",
+   "texto": "Norte, Nordeste, Sul, Centro-Oeste e Sudeste."
+  },
+  {
+   "letra": "E",
+   "texto": "Norte, Sudeste, Centro-Oeste, Nordeste e Sul."
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2000/P7507/img/Q026_img1.png"
+ ],
+ "gabarito": "C"
+}

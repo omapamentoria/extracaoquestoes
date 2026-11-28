@@ -1,0 +1,33 @@
+{
+ "origem": "P7509-Q058",
+ "prova": "P7509",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2001/ENEM_2001.pdf",
+ "paginas": [
+  11
+ ],
+ "motivos": [
+  {
+   "tipo": "alternativas",
+   "texto": "1 alternativas encontradas (esperado 5)"
+  },
+  {
+   "tipo": "alternativas",
+   "texto": "alternativas fora do padrão A–E"
+  }
+ ],
+ "recorte": "P7509-Q058.png",
+ "statement": "**O quadro apresenta a produção de algodão de uma cooperativa de agricultores entre 1995 e 1999.**\n\n{{img:1}}\n\n**O gráfico que melhor representa a área plantada (AP) no período considerado é:**\n\n**(B)**",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "**(C)**\n\n**(E) (D)**\n\n{{img:2}}\n\n{{img:3}}"
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2001/P7509/img/Q058_img1.png",
+  "_banco/questoes/ENEM/2001/P7509/img/Q058_img2.png",
+  "_banco/questoes/ENEM/2001/P7509/img/Q058_img3.png"
+ ],
+ "gabarito": "A"
+}

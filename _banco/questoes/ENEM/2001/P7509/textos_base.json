@@ -1,0 +1,53 @@
+[
+ {
+  "id": "P7509-T1",
+  "texto": "**texto abaixo.**\n\n**II -** *Nem todas as guerras são injustas e correlativamente, nem toda paz é justa, razão pela* *qual a guerra nem sempre é um desvalor, e a paz nem sempre um valor***.**\n\nBOBBIO, N. MATTEUCCI, N PASQUINO, G. *Dicionário de Política*, 5ª ed. Brasília: Universidade de Brasília;\n\nSão Paulo: Imprensa Oficial do Estado, 2000.",
+  "fontes": [],
+  "imagens": [],
+  "alertas": [],
+  "paginas": [
+   7
+  ],
+  "caixas": {
+   "7": [
+    [
+     303.3600000000001,
+     105.32779999999968,
+     340.2933480000001,
+     113.36779999999976
+    ],
+    [
+     303.3600000000001,
+     124.52731999999958,
+     567.1274760000006,
+     132.5753599999996
+    ],
+    [
+     317.52004800000014,
+     134.12707999999952,
+     519.2090760000002,
+     142.17511999999954
+    ],
+    [
+     360.36,
+     143.65454,
+     567.088704,
+     150.79549999999995
+    ],
+    [
+     477.119568,
+     152.115812,
+     567.032328,
+     159.07581199999993
+    ]
+   ]
+  },
+  "faixa_questoes": null,
+  "questoes": [
+   "P7509-Q030"
+  ],
+  "recortes": [
+   "revisao/T1_p7.jpg"
+  ]
+ }
+]

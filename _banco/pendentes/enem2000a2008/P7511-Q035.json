@@ -1,0 +1,41 @@
+{
+ "origem": "P7511-Q035",
+ "prova": "P7511",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2002/ENEM_2002.pdf",
+ "paginas": [
+  15
+ ],
+ "motivos": [
+  {
+   "tipo": "hífen",
+   "texto": "palavra dividida no fim da linha com hífen incerto — conferir"
+  }
+ ],
+ "recorte": "P7511-Q035.png",
+ "statement": "Entre as inúmeras recomendações dadas para a economia de energia elétrica em uma residência, destacamos as seguintes:\n\n● Substitua lâmpadas incandescentes por fluorescentes compactas.\n\n● Evite usar o chuveiro elétrico com a chave na posição “inverno” ou “quente”.\n\n● Acumule uma quantidade de roupa para ser passada a ferro elétrico de uma só vez.\n\n● Evite o uso de tomadas múltiplas para ligar vários aparelhos simultaneamente.\n\n● Utilize, na instalação elétrica, fios de diâmetros recomendados às suas finalidades.\n\nA característica comum a **todas** essas recomendações é a proposta de economizar energia através da tentativa de, no dia-a-dia, reduzir",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "a potência dos aparelhos e dispositivos elétricos."
+  },
+  {
+   "letra": "B",
+   "texto": "o tempo de utilização dos aparelhos e dispositivos."
+  },
+  {
+   "letra": "C",
+   "texto": "o consumo de energia elétrica convertida em energia térmica."
+  },
+  {
+   "letra": "D",
+   "texto": "o consumo de energia térmica convertida em energia elétrica."
+  },
+  {
+   "letra": "E",
+   "texto": "o consumo de energia elétrica através de correntes de fuga."
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [],
+ "gabarito": "C"
+}

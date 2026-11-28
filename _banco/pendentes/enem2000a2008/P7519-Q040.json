@@ -1,0 +1,43 @@
+{
+ "origem": "P7519-Q040",
+ "prova": "P7519",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2006/ENEM_2006.pdf",
+ "paginas": [
+  14
+ ],
+ "motivos": [
+  {
+   "tipo": "figura",
+   "texto": "imagem 1 tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto"
+  }
+ ],
+ "recorte": "P7519-Q040.png",
+ "statement": "{{img:1}}\n\nAmérica<sub>2</sub> do Sul, com 1,2 milhão  \nde km , não é o \"mar de água\n\npotáveis. Já no compartimento Norte-Alto  \nUruguai, o sistema encontra-se coberto por rochas vulcânicas, a profundidades que variam de 350 m a 1.200 m. Suas águas são muito antigas, datando da Era Mesozóica, e não são potáveis em grande parte da área, com elevada salinidade, sendo que os altos teores de fluoretos e de sódio podem causar alcalinização do solo.\n\n{{fonte:1}}\n\nEm relação ao aqüífero Guarani, é correto afirmar que",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "seus depósitos não participam do ciclo da água."
+  },
+  {
+   "letra": "B",
+   "texto": "águas provenientes de qualquer um de seus compartimentos solidificam-se a 0 °C."
+  },
+  {
+   "letra": "C",
+   "texto": "é necessário, para utilização de seu potencial como reservatório de água potável, conhecer detalhadamente o aqüífero."
+  },
+  {
+   "letra": "D",
+   "texto": "a água é adequada ao consumo humano direto em grande parte da área do compartimento Norte-Alto Uruguai."
+  },
+  {
+   "letra": "E",
+   "texto": "o uso das águas do compartimento Norte-Alto Uruguai para irrigação deixaria ácido o solo."
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2006/P7519/img/Q040_img1.png"
+ ],
+ "gabarito": "C"
+}

@@ -1,0 +1,48 @@
+{
+ "origem": "P7523-Q021",
+ "prova": "P7523",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2008/ENEM_2008.pdf",
+ "paginas": [
+  8,
+  9
+ ],
+ "motivos": [
+  {
+   "tipo": "figura",
+   "texto": "figura na pág. 9 depois da alternativa E foi descartada (não faz parte da questão) — conferir"
+  },
+  {
+   "tipo": "texto depois das alternativas",
+   "texto": "há texto depois das alternativas (“O diagrama abaixo representa, de forma esquemática”): conferir se é desta questão"
+  }
+ ],
+ "recorte": "P7523-Q021.png",
+ "statement": "O *tangram* é um jogo oriental antigo, uma espécie de quebra-cabeça, constituído de sete peças: 5 triângulos retângulos e isósceles, 1 paralelogramo e 1 quadrado. Essas peças são obtidas recortando-se um quadrado de acordo com o esquema da figura 1. Utilizando-se todas as sete peças, é possível representar uma grande diversidade de formas, como as exemplificadas nas figuras 2 e 3.\n\n{{img:1}}\n\n{{fonte:1}}\n\nSe o lado AB do hexágono mostrado na figura 2 mede 2 cm, então a área da figura 3, que representa uma “casinha”, é igual a",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "4 cm<sup>2</sup>."
+  },
+  {
+   "letra": "B",
+   "texto": "8 cm<sup>2</sup>."
+  },
+  {
+   "letra": "C",
+   "texto": "12 cm<sup>2</sup>."
+  },
+  {
+   "letra": "D",
+   "texto": "14 cm<sup>2</sup>."
+  },
+  {
+   "letra": "E",
+   "texto": "16 cm<sup>2</sup>. **Diagrama para as questões 22 e 23**"
+  }
+ ],
+ "apos_alternativas": "O diagrama abaixo representa, de forma esquemática e simplificada, a distribuição da energia proveniente do Sol sobre a atmosfera e a superfície terrestre. Na área delimitada pela linha tracejada, são destacados alguns processos envolvidos no fluxo de energia na atmosfera.",
+ "imagens": [
+  "_banco/questoes/ENEM/2008/P7523/img/Q021_img1.png"
+ ],
+ "gabarito": "B"
+}

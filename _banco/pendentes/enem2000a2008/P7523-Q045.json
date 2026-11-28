@@ -1,0 +1,31 @@
+{
+ "origem": "P7523-Q045",
+ "prova": "P7523",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2008/ENEM_2008.pdf",
+ "paginas": [
+  14
+ ],
+ "motivos": [
+  {
+   "tipo": "alternativas",
+   "texto": "1 alternativas encontradas (esperado 5)"
+  },
+  {
+   "tipo": "alternativas",
+   "texto": "alternativas fora do padrão A–E"
+  }
+ ],
+ "recorte": "P7523-Q045.png",
+ "statement": "Uma pesquisa da ONU estima que, já em 2008, pela primeira vez na história das civilizações, a maioria das pessoas viverá na zona urbana. O gráfico a seguir mostra o crescimento da população urbana desde 1950, quando essa população era de 700 milhões de pessoas, e apresenta uma previsão para 2030, baseada em crescimento linear no período de 2008 a 2030.\n\n{{img:1}}\n\n{{fonte:1}}\n\nDe acordo com o gráfico, a população urbana mundial em 2020 corresponderá, aproximadamente, a quantos bilhões de pessoas?",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "4,00. B 4,10. C 4,15. D 4,25. E 4,50."
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2008/P7523/img/Q045_img1.png"
+ ],
+ "gabarito": "D"
+}

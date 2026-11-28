@@ -1,0 +1,43 @@
+{
+ "origem": "P7523-Q008",
+ "prova": "P7523",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2008/ENEM_2008.pdf",
+ "paginas": [
+  5
+ ],
+ "motivos": [
+  {
+   "tipo": "figura",
+   "texto": "imagem 1 pode estar cortada (o desenho continua fora do recorte) — conferir"
+  }
+ ],
+ "recorte": "P7523-Q008.png",
+ "statement": "{{img:1}}\n\n**Ministério do Meio Ambiente. Cadastro Nacional de Unidades de Conservação.**\n\nAnalisando-se os dados do gráfico acima, que remetem a critérios e objetivos no estabelecimento de unidades de conservação no Brasil, constata-se que",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "o equilíbrio entre unidades de conservação de proteção integral e de uso sustentável já atingido garante a preservação presente e futura da Amazônia."
+  },
+  {
+   "letra": "B",
+   "texto": "as condições de aridez e a pequena diversidade biológica observadas na Caatinga explicam por que a área destinada à proteção integral desse bioma é menor que a dos demais biomas brasileiros."
+  },
+  {
+   "letra": "C",
+   "texto": "o Cerrado, a Mata Atlântica e o Pampa, biomas mais intensamente modificados pela ação humana, apresentam proporção maior de unidades de proteção integral que de unidades de uso sustentável."
+  },
+  {
+   "letra": "D",
+   "texto": "o estabelecimento de unidades de conservação deve ser incentivado para a preservação dos recursos hídricos e a manutenção da biodiversidade."
+  },
+  {
+   "letra": "E",
+   "texto": "a sustentabilidade do Pantanal é inatingível, razão pela qual não foram criadas unidades de uso sustentável nesse bioma."
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2008/P7523/img/Q008_img1.png"
+ ],
+ "gabarito": "D"
+}

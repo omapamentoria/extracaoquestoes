@@ -1,0 +1,67 @@
+{
+ "origem": "P7519-Q061",
+ "prova": "P7519",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2006/ENEM_2006.pdf",
+ "paginas": [
+  19
+ ],
+ "motivos": [
+  {
+   "tipo": "alternativas",
+   "texto": "9 alternativas encontradas (esperado 5)"
+  },
+  {
+   "tipo": "alternativas",
+   "texto": "letras fora de ordem: ABBCCDDEE"
+  },
+  {
+   "tipo": "alternativas",
+   "texto": "alternativas fora do padrão A–E"
+  }
+ ],
+ "recorte": "P7519-Q061.png",
+ "statement": "{{img:1}}\n\nNa preparação da madeira em uma indústria de móveis, utiliza-se uma lixadeira constituída de quatro grupos de polias, como ilustra o esquema ao lado. Em cada grupo, duas polias de tamanhos diferentes são interligadas por uma correia provida de lixa. Uma prancha de madeira é empurrada pelas polias, no sentido A → B (como indicado no esquema), ao mesmo tempo em que um sistema é acionado para frear seu movimento, de modo que a velocidade da prancha seja inferior à da lixa.\n\nácidos e menos alcoólicos.  \nO equipamento acima descrito funciona com os grupos de",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "1 e 2 no sentido horário; 3 e 4 no sentido anti-horário."
+  },
+  {
+   "letra": "B",
+   "texto": "mais cedo, para a obtenção de vinhos mais ácidos polias girando da seguinte forma:"
+  },
+  {
+   "letra": "B",
+   "texto": "1 e 3 no sentido horário; 2 e 4 no sentido anti-horário."
+  },
+  {
+   "letra": "C",
+   "texto": "1 e 2 no sentido anti-horário; 3 e 4 no sentido horário."
+  },
+  {
+   "letra": "C",
+   "texto": "mais tarde, para a obtenção de vinhos mais alcoólicos e menos ácidos."
+  },
+  {
+   "letra": "D",
+   "texto": "1 e 4 no sentido horário; 2 e 3 no sentido anti-horário."
+  },
+  {
+   "letra": "D",
+   "texto": "mais cedo e ser fermentadas por mais tempo, para a obtenção de vinhos mais alcoólicos."
+  },
+  {
+   "letra": "E",
+   "texto": "1, 2, 3 e 4 no sentido anti-horário. e mais alcoólicos."
+  },
+  {
+   "letra": "E",
+   "texto": "mais tarde e ser fermentadas por menos tempo, para a obtenção de vinhos menos alcoólicos."
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2006/P7519/img/Q061_img1.png"
+ ],
+ "gabarito": "C"
+}

@@ -71,7 +71,7 @@ for ij in INTS:
     # prova_completa* quando nao ha nenhuma pendente ("prova_completa": false no int_*.json)
     PEND=set(d.get("pendentes",[])); COMPLETA=d.get("prova_completa",True)
     if PEND: rel["pendentes (não publicadas)"]+=len(PEND)
-    d["novas"]=[r for r in d["novas"] if r["origem_texto"] not in FORA|PEND]; d["casadas"]=[x for x in d["casadas"] if x["origem_texto"] not in FORA|PEND]
+    d["novas"]=[r for r in d["novas"] if r["origem_texto"] not in set(FORA)|PEND]; d["casadas"]=[x for x in d["casadas"] if x["origem_texto"] not in set(FORA)|PEND]
     # ENEM 2009+: areas de 45 questoes (ou 50 no dia com idioma); ENEM 1998-2008: prova unica de 63, sem area no caderno
     if int(c["ano"])>=2009: assert all(v in (45,50) for v in cont.values()), ("áreas com contagem estranha",d["pid"],cont)
     def esp(q):

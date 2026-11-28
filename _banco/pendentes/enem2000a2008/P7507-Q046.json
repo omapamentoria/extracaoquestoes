@@ -1,0 +1,43 @@
+{
+ "origem": "P7507-Q046",
+ "prova": "P7507",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2000/ENEM_2000.pdf",
+ "paginas": [
+  11
+ ],
+ "motivos": [
+  {
+   "tipo": "texto depois das alternativas",
+   "texto": "há texto depois das alternativas (“(ASSIS, Machado de. *Obra completa*. Rio de Janeir”): conferir se é desta questão"
+  }
+ ],
+ "recorte": "P7507-Q046.png",
+ "statement": "Em muitos jornais, encontramos charges, quadrinhos, ilustrações, inspirados nos fatos noticiados. Veja um exemplo:\n\n{{img:1}}\n\nO texto que se refere a uma situação semelhante à que inspirou a charge é:",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "Descansem o meu leito solitário Na floresta dos homens esquecida, À sombra de uma cruz, e escrevam nela  \n– Foi poeta – sonhou – e amou na vida. (AZEVEDO, Álvares de*. Poesias escolhidas*.Riode Janeiro/Brasília: José Aguilar/INL,1971)"
+  },
+  {
+   "letra": "B",
+   "texto": "Essa cova em que estás Com palmos medida, é a conta menor que tiraste em vida. É de bom tamanho, Nem largo nem fundo, É a parte que te cabe deste latifúndio. (MELO NETO, João Cabral de. *Morte e Vida Severina e outros* *poemas em voz alta*. Rio de Janeiro: Sabiá, 1967)"
+  },
+  {
+   "letra": "C",
+   "texto": "Medir é a medida mede A terra, medo do homem, a lavra; lavra duro campo, muito cerco, vária várzea. (CHAMIE, Mário. *Sábado na hora da escutas*.São Paulo: Summums, 1978)"
+  },
+  {
+   "letra": "D",
+   "texto": "Vou contar para vocês um caso que sucedeu na Paraíba do Norte"
+  },
+  {
+   "letra": "E",
+   "texto": "Trago-te flores, – restos arrancados"
+  }
+ ],
+ "apos_alternativas": "(ASSIS, Machado de. *Obra completa*. Rio de\n\nJaneiro: Nova Aguillar, 1986)",
+ "imagens": [
+  "_banco/questoes/ENEM/2000/P7507/img/Q046_img1.png"
+ ],
+ "gabarito": "B"
+}

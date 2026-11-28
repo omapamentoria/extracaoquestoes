@@ -1,0 +1,43 @@
+{
+ "origem": "P7515-Q060",
+ "prova": "P7515",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2004/ENEM_2004.pdf",
+ "paginas": [
+  21
+ ],
+ "motivos": [
+  {
+   "tipo": "figura",
+   "texto": "imagem 1 tem texto dentro (fórmula, esquema ou tabela) — conferir se não deveria ser texto"
+  }
+ ],
+ "recorte": "P7515-Q060.png",
+ "statement": "Na fabricação de qualquer objeto metálico, seja um parafuso, uma panela, uma jóia, um carro ou um foguete, a metalurgia está presente na extração de metais a partir dos minérios correspondentes, na sua transformação e sua moldagem. Muitos dos processos metalúrgicos atuais têm em sua base conhecimentos desenvolvidos há milhares de anos, como mostra o quadro:\n\n{{img:1}}\n\nPodemos observar que a extração e o uso de diferentes metais ocorreram a partir de diferentes épocas. Uma das razões para que a extração e o uso do ferro tenham ocorrido após a do cobre ou estanho é",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "a inexistência do uso de fogo que permitisse sua moldagem."
+  },
+  {
+   "letra": "B",
+   "texto": "a necessidade de temperaturas mais elevadas para sua extração e moldagem."
+  },
+  {
+   "letra": "C",
+   "texto": "o desconhecimento de técnicas para a extração de metais a partir de minérios."
+  },
+  {
+   "letra": "D",
+   "texto": "a necessidade do uso do cobre na fabricação do ferro."
+  },
+  {
+   "letra": "E",
+   "texto": "seu emprego na cunhagem de moedas, em substituição ao ouro."
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2004/P7515/img/Q060_img1.png"
+ ],
+ "gabarito": "B"
+}

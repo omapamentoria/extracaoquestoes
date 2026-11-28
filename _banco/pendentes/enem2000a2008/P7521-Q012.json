@@ -1,0 +1,44 @@
+{
+ "origem": "P7521-Q012",
+ "prova": "P7521",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2007/ENEM_2007.pdf",
+ "paginas": [
+  6
+ ],
+ "motivos": [
+  {
+   "tipo": "fórmula",
+   "texto": "imagem 2 é pequena (pode ser fórmula ou símbolo no meio do texto) — conferir a posição"
+  }
+ ],
+ "recorte": "P7521-Q012.png",
+ "statement": "A queima de cana aumenta a concentração de dióxido de carbono e de material particulado na atmosfera, causa alteração do clima e contribui para o aumento de doenças respiratórias. A tabela abaixo apresenta números relativos a pacientes internados em um hospital no período da queima da cana.\n\n{{img:1}}\n\nEscolhendo-se aleatoriamente um paciente internado nesse hospital por problemas respiratórios causados pelas queimadas, a probabilidade de que ele seja uma criança é igual a",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "0,26, o que sugere a necessidade de implementação de medidas que reforcem a atenção ao idoso internado com problemas respiratórios."
+  },
+  {
+   "letra": "B",
+   "texto": "0,50, o que comprova ser de grau médio a gravidade dos problemas respiratórios que atingem a população nas regiões das queimadas."
+  },
+  {
+   "letra": "C",
+   "texto": "0,63, o que mostra que nenhum aspecto relativo à saúde infantil pode ser negligenciado."
+  },
+  {
+   "letra": "D",
+   "texto": "0,67, o que indica a necessidade de campanhas de conscientização que objetivem a eliminação das queimadas."
+  },
+  {
+   "letra": "E",
+   "texto": "0,75, o que sugere a necessidade de que, em áreas atingidas pelos efeitos das queimadas, o atendimento hospitalar no setor de pediatria seja reforçado.\n\n{{img:2}}"
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [
+  "_banco/questoes/ENEM/2007/P7521/img/Q012_img1.png",
+  "_banco/questoes/ENEM/2007/P7521/img/Q012_img2.png"
+ ],
+ "gabarito": "E"
+}

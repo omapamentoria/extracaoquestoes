@@ -1,0 +1,41 @@
+{
+ "origem": "P7509-Q052",
+ "prova": "P7509",
+ "arquivo": "DRIVE NOVO/Públicas/ENEM/2001/ENEM_2001.pdf",
+ "paginas": [
+  10
+ ],
+ "motivos": [
+  {
+   "tipo": "tabela",
+   "texto": "tabela transcrita automaticamente — conferir"
+  }
+ ],
+ "recorte": "P7509-Q052.png",
+ "statement": "**A tabela apresenta a taxa de desemprego dos jovens entre 15 e 24 anos estratificada com base em diferentes categorias.**\n\n| **Região** | **Homens** | **Mulheres** |\n|---|---|---|\n| **Norte** | **15,3** | **23,8** |\n| **Nordeste** | **10,7** | **18,8** |\n| **Centro-Oeste** | **13,3** | **20,6** |\n| **Sul** | **11,6** | **19,4** |\n| **Sudeste** | **16,9** | **25,7** |\n| **Grau de Instrução** |  |  |\n| **Menos de 1 ano** | **7,4** | **16,1** |\n| **De 1 a 3 anos** | **8,9** | **16,4** |\n| **De 4 a 7 anos** | **15,1** | **22,8** |\n| **De 8 a 10 anos** | **17,8** | **27,8** |\n| **De 11 a 14 anos** | **12,6** | **19,6** |\n| **Mais de 15 anos** | **11,0** | **7,3** |\n\nFonte: PNAD/IBGE, 1998.\n\n**Considerando apenas os dados acima e analisando as características de candidatos a emprego, é possível concluir que teriam menor chance de consegui-lo,**",
+ "alternativas": [
+  {
+   "letra": "A",
+   "texto": "mulheres, concluintes do ensino médio, moradoras da cidade de São Paulo.**"
+  },
+  {
+   "letra": "B",
+   "texto": "mulheres, concluintes de curso superior, moradoras da cidade do Rio de Janeiro.**"
+  },
+  {
+   "letra": "C",
+   "texto": "homens, com curso de pós-graduação, moradores de Manaus.**"
+  },
+  {
+   "letra": "D",
+   "texto": "homens, com dois anos do ensino fundamental, moradores de Recife.**"
+  },
+  {
+   "letra": "E",
+   "texto": "mulheres, com ensino médio incompleto, moradoras de Belo Horizonte.**"
+  }
+ ],
+ "apos_alternativas": "",
+ "imagens": [],
+ "gabarito": "E"
+}
