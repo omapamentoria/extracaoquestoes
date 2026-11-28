@@ -1,0 +1,44 @@
+{
+"P7587-Q124": {
+"motivo": "Ô desenhado e falas do diálogo fora de ordem, transcrito lendo a página 14",
+"stmt_re": [
+[
+"(?s)^.*?(?=\\n\\n\\{\\{fonte:1\\}\\})",
+"**De domingo**\n\n— Outrossim…  \n— O quê?  \n— O que o quê?  \n— O que você disse.  \n— Outrossim?  \n— É.  \n— O que é que tem?  \n— Nada. Só achei engraçado.  \n— Não vejo a graça.  \n— Você vai concordar que não é uma palavra de todos os dias.  \n— Ah, não é. Aliás, eu só uso domingo.  \n— Se bem que parece mais uma palavra de segunda-feira.  \n— Não. Palavra de segunda-feira é “óbice”.  \n— “Ônus”.  \n— “Ônus” também. “Desiderato”. “Resquício”.  \n— “Resquício” é de domingo.  \n— Não, não. Segunda. No máximo terça.  \n— Mas “outrossim”, francamente...  \n— Qual o problema?  \n— Retira o “outrossim”.  \n— Não retiro. É uma ótima palavra. Aliás é uma palavra difícil de usar. Não é qualquer um que usa “outrossim”."
+]
+]
+},
+"P7587-Q145": {
+"motivo": "ê desenhado, transcrito lendo a página 20",
+"subs": [
+[
+"defici(cid:114)ncia",
+"deficiência"
+]
+]
+},
+"P7587-Q178": {
+"motivo": "alternativas são desenhos (linhas e rótulos sem imagem no PDF): recortadas da página 31 do PDF oficial",
+"remove": [
+2,
+3,
+4
+],
+"alts": {
+"A": "{{imgx:1}}",
+"B": "{{imgx:2}}",
+"C": "{{imgx:3}}",
+"D": "{{imgx:4}}",
+"E": "{{imgx:5}}"
+},
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2016/P7587/img/Q178_manual_1.png",
+"_banco/questoes/ENEM/2016/P7587/img/Q178_manual_2.png",
+"_banco/questoes/ENEM/2016/P7587/img/Q178_manual_3.png",
+"_banco/questoes/ENEM/2016/P7587/img/Q178_manual_4.png",
+"_banco/questoes/ENEM/2016/P7587/img/Q178_manual_5.png"
+]
+}
+}
+}

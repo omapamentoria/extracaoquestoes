@@ -30,8 +30,11 @@ def candidato(q):
     if q["id"]>=PROPRIO_DESDE and (q.get("origem_texto") or "").startswith(pid+"-"): return False
     if q["id"]<10000:   # banco antigo (FPS/SSA/ENEM de site), sem vestibular/edicao: mesmo ano, qualquer aplicacao
         return q.get("exam")=="ENEM" and str(q.get("ano"))==str(c["ano"])
+    # correcoes "_edicao_banco": {"<pid>": ["edicao errada no banco", ...]}: questoes publicadas com a edicao trocada
+    # (ex.: 2016 "2ª aplicação" publicada como "PPL/reaplicação") tambem sao candidatas; o publica.py corrige a edicao
+    ed_ok=[c["edicao"]]+list(CORR.get("_edicao_banco",{}).get(pid,[]))
     return (q.get("vestibular")=="ENEM" and q.get("tipo_prova")!="simulado" and str(q.get("ano"))==str(c["ano"])
-            and str(q.get("dia"))==str(c["dia"]) and (q.get("edicao") or "")==c["edicao"])
+            and str(q.get("dia"))==str(c["dia"]) and (q.get("edicao") or "") in ed_ok)
 banco=[q for f in sorted(glob.glob(P+"/*.json")) for q in json.load(open(f)) if candidato(q)]
 reg=[]
 for q in qs:

@@ -1,0 +1,40 @@
+{
+"P7577-Q063": {
+"motivo": "π desenhado, transcrito lendo a página 21",
+"subs": [
+[
+"(cid:83)",
+"\\pi "
+]
+]
+},
+"P7577-Q067": {
+"motivo": "μ desenhado, transcrito lendo a página 23",
+"subs": [
+[
+"(cid:80)",
+"μ"
+]
+]
+},
+"P7577-Q070": {
+"motivo": "setas e chaves das equações desenhadas, transcritas lendo a página 24",
+"stmt_re": [
+[
+"→  \\n2 Al<sub>2</sub>O<sub>3</sub> \\(l\\) \\+ 3 C \\(s\\) 4 Al",
+"2 Al<sub>2</sub>O<sub>3</sub> (l) + 3 C (s) → 4 Al"
+],
+[
+"(?s)são:\\n\\n→  \\ncátodo.*$",
+"são:"
+]
+],
+"alts": {
+"A": "\\( \\text{cátodo: } \\mathrm{Al^{3+} + 3\\,e^- \\longrightarrow Al} \\)\n\n\\( \\text{ânodo} \\begin{cases} \\mathrm{2\\,O^{2-} \\longrightarrow O_2 + 4\\,e^-} \\\\ \\mathrm{C + O_2 \\longrightarrow CO_2} \\end{cases} \\)",
+"B": "\\( \\text{cátodo} \\begin{cases} \\mathrm{2\\,O^{2-} \\longrightarrow O_2 + 4\\,e^-} \\\\ \\mathrm{C + O_2 \\longrightarrow CO_2} \\end{cases} \\)\n\n\\( \\text{ânodo: } \\mathrm{Al^{3+} + 3\\,e^- \\longrightarrow Al} \\)",
+"C": "\\( \\text{cátodo} \\begin{cases} \\mathrm{Al^{3+} + 3\\,e^- \\longrightarrow Al} \\\\ \\mathrm{2\\,O^{2-} \\longrightarrow O_2 + 4\\,e^-} \\end{cases} \\)\n\n\\( \\text{ânodo: } \\mathrm{C + O_2 \\longrightarrow CO_2} \\)",
+"D": "\\( \\text{cátodo} \\begin{cases} \\mathrm{Al^{3+} + 3\\,e^- \\longrightarrow Al} \\\\ \\mathrm{C + O_2 \\longrightarrow CO_2} \\end{cases} \\)\n\n\\( \\text{ânodo: } \\mathrm{2\\,O^{2-} \\longrightarrow O_2 + 4\\,e^-} \\)",
+"E": "\\( \\text{cátodo: } \\mathrm{2\\,O^{2-} \\longrightarrow O_2 + 4\\,e^-} \\)\n\n\\( \\text{ânodo} \\begin{cases} \\mathrm{Al^{3+} + 3\\,e^- \\longrightarrow Al} \\\\ \\mathrm{C + O_2 \\longrightarrow CO_2} \\end{cases} \\)"
+}
+}
+}

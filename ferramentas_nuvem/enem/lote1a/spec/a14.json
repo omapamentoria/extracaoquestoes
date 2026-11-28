@@ -1,0 +1,32 @@
+{
+"P7593-Q071": {
+"motivo": "alternativas são fórmulas estruturais: as imagens recortadas estão completas (conferido com a página 26)"
+},
+"P7593-Q076": {
+"motivo": "quadro em fonte sem tradução (código deslocado), transcrito e conferido com a página 28",
+"cesar": true
+},
+"P7593-Q078": {
+"motivo": "raiz desenhada, transcrita lendo a página 28",
+"subs": [
+[
+"*v* = (cid:165)*gd* .",
+"\\( v = \\sqrt{gd} \\)."
+]
+]
+},
+"P7593-Q090": {
+"motivo": "expoentes das alternativas desenhados fora do lugar, transcritos lendo a página 31",
+"alts": {
+"B": "10<sup>4</sup> g.",
+"C": "10<sup>5</sup> g.",
+"D": "10<sup>6</sup> g."
+},
+"subs": [
+[
+"(cid:3)",
+" "
+]
+]
+}
+}

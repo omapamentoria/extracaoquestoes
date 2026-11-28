@@ -1,0 +1,6 @@
+{
+"P7577-Q086":{"motivo":"θ e raízes desenhados, transcritos lendo a página 30","subs":[["(cid:84)","θ"]],"alts":{"A":"\\(\\sqrt{3}\\)","B":"\\(\\frac{\\sqrt{3}}{3}\\)","E":"\\(\\frac{\\sqrt{3}}{2}\\)"}},
+"P7577-Q046":{"motivo":"λ desenhado, transcrito lendo a página 16","subs":[["(cid:540)","λ"]]},
+"P7577-Q051":{"motivo":"seta com Δ da equação desenhada, transcrita lendo a página 17","subs":[["(cid:39)  \nCu<sub>2</sub>S (s) + O<sub>2</sub> (g) 2 Cu (l) + SO<sub>2</sub> (g)","\\( \\mathrm{Cu_2S\\ (s) + O_2\\ (g) \\xrightarrow{\\Delta} 2\\ Cu\\ (l) + SO_2\\ (g)} \\)"]]},
+"P7577-Q061":{"motivo":"índices e setas das equações desenhados/deslocados, transcritos lendo a página 21","stmt_re":[["(?s)\\(SO \\), um importante.*?Sal de cálcio","(SO<sub>2</sub>), um importante poluente atmosférico. As reações envolvidas no processo são a ativação do calcário, por meio de calcinação, e a fixação do SO<sub>2</sub> com a formação de um sal de cálcio, como ilustrado pelas equações químicas simplificadas.\n\n\\( \\mathrm{CaCO_3 \\xrightarrow{calor} CaO + CO_2} \\)\n\n\\( \\mathrm{CaO + SO_2 + \\frac{1}{2}\\,O_2 \\longrightarrow Sal\\ de\\ cálcio} \\)"]]}
+}

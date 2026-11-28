@@ -1,0 +1,54 @@
+{
+"P7597-Q060": {
+"motivo": "alternativas desenhadas (sem texto no PDF), transcritas lendo a página 23",
+"remove": [
+1,
+2,
+3,
+4,
+5
+],
+"alts": {
+"A": "incremento da indústria e atuação no mercado financeiro.",
+"B": "criação de programas assistencialistas e controle de preços.",
+"C": "elevação da renda média e arrecadação de impostos.",
+"D": "garantia da cidadania e ascensão econômica.",
+"E": "ajuste de políticas econômicas e incentivos fiscais."
+}
+},
+"P7597-Q061": {
+"motivo": "alternativas, fim do texto e fonte desenhados (sem texto no PDF), transcritos lendo a página 23",
+"remove": [
+1,
+2,
+3,
+4,
+5
+],
+"subs": [
+[
+"Estados Unidos na\n\nUm aspecto",
+"Estados Unidos na era pós-soviética.\n\n{{fonte:1}}\n\nUm aspecto"
+]
+],
+"fontes": [
+"HOBSBAWM, E. **Globalização, democracia e terrorismo**. São Paulo: Cia. das Letras, 2007."
+],
+"alts": {
+"A": "poder de suas bases militares espalhadas ao redor do mundo.",
+"B": "alinhamento geopolítico da Rússia em relação aos EUA.",
+"C": "política de expansionismo territorial exercida sobre Cuba.",
+"D": "aliança estratégica com países produtores de petróleo, como Kuwait e Irã.",
+"E": "incorporação da China à Organização do Tratado do Atlântico Norte (Otan)."
+}
+},
+"P7597-Q084": {
+"motivo": "ü desenhado, transcrito lendo a página 29",
+"subs": [
+[
+"J(cid:129)rgen",
+"Jürgen"
+]
+]
+}
+}

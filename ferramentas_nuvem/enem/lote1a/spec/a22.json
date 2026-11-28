@@ -1,0 +1,56 @@
+{
+"P7599-Q162": {
+"motivo": "sinal > desenhado, transcrito lendo a página 25",
+"subs": [
+[
+"(cid:33)",
+">"
+]
+]
+},
+"P7599-Q166": {
+"motivo": "rótulos do quadro em fonte sem tradução e π desenhado, transcritos lendo a página 26",
+"subs": [
+[
+"(cid:51)(cid:85)(cid:72)(cid:86)(cid:86)(cid:109)(cid:82)(cid:3)(cid:80)(cid:116)(cid:81)(cid:76)(cid:80)(cid:68)",
+"Pressão mínima"
+],
+[
+"(cid:51)(cid:85)(cid:72)(cid:86)(cid:86)(cid:109)(cid:82)(cid:3)(cid:80)(cid:105)(cid:91)(cid:76)(cid:80)(cid:68)",
+"Pressão máxima"
+]
+],
+"alts": {
+"A": "*P*(*t*) = 99 + 21*cos*(3π*t*)",
+"B": "*P*(*t*) = 78 + 42*cos*(3π*t*)",
+"C": "*P*(*t*) = 99 + 21*cos*(2π*t*)"
+}
+},
+"P7599-Q171": {
+"motivo": "índices deslocados e π desenhado fora do lugar, transcritos lendo a página 28",
+"stmt_re": [
+[
+"(?s)\\(T , T<sub>2</sub> e T<sub>3</sub>\\).*aproximação para \\.",
+"(T<sub>1</sub>, T<sub>2</sub> e T<sub>3</sub>) será instalado em uma fazenda, sendo que as distâncias entre torres consecutivas bem como da base à torre T<sub>1</sub> são iguais a 50 m. O fazendeiro pretende ajustar as velocidades das torres, de tal forma que o pivô efetue uma volta completa em 25 horas. Use 3 como aproximação para π."
+]
+]
+},
+"P7605-Q005-ESP": {
+"motivo": "ü desenhado, transcrito lendo a página 5",
+"subs": [
+[
+"antig(cid:129)edad",
+"antigüedad"
+]
+]
+},
+"P7605-Q077": {
+"motivo": "aspas desenhadas, transcritas lendo a página 28",
+"subs": [
+[
+"pretos(cid:1973).",
+"pretos”."
+]
+]
+}
+}

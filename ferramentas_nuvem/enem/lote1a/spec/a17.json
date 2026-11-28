@@ -1,0 +1,53 @@
+{
+"P7595-Q166": {
+"motivo": "raízes e fração desenhadas e linhas partidas, transcritas lendo a página 27",
+"subs": [
+[
+"Use \\(\\frac{(cid:151)3}{2}\\),\n\n21 e 1,7 como aproximações,\n\nrespectivamente, para sen(60°), cos(60°) e \\(\\overline{(cid:165)3}\\) *.*",
+"Use \\(\\frac{\\sqrt{3}}{2}\\), \\(\\frac{1}{2}\\) e 1,7 como aproximações, respectivamente, para sen(60°), cos(60°) e \\(\\sqrt{3}\\)."
+]
+]
+},
+"P7595-Q168": {
+"motivo": "raízes das alternativas desenhadas e figura fora do lugar (rótulos soltos), transcritas lendo a página 28",
+"subs": [
+[
+"{{img:1}}\n\nNa figura",
+"Na figura"
+],
+[
+"*y*  \n*x*",
+"{{img:1}}"
+]
+],
+"alts": {
+"A": "\\( y = -\\sqrt{3}x + 3\\sqrt{3} \\)",
+"B": "\\( y = -\\frac{\\sqrt{3}}{3}x + 3\\sqrt{3} \\)",
+"C": "\\( y = -x + 4 \\)",
+"D": "\\( y = -\\frac{2}{3}x + 4 \\)",
+"E": "\\( y = -\\frac{4}{5}x + 4 \\)"
+}
+},
+"P7595-Q175": {
+"motivo": "quadro em fonte sem tradução (código deslocado), transcrito e conferido com a página 30",
+"cesar": true
+},
+"P7595-Q093-ESP": {
+"motivo": "ü desenhado, transcrito lendo a página 4",
+"subs": [
+[
+"ling(cid:129)ista",
+"lingüista"
+]
+]
+},
+"P7595-Q097": {
+"motivo": "ê desenhado, transcrito lendo a página 5",
+"subs": [
+[
+"g(cid:114)nero",
+"gênero"
+]
+]
+}
+}

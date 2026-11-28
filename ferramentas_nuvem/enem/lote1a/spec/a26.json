@@ -1,0 +1,60 @@
+{
+"P7611-Q161": {
+"motivo": "sinais × e índices desenhados, transcritos lendo a página 24",
+"alts": {
+"A": "\\( A_{10}^{4} \\)",
+"B": "\\( C_{10}^{4} \\)",
+"C": "\\( C_{4}^{2} \\times C_{6}^{2} \\times 2 \\times 2 \\)",
+"D": "\\( A_{4}^{2} \\times A_{6}^{2} \\times 2 \\times 2 \\)",
+"E": "\\( C_{4}^{2} \\times C_{6}^{2} \\)"
+}
+},
+"P7611-Q164": {
+"motivo": "matriz, índices e sinais ≤ desenhados, transcritos lendo a página 25",
+"stmt_re": [
+[
+"(?s)matriz A = \\[\\*a\\* \\].*?Com base nessas informações",
+"matriz A = [*a<sub>ij</sub>*], em que 1 ≤ *i* ≤ 5 e 1 ≤ *j* ≤ 5, e o elemento *a<sub>ij</sub>* corresponde ao total proveniente das operações feitas via TED, em milhão de real, transferidos do banco *i* para o banco *j* durante o mês. Observe que os elementos *a<sub>ii</sub>* = 0, uma vez que TED é uma transferência entre bancos distintos. Esta é a matriz obtida para essa análise:\n\n\\( A = \\begin{bmatrix} 0 & 2 & 0 & 2 & 2 \\\\ 0 & 0 & 2 & 1 & 0 \\\\ 1 & 2 & 0 & 1 & 1 \\\\ 0 & 2 & 2 & 0 & 0 \\\\ 3 & 0 & 1 & 1 & 0 \\end{bmatrix} \\)\n\nCom base nessas informações"
+]
+]
+},
+"P7611-Q178": {
+"motivo": "símbolos ∈, ℕ e ≤ desenhados, transcritos lendo a página 30",
+"subs": [
+[
+"(cid:143)(cid:3)(cid:96)(cid:1)×(cid:3)(cid:96)",
+"∈ ℕ × ℕ"
+],
+[
+"(cid:100)(cid:3)y(cid:3)(cid:100)(cid:3)(cid:20)0",
+"≤ y ≤ 10"
+],
+[
+"(cid:100)",
+"≤"
+]
+]
+},
+"P7611-Q179": {
+"motivo": "π desenhado, transcrito lendo a página 31",
+"subs": [
+[
+"(cid:83)",
+"π"
+]
+]
+},
+"P7611-Q180": {
+"motivo": "sinal ≥ desenhado e linha partida, transcritos lendo a página 31",
+"subs": [
+[
+"(cid:116)(cid:3)2",
+"≥ 2"
+],
+[
+"ficar\n\nsobre",
+"ficar sobre"
+]
+]
+}
+}

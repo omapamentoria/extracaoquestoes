@@ -1,0 +1,42 @@
+{
+"P7583-Q143": {
+"motivo": "Figura 2 (desenho) não recortada pelo extrator, rótulos soltos e linhas partidas: figura recortada da página 21",
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2015/P7583/img/Q143_manual_1.png"
+]
+},
+"stmt_re": [
+[
+"(?s)\\{\\{img:2\\}\\}\\n\\nÁrea para.*?\\*\\*Figura 2\\*\\*\\n\\nDe acordo com as normas desse porto, os contêineres  \\ndeverão ser empilhados de forma a não sobrarem espaços  \\nnem ultrapassarem a área delimitada\\.\\n\\nApós o empilhamento total da carga e atendendo à norma  \\ndo porto, a altura mínima a ser atingida por essa pilha de  \\ncontêineres é",
+"{{img:2}}\n\n{{imgx:1}}\n\nDe acordo com as normas desse porto, os contêineres deverão ser empilhados de forma a não sobrarem espaços nem ultrapassarem a área delimitada.\n\nApós o empilhamento total da carga e atendendo à norma do porto, a altura mínima a ser atingida por essa pilha de contêineres é"
+]
+]
+},
+"P7583-Q148": {
+"motivo": "Figura 1 (desenho) não recortada pelo extrator e rótulos soltos: Figuras 1 e 2 recortadas juntas da página 23",
+"remove": [
+1
+],
+"stmt_re": [
+[
+"(?s)\\*C D\\*.*?\\*\\*Figura 1\\*\\*\\n\\n",
+"{{imgx:1}}\n\n"
+]
+],
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2015/P7583/img/Q148_manual_1.png"
+]
+}
+},
+"P7577-Q089": {
+"motivo": "quadro com frações desmontado, transcrito lendo a página 31",
+"stmt_re": [
+[
+"(?s)\\| \\*\\*Pêndulo\\*\\* \\|.*?Quais pêndulos",
+"| **Pêndulo** | **Massa** | **Comprimento do barbante** |\n|---|---|---|\n| A | *M* | *L* |\n| 1 | *M* | *L* |\n| 2 | \\(\\frac{M}{2}\\) | 2*L* |\n| 3 | 2*M* | \\(\\frac{L}{2}\\) |\n| 4 | \\(\\frac{M}{2}\\) | \\(\\frac{L}{2}\\) |\n| 5 | 2*M* | *L* |\n\nQuais pêndulos"
+]
+]
+}
+}

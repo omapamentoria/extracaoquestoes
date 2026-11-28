@@ -1,0 +1,65 @@
+{
+"P7615-Q120": {
+"motivo": "ρ desenhado, transcrito lendo a página 10",
+"subs": [
+[
+"*(cid:545)*",
+"*ρ*"
+]
+]
+},
+"P7615-Q146": {
+"motivo": "espaços e pontos da fórmula desenhados, transcritos lendo a página 20",
+"subs": [
+[
+"*E* =(cid:3)2 •(cid:3)10<sup>−</sup><sup>7</sup> •(cid:3)*B* •(cid:3)*H*",
+"\\( E = 2 \\cdot 10^{-7} \\cdot B \\cdot H \\)"
+]
+]
+},
+"P7615-Q152": {
+"motivo": "nomes do quadro em fonte sem tradução (código deslocado), transcritos lendo a página 21",
+"subs": [
+[
+"(cid:54)(cid:109)(cid:82)(cid:3)(cid:38)(cid:68)(cid:72)(cid:87)(cid:68)(cid:81)(cid:82)(cid:3)(cid:71)(cid:82)(cid:3)(cid:54)(cid:88)(cid:79)(cid:3)(cid:11)(cid:54)(cid:51)(cid:12)",
+"São Caetano do Sul (SP)"
+],
+[
+"(cid:200)(cid:74)(cid:88)(cid:68)(cid:86)(cid:3)(cid:71)(cid:72)(cid:3)(cid:54)(cid:109)(cid:82)(cid:3)(cid:51)(cid:72)(cid:71)(cid:85)(cid:82)(cid:3)(cid:11)(cid:54)(cid:51)(cid:12)",
+"Águas de São Pedro (SP)"
+]
+]
+},
+"P7615-Q155": {
+"motivo": "sinais do quadro, cabeçalho em fonte sem tradução e intervalos das alternativas desenhados, transcritos lendo a página 23",
+"subs": [
+[
+"(cid:38)(cid:79)(cid:68)(cid:86)(cid:86)(cid:76)(cid:191)(cid:70)(cid:68)(cid:111)(cid:109)(cid:82)",
+"**Classificação**"
+],
+[
+"(cid:116)",
+"≥"
+],
+[
+"(cid:100)",
+"≤"
+],
+[
+"(cid:31)",
+"<"
+],
+[
+"*pH* = log<sub>10</sub> \\(\\frac{1}{H}\\),",
+"\\( pH = \\log_{10}\\frac{1}{H} \\),"
+]
+],
+"alts": {
+"A": "\\( \\left(-10^{14{,}5},\\ -10^{13}\\right] \\)",
+"B": "\\( \\left[10^{-\\frac{6}{7}},\\ 10^{-1}\\right) \\)",
+"C": "\\( \\left[10^{-1},\\ 10^{\\frac{1}{2}}\\right) \\)",
+"D": "\\( \\left[10^{13},\\ 10^{14{,}5}\\right) \\)",
+"E": "\\( \\left[10^{6\\times10^{7}},\\ 10^{7{,}5\\times10^{7}}\\right) \\)"
+}
+}
+}

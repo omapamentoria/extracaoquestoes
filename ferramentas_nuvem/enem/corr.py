@@ -4,7 +4,7 @@ def carrega(caminhos):
     corr={}
     for _c in caminhos.split(","):
         for k,v in json.load(open(_c)).items():
-            if k in ("_area","_casa","_pares","_par"): corr.setdefault(k,{}).update(v)
+            if k in ("_area","_casa","_pares","_par","_edicao_banco"): corr.setdefault(k,{}).update(v)
             else: corr[k]=v
     return corr
 def aplica(r,corr):
@@ -15,6 +15,8 @@ def aplica(r,corr):
     for L,(a,b) in c.get("alt_sub",{}).items():
         for x in r["alternativas"]:
             if x["letra"]==L: n=re.subn(a,lambda m,b=b:b,x["texto"]); assert n[1]==1,(r["origem_texto"],L); x["texto"]=n[0]
+    if "alternativas_lista" in c:   # lista inteira (quando o extrator criou alternativas a mais, ex.: itens a), b), c) do texto)
+        r["alternativas"]=[{"letra":L,"texto":t} for L,t in c["alternativas_lista"]]
     for L,t in c.get("alternativas",{}).items():
         for x in r["alternativas"]:
             if x["letra"]==L: x["texto"]=t
@@ -24,6 +26,11 @@ def aplica(r,corr):
         ren=lambda t:re.sub(r"\{\{img:(\d+)\}\}",lambda m:"{{img:%s}}"%nova[m.group(1)] if m.group(1) in nova else "",t)
         r["statement"]=ren(r["statement"]); r["apos_alternativas"]=ren(r.get("apos_alternativas",""))
         for x in r["alternativas"]: x["texto"]=ren(x["texto"])
+    if "imagens_extra" in c:   # recortes da pagina feitos a mao (alternativa desenhada sem imagem): {{imgx:N}} = N-esimo recorte
+        base=len(r["imagens_src"]); r["imagens_src"]=r["imagens_src"]+list(c["imagens_extra"])
+        cv=lambda t:re.sub(r"\{\{imgx:(\d+)\}\}",lambda m:"{{img:%d}}"%(base+int(m.group(1))),t or "")
+        r["statement"]=cv(r["statement"]); r["apos_alternativas"]=cv(r.get("apos_alternativas",""))
+        for x in r["alternativas"]: x["texto"]=cv(x["texto"])
     if "apos_alternativas" in c: r["apos_alternativas"]=c["apos_alternativas"]
     if "fontes" in c: r["fontes"]=c["fontes"]
     r["alertas"]=[]

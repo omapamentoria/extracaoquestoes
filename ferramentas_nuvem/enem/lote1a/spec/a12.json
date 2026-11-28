@@ -1,0 +1,68 @@
+{
+"P7591-Q151": {
+"motivo": "espaço desenhado, transcrito lendo a página 23",
+"subs": [
+[
+"(cid:3)",
+" "
+]
+]
+},
+"P7591-Q159": {
+"motivo": "cabeçalho 'Bronze' do quadro em fonte sem tradução, transcrito lendo a página 25",
+"subs": [
+[
+"(cid:37)(cid:85)(cid:82)(cid:81)(cid:93)(cid:72)",
+"**Bronze**"
+]
+]
+},
+"P7591-Q164": {
+"motivo": "sinais ≤ e ≥ desenhados, transcritos lendo a página 26",
+"subs": [
+[
+"(cid:100)",
+"≤"
+],
+[
+"(cid:116)",
+"≥"
+]
+]
+},
+"P7591-Q170": {
+"motivo": "sinal ≥ e índices desenhados, transcritos lendo a página 28",
+"subs": [
+[
+"(cid:116)",
+"≥"
+],
+[
+"A*<sub>n</sub>* - A*<sub>n</sub>*<sub>−</sub><sub>1</sub>",
+"A<sub>*n*</sub> − A<sub>*n*−1</sub>"
+],
+[
+"representada por A*<sub>n</sub>*.",
+"representada por A<sub>*n*</sub>."
+]
+]
+},
+"P7591-Q180": {
+"motivo": "sinal ≤ desenhado, transcrito lendo a página 31",
+"subs": [
+[
+"(cid:100)",
+"≤"
+]
+]
+},
+"P7591-Q156": {
+"motivo": "fórmulas (π, potências, parênteses grandes) desenhadas e linhas partidas, transcritas lendo a página 24",
+"stmt_re": [
+[
+"(?s)^.*deverá ser igual a$",
+"Uma indústria de perfumes embala seus produtos, atualmente, em frascos esféricos de raio *R*, com volume dado por \\( \\frac{4}{3}\\pi \\cdot (R)^{3} \\).\n\nObservou-se que haverá redução de custos se forem utilizados frascos cilíndricos com raio da base \\( \\frac{R}{3} \\), cujo volume será dado por \\( \\pi\\left(\\frac{R}{3}\\right)^{2} \\cdot h \\), sendo *h* a altura da nova embalagem.\n\nPara que seja mantida a mesma capacidade do frasco esférico, a altura do frasco cilíndrico (em termos de *R*) deverá ser igual a"
+]
+]
+}
+}

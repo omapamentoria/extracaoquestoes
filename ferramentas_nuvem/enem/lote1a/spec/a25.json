@@ -1,0 +1,69 @@
+{
+"P7611-Q144": {
+"motivo": "sinais > e < desenhados, transcritos lendo a página 18",
+"subs": [
+[
+"(cid:33)",
+">"
+],
+[
+"(cid:31)",
+"<"
+]
+]
+},
+"P7611-Q151": {
+"motivo": "sinal < desenhado, transcrito lendo a página 21",
+"subs": [
+[
+"(cid:31)",
+"<"
+]
+]
+},
+"P7611-Q154": {
+"motivo": "números do quadro em fonte sem tradução (código deslocado), transcritos lendo a página 21",
+"cesar": true
+},
+"P7611-Q157": {
+"motivo": "π e fração desenhados, texto desmontado e figura não recortada pelo extrator: transcrito e figura recortada da página 23",
+"stmt_re": [
+[
+"(?s)^.*igual a$",
+"Sobre um sistema cartesiano considera-se uma malha formada por circunferências de raios com medidas dadas por números naturais e por 12 semirretas com extremidades na origem, separadas por ângulos de \\(\\frac{\\pi}{6}\\) rad, conforme a figura.\n\n{{imgx:1}}\n\nSuponha que os objetos se desloquem apenas pelas semirretas e pelas circunferências dessa malha, não podendo passar pela origem (0 ; 0).\n\nConsidere o valor de π com aproximação de, pelo menos, uma casa decimal.\n\nPara realizar o percurso mais curto possível ao longo da malha, do ponto *B* até o ponto *A*, um objeto deve percorrer uma distância igual a"
+]
+],
+"alts": {
+"A": "\\( \\frac{2 \\cdot \\pi \\cdot 1}{3} + 8 \\)",
+"B": "\\( \\frac{2 \\cdot \\pi \\cdot 2}{3} + 6 \\)",
+"C": "\\( \\frac{2 \\cdot \\pi \\cdot 3}{3} + 4 \\)",
+"D": "\\( \\frac{2 \\cdot \\pi \\cdot 4}{3} + 2 \\)",
+"E": "\\( \\frac{2 \\cdot \\pi \\cdot 5}{3} + 2 \\)"
+},
+"extra": {
+"imagens_extra": [
+"_banco/questoes/ENEM/2018/P7611/img/Q157_manual_1.png"
+]
+}
+},
+"P7611-Q158": {
+"motivo": "quadro desenhado (recortado como imagem e misturado às alternativas), transcrito lendo a página 23",
+"remove": [
+2,
+3
+],
+"stmt_re": [
+[
+"(?s)No mercado, existem.*$",
+"No mercado, existem cinco opções de caixas organizadoras, com tampa, em formato de paralelepípedo reto retângulo, vendidas pelo mesmo preço, possuindo as seguintes dimensões internas:\n\n| **Modelo** | **Comprimento (cm)** | **Largura (cm)** | **Altura (cm)** |\n|---|---|---|---|\n| I | 8 | 8 | 40 |\n| II | 8 | 20 | 14 |\n| III | 18 | 5 | 35 |\n| IV | 20 | 12 | 12 |\n| V | 24 | 8 | 14 |\n\nQual desses modelos o artesão deve adquirir para conseguir armazenar o maior número de potes por caixa?"
+]
+],
+"alts": {
+"A": "I",
+"B": "II",
+"C": "III",
+"D": "IV",
+"E": "V"
+}
+}
+}

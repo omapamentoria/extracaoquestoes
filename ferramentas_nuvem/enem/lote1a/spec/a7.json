@@ -1,0 +1,38 @@
+{
+"P7585-Q064": {
+"motivo": "sinal de menos desenhado, transcrito lendo a página 23",
+"subs": [
+[
+"(cid:16)",
+"−"
+]
+]
+},
+"P7585-Q076": {
+"motivo": "sinal de menos desenhado, transcrito lendo a página 26",
+"subs": [
+[
+"(cid:16)",
+"−"
+]
+]
+},
+"P7585-Q051": {
+"motivo": "símbolo ® desenhado na fonte, transcrito lendo a página 18",
+"subs": [
+[
+"Celobar(cid:138)",
+"Celobar®"
+]
+]
+},
+"P7585-Q078": {
+"motivo": "equações e potências do quadro desenhadas/desordenadas, transcritas lendo a página 27",
+"stmt_re": [
+[
+"(?s)\\| Fenol \\|.*?\\| 3,1\\(cid:117\\) 10\\(cid:16\\)2 \\|",
+"| Fenol | C<sub>6</sub>H<sub>5</sub>OH + H<sub>2</sub>O ⇄ C<sub>6</sub>H<sub>5</sub>O<sup>−</sup> + H<sub>3</sub>O<sup>+</sup> | 1,3 × 10<sup>−10</sup> |\n| Piridina | C<sub>5</sub>H<sub>5</sub>N + H<sub>2</sub>O ⇄ C<sub>5</sub>H<sub>5</sub>NH<sup>+</sup> + OH<sup>−</sup> | 1,7 × 10<sup>−9</sup> |\n| Metilamina | CH<sub>3</sub>NH<sub>2</sub> + H<sub>2</sub>O ⇄ CH<sub>3</sub>NH<sub>3</sub><sup>+</sup> + OH<sup>−</sup> | 4,4 × 10<sup>−4</sup> |\n| Hidrogenofosfato de potássio | HPO<sub>4</sub><sup>2−</sup> + H<sub>2</sub>O ⇄ H<sub>2</sub>PO<sub>4</sub><sup>−</sup> + OH<sup>−</sup> | 2,8 × 10<sup>−2</sup> |\n| Hidrogenosulfato de potássio | HSO<sub>4</sub><sup>−</sup> + H<sub>2</sub>O ⇄ SO<sub>4</sub><sup>2−</sup> + H<sub>3</sub>O<sup>+</sup> | 3,1 × 10<sup>−2</sup> |"
+]
+]
+}
+}

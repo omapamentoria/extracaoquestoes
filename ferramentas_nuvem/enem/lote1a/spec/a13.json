@@ -1,0 +1,19 @@
+{
+"P7593-Q047": {
+"motivo": "números e nomes do quadro em fonte sem tradução (código deslocado), transcritos e conferidos com a página 18",
+"cesar": true
+},
+"P7593-Q055": {
+"motivo": "valor do quadro em fonte sem tradução (código deslocado), transcrito e conferido com a página 21",
+"cesar": true
+},
+"P7593-Q062": {
+"motivo": "quadro desmontado e em fonte sem tradução, remontado lendo a página 23",
+"stmt_re": [
+[
+"(?s)\\| \\*\\*Combustível\\*\\* \\|.*?−5 471",
+"| **Combustível** | **ΔH<sub>C</sub>° a 25 °C (kJ/mol)** |\n|---|---|\n| Hidrogênio (H<sub>2</sub>) | −286 |\n| Etanol (C<sub>2</sub>H<sub>5</sub>OH) | −1 368 |\n| Metano (CH<sub>4</sub>) | −890 |\n| Metanol (CH<sub>3</sub>OH) | −726 |\n| Octano (C<sub>8</sub>H<sub>18</sub>) | −5 471 |"
+]
+]
+}
+}

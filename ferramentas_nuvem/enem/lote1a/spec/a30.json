@@ -1,0 +1,36 @@
+{
+"P7619-Q109": {
+"motivo": "π e índices das frações desenhados, transcritos lendo a página 8",
+"alts": {
+"A": "\\( \\frac{qBt}{2\\pi N} \\)",
+"B": "\\( \\frac{qBt}{\\pi N} \\)",
+"C": "\\( \\frac{2qBt}{\\pi N} \\)"
+}
+},
+"P7619-Q137": {
+"motivo": "alternativas desenhadas (combinações), transcritas lendo a página 17",
+"remove": [
+2,
+3,
+4,
+5,
+6
+],
+"alts": {
+"A": "\\( C_{12}^{4} \\times C_{12}^{3} \\times C_{12}^{3} \\times C_{12}^{2} \\)",
+"B": "\\( C_{12}^{4} + C_{8}^{3} + C_{5}^{3} + C_{2}^{2} \\)",
+"C": "\\( C_{12}^{4} \\times 2 \\times C_{8}^{3} \\times C_{5}^{2} \\)",
+"D": "\\( C_{12}^{4} + 2 \\times C_{12}^{3} + C_{12}^{2} \\)",
+"E": "\\( C_{12}^{4} \\times C_{8}^{3} \\times C_{5}^{3} \\times C_{2}^{2} \\)"
+}
+},
+"P7619-Q180": {
+"motivo": "função desenhada e figuras fora de ordem, transcritas lendo a página 31",
+"stmt_re": [
+[
+"(?s)^\\{\\{img:2\\}\\}\\n\\nUm grupo.*?A função \\*h\\*\\(\\*t\\*\\) 4 4\\*sen\\* descreve",
+"Um grupo de engenheiros está projetando um motor cujo esquema de deslocamento vertical do pistão dentro da câmara de combustão está representado na figura.\n\n{{img:1}}\n\n{{img:2}}\n\nA função \\( h(t) = 4 + 4\\,\\mathrm{sen}\\left(\\frac{\\beta t}{2} - \\frac{\\pi}{2}\\right) \\) definida para \\( t \\geq 0 \\) descreve"
+]
+]
+}
+}

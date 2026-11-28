@@ -23,6 +23,7 @@ RAIZ = os.path.expanduser("~/mnt/BM"); B = os.path.join(RAIZ, "_banco")
 PID = sys.argv[1]; PERFIL = sys.argv[2] if len(sys.argv) > 2 else "auto"   # auto: o proprio codigo reconhece o formato da prova
 CAT = {d["id"]: d for d in json.load(open(os.path.join(B, "catalogo_debug.json"), encoding="utf-8"))}
 import glob as _g   # catalogo do Drive novo, um arquivo por ano (ferramentas_nuvem/enem): evita conflito entre sessoes
+# <ano>.json (feito a mao pelas sessoes) vale por cima do drive2_*.json (catalogo automatico)
 for _f in sorted(_g.glob(os.path.join(B, "catalogo_drive2", "*.json")), key=lambda f: (os.path.basename(f)[0].isdigit(), f)): CAT.update({d["id"]: d for d in json.load(open(_f, encoding="utf-8"))})
 P = CAT[PID]
 PDF = os.path.join(RAIZ, P["caminho"])
@@ -1801,7 +1802,8 @@ def _cadeia(estilo):
         # pode pular UM numero (fica no alerta "numeros faltando")
         if not ants: ants = [(comp[(m, q)], q, m) for (m, q) in comp if m == n - 2 and q <= p_ and q >= p_ - 1]
         if ants:
-            c_, q, m_ = max(ants); comp[(n, p_)] = c_ + 1; ini[(n, p_)] = ini[(m_, q)]; ant_[(n, p_)] = (m_, q)
+            # empate: vale a pagina mais cedo (ingles 91-93 na pag. 3 e espanhol 91 na pag. 4: a prova comeca no ingles)
+            c_, q, m_ = max(ants, key=lambda a: (a[0], -a[1])); comp[(n, p_)] = c_ + 1; ini[(n, p_)] = ini[(m_, q)]; ant_[(n, p_)] = (m_, q)
         else:
             comp[(n, p_)] = 1; ini[(n, p_)] = (n, p_)
     if not comp: return 0, None, set()

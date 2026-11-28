@@ -1,0 +1,47 @@
+{
+"P7595-Q101": {
+"motivo": "símbolo ℓ (linha) desenhado, transcrito lendo a página 6",
+"subs": [
+[
+"(cid:400). 9",
+"ℓ. 9"
+]
+]
+},
+"P7595-Q102": {
+"motivo": "Ô desenhado, transcrito lendo a página 6",
+"subs": [
+[
+"EST(cid:208)MAGO",
+"ESTÔMAGO"
+]
+]
+},
+"P7595-Q142": {
+"motivo": "números do quadro em fonte sem tradução (código deslocado), transcritos e conferidos com a página 20",
+"cesar": true
+},
+"P7595-Q147": {
+"motivo": "quadro e alternativas desenhados (o extrator recortou pedaços do quadro como alternativas), transcritos lendo a página 21",
+"remove": [
+1,
+2,
+3,
+4,
+5
+],
+"stmt_re": [
+[
+"(?s)estar infectada\\.\\n\\nQual dessas cidades receberá maior valor de recursos$",
+"estar infectada.\n\n| **Cidade** | **I** | **II** | **III** | **IV** | **V** |\n|---|---|---|---|---|---|\n| Habitantes | 180 000 | 100 000 | 110 000 | 165 000 | 175 000 |\n| Infectados | 7 800 | 7 500 | 9 000 | 6 500 | 11 000 |\n\nQual dessas cidades receberá maior valor de recursos financeiros?"
+]
+],
+"alts": {
+"A": "I",
+"B": "II",
+"C": "III",
+"D": "IV",
+"E": "V"
+}
+}
+}
