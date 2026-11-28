@@ -59,7 +59,7 @@ de um lote pronto).
 1. **ENEM 2000–2008, as 13 que faltam** (veja `_fora` em `ferramentas_nuvem/fabrica/correcoes/enem2000a2008.json`).
    Em 11, o extrator não achou o cabeçalho da questão; as outras 2 (ENEM 2006, página 19, questões 60 e 61) saíram
    com as colunas embaralhadas. Ensine o extrator a achar essas questões, ou transcreva as 13 lendo a página, com
-   gabarito oficial. Antes, veja se o PR #30 já foi aprovado; se ainda não, junte essas questões nele.
+   gabarito oficial. O PR #30 (as outras 554) já está no banco: abra um PR pequeno só com as 13.
 2. **Provas verdes de medicina de São Paulo:** Unesp, Unifesp, Famerp, UNICAMP, Einstein, Santa Casa, Santa Marcelina,
    São Camilo, FACISB, FMJ, Fameca, Humanitas, FMABC, PUC-SP, PUC-Campinas. Um PR por instituição (ou por bloco de
    ~50 provas).
@@ -71,3 +71,9 @@ Antes de cada lote, diga ao Matheus, em 3 linhas, o que vai fazer. No fim de cad
 provas, questões publicadas, novas, pendentes, gabaritos corrigidos, custo aproximado e o link do PR.
 
 ---
+
+## Regra nova de gabarito (aprovada pelo Matheus em 28/11; cole na outra conta depois do prompt)
+
+```
+Regra nova de gabarito (aprovada pelo Matheus): quando não houver gabarito oficial de uma questão, procure primeiro o oficial na internet (INEP ou a banca). Se não achar, aceite o gabarito de sites confiáveis (Descomplica e outros) só quando duas fontes diferentes concordarem e a resolução da questão confirmar; marque essas questões como "gabarito de fonte não oficial". Anote esta regra no CLAUDE.md.
+```

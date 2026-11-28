@@ -15,13 +15,13 @@ Lista só do banco de questões. O Matheus acrescenta itens quando quiser (diret
 
 ## Decisões do Matheus
 
-- **Questão 1042** (ENEM 2011 PPL, dia 2, questão 163): o gabarito do arquivo oficial diz **B** (= 1), mas a conta dá
-  **D** (1/4). No banco está D, fora da prova completa. Em 28/11 o Matheus pediu para manter o oficial; antes de
-  trocar, confirmar com ele (ver a explicação na conversa de 28/11).
+- Regra nova de gabarito pela internet: o Matheus achou boa (28/11) e pediu para aplicar na próxima conta (texto em
+  `docs/fabrica/PROMPT_OUTRA_CONTA.md`, logo abaixo do prompt).
 
 ## A fazer (trabalho do Claude)
 
-- ENEM 2000–2008 (9 provas): extrair com a estratégia nova (mais barata).
+- ENEM 2000–2008: publicado (PR #30, 554 de 567); faltam 13 questões (ver `_fora` em `ferramentas_nuvem/fabrica/correcoes/enem2000a2008.json`).
+- Questão 1042: resolvida (gabarito D, de volta à prova completa, PR #31).
 - Questões 2261 e 2477 (ENEM 2014, banco antigo): não são das provas do Drive novo (outra aplicação ou dia).
 - Simulados marcados como prova oficial no banco: conferir e corrigir.
 - Questões novas sem comentário (ENEM 2009–2025): falta mandar os lotes ao Gemini.
