@@ -141,6 +141,7 @@ def tipo_alerta(a):
 def problemas(r):
     """motivos que impedem publicar sem olhar (lista de (tipo, texto))"""
     m=[]
+    if r["origem_texto"] in CORR.get("_fora",{}): m.append(("fora de propósito",CORR["_fora"][r["origem_texto"]]))   # incerta: nao se publica
     if r["origem_texto"] not in CORR:   # questao com correcao feita olhando a imagem: os alertas ja foram resolvidos
         for a in r.get("alertas",[]):
             t=tipo_alerta(a)

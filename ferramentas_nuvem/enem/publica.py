@@ -91,6 +91,9 @@ for ij in INTS:
         for a in r["alternativas"]:
             a["texto"],n=re.subn(TIT,"",a["texto"]); rel["título de área retirado"]+=n
         r["apos_alternativas"],n=re.subn(TIT,"",r["apos_alternativas"]); rel["título de área retirado"]+=n
+        for a_ in r["alternativas"]:   # '**' solto no fim da alternativa (negrito aberto em outra linha): sai
+            t_=a_["texto"].rstrip()
+            if t_.count("**")%2==1 and t_.endswith("**"): a_["texto"]=t_[:-2].rstrip(); rel["** solto retirado da alternativa"]+=1
         assert not re.search(r"E SUAS TECNOLOGIAS\s+Questões",json.dumps([r["statement"],r["alternativas"]],ensure_ascii=False)),("título de área",r["origem_texto"])
         assert not any("PENDENTE" in a for a in r["alertas"]), r["origem_texto"]
         assert "(cid:" not in json.dumps(r,ensure_ascii=False), r["origem_texto"]

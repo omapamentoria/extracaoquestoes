@@ -48,6 +48,13 @@
 "vizinho": 110752,
 "baixa": true
 },
+"P7507-Q009": {
+"subassunto": "A016-01",
+"confianca": 0.19,
+"sim1": 0.13,
+"vizinho": 107783,
+"baixa": true
+},
 "P7507-Q010": {
 "subassunto": "A031-03",
 "confianca": 0.23,
@@ -158,6 +165,13 @@
 "confianca": 0.82,
 "sim1": 0.2,
 "vizinho": 102711,
+"baixa": true
+},
+"P7507-Q026": {
+"subassunto": "A065-02",
+"confianca": 0.19,
+"sim1": 0.35,
+"vizinho": 120621,
 "baixa": true
 },
 "P7507-Q027": {
@@ -319,6 +333,13 @@
 "confianca": 0.32,
 "sim1": 0.18,
 "vizinho": 120149,
+"baixa": true
+},
+"P7507-Q050": {
+"subassunto": "A038-01",
+"confianca": 0.3,
+"sim1": 0.2,
+"vizinho": 2601,
 "baixa": true
 },
 "P7507-Q051": {
@@ -601,6 +622,13 @@
 "vizinho": 8985,
 "baixa": true
 },
+"P7509-Q028": {
+"subassunto": "A045-08",
+"confianca": 0.22,
+"sim1": 0.08,
+"vizinho": 102684,
+"baixa": true
+},
 "P7509-Q029": {
 "subassunto": "A011-03",
 "confianca": 0.22,
@@ -748,11 +776,25 @@
 "vizinho": 4927,
 "baixa": true
 },
+"P7509-Q050": {
+"subassunto": "A021-03",
+"confianca": 0.2,
+"sim1": 0.13,
+"vizinho": 114783,
+"baixa": true
+},
 "P7509-Q051": {
 "subassunto": "A021-04",
 "confianca": 0.35,
 "sim1": 0.11,
 "vizinho": 113225,
+"baixa": true
+},
+"P7509-Q052": {
+"subassunto": "A012-01",
+"confianca": 0.22,
+"sim1": 0.14,
+"vizinho": 150075,
 "baixa": true
 },
 "P7509-Q053": {
@@ -1483,6 +1525,13 @@
 "vizinho": 101576,
 "baixa": true
 },
+"P7513-Q033": {
+"subassunto": "A003-05",
+"confianca": 0.14,
+"sim1": 0.15,
+"vizinho": 119151,
+"baixa": true
+},
 "P7513-Q034": {
 "subassunto": "A026-03",
 "confianca": 0.22,
@@ -1567,6 +1616,13 @@
 "vizinho": 170146,
 "baixa": true
 },
+"P7513-Q046": {
+"subassunto": "A001-04",
+"confianca": 0.22,
+"sim1": 0.15,
+"vizinho": 1398,
+"baixa": true
+},
 "P7513-Q047": {
 "subassunto": "A002-03",
 "confianca": 0.18,
@@ -1636,6 +1692,13 @@
 "sim1": 0.15,
 "vizinho": 120351,
 "baixa": true
+},
+"P7513-Q057": {
+"subassunto": "A063-01",
+"confianca": 0.82,
+"sim1": 0.26,
+"vizinho": 107140,
+"baixa": false
 },
 "P7513-Q058": {
 "subassunto": "A063-01",
@@ -1707,6 +1770,13 @@
 "vizinho": 113288,
 "baixa": true
 },
+"P7515-Q005": {
+"subassunto": "A062-01",
+"confianca": 0.21,
+"sim1": 0.13,
+"vizinho": 100018,
+"baixa": true
+},
 "P7515-Q006": {
 "subassunto": "A065-01",
 "confianca": 0.42,
@@ -1763,6 +1833,13 @@
 "vizinho": 113136,
 "baixa": true
 },
+"P7515-Q014": {
+"subassunto": "A006-09",
+"confianca": 0.23,
+"sim1": 0.11,
+"vizinho": 120088,
+"baixa": true
+},
 "P7515-Q015": {
 "subassunto": "A021-01",
 "confianca": 0.13,
@@ -1782,6 +1859,13 @@
 "confianca": 0.27,
 "sim1": 0.14,
 "vizinho": 116602,
+"baixa": true
+},
+"P7515-Q018": {
+"subassunto": "A096-05",
+"confianca": 0.31,
+"sim1": 0.08,
+"vizinho": 9282,
 "baixa": true
 },
 "P7515-Q019": {
@@ -1810,6 +1894,13 @@
 "confianca": 0.29,
 "sim1": 0.1,
 "vizinho": 992,
+"baixa": true
+},
+"P7515-Q023": {
+"subassunto": "A105-01",
+"confianca": 0.38,
+"sim1": 0.1,
+"vizinho": 100019,
 "baixa": true
 },
 "P7515-Q024": {
@@ -1868,6 +1959,20 @@
 "vizinho": 100657,
 "baixa": true
 },
+"P7515-Q032": {
+"subassunto": "A063-01",
+"confianca": 0.41,
+"sim1": 0.16,
+"vizinho": 115631,
+"baixa": true
+},
+"P7515-Q033": {
+"subassunto": "A002-03",
+"confianca": 0.37,
+"sim1": 0.13,
+"vizinho": 105978,
+"baixa": true
+},
 "P7515-Q034": {
 "subassunto": "A034-01",
 "confianca": 0.34,
@@ -1887,6 +1992,20 @@
 "confianca": 0.18,
 "sim1": 0.18,
 "vizinho": 3137,
+"baixa": true
+},
+"P7515-Q037": {
+"subassunto": "A012-01",
+"confianca": 0.35,
+"sim1": 0.12,
+"vizinho": 112462,
+"baixa": true
+},
+"P7515-Q038": {
+"subassunto": "A015-04",
+"confianca": 0.37,
+"sim1": 0.12,
+"vizinho": 102836,
 "baixa": true
 },
 "P7515-Q039": {
@@ -1952,6 +2071,13 @@
 "vizinho": 160091,
 "baixa": true
 },
+"P7515-Q048": {
+"subassunto": "A034-01",
+"confianca": 0.36,
+"sim1": 0.14,
+"vizinho": 1394,
+"baixa": true
+},
 "P7515-Q049": {
 "subassunto": "A038-02",
 "confianca": 0.21,
@@ -2008,6 +2134,13 @@
 "vizinho": 103663,
 "baixa": true
 },
+"P7515-Q057": {
+"subassunto": "A036-05",
+"confianca": 0.62,
+"sim1": 0.18,
+"vizinho": 106079,
+"baixa": true
+},
 "P7515-Q058": {
 "subassunto": "A061-01",
 "confianca": 0.13,
@@ -2020,6 +2153,13 @@
 "confianca": 0.49,
 "sim1": 0.25,
 "vizinho": 119946,
+"baixa": true
+},
+"P7515-Q060": {
+"subassunto": "A032-05",
+"confianca": 0.42,
+"sim1": 0.11,
+"vizinho": 104624,
 "baixa": true
 },
 "P7515-Q061": {
@@ -2043,11 +2183,74 @@
 "vizinho": 112462,
 "baixa": true
 },
+"P7517-Q004": {
+"subassunto": "A066-03",
+"confianca": 0.85,
+"sim1": 0.2,
+"vizinho": 117966,
+"baixa": true
+},
+"P7517-Q022": {
+"subassunto": "A044-01",
+"confianca": 0.65,
+"sim1": 0.17,
+"vizinho": 109650,
+"baixa": true
+},
+"P7517-Q023": {
+"subassunto": "A063-01",
+"confianca": 0.18,
+"sim1": 0.13,
+"vizinho": 115869,
+"baixa": true
+},
+"P7517-Q026": {
+"subassunto": "A021-03",
+"confianca": 0.44,
+"sim1": 0.2,
+"vizinho": 101038,
+"baixa": true
+},
+"P7517-Q033": {
+"subassunto": "A053-01",
+"confianca": 0.2,
+"sim1": 0.06,
+"vizinho": 106125,
+"baixa": true
+},
+"P7517-Q042": {
+"subassunto": "A006-09",
+"confianca": 0.44,
+"sim1": 0.15,
+"vizinho": 115073,
+"baixa": true
+},
+"P7517-Q048": {
+"subassunto": "A085-01",
+"confianca": 0.21,
+"sim1": 0.1,
+"vizinho": 121356,
+"baixa": true
+},
 "P7517-Q050": {
 "subassunto": "A040-02",
 "confianca": 0.33,
 "sim1": 0.13,
 "vizinho": 115711,
+"baixa": true
+},
+"P7517-Q055": {
+"subassunto": "A001-02",
+"confianca": 0.69,
+"sim1": 0.26,
+"vizinho": 102686,
+"baixa": false
+},
+"P7517-Q061": {
+"subassunto": "A007-04",
+"confianca": 0.22,
+"sim1": 0.12,
+"vizinho": 118104,
 "baixa": true
 },
 "P7519-Q001": {
@@ -2097,6 +2300,13 @@
 "confianca": 0.36,
 "sim1": 0.18,
 "vizinho": 113309,
+"baixa": true
+},
+"P7519-Q008": {
+"subassunto": "A096-04",
+"confianca": 0.65,
+"sim1": 0.11,
+"vizinho": 105844,
 "baixa": true
 },
 "P7519-Q009": {
@@ -2162,6 +2372,13 @@
 "vizinho": 100086,
 "baixa": true
 },
+"P7519-Q018": {
+"subassunto": "A011-01",
+"confianca": 0.4,
+"sim1": 0.09,
+"vizinho": 3225,
+"baixa": true
+},
 "P7519-Q019": {
 "subassunto": "A011-02",
 "confianca": 0.26,
@@ -2188,6 +2405,13 @@
 "confianca": 0.61,
 "sim1": 0.15,
 "vizinho": 109319,
+"baixa": true
+},
+"P7519-Q024": {
+"subassunto": "A054-05",
+"confianca": 0.52,
+"sim1": 0.13,
+"vizinho": 107281,
 "baixa": true
 },
 "P7519-Q025": {
@@ -2295,6 +2519,13 @@
 "vizinho": 104078,
 "baixa": true
 },
+"P7519-Q040": {
+"subassunto": "A061-05",
+"confianca": 0.18,
+"sim1": 0.11,
+"vizinho": 105337,
+"baixa": true
+},
 "P7519-Q041": {
 "subassunto": "A047-07",
 "confianca": 0.2,
@@ -2316,6 +2547,13 @@
 "vizinho": 105828,
 "baixa": true
 },
+"P7519-Q044": {
+"subassunto": "A038-01",
+"confianca": 0.19,
+"sim1": 0.12,
+"vizinho": 2601,
+"baixa": true
+},
 "P7519-Q045": {
 "subassunto": "A036-03",
 "confianca": 0.47,
@@ -2330,6 +2568,13 @@
 "vizinho": 100550,
 "baixa": true
 },
+"P7519-Q047": {
+"subassunto": "A001-03",
+"confianca": 0.12,
+"sim1": 0.17,
+"vizinho": 116163,
+"baixa": true
+},
 "P7519-Q048": {
 "subassunto": "A012-03",
 "confianca": 0.2,
@@ -2337,11 +2582,25 @@
 "vizinho": 170364,
 "baixa": true
 },
+"P7519-Q049": {
+"subassunto": "A025-04",
+"confianca": 0.34,
+"sim1": 0.21,
+"vizinho": 111550,
+"baixa": true
+},
 "P7519-Q050": {
 "subassunto": "A025-04",
 "confianca": 0.31,
 "sim1": 0.18,
 "vizinho": 103810,
+"baixa": true
+},
+"P7519-Q051": {
+"subassunto": "A015-03",
+"confianca": 0.21,
+"sim1": 0.2,
+"vizinho": 108190,
 "baixa": true
 },
 "P7519-Q052": {
@@ -2442,6 +2701,13 @@
 "vizinho": 8045,
 "baixa": true
 },
+"P7521-Q007": {
+"subassunto": "A047-07",
+"confianca": 0.21,
+"sim1": 0.15,
+"vizinho": 160183,
+"baixa": true
+},
 "P7521-Q008": {
 "subassunto": "A011-01",
 "confianca": 0.15,
@@ -2505,6 +2771,34 @@
 "vizinho": 103550,
 "baixa": false
 },
+"P7521-Q017": {
+"subassunto": "A067-01",
+"confianca": 0.5,
+"sim1": 0.08,
+"vizinho": 106750,
+"baixa": true
+},
+"P7521-Q018": {
+"subassunto": "A057-04",
+"confianca": 0.61,
+"sim1": 0.15,
+"vizinho": 114929,
+"baixa": true
+},
+"P7521-Q020": {
+"subassunto": "A052-02",
+"confianca": 0.44,
+"sim1": 0.13,
+"vizinho": 115926,
+"baixa": true
+},
+"P7521-Q022": {
+"subassunto": "A054-07",
+"confianca": 0.52,
+"sim1": 0.15,
+"vizinho": 120348,
+"baixa": true
+},
 "P7521-Q023": {
 "subassunto": "A041-02",
 "confianca": 0.52,
@@ -2517,6 +2811,13 @@
 "confianca": 0.29,
 "sim1": 0.18,
 "vizinho": 170397,
+"baixa": true
+},
+"P7521-Q025": {
+"subassunto": "A004-02",
+"confianca": 0.22,
+"sim1": 0.12,
+"vizinho": 100484,
 "baixa": true
 },
 "P7521-Q026": {
@@ -2575,6 +2876,13 @@
 "vizinho": 116391,
 "baixa": true
 },
+"P7521-Q034": {
+"subassunto": "A011-01",
+"confianca": 0.43,
+"sim1": 0.15,
+"vizinho": 115164,
+"baixa": true
+},
 "P7521-Q035": {
 "subassunto": "A065-01",
 "confianca": 0.47,
@@ -2587,6 +2895,13 @@
 "confianca": 0.34,
 "sim1": 0.12,
 "vizinho": 113329,
+"baixa": true
+},
+"P7521-Q037": {
+"subassunto": "A002-02",
+"confianca": 0.31,
+"sim1": 0.13,
+"vizinho": 117661,
 "baixa": true
 },
 "P7521-Q038": {
@@ -2680,11 +2995,32 @@
 "vizinho": 170470,
 "baixa": true
 },
+"P7521-Q051": {
+"subassunto": "A064-01",
+"confianca": 0.12,
+"sim1": 0.14,
+"vizinho": 121264,
+"baixa": true
+},
 "P7521-Q052": {
 "subassunto": "A096-04",
 "confianca": 0.0,
 "sim1": 0.0,
 "vizinho": 103715,
+"baixa": true
+},
+"P7521-Q054": {
+"subassunto": "A042-01",
+"confianca": 0.22,
+"sim1": 0.11,
+"vizinho": 5337,
+"baixa": true
+},
+"P7521-Q055": {
+"subassunto": "A037-04",
+"confianca": 0.31,
+"sim1": 0.09,
+"vizinho": 116391,
 "baixa": true
 },
 "P7521-Q056": {
@@ -2785,6 +3121,20 @@
 "vizinho": 114182,
 "baixa": true
 },
+"P7523-Q007": {
+"subassunto": "A062-03",
+"confianca": 0.77,
+"sim1": 0.24,
+"vizinho": 118432,
+"baixa": true
+},
+"P7523-Q008": {
+"subassunto": "A062-03",
+"confianca": 0.58,
+"sim1": 0.28,
+"vizinho": 118432,
+"baixa": false
+},
 "P7523-Q009": {
 "subassunto": "A047-07",
 "confianca": 0.43,
@@ -2848,6 +3198,13 @@
 "vizinho": 100062,
 "baixa": false
 },
+"P7523-Q024": {
+"subassunto": "A021-03",
+"confianca": 0.54,
+"sim1": 0.18,
+"vizinho": 114403,
+"baixa": true
+},
 "P7523-Q030": {
 "subassunto": "A012-03",
 "confianca": 0.6,
@@ -2897,6 +3254,34 @@
 "vizinho": 118142,
 "baixa": true
 },
+"P7523-Q039": {
+"subassunto": "A057-04",
+"confianca": 0.62,
+"sim1": 0.1,
+"vizinho": 107948,
+"baixa": true
+},
+"P7523-Q040": {
+"subassunto": "A061-04",
+"confianca": 0.12,
+"sim1": 0.1,
+"vizinho": 115631,
+"baixa": true
+},
+"P7523-Q043": {
+"subassunto": "A033-06",
+"confianca": 0.14,
+"sim1": 0.15,
+"vizinho": 116648,
+"baixa": true
+},
+"P7523-Q045": {
+"subassunto": "A012-03",
+"confianca": 0.22,
+"sim1": 0.11,
+"vizinho": 103187,
+"baixa": true
+},
 "P7523-Q047": {
 "subassunto": "A050-03",
 "confianca": 0.63,
@@ -2923,6 +3308,27 @@
 "confianca": 0.39,
 "sim1": 0.13,
 "vizinho": 118500,
+"baixa": true
+},
+"P7523-Q058": {
+"subassunto": "A096-04",
+"confianca": 0.21,
+"sim1": 0.06,
+"vizinho": 150144,
+"baixa": true
+},
+"P7523-Q059": {
+"subassunto": "A051-02",
+"confianca": 0.2,
+"sim1": 0.09,
+"vizinho": 107365,
+"baixa": true
+},
+"P7523-Q063": {
+"subassunto": "A001-05",
+"confianca": 0.21,
+"sim1": 0.12,
+"vizinho": 170041,
 "baixa": true
 }
 }

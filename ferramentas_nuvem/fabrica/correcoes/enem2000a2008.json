@@ -311,7 +311,9 @@
   "P7521-Q021": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)",
   "P7521-Q053": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)",
   "P7523-Q041": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)",
-  "P7523-Q057": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)"
+  "P7523-Q057": "o extrator não achou o cabeçalho desta questão no PDF; o formato de correção do mutirão não cria questão inteira do zero (só corrige as já extraídas). Fica fora até o extrator ser ajustado (o gabarito oficial traz a questão)",
+  "P7519-Q060": "página 19 (ENEM 2006): enunciado, alternativas e figuras das questões 60 a 63 estão embaralhados pelas duas colunas e a letra/ordem das alternativas não pôde ser refeita com certeza só lendo o recorte; fica fora (o extrator precisa tratar colunas)",
+  "P7519-Q061": "página 19 (ENEM 2006): enunciado e alternativas estão embaralhados com os textos de outras questões (polias, uvas, eclusa); fica fora até o extrator tratar colunas"
  },
  "P7511-Q020": {
   "motivo": "recorte: as alternativas são cinco quadros de Picasso (figura 2 já extraída, com legendas); transcritos os títulos das legendas (A–E)",
@@ -1288,6 +1290,1342 @@
   ],
   "imagens_extra": [
    "_banco/questoes/ENEM/2008/P7523/img/Q034_img2.png"
+  ]
+ },
+ "P7509-Q050": {
+  "motivo": "tabela conferida célula por célula com o recorte: espessura 2, 4, 6, 10 cm → perda 65, 35, 25, 15 kWh"
+ },
+ "P7509-Q052": {
+  "motivo": "tabela conferida célula por célula com o recorte: regiões e graus de instrução, homens/mulheres (Norte 15,3/23,8 … Mais de 15 anos 11,0/7,3); fonte PNAD/IBGE, 1998"
+ },
+ "P7513-Q057": {
+  "motivo": "tabela conferida célula por célula com o recorte: períodos 1920-1940 a 1991-2000 com 1,90; 2,40; 2,99; 2,89; 2,48; 1,93; 1,64"
+ },
+ "P7515-Q033": {
+  "motivo": "tabela conferida célula por célula com o recorte: tipos de despesa e percentuais das duas faixas de renda (Educação 0,3% e 5%; Outros 17,7% e 40%)"
+ },
+ "P7517-Q004": {
+  "motivo": "tabela conferida célula por célula com o recorte: características dos países X e Y"
+ },
+ "P7517-Q022": {
+  "motivo": "tabela conferida célula por célula com o recorte: quantidade de água por tipo de célula (85, 70, 75, 60, 15, 65, 20%); conferência: (200-80)/200 = 60% = tecido conjuntivo, igual ao gabarito oficial"
+ },
+ "P7517-Q026": {
+  "motivo": "tabela conferida célula por célula com o recorte: potência e tempo de uso diário dos 5 aparelhos; conferência: 19,2 kWh/dia × 30 × R$ 0,40 ≈ R$ 230 (E), igual ao gabarito oficial"
+ },
+ "P7515-Q037": {
+  "motivo": "recorte: notícia 'Correio da Cidade' estava embaralhada (colunas misturadas e fórmula falsa); refeita com a tabela de população conferida (1995 11.965 … 2003 27.990). Conferência: 6.000.000 / 150 = 40.000 habitantes; (40.000 − 27.990) / 2.000 = 6 anos → 2009 (E), igual ao gabarito oficial",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "O jornal de uma pequena cidade publicou a seguinte notícia:\n\n**CORREIO DA CIDADE**\n\n**ABASTECIMENTO COMPROMETIDO**\n\nO novo pólo agroindustrial em nossa cidade tem atraído um enorme e constante fluxo migratório, resultando em um aumento da população em torno de <u>2000 habitantes por ano</u>, conforme dados do nosso censo:\n\n| Ano | População |\n|---|---|\n| 1995 | 11.965 |\n| 1997 | 15.970 |\n| 1999 | 19.985 |\n| 2001 | 23.980 |\n| 2003 | 27.990 |\n\nEsse crescimento tem ameaçado nosso fornecimento de água, pois os mananciais que abastecem a cidade têm capacidade para fornecer até <u>6 milhões de litros de água por dia</u>. A prefeitura, preocupada com essa situação, vai iniciar uma campanha visando estabelecer um consumo médio de <u>150 litros por dia, por habitante</u>.\n\nA análise da notícia permite concluir que a medida é oportuna. Mantido esse fluxo migratório e bem sucedida a campanha, os mananciais serão suficientes para abastecer a cidade até o final de"
+   ]
+  ]
+ },
+ "P7517-Q042": {
+  "motivo": "recorte da página 16: o 'padrão' de pastilhas brancas e pretas é um desenho (grade), que o extrator transformou numa tabela vazia; recortado à mão (Q042_manual_1.png) e enunciado conferido",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "Um pátio de grandes dimensões vai ser revestido por pastilhas quadradas brancas e pretas, segundo o padrão representado abaixo, que vai ser repetido em toda a extensão do pátio.\n\n{{imgx:1}}\n\nAs pastilhas de cor branca custam R$ 8,00 por metro quadrado e as de cor preta, R$ 10,00. O custo por metro quadrado do revestimento será de"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2005/P7517/img/Q042_manual_1.png"
+  ]
+ },
+ "P7521-Q037": {
+  "motivo": "recorte da página 13: as 6 etapas do azeite (figura) e as 5 alternativas A–E são desenhos; recortados à mão (Q037_manual_1.png e Q037_altA–E.png) no lugar da 'tabela' automática",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "A diversidade de formas geométricas espaciais criadas pelo homem, ao mesmo tempo em que traz benefícios, causa dificuldades em algumas situações. Suponha, por exemplo, que um cozinheiro precise utilizar exatamente 100 mL de azeite de uma lata que contenha 1.200 mL e queira guardar o restante do azeite em duas garrafas, com capacidade para 500 mL e 800 mL cada, deixando cheia a garrafa maior. Considere que ele não disponha de instrumento de medida e decida resolver o problema utilizando apenas a lata e as duas garrafas. As etapas do procedimento utilizado por ele estão ilustradas nas figuras a seguir, tendo sido omitida a 5.<sup>a</sup> etapa.\n\n{{imgx:1}}\n\nQual das situações ilustradas a seguir corresponde à 5.<sup>a</sup> etapa do procedimento?"
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "{{imgx:2}}"
+   ],
+   [
+    "B",
+    "{{imgx:3}}"
+   ],
+   [
+    "C",
+    "{{imgx:4}}"
+   ],
+   [
+    "D",
+    "{{imgx:5}}"
+   ],
+   [
+    "E",
+    "{{imgx:6}}"
+   ]
+  ],
+  "remove_imagens": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2007/P7521/img/Q037_manual_1.png",
+   "_banco/questoes/ENEM/2007/P7521/img/Q037_altA.png",
+   "_banco/questoes/ENEM/2007/P7521/img/Q037_altB.png",
+   "_banco/questoes/ENEM/2007/P7521/img/Q037_altC.png",
+   "_banco/questoes/ENEM/2007/P7521/img/Q037_altD.png",
+   "_banco/questoes/ENEM/2007/P7521/img/Q037_altE.png"
+  ]
+ },
+ "P7519-Q021": {
+  "motivo": "recorte da página 9: texto das duas colunas estava misturado (migrações da OCDE × texto das questões 23 e 24); refeito: enunciado, fonte e mapa (imagem 2); o título decorativo (imagem 1) e o gráfico das questões 23/24 (imagem 3) saem; 'Internet: <www.ibge.gov.br>.' colado na alternativa E é fonte do gráfico da questão 23",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "O relatório anual (2002) da Organização para a Cooperação e Desenvolvimento Econômico (OCDE) revela transformações na origem dos fluxos migratórios. Observa-se aumento das migrações de chineses, filipinos, russos e ucranianos com destino aos países-membros da OCDE. Também foi registrado aumento de fluxos migratórios provenientes da América Latina.\n\n{{fonte:1}}\n\nNo mapa seguinte, estão destacados, com a cor preta, os países que mais receberam esses fluxos migratórios em 2002.\n\n{{img:2}}\n\nAs migrações citadas estão relacionadas, principalmente, à"
+   ]
+  ],
+  "alt_sub": {
+   "E": [
+    "\\s*Internet: <www\\.ibge\\.gov\\.br>\\.\\s*$",
+    ""
+   ]
+  },
+  "remove_imagens": [
+   1,
+   3
+  ],
+  "fontes": [
+   "Trends in international migration — 2002. Internet: <www.ocde.org> (com adaptações)."
+  ]
+ },
+ "P7519-Q023": {
+  "motivo": "recorte da página 9: enunciado estava misturado com o da questão 22 (mapas da Europa, imagem 1, que saem); refeito com o texto-base das questões 23 e 24 e o gráfico (recortado da imagem 3 da questão 21)",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "**Texto para as questões 23 e 24**\n\nNos últimos anos, ocorreu redução gradativa da taxa de crescimento populacional em quase todos os continentes. A seguir, são apresentados dados relativos aos países mais populosos em 2000 e também as projeções para 2050.\n\n{{imgx:1}}\n\nInternet: <www.ibge.gov.br>.\n\nCom base nas informações acima, é correto afirmar que, no período de 2000 a 2050,"
+   ]
+  ],
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*Essas significativas mudanças.*$",
+    ""
+   ]
+  },
+  "remove_imagens": [
+   1
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2006/P7519/img/Q021_img3.png"
+  ]
+ },
+ "P7519-Q024": {
+  "motivo": "recorte da página 9: enunciado e alternativas estavam misturados com os da questão 22; refeitos (alternativas: inferior a 2,0.; superior a 2,0 e inferior a 2,1.; … superior a 2,3.). Conferência: Índia 1,008 → 1,572 bilhão (×1,56); 1,572 × 1,56 ≈ 2,45, maior que 2,3 (E, igual ao gabarito oficial)",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "**Texto para as questões 23 e 24**\n\nNos últimos anos, ocorreu redução gradativa da taxa de crescimento populacional em quase todos os continentes. A seguir, são apresentados dados relativos aos países mais populosos em 2000 e também as projeções para 2050.\n\n{{imgx:1}}\n\nInternet: <www.ibge.gov.br>.\n\nCom base nas informações dos gráficos mostrados, suponha que, no período 2050-2100, a taxa de crescimento populacional da Índia seja a mesma projetada para o período 2000-2050. Sendo assim, no início do século XXII, a população da Índia, em bilhões de habitantes, será"
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "inferior a 2,0."
+   ],
+   [
+    "B",
+    "superior a 2,0 e inferior a 2,1."
+   ],
+   [
+    "C",
+    "superior a 2,1 e inferior a 2,2."
+   ],
+   [
+    "D",
+    "superior a 2,2 e inferior a 2,3."
+   ],
+   [
+    "E",
+    "superior a 2,3."
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2006/P7519/img/Q021_img3.png"
+  ]
+ },
+ "P7507-Q059": {
+  "motivo": "recorte da página 13: as linhas das duas colunas (história em quadrinhos × Van Gogh) estavam misturadas; refeito na ordem da página (texto, tirinha, fonte, texto sobre Van Gogh, quadro)",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "As histórias em quadrinhos, por vezes, utilizam animais como personagens e a eles atribuem comportamento humano. O gato Garfield é exemplo desse fato.\n\n{{img:1}}\n\nFonte: Caderno Vida e Arte, *Jornal do Povo,* Fortaleza\n\nVan Gogh, pintor holandês nascido em 1853, é um dos principais nomes da pintura mundial. É dele o quadro abaixo.\n\n{{img:2}}\n\nO 3º quadrinho sugere que Garfield:"
+   ]
+  ]
+ },
+ "P7515-Q050": {
+  "motivo": "fórmulas H₂SO₄ e CaCO₃ estavam com os índices soltos (2 4 / 3 em linhas separadas); refeitas com subscritos; texto conferido",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "Em setembro de 1998, cerca de 10.000 toneladas de ácido sulfúrico (H<sub>2</sub>SO<sub>4</sub>) foram derramadas pelo navio Bahamas no litoral do Rio Grande do Sul. Para minimizar o impacto ambiental de um desastre desse tipo, é preciso neutralizar a acidez resultante. Para isso pode-se, por exemplo, lançar calcário, minério rico em carbonato de cálcio (CaCO<sub>3</sub>), na região atingida.\n\nA equação química que representa a neutralização do H<sub>2</sub>SO<sub>4</sub> por CaCO<sub>3</sub>, com a proporção aproximada entre as massas dessas substâncias é:\n\n{{img:1}}\n\nPode-se avaliar o esforço de mobilização que deveria ser empreendido para enfrentar tal situação, estimando a quantidade de caminhões necessária para carregar o material neutralizante. Para transportar certo calcário que tem 80% de CaCO<sub>3</sub>, esse número de caminhões, cada um com carga de 30 toneladas, seria próximo de"
+   ]
+  ]
+ },
+ "P7513-Q046": {
+  "motivo": "recorte: as alternativas são as linhas de uma tabela (Vida no Planeta × Escrita): A milhares/centenas, B milhões/centenas, C milhões/milhares, D bilhões/milhões, E bilhões/milhares",
+  "alternativas_lista": [
+   [
+    "A",
+    "Vida no Planeta: milhares de anos; Escrita: centenas de anos"
+   ],
+   [
+    "B",
+    "Vida no Planeta: milhões de anos; Escrita: centenas de anos"
+   ],
+   [
+    "C",
+    "Vida no Planeta: milhões de anos; Escrita: milhares de anos"
+   ],
+   [
+    "D",
+    "Vida no Planeta: bilhões de anos; Escrita: milhões de anos"
+   ],
+   [
+    "E",
+    "Vida no Planeta: bilhões de anos; Escrita: milhares de anos"
+   ]
+  ]
+ },
+ "P7515-Q023": {
+  "motivo": "recorte da página 10: as 5 alternativas são imagens A–E (A img 2, B img 3, C img 1, D img 5, E img 4, pela posição na página); estavam duas dentro do enunciado e duas vazias",
+  "statement_sub": [
+   [
+    "\\n\\n\\{\\{img:1\\}\\}\\n\\n\\{\\{img:3\\}\\}",
+    ""
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "{{img:2}}"
+   ],
+   [
+    "B",
+    "{{img:3}}"
+   ],
+   [
+    "C",
+    "{{img:1}}"
+   ],
+   [
+    "D",
+    "{{img:5}}"
+   ],
+   [
+    "E",
+    "{{img:4}}"
+   ]
+  ]
+ },
+ "P7517-Q033": {
+  "motivo": "recorte da página 13: as alternativas são citações com destaque (A Renato Teixeira; B Maria N. S. Carvalho; C Maria T. Camargo Biderman; D tirinha 'O menino maluquinho', O Globo; E Leon Eliachar) e estavam embaralhadas; refeitas com as fontes ao lado de cada uma",
+  "statement_sub": [
+   [
+    "(?s)\\n\\n\\{\\{fonte:1\\}\\}.*$",
+    ""
+   ]
+  ],
+  "fontes": [],
+  "alternativas_lista": [
+   [
+    "A",
+    "“(....)  \nÉ de laço e de nó  \nDe gibeira o jiló  \nDessa vida, <u>**cumprida a sol**</u> (....)”  \n(Renato Teixeira. *Romaria*. Kuarup Discos. setembro de 1992.)"
+   ],
+   [
+    "B",
+    "“Protegendo os inocentes é que Deus, sábio demais, põe <u>**cenários**</u> diferentes nas impressões digitais.”  \n(Maria N. S. Carvalho. *Evangelho da Trova*. /s.n.b.)"
+   ],
+   [
+    "C",
+    "“O <u>**dicionário-padrão**</u> da língua e os dicionários unilíngües são os tipos mais comuns de dicionários. Em nossos dias, eles se tornaram um objeto de consumo obrigatório para as nações civilizadas e desenvolvidas.”  \n(Maria T. Camargo Biderman. *O dicionário-padrão da língua*. Alfa (28), 2743, 1974 Supl.)"
+   ],
+   [
+    "D",
+    "{{img:1}}  \n(*O Globo*. O menino maluquinho. agosto de 2002.)"
+   ],
+   [
+    "E",
+    "“Humorismo é a arte de <u>**fazer cócegas no raciocínio**</u> dos outros. Há duas espécies de humorismo: o trágico e o cômico. O trágico é o que não consegue fazer rir; o cômico é o que é verdadeiramente trágico para se fazer.”  \n(Leon Eliachar. www.mercadolivre.com.br. acessado em julho de 2005.)"
+   ]
+  ]
+ },
+ "P7517-Q048": {
+  "motivo": "recorte da página 18: as alternativas são as linhas de uma tabela X, Y, Z (A: lixo, esgotamento sanitário, emissão de gases; B: despejo industrial, lixo, emissão de gases; C: lixo, esgotamento sanitário, despejo industrial; D: emissão de gases, despejo industrial, esgotamento sanitário; E: despejo industrial, lixo, esgotamento sanitário)",
+  "alternativas_lista": [
+   [
+    "A",
+    "X: manejamento de lixo; Y: esgotamento sanitário; Z: controle emissão de gases"
+   ],
+   [
+    "B",
+    "X: controle de despejo industrial; Y: manejamento de lixo; Z: controle emissão de gases"
+   ],
+   [
+    "C",
+    "X: manejamento de lixo; Y: esgotamento sanitário; Z: controle de despejo industrial"
+   ],
+   [
+    "D",
+    "X: controle emissão de gases; Y: controle de despejo industrial; Z: esgotamento sanitário"
+   ],
+   [
+    "E",
+    "X: controle de despejo industrial; Y: manejamento de lixo; Z: esgotamento sanitário"
+   ]
+  ]
+ },
+ "P7517-Q061": {
+  "motivo": "recorte da página 23: as alternativas são expressões de volume (V₁ = V₂ = V₃; V₁ < V₃ < V₂; V₁ = V₃ < V₂; V₃ < V₁ < V₂; V₁ < V₂ = V₃) e as letras estavam separadas do texto",
+  "statement_sub": [
+   [
+    "(?s)\\n\\nV<sub>1</sub> = V<sub>2</sub> = V<sub>3</sub>.*$",
+    ""
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "V<sub>1</sub> = V<sub>2</sub> = V<sub>3</sub>"
+   ],
+   [
+    "B",
+    "V<sub>1</sub> < V<sub>3</sub> < V<sub>2</sub>"
+   ],
+   [
+    "C",
+    "V<sub>1</sub> = V<sub>3</sub> < V<sub>2</sub>"
+   ],
+   [
+    "D",
+    "V<sub>3</sub> < V<sub>1</sub> < V<sub>2</sub>"
+   ],
+   [
+    "E",
+    "V<sub>1</sub> < V<sub>2</sub> = V<sub>3</sub>"
+   ]
+  ]
+ },
+ "P7519-Q047": {
+  "motivo": "recorte da página 15: as alternativas estavam numa linha só (A I.; B II.; C III.; D I e II.; E II e III.); a figura 'Dieta de engorda', que estava em dois pedaços, foi recortada inteira à mão (Q047_manual_1.png); frases das afirmações juntadas sem quebra no meio",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "{{imgx:1}}\n\nA partir desses dados, foram feitas as afirmações abaixo.\n\nI As famílias brasileiras, em 30 anos, aumentaram muito o consumo de proteínas e grãos, que, por seu alto valor calórico, não são recomendáveis.\n\nII O aumento do consumo de alimentos muito calóricos deve ser considerado indicador de alerta para a saúde, já que a obesidade pode reduzir a expectativa de vida humana.\n\nIII Doenças cardiovasculares podem ser desencadeadas pela obesidade decorrente das novas dietas alimentares.\n\nÉ correto apenas o que se afirma em"
+   ]
+  ],
+  "remove_imagens": [
+   1,
+   2
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2006/P7519/img/Q047_manual_1.png"
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "I."
+   ],
+   [
+    "B",
+    "II."
+   ],
+   [
+    "C",
+    "III."
+   ],
+   [
+    "D",
+    "I e II."
+   ],
+   [
+    "E",
+    "II e III."
+   ]
+  ]
+ },
+ "P7519-Q049": {
+  "motivo": "recorte: as 5 alternativas estavam numa linha só: A 0,10%. B 0,15%. C 0,20%. D 1,5%. E 2,0%. (1,5 kg / 1.000 kg = 0,15% = B, igual ao gabarito oficial)",
+  "alternativas_lista": [
+   [
+    "A",
+    "0,10%."
+   ],
+   [
+    "B",
+    "0,15%."
+   ],
+   [
+    "C",
+    "0,20%."
+   ],
+   [
+    "D",
+    "1,5%."
+   ],
+   [
+    "E",
+    "2,0%."
+   ]
+  ]
+ },
+ "P7519-Q051": {
+  "motivo": "recorte das páginas 16–17: alternativas estavam numa linha só (A I.; B II.; C III.; D I e III.; E II e III.); o texto-base das questões 52 e 53 (carneiro hidráulico), a fórmula e a figura (imagem 2) colados na alternativa E saem; afirmativas juntadas. Conferência: Itaipu 93/12,6 = 7,4 > 84/18,2 = 4,6 (II) e 12.600/1.400 = 9 < 18.200/1.000 = 18,2 (III): II e III (E, igual ao gabarito oficial)",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "Na avaliação da eficiência de usinas quanto à produção e aos impactos ambientais, utilizam-se vários critérios, tais como: razão entre produção efetiva anual de energia elétrica e potência instalada ou razão entre potência instalada e área inundada pelo reservatório. No quadro seguinte, esses parâmetros são aplicados às duas maiores hidrelétricas do mundo: Itaipu, no Brasil, e Três Gargantas, na China.\n\n{{img:1}}\n\nInternet: <www.itaipu.gov.br>.\n\nCom base nessas informações, avalie as afirmativas que se seguem.\n\nI A energia elétrica gerada anualmente e a capacidade nominal máxima de geração da hidrelétrica de Itaipu são maiores que as da hidrelétrica de Três Gargantas.\n\nII Itaipu é mais eficiente que Três Gargantas no uso da potência instalada na produção de energia elétrica.\n\nIII A razão entre potência instalada e área inundada pelo reservatório é mais favorável na hidrelétrica Três Gargantas do que em Itaipu.\n\nÉ correto apenas o que se afirma em"
+   ]
+  ],
+  "remove_imagens": [
+   2
+  ],
+  "apos_alternativas": "",
+  "alternativas_lista": [
+   [
+    "A",
+    "I."
+   ],
+   [
+    "B",
+    "II."
+   ],
+   [
+    "C",
+    "III."
+   ],
+   [
+    "D",
+    "I e III."
+   ],
+   [
+    "E",
+    "II e III."
+   ]
+  ]
+ },
+ "P7519-Q052": {
+  "motivo": "o texto-base do carneiro hidráulico, a figura (imagem 2 da questão 51) e a tabela h/H × Vf × Vb (lida no recorte da página 17: 1/3 → 180 a 300; 1/4 → 120 a 210; 1/6 → 80 a 140; 1/8 → 60 a 105; 1/10 → 45 a 85; Vf 720 a 1.200) estavam colados na alternativa E da questão 51 / faltavam",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Texto para as questões 52 e 53**\n\nO carneiro hidráulico ou aríete, dispositivo usado para bombear água, não requer combustível ou energia elétrica para funcionar, visto que usa a energia da vazão de água de uma fonte. A figura a seguir ilustra uma instalação típica de carneiro em um sítio, e a tabela apresenta dados de seu funcionamento.\n\n{{imgx:1}}\n\n| h/H (altura da fonte dividida pela altura da caixa) | V<sub>f</sub> (água da fonte necessária para o funcionamento do sistema, em litros/hora) | V<sub>b</sub> (água bombeada para a caixa, em litros/hora) |\n|---|---|---|\n| 1/3 | 720 a 1.200 | 180 a 300 |\n| 1/4 | 720 a 1.200 | 120 a 210 |\n| 1/6 | 720 a 1.200 | 80 a 140 |\n| 1/8 | 720 a 1.200 | 60 a 105 |\n| 1/10 | 720 a 1.200 | 45 a 85 |\n\nA eficiência energética ε de um carneiro pode ser obtida pela expressão:\n\nε = \\(\\frac{H}{h}\\) × \\(\\frac{V_{b}}{V_{f}}\\),\n\ncujas variáveis estão definidas na tabela e na figura.\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2006/P7519/img/Q051_img2.png"
+  ]
+ },
+ "P7519-Q053": {
+  "motivo": "o texto-base do carneiro hidráulico, a figura (imagem 2 da questão 51) e a tabela h/H × Vf × Vb (lida no recorte da página 17: 1/3 → 180 a 300; 1/4 → 120 a 210; 1/6 → 80 a 140; 1/8 → 60 a 105; 1/10 → 45 a 85; Vf 720 a 1.200) estavam colados na alternativa E da questão 51 / faltavam",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Texto para as questões 52 e 53**\n\nO carneiro hidráulico ou aríete, dispositivo usado para bombear água, não requer combustível ou energia elétrica para funcionar, visto que usa a energia da vazão de água de uma fonte. A figura a seguir ilustra uma instalação típica de carneiro em um sítio, e a tabela apresenta dados de seu funcionamento.\n\n{{imgx:1}}\n\n| h/H (altura da fonte dividida pela altura da caixa) | V<sub>f</sub> (água da fonte necessária para o funcionamento do sistema, em litros/hora) | V<sub>b</sub> (água bombeada para a caixa, em litros/hora) |\n|---|---|---|\n| 1/3 | 720 a 1.200 | 180 a 300 |\n| 1/4 | 720 a 1.200 | 120 a 210 |\n| 1/6 | 720 a 1.200 | 80 a 140 |\n| 1/8 | 720 a 1.200 | 60 a 105 |\n| 1/10 | 720 a 1.200 | 45 a 85 |\n\nA eficiência energética ε de um carneiro pode ser obtida pela expressão:\n\nε = \\(\\frac{H}{h}\\) × \\(\\frac{V_{b}}{V_{f}}\\),\n\ncujas variáveis estão definidas na tabela e na figura.\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2006/P7519/img/Q051_img2.png"
+  ]
+ },
+ "P7521-Q007": {
+  "motivo": "recorte: as 5 alternativas estavam numa linha só: A 465. B 493. C 498. D 538. E 699. (conferência: 239 em 1983 → 461 em 2007 = 9,25 por ano; 461 + 4 × 9,25 = 498, igual ao gabarito oficial C)",
+  "alternativas_lista": [
+   [
+    "A",
+    "465."
+   ],
+   [
+    "B",
+    "493."
+   ],
+   [
+    "C",
+    "498."
+   ],
+   [
+    "D",
+    "538."
+   ],
+   [
+    "E",
+    "699."
+   ]
+  ]
+ },
+ "P7521-Q051": {
+  "motivo": "recorte da página 17: o enunciado da questão 51 estava misturado com a questão 53 (pintura rupestre, que fica fora) e suas alternativas; refeito (alternativas A–E: menor que 170 milhões; 170 a 210; 210 a 290; 290 a 370; maior que 370 milhões)",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "**Texto para as questões de 49 a 51**\n\nOs gráficos abaixo, extraídos do sítio eletrônico do IBGE, apresentam a distribuição da população brasileira por sexo e faixa etária no ano de 1990 e projeções dessa população para 2010 e 2030.\n\n{{img:1}}\n\nSe forem confirmadas as projeções apresentadas, a população brasileira com até 80 anos de idade será, em 2030,"
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "menor que 170 milhões de habitantes."
+   ],
+   [
+    "B",
+    "maior que 170 milhões e menor que 210 milhões de habitantes."
+   ],
+   [
+    "C",
+    "maior que 210 milhões e menor que 290 milhões de habitantes."
+   ],
+   [
+    "D",
+    "maior que 290 milhões e menor que 370 milhões de habitantes."
+   ],
+   [
+    "E",
+    "maior que 370 milhões de habitantes."
+   ]
+  ]
+ },
+ "P7523-Q024": {
+  "motivo": "recorte: as 5 alternativas estavam numa linha só: A 10%. B 15%. C 25%. D 50%. E 75% (gráfico da lâmpada conferido)",
+  "alternativas_lista": [
+   [
+    "A",
+    "10%."
+   ],
+   [
+    "B",
+    "15%."
+   ],
+   [
+    "C",
+    "25%."
+   ],
+   [
+    "D",
+    "50%."
+   ],
+   [
+    "E",
+    "75%."
+   ]
+  ]
+ },
+ "P7523-Q043": {
+  "motivo": "recorte: as 5 alternativas estavam numa linha só: A I e II.; B I e III.; C II e III.; D II e IV.; E III e IV.; afirmativas juntadas sem quebra no meio da frase",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "Defende-se que a inclusão da carne bovina na dieta é importante, por ser uma excelente fonte de proteínas. Por outro lado, pesquisas apontam efeitos prejudiciais que a carne bovina traz à saúde, como o risco de doenças cardiovasculares. Devido aos teores de colesterol e de gordura, há quem decida substituí-la por outros tipos de carne, como a de frango e a suína. O quadro abaixo apresenta a quantidade de colesterol em diversos tipos de carne crua e cozida.\n\n{{img:1}}\n\n{{fonte:1}}\n\nCom base nessas informações, avalie as afirmativas a seguir.\n\nI O risco de ocorrerem doenças cardiovasculares por ingestões habituais da mesma quantidade de carne é menor se esta for carne branca de frango do que se for toucinho.\n\nII Uma porção de contrafilé cru possui, aproximadamente, 50% de sua massa constituída de colesterol.\n\nIII A retirada da pele de uma porção cozida de carne escura de frango altera a quantidade de colesterol a ser ingerida.\n\nIV A pequena diferença entre os teores de colesterol encontrados no toucinho cru e no cozido indica que esse tipo de alimento é pobre em água.\n\nÉ correto apenas o que se afirma em"
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "I e II."
+   ],
+   [
+    "B",
+    "I e III."
+   ],
+   [
+    "C",
+    "II e III."
+   ],
+   [
+    "D",
+    "II e IV."
+   ],
+   [
+    "E",
+    "III e IV."
+   ]
+  ]
+ },
+ "P7523-Q045": {
+  "motivo": "recorte: as 5 alternativas estavam numa linha só: A 4,00. B 4,10. C 4,15. D 4,25. E 4,50.",
+  "alternativas_lista": [
+   [
+    "A",
+    "4,00."
+   ],
+   [
+    "B",
+    "4,10."
+   ],
+   [
+    "C",
+    "4,15."
+   ],
+   [
+    "D",
+    "4,25."
+   ],
+   [
+    "E",
+    "4,50."
+   ]
+  ]
+ },
+ "P7523-Q007": {
+  "motivo": "recorte: o símbolo desenhado que o PDF não traduz antes de cada projeto é o marcador ► (seta para a direita); texto conferido com o recorte",
+  "statement_sub": [
+   [
+    "\\(cid:377\\) o projeto I ",
+    "► o projeto I "
+   ],
+   [
+    "\\(cid:377\\) o projeto II ",
+    "► o projeto II "
+   ],
+   [
+    "\\(cid:377\\) o projeto III ",
+    "► o projeto III "
+   ]
+  ]
+ },
+ "P7517-Q055": {
+  "motivo": "recorte: os símbolos ▪ (marcadores) e o texto conferem com a página; conferência: 5×1 + (8×2=16, +1 = 17) + 6×1 + 4×2 + 2×1 = 38, resto 8 (E, igual ao gabarito oficial)"
+ },
+ "P7519-Q044": {
+  "motivo": "recorte da página: as alternativas são as linhas de uma tabela (finalidade × vantagem ambiental): A eliminar os besouros / reduzir as espécies que se alimentam da cana-de-açúcar; B afastar os predadores da plantação / reduzir a necessidade de uso de agrotóxicos; C exterminar os besouros / eliminar o uso de agrotóxicos; D dispersar os besouros / evitar a incidência de novas pragas; E afastar os predadores da plantação / aumentar a resistência dos canaviais",
+  "statement_sub": [
+   [
+    "(?s)\\n\\nfinalidade\\s+\\nvantagem ambiental.*$",
+    ""
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "Finalidade: eliminar os besouros; vantagem ambiental: reduzir as espécies que se alimentam da cana-de-açúcar"
+   ],
+   [
+    "B",
+    "Finalidade: afastar os predadores da plantação; vantagem ambiental: reduzir a necessidade de uso de agrotóxicos"
+   ],
+   [
+    "C",
+    "Finalidade: exterminar os besouros; vantagem ambiental: eliminar o uso de agrotóxicos"
+   ],
+   [
+    "D",
+    "Finalidade: dispersar os besouros; vantagem ambiental: evitar a incidência de novas pragas"
+   ],
+   [
+    "E",
+    "Finalidade: afastar os predadores da plantação; vantagem ambiental: aumentar a resistência dos canaviais"
+   ]
+  ]
+ },
+ "P7521-Q054": {
+  "motivo": "recorte da página 17: enunciado e alternativas estavam embaralhados com a questão 52/53; refeitos conforme a página (a imagem 1 não é desta questão)",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "Fenômenos biológicos podem ocorrer em diferentes escalas de tempo. Assinale a opção que ordena exemplos de fenômenos biológicos, do mais lento para o mais rápido."
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "germinação de uma semente, crescimento de uma árvore, fossilização de uma samambaia"
+   ],
+   [
+    "B",
+    "fossilização de uma samambaia, crescimento de uma árvore, germinação de uma semente"
+   ],
+   [
+    "C",
+    "crescimento de uma árvore, germinação de uma semente, fossilização de uma samambaia"
+   ],
+   [
+    "D",
+    "fossilização de uma samambaia, germinação de uma semente, crescimento de uma árvore"
+   ],
+   [
+    "E",
+    "germinação de uma semente, fossilização de uma samambaia, crescimento de uma árvore"
+   ]
+  ]
+ },
+ "P7521-Q055": {
+  "motivo": "recorte da página 17: enunciado e alternativas estavam embaralhados com a questão 52; refeitos conforme a página",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "As mudanças evolutivas dos organismos resultam de alguns processos comuns à maioria dos seres vivos. É um processo evolutivo comum a plantas e animais vertebrados:"
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "movimento de indivíduos ou de material genético entre populações, o que reduz a diversidade de genes e cromossomos."
+   ],
+   [
+    "B",
+    "sobrevivência de indivíduos portadores de determinadas características genéticas em ambientes específicos."
+   ],
+   [
+    "C",
+    "aparecimento, por geração espontânea, de novos indivíduos adaptados ao ambiente."
+   ],
+   [
+    "D",
+    "aquisição de características genéticas transmitidas aos descendentes em resposta a mudanças ambientais."
+   ],
+   [
+    "E",
+    "recombinação de genes presentes em cromossomos do mesmo tipo durante a fase da esporulação."
+   ]
+  ]
+ },
+ "P7521-Q017": {
+  "motivo": "recorte da página 8: texto de Paul Singer e alternativas A–E estavam misturados com o texto de Oswald de Andrade (que é da questão 19, fora); refeito conforme a página; a imagem 1 (pintura de Rocco, da questão 19) sai",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "Após a Independência, integramo-nos como exportadores de produtos primários à divisão internacional do trabalho, estruturada ao redor da Grã-Bretanha. O Brasil especializou-se na produção, com braço escravo importado da África, de plantas tropicais para a Europa e a América do Norte. Isso atrasou o desenvolvimento de nossa economia por pelo menos uns oitenta anos. Éramos um país essencialmente agrícola e tecnicamente atrasado por depender de produtores cativos. Não se poderia confiar a trabalhadores forçados outros instrumentos de produção que os mais toscos e baratos.\n\nO atraso econômico forçou o Brasil a se voltar para fora. Era do exterior que vinham os bens de consumo que fundamentavam um padrão de vida “civilizado”, marca que distinguia as classes cultas e “naturalmente” dominantes do povaréu primitivo e miserável. (...) E de fora vinham também os capitais que permitiam iniciar a construção de uma infra-estrutura de serviços urbanos, de energia, transportes e comunicações.\n\n{{fonte:1}}\n\nLevando-se em consideração as afirmações acima, relativas à estrutura econômica do Brasil por ocasião da independência política (1822), é correto afirmar que o país"
+   ]
+  ],
+  "fontes": [
+   "Paul Singer. **Evolução da economia e vinculação internacional**. *In*: I. Sachs; J. Wilheim; P. S. Pinheiro (Orgs.). **Brasil: um século de transformações**. São Paulo: Cia. das Letras, 2001, p. 80."
+  ],
+  "remove_imagens": [
+   1
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "se industrializou rapidamente devido ao desenvolvimento alcançado no período colonial."
+   ],
+   [
+    "B",
+    "extinguiu a produção colonial baseada na escravidão e fundamentou a produção no trabalho livre."
+   ],
+   [
+    "C",
+    "se tornou dependente da economia européia por realizar tardiamente sua industrialização em relação a outros países."
+   ],
+   [
+    "D",
+    "se tornou dependente do capital estrangeiro, que foi introduzido no país sem trazer ganhos para a infra-estrutura de serviços urbanos."
+   ],
+   [
+    "E",
+    "teve sua industrialização estimulada pela Grã-Bretanha, que investiu capitais em vários setores produtivos."
+   ]
+  ]
+ },
+ "P7521-Q018": {
+  "motivo": "recorte da página 8: enunciado e alternativas estavam misturados com o texto de Oswald de Andrade (questão 19, fora); refeitos; a linha do tempo 'Abolição da escravatura' (imagem 1) conferida",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "{{img:1}}\n\nConsiderando a linha do tempo acima e o processo de abolição da escravatura no Brasil, assinale a opção correta."
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "O processo abolicionista foi rápido porque recebeu a adesão de todas as correntes políticas do país."
+   ],
+   [
+    "B",
+    "O primeiro passo para a abolição da escravatura foi a proibição do uso dos serviços das crianças nascidas em cativeiro."
+   ],
+   [
+    "C",
+    "Antes que a compra de escravos no exterior fosse proibida, decidiu-se pela libertação dos cativos mais velhos."
+   ],
+   [
+    "D",
+    "Assinada pela princesa Isabel, a Lei Áurea concluiu o processo abolicionista, tornando ilegal a escravidão no Brasil."
+   ],
+   [
+    "E",
+    "Ao abolir o tráfico negreiro, a Lei Eusébio de Queirós bloqueou a formulação de novas leis antiescravidão no Brasil."
+   ]
+  ]
+ },
+ "P7521-Q020": {
+  "motivo": "recorte da página 9: carta de Mário de Andrade e alternativas estavam misturadas com o texto da questão 21 (fora); refeitas conforme a página",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "São Paulo, 18 de agosto de 1929.\n\nCarlos [Drummond de Andrade],\n\nAchei graça e gozei com o seu entusiasmo pela candidatura Getúlio Vargas – João Pessoa. É. Mas veja como estamos... trocados. Esse entusiasmo devia ser meu e sou eu que conservo o ceticismo que deveria ser de você. (...).\n\nEu... eu contemplo numa torcida apenas simpática a candidatura Getúlio Vargas, que antes desejara tanto. Mas pra mim, presentemente, essa candidatura (única aceitável, está claro) fica manchada por essas pazes fragílimas de governistas mineiros, gaúchos, paraibanos (...), com democráticos paulistas (que pararam de atacar o Bernardes) e oposicionistas cariocas e gaúchos. Tudo isso não me entristece. Continuo reconhecendo a existência de males necessários, porém me afasta do meu país e da candidatura Getúlio Vargas. Repito: única aceitável.\n\nMário [de Andrade]\n\nRenato Lemos. **Bem traçadas linhas: a história do Brasil em cartas pessoais**. Rio de Janeiro: Bom Texto, 2004, p. 305.\n\nAcerca da crise política ocorrida em fins da Primeira República, a carta do paulista Mário de Andrade ao mineiro Carlos Drummond de Andrade revela"
+   ]
+  ],
+  "fontes": [],
+  "remove_imagens": [
+   1
+  ],
+  "apos_alternativas": "",
+  "alternativas_lista": [
+   [
+    "A",
+    "a simpatia de Drummond pela candidatura Vargas e o desencanto de Mário de Andrade com as composições políticas sustentadas por Vargas."
+   ],
+   [
+    "B",
+    "a veneração de Drummond e Mário de Andrade ao gaúcho Getúlio Vargas, que se aliou à oligarquia cafeeira de São Paulo."
+   ],
+   [
+    "C",
+    "a concordância entre Mário de Andrade e Drummond quanto ao caráter inovador de Vargas, que fez uma ampla aliança para derrotar a oligarquia mineira."
+   ],
+   [
+    "D",
+    "a discordância entre Mário de Andrade e Drummond sobre a importância da aliança entre Vargas e o paulista Júlio Prestes nas eleições presidenciais."
+   ],
+   [
+    "E",
+    "o otimismo de Mário de Andrade em relação a Getúlio Vargas, que se recusara a fazer alianças políticas para vencer as eleições."
+   ]
+  ]
+ },
+ "P7521-Q022": {
+  "motivo": "recorte da página 9: enunciado e alternativas estavam misturados com o texto do cessar-fogo e da questão 20; refeitos conforme a página",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "Em 1947, a Organização das Nações Unidas (ONU) aprovou um plano de partilha da Palestina que previa a criação de dois Estados: um judeu e outro palestino. A recusa árabe em aceitar a decisão conduziu ao primeiro conflito entre Israel e países árabes. A segunda guerra (Suez, 1956) decorreu da decisão egípcia de nacionalizar o canal, ato que atingia interesses anglo-franceses e israelenses. Vitorioso, Israel passou a controlar a Península do Sinai. O terceiro conflito árabe-israelense (1967) ficou conhecido como Guerra dos Seis Dias, tal a rapidez da vitória de Israel.\n\nEm 6 de outubro de 1973, quando os judeus comemoravam o Yom Kippur (Dia do Perdão), forças egípcias e sírias atacaram de surpresa Israel, que revidou de forma arrasadora. A intervenção americano-soviética impôs o cessar-fogo, concluído em 22 de outubro.\n\nA partir do texto acima, assinale a opção correta."
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "A primeira guerra árabe-israelense foi determinada pela ação bélica de tradicionais potências européias no Oriente Médio."
+   ],
+   [
+    "B",
+    "Na segunda metade dos anos 1960, quando explodiu a terceira guerra árabe-israelense, Israel obteve rápida vitória."
+   ],
+   [
+    "C",
+    "A guerra do Yom Kippur ocorreu no momento em que, a partir de decisão da ONU, foi oficialmente instalado o Estado de Israel."
+   ],
+   [
+    "D",
+    "A ação dos governos de Washington e de Moscou foi decisiva para o cessar-fogo que pôs fim ao primeiro conflito árabe-israelense."
+   ],
+   [
+    "E",
+    "Apesar das sucessivas vitórias militares, Israel mantém suas dimensões territoriais tal como estabelecido pela resolução de 1947 aprovada pela ONU."
+   ]
+  ]
+ },
+ "P7523-Q039": {
+  "motivo": "recorte da página 13: o texto de Joaquim Nabuco e as alternativas estavam misturados com o texto de Heródoto (questão 41, fora); refeitos conforme a página",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "O abolicionista Joaquim Nabuco fez um resumo dos fatores que levaram à abolição da escravatura com as seguintes palavras: “Cinco ações ou concursos diferentes cooperaram para o resultado final: 1.º) o espírito daqueles que criavam a opinião pela idéia, pela palavra, pelo sentimento, e que a faziam valer por meio do Parlamento, dos *meetings* [reuniões públicas], da imprensa, do ensino superior, do púlpito, dos tribunais; 2.º) a ação coercitiva dos que se propunham a destruir materialmente o formidável aparelho da escravidão, arrebatando os escravos ao poder dos senhores; 3.º) a ação complementar dos próprios proprietários, que, à medida que o movimento se precipitava, iam libertando em massa as suas ‘fábricas’; 4.º) a ação política dos estadistas, representando as concessões do governo; 5.º) a ação da família imperial.”\n\nJoaquim Nabuco. **Minha formação**. São Paulo: Martin Claret, 2005, p. 144 (com adaptações).\n\nNesse texto, Joaquim Nabuco afirma que a abolição da escravatura foi o resultado de uma luta"
+   ]
+  ],
+  "fontes": [],
+  "apos_alternativas": "",
+  "alternativas_lista": [
+   [
+    "A",
+    "de idéias, associada a ações contra a organização escravista, com o auxílio de proprietários que libertavam seus escravos, de estadistas e da ação da família imperial."
+   ],
+   [
+    "B",
+    "de classes, associada a ações contra a organização escravista, que foi seguida pela ajuda de proprietários que substituíam os escravos por assalariados, o que provocou a adesão de estadistas e, posteriormente, ações republicanas."
+   ],
+   [
+    "C",
+    "partidária, associada a ações contra a organização escravista, com o auxílio de proprietários que mudavam seu foco de investimento e da ação da família imperial."
+   ],
+   [
+    "D",
+    "política, associada a ações contra a organização escravista, sabotada por proprietários que buscavam manter o escravismo, por estadistas e pela ação republicana contra a realeza."
+   ],
+   [
+    "E",
+    "religiosa, associada a ações contra a organização escravista, que fora apoiada por proprietários que haviam substituído os seus escravos por imigrantes, o que resultou na adesão de estadistas republicanos na luta contra a realeza."
+   ]
+  ]
+ },
+ "P7523-Q040": {
+  "motivo": "recorte da página 13: enunciado e alternativas estavam misturados com as afirmativas da questão 41 (fora); refeitos conforme a página; figura (imagem 1) confere com o recorte (crédito: Exame, 28/9/2007)",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "{{img:1}}\n\nExame, 28/9/2007.\n\nEntre os seguintes ditos populares, qual deles melhor corresponde à figura acima?"
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "Com perseverança, tudo se alcança."
+   ],
+   [
+    "B",
+    "Cada macaco no seu galho."
+   ],
+   [
+    "C",
+    "Nem tudo que balança cai."
+   ],
+   [
+    "D",
+    "Quem tudo quer, tudo perde."
+   ],
+   [
+    "E",
+    "Deus ajuda quem cedo madruga."
+   ]
+  ]
+ },
+ "P7523-Q058": {
+  "motivo": "recorte da página 17: o texto da velha Totonha e as alternativas estavam misturados com o texto das acácias (questão 57, fora); refeitos conforme a página; a imagem 1 (esquema das acácias) é da questão 57 e sai",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "A velha Totonha de quando em vez batia no engenho. E era um acontecimento para a meninada... Que talento ela possuía para contar as suas histórias, com um jeito admirável de falar em nome de todos os personagens, sem nenhum dente na boca, e com uma voz que dava todos os tons às palavras!\n\nHavia sempre rei e rainha, nos seus contos, e forca e adivinhações. E muito da vida, com as suas maldades e as suas grandezas, a gente encontrava naqueles heróis e naqueles intrigantes, que eram sempre castigados com mortes horríveis! O que fazia a velha Totonha mais curiosa era a cor local que ela punha nos seus descritivos. Quando ela queria pintar um reino era como se estivesse falando dum engenho fabuloso. Os rios e florestas por onde andavam os seus personagens se pareciam muito com a Paraíba e a Mata do Rolo. O seu Barba-Azul era um senhor de engenho de Pernambuco.\n\n{{fonte:1}}\n\nNa construção da personagem “velha Totonha”, é possível identificar traços que revelam marcas do processo de colonização e de civilização do país. Considerando o texto acima, infere-se que a velha Totonha"
+   ]
+  ],
+  "fontes": [
+   "José Lins do Rego. **Menino de Engenho**. Rio de Janeiro: José Olympio, 1980, p. 49-51 (com adaptações)."
+  ],
+  "remove_imagens": [
+   1
+  ],
+  "apos_alternativas": "",
+  "alternativas_lista": [
+   [
+    "A",
+    "tira o seu sustento da produção da literatura, apesar de suas condições de vida e de trabalho, que denotam que ela enfrenta situação econômica muito adversa."
+   ],
+   [
+    "B",
+    "compõe, em suas histórias, narrativas épicas e realistas da história do país colonizado, livres da influência de temas e modelos não representativos da realidade nacional."
+   ],
+   [
+    "C",
+    "retrata, na constituição do espaço dos contos, a civilização urbana européia em concomitância com a representação literária de engenhos, rios e florestas do Brasil."
+   ],
+   [
+    "D",
+    "aproxima-se, ao incluir elementos fabulosos nos contos, do próprio romancista, o qual pretende retratar a realidade brasileira de forma tão grandiosa quanto a européia."
+   ],
+   [
+    "E",
+    "imprime marcas da realidade local a suas narrativas, que têm como modelo e origem as fontes da literatura e da cultura européia universalizada."
+   ]
+  ]
+ },
+ "P7523-Q059": {
+  "motivo": "recorte da página 17: enunciado e alternativas estavam misturados com o esquema das acácias (questão 57, fora); refeitos conforme a página",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "Na América inglesa, não houve nenhum processo sistemático de catequese e de conversão dos índios ao cristianismo, apesar de algumas iniciativas nesse sentido. Brancos e índios confrontaram-se muitas vezes e mantiveram-se separados. Na América portuguesa, a catequese dos índios começou com o próprio processo de colonização, e a mestiçagem teve dimensões significativas. Tanto na América inglesa quanto na portuguesa, as populações indígenas foram muito sacrificadas. Os índios não tinham defesas contra as doenças trazidas pelos brancos, foram derrotados pelas armas de fogo destes últimos e, muitas vezes, escravizados.\n\nNo processo de colonização das Américas, as populações indígenas da América portuguesa"
+   ]
+  ],
+  "fontes": [],
+  "apos_alternativas": "",
+  "alternativas_lista": [
+   [
+    "A",
+    "foram submetidas a um processo de doutrinação religiosa que não ocorreu com os indígenas da América inglesa."
+   ],
+   [
+    "B",
+    "mantiveram sua cultura tão intacta quanto a dos indígenas da América inglesa."
+   ],
+   [
+    "C",
+    "passaram pelo processo de mestiçagem, que ocorreu amplamente com os indígenas da América inglesa."
+   ],
+   [
+    "D",
+    "diferenciaram-se dos indígenas da América inglesa por terem suas terras devolvidas."
+   ],
+   [
+    "E",
+    "resistiram, como os indígenas da América inglesa, às doenças trazidas pelos brancos."
+   ]
+  ]
+ },
+ "P7519-Q018": {
+  "motivo": "recorte da página 8: os textos de Danton Jobim e Rubem Braga, as afirmativas e as alternativas estavam misturados com a questão 20 (fora); refeitos conforme a página; alternativas: A I.; B II.; C III.; D I e II.; E II e III. A imagem 1 (trecho solto da questão 20) sai",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "Os textos a seguir foram extraídos de duas crônicas publicadas no ano em que a seleção brasileira conquistou o tricampeonato mundial de futebol.\n\nO General Médici falou em consistência moral. Sem isso, talvez a vitória nos escapasse, pois a disciplina consciente, livremente aceita, é vital na preparação espartana para o rude teste do campeonato. Os brasileiros portaram-se não apenas como técnicos ou profissionais, mas como brasileiros, como cidadãos deste grande país, cônscios de seu papel de representantes de seu povo. Foi a própria afirmação do valor do homem brasileiro, como salientou bem o presidente da República. Que o chefe do governo aproveite essa pausa, esse minuto de euforia e de efusão patriótica, para meditar sobre a situação do país. (...) A realidade do Brasil é a explosão patriótica do povo ante a vitória na Copa.\n\n{{fonte:1}}\n\nO que explodiu mesmo foi a alma, foi a paixão do povo: uma explosão incomparável de alegria, de entusiasmo, de orgulho. (...) Debruçado em minha varanda de Ipanema, [um velho amigo] perguntava: — Será que algum terrorista se aproveitou do delírio coletivo para adiantar um plano seu qualquer, agindo com frieza e precisão? Será que, de outro lado, algum carrasco policial teve ânimo para voltar a torturar sua vítima logo que o alemão apitou o fim do jogo?\n\n{{fonte:2}}\n\nAvalie as seguintes afirmações a respeito dos dois textos e do período histórico em que foram escritos.\n\n**I** Para os dois autores, a conquista do tricampeonato mundial de futebol provocou uma explosão de alegria popular.\n\n**II** Os dois textos salientam o momento político que o país atravessava ao mesmo tempo em que conquistava o tricampeonato.\n\n**III** À época da conquista do tricampeonato mundial de futebol, o Brasil vivia sob regime militar, que, embora politicamente autoritário, não chegou a fazer uso de métodos violentos contra seus opositores.\n\nÉ correto apenas o que se afirma em"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ],
+  "apos_alternativas": "",
+  "alternativas_lista": [
+   [
+    "A",
+    "I."
+   ],
+   [
+    "B",
+    "II."
+   ],
+   [
+    "C",
+    "III."
+   ],
+   [
+    "D",
+    "I e II."
+   ],
+   [
+    "E",
+    "II e III."
+   ]
+  ]
+ },
+ "P7519-Q019": {
+  "motivo": "recorte da página 8: enunciado juntado sem quebras de coluna e 'cIassificação' (i maiúsculo) corrigido para 'classificação'; a tabela com os símbolos ● e * é a imagem 1",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "{{img:1}}\n\nA tabela ao lado indica a posição relativa de quatro times de futebol na classificação geral de um torneio, em dois anos consecutivos. O símbolo ● significa que o time indicado na linha ficou, no ano de 2004, à frente do indicado na coluna. O símbolo * significa que o time indicado na linha ficou, no ano de 2005, à frente do indicado na coluna.\n\nA probabilidade de que um desses quatro times, escolhido ao acaso, tenha obtido a mesma classificação no torneio, em 2004 e 2005, é igual a"
+   ]
+  ]
+ },
+ "P7507-Q009": {
+  "motivo": "recorte: a figura de Galileu estava cortada (só aparecia Júpiter e os pontos 2 e 3; os pontos 1 e 4 e os números viraram texto solto); figura inteira recortada à mão (Q009_manual_1.png); tabela (imagem 1) confere: Io 3.642/421.800/1,8; Europa 3.138/670.900/3,6; Ganimedes 5.262/1.070.000/7,2; Calisto 4.800/1.880.000/16,7",
+  "statement_sub": [
+   [
+    "\\n\\n\\*\\*1\\*\\*  \\n\\*\\*4\\*\\*\\n\\n\\{\\{img:2\\}\\}",
+    "\n\n{{imgx:1}}"
+   ]
+  ],
+  "remove_imagens": [
+   2
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2000/P7507/img/Q009_manual_1.png"
+  ]
+ },
+ "P7507-Q026": {
+  "motivo": "recorte: tabela (imagem 1) confere (Brasil 9/7/6/6; K 5/8/5/4; X 15/5/3/3; W 8/5/3/2; Y 6/7/9/8; Z 6/9/9/7); números soltos '7' e '4' da tabela e letras espaçadas de 'algumas' arrumados; itens com travessão juntados",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "A tabela abaixo apresenta **algumas** das principais causas de mortes no Brasil, distribuídas por região.\n\n{{img:1}}\n\nFonte: Ministério da Saúde, 1996\n\nSão conhecidas ainda as seguintes informações sobre as causas de óbitos:\n\n— A dificuldade na obtenção de informações, a falta de notificação e o acesso precário aos serviços de saúde são fatores relevantes na contabilização dos óbitos por causas mal definidas.\n\n— O aumento da esperança de vida faz com que haja cada vez mais pessoas com maiores chances de desenvolver algum tipo de câncer.\n\n— As mortes por doenças do aparelho respiratório estão estreitamente associadas à poluição nos grandes centros urbanos.\n\n— Os acidentes de trânsito e os assassinatos representam a quase totalidade das mortes por causas externas.\n\n— A região Norte é a única que apresenta todas as taxas por 10.000 habitantes abaixo da taxa média brasileira.\n\nLevando em consideração essas informações e o panorama social, econômico e ambiental do Brasil, pode-se concluir que as regiões K, X, W, Y e Z da tabela indicam, respectivamente, as regiões:"
+   ]
+  ]
+ },
+ "P7507-Q050": {
+  "motivo": "recorte: esquema do álcool (imagem 1) confere; faltava o começo da última frase ('Em 1996, foram produzidos no Brasil 12 bilhões de litros de álcool. A') e as alternativas estavam numa linha só (A 1,7×10⁸; B 1,2×10⁹; C 1,7×10⁹; D 1,2×10¹⁰; E 7,0×10¹⁰). Conferência: 12×10⁹ L ÷ 70 L/t ≈ 1,7×10⁸ t (A, igual ao gabarito oficial)",
+  "statement_sub": [
+   [
+    "\\n\\nquantidade de cana-de-açúcar",
+    "\n\nEm 1996, foram produzidos no Brasil 12 bilhões de litros de álcool. A quantidade de cana-de-açúcar"
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "1,7 × 10<sup>8</sup>."
+   ],
+   [
+    "B",
+    "1,2 × 10<sup>9</sup>."
+   ],
+   [
+    "C",
+    "1,7 × 10<sup>9</sup>."
+   ],
+   [
+    "D",
+    "1,2 × 10<sup>10</sup>."
+   ],
+   [
+    "E",
+    "7,0 × 10<sup>10</sup>."
+   ]
+  ]
+ },
+ "P7509-Q028": {
+  "motivo": "recorte: a imagem 1 incluía as 3 linhas do enunciado junto do gráfico (texto repetido); gráfico recortado sozinho (Q028_manual_1.png) a partir da imagem; legendas do gráfico (Antes do surgimento do parasita, Aparecimento do parasita, Controle com veneno, Sem veneno; Larvas, Parasitas) conferidas",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}",
+    "{{imgx:1}}"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2001/P7509/img/Q028_manual_1.png"
+  ]
+ },
+ "P7513-Q033": {
+  "motivo": "recorte: tabela (imagem borrada) transcrita: entrada de água suja 45, 40, 40, 20, 20 L/h; saída de água purificada 15, 10, 5, 10, 5 L/h (sistemas I a V). Conferência: eficiência = saída/entrada: 1/3, 1/4, 1/8, 1/2, 1/4 → maior no sistema IV (D, igual ao gabarito oficial)",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}",
+    "| | Sistema I | Sistema II | Sistema III | Sistema IV | Sistema V |\n|---|---|---|---|---|---|\n| Fluxo de entrada (água suja) | 45 L/h | 40 L/h | 40 L/h | 20 L/h | 20 L/h |\n| Fluxo de saída (água purificada) | 15 L/h | 10 L/h | 5 L/h | 10 L/h | 5 L/h |"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7515-Q005": {
+  "motivo": "recorte: mapa das macrorregiões (imagem 1) completo, com os rótulos Amazônia Ocidental, Amazônia Central e Arco do Povoamento Adensado; 'Estratégias:' é título do quadro de estratégias I a III e não rótulo da figura; texto conferido"
+ },
+ "P7515-Q014": {
+  "motivo": "recorte: o enunciado inteiro estava faltando e a figura estava cortada em dois pedaços (imagens 1 e 2): enunciado transcrito, figura recortada inteira à mão (Q014_manual_1.png: varas V₁ e V₂, leituras 239 e 164, pontos P₁ a P₄) e tabela de medições transcrita (1ª P₁ 239 / P₂ 164 / 75; 2ª P₂ 189 / P₃ 214 / −25; 3ª P₃ 229 / P₄ 174 / 55); gráficos A–E (imagens 3 a 7) conferidos",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "Para medir o perfil de um terreno, um mestre-de-obras utilizou duas varas (V<sub>I</sub> e V<sub>II</sub>), iguais e igualmente graduadas em centímetros, às quais foi acoplada uma mangueira plástica transparente, parcialmente preenchida por água (figura ao lado). Ele fez 3 medições que permitiram levantar o perfil da linha que contém, em seqüência, os pontos P<sub>1</sub>, P<sub>2</sub>, P<sub>3</sub> e P<sub>4</sub>. Em cada medição, colocou as varas em dois diferentes pontos e anotou suas leituras na tabela a seguir. A figura representa a primeira medição entre P<sub>1</sub> e P<sub>2</sub>.\n\n{{imgx:1}}\n\n| Medição | Vara I – Ponto | Vara I – Leitura L<sub>I</sub> (cm) | Vara II – Ponto | Vara II – Leitura L<sub>II</sub> (cm) | Diferença (L<sub>I</sub> − L<sub>II</sub>) (cm) |\n|---|---|---|---|---|---|\n| 1ª | P<sub>1</sub> | 239 | P<sub>2</sub> | 164 | 75 |\n| 2ª | P<sub>2</sub> | 189 | P<sub>3</sub> | 214 | -25 |\n| 3ª | P<sub>3</sub> | 229 | P<sub>4</sub> | 174 | 55 |\n\nAo preencher completamente a tabela, o mestre-de-obras determinou o seguinte perfil para o terreno:"
+   ]
+  ],
+  "remove_imagens": [
+   1,
+   2
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2004/P7515/img/Q014_manual_1.png"
+  ]
+ },
+ "P7515-Q018": {
+  "motivo": "recorte: o poema concreto 'Epithalamium – II' (Pedro Xisto) é um quadro com o desenho e as legendas (he = ele, & = e, She = ela, S = serpens, h = homo, e = eva); a imagem 1 mostrava só o desenho e as legendas viraram texto desordenado; poema recortado inteiro à mão (Q018_manual_1.png)",
+  "statement_sub": [
+   [
+    "(?s)\\*\\*EPITHALAMIUM – II\\*\\*.*\\(Pedro Xisto\\)",
+    "{{imgx:1}}"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2004/P7515/img/Q018_manual_1.png"
+  ]
+ },
+ "P7515-Q032": {
+  "motivo": "recorte: tabela de IDH (imagem 1, borrada) transcrita: X renda 0,431/0,402, longevidade 0,456/0,551, educação 0,328/0,568; Y 0,374/0,379, 0,459/0,548, 0,422/0,634; Z 0,501/0,420, 0,611/0,648, 0,188/0,448 (1991/2000). Conferência: longevidade e educação sobem nos três municípios, renda não (II e III, D, igual ao gabarito oficial)",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}",
+    "| Município | IDH – Renda 1991 | IDH – Renda 2000 | IDH – Longevidade 1991 | IDH – Longevidade 2000 | IDH – Educação 1991 | IDH – Educação 2000 |\n|---|---|---|---|---|---|---|\n| X | 0,431 | 0,402 | 0,456 | 0,551 | 0,328 | 0,568 |\n| Y | 0,374 | 0,379 | 0,459 | 0,548 | 0,422 | 0,634 |\n| Z | 0,501 | 0,420 | 0,611 | 0,648 | 0,188 | 0,448 |\n\n(Atlas do Desenvolvimento Humano no Brasil)"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7515-Q038": {
+  "motivo": "recorte: quadro de argumentos (imagem borrada) transcrito: P1 elevado potencial no país do recurso; P2 diversidade dos recursos naturais; P3 fonte renovável; N1 destruição de áreas de lavoura e deslocamento de populações; N2 emissão de poluentes; N3 necessidade de condições climáticas adequadas",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}",
+    "| | Argumentos favoráveis | | Argumentos desfavoráveis |\n|---|---|---|---|\n| P<sub>1</sub> | Elevado potencial no país do recurso utilizado para a geração de energia. | N<sub>1</sub> | Destruição de áreas de lavoura e deslocamento de populações. |\n| P<sub>2</sub> | Diversidade dos recursos naturais que pode utilizar para a geração de energia. | N<sub>2</sub> | Emissão de poluentes. |\n| P<sub>3</sub> | Fonte renovável de energia. | N<sub>3</sub> | Necessidade de condições climáticas adequadas para sua instalação. |"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7515-Q048": {
+  "motivo": "recorte: tabela 'Dados obtidos' (imagem borrada) transcrita: peso total 8,3 kg e 3,2 kg; plástico 399 (86,4%) e 174 (88,8%); vidro 10 (2,1%) e 03 (1,6%); metal 14 (3,0%) e 07 (3,6%); papel 17 (3,7%) e 06 (3,0%); pessoas na praia 270 e 80",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}",
+    "**DADOS OBTIDOS** (em área de cerca de 1900 m<sup>2</sup>)\n\n| COLETA DE LIXO | 1ª coleta | 2ª coleta |\n|---|---|---|\n| PESO TOTAL | 8,3 kg | 3,2 kg |\n| Itens de Plástico | 399 (86,4%) | 174 (88,8%) |\n| Itens de Vidro | 10 (2,1%) | 03 (1,6%) |\n| Itens de Metal | 14 (3,0%) | 07 (3,6%) |\n| Itens de Papel | 17 (3,7%) | 06 (3,0%) |\n| NÚMERO DE PESSOAS NA PRAIA | 270 | 80 |"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7515-Q057": {
+  "motivo": "recorte: tabela de bases nitrogenadas (imagem borrada) transcrita (adenina/guanina/citosina/timina em %): espermatozóide humano 30,7/19,3/18,8/31,2; fígado humano 30,4/19,5/19,9/30,2; medula óssea de rato 28,6/21,4/21,5/28,5; espermatozóide de ouriço-do-mar 32,8/17,7/18,4/32,1; plântulas de trigo 27,9/21,8/22,7/27,6; bactéria E. coli 26,1/24,8/23,9/25,1",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}",
+    "| Exemplos de materiais analisados | ADENINA | GUANINA | CITOSINA | TIMINA |\n|---|---|---|---|---|\n| Espermatozóide humano | 30,7% | 19,3% | 18,8% | 31,2% |\n| Fígado humano | 30,4% | 19,5% | 19,9% | 30,2% |\n| Medula óssea de rato | 28,6% | 21,4% | 21,5% | 28,5% |\n| Espermatozóide de ouriço-do-mar | 32,8% | 17,7% | 18,4% | 32,1% |\n| Plântulas de trigo | 27,9% | 21,8% | 22,7% | 27,6% |\n| Bactéria *E. coli* | 26,1% | 24,8% | 23,9% | 25,1% |"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7515-Q060": {
+  "motivo": "recorte: quadro de métodos de extração (imagem borrada) transcrito (quinto a primeiro milênio a.C.); fonte J. A. Vanin, Alquimistas e Químicos",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}",
+    "| MILÊNIO ANTES DE CRISTO | MÉTODOS DE EXTRAÇÃO E OPERAÇÃO |\n|---|---|\n| quinto milênio a.C. | Conhecimento do ouro e do cobre nativos |\n| quarto milênio a.C. | Conhecimento da prata e das ligas de ouro e prata<br>Obtenção do cobre e chumbo a partir de seus minérios<br>Técnicas de fundição |\n| terceiro milênio a.C. | Obtenção do estanho a partir do minério<br>Uso do bronze |\n| segundo milênio a.C. | Introdução do fole e aumento da temperatura de queima<br>Início do uso do ferro |\n| primeiro milênio a.C. | Obtenção do mercúrio e dos amálgamas<br>Cunhagem de moedas |\n\n(J. A. VANIN, *Alquimistas e Químicos*)"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7519-Q008": {
+  "motivo": "recorte da página 5: o quadro da história da Terra, descartado depois da alternativa E, é da questão 9 (já recolocado lá); a cena de Vidas Secas refeita com a numeração de linhas do recorte (1, 4, 7, 10); alternativa E termina em '(ℓ.11).' e a frase 'Para responder às questões 9 e 10...' é da questão 9",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "No romance **Vidas Secas**, de Graciliano Ramos, o vaqueiro Fabiano encontra-se com o patrão para receber o salário. Eis parte da cena:\n\n<sup>1</sup> Não se conformou: devia haver engano. (...)  \nCom certeza havia um erro no papel do branco. Não  \n<sup>4</sup> se descobriu o erro, e Fabiano perdeu os estribos.  \nPassar a vida inteira assim no toco, entregando o  \nque era dele de mão beijada! Estava direito aquilo?  \nTrabalhar como negro e nunca arranjar carta de  \n<sup>7</sup> alforria?  \nO patrão zangou-se, repeliu a insolência, achou bom  \n<sup>10</sup> que o vaqueiro fosse procurar serviço noutra fazenda.  \nAí Fabiano baixou a pancada e amunhecou.  \nBem, bem. Não era preciso barulho não.\n\n{{fonte:1}}\n\nNo fragmento transcrito, o padrão formal da linguagem convive com marcas de regionalismo e de coloquialismo no vocabulário. Pertence à variedade do padrão formal da linguagem o seguinte trecho:"
+   ]
+  ],
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*Para responder às questões 9 e 10.*$",
+    ""
+   ]
+  },
+  "apos_alternativas": ""
+ },
+ "P7519-Q040": {
+  "motivo": "recorte da página 14: o texto do aqüífero Guarani contorna o mapa, e a imagem 1 trazia texto junto; enunciado refeito conforme o recorte e o mapa (Brasília, Campo Grande, Bacia do Paraná, São Paulo, Curitiba, Florianópolis, Porto Alegre, Buenos Aires, Montevidéu, legenda de afloramento e confinamento) recortado à mão (Q040_manual_1.png)",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "O aqüífero Guarani, megarreservatório hídrico subterrâneo da América do Sul, com 1,2 milhão de km<sup>2</sup>, não é o \"mar de água doce\" que se pensava existir. Enquanto em algumas áreas a água é excelente, em outras, é inacessível, escassa ou não-potável. O aqüífero pode ser dividido em quatro grandes compartimentos. No compartimento Oeste, há boas condições estruturais que proporcionam recarga rápida a partir das chuvas e as águas são, em geral, de boa qualidade e potáveis. Já no compartimento Norte-Alto Uruguai, o sistema encontra-se coberto por rochas vulcânicas, a profundidades que variam de 350 m a 1.200 m. Suas águas são muito antigas, datando da Era Mesozóica, e não são potáveis em grande parte da área, com elevada salinidade, sendo que os altos teores de fluoretos e de sódio podem causar alcalinização do solo.\n\n{{imgx:1}}\n\n{{fonte:1}}\n\nEm relação ao aqüífero Guarani, é correto afirmar que"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2006/P7519/img/Q040_manual_1.png"
+  ]
+ },
+ "P7517-Q023": {
+  "motivo": "recorte: quadro 'Mapa da Miséria' (imagem borrada) transcrito: população que vive com menos de US$ 1 por dia (em %), 1987/1990/1993/1996/1998*; '*Preliminar' é nota da tabela",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\n\\n\\*Preliminar",
+    "**Mapa da Miséria** — População que vive com menos de US$ 1 por dia (em %)\n\n| Região | 1987 | 1990 | 1993 | 1996 | 1998* |\n|---|---|---|---|---|---|\n| Extremo Oriente e Pacífico | 26,6 | 27,6 | 25,2 | 14,9 | 15,3 |\n| Europa e Ásia Central | 0,2 | 1,6 | 4,0 | 5,1 | 5,1 |\n| América Latina e Caribe | 15,3 | 16,8 | 15,3 | 15,6 | 15,6 |\n| Oriente Médio e Norte da África | 4,3 | 2,4 | 1,9 | 1,8 | 1,9 |\n| Sul da Ásia | 44,9 | 44,0 | 42,4 | 42,3 | 40,0 |\n| África Subsaariana | 46,6 | 47,7 | 49,7 | 48,5 | 46,3 |\n| **Mundo** | **28,3** | **29,0** | **28,1** | **24,5** | **24,0** |\n\n*Preliminar"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7521-Q025": {
+  "motivo": "recorte da página 10: o texto do enunciado contorna o gráfico e a imagem 1 trazia texto junto; enunciado refeito conforme o recorte e gráfico (meias-vidas × % de fármaco) recortado à mão (Q025_manual_1.png). Conferência: 1,5 meia-vida ≈ 35% (D, igual ao gabarito oficial)",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "A duração do efeito de alguns fármacos está relacionada à sua meia-vida, tempo necessário para que a quantidade original do fármaco no organismo se reduza à metade. A cada intervalo de tempo correspondente a uma meia-vida, a quantidade de fármaco existente no organismo no final do intervalo é igual a 50% da quantidade no início desse intervalo.\n\n{{imgx:1}}\n\nO gráfico acima representa, de forma genérica, o que acontece com a quantidade de fármaco no organismo humano ao longo do tempo.\n\n{{fonte:1}}\n\nA meia-vida do antibiótico amoxicilina é de 1 hora. Assim, se uma dose desse antibiótico for injetada às 12 h em um paciente, o percentual dessa dose que restará em seu organismo às 13 h 30 min será aproximadamente de"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2007/P7521/img/Q025_manual_1.png"
+  ]
+ },
+ "P7521-Q034": {
+  "motivo": "recorte das páginas 12–13: o texto 'Aumento de produtividade' e o título 'Texto para as questões 35 e 36', colados depois da alternativa E, são base das questões 35 e 36; frações das alternativas conferidas (1/2, 1/3, 1/4, 1/5, 1/6); gráfico de temperatura conferido",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*\\*\\*Texto para as questões 35 e 36\\*\\*\\s*$",
+    ""
+   ]
+  },
+  "apos_alternativas": ""
+ },
+ "P7521-Q035": {
+  "motivo": "o texto-base e o gráfico da produtividade agrícola dos EUA estavam depois da alternativa E da questão 34; gráfico recortado à mão da página 13 (Q035_manual_1.png)",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Texto para as questões 35 e 36**\n\n**Aumento de produtividade**\n\nNos últimos 60 anos, verificou-se grande aumento da produtividade agrícola nos Estados Unidos da América (EUA). Isso se deveu a diversos fatores, tais como expansão do uso de fertilizantes e pesticidas, biotecnologia e maquinário especializado. O gráfico abaixo apresenta dados referentes à agricultura desse país, no período compreendido entre 1948 e 2004.\n\n{{imgx:1}}\n\nScientific American Brasil, jun./2007, p. 19 (com adaptações).\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2007/P7521/img/Q035_manual_1.png"
+  ]
+ },
+ "P7521-Q036": {
+  "motivo": "o texto-base e o gráfico da produtividade agrícola dos EUA estavam depois da alternativa E da questão 34; gráfico recortado à mão da página 13 (Q035_manual_1.png)",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Texto para as questões 35 e 36**\n\n**Aumento de produtividade**\n\nNos últimos 60 anos, verificou-se grande aumento da produtividade agrícola nos Estados Unidos da América (EUA). Isso se deveu a diversos fatores, tais como expansão do uso de fertilizantes e pesticidas, biotecnologia e maquinário especializado. O gráfico abaixo apresenta dados referentes à agricultura desse país, no período compreendido entre 1948 e 2004.\n\n{{imgx:1}}\n\nScientific American Brasil, jun./2007, p. 19 (com adaptações).\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2007/P7521/img/Q035_manual_1.png"
+  ]
+ },
+ "P7523-Q008": {
+  "motivo": "recorte da página 5: a imagem 1 estava cortada (faltava o topo do gráfico); gráfico 'Percentual dos biomas protegidos por unidades de conservação federais – Brasil, 2006' recortado inteiro à mão (Q008_manual_1.png)",
+  "statement_sub": [
+   [
+    "\\{\\{img:1\\}\\}\\n\\n\\*\\*Ministério do Meio Ambiente\\. Cadastro Nacional de Unidades de Conservação\\.\\*\\*",
+    "{{imgx:1}}\n\nMinistério do Meio Ambiente. Cadastro Nacional de Unidades de Conservação."
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2008/P7523/img/Q008_manual_1.png"
+  ]
+ },
+ "P7523-Q044": {
+  "motivo": "recorte da página 14: as duas tabelas (IMC × classificação × risco; nome, peso, altura, IMC) conferem com as imagens 1 e 2; texto confere"
+ },
+ "P7523-Q063": {
+  "motivo": "recorte da página 19: a escala do calendário cósmico e a arte rupestre estavam numa só imagem posta antes do texto, e a frase final 'Se a arte rupestre representada ao lado fosse inserida na escala... seta de número' só existia na imagem; texto refeito na ordem da página; escala e arte rupestre recortadas à mão (Q063_manual_1/2.png)",
+  "statement_sub": [
+   [
+    "\\A\\{\\{img:1\\}\\}\\n\\n",
+    ""
+   ],
+   [
+    "calendário\\.$",
+    "calendário.\n\n{{imgx:1}}\n\nSe a arte rupestre representada ao lado fosse inserida na escala, de acordo com o período em que foi produzida, ela deveria ser colocada na posição indicada pela seta de número\n\n{{imgx:2}}"
+   ]
+  ],
+  "remove_imagens": [
+   1
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2008/P7523/img/Q063_manual_1.png",
+   "_banco/questoes/ENEM/2008/P7523/img/Q063_manual_2.png"
+  ]
+ },
+ "P7521-Q050": {
+  "motivo": "recorte da página 17: a imagem 2 desta questão é a pintura rupestre da questão 53, colada por engano; sai (o texto-base e as pirâmides etárias das questões 49 a 51 ficam)",
+  "statement_sub": [
+   [
+    "\\n\\n\\{\\{img:2\\}\\}",
+    ""
+   ]
+  ],
+  "remove_imagens": [
+   2
   ]
  }
 }

@@ -7,6 +7,10 @@
  ],
  "motivos": [
   {
+   "tipo": "fora de propósito",
+   "texto": "página 19 (ENEM 2006): enunciado, alternativas e figuras das questões 60 a 63 estão embaralhados pelas duas colunas e a letra/ordem das alternativas não pôde ser refeita com certeza só lendo o recorte; fica fora (o extrator precisa tratar colunas)"
+  },
+  {
    "tipo": "alternativas",
    "texto": "11 alternativas encontradas (esperado 5)"
   },

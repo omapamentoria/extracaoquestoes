@@ -24,6 +24,7 @@
     "P7507-Q006",
     "P7507-Q007",
     "P7507-Q008",
+    "P7507-Q009",
     "P7507-Q010",
     "P7507-Q011",
     "P7507-Q012",
@@ -40,6 +41,7 @@
     "P7507-Q023",
     "P7507-Q024",
     "P7507-Q025",
+    "P7507-Q026",
     "P7507-Q027",
     "P7507-Q028",
     "P7507-Q029",
@@ -63,6 +65,7 @@
     "P7507-Q047",
     "P7507-Q048",
     "P7507-Q049",
+    "P7507-Q050",
     "P7507-Q051",
     "P7507-Q052",
     "P7507-Q053",
@@ -82,17 +85,6 @@
    "do_banco_antigo": 0,
    "gab_corrigido": [],
    "pendentes": {
-    "P7507-Q009": [
-     "figura"
-    ],
-    "P7507-Q026": [
-     "figura"
-    ],
-    "P7507-Q050": [
-     "figura",
-     "alternativas",
-     "alternativas"
-    ],
     "P7507-Q004": [
      "não extraída"
     ]
@@ -141,6 +133,7 @@
     "P7509-Q025",
     "P7509-Q026",
     "P7509-Q027",
+    "P7509-Q028",
     "P7509-Q029",
     "P7509-Q030",
     "P7509-Q031",
@@ -162,7 +155,9 @@
     "P7509-Q047",
     "P7509-Q048",
     "P7509-Q049",
+    "P7509-Q050",
     "P7509-Q051",
+    "P7509-Q052",
     "P7509-Q053",
     "P7509-Q054",
     "P7509-Q055",
@@ -179,15 +174,6 @@
    "do_banco_antigo": 0,
    "gab_corrigido": [],
    "pendentes": {
-    "P7509-Q028": [
-     "figura"
-    ],
-    "P7509-Q050": [
-     "tabela"
-    ],
-    "P7509-Q052": [
-     "tabela"
-    ],
     "P7509-Q060": [
      "não extraída"
     ]
@@ -328,6 +314,7 @@
     "P7513-Q030",
     "P7513-Q031",
     "P7513-Q032",
+    "P7513-Q033",
     "P7513-Q034",
     "P7513-Q035",
     "P7513-Q036",
@@ -340,6 +327,7 @@
     "P7513-Q043",
     "P7513-Q044",
     "P7513-Q045",
+    "P7513-Q046",
     "P7513-Q047",
     "P7513-Q048",
     "P7513-Q049",
@@ -350,6 +338,7 @@
     "P7513-Q054",
     "P7513-Q055",
     "P7513-Q056",
+    "P7513-Q057",
     "P7513-Q058",
     "P7513-Q059",
     "P7513-Q060",
@@ -361,17 +350,7 @@
    "casadas": 0,
    "do_banco_antigo": 0,
    "gab_corrigido": [],
-   "pendentes": {
-    "P7513-Q033": [
-     "figura"
-    ],
-    "P7513-Q046": [
-     "alternativas"
-    ],
-    "P7513-Q057": [
-     "tabela"
-    ]
-   }
+   "pendentes": {}
   },
   "P7515": {
    "estado": "verde",
@@ -391,6 +370,7 @@
     "P7515-Q002",
     "P7515-Q003",
     "P7515-Q004",
+    "P7515-Q005",
     "P7515-Q006",
     "P7515-Q007",
     "P7515-Q008",
@@ -399,13 +379,16 @@
     "P7515-Q011",
     "P7515-Q012",
     "P7515-Q013",
+    "P7515-Q014",
     "P7515-Q015",
     "P7515-Q016",
     "P7515-Q017",
+    "P7515-Q018",
     "P7515-Q019",
     "P7515-Q020",
     "P7515-Q021",
     "P7515-Q022",
+    "P7515-Q023",
     "P7515-Q024",
     "P7515-Q025",
     "P7515-Q026",
@@ -414,9 +397,13 @@
     "P7515-Q029",
     "P7515-Q030",
     "P7515-Q031",
+    "P7515-Q032",
+    "P7515-Q033",
     "P7515-Q034",
     "P7515-Q035",
     "P7515-Q036",
+    "P7515-Q037",
+    "P7515-Q038",
     "P7515-Q039",
     "P7515-Q040",
     "P7515-Q041",
@@ -426,6 +413,7 @@
     "P7515-Q045",
     "P7515-Q046",
     "P7515-Q047",
+    "P7515-Q048",
     "P7515-Q049",
     "P7515-Q050",
     "P7515-Q051",
@@ -434,8 +422,10 @@
     "P7515-Q054",
     "P7515-Q055",
     "P7515-Q056",
+    "P7515-Q057",
     "P7515-Q058",
     "P7515-Q059",
+    "P7515-Q060",
     "P7515-Q061",
     "P7515-Q062",
     "P7515-Q063"
@@ -444,45 +434,7 @@
    "casadas": 0,
    "do_banco_antigo": 0,
    "gab_corrigido": [],
-   "pendentes": {
-    "P7515-Q005": [
-     "figura"
-    ],
-    "P7515-Q014": [
-     "figura",
-     "figura",
-     "figura",
-     "figura"
-    ],
-    "P7515-Q018": [
-     "figura"
-    ],
-    "P7515-Q023": [
-     "alternativas",
-     "alternativas"
-    ],
-    "P7515-Q032": [
-     "figura"
-    ],
-    "P7515-Q033": [
-     "tabela"
-    ],
-    "P7515-Q037": [
-     "tabela"
-    ],
-    "P7515-Q038": [
-     "figura"
-    ],
-    "P7515-Q048": [
-     "figura"
-    ],
-    "P7515-Q057": [
-     "figura"
-    ],
-    "P7515-Q060": [
-     "figura"
-    ]
-   }
+   "pendentes": {}
   },
   "P7517": {
    "estado": "verde",
@@ -498,7 +450,16 @@
    "sem_letra": [],
    "sem_letra_oficial": {},
    "prontas": [
+    "P7517-Q004",
+    "P7517-Q022",
+    "P7517-Q023",
+    "P7517-Q026",
+    "P7517-Q033",
+    "P7517-Q042",
+    "P7517-Q048",
     "P7517-Q050",
+    "P7517-Q055",
+    "P7517-Q061",
     "P7517-Q001",
     "P7517-Q002",
     "P7517-Q003",
@@ -557,37 +518,7 @@
    "casadas": 53,
    "do_banco_antigo": 0,
    "gab_corrigido": [],
-   "pendentes": {
-    "P7517-Q004": [
-     "tabela"
-    ],
-    "P7517-Q022": [
-     "tabela"
-    ],
-    "P7517-Q023": [
-     "figura"
-    ],
-    "P7517-Q026": [
-     "tabela"
-    ],
-    "P7517-Q033": [
-     "alternativas",
-     "alternativas"
-    ],
-    "P7517-Q042": [
-     "tabela"
-    ],
-    "P7517-Q048": [
-     "alternativas"
-    ],
-    "P7517-Q055": [
-     "símbolo"
-    ],
-    "P7517-Q061": [
-     "alternativas",
-     "alternativas"
-    ]
-   }
+   "pendentes": {}
   },
   "P7519": {
    "estado": "verde",
@@ -622,6 +553,7 @@
     "P7519-Q005",
     "P7519-Q006",
     "P7519-Q007",
+    "P7519-Q008",
     "P7519-Q009",
     "P7519-Q010",
     "P7519-Q011",
@@ -631,10 +563,12 @@
     "P7519-Q015",
     "P7519-Q016",
     "P7519-Q017",
+    "P7519-Q018",
     "P7519-Q019",
     "P7519-Q021",
     "P7519-Q022",
     "P7519-Q023",
+    "P7519-Q024",
     "P7519-Q025",
     "P7519-Q026",
     "P7519-Q027",
@@ -650,13 +584,18 @@
     "P7519-Q037",
     "P7519-Q038",
     "P7519-Q039",
+    "P7519-Q040",
     "P7519-Q041",
     "P7519-Q042",
     "P7519-Q043",
+    "P7519-Q044",
     "P7519-Q045",
     "P7519-Q046",
+    "P7519-Q047",
     "P7519-Q048",
+    "P7519-Q049",
     "P7519-Q050",
+    "P7519-Q051",
     "P7519-Q052",
     "P7519-Q053",
     "P7519-Q054",
@@ -671,51 +610,14 @@
    "do_banco_antigo": 0,
    "gab_corrigido": [],
    "pendentes": {
-    "P7519-Q008": [
-     "figura"
-    ],
-    "P7519-Q018": [
-     "símbolo",
-     "símbolo",
-     "símbolo",
-     "transcrição",
-     "alternativas",
-     "alternativas",
-     "alternativas",
-     "texto depois das alternativas",
-     "alternativas"
-    ],
-    "P7519-Q024": [
-     "alternativas",
-     "alternativas",
-     "alternativas"
-    ],
-    "P7519-Q040": [
-     "figura"
-    ],
-    "P7519-Q044": [
-     "símbolo",
-     "símbolo",
-     "transcrição"
-    ],
-    "P7519-Q047": [
-     "alternativas",
-     "alternativas"
-    ],
-    "P7519-Q049": [
-     "alternativas",
-     "alternativas"
-    ],
-    "P7519-Q051": [
-     "alternativas",
-     "alternativas"
-    ],
     "P7519-Q060": [
+     "fora de propósito",
      "alternativas",
      "alternativas",
      "alternativas"
     ],
     "P7519-Q061": [
+     "fora de propósito",
      "alternativas",
      "alternativas",
      "alternativas"
@@ -755,6 +657,7 @@
     "P7521-Q004",
     "P7521-Q005",
     "P7521-Q006",
+    "P7521-Q007",
     "P7521-Q008",
     "P7521-Q009",
     "P7521-Q010",
@@ -764,8 +667,13 @@
     "P7521-Q014",
     "P7521-Q015",
     "P7521-Q016",
+    "P7521-Q017",
+    "P7521-Q018",
+    "P7521-Q020",
+    "P7521-Q022",
     "P7521-Q023",
     "P7521-Q024",
+    "P7521-Q025",
     "P7521-Q026",
     "P7521-Q027",
     "P7521-Q028",
@@ -774,8 +682,10 @@
     "P7521-Q031",
     "P7521-Q032",
     "P7521-Q033",
+    "P7521-Q034",
     "P7521-Q035",
     "P7521-Q036",
+    "P7521-Q037",
     "P7521-Q038",
     "P7521-Q039",
     "P7521-Q040",
@@ -789,7 +699,10 @@
     "P7521-Q048",
     "P7521-Q049",
     "P7521-Q050",
+    "P7521-Q051",
     "P7521-Q052",
+    "P7521-Q054",
+    "P7521-Q055",
     "P7521-Q056",
     "P7521-Q057",
     "P7521-Q058",
@@ -804,76 +717,6 @@
    "do_banco_antigo": 0,
    "gab_corrigido": [],
    "pendentes": {
-    "P7521-Q007": [
-     "alternativas",
-     "alternativas"
-    ],
-    "P7521-Q017": [
-     "símbolo",
-     "transcrição"
-    ],
-    "P7521-Q018": [
-     "símbolo",
-     "hífen",
-     "transcrição",
-     "alternativas",
-     "alternativas",
-     "alternativas"
-    ],
-    "P7521-Q020": [
-     "símbolo",
-     "símbolo",
-     "símbolo",
-     "hífen",
-     "transcrição",
-     "alternativas",
-     "alternativas",
-     "alternativas"
-    ],
-    "P7521-Q022": [
-     "símbolo",
-     "símbolo",
-     "hífen",
-     "transcrição",
-     "alternativas",
-     "alternativas",
-     "alternativas"
-    ],
-    "P7521-Q025": [
-     "figura"
-    ],
-    "P7521-Q034": [
-     "figura",
-     "texto depois das alternativas"
-    ],
-    "P7521-Q037": [
-     "tabela",
-     "fórmula"
-    ],
-    "P7521-Q051": [
-     "alternativas",
-     "alternativas",
-     "alternativas",
-     "alternativas",
-     "alternativas"
-    ],
-    "P7521-Q054": [
-     "símbolo",
-     "símbolo",
-     "transcrição",
-     "alternativas",
-     "alternativas",
-     "alternativas"
-    ],
-    "P7521-Q055": [
-     "símbolo",
-     "hífen",
-     "transcrição",
-     "alternativas",
-     "alternativas",
-     "alternativas",
-     "alternativas"
-    ],
     "P7521-Q019": [
      "não extraída"
     ],
@@ -908,6 +751,8 @@
     "P7523-Q004",
     "P7523-Q005",
     "P7523-Q006",
+    "P7523-Q007",
+    "P7523-Q008",
     "P7523-Q009",
     "P7523-Q010",
     "P7523-Q016",
@@ -917,6 +762,7 @@
     "P7523-Q021",
     "P7523-Q022",
     "P7523-Q023",
+    "P7523-Q024",
     "P7523-Q030",
     "P7523-Q031",
     "P7523-Q034",
@@ -924,10 +770,17 @@
     "P7523-Q036",
     "P7523-Q037",
     "P7523-Q038",
+    "P7523-Q039",
+    "P7523-Q040",
+    "P7523-Q043",
+    "P7523-Q045",
     "P7523-Q047",
     "P7523-Q049",
     "P7523-Q052",
     "P7523-Q053",
+    "P7523-Q058",
+    "P7523-Q059",
+    "P7523-Q063",
     "P7523-Q011",
     "P7523-Q012",
     "P7523-Q013",
@@ -942,6 +795,7 @@
     "P7523-Q032",
     "P7523-Q033",
     "P7523-Q042",
+    "P7523-Q044",
     "P7523-Q046",
     "P7523-Q048",
     "P7523-Q050",
@@ -958,62 +812,6 @@
    "do_banco_antigo": 0,
    "gab_corrigido": [],
    "pendentes": {
-    "P7523-Q007": [
-     "símbolo",
-     "símbolo",
-     "símbolo",
-     "transcrição",
-     "símbolo"
-    ],
-    "P7523-Q008": [
-     "figura"
-    ],
-    "P7523-Q024": [
-     "alternativas",
-     "alternativas"
-    ],
-    "P7523-Q039": [
-     "símbolo",
-     "símbolo",
-     "símbolo",
-     "transcrição"
-    ],
-    "P7523-Q040": [
-     "figura",
-     "alternativas",
-     "alternativas",
-     "alternativas"
-    ],
-    "P7523-Q043": [
-     "alternativas",
-     "alternativas"
-    ],
-    "P7523-Q045": [
-     "alternativas",
-     "alternativas"
-    ],
-    "P7523-Q058": [
-     "símbolo",
-     "símbolo",
-     "transcrição",
-     "alternativas",
-     "texto depois das alternativas",
-     "alternativas"
-    ],
-    "P7523-Q059": [
-     "símbolo",
-     "transcrição",
-     "alternativas",
-     "alternativas",
-     "alternativas",
-     "alternativas"
-    ],
-    "P7523-Q063": [
-     "figura"
-    ],
-    "P7523-Q044": [
-     "figura"
-    ],
     "P7523-Q041": [
      "não extraída"
     ],
@@ -1071,6 +869,13 @@
    "confianca": 0.19,
    "sim1": 0.23,
    "vizinho": 110752,
+   "baixa": true
+  },
+  "P7507-Q009": {
+   "subassunto": "A016-01",
+   "confianca": 0.19,
+   "sim1": 0.13,
+   "vizinho": 107783,
    "baixa": true
   },
   "P7507-Q010": {
@@ -1183,6 +988,13 @@
    "confianca": 0.82,
    "sim1": 0.2,
    "vizinho": 102711,
+   "baixa": true
+  },
+  "P7507-Q026": {
+   "subassunto": "A065-02",
+   "confianca": 0.19,
+   "sim1": 0.35,
+   "vizinho": 120621,
    "baixa": true
   },
   "P7507-Q027": {
@@ -1344,6 +1156,13 @@
    "confianca": 0.32,
    "sim1": 0.18,
    "vizinho": 120149,
+   "baixa": true
+  },
+  "P7507-Q050": {
+   "subassunto": "A038-01",
+   "confianca": 0.3,
+   "sim1": 0.2,
+   "vizinho": 2601,
    "baixa": true
   },
   "P7507-Q051": {
@@ -1626,6 +1445,13 @@
    "vizinho": 8985,
    "baixa": true
   },
+  "P7509-Q028": {
+   "subassunto": "A045-08",
+   "confianca": 0.22,
+   "sim1": 0.08,
+   "vizinho": 102684,
+   "baixa": true
+  },
   "P7509-Q029": {
    "subassunto": "A011-03",
    "confianca": 0.22,
@@ -1773,11 +1599,25 @@
    "vizinho": 4927,
    "baixa": true
   },
+  "P7509-Q050": {
+   "subassunto": "A021-03",
+   "confianca": 0.2,
+   "sim1": 0.13,
+   "vizinho": 114783,
+   "baixa": true
+  },
   "P7509-Q051": {
    "subassunto": "A021-04",
    "confianca": 0.35,
    "sim1": 0.11,
    "vizinho": 113225,
+   "baixa": true
+  },
+  "P7509-Q052": {
+   "subassunto": "A012-01",
+   "confianca": 0.22,
+   "sim1": 0.14,
+   "vizinho": 150075,
    "baixa": true
   },
   "P7509-Q053": {
@@ -2508,6 +2348,13 @@
    "vizinho": 101576,
    "baixa": true
   },
+  "P7513-Q033": {
+   "subassunto": "A003-05",
+   "confianca": 0.14,
+   "sim1": 0.15,
+   "vizinho": 119151,
+   "baixa": true
+  },
   "P7513-Q034": {
    "subassunto": "A026-03",
    "confianca": 0.22,
@@ -2592,6 +2439,13 @@
    "vizinho": 170146,
    "baixa": true
   },
+  "P7513-Q046": {
+   "subassunto": "A001-04",
+   "confianca": 0.22,
+   "sim1": 0.15,
+   "vizinho": 1398,
+   "baixa": true
+  },
   "P7513-Q047": {
    "subassunto": "A002-03",
    "confianca": 0.18,
@@ -2661,6 +2515,13 @@
    "sim1": 0.15,
    "vizinho": 120351,
    "baixa": true
+  },
+  "P7513-Q057": {
+   "subassunto": "A063-01",
+   "confianca": 0.82,
+   "sim1": 0.26,
+   "vizinho": 107140,
+   "baixa": false
   },
   "P7513-Q058": {
    "subassunto": "A063-01",
@@ -2732,6 +2593,13 @@
    "vizinho": 113288,
    "baixa": true
   },
+  "P7515-Q005": {
+   "subassunto": "A062-01",
+   "confianca": 0.21,
+   "sim1": 0.13,
+   "vizinho": 100018,
+   "baixa": true
+  },
   "P7515-Q006": {
    "subassunto": "A065-01",
    "confianca": 0.42,
@@ -2788,6 +2656,13 @@
    "vizinho": 113136,
    "baixa": true
   },
+  "P7515-Q014": {
+   "subassunto": "A006-09",
+   "confianca": 0.23,
+   "sim1": 0.11,
+   "vizinho": 120088,
+   "baixa": true
+  },
   "P7515-Q015": {
    "subassunto": "A021-01",
    "confianca": 0.13,
@@ -2807,6 +2682,13 @@
    "confianca": 0.27,
    "sim1": 0.14,
    "vizinho": 116602,
+   "baixa": true
+  },
+  "P7515-Q018": {
+   "subassunto": "A096-05",
+   "confianca": 0.31,
+   "sim1": 0.08,
+   "vizinho": 9282,
    "baixa": true
   },
   "P7515-Q019": {
@@ -2835,6 +2717,13 @@
    "confianca": 0.29,
    "sim1": 0.1,
    "vizinho": 992,
+   "baixa": true
+  },
+  "P7515-Q023": {
+   "subassunto": "A105-01",
+   "confianca": 0.38,
+   "sim1": 0.1,
+   "vizinho": 100019,
    "baixa": true
   },
   "P7515-Q024": {
@@ -2893,6 +2782,20 @@
    "vizinho": 100657,
    "baixa": true
   },
+  "P7515-Q032": {
+   "subassunto": "A063-01",
+   "confianca": 0.41,
+   "sim1": 0.16,
+   "vizinho": 115631,
+   "baixa": true
+  },
+  "P7515-Q033": {
+   "subassunto": "A002-03",
+   "confianca": 0.37,
+   "sim1": 0.13,
+   "vizinho": 105978,
+   "baixa": true
+  },
   "P7515-Q034": {
    "subassunto": "A034-01",
    "confianca": 0.34,
@@ -2912,6 +2815,20 @@
    "confianca": 0.18,
    "sim1": 0.18,
    "vizinho": 3137,
+   "baixa": true
+  },
+  "P7515-Q037": {
+   "subassunto": "A012-01",
+   "confianca": 0.35,
+   "sim1": 0.12,
+   "vizinho": 112462,
+   "baixa": true
+  },
+  "P7515-Q038": {
+   "subassunto": "A015-04",
+   "confianca": 0.37,
+   "sim1": 0.12,
+   "vizinho": 102836,
    "baixa": true
   },
   "P7515-Q039": {
@@ -2977,6 +2894,13 @@
    "vizinho": 160091,
    "baixa": true
   },
+  "P7515-Q048": {
+   "subassunto": "A034-01",
+   "confianca": 0.36,
+   "sim1": 0.14,
+   "vizinho": 1394,
+   "baixa": true
+  },
   "P7515-Q049": {
    "subassunto": "A038-02",
    "confianca": 0.21,
@@ -3033,6 +2957,13 @@
    "vizinho": 103663,
    "baixa": true
   },
+  "P7515-Q057": {
+   "subassunto": "A036-05",
+   "confianca": 0.62,
+   "sim1": 0.18,
+   "vizinho": 106079,
+   "baixa": true
+  },
   "P7515-Q058": {
    "subassunto": "A061-01",
    "confianca": 0.13,
@@ -3045,6 +2976,13 @@
    "confianca": 0.49,
    "sim1": 0.25,
    "vizinho": 119946,
+   "baixa": true
+  },
+  "P7515-Q060": {
+   "subassunto": "A032-05",
+   "confianca": 0.42,
+   "sim1": 0.11,
+   "vizinho": 104624,
    "baixa": true
   },
   "P7515-Q061": {
@@ -3068,11 +3006,74 @@
    "vizinho": 112462,
    "baixa": true
   },
+  "P7517-Q004": {
+   "subassunto": "A066-03",
+   "confianca": 0.85,
+   "sim1": 0.2,
+   "vizinho": 117966,
+   "baixa": true
+  },
+  "P7517-Q022": {
+   "subassunto": "A044-01",
+   "confianca": 0.65,
+   "sim1": 0.17,
+   "vizinho": 109650,
+   "baixa": true
+  },
+  "P7517-Q023": {
+   "subassunto": "A063-01",
+   "confianca": 0.18,
+   "sim1": 0.13,
+   "vizinho": 115869,
+   "baixa": true
+  },
+  "P7517-Q026": {
+   "subassunto": "A021-03",
+   "confianca": 0.44,
+   "sim1": 0.2,
+   "vizinho": 101038,
+   "baixa": true
+  },
+  "P7517-Q033": {
+   "subassunto": "A053-01",
+   "confianca": 0.2,
+   "sim1": 0.06,
+   "vizinho": 106125,
+   "baixa": true
+  },
+  "P7517-Q042": {
+   "subassunto": "A006-09",
+   "confianca": 0.44,
+   "sim1": 0.15,
+   "vizinho": 115073,
+   "baixa": true
+  },
+  "P7517-Q048": {
+   "subassunto": "A085-01",
+   "confianca": 0.21,
+   "sim1": 0.1,
+   "vizinho": 121356,
+   "baixa": true
+  },
   "P7517-Q050": {
    "subassunto": "A040-02",
    "confianca": 0.33,
    "sim1": 0.13,
    "vizinho": 115711,
+   "baixa": true
+  },
+  "P7517-Q055": {
+   "subassunto": "A001-02",
+   "confianca": 0.69,
+   "sim1": 0.26,
+   "vizinho": 102686,
+   "baixa": false
+  },
+  "P7517-Q061": {
+   "subassunto": "A007-04",
+   "confianca": 0.22,
+   "sim1": 0.12,
+   "vizinho": 118104,
    "baixa": true
   },
   "P7519-Q001": {
@@ -3122,6 +3123,13 @@
    "confianca": 0.36,
    "sim1": 0.18,
    "vizinho": 113309,
+   "baixa": true
+  },
+  "P7519-Q008": {
+   "subassunto": "A096-04",
+   "confianca": 0.65,
+   "sim1": 0.11,
+   "vizinho": 105844,
    "baixa": true
   },
   "P7519-Q009": {
@@ -3187,6 +3195,13 @@
    "vizinho": 100086,
    "baixa": true
   },
+  "P7519-Q018": {
+   "subassunto": "A011-01",
+   "confianca": 0.4,
+   "sim1": 0.09,
+   "vizinho": 3225,
+   "baixa": true
+  },
   "P7519-Q019": {
    "subassunto": "A011-02",
    "confianca": 0.26,
@@ -3213,6 +3228,13 @@
    "confianca": 0.61,
    "sim1": 0.15,
    "vizinho": 109319,
+   "baixa": true
+  },
+  "P7519-Q024": {
+   "subassunto": "A054-05",
+   "confianca": 0.52,
+   "sim1": 0.13,
+   "vizinho": 107281,
    "baixa": true
   },
   "P7519-Q025": {
@@ -3320,6 +3342,13 @@
    "vizinho": 104078,
    "baixa": true
   },
+  "P7519-Q040": {
+   "subassunto": "A061-05",
+   "confianca": 0.18,
+   "sim1": 0.11,
+   "vizinho": 105337,
+   "baixa": true
+  },
   "P7519-Q041": {
    "subassunto": "A047-07",
    "confianca": 0.2,
@@ -3341,6 +3370,13 @@
    "vizinho": 105828,
    "baixa": true
   },
+  "P7519-Q044": {
+   "subassunto": "A038-01",
+   "confianca": 0.19,
+   "sim1": 0.12,
+   "vizinho": 2601,
+   "baixa": true
+  },
   "P7519-Q045": {
    "subassunto": "A036-03",
    "confianca": 0.47,
@@ -3355,6 +3391,13 @@
    "vizinho": 100550,
    "baixa": true
   },
+  "P7519-Q047": {
+   "subassunto": "A001-03",
+   "confianca": 0.12,
+   "sim1": 0.17,
+   "vizinho": 116163,
+   "baixa": true
+  },
   "P7519-Q048": {
    "subassunto": "A012-03",
    "confianca": 0.2,
@@ -3362,11 +3405,25 @@
    "vizinho": 170364,
    "baixa": true
   },
+  "P7519-Q049": {
+   "subassunto": "A025-04",
+   "confianca": 0.34,
+   "sim1": 0.21,
+   "vizinho": 111550,
+   "baixa": true
+  },
   "P7519-Q050": {
    "subassunto": "A025-04",
    "confianca": 0.31,
    "sim1": 0.18,
    "vizinho": 103810,
+   "baixa": true
+  },
+  "P7519-Q051": {
+   "subassunto": "A015-03",
+   "confianca": 0.21,
+   "sim1": 0.2,
+   "vizinho": 108190,
    "baixa": true
   },
   "P7519-Q052": {
@@ -3467,6 +3524,13 @@
    "vizinho": 8045,
    "baixa": true
   },
+  "P7521-Q007": {
+   "subassunto": "A047-07",
+   "confianca": 0.21,
+   "sim1": 0.15,
+   "vizinho": 160183,
+   "baixa": true
+  },
   "P7521-Q008": {
    "subassunto": "A011-01",
    "confianca": 0.15,
@@ -3530,6 +3594,34 @@
    "vizinho": 103550,
    "baixa": false
   },
+  "P7521-Q017": {
+   "subassunto": "A067-01",
+   "confianca": 0.5,
+   "sim1": 0.08,
+   "vizinho": 106750,
+   "baixa": true
+  },
+  "P7521-Q018": {
+   "subassunto": "A057-04",
+   "confianca": 0.61,
+   "sim1": 0.15,
+   "vizinho": 114929,
+   "baixa": true
+  },
+  "P7521-Q020": {
+   "subassunto": "A052-02",
+   "confianca": 0.44,
+   "sim1": 0.13,
+   "vizinho": 115926,
+   "baixa": true
+  },
+  "P7521-Q022": {
+   "subassunto": "A054-07",
+   "confianca": 0.52,
+   "sim1": 0.15,
+   "vizinho": 120348,
+   "baixa": true
+  },
   "P7521-Q023": {
    "subassunto": "A041-02",
    "confianca": 0.52,
@@ -3542,6 +3634,13 @@
    "confianca": 0.29,
    "sim1": 0.18,
    "vizinho": 170397,
+   "baixa": true
+  },
+  "P7521-Q025": {
+   "subassunto": "A004-02",
+   "confianca": 0.22,
+   "sim1": 0.12,
+   "vizinho": 100484,
    "baixa": true
   },
   "P7521-Q026": {
@@ -3600,6 +3699,13 @@
    "vizinho": 116391,
    "baixa": true
   },
+  "P7521-Q034": {
+   "subassunto": "A011-01",
+   "confianca": 0.43,
+   "sim1": 0.15,
+   "vizinho": 115164,
+   "baixa": true
+  },
   "P7521-Q035": {
    "subassunto": "A065-01",
    "confianca": 0.47,
@@ -3612,6 +3718,13 @@
    "confianca": 0.34,
    "sim1": 0.12,
    "vizinho": 113329,
+   "baixa": true
+  },
+  "P7521-Q037": {
+   "subassunto": "A002-02",
+   "confianca": 0.31,
+   "sim1": 0.13,
+   "vizinho": 117661,
    "baixa": true
   },
   "P7521-Q038": {
@@ -3705,11 +3818,32 @@
    "vizinho": 170470,
    "baixa": true
   },
+  "P7521-Q051": {
+   "subassunto": "A064-01",
+   "confianca": 0.12,
+   "sim1": 0.14,
+   "vizinho": 121264,
+   "baixa": true
+  },
   "P7521-Q052": {
    "subassunto": "A096-04",
    "confianca": 0.0,
    "sim1": 0.0,
    "vizinho": 103715,
+   "baixa": true
+  },
+  "P7521-Q054": {
+   "subassunto": "A042-01",
+   "confianca": 0.22,
+   "sim1": 0.11,
+   "vizinho": 5337,
+   "baixa": true
+  },
+  "P7521-Q055": {
+   "subassunto": "A037-04",
+   "confianca": 0.31,
+   "sim1": 0.09,
+   "vizinho": 116391,
    "baixa": true
   },
   "P7521-Q056": {
@@ -3810,6 +3944,20 @@
    "vizinho": 114182,
    "baixa": true
   },
+  "P7523-Q007": {
+   "subassunto": "A062-03",
+   "confianca": 0.77,
+   "sim1": 0.24,
+   "vizinho": 118432,
+   "baixa": true
+  },
+  "P7523-Q008": {
+   "subassunto": "A062-03",
+   "confianca": 0.58,
+   "sim1": 0.28,
+   "vizinho": 118432,
+   "baixa": false
+  },
   "P7523-Q009": {
    "subassunto": "A047-07",
    "confianca": 0.43,
@@ -3873,6 +4021,13 @@
    "vizinho": 100062,
    "baixa": false
   },
+  "P7523-Q024": {
+   "subassunto": "A021-03",
+   "confianca": 0.54,
+   "sim1": 0.18,
+   "vizinho": 114403,
+   "baixa": true
+  },
   "P7523-Q030": {
    "subassunto": "A012-03",
    "confianca": 0.6,
@@ -3922,6 +4077,34 @@
    "vizinho": 118142,
    "baixa": true
   },
+  "P7523-Q039": {
+   "subassunto": "A057-04",
+   "confianca": 0.62,
+   "sim1": 0.1,
+   "vizinho": 107948,
+   "baixa": true
+  },
+  "P7523-Q040": {
+   "subassunto": "A061-04",
+   "confianca": 0.12,
+   "sim1": 0.1,
+   "vizinho": 115631,
+   "baixa": true
+  },
+  "P7523-Q043": {
+   "subassunto": "A033-06",
+   "confianca": 0.14,
+   "sim1": 0.15,
+   "vizinho": 116648,
+   "baixa": true
+  },
+  "P7523-Q045": {
+   "subassunto": "A012-03",
+   "confianca": 0.22,
+   "sim1": 0.11,
+   "vizinho": 103187,
+   "baixa": true
+  },
   "P7523-Q047": {
    "subassunto": "A050-03",
    "confianca": 0.63,
@@ -3949,35 +4132,53 @@
    "sim1": 0.13,
    "vizinho": 118500,
    "baixa": true
+  },
+  "P7523-Q058": {
+   "subassunto": "A096-04",
+   "confianca": 0.21,
+   "sim1": 0.06,
+   "vizinho": 150144,
+   "baixa": true
+  },
+  "P7523-Q059": {
+   "subassunto": "A051-02",
+   "confianca": 0.2,
+   "sim1": 0.09,
+   "vizinho": 107365,
+   "baixa": true
+  },
+  "P7523-Q063": {
+   "subassunto": "A001-05",
+   "confianca": 0.21,
+   "sim1": 0.12,
+   "vizinho": 170041,
+   "baixa": true
   }
  },
- "publica": "reextraídas: []\nver à mão: []\n{'pendentes (não publicadas)': 72, 'título de área retirado': 0, 'novas': 418, 'atualizadas': 77} ids novos [180000] … [180417]\n",
- "grava_classif": "classificadas 418 de 418 | sem: [] | área diferente da prova: []",
- "verifica": "OK P7507 publicadas 59/59 (pendentes fora 4) | prova completa não ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7509 publicadas 59/59 (pendentes fora 4) | prova completa não ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7511 publicadas 62/62 (pendentes fora 1) | prova completa não ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7513 publicadas 60/60 (pendentes fora 3) | prova completa não ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7515 publicadas 52/52 (pendentes fora 11) | prova completa não ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7517 publicadas 54/54 (pendentes fora 9) | prova completa não ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7519 publicadas 50/50 (pendentes fora 13) | prova completa não ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7521 publicadas 49/49 (pendentes fora 14) | prova completa não ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7523 publicadas 50/50 (pendentes fora 13) | prova completa não ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []",
+ "publica": "P7519 fora da prova completa (ver motivo em _fora): ['P7519-Q060', 'P7519-Q061']\nreextraídas: []\nver à mão: []\n{'pendentes (não publicadas)': 13, 'título de área retirado': 0, 'novas': 476, '** solto retirado da alternativa': 285, 'atualizadas': 78, 'fora da prova completa (incertas)': 2} ids novos [180000] … [180475]\n",
+ "grava_classif": "classificadas 476 de 476 | sem: [] | área diferente da prova: []",
+ "verifica": "OK P7507 publicadas 62/62 (pendentes fora 1) | prova completa não ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7509 publicadas 62/62 (pendentes fora 1) | prova completa não ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7511 publicadas 62/62 (pendentes fora 1) | prova completa não ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7513 publicadas 63/63 (pendentes fora 0) | prova completa sim ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7515 publicadas 63/63 (pendentes fora 0) | prova completa sim ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7517 publicadas 63/63 (pendentes fora 0) | prova completa sim ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7519 publicadas 58/58 (pendentes fora 5) | prova completa não ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7521 publicadas 60/60 (pendentes fora 3) | prova completa não ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []\nOK P7523 publicadas 61/61 (pendentes fora 2) | prova completa não ok | faltam [] | sobram [] | repetidas [] | gabarito ≠ oficial [] | alternativas [] | vazio [] | sem classificação [] | símbolo []",
  "verifica_ok": true,
  "tempo_s": {
   "baixa": 0.1,
   "extrai": 0.0,
-  "gabarito": 1.3,
-  "casa": 6.8,
-  "separa": 2.9,
-  "classifica": 15.5,
-  "publica": 9.4,
+  "gabarito": 1.1,
+  "casa": 6.0,
+  "separa": 0.3,
+  "classifica": 17.4,
+  "publica": 10.2,
   "verifica": 2.9
  },
  "totais": {
-  "prontas": 495,
-  "pendentes": 72,
+  "prontas": 554,
+  "pendentes": 13,
   "novas": 478,
   "casadas": 78,
   "do_banco_antigo": 0,
   "gab_corrigido": 0
  },
  "pendentes_por_tipo": {
-  "figura": 22,
-  "alternativas": 16,
-  "símbolo": 13,
   "não extraída": 11,
-  "tabela": 10
+  "fora de propósito": 2
  }
 }
