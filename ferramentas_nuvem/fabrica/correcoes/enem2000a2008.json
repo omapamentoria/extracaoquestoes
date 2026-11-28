@@ -29,14 +29,23 @@
   ]
  },
  "P7507-Q038": {
-  "motivo": "recorte: o texto do apostador e as 3 opções abaixo da alternativa E são o enunciado-base da questão 39",
+  "motivo": "o texto-base (minério de ferro e tabela de Carajás) estava colado na alternativa E da questão 36; lido no recorte da página",
   "alt_sub": {
    "E": [
     "(?s)\\s*Um apostador.*$",
     ""
    ]
   },
-  "apos_alternativas": ""
+  "apos_alternativas": "",
+  "statement_sub": [
+   [
+    "\\A",
+    "O ferro pode ser obtido a partir da hematita, minério rico em óxido de ferro, pela reação com carvão e oxigênio. A tabela a seguir apresenta dados da análise de minério de ferro (hematita) obtido de várias regiões da Serra de Carajás.\n\n{{imgx:1}}\n\nFonte: ABREU, S. F. *Recursos minerais do Brasil*, vol. 2. São Paulo: Edusp, 1973\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2000/P7507/img/Q036_img2.png"
+  ]
  },
  "P7507-Q039": {
   "motivo": "o enunciado-base (apostador e 3 opções) estava no fim da questão 38; conferido no recorte",
@@ -509,6 +518,776 @@
   ],
   "imagens_extra": [
    "_banco/questoes/ENEM/2007/P7521/img/Q052_manual_1.png"
+  ]
+ },
+ "_casa": {
+  "P7523-Q048": [
+   100078,
+   "mesma questão (ENEM 2008, 48): o registro antigo estava sem a figura (só '↔'); passa a ter o texto-base e a figura do PDF oficial"
+  ]
+ },
+ "P7521-Q012": {
+  "motivo": "recorte: a imagem 2 é só o quadro 'RASCUNHO' do rodapé da página (não é fórmula nem símbolo); sai. A tabela (imagem 1) confere com o recorte (idosos 50/150/60/260; crianças 150/210/90/450)",
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7521-Q024": {
+  "motivo": "recorte: a imagem 2 é só o quadro 'RASCUNHO' do rodapé da página (não é fórmula nem símbolo); sai",
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7511-Q003": {
+  "motivo": "conferido no texto do PDF: a quebra de linha cai em 'meia-maratona', palavra que leva hífen mesmo (hífen mantido); o resto do texto confere com o recorte"
+ },
+ "P7511-Q035": {
+  "motivo": "conferido no texto do PDF: a quebra de linha cai em 'dia-a-dia', palavra que leva hífen mesmo (hífen mantido); o resto do texto confere com o recorte"
+ },
+ "P7519-Q043": {
+  "motivo": "conferido no texto do PDF: a quebra de linha cai em 'vassoura-de-bruxa', palavra que leva hífen mesmo (hífen mantido); o resto do texto confere com o recorte"
+ },
+ "P7523-Q019": {
+  "motivo": "conferido no texto do PDF: a quebra de linha cai em 'deteriorando-se', palavra que leva hífen mesmo (hífen mantido); o resto do texto confere com o recorte"
+ },
+ "P7521-Q056": {
+  "motivo": "conferido no texto do PDF: 'auto-replicação' leva hífen mesmo (hífen mantido); alternativa E estava cortada ('compostos nitrogenados.' ficou na linha seguinte); 'l. O’neill' lido como 'I. O’neill' no recorte",
+  "alt_sub": {
+   "E": [
+    "excreção de\\s*$",
+    "excreção de compostos nitrogenados."
+   ]
+  },
+  "statement_sub": [
+   [
+    "M\\. O\\. Murphy e l\\. O’neill",
+    "M. O. Murphy e I. O’neill"
+   ]
+  ]
+ },
+ "P7523-Q017": {
+  "motivo": "recorte: 'alteraram-se' leva hífen mesmo; o ideograma 馬 (imagem 1) fica no meio da frase, depois de 'ideograma', e não no começo do enunciado",
+  "statement_sub": [
+   [
+    "\\A\\{\\{img:1\\}\\}\\n\\n",
+    ""
+   ],
+   [
+    "evolução do ideograma , que",
+    "evolução do ideograma {{img:1}}, que"
+   ]
+  ]
+ },
+ "P7507-Q036": {
+  "motivo": "o texto do minério de ferro e a tabela de Carajás (imagem 2) abaixo da alternativa E são o texto-base das questões 37 e 38; saem desta",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*O\\ ferro\\ pode\\ ser\\ obtido.*$",
+    ""
+   ]
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7507-Q037": {
+  "motivo": "o texto-base (minério de ferro e tabela de Carajás) estava colado na alternativa E da questão 36; lido no recorte da página",
+  "statement_sub": [
+   [
+    "\\A",
+    "O ferro pode ser obtido a partir da hematita, minério rico em óxido de ferro, pela reação com carvão e oxigênio. A tabela a seguir apresenta dados da análise de minério de ferro (hematita) obtido de várias regiões da Serra de Carajás.\n\n{{imgx:1}}\n\nFonte: ABREU, S. F. *Recursos minerais do Brasil*, vol. 2. São Paulo: Edusp, 1973\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2000/P7507/img/Q036_img2.png"
+  ]
+ },
+ "P7507-Q040": {
+  "motivo": "o texto do boato (R(x) = k.x.(P-x)) colado na alternativa E é o texto-base da questão 41; o texto do apostador (opções 1ª a 3ª) é o enunciado-base desta e da 39",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*Um\\ boato\\ tem.*$",
+    ""
+   ]
+  },
+  "statement_sub": [
+   [
+    "\\A",
+    "Um apostador tem três opções para participar de certa modalidade de jogo, que consiste no sorteio aleatório de um número dentre dez.\n\n1<u><sup>a</sup></u> opção: comprar três números para um único sorteio.\n\n2<u><sup>a</sup></u> opção: comprar dois números para um sorteio e um número para um segundo sorteio.\n\n3<u><sup>a</sup></u> opção: comprar um número para cada sorteio, num total de três sorteios.\n\n"
+   ]
+  ]
+ },
+ "P7507-Q041": {
+  "motivo": "o texto-base (boato) estava colado na alternativa E da questão 40; conferido no recorte",
+  "statement_sub": [
+   [
+    "\\A",
+    "Um boato tem um público-alvo e alastra-se com determinada rapidez. Em geral, essa rapidez é diretamente proporcional ao número de pessoas desse público que conhecem o boato e diretamente proporcional também ao número de pessoas que não o conhecem. Em outras palavras, sendo R a rapidez de propagação, P o público-alvo e x o número de pessoas que conhecem o boato, tem-se: R(x) = k.x.(P-x), onde k é uma constante positiva característica do boato.\n\n"
+   ]
+  ]
+ },
+ "P7507-Q043": {
+  "motivo": "recorte da página 10: as 5 alternativas são varas graduadas desenhadas, em ordem A–E da esquerda para a direita (imagens 3, 4, 5, 6 e 2); a letra '(E)' estava dentro da B e a imagem 2 dentro da D",
+  "alternativas_lista": [
+   [
+    "A",
+    "{{img:3}}"
+   ],
+   [
+    "B",
+    "{{img:4}}"
+   ],
+   [
+    "C",
+    "{{img:5}}"
+   ],
+   [
+    "D",
+    "{{img:6}}"
+   ],
+   [
+    "E",
+    "{{img:2}}"
+   ]
+  ]
+ },
+ "P7507-Q047": {
+  "motivo": "recorte da página 11: as alternativas são as linhas de uma tabela (Aterro sanitário / Depósito a céu aberto / Incineração), lidas em recorte ampliado: A I-II-I, B I-III-IV, C II-IV-I, D II-I-IV, E III-II-I; as imagens 1 a 4 (linhas B–E recortadas) saem; o texto do flúor colado na E é da questão 48",
+  "alternativas_lista": [
+   [
+    "A",
+    "Aterro sanitário: I; Depósito a céu aberto: II; Incineração: I"
+   ],
+   [
+    "B",
+    "Aterro sanitário: I; Depósito a céu aberto: III; Incineração: IV"
+   ],
+   [
+    "C",
+    "Aterro sanitário: II; Depósito a céu aberto: IV; Incineração: I"
+   ],
+   [
+    "D",
+    "Aterro sanitário: II; Depósito a céu aberto: I; Incineração: IV"
+   ],
+   [
+    "E",
+    "Aterro sanitário: III; Depósito a céu aberto: II; Incineração: I"
+   ]
+  ],
+  "remove_imagens": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "apos_alternativas": ""
+ },
+ "P7507-Q048": {
+  "motivo": "o enunciado inteiro (texto do flúor, afirmações I a III) estava colado na alternativa E da questão 47 e aqui ficou só um pedaço embaralhado; refeito conforme o recorte da página 11",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "No Brasil, mais de 66 milhões de pessoas beneficiam-se hoje do abastecimento de água fluoretada, medida que vem reduzindo, em cerca de 50%, a incidência de cáries. Ocorre, entretanto, que profissionais da saúde muitas vezes prescrevem flúor oral ou complexos vitamínicos com flúor para crianças ou gestantes, levando à ingestão exagerada da substância. O mesmo ocorre com o uso abusivo de algumas marcas de água mineral que contêm flúor. O excesso de flúor - fluorose - nos dentes pode ocasionar desde efeitos estéticos até defeitos estruturais graves. Foram registrados casos de fluorose tanto em cidades com água fluoretada pelos poderes públicos como em outras, abastecidas por lençóis freáticos que naturalmente contêm flúor. (Adaptado da *Revista da Associação Paulista de Cirurgiões Dentistas* - APCD, vol. 53, nº 1, jan./fev. 1999)\n\nCom base nesse texto, são feitas as afirmações abaixo.\n\n**I** A fluoretação da água é importante para a manutenção do esmalte dentário, porém não pode ser excessiva.\n\n**II** Os lençóis freáticos citados contêm compostos de flúor, em concentrações superiores às existentes na água tratada.\n\n**III** As pessoas que adquiriram fluorose podem ter utilizado outras fontes de flúor além da água de abastecimento público, como, por exemplo, cremes dentais e vitaminas com flúor.\n\nPode-se afirmar que, apenas:"
+   ]
+  ]
+ },
+ "P7507-Q049": {
+  "motivo": "recorte: as 5 alternativas estavam numa linha só: (A) 1,5 kg. (B) 4,5 kg. (C) 96 kg. (D) 124 kg. (E) 162 kg. (30.000 L/s × 3.600 s × 1,5 mg/L = 162 kg, igual ao gabarito oficial E)",
+  "alternativas_lista": [
+   [
+    "A",
+    "1,5 kg."
+   ],
+   [
+    "B",
+    "4,5 kg."
+   ],
+   [
+    "C",
+    "96 kg."
+   ],
+   [
+    "D",
+    "124 kg."
+   ],
+   [
+    "E",
+    "162 kg."
+   ]
+  ]
+ },
+ "P7507-Q051": {
+  "motivo": "o texto de Locke colado na alternativa E é o texto-base das questões 52 e 53",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*O\\ texto\\ abaixo,\\ de\\ John\\ Locke.*$",
+    ""
+   ]
+  }
+ },
+ "P7507-Q052": {
+  "motivo": "o texto-base de John Locke (colado na alternativa E da questão 51) conferido no recorte da página 12",
+  "statement_sub": [
+   [
+    "\\A",
+    "O texto abaixo, de John Locke (1632-1704), revela algumas características de uma determinada corrente de pensamento. *“Se o homem no estado de natureza é tão livre, conforme dissemos, se é senhor absoluto da sua própria pessoa e posses, igual ao maior e a ninguém sujeito, por que abrirá ele mão dessa liberdade, por que abandonará o seu império e sujeitar-se-á ao domínio e controle de qualquer outro poder? Ao que é óbvio responder que, embora no estado de natureza tenha tal direito, a utilização do mesmo é muito incerta e está constantemente exposto à invasão de terceiros porque, sendo todos senhores tanto quanto ele, todo homem igual a ele e, na maior parte, pouco observadores da eqüidade e da justiça, o proveito da propriedade que possui nesse estado é muito inseguro e muito arriscado. Estas circunstâncias obrigam-no a abandonar uma condição que, embora livre, está cheia de temores e perigos constantes; e não é sem razão que procura de boa vontade juntar- se em sociedade com outros que estão já unidos, ou pretendem unir-se, para a mútua conservação da vida, da liberdade e dos bens a que chamo de propriedade.”* \n\n(*Os Pensadores.* São Paulo: Nova Cultural, 1991)\n\n"
+   ]
+  ]
+ },
+ "P7507-Q053": {
+  "motivo": "o texto-base de John Locke conferido no recorte da página 12; o texto do repolho roxo, a escala de cores (imagem 1) e a tabela Material/Cor colados na alternativa E são da questão 54",
+  "statement_sub": [
+   [
+    "\\A",
+    "O texto abaixo, de John Locke (1632-1704), revela algumas características de uma determinada corrente de pensamento. *“Se o homem no estado de natureza é tão livre, conforme dissemos, se é senhor absoluto da sua própria pessoa e posses, igual ao maior e a ninguém sujeito, por que abrirá ele mão dessa liberdade, por que abandonará o seu império e sujeitar-se-á ao domínio e controle de qualquer outro poder? Ao que é óbvio responder que, embora no estado de natureza tenha tal direito, a utilização do mesmo é muito incerta e está constantemente exposto à invasão de terceiros porque, sendo todos senhores tanto quanto ele, todo homem igual a ele e, na maior parte, pouco observadores da eqüidade e da justiça, o proveito da propriedade que possui nesse estado é muito inseguro e muito arriscado. Estas circunstâncias obrigam-no a abandonar uma condição que, embora livre, está cheia de temores e perigos constantes; e não é sem razão que procura de boa vontade juntar- se em sociedade com outros que estão já unidos, ou pretendem unir-se, para a mútua conservação da vida, da liberdade e dos bens a que chamo de propriedade.”* \n\n(*Os Pensadores.* São Paulo: Nova Cultural, 1991)\n\n"
+   ]
+  ],
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*O\\ suco\\ extraído\\ do\\ repolho\\ roxo.*$",
+    ""
+   ]
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7507-Q054": {
+  "motivo": "o texto-base (repolho roxo), a escala de cores e a tabela Material/Cor estavam colados na alternativa E da questão 53; conferido no recorte (tabela: I Amoníaco Verde; II Leite de magnésia Azul; III Vinagre Vermelho; IV Leite de vaca Rosa)",
+  "statement_sub": [
+   [
+    "\\A",
+    "O suco extraído do repolho roxo pode ser utilizado como indicador do caráter ácido (pH entre 0 e 7) ou básico (pH entre 7 e 14) de diferentes soluções. Misturando-se um pouco de suco de repolho e da solução, a mistura passa a apresentar diferentes cores, segundo sua natureza ácida ou básica, de acordo com a escala abaixo.\n\n{{imgx:1}}\n\nAlgumas soluções foram testadas com esse indicador, produzindo os seguintes resultados:\n\n| Material | Cor |\n|---|---|\n| **I** Amoníaco | Verde |\n| **II** Leite de magnésia | Azul |\n| **III** Vinagre | Vermelho |\n| **IV** Leite de vaca | Rosa |\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2000/P7507/img/Q053_img1.png"
+  ]
+ },
+ "P7507-Q033": {
+  "motivo": "a questão 33 também se refere ao texto de Millôr Fernandes (base das questões 32 e 33), que ficou na questão 31",
+  "statement_sub": [
+   [
+    "\\A",
+    "O autor do texto abaixo critica, ainda que em linguagem metafórica, a sociedade contemporânea em relação aos seus hábitos alimentares.\n\n*“Vocês que têm mais de 15 anos, se lembram quando a gente comprava leite em garrafa, na leiteria da esquina? (...) Mas vocês não se lembram de nada, pô! Vai ver nem sabem o que é vaca. Nem o que é leite. Estou falando isso porque agora mesmo peguei um pacote de leite – leite em pacote, imagina, Tereza! – na porta dos fundos e estava escrito que é pasterizado, ou pasteurizado, sei lá, tem vitamina, é garantido pela embromatologia, foi enriquecido e o escambau. Será que isso é mesmo leite? No dicionário diz que leite é outra coisa: ‘Líquido branco, contendo água, proteína, açúcar e sais minerais’. Um alimento pra ninguém botar defeito. O ser humano o usa há mais de 5.000 anos. É o único alimento só alimento. A carne serve pro animal andar, a fruta serve pra fazer outra fruta, o ovo serve pra fazer outra galinha (...) O leite é só leite. Ou toma ou bota fora. Esse aqui examinando bem, é só pra botar fora. Tem chumbo, tem benzina, tem mais água do que leite, tem serragem, sou capaz de jurar que nem vaca tem por trás desse negócio. Depois o pessoal ainda acha estranho que os meninos não gostem de leite. Mas, como não gostam? Não gostam como? Nunca tomaram! Múúúúúúú!”*\n\n(FERNANDES, Millôr. *O Estado de S. Paulo*, 22 de agosto de 1999)\n\n"
+   ]
+  ]
+ },
+ "P7507-Q058": {
+  "motivo": "recorte da página 12: '160 X 10⁶ habitantes' (expoente 6) e 'é x vezes maior do que para um indivíduo do grupo de renda inferior. O valor aproximado de x é:' (a fórmula do extrator estava embaralhada)",
+  "statement_sub": [
+   [
+    "160 X 106 habitantes",
+    "160 X 10<sup>6</sup> habitantes"
+   ],
+   [
+    "é \\\\\\(\\\\frac\\{x\\\\,vezes\\\\,maior\\}\\{de\\\\,x\\}\\\\\\) do que",
+    "é *x* vezes maior do que"
+   ],
+   [
+    "O valor aproximado é:",
+    "O valor aproximado de *x* é:"
+   ]
+  ]
+ },
+ "P7509-Q015": {
+  "motivo": "o texto e o gráfico do consumo de energia (imagem 2) colados na alternativa E são o enunciado-base da questão 16; alternativa E = 'Luísa, Roberto e Abel.'",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*A\\ distribuição\\ média.*$",
+    ""
+   ]
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7509-Q016": {
+  "motivo": "o texto e o gráfico do consumo de energia estavam colados na alternativa E da questão 15; conferido no recorte da página",
+  "statement_sub": [
+   [
+    "\\A",
+    "**A distribuição média, por tipo de equipamento, do consumo de energia elétrica nas residências no Brasil é apresentada no gráfico.**\n\n{{imgx:1}}\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2001/P7509/img/Q015_img2.png"
+  ]
+ },
+ "P7509-Q021": {
+  "motivo": "o esquema do ciclo do enxofre (imagem 1) e sua legenda, colados na alternativa E, são o enunciado-base da questão 22; tabelas de densidade conferidas com o recorte (água 1000, álcool 800; postos I 822, II 820, III 815, IV 808, V 805)",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*O\\ esquema\\ representa\\ o\\ ciclo\\ do\\ enxofre.*$",
+    ""
+   ]
+  },
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7509-Q022": {
+  "motivo": "o esquema do ciclo do enxofre estava colado na alternativa E da questão 21; conferido no recorte da página",
+  "statement_sub": [
+   [
+    "\\A",
+    "**O esquema representa o ciclo do enxofre na natureza, sem considerar a intervenção humana.**\n\nAdaptado de BRIMBLECOMBE, P. *Air Composition and Chemistry.* Cambridge. Cambridge University Press, 1996.\n\n{{imgx:1}}\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2001/P7509/img/Q021_img1.png"
+  ]
+ },
+ "P7509-Q048": {
+  "motivo": "a frase sobre refrigeração, colada na alternativa E, é o início do enunciado-base da questão 49; tabela do peso do pacu conferida (idade 1 a 13: 1,1; 1,7; 2,6; 3,9; 5,1; 6,1; 7; 7,8; 8,5; 8,9; 9,1; 9,3; 9,4)",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*A\\ refrigeração\\ e\\ o\\ congelamento.*$",
+    ""
+   ]
+  }
+ },
+ "P7509-Q049": {
+  "motivo": "a frase de abertura sobre refrigeração estava colada na alternativa E da questão 48; conferida no recorte",
+  "statement_sub": [
+   [
+    "\\A",
+    "**A refrigeração e o congelamento de alimentos são responsáveis por uma parte significativa do consumo de energia elétrica numa residência típica.**\n\n"
+   ]
+  ]
+ },
+ "P7509-Q059": {
+  "motivo": "recorte: o texto 'A Mata Atlântica...', as figuras e as alternativas depois da E são da questão 60 (fora, não extraída); rótulos 'Agricultura', 'Serviços Indústria/mineração' fazem parte do gráfico",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*60\\ A\\ Mata\\ Atlântica.*$",
+    ""
+   ]
+  },
+  "statement_sub": [
+   [
+    "\\n\\nAgricultura\\n\\nServiços Indústria/mineração",
+    ""
+   ]
+  ],
+  "apos_alternativas": ""
+ },
+ "P7509-Q032": {
+  "motivo": "recorte da página: as alternativas A–E são desenhos (letras soltas e imagens misturadas na alternativa A); recortadas à mão uma a uma (Q032_altA–E.png); imagens antigas saem",
+  "alternativas_lista": [
+   [
+    "A",
+    "{{imgx:1}}"
+   ],
+   [
+    "B",
+    "{{imgx:2}}"
+   ],
+   [
+    "C",
+    "{{imgx:3}}"
+   ],
+   [
+    "D",
+    "{{imgx:4}}"
+   ],
+   [
+    "E",
+    "{{imgx:5}}"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2001/P7509/img/Q032_altA.png",
+   "_banco/questoes/ENEM/2001/P7509/img/Q032_altB.png",
+   "_banco/questoes/ENEM/2001/P7509/img/Q032_altC.png",
+   "_banco/questoes/ENEM/2001/P7509/img/Q032_altD.png",
+   "_banco/questoes/ENEM/2001/P7509/img/Q032_altE.png"
+  ],
+  "remove_imagens": [
+   2,
+   3,
+   4
+  ],
+  "statement_sub": [
+   [
+    "\\n\\n\\*\\*\\(C\\) \\(B\\)\\*\\*\\s*$",
+    ""
+   ]
+  ]
+ },
+ "P7509-Q058": {
+  "motivo": "recorte da página: as alternativas A–E são desenhos (letras soltas e imagens misturadas na alternativa A); recortadas à mão uma a uma (Q058_altA–E.png); imagens antigas saem",
+  "alternativas_lista": [
+   [
+    "A",
+    "{{imgx:1}}"
+   ],
+   [
+    "B",
+    "{{imgx:2}}"
+   ],
+   [
+    "C",
+    "{{imgx:3}}"
+   ],
+   [
+    "D",
+    "{{imgx:4}}"
+   ],
+   [
+    "E",
+    "{{imgx:5}}"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2001/P7509/img/Q058_altA.png",
+   "_banco/questoes/ENEM/2001/P7509/img/Q058_altB.png",
+   "_banco/questoes/ENEM/2001/P7509/img/Q058_altC.png",
+   "_banco/questoes/ENEM/2001/P7509/img/Q058_altD.png",
+   "_banco/questoes/ENEM/2001/P7509/img/Q058_altE.png"
+  ],
+  "remove_imagens": [
+   2,
+   3
+  ],
+  "statement_sub": [
+   [
+    "\\n\\n\\*\\*\\(B\\)\\*\\*\\s*$",
+    ""
+   ]
+  ]
+ },
+ "P7511-Q023": {
+  "motivo": "a imagem 1 (texto da questão 24 desenhado, colado depois da alternativa E) não é desta questão; sai",
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7511-Q030": {
+  "motivo": "o texto da corvina, colado na alternativa E, e a tabela de mercúrio (figura descartada pelo extrator) são o enunciado-base das questões 31 e 32; saem desta",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*A\\ corvina\\ é\\ um\\ peixe.*$",
+    ""
+   ]
+  }
+ },
+ "P7511-Q031": {
+  "motivo": "o texto da corvina e a tabela de concentração de mercúrio (recortada à mão da página 14, Q031_manual_1.png) estavam colados na alternativa E da questão 30 / descartados; conferido no recorte",
+  "statement_sub": [
+   [
+    "\\A",
+    "A corvina é um peixe carnívoro que se alimenta de crustáceos, moluscos e pequenos peixes que vivem no fundo do mar. É bastante utilizada na alimentação humana, sendo encontrada em toda a costa brasileira, embora seja mais abundante no sul do País. A tabela registra a concentração média anual de mercúrio no tecido muscular de corvinas capturadas em quatro áreas.\n\n{{imgx:1}}\n\nKEHRIG, H. A. & MALM, O. Mercúrio: uma avaliação na costa brasileira. Ciência Hoje, outubro, 1997.\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2002/P7511/img/Q031_manual_1.png"
+  ]
+ },
+ "P7511-Q032": {
+  "motivo": "o texto da corvina e a tabela de concentração de mercúrio (recortada à mão da página 14, Q031_manual_1.png) estavam colados na alternativa E da questão 30 / descartados; conferido no recorte",
+  "statement_sub": [
+   [
+    "\\A",
+    "A corvina é um peixe carnívoro que se alimenta de crustáceos, moluscos e pequenos peixes que vivem no fundo do mar. É bastante utilizada na alimentação humana, sendo encontrada em toda a costa brasileira, embora seja mais abundante no sul do País. A tabela registra a concentração média anual de mercúrio no tecido muscular de corvinas capturadas em quatro áreas.\n\n{{imgx:1}}\n\nKEHRIG, H. A. & MALM, O. Mercúrio: uma avaliação na costa brasileira. Ciência Hoje, outubro, 1997.\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2002/P7511/img/Q031_manual_1.png"
+  ]
+ },
+ "P7511-Q040": {
+  "motivo": "o texto do Calendário Muçulmano, colado na alternativa E, é o enunciado-base da questão 41",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*Existem\\ muitas\\ diferenças\\ entre\\ as\\ culturas.*$",
+    ""
+   ]
+  }
+ },
+ "P7511-Q041": {
+  "motivo": "o texto-base do Calendário Cristão e Muçulmano estava colado na alternativa E da questão 40; conferido no recorte",
+  "statement_sub": [
+   [
+    "\\A",
+    "Existem muitas diferenças entre as culturas cristã e islâmica. Uma das principais diz respeito ao Calendário. Enquanto o Calendário Cristão (Gregoriano) considera um ano como o período correspondente ao movimento de translação da Terra em torno do Sol – aproximadamente 365 dias, o Calendário Muçulmano se baseia nos movimentos de translação da Lua em torno da Terra – aproximadamente 12 por ano, o que corresponde a anos intercalados de 254 e 255 dias.\n\n"
+   ]
+  ]
+ },
+ "P7511-Q054": {
+  "motivo": "recorte: as alternativas são A I e III. B I e IV. C II e IV. D I, III e IV. E II, III e IV.; o texto de Quito/Cingapura e as alternativas 16, 20, 25, 32, 36 horas são da questão 55 (fora: não extraída), e saem desta",
+  "alternativas_lista": [
+   [
+    "A",
+    "I e III."
+   ],
+   [
+    "B",
+    "I e IV."
+   ],
+   [
+    "C",
+    "II e IV."
+   ],
+   [
+    "D",
+    "I, III e IV."
+   ],
+   [
+    "E",
+    "II, III e IV."
+   ]
+  ]
+ },
+ "P7519-Q009": {
+  "motivo": "o quadro da história da Terra (era, período, milhões de anos, evolução biológica, paleogeografia), base das questões 9 e 10, não tinha sido extraído; recortado à mão da página 5 (Q009_manual_1.png)",
+  "statement_sub": [
+   [
+    "\\A",
+    "Para responder às questões 9 e 10, analise o quadro a seguir, que esquematiza a história da Terra.\n\n{{imgx:1}}\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2006/P7519/img/Q009_manual_1.png"
+  ]
+ },
+ "P7519-Q010": {
+  "motivo": "recorte da página 5: o enunciado estava embaralhado com o texto das 5 escalas desenhadas (alternativas A–E); refeito; escalas recortadas à mão (Q010_altA–E.png); quadro-base recortado à mão (Q009_manual_1.png)",
+  "statement_sub": [
+   [
+    "(?s)\\A.*\\Z",
+    "Para responder às questões 9 e 10, analise o quadro a seguir, que esquematiza a história da Terra.\n\n{{imgx:1}}\n\nEntre as opções a seguir, assinale a que melhor representa a história da Terra em uma escala de 0 a 100, com comprimentos iguais para intervalos de tempo de mesma duração."
+   ]
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "{{imgx:2}}"
+   ],
+   [
+    "B",
+    "{{imgx:3}}"
+   ],
+   [
+    "C",
+    "{{imgx:4}}"
+   ],
+   [
+    "D",
+    "{{imgx:5}}"
+   ],
+   [
+    "E",
+    "{{imgx:6}}"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2006/P7519/img/Q009_manual_1.png",
+   "_banco/questoes/ENEM/2006/P7519/img/Q010_altA.png",
+   "_banco/questoes/ENEM/2006/P7519/img/Q010_altB.png",
+   "_banco/questoes/ENEM/2006/P7519/img/Q010_altC.png",
+   "_banco/questoes/ENEM/2006/P7519/img/Q010_altD.png",
+   "_banco/questoes/ENEM/2006/P7519/img/Q010_altE.png"
+  ]
+ },
+ "P7519-Q027": {
+  "motivo": "a imagem 1 é só a etiqueta 'RASCUNHO' do fim da página (10 pt de altura), não é da questão; sai",
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7519-Q055": {
+  "motivo": "a imagem 1 é só a etiqueta 'RASCUNHO' do fim da página (10 pt de altura), não é da questão; sai",
+  "remove_imagens": [
+   1
+  ]
+ },
+ "P7521-Q001": {
+  "motivo": "recorte da página 3: as cinco fotos têm legenda (texto) embaixo, que estava faltando: A Cristo Redentor, B Pelourinho, C Bumba-meu-boi, D Cataratas do Iguaçu, E Esfinge de Gizé; fonte das figuras 'Figuras extraídas da Internet.'",
+  "alternativas_lista": [
+   [
+    "A",
+    "{{img:1}}\n\nCristo Redentor"
+   ],
+   [
+    "B",
+    "{{img:2}}\n\nPelourinho"
+   ],
+   [
+    "C",
+    "{{img:3}}\n\nBumba-meu-boi"
+   ],
+   [
+    "D",
+    "{{img:4}}\n\nCataratas do Iguaçu"
+   ],
+   [
+    "E",
+    "{{img:5}}\n\nEsfinge de Gizé"
+   ]
+  ],
+  "statement_sub": [
+   [
+    "$",
+    "\n\n(Figuras extraídas da Internet.)"
+   ]
+  ]
+ },
+ "P7521-Q002": {
+  "motivo": "recorte da página 3: alternativas são 5 quadros com legenda (A Acesso a Monte Serrat – Santos; B Vaso de Flores; C A Santa Ceia; D Nossa Senhora Auxiliadora e Dom Bosco; E A Boba), imagens 1,4,5,2,3; os textos I e II de Vidas Secas colados na alternativa C são da questões 3 e 4; citação de Lobato refeita sem quebras de coluna; fontes 2 e 3 são dos textos I e II",
+  "alternativas_lista": [
+   [
+    "A",
+    "{{img:1}}\n\nAcesso a Monte Serrat – Santos"
+   ],
+   [
+    "B",
+    "{{img:4}}\n\nVaso de Flores"
+   ],
+   [
+    "C",
+    "{{img:5}}\n\nA Santa Ceia"
+   ],
+   [
+    "D",
+    "{{img:2}}\n\nNossa Senhora Auxiliadora e Dom Bosco"
+   ],
+   [
+    "E",
+    "{{img:3}}\n\nA Boba"
+   ]
+  ],
+  "statement_sub": [
+   [
+    "(?s)Há duas espécies de artistas\\. Uma.*extravagâncias de Picasso & cia\\.",
+    "Há duas espécies de artistas. Uma composta dos que vêem as coisas e em conseqüência fazem arte pura, guardados os eternos ritmos da vida, e adotados, para a concretização das emoções estéticas, os processos clássicos dos grandes mestres. (...) A outra espécie é formada dos que vêem anormalmente a natureza e a interpretam à luz das teorias efêmeras, sob a sugestão estrábica das escolas rebeldes, surgidas cá e lá como furúnculos da cultura excessiva. (...). Estas considerações são provocadas pela exposição da sra. Malfatti, onde se notam acentuadíssimas tendências para uma atitude estética forçada no sentido das extravagâncias de Picasso & cia."
+   ],
+   [
+    "\\n\\n\\{\\{fonte:2\\}\\}\\n\\n\\{\\{fonte:3\\}\\}",
+    ""
+   ]
+  ],
+  "fontes": [
+   "**O Diário de São Paulo**, dez./1917."
+  ]
+ },
+ "P7521-Q003": {
+  "motivo": "recorte da página 4: textos I e II de Vidas Secas (colados na alternativa C da questão 2) são a base das questões 3 e 4; alternativas D e E estavam numa linha só: D I e II., E II e III.",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Textos para as questões 3 e 4**\n\n**Texto I** Agora Fabiano conseguia arranjar as idéias. O que o segurava era a família. Vivia preso como um novilho amarrado ao mourão, suportando ferro quente. Se não fosse isso, um soldado amarelo não lhe pisava o pé não. (...) Tinha aqueles cambões pendurados ao pescoço. Deveria continuar a arrastá-los? Sinha Vitória dormia mal na cama de varas. Os meninos eram uns brutos, como o pai. Quando crescessem, guardariam as reses de um patrão invisível, seriam pisados, maltratados, machucados por um soldado amarelo.\n\n{{fonte:1}}\n\n**Texto II** Para Graciliano, o roceiro pobre é um outro, enigmático, impermeável. Não há solução fácil para uma tentativa de incorporação dessa figura no campo da ficção. É lidando com o impasse, ao invés de fáceis soluções, que Graciliano vai criar **Vidas Secas**, elaborando uma linguagem, uma estrutura romanesca, uma constituição de narrador em que narrador e criaturas se tocam, mas não se identificam. Em grande medida, o debate acontece porque, para a intelectualidade brasileira naquele momento, o pobre, a despeito de aparecer idealizado em certos aspectos, ainda é visto como um ser humano de segunda categoria, simples demais, incapaz de ter pensamentos demasiadamente complexos. O que **Vidas Secas** faz é, com pretenso não envolvimento da voz que controla a narrativa, dar conta de uma riqueza humana de que essas pessoas seriam plenamente capazes.\n\n{{fonte:2}}\n\n"
+   ]
+  ],
+  "fontes": [
+   "Graciliano Ramos. **Vidas Secas**. São Paulo: Martins, 23.ª ed., 1969, p. 75.",
+   "Luís Bueno. **Guimarães, Clarice e antes**. *In*: **Teresa**. São Paulo: USP, n.° 2, 2001, p. 254."
+  ],
+  "alternativas_lista": [
+   [
+    "A",
+    "I."
+   ],
+   [
+    "B",
+    "II."
+   ],
+   [
+    "C",
+    "III."
+   ],
+   [
+    "D",
+    "I e II."
+   ],
+   [
+    "E",
+    "II e III."
+   ]
+  ]
+ },
+ "P7521-Q004": {
+  "motivo": "os textos I e II de Vidas Secas estavam colados na alternativa C da questão 2; conferidos no recorte da página 4",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Textos para as questões 3 e 4**\n\n**Texto I** Agora Fabiano conseguia arranjar as idéias. O que o segurava era a família. Vivia preso como um novilho amarrado ao mourão, suportando ferro quente. Se não fosse isso, um soldado amarelo não lhe pisava o pé não. (...) Tinha aqueles cambões pendurados ao pescoço. Deveria continuar a arrastá-los? Sinha Vitória dormia mal na cama de varas. Os meninos eram uns brutos, como o pai. Quando crescessem, guardariam as reses de um patrão invisível, seriam pisados, maltratados, machucados por um soldado amarelo.\n\n{{fonte:1}}\n\n**Texto II** Para Graciliano, o roceiro pobre é um outro, enigmático, impermeável. Não há solução fácil para uma tentativa de incorporação dessa figura no campo da ficção. É lidando com o impasse, ao invés de fáceis soluções, que Graciliano vai criar **Vidas Secas**, elaborando uma linguagem, uma estrutura romanesca, uma constituição de narrador em que narrador e criaturas se tocam, mas não se identificam. Em grande medida, o debate acontece porque, para a intelectualidade brasileira naquele momento, o pobre, a despeito de aparecer idealizado em certos aspectos, ainda é visto como um ser humano de segunda categoria, simples demais, incapaz de ter pensamentos demasiadamente complexos. O que **Vidas Secas** faz é, com pretenso não envolvimento da voz que controla a narrativa, dar conta de uma riqueza humana de que essas pessoas seriam plenamente capazes.\n\n{{fonte:2}}\n\n"
+   ]
+  ],
+  "fontes": [
+   "Graciliano Ramos. **Vidas Secas**. São Paulo: Martins, 23.ª ed., 1969, p. 75.",
+   "Luís Bueno. **Guimarães, Clarice e antes**. *In*: **Teresa**. São Paulo: USP, n.° 2, 2001, p. 254."
+  ]
+ },
+ "P7523-Q021": {
+  "motivo": "recorte da página 8/9: o título 'Diagrama para as questões 22 e 23' e o parágrafo do diagrama, depois da alternativa E, são a base das questões 22 e 23; saem desta",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*\\*\\*Diagrama\\ para\\ as\\ questões\\ 22\\ e\\ 23\\*\\*.*$",
+    ""
+   ]
+  },
+  "apos_alternativas": ""
+ },
+ "P7523-Q022": {
+  "motivo": "o diagrama do fluxo de energia (recortado à mão da página 8, Q022_manual_1.png) e seu texto, base das questões 22 e 23, estavam depois da alternativa E da questão 21 / figura descartada",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Diagrama para as questões 22 e 23**\n\nO diagrama abaixo representa, de forma esquemática e simplificada, a distribuição da energia proveniente do Sol sobre a atmosfera e a superfície terrestre. Na área delimitada pela linha tracejada, são destacados alguns processos envolvidos no fluxo de energia na atmosfera.\n\n{{imgx:1}}\n\nRaymong A. Serway e John W. Jewett. Principios de Física, v. 2, fig. 18.12 (com adaptações).\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2008/P7523/img/Q022_manual_1.png"
+  ]
+ },
+ "P7523-Q023": {
+  "motivo": "o diagrama do fluxo de energia (recortado à mão da página 8, Q022_manual_1.png) e seu texto, base das questões 22 e 23, estavam depois da alternativa E da questão 21 / figura descartada",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Diagrama para as questões 22 e 23**\n\nO diagrama abaixo representa, de forma esquemática e simplificada, a distribuição da energia proveniente do Sol sobre a atmosfera e a superfície terrestre. Na área delimitada pela linha tracejada, são destacados alguns processos envolvidos no fluxo de energia na atmosfera.\n\n{{imgx:1}}\n\nRaymong A. Serway e John W. Jewett. Principios de Física, v. 2, fig. 18.12 (com adaptações).\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2008/P7523/img/Q022_manual_1.png"
+  ]
+ },
+ "P7523-Q034": {
+  "motivo": "o texto e o gráfico de café (imagem 2), colados na alternativa E, são a base das questões 35 e 36",
+  "alt_sub": {
+   "E": [
+    "(?s)\\s*\\*\\*Gráfico\\ para\\ as\\ questões\\ 35\\ e\\ 36\\*\\*.*$",
+    ""
+   ]
+  },
+  "remove_imagens": [
+   2
+  ]
+ },
+ "P7523-Q035": {
+  "motivo": "o gráfico de produção de café (base das questões 35 e 36) estava colado na alternativa E da questão 34; conferido no recorte da página 11",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Gráfico para as questões 35 e 36**\n\nNo gráfico a seguir, estão especificados a produção brasileira de café, em toneladas; a área plantada, em hectares (ha); e o rendimento médio do plantio, em kg/ha, no período de 2001 a 2008.\n\n{{imgx:1}}\n\nFonte: IBGE\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2008/P7523/img/Q034_img2.png"
+  ]
+ },
+ "P7523-Q036": {
+  "motivo": "o gráfico de produção de café (base das questões 35 e 36) estava colado na alternativa E da questão 34; conferido no recorte da página 11",
+  "statement_sub": [
+   [
+    "\\A",
+    "**Gráfico para as questões 35 e 36**\n\nNo gráfico a seguir, estão especificados a produção brasileira de café, em toneladas; a área plantada, em hectares (ha); e o rendimento médio do plantio, em kg/ha, no período de 2001 a 2008.\n\n{{imgx:1}}\n\nFonte: IBGE\n\n"
+   ]
+  ],
+  "imagens_extra": [
+   "_banco/questoes/ENEM/2008/P7523/img/Q034_img2.png"
   ]
  }
 }
